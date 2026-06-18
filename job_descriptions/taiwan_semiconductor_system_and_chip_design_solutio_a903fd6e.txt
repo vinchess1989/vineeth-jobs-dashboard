@@ -1,0 +1,160 @@
+Title: System and Chip Design Solutions Engineer
+Company: Taiwan Semiconductor Manufacturing Company Limited
+Location: Taiwan
+URL: https://careers.tsmc.com/en_US/careers/JobDetail?jobId=516&source=External%2BCareer%2BSite
+Posted: 2026-03-17
+Deadline: Open until filled
+Reason: The job is a technical engineering role at TSMC's system and chip design solutions development division in Taiwan, fitting the semiconductor/VLSI/EDA criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Cookie Settings
+
+We use Cookies to improve your user experiences.
+
+You may disable non-essential cookies but this could potentially impact your experience and interfere with website features and customizations. For more information, please read our Cookie Policy.
+
+Accept All
+Only Necessary
+Cookie Settings
+Skip to content
+Careers
+Search Jobs
+Events
+Explore Your Career
+Meet TSMC
+English
+Sign In
+System and Chip Design Solutions Engineer
+Company
+Taiwan Semiconductor Manufacturing Company Limited
+Location
+Taiwan
+Career Area
+IC Design Technology
+Job Type
+Engineer / Admin
+Employment Type
+Regular
+Posted
+Mar 17, 2026
+Established in 1987 and headquartered in Taiwan, TSMC pioneered the pure-play foundry business model with an exclusive focus on manufacturing its customers’ products. As of 2024, TSMC serves more than 500 customers and manufactures over 11,000 products for high-performance computing, smartphones, the Internet of Things (IoT), automotive, and digital consumer electronics. It is the world’s largest provider of logic ICs, with an annual capacity of over 17 million 12-inch equivalent wafers in 2025. TSMC operates fabs in Taiwan as well as manufacturing subsidiaries in Washington State, Japan and China, and the Company began construction on a specialty technology fab in Dresden, Germany, in 2024. In Arizona, TSMC is building three fabs, with the first starting 4nm production in 2025, the second by 2028, and the third by the end of the decade.
+In R&D, Design and Technology Platform (DTP) provides differentiated and world-leading design solutions to enable the implementation of System on Chip (SoC) for leading AI/HPC, communication, automotive and IoT applications on TSMC's diverse silicon and packaging technology platform. We work with the world's leading SoC design teams and ecosystem experts to promote industry-leading process design kits (PDKs) and reusable design blocks for the semiconductor intellectual property core (IP), including standard cell libraries, embedded memory, general-purpose input/output (GPIO), simulation and interface IP, as well as electronic design automation (EDA) tools and design flows for monolithic SoCs and heterogeneous 3DICs. This allows us to accelerate the process of transforming innovation into silicon chips and creating revolutionary changes in daily life!
+Job Responsibilities
+Introduction to our division, System and Chip Design Solutions Development Division.
+ 
+We are digital implementation team inside TSMC. Our mission is to integrate latest process technology with most updated commercial design content (CPU, GPU, DSP, etc.) to demonstrate expected performance, power, and area (PPA) improvement. Our results and developed flows are references for worldwide 1st tier design houses.
+
+
+Job scope covered by our division:
+
+
+1. Technology related benchmark & design methodology development.
+
+
+To understand PPA of TSMC’s new technology and explore possible applications, benchmark activities are conducted. And upon results, technology refinement opportunity to achieve “Design-Technology Co-Design” (DTCO) concept would be explored and tested. Through these benchmark activities, we are also in charge of developing design methodology needed for new process technology.
+
+
+2. System design & yield learning.
+
+
+Our division has the only system design team in TSMC. System-level architectures of all test chips in TSMC are developed and defined by our division. Additionally, we have dedicated team for “design-for-test” and “design-for-diagnosis” methodology. This is to ensure defects of test chips can be well detected, located, and analyzed. Related results are critical for yield learning and enhancement for TSMC.
+
+
+3. Test chip implementation & flow issue solving.
+
+
+To have design flow (from RTL to GDS) for latest technology truly verified and pipe-cleaned based on product-like design content and spec., real test chip implementation is needed for TSMC. This is also critical for yield learning and improvement. Implementation of such test chip is one of division’s major charter. Comparing to other test chip implementation teams in TSMC, test chips owned by us is most “product-like”. This is to trigger issues that are design and spec. dependent. During implementation stages, we need to analyze and solve these issues so that when customers are using related technology, solutions are well prepared.
+
+
+4. Support to 1st-tier customers for adopting TSMC’s advanced technology.
+
+
+When customers are adopting TSMS’s new technologies, they would encounter technical issues not experienced before. Support from TSMC is highly expected to ensure on-schedule project execution. In TSMC, our division is the only team that have experience on integrating latest technology and product-level design content. Thus, we are responsible for providing such services in forms of technical consultant, on-site case debugging, or utility development.
+
+
+Organization of our division & recruiting departments:
+
+
+1. Our division, SCDSD, is under Design and Technology Platform (DTP). SCDSD currently have ~150 members distributed in offices at Hsinchu (Taiwan), San Jose (U. S.), and Nanjing (China). Yokohama office is now under planning. Our division work like a mini design house covering all design stages from systemlevel definition to GDS tape-out. Thus, all design stages for digital implementation are covered. (ex: system design, RTL coding, synthesis, DFT, MBIST, verification, PG network design, floorplan, place, CTS, route, timing analysis, power analysis, physical verification, CAD support, etc.)
+
+
+2.For this job position, we are recruiting talents for below three departments on Hsinchu site. Below are brief introductions to job scopes of these three departments.
+
+
+Test Chip Development Department:
+
+
+1. FE implementation and related flow development, covering stages of system-level design, RTL coding, verification, DFT, MBIST, and synthesis.
+2. Architecture & methodology development for “design-for-test (DFT)” and “design-for-diagnosis”, focusing on yield learning purpose.
+3. Architecture & methodology development for silicon correlation.
+
+
+Test Chip Physical Design Department:
+
+
+1. BE implementation and related flow development, covering stages of chip-level planning, PG network design, floorplan, place, CTS, route, power analysis (PDNA sign-off), and physical verification.
+2. Design methodology and related CAD utility development for BE implementation, especially for solving issues triggered by new technology. Additionally, we also develop utilities for customer support purpose.
+3. Technology benchmark to understand PPA of new technologies.
+
+
+Chip Implementation CAD:
+
+
+1. Flow development for RC extraction, timing analysis, and timing fixing
+2. CAD platform development for design stage integration, design kits management, and design DB management
+3. CAD/EDA development in general for solving all kinds of design issues
+Job Qualifications
+Expected expertise or technical skills expected:
+ 
+1. Digital implementation concept in general. Familiar w/i. at least one of below design stages for digital implementation.
+2. System design, RTL coding, synthesis, DFT, MBIST, verification, PG network design, floorplan, place, CTS, route, timing analysis, power analysis, and physical verification.
+3. Linux operation capability.
+
+
+Scripting and/or programming skill:
+
+
+1. Knowledge to EDArelated algorithm is nice to have but not necessary.
+
+
+
+
+#LI-DNI
+TSMC Core Values
+At TSMC, we invite talented individuals who share our vision and values to contribute to our continued success. Our core values are the foundation of our culture, guiding every decision and action. We seek applicants who deeply resonate with these principles and embody them in their work: 
+Integrity: Tell the truth. We do not brag. We do not make commitments lightly. Once we make a commitment, we devote ourselves completely to meeting that commitment.
+Commitment: Employees are dedicated to the company, view the company’s success as their own and work diligently to make their best contributions. As commitment is mutual, the Company strives to serve the best interests of its employees. 
+Innovation: Innovation is the wellspring of the Company's growth. It means more than new ideas; it means putting ideas into practice. 
+Customer Trust: We strive to build deep and enduring relationships with our customers, who trust and rely on us to be part of their success over the long term.
+ (For more details on TSMC’s Core Values, please visit：https://www.tsmc.com/english/aboutTSMC/values)
+Fostering a global inclusive workplace reflects TSMC’s core values and business philosophy and is essential for our future success. Our commitment to global inclusive workplace allows us to create an environment where every employee, regardless of gender, age, disability, religion, race, ethnicity, nationality, political affiliation, or sexual orientation, can bring their unique perspective and experiences to work, enabling us to drive profitability, increase productivity, and unleash innovation. We strive to create a workplace that is equitable and accessible to all employees. We are committed to fostering an inclusive culture where every employee feels valued and empowered to contribute to our mission and provide excellent service to our global customers.
+ Back to job list
+Apply
+
+Share
+
+Email
+Facebook
+LinkedIn
+X
+Latest Job Openings
+登錄台積人才庫 Register your profile on TSMC Talent Pool
+人力資源一年期約聘助理 - 身心障礙人才招募
+Accounting Associate
+Demand Analyst/Manager – PC/Server
+Manager, Digital Transformation & AI
+Legal Notice & Trademark Information
+|
+Privacy Policy
+|
+Privacy Notice
+|
+Cookie Settings
+|
+Cookie Policy
+|
+Site Map
+Copyright © TSMC - Taiwan Semiconductor Manufacturing Company Limited, All Rights Reserved.
