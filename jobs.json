@@ -23868,5 +23868,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Senior PC Board Design Engineer",
+    "company": "AMD",
+    "location": "Austin, Texas, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/87085?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a match for technical expertise, but it's located in Austin, Texas and explicitly requires US residency. This violates the location work model requirement of being in Finland, Europe; India/Asia; or UK (England, Scotland, Ireland).",
+    "id": "2dc70bea",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Process Integration Engineer (m/f/d)",
+    "company": "European Semiconductor Manufacturing Company (ESMC)",
+    "location": "Germany-Dresden",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16027&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches location criteria (Germany-Dresden) and domain (Process Integration Engineer with semiconductor experience)",
+    "id": "07af5abe",
+    "source": "tsmc_careers",
+    "posted_date": "2026-10-27",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/european_semiconduct_process_integration_engineer___07af5abe.txt"
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Integration-Engineer-m-f-d%2F16027",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Process Integration Engineer at TSMC with 15+ years of experience in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "id": "211426c6",
+    "source": "tsmc_careers",
+    "posted_date": "2023-06-18",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_linkedin_211426c6.txt"
   }
 ]
