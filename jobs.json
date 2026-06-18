@@ -26934,5 +26934,47 @@
     "posted_date": "2023-06-12",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Staff Engineer, Digital Design Engineering (AI/ML)",
+    "company": "Analog Devices",
+    "location": "Chandler, AZ",
+    "url": "https://www.linkedin.com/jobs/view/staff-engineer-digital-design-engineering-ai-ml-at-analog-devices-4400121459",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role requires AI/ML expertise to improve digital design automation and productivity, which aligns well with the target domains of Power Integrity (PI) / Signal Integrity (SI), CAD/Methodology, and EDA Tools. However, it does not explicitly mention experience in power integrity or advanced packaging, which are other key focus areas.",
+    "id": "1df0ecdc",
+    "source": "linkedin_eda_ww",
+    "posted_date": "2023-05-02",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Summer/Fall 2026 - Circuit Design Research Intern(7339)",
+    "company": "TSMC Technology, Inc.",
+    "location": "San Jose, California, USA",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19314&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "Internship at TSMC with PhD specialization required, fits domain expertise criteria for circuit design research.",
+    "id": "40cc3bce",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-27",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSummer-Fall-2026-Circuit-Design-Research-Intern-7339%2F19314",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is an internship focused on circuit design research, which does not match the technical domains of power integrity, advanced packaging, or EDA/CAD methodology.",
+    "id": "446fb2b0",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-12",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
