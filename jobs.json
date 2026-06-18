@@ -22132,5 +22132,33 @@
     "posted_date": "2023-06-08",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Digital Design Engineer",
+    "company": "TSMC Europe B.V",
+    "location": "Germany-Munich",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16488&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is focused on non-volatile memory design, which does not directly match the target domains of Power Integrity, Advanced Packaging, or EDA CAD.",
+    "id": "7672cf94",
+    "source": "tsmc_careers",
+    "posted_date": "2026-05-11",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDigital-Design-Engineer%2F16488",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "id": "5524e1ef",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
