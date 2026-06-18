@@ -20802,5 +20802,61 @@
     "posted_date": "2023-06-12",
     "deadline": "N/A",
     "description_file": "job_descriptions/applied_materials_in_system_qualification_engineer_1e73d7ea.txt"
+  },
+  {
+    "title": "Digital Design Verification Engineer | Precision ADC",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://www.indeed.com/viewjob?jk=a1b2c3d4e5f67890",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description page is empty with an error message indicating it doesn't exist.",
+    "id": "5372ebd5",
+    "source": "indeed_semi_ww",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Office Administrator",
+    "company": "TSMC Europe B.V",
+    "location": "Germany-Munich",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21837&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is an administrative office role, not a technical engineering or leadership position related to semiconductor, VLSI, EDA work.",
+    "id": "e85ab388",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-02",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FOffice-Administrator%2F21837",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting URL provided does not lead to a valid job listing page with required details like posted date, application deadline, company name, and location. It appears to be a LinkedIn redirect link without specific job information.",
+    "id": "433bc975",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Process Integration Engineer (PIE)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5436&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is located in Taiwan, which does not match the priority regions of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "id": "136a9e47",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-24",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
