@@ -16784,5 +16784,47 @@
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Technical Release Lead (Data Center GPU)",
+    "company": "AMD",
+    "location": "Austin, Texas, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/87083?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is in Austin, Texas, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or Asia.",
+    "id": "1c8dc904",
+    "source": "amd_careers",
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u8a9e\u8a00\u5c08\u624d",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+    "location": "Taipei, Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21849&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This position does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology in the semiconductor/VLSI/EDA field. It is a general Technical role focused on language skills at TSMC's Taiwan HQ.",
+    "id": "fdc150a0",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-03",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21849",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a US citizen with active security clearance, which is a hard rejection per requirements.",
+    "id": "07d7d0ce",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
