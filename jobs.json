@@ -24176,5 +24176,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Intelligent Manufacturing Engineer (IMC/MFG)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5439&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is specific to TSMC's manufacturing operations and does not match our technical domains in semiconductor, VLSI, EDA, or engineering leadership.",
+    "id": "955f6b9f",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-24",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-IMC-MFG%2F5439",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job URL is invalid, preventing a full evaluation of the posting.",
+    "id": "bcdaf4a1",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "ESMC - Warehouse Specialist / Fachlagerist (m/w/d)",
+    "company": "European Semiconductor Manufacturing Company (ESMC) GmbH",
+    "location": "Germany-Dresden",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21832&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical warehouse specialist role, not an engineering/technical position.",
+    "id": "da8e195a",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-01",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FESMC-Warehouse-Specialist-Fachlagerist-m-w-d%2F21832",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job URL leads to a LinkedIn login screen without any actual job details, so cannot evaluate against the criteria.",
+    "id": "5d7dbb1e",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
