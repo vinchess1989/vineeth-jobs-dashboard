@@ -103,6 +103,20 @@ SEARCH_SITES = [
     {"id": "yc_semi", "platform": "yc", "url": "https://www.workatastartup.com/jobs?query=semiconductor"},
     {"id": "wellfound_semi", "platform": "wellfound", "url": "https://wellfound.com/role/r/semiconductor-engineer"},
     {"id": "builtin_semi", "platform": "builtin", "url": "https://builtin.com/jobs?search=semiconductor"},
+
+    # European / UK / Finland Specific
+    {"id": "linkedin_semi_eu", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=European%20Union&sortBy=DD"},
+    {"id": "linkedin_semi_uk", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=United%20Kingdom&sortBy=DD"},
+    {"id": "linkedin_semi_finland", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=Finland&sortBy=DD"},
+    {"id": "ic_resources", "platform": "ic_resources", "url": "https://ic-resources.com/en/jobs/semiconductor"},
+    {"id": "euro_engineer_jobs", "platform": "euro_engineer_jobs", "url": "https://www.euroengineerjobs.com/jobs/semiconductor"},
+    {"id": "jobly_fi_engineer", "platform": "jobly", "url": "https://www.jobly.fi/tyopaikat?search=engineer"},
+    {"id": "work_in_finland", "platform": "work_in_finland", "url": "https://www.workinfinland.com/en/open-jobs/?industry=engineering"},
+
+    # Reddit Startups & Freelance
+    {"id": "reddit_chipdesign", "platform": "reddit", "url": "https://old.reddit.com/r/chipdesign/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
+    {"id": "reddit_ece", "platform": "reddit", "url": "https://old.reddit.com/r/ECE/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
+    {"id": "reddit_hwstartups", "platform": "reddit", "url": "https://old.reddit.com/r/hwstartups/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
 ]
 
 
@@ -142,6 +156,36 @@ def parse_linkedin(soup):
                 "company": company_elem.text.strip() if company_elem else "Unknown",
                 "location": location_elem.text.strip() if location_elem else "Unknown",
                 "url": url_elem['href'].split('?')[0],
+                "visited": "no",
+                "matches_requirements": "pending",
+                "reason": ""
+            })
+    return jobs
+
+
+def parse_reddit(soup):
+    """Parse old.reddit.com search results page."""
+    jobs = []
+    # Old reddit search results use class 'search-result'
+    for post in soup.find_all('div', class_='search-result'):
+        title_elem = post.find('a', class_='search-title')
+        subreddit_elem = post.find('a', class_='search-subreddit-link')
+        
+        if title_elem:
+            title = title_elem.text.strip()
+            title_lower = title.lower()
+            if any(kw in title_lower for kw in BLOCKED_TITLE_KEYWORDS):
+                continue
+                
+            url = title_elem.get('href', '')
+            if url and not url.startswith('http'):
+                url = 'https://old.reddit.com' + url
+                
+            jobs.append({
+                "title": title,
+                "company": subreddit_elem.text.strip() if subreddit_elem else "Reddit",
+                "location": "Global / Remote / See Post",
+                "url": url.split('?')[0],
                 "visited": "no",
                 "matches_requirements": "pending",
                 "reason": ""
@@ -468,6 +512,8 @@ def scrape_all_jobs(max_jobs=200):
 
                 if target['platform'] == 'linkedin':
                     jobs = parse_linkedin(soup)
+                elif target['platform'] == 'reddit':
+                    jobs = parse_reddit(soup)
                 elif target['platform'] == 'naukri':
                     jobs = parse_naukri(soup)
                 else:
@@ -799,6 +845,11 @@ def extract_location_from_text(text):
         'Penang': 'Penang, Malaysia', 'Dresden': 'Dresden, Germany',
         'Sophia Antipolis': 'Sophia Antipolis, France',
         'Grenoble': 'Grenoble, France', 'Cambridge': 'Cambridge, UK',
+        'Bristol': 'Bristol, UK', 'Edinburgh': 'Edinburgh, UK',
+        'London': 'London, UK', 'Espoo': 'Espoo, Finland',
+        'Tampere': 'Tampere, Finland', 'Oulu': 'Oulu, Finland',
+        'Helsinki': 'Helsinki, Finland', 'Turku': 'Turku, Finland',
+        'Dublin': 'Dublin, Ireland', 'Cork': 'Cork, Ireland',
         'Tokyo': 'Tokyo, Japan', 'Yokohama': 'Yokohama, Japan',
         'Shenzhen': 'Shenzhen, China', 'Shanghai': 'Shanghai, China',
         'Beijing': 'Beijing, China', 'Tel Aviv': 'Tel Aviv, Israel',
@@ -1205,6 +1256,22 @@ def poll_firebase_feedback():
                     requests.patch(update_url, json=payload, timeout=10)
                 continue
 
+
+            if feedback_type == "applied_update":
+                new_status = fields.get("applied", {}).get("stringValue", "no")
+                url_field = fields.get("url", {}).get("stringValue", "")
+                if url_field:
+                    if 'applied_updates' not in locals():
+                        applied_updates = {}
+                    applied_updates[url_field] = new_status
+                
+                # Update status to "read"
+                if doc_name:
+                    update_url = f"https://firestore.googleapis.com/v1/{doc_name}?updateMask.fieldPaths=status"
+                    payload = {"fields": {"status": {"stringValue": "read"}}}
+                    requests.patch(update_url, json=payload, timeout=10)
+                continue
+
             reason = fields.get("reason", {}).get("stringValue", "")
 
             if reason and reason.strip():
@@ -1230,6 +1297,24 @@ def poll_firebase_feedback():
                     for rule in new_positive_rules:
                         f.write(f"- POSITIVE CONSTRAINT: The user explicitly approved a previous job because: '{rule}'. Make sure to MATCH jobs that have this characteristic.\n")
             print(f"INFO: Successfully updated job_requirements.md with {len(new_positive_rules)} positive and {len(new_negative_rules)} negative rules!")
+
+
+        if locals().get('applied_updates'):
+            try:
+                if os.path.exists(JOBS_FILE):
+                    with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+                        jobs = json.load(f)
+                    changed = False
+                    for j in jobs:
+                        if j.get('url') in applied_updates:
+                            j['applied'] = applied_updates[j['url']]
+                            changed = True
+                    if changed:
+                        with open(JOBS_FILE, 'w', encoding='utf-8') as f:
+                            json.dump(jobs, f, indent=2)
+                    print(f"INFO: Successfully synced applied status for {len(applied_updates)} jobs from the cloud.")
+            except Exception as e:
+                print(f"Error syncing applied status: {e}")
 
         if user_review_updates:
             try:
