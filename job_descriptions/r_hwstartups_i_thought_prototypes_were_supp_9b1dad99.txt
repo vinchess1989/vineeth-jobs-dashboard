@@ -1,0 +1,398 @@
+Title: I thought prototypes were supposed to reveal problems. Mine mostly hid them
+Company: r/hwstartups
+Location: Global / Remote / See Post
+URL: https://old.reddit.com/r/hwstartups/comments/1t6daef/i_thought_prototypes_were_supposed_to_reveal/
+Posted: 2026-05-07
+Deadline: Open until filled
+Reason: The job involves technical work in VLSI/EDA, and is located in Finland, which matches the target regions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+jump to content
+MY SUBREDDITS
+POPULAR-ALL-USERS | ASKREDDIT-PICS-FUNNY-MOVIES-GAMING-WORLDNEWS-NEWS-TODAYILEARNED-NOTTHEONION-EXPLAINLIKEIMFIVE-MILDLYINTERESTING-DIY-VIDEOS-OLDSCHOOLCOOL-EUROPE-TWOXCHROMOSOMES-TIFU-MUSIC-BOOKS-LIFEPROTIPS-DATAISBEAUTIFUL-AWW-SCIENCE-SPACE-SHOWERTHOUGHTS-ASKSCIENCE-JOKES-ART-IAMA-FUTUROLOGY-SPORTS-UPLIFTINGNEWS-FOOD-NOSLEEP-CREEPY-HISTORY-GIFS-INTERNETISBEAUTIFUL-GETMOTIVATED-GADGETS-ANNOUNCEMENTS-WRITINGPROMPTS-PHILOSOPHY-DOCUMENTARIES-EARTHPORN-PHOTOSHOPBATTLES-LISTENTOTHIS-SUOMI-BLOG
+MORE »
+reddit.com hwstartupscomments
+Want to join? Log in or sign up in seconds.
+this post was submitted on 07 May 2026
+24 points (94% upvoted)
+shortlink: 
+Submit a new link
+Submit a new text post
+hwstartups
+join
+
+Welcome to the Hardware Startups sub-Reddit! We want to be the Hacker News of hardware. Feel free to post on anything that you think will interest anyone in the community: hardware news, prototyping/manufacturing how-to, all questions, success stories, physical Kickstarter pages, AMA's, etc.
+
+Some Hardware Resources:
+
+Map of Hardware Startups
+
+Map of Hardware Startup Meetups
+
+@HWStartups Twitter Bot
+
+Hardware RSS Feeds for gReader
+
+Make: Skill Builder
+
+Sub-Reddits:
+
+r/Engineering
+r/Hardware
+r/Startups
+r/Entrepreneur
+r/Product_Design
+r/NewProducts
+r/AskEngineers
+r/CAD
+r/Electronics
+r/BreadBoard
+r/PrintedCircuitBoard
+r/ECE
+r/TheAmpHour
+r/DIY
+r/Robotics
+r/Metalworking
+r/VentureBiotech
+
+Web Resources:
+
+Core77.com
+ProductDesignForums.com
+Forums.MakeZine.com
+Forum.SparkFun.com
+Forum.Adafruit.com
+Eng-Tips.com
+EngineersEdge.com
+CNCZone.com
+SME Production Videos
+Startup / Hardware / Tech Resource List
+Making Society
+Upverter Forum
+
+Events:
+
+San Francisco Hardware Startup Meetup
+Solid State Startups (Mountain View, CA)
+
+Berkeley, CA Hardware Startup Meetup
+
+NY Hardware Startup Meetup
+Peninsula Product Design (Redwood City, CA)
+
+Toronto Hardware Startup Meetup
+Hardware.co (Berlin / Munich)
+
+Bay Area Modular Electronics Meetup
+
+Accelerators:
+
+LemnosLabs
+
+HAXLR8R
+Bolt
+
+Highway1
+AlphaLab Gear
+Shenzhen Valley Ventures
+a community for 13 years
+MODERATORS
+MESSAGE THE MODS
+discussions in r/hwstartups
+<>
+X
+12 · 10 comments
+[RAFFLE] From Prototype to Production: We’re giving away $250 in 3D printing credits to unblock your hardware startup's biggest bottleneck.
+Welcome to Reddit.
+
+Come for the cats, stay for the empathy.
+
+BECOME A REDDITOR
+
+and start exploring.
+
+×
+
+24
+
+I thought prototypes were supposed to reveal problems. Mine mostly hid them (self.hwstartups)
+
+submitted 1 month ago by Unable_Fishing_1679
+
+Not trying to rant about my supplier here, honestly just sharing something i didn't understand before starting my own project.
+
+I recently received my prototypes after two delays, first around 40 days, second around another month. When they arrived, some details were different from the original design files I sent. After asking about it, supplier said those details were difficult to manufacturer consistently so they adjusted them during prototyping. Well I felt angry when i knew this because they didn't tell me before adjusting. They made the decision by themselves. But the strange part is the prototype still looked pretty good overall. Which made me realize something: a prototype can "work" is because people behind the scenes are compensating manually. But that doesn't necessarily mean the original design is actually production-ready.
+
+Afterwards i spoke with a few other factories and the biggest difference wasn't technical capability, it was how openly they communicated risk. Some pointed out which details may become unstable during production, which details can not be achieved and what solutions are workable. That conversation honestly changed how i view prototypes completely. I used to see a successful samples as proof. Now it feels more like a controlled demo under ideal condition.
+
+Maybe this is obvious to people with manufacturing experience already but as a first-time brand founder this was honestly a pretty uncomfortable realization lol
+
+33 commentssharesavehidereport
+all 33 comments
+sorted by: best
+Want to add to the discussion?
+
+Post a comment!
+
+CREATE AN ACCOUNT
+
+[–]diewethje 12 points 1 month ago 
+
+Part of the problem is that “prototype” is a very broad term. It’s not uncommon for companies to build 5 or more rounds of pre-production units with increasing levels of fidelity.
+
+permalinkembedsavereportreply
+
+[–]Unable_Fishing_1679[S] 2 points 1 month ago 
+
+Tbh this thread is the first time i'm realizing how loosely i was using the word "prototype". In my head, it was basically samples works equals to design validated. But now i see there are huge differences between concept validation, appearance validation, manufacturing validation, and production validation.
+
+As a first-time founder i compressed all those into one stage without realizing it
+
+permalinkembedsaveparentreportreply
+
+[–]diewethje 2 points 1 month ago 
+
+You’re not alone—I’ve worked with a lot of hardware startups, and most of them don’t know what prototyping really entails in the context of new product development.
+
+permalinkembedsaveparentreportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+And that's exactly my mistake. I treated the prototype stage like if this works, i'm validated instead of this is where assumption are supposed to break safely.
+
+Looking back, i was evaluating the prototypes mostly as a future customer would: does it look good, feel good, does it match the render...Meanwhile the manufacturing side was probably evaluating completely different things
+
+permalinkembedsaveparentreportreply
+
+[–]DreadPirate777 14 points 1 month ago 
+
+Having launched 50+ consumer electronics products the design is never ready after the first pass. The prototype is a learning tool. There are many parts to it, aesthetics, function, and manufacturability are the big ones. Working with a supplier is advantageous because they bring their knowledge that also means they will do a ton of work behind the scenes to make it work.
+
+permalinkembedsavereportreply
+
+[–]_11_ 3 points 1 month ago 
+
+Honest question, what's your op tempo look like for 50 products? Or are you counting accessories? I'm a solid way into my career and only have like 10 under my belt. Mostly regulated industries for me, so it's a slower tempo, but I'm still not on like 2-3 products a year. 
+
+permalinkembedsaveparentreportreply
+
+[–]DreadPirate777 6 points 1 month ago 
+
+For consumer electronics it’s fast and furious. Every week I would generally be working on some stage of 2-3 products. Every six months I would be checking up on factories in Dongguan, China and there would be usually 10 that I would be checking on various stages of development. Every year it would be probably be 15-ish products. They were established things like headphones and speakers. It was mainly a translation of ID to mass production. Each product had 3ish CMF but I didn’t count that. Although I have wasted a day every now and then talking down my boss who would point out that one batch of anodized samples or injected parts wasn’t quite right.
+
+Medical devices is more methodical in a multi year development. The products were similar so it would be different connectors on an established sensor so that wasn’t as bad. But the paperwork was a killer to get everything certified.
+
+Aerospace was even slower but that would be about one component per year.
+
+Startups are about trying to get a product out before running out of money. Usually six months to a year of development time is what I’ve seen while consulting.
+
+The stress for those jobs was pretty high and I think I went gray early because of it. A slower tempo makes a better product and a sustainable lifestyle.
+
+permalinkembedsaveparentreportreply
+
+[–]Unable_Fishing_1679[S] 2 points 1 month ago 
+
+This is probably the biggest mindset shift for me. I went into the process thinking prototypes were mainly to confirm the design, but it seems like they are more a stress test for assumption, especially the manufacturability side.
+
+What surprised me most is how much invisible work suppliers do behind the scenes to make the sample happen. Sometimes i don't even realize compensation is happening unless they explicitly tell
+
+permalinkembedsaveparentreportreply
+
+[–]DreadPirate777 2 points 1 month ago 
+
+That’s very well put. It is absolutely a stress test.
+
+Contract manufacturers are an amazing asset to a startup. Picking a good supplier will make or break a new product. Regardless of the quality of the idea, if it gets executed poorly it will sink the company.
+
+I’ve done the build an assembly line from scratch. It takes forever and costs way more than you would expect. The amount of help a good supplier provides is just as valuable as a round of major funding.
+
+permalinkembedsaveparentreportreply
+
+[–]Unable_Fishing_1679[S] 2 points 1 month ago 
+
+This is really important for me to understand now. Before this project i mostly viewed suppliers as the people who manufacture the design. But now i realized a really good supplier is more like an extension of the engineering team, especially because first-time founders don't even know which risks they should be paying attention to yet.
+
+What surprised me most is how differently suppliers communicate uncertainty. Some just execute requests, others talk about tolerance, consistency, repeatability, etc. This also changed how i evaluate manufacturing partners
+
+permalinkembedsaveparentreportreply
+
+[–]Liizam 6 points 1 month ago 
+
+DFM phase is where manufacturer brings up problems before design is locked and manufacturing is kicked off. 
+
+Having design changed without your approval is unacceptable. 
+
+Prototyping shops are not production shops. 
+
+I’m a new product mechanical engineer. There are several phases to getting product ready for production. Architecture phase, prototyping phase, details design phase (included dfm), first built phase. 
+
+If you don’t know what your production design looks like, what criteria for success, your prototypes are kinda useless and wasted money. 
+
+permalinkembedsavereportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+Agree. And your comment made me realize i probably skipped mentally from prototype straight to production-ready without understanding all phase in between. I think that's where a lot of newer founders get trapped.
+
+The DFM point especially is something i clearly underestimated going into this and the strange thing is seems like my current supplier didn't do that
+
+permalinkembedsaveparentreportreply
+
+[–]Liizam 1 point 1 month ago 
+
+Not every supplier will do dfm. Some shops are just prototyping shops: quick and low volume. 
+
+permalinkembedsaveparentreportreply
+
+[–]MadDonkeyEntmt 4 points 1 month ago 
+
+It's very normal to adjust things for the prototype, especially the first one, either because a particular process can't really be done at prototype volumes or because things don't work as expected. Imo, your supplier should always be communicating those changes to you both so you know what you're getting and so that you can make sure the solution is acceptable. The prototype manufacturer may not have as complete a picture of the requirements as you do so you generally don't want them going off on their own.
+
+permalinkembedsavereportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+It's true. The actual design adjustments don't bother me nearly as much anymore since i know they are much more experience than me in manufacturing. What bothered me was realizing decisions were being made that affected the final product without a proper conversation happening first
+
+permalinkembedsaveparentreportreply
+
+[–]Measurement10 5 points 1 month ago* 
+
+Were the prototypes from China? Parts have to be produced as per drawing or else they don't get paid.
+
+If they need to make changes they must be approved by you first.
+
+After years of drama we now prototype completely in house. Initially expensive but vital for long term survival.
+
+permalinkembedsavereportreply
+
+[–]Geminii27 1 point 1 month ago 
+
+Plus it's usually a far faster turnaround. You can have multiple versions and improvements in hardware in the time it would take the initial prototype to come back to you from overseas.
+
+permalinkembedsaveparentreportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+Yeah it completely changed how i think about drawings vs practical manufacturability. At first I assumed if something can't be done exactly as design, they will stop and ask me to discuss first. But the result is not. It seems like my current supplier is more for getting the sample working first and discuss later if needed. This honestly creates a dangerous false sense of security for first-time founders.
+
+The in-house prototyping point is really interesting too. I'm starting to understand why more established brands invest heavily into that even though it seems expensive upfront
+
+permalinkembedsaveparentreportreply
+
+[–]No_Educator_4077 2 points 1 month ago 
+
+For sure, my company spends a lot of time working with our customers to correct un-produceable features and help improve the overall manufacturability of parts during the prototyping phase. Communicating well with customers on this (instead of simply making something close to their parts without passing back any information) is very important to how we work.
+
+On top of that, we focus on making our prototypes as close as possible in both form and function to the final manufacturing method. We have a number of specialized materials that we 3D print (plastics and metals) that mimic the properties of molded or cast materials. This allows us to produce prototypes that can better help customers determine the effectiveness of things like living hinges, fitup areas, part flexibility, etc. The point of prototyping is to catch errors before they make it into an injection mold or other tooling, so those errors need to actually be noticeable and be communicated.
+
+permalinkembedsavereportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+You actually explain something i struggled to articulate in my post. I assumed the prototype phase was mainly about proving success, but what you are describing is almost the opposite: the prototype phase exists to expose weaknesses early enough that they're still fixable.
+
+This mindset shift alone probably would've changced how i approached the entire sampling stage
+
+permalinkembedsaveparentreportreply
+
+[–]DaimyoDavid 2 points 1 month ago 
+
+I've learned that "prototype" is a great term to use when you really want to start a company. You want to start talking about TRL levels or EVT,DVT,PVT. Engineering is a continuous process and what a startup engineer calls a prototype is different than what a consultant calls a prototype which is different from what a manufacturer calls a prototype.
+
+permalinkembedsavereportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+It has been eye-opening for me just from a terminology standpoint
+
+permalinkembedsaveparentreportreply
+
+[–]FuShiLu 2 points 1 month ago 
+
+Your issue was failed communication on terminology outside your realm. Happens a lot. People think they can wing it. Probably why legal recommendations not representing oneself.
+
+permalinkembedsavereportreply
+
+[–]Dramatic_Fault_6837 2 points 1 month ago 
+
+In a perfect world, during full production you would even do pre prod runs if you changed any part. In most cases with passives that doesn't happen, or you generally have multiple approved parts already. But changing PCB fabs for example would definitely trigger a pre production run. Pre prod would be using everything that full production would use. Then at full prod, I would still have the line hold after the first 50 or so units and test them individually at the CM.
+
+permalinkembedsavereportreply
+
+[–]Unable_Fishing_1679[S] 1 point 1 month ago 
+
+At the beginning, i thought i can move to production if prototype works. But now i'm seeing there are multiple layers of validation between these two stages, and experienced teams may treat it seriously.
+
+permalinkembedsaveparentreportreply
+
+[–]Dramatic_Fault_6837 1 point 1 month ago 
+
+And scaling up also requires checks and balances. Making 1000 a month doesn't mean making 10000 a month is just a matter of making more. It can mean new jigs, new methods...to optimize time and costs.
+
+permalinkembedsaveparentreportreply
+
+[–][deleted] 22 days ago 
+
+[removed]
+
+[–]Unable_Fishing_1679[S] 1 point 20 days ago 
+
+Totally agree! I believe you have rich experience in this industry
+
+permalinkembedsavereportreply
+
+[–]guitarman181 1 point 1 month ago 
+
+People behind the scene should not be making changes or modifications that you are not aware of or signing off on. You need to know how the part functions and how it is going to react to production.
+
+permalinkembedsavereportreply
+
+[–]Due-Tip-4022 1 point 1 month ago 
+
+Been in product development for 20 years.
+
+Prototypes are mostly overrated.
+
+Not that there us never value there, but that too many people use them for the wrong thing.
+
+What you wanted was production samples, not prototype.
+
+permalinkembedsavereportreply
+about
+blog
+about
+advertising
+careers
+help
+site rules
+Reddit help center
+reddiquette
+mod guidelines
+contact us
+apps & tools
+Reddit for iPhone
+Reddit for Android
+mobile website
+<3
+reddit premium
+
+Use of this site constitutes acceptance of our User Agreement and Privacy Policy. © 2026 reddit inc. All rights reserved.
+
+REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
+
+π 
+
+Reddit uses cookies and similar technologies to:
+
+
+Keep the website operational and running properly
+Prevent fraud and abuse
+Monitor site usage and performance metrics
+
+Reddit only uses essential cookies on old.reddit.com
+
+CONTINUE
