@@ -20858,5 +20858,61 @@
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Circuit Design Engineer",
+    "company": "LanceSoft, Inc.",
+    "location": "Austin, TX",
+    "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-at-lancesoft-inc-4426975932",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a contract position with only 12 months duration, and requires relocation to Austin, TX, which does not match the target domains.",
+    "id": "5b3361dd",
+    "source": "linkedin_asic_ww",
+    "posted_date": "2023-06-05",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Circuit Design Engineer - New College Grad 2026",
+    "company": "NVIDIA",
+    "location": "California, United States",
+    "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-new-college-grad-2026-at-nvidia-4418521923",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This entry level position at NVIDIA does not match the experienced technical leader profile sought.",
+    "id": "e05e4ccf",
+    "source": "linkedin_asic_ww",
+    "posted_date": "2023-06-18",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Financial Specialist, Financial Planning Department",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=319&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a financial specialist position, which does not fit the semiconductor/VLSI/EDA technical domain.",
+    "id": "3aa3bbf8",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFinancial-Specialist-Financial-Planning-Department%2F319",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical role (Financial Specialist) at a semiconductor company, which does not meet our engineering/technical requirements.",
+    "id": "be0ad3a7",
+    "source": "tsmc_careers",
+    "posted_date": "2023-06-18",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
