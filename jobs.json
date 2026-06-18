@@ -23812,5 +23812,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Administrative Specialist",
+    "company": "AMD",
+    "location": "Austin, Texas, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/86024?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is an administrative specialist position at AMD, which is a non-technical role and therefore does not match the requirements for semiconductor/VLSI/EDA roles.",
+    "id": "869157ea",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Staff Engineer- PPATHyderabad, Telangana, IndiaSoftware EngineeringPosted 25 days ago",
+    "company": "Qualcomm India Private Limited",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://careers.qualcomm.com/careers/job/446716071861?sortBy=relevance",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Not a match for Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology roles. It's a software engineering position at Qualcomm in India.",
+    "id": "8b79a131",
+    "source": "qualcomm_careers",
+    "posted_date": "2023-06-18",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FMarket-Analyst-Marketing-Manager-IoT-Digital-Consumer-Electronics%2F19489",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "id": "01936b29",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
