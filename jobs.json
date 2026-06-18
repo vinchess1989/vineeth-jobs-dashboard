@@ -22762,5 +22762,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "FPGA Engineer",
+    "company": "Susquehanna International Group",
+    "location": "Bala-Cynwyd, PA",
+    "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-susquehanna-international-group-4406714879",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a software engineering role at a financial trading firm, not related to VLSI/EDA/semiconductor domains.",
+    "id": "e14ffd64",
+    "source": "linkedin_fpga_ww",
+    "posted_date": "2023-06-07",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "RFIC Design Engineer III - TeraWave",
+    "company": "TeraWave",
+    "location": "San Jose, CA, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=c153e5797fa26042",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for RFIC Design, which does not match the primary target domains of Power Integrity (PI), Advanced Packaging, CAD Methodology, and SoC PDN Sign-off in Vineeth's background.",
+    "id": "10a1b13a",
+    "source": "indeed_semi_ww",
+    "posted_date": "2023-06-18",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "RFIC Design Engineer III - TeraWave salaries in Seattle, WA",
+    "company": "Contech Engineered Solutions",
+    "location": "Extract from page",
+    "url": "https://www.indeed.com/career/senior-design-engineer/salaries/Seattle--WA?campaignid=serp-more&fromjk=c153e5797fa26042&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Senior Design Engineer specializing in RFIC design, which does not match the required focus on Power Integrity, Advanced Packaging, and related semiconductor/VLSI/EDA areas.",
+    "id": "ef4309c0",
+    "source": "indeed_semi_ww",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
