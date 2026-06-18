@@ -21334,5 +21334,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "CPU Cores Validation Senior Staff Engineer",
+    "company": "AMD",
+    "location": "Fort Collins, Colorado, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/86839?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Senior Staff Engineer role with 15+ years experience in validation of microprocessors/ASICs, fitting the technical domains and seniority level.",
+    "id": "e4c5e757",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_cpu_cores_validation_senior_st_e4c5e757.txt"
+  },
+  {
+    "title": "Senior Engineer, Layout LeadSingapore, SingaporePosted 2 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/41687884",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is more focused on mechanical layout and tool movements, while the target job search requirements are for semiconductor power integrity, advanced packaging thermal analysis, or EDA CAD methodology roles.",
+    "id": "3d3c146b",
+    "source": "micron_careers",
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
