@@ -15734,5 +15734,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Engineer, DEG LayoutBengaluru, Karnataka, IndiaPosted a month ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://micron.eightfold.ai/careers/job/41282959",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a layout design role focused on DEG (Die-to-Die) layouts, which does not match the Power Integrity / Advanced Packaging / CAD Methodology focus of the target job criteria.",
+    "id": "ea3062a6",
+    "source": "micron_careers",
+    "posted_date": "2023-06-18",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "IT Software Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=461&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is an IT Software Engineer position at TSMC's headquarters in Taiwan, which doesn't match the target domains of Power Integrity/SI/Advanced Packaging/CAD/VLSI/SoC Design/EDA Tools/VLSI/SoC Design/Engineering Leadership.",
+    "id": "6a3616d3",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Software-Engineer%2F461",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an intern position which does not meet the senior leadership experience requirement.",
+    "id": "f5fe91b9",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
