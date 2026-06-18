@@ -26836,5 +26836,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Engineer, ASIC Physical Design",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/engineer-asic-physical-design-micron-technology-JV_IC1142551_KO0,29_KE30,47.htm?jl=1010150525606",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves ASIC physical design, which is a match to one of our domains. However, it's unclear if the candidate's background in Power Integrity and Advanced Packaging would be directly applicable for this role. More details are needed.",
+    "id": "76a0bad4",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "2026-06-30",
+    "description_file": null
+  },
+  {
+    "title": "physical design engineer jobs in Minneapolis, MN",
+    "company": "Boston Scientific",
+    "location": "Minneapolis, MN, USA",
+    "url": "https://www.glassdoor.com/Job/minneapolis-physical-design-engineer-jobs-SRCH_IL.0,11_IC1142551_KO12,36.htm",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Manufacturing Engineer III role in Minneapolis, which does not match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, etc.",
+    "id": "13c59abc",
+    "source": "glassdoor_semi",
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Micron Technology jobs in Minneapolis, MN",
+    "company": "Extract from page",
+    "location": "Minneapolis, MN, USA",
+    "url": "https://www.glassdoor.com/Job/minneapolis-micron-technology-jobs-SRCH_IL.0,11_IC1142551_KO12,29.htm",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting does not specify Micron Technology as the hiring company, and it is a search results page for Minneapolis technology jobs. It does not match the criteria for a specific semiconductor/VLSI/EDA role at an identified company.",
+    "id": "965b192e",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Reticle Equipment Engineer",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/senior-reticle-equipment-engineer-micron-technology-JV_IC1127927_KO0,33_KE34,51.htm?jl=1010165722408",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Reticle Equipment Engineer, which does not fit within the semiconductor/VLSI/EDA domain focus of the job search.",
+    "id": "4e599571",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
