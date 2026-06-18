@@ -756,8 +756,7 @@
         });
 
         function fetchJobsData() {
-            // TODO: Replace with your actual GitHub Pages URL
-            fetch('https://YOUR_GITHUB_USERNAME.github.io/vineeth-jobs-dashboard/jobs.json?nocache=' + new Date().getTime())
+            fetch('https://vinchess1989.github.io/vineeth-jobs-dashboard/jobs.json?nocache=' + new Date().getTime())
                 .then(response => {
                     const lastMod = response.headers.get('Last-Modified');
                     return response.json().then(data => ({ data, lastMod }));
