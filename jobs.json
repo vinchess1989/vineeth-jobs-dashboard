@@ -23168,5 +23168,33 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Equity Research Analyst - Single Manager Fund",
+    "company": "Selby Jennings",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-single-manager-fund-at-selby-jennings-4430466036",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical finance role, not related to semiconductor/VLSI/EDA",
+    "id": "429bd62b",
+    "source": "linkedin_semi_ww",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSafety-and-Health-Assistant-Engineer%2F19474",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "id": "24e314a2",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
