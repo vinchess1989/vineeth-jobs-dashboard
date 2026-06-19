@@ -36916,5 +36916,61 @@
     "posted_date": "2026-06-12",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Quantum Device Engineer",
+    "company": "Albatronyx",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/quantum-device-engineer-at-albatronyx-4429678735",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role focuses on quantum device engineering, characterization, and fabrication rather than semiconductor VLSI EDA.",
+    "id": "f9e530ef",
+    "source": "linkedin_semi_india",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Staff ASIC Design Engineer",
+    "company": "Axiado Corporation",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://in.linkedin.com/jobs/view/staff-asic-design-engineer-at-axiado-corporation-4414290264",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role fits a Senior Engineer position with 7+ years of experience in RTL logic design, SoC integration, and micro-architecture optimization. Axiado is a semiconductor startup in Hyderabad.",
+    "id": "e61c188f",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2026-05-18",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axiado_corporation_staff_asic_design_engineer_e61c188f.txt"
+  },
+  {
+    "title": "Engineering Specialist",
+    "company": "Silicon Patterns",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/engineering-specialist-at-silicon-patterns-4417468005",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is an Associate level Engineering Specialist role at a software engineering startup, which does not match the senior leadership technical roles we are looking for.",
+    "id": "7299858b",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2023-04-13",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Principal Logic Design Engineer",
+    "company": "Rambus",
+    "location": "Hillsboro, OR",
+    "url": "https://www.linkedin.com/jobs/view/principal-logic-design-engineer-at-rambus-4416846855",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a Principal Engineer position which matches the target criteria for senior leadership roles.",
+    "id": "3430567f",
+    "source": "linkedin_rtl_ww",
+    "posted_date": "2023-06-15",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
