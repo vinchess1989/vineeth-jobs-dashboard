@@ -30532,5 +30532,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "IT Data Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=536&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an IT Data Engineer position, which does not match the VLSI/EDA technical domains of interest.",
+    "id": "b9d1441a",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Data-Engineer%2F536",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role (Data Engineer) at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "id": "c7b389f6",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
