@@ -27634,5 +27634,33 @@
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "IT UI/UX Designer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5400&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a UI/UX designer position, which does not match the technical domains of semiconductor/VLSI/EDA.",
+    "id": "bf2a858c",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-UI-UX-Designer%2F5400",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical UX designer role at TSMC, which does not fit the semiconductor/VLSI/EDA technical profile.",
+    "id": "dd48e034",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
