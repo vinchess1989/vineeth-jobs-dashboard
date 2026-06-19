@@ -38288,5 +38288,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "ASIC Design Engineer",
+    "company": "Parade Technologies, Inc.",
+    "location": "Beaverton, OR",
+    "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-parade-technologies-inc-4430028366",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is entry-level with only 2 years of experience required, which does not match the senior leadership experience target.",
+    "id": "d59eeffd",
+    "source": "linkedin_asic_ww",
+    "posted_date": "2026-06-12",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Career Accelerator Program - Systems Engineer - MS/PhD",
+    "company": "Texas Instruments",
+    "location": "Remote (Worldwide)",
+    "url": "https://www.glassdoor.com/job-listing/career-accelerator-program-systems-engineer-ms-phd-texas-instruments-JV_IC1133904_KO0,50_KE51,68.htm?jl=1010155755784",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a general systems engineering position without specific focus on VLSI/EDA areas.",
+    "id": "1a7fbeae",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "systems engineer jobs in Phoenix, AZ",
+    "company": "Amazon",
+    "location": "Mesa, AZ",
+    "url": "https://www.glassdoor.com/Job/phoenix-systems-engineer-jobs-SRCH_IL.0,7_IC1133904_KO8,24.htm",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a general systems engineer role at Amazon, not specific to semiconductor/VLSI/EDA and does not match the candidate's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "id": "bec53245",
+    "source": "glassdoor_semi",
+    "posted_date": "2023-06-20",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
