@@ -29776,5 +29776,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "AI Engineer (Artificial Intelligence for Business Intelligence, AI4BI)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16819&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This AI Engineer role is for business intelligence applications, not semiconductor/VLSI/EDA technical positions.",
+    "id": "782aa7bb",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Engineer-Artificial-Intelligence-for-Business-Intelligence-AI4BI%2F16819",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical business intelligence AI role at a semiconductor company, which does not match our engineering/technical position focus.",
+    "id": "416e2fb7",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
