@@ -38330,5 +38330,61 @@
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Senior Full-Stack Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=509&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a backend software engineering role at TSMC, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "id": "4f3cbc0a",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSenior-Full-Stack-Engineer%2F509",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Full Stack Engineer, which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "id": "849afcd3",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Global Mobility Manager - International Assignment Service Delivery",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19321&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a Global Mobility Manager focusing on international assignments and does not fit the technical engineering roles we are looking for.",
+    "id": "6fbc04ab",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-18",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FGlobal-Mobility-Manager-International-Assignment-Service-Delivery%2F19321",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting is for an HR role, which does not match the technical engineering positions we are looking for.",
+    "id": "8b0a2596",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
