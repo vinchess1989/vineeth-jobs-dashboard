@@ -31988,5 +31988,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": "job_descriptions/tsmc_linkedin_6923baf6.txt"
+  },
+  {
+    "title": "Senior Product Development Engineer (Data Center Farm)",
+    "company": "AMD",
+    "location": "Penang, Malaysia",
+    "url": "https://careers.amd.com/careers-home/jobs/86945?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Product Development Engineer rather than a technical position focused on VLSI/EDA.",
+    "id": "2957bee5",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Infrastructure Security Operations Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=548&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an Infrastructure Security Operations Engineer, which does not match the technical domains of Power Integrity (PI), Advanced Packaging, Thermal, CAD/Methodology, or Physical Design. It also explicitly requires Mandarin and English bilingualism.",
+    "id": "c5d03059",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FInfrastructure-Security-Operations-Engineer%2F548",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a non-technical role at a semiconductor company, which does not match the requirements for a technical position in the semiconductor/VLSI/EDA industry.",
+    "id": "90ec6e60",
+    "source": "tsmc_careers",
+    "posted_date": "2023-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
