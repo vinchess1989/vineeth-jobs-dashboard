@@ -28404,5 +28404,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "HPC Chip PDN Solution Expert",
+    "company": "TSMC (Taiwan Semiconductor Manufacturing Company Limited)",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18002&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches key skills of HPC, PDN sign-off flow automation, and experience level",
+    "id": "4cb19611",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-18",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc__taiwan_semicon_hpc_chip_pdn_solution_expert_4cb19611.txt"
+  },
+  {
+    "title": "LinkedIn",
+    "company": "N/A - information not available from provided URL",
+    "location": "N/A - location not specified in job description",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHPC-Chip-PDN-Solution-Expert%2F18002",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role seems to match Vineeth's background in Power Integrity and Advanced Packaging, but a clearer match would require more details from the job posting.",
+    "id": "684e3faa",
+    "source": "tsmc_careers",
+    "posted_date": "2023-05-18",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Intelligent Manufacturing Engineer (MFG, Taichung)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19715&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a full-time role at TSMC's manufacturing facility, which does not fit our target domain of semiconductor VLSI EDA roles.",
+    "id": "efbad377",
+    "source": "tsmc_careers",
+    "posted_date": "2026-04-01",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-MFG-Taichung%2F19715",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting URL is for an Intelligent Manufacturing Engineer position at TSMC, which does not match the required technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership. The candidate profile provided also does not align with this role.",
+    "id": "eb538ea9",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
