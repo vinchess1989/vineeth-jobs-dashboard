@@ -32156,5 +32156,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Job Opportunity For VLSI Engineers at Tech Mahindra",
+    "company": "Tech Mahindra",
+    "location": "Greater Bengaluru Area",
+    "url": "https://in.linkedin.com/jobs/view/job-opportunity-for-vlsi-engineers-at-tech-mahindra-at-tech-mahindra-4428232326",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a VLSI Engineer position at an IT services company (Tech Mahindra) instead of a semiconductor/VLSI/EDA role.",
+    "id": "4a7036a6",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2023-06-12",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Industriepraktikum - Labor- und Datenmanagement (m/w/d)Villach (Austria)HRC1588306On-site",
+    "company": "Infineon Technologies AG",
+    "location": "Villach (Austria)",
+    "url": "https://www.infineon.com/careers/job/563808970124033",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting URL is incorrect and leads to a 404 error. Unable to extract necessary information.",
+    "id": "44efd268",
+    "source": "infineon_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Account Production Planner",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=3775&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an admin/operations position focused on customer and internal logistics planning, not a technical engineering role in Power Integrity, VLSI/EDA domains.",
+    "id": "0c65de1d",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAccount-Production-Planner%2F3775",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job role is for an Account Production Planner, which does not fit the technical engineering roles we are targeting.",
+    "id": "56be1739",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
