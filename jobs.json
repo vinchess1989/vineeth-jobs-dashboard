@@ -31764,5 +31764,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "AI & Data Analysis Engineer (Dept: AQSD, Div: IMC)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5302&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an AI Engineer position focused on semiconductor manufacturing, which does not fit the VLSI/EDA technical domain.",
+    "id": "f39de815",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-24",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Research & Pathfinding Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6152&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a research engineer position with advanced degree requirements, fitting our target domain of Power Integrity and Advanced Packaging.",
+    "id": "dc348c77",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/taiwan_semiconductor_research___pathfinding_enginee_dc348c77.txt"
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FResearch-Pathfinding-Engineer%2F6152",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role matches the candidate's background in Power Integrity and Advanced Packaging, with specific mention of skills relevant to the job description.",
+    "id": "2c630793",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_linkedin_2c630793.txt"
   }
 ]
