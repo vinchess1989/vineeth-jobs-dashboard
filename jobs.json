@@ -32282,5 +32282,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Chiayi, Taiwan",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDepartment-Secretary-Chiayi%2F21833",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a non-technical administrative role for a Department Secretary, which does not match the technical requirements for semiconductor/VLSI/EDA experience.",
+    "id": "ae177e70",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "R&D Module Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6154&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "This R&D Module Engineer role is a senior technical position focused on advanced process equipment and technology development for TSMC's mainstream technologies. It matches the domain criteria of Power Integrity/Signal Integrity, Advanced Packaging, and EDA tools.",
+    "id": "daddb21e",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Module-Engineer%2F6154",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Module Engineer which does not match the specified technical domains.",
+    "id": "78a600c8",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
