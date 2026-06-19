@@ -1120,20 +1120,6 @@
     "description_file": null
   },
   {
-    "title": "RTL Design Engineer",
-    "company": "ACL Digital",
-    "location": "Los Gatos, CA",
-    "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-acl-digital-4380019427",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a contract position, which does not match the preference for full-time roles.",
-    "id": "2c2d783a",
-    "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
-    "deadline": "2026-06-18",
-    "description_file": null
-  },
-  {
     "title": "NPU RTL Design Engineer, AI Hardware",
     "company": "Tesla",
     "location": "Austin, TX",
@@ -3136,20 +3122,6 @@
     "description_file": null
   },
   {
-    "title": "Jobs Expiring Soon",
-    "company": "Manufacturing Engineering Manager - Paint",
-    "location": "Munich, Germany",
-    "url": "https://www.euroengineerjobs.com/jobs-expiring-soon",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The listed jobs are a variety of engineering roles unrelated to semiconductor/VLSI/EDA.",
-    "id": "bf676e02",
-    "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "2026-06-18",
-    "description_file": null
-  },
-  {
     "title": "Job Alerts",
     "company": "Upload CV",
     "location": "Extract from page",
@@ -3232,20 +3204,6 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
-  },
-  {
-    "title": "Italy (28)",
-    "company": "Haas F1 Team",
-    "location": "Maranello, Italy",
-    "url": "https://www.euroengineerjobs.com/jobs/italy",
-    "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain (Power Integrity / Advanced Packaging) and location (Italy)",
-    "id": "6bf2e56d",
-    "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "2026-06-18",
-    "description_file": "job_descriptions/haas_f1_team_italy__28__6bf2e56d.txt"
   },
   {
     "title": "Netherlands (12)",
@@ -6650,20 +6608,6 @@
     "description_file": null
   },
   {
-    "title": "Aerospace Engineer (64)",
-    "company": "Beyond Gravity",
-    "location": "Link\u00f6ping, Sweden",
-    "url": "https://www.euroengineerjobs.com/jobs/aerospace_engineer",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This aerospace engineering role does not fit the semiconductor/VLSI/EDA domain focus.",
-    "id": "8aa9eb03",
-    "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "2026-06-18",
-    "description_file": null
-  },
-  {
     "title": "Automotive Engineer (68)",
     "company": "Renesas Electronics",
     "location": "D\u00fcsseldorf, Germany",
@@ -9480,20 +9424,6 @@
   {
     "title": "Design Verification Engineer",
     "company": "ACL Digital",
-    "location": "Hyderabad, Telangana, India",
-    "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4206444434",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Engineer at ACL Digital in Hyderabad, India. It does not match the domain and technical area of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design which are key requirements.",
-    "id": "9f5f90f9",
-    "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
-    "deadline": "2026-06-18",
-    "description_file": null
-  },
-  {
-    "title": "Design Verification Engineer",
-    "company": "ACL Digital",
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4312638999",
     "visited": "yes",
@@ -10316,20 +10246,6 @@
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
     "description_file": "job_descriptions/tsmc_linkedin_8bdbb417.txt"
-  },
-  {
-    "title": "Electrical Engineer (128)",
-    "company": "Electronic Engineer (125)",
-    "location": "Munich, Germany",
-    "url": "https://www.euroengineerjobs.com/jobs/electrical_engineer",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company, which is a hard rejection according to the requirements.",
-    "id": "ba461934",
-    "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "2026-06-18",
-    "description_file": null
   },
   {
     "title": "Electronic Engineer (125)",
@@ -11561,20 +11477,6 @@
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null
-  },
-  {
-    "title": "SoC/ASIC Design Verification Engineer",
-    "company": "ZeroRISC",
-    "location": "Boston, MA",
-    "url": "https://www.linkedin.com/jobs/view/soc-asic-design-verification-engineer-at-zerorisc-4421671049",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a SoC/ASIC Design Verification Engineer role in Boston, MA which does not match Vineeth's location preference for Finland/Europe, India or fully remote worldwide.",
-    "id": "990b987c",
-    "source": "linkedin_vlsi_ww",
-    "posted_date": "2026-05-18",
-    "deadline": "2026-06-18",
     "description_file": null
   },
   {
@@ -37867,6 +37769,20 @@
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "FAB Engineer",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/fab-engineer-micron-technology-JV_IC1127927_KO0,12_KE13,30.htm?jl=1010150527760",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This FAB Engineer role is a hands-on technical position focused on semiconductor manufacturing, which does not match the VLSI/EDA/semiconductor domain expertise of the candidate Vineeth Prathapachandra Kaimal.",
+    "id": "a9f9fb36",
+    "source": "glassdoor_semi",
+    "posted_date": "2026-06-19",
+    "deadline": "Open until filled",
     "description_file": null
   }
 ]
