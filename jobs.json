@@ -29804,5 +29804,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Senior Failure Analysis Engineer",
+    "company": "Nvidia",
+    "location": "Santa Clara, CA, USA",
+    "url": "https://www.glassdoor.com/job-listing/senior-failure-analysis-engineer-nvidia-JV_IC1147439_KO0,32_KE33,39.htm?jl=1010167351141",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Failure Analysis Engineer, which does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "id": "f50174fd",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "process engineer jobs in Santa Clara, CA",
+    "company": "Amazon",
+    "location": "San Jose, CA, USA",
+    "url": "https://www.glassdoor.com/Job/santa-clara-process-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,28.htm",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "id": "6aeee9f1",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Senior Hardware Engineer \u2013 MCU Performance Analysis",
+    "company": "General Motors (GM)",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/senior-hardware-engineer-mcu-performance-analysis-general-motors-gm-JV_IC1134741_KO0,49_KE50,67.htm?jl=1010159506881",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a hardware engineering role focused on MCU performance analysis, which does not match the semiconductor/VLSI/EDA technical domains we are looking for.",
+    "id": "dc13c5c3",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Staff/Senior Photolithography Process Development EngineerSingapore, SingaporePosted 5 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/39527027",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a manufacturing engineering role focused on photolithography, not VLSI/EDA/semiconductor design and tool development.",
+    "id": "46c4c0e5",
+    "source": "micron_careers",
+    "posted_date": "2023-05-24",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
