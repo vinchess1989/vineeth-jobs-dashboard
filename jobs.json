@@ -28138,5 +28138,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Senior Engineer, NAND Silicon Design ValidationSingapore, SingaporePosted 4 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/40595720",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves NAND design validation, which aligns with the candidate's background in Power Integrity and advanced packaging. However, it lacks specific mention of skills like ANSYS RedHawk, Cadence Voltus, or Python.",
+    "id": "5fad9311",
+    "source": "micron_careers",
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Engineer, Advanced Packaging Integration EngineeringSingapore, SingaporePosted 5 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/38445018",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches the target domain of Advanced Packaging with direct mention and requirements related to advanced package technology development, integration and yield improvement.",
+    "id": "8bcf6f43",
+    "source": "micron_careers",
+    "posted_date": "2023-05-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/micron_technology__i_senior_engineer__advanced_pack_8bcf6f43.txt"
   }
 ]
