@@ -38148,5 +38148,61 @@
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Design Verification Engineer",
+    "company": "AMD",
+    "location": "Santa Clara, California, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/87212?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is in Santa Clara, CA, USA which doesn't match the priority locations mentioned.",
+    "id": "7410f774",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "IOT Video SW Engineer/StaffChengdu, Sichuan, ChinaSoftware EngineeringPosted 7 months ago",
+    "company": "Qualcomm China",
+    "location": "Chengdu, Sichuan, China",
+    "url": "https://careers.qualcomm.com/careers/job/446715678426?sortBy=relevance",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This software engineering role is focused on IoT video development for Qualcomm's Snapdragon chipsets, which does not match the VLSI/EDA domain requirements.",
+    "id": "ca14df33",
+    "source": "qualcomm_careers",
+    "posted_date": "2023-04-07",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "FE CPIE CPI Senior Engineer/EngineerSingapore, SingaporePosted 3 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/39190635",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Senior Engineer role matches key skills of PI/PI Loop, global project management in a semiconductor company location Singapore.",
+    "id": "4b044541",
+    "source": "micron_careers",
+    "posted_date": "2023-05-02",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/micron_technology__i_fe_cpie_cpi_senior_engineer_en_4b044541.txt"
+  },
+  {
+    "title": "Engineer, Facility Construction MechanicalTainan City, Tainan City, TaiwanPosted 6 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Tainan City, Taiwan",
+    "url": "https://micron.eightfold.ai/careers/job/39209075",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical role for Facility Construction Mechanical Engineering support, not relevant to semiconductor/VLSI/EDA domain.",
+    "id": "8cd922bd",
+    "source": "micron_careers",
+    "posted_date": "2023-05-18",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
