@@ -30238,5 +30238,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Digital Test Engineer - Multiple Levels",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "url": "https://www.linkedin.com/jobs/view/digital-test-engineer-multiple-levels-at-qualcomm-4405346048",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is too junior (3-4 years) and does not fit the senior technical leadership experience of Vineeth.",
+    "id": "77f0d4ed",
+    "source": "linkedin_semi_ww",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Product Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=383&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is focused on semiconductor manufacturing, not power integrity, signal integrity, advanced packaging or EDA/CAD tooling.",
+    "id": "3a991b37",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-23",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Synopsys",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProduct-Engineer%2F383",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a non-technical marketing position, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "id": "68225487",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
