@@ -32534,5 +32534,47 @@
     "posted_date": "2023-04-18",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Principal Engineer \u2013 Chip Design Back End",
+    "company": "Toshiba",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/principal-engineer-%E2%80%93-chip-design-back-end-at-toshiba-4429635574",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "This senior backend physical design role matches the target domain and experience level requirements.",
+    "id": "7dfc0f10",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2026-06-08",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/toshiba_principal_engineer___chip_desi_7dfc0f10.txt"
+  },
+  {
+    "title": "Lead Architect \u2013 Programmable Clock Architecture",
+    "company": "AMD",
+    "location": "Hyderabad, India",
+    "url": "https://careers.amd.com/careers-home/jobs/86793?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role matches leading a programmable clock design team with 15+ years experience in India for AMD.",
+    "id": "0df77de8",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_lead_architect___programmable__0df77de8.txt"
+  },
+  {
+    "title": "Staff Software Development Engineer",
+    "company": "AMD",
+    "location": "Penang, Malaysia",
+    "url": "https://careers.amd.com/careers-home/jobs/87090?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a software development engineer, which does not fit our technical domain criteria.",
+    "id": "ec5194b6",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
