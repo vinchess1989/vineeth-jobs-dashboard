@@ -30406,5 +30406,47 @@
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Systems Integration and Debug Lead",
+    "company": "AMD",
+    "location": "Bangalore, India",
+    "url": "https://careers.amd.com/careers-home/jobs/86776?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an SMTS Silicon Design Engineer role, which doesn't match the technical domains we are targeting.",
+    "id": "d2945933",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "YEP R&D Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=301&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a research & development engineer position, which does not fully match the technical domains and seniority level we are targeting.",
+    "id": "636cf858",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FYEP-R-D-Engineer%2F301",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The job is a Senior Engineering position at TSMC, which matches the target domain of semiconductor manufacturing and meets the senior-level requirement. The location is in Taiwan, which fits within the allowed Asia locations.",
+    "id": "8a3ec592",
+    "source": "tsmc_careers",
+    "posted_date": "2023-06-19",
+    "deadline": "N/A",
+    "description_file": "job_descriptions/tsmc_linkedin_8a3ec592.txt"
   }
 ]
