@@ -36440,5 +36440,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Global Planning Modeling Engineer",
+    "company": "Micron Technology",
+    "location": "Boise, ID, USA",
+    "url": "https://www.glassdoor.com/job-listing/global-planning-modeling-engineer-micron-technology-JV_IC1127927_KO0,33_KE34,51.htm?jl=1010150526161",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires experience with physical design and advanced packaging, but the candidate profile does not match these areas of expertise.",
+    "id": "f790fd6d",
+    "source": "glassdoor_semi",
+    "posted_date": "2026-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "reservoir engineer jobs in Boise, ID",
+    "company": "Morrison-Maierle",
+    "location": "Boise, ID",
+    "url": "https://www.glassdoor.com/Job/boise-reservoir-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,24.htm",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Reservoir Engineer, which does not match the required technical domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, SoC Design, or Engineering Leadership in semiconductor/VLSI/EDA.",
+    "id": "755aa192",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "30d+",
+    "description_file": null
+  },
+  {
+    "title": "Corporate Governance Affairs Administrator",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16252&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This position is an Administrator role, not a technical engineering/leadership role focused on semiconductor/VLSI/EDA.",
+    "id": "dc9424de",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCorporate-Governance-Affairs-Administrator%2F16252",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical Corporate Governance Affairs Administrator role at TSMC, which does not align with semiconductor/VLSI/EDA engineering/technical positions.",
+    "id": "dfddfebe",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
