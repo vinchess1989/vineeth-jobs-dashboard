@@ -1,0 +1,179 @@
+Title: GPU Performance Modeling & Optimization Engineer
+Company: AMD (Advanced Micro Devices)
+Location: Bangalore, India
+URL: https://careers.amd.com/careers-home/jobs/84934?lang=en-us
+Posted: N/A
+Deadline: Open until filled
+Reason: The role requires hands-on GPU Performance Modeling & Optimization experience which matches the candidate's background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to Main Content
+
+Fraud Alert: Our recruiters never use personal emails, ask for fees, make offers via text, charge for resume reviews, or request personal ID documents during the application process. Learn how to protect yourself from job scams and report suspicious activity here.
+
+Careers
+Careers Home
+Student Programs
+Benefits
+
+Job Categories
+
+Global Jobs
+
+Returning User Login
+Back
+GPU Performance Modeling & Optimization Engineer
+Bangalore, India
+Engineering
+84934
+mail_outline
+
+Get future jobs matching this search
+
+Login
+orRegister
+Job Description
+
+
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING 
+
+At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.  Together, we advance your career.  
+
+
+
+
+The Role:
+
+ 
+
+We are seeking an experienced, hands-on GPU Performance Modeling and Optimization Engineer to join our core engineering team. Your primary focus will be pre-silicon performance modeling, feature exploration, and workload optimization, coupled with owning post-silicon characterization, hardware-software correlation, and lab-based performance debug.
+
+ 
+
+You will be responsible for ensuring our upcoming SoCs/GPUs deliver best-in-class performance across both traditional graphics pipelines (compute shaders, ray tracing, rasterization) and cutting-edge compute/AI workloads (Transformer-based models, Large Language Models (LLMs), Vision models etc).
+
+ 
+
+Key Responsibilities:
+
+1. Pre-Silicon Performance Modeling & Feature Exploration
+
+Simulator: Leverage and maintain highly accurate, modular cycle-accurate or cycle-approximate simulators for key GPU subsystems (e.g., Shader Engines, Cache Hierarchies, Memory Subsystems, and Interconnects).
+Microarchitectural Exploration: Define and execute rigorous simulation experiments to evaluate proposed GPU configurations, scaling limits, and trade-offs. Provide data-driven recommendations backed by thorough sensitivity analyses.
+Workload Characterization: Trace, analyze, and profile complex workloads to extract structural execution footprints. Translate these insights into microarchitectural bottlenecks and establish bounding box for performance for various workloads.
+
+ 
+
+2. Hardware-Software Co-Design & Workload Optimization
+
+Compute & LLM Scaling Optimization: Profile and optimize performance for advanced generative AI and LLM topologies. Identify bottlenecks across the compute engine, local memory hierarchy (L1/L2), and SoC fabrics.
+Graphics Stack Optimization: Analyze execution efficiency across graphics shaders and compute-heavy pipelines to maximize execution unit utilization and minimize latency.
+Cross-Layer Collaboration: Partner with compiler, runtime, and software framework teams (e.g., PyTorch, Triton) to implement/recommend optimizations.
+
+ 
+
+3. Post-Silicon Characterization, Correlation & Debug
+
+Pre-to-Post Correlation: Lead efforts to execute workloads on early silicon, capture performance telemetry, and systematically correlate results back to pre-silicon performance models to improve simulator fidelity.
+Lab Debug & Telemetry: Root-cause hardware-software execution mismatches and unexpected performance drops on physical silicon using low-level performance counters, register dumps, and Linux tracing frameworks.
+Cross-Functional Alignment: Act as the technical bridge between hardware design (RTL) and software stacks, translating high-level workload requirements into clear hardware architectural constraints.
+
+ 
+
+Preferred Experience & Skills:
+
+GPU Architecture Depth: Excellent technical knowledge of GPU execution pipelines, SIMD/SIMT models, cache hierarchy management, memory technologies, and high-bandwidth interconnects (e.g., PCIe, custom fabrics).
+Advanced Performance Modeling: Strong, hands-on experience building or significantly contributing to execution-driven/cycle-accurate hardware performance simulators. Expert proficiency in modern C++ and production-grade Python.
+
+ 
+
+Workload Domain Expertise:
+AI/Compute: Practical understanding of LLM scaling techniques, parallel training/inference strategies (Tensor, Pipeline, Data parallelism), and kernel execution graphs.
+Graphics: Solid grounding in modern programmable graphics pipelines and compute shader mechanics.
+
+ 
+
+Profiling & Post-Si Debugging: Proven capability to extract and analyze low-level hardware performance counters, profile system workloads under Linux, and work within a lab environment for silicon characterization.
+
+ 
+
+Delivery & Execution: Excellent structured problem-solving skills. Ability to translate raw, noisy simulation or silicon data into crisp, actionable technical findings for engineering stakeholders.
+
+ 
+
+ 
+
+Academic Credentials & Experience Requirements:
+
+B.E. / B.Tech. / M.Tech. / with 5 to 10 years of industry experience in silicon performance engineering, GPU modeling, or microarchitecture design.
+#LI-AA1
+
+ 
+
+
+
+
+Benefits offered are described:  AMD benefits at a glance.
+
+ 
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law.   We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.
+
+ 
+
+AMD may use Artificial Intelligence to help screen, assess or select applicants for this position.  AMD’s “Responsible AI Policy” is available here.
+
+ 
+
+This posting is for an existing vacancy.
+
+Apply
+Not ready to apply?
+
+Let’s stay in touch!
+
+Connect With Us
+Join Our Talent Community
+Company
+About AMD
+Management Team
+Corporate Responsibility
+Careers
+Contact Us
+News & Events
+Newsroom
+Events
+Media Library
+Resources
+Developer Central
+Blogs
+Case Studies
+Webinars
+Partners
+AMD Partner Hub
+Authorized Distributors
+AMD University Program
+Investors
+Investor Relations
+Financial Information
+Board of Directors
+Governance Documents
+SEC Filings
+Terms and Conditions
+Privacy
+Trademarks
+Supply Chain Transparency
+Fair & Open Competition
+UK Tax Strategy
+Cookies Policy
+Cookie Settings
+
+©2026 Advanced Micro Devices, Inc.
+
+Cookie Notice
+This site uses cookies from us and our partners to make your browsing experience more efficient, relevant, convenient and personal. In some cases, they are essential to making the site work properly. Using the buttons below, you can accept cookies, refuse cookies, or change your settings at any time by clicking on the Cookie Settings link. For more information, refer to AMD's privacy notice and cookie policy.
+Cookie Settings Reject All Accept Cookies

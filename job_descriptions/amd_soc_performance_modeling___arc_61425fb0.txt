@@ -1,0 +1,164 @@
+Title: SoC Performance Modeling & Architecture Engineer
+Company: AMD
+Location: Bangalore, India
+URL: https://careers.amd.com/careers-home/jobs/84935?lang=en-us
+Posted: N/A
+Deadline: Open until filled
+Reason: Senior SoC Architecture role matching power, thermal, and performance domains with 5+ years experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to Main Content
+
+Fraud Alert: Our recruiters never use personal emails, ask for fees, make offers via text, charge for resume reviews, or request personal ID documents during the application process. Learn how to protect yourself from job scams and report suspicious activity here.
+
+Careers
+Careers Home
+Student Programs
+Benefits
+
+Job Categories
+
+Global Jobs
+
+Returning User Login
+Back
+SoC Performance Modeling & Architecture Engineer
+Bangalore, India
+Engineering
+84935
+mail_outline
+
+Get future jobs matching this search
+
+Login
+orRegister
+Job Description
+
+
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING 
+
+At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.  Together, we advance your career.  
+
+
+
+
+Role Overview
+
+We are seeking a highly skilled and motivated SoC Performance Modeling & Architecture Engineer to drive the definition, analysis, and optimization of our next-generation Systems-on-Chip (SoCs). In this role, you will be responsible for the end-to-end performance lifecycle—from workload analysis and microarchitectural modeling to post-silicon correlation. You will evaluate complex architectural trade-offs across CPU, GPU, NPU/ML accelerators, Memory, and Network-on-Chip (NoC) subsystems to maximize performance-per-watt and shape the roadmap for future silicon.
+
+ 
+
+Key Responsibilities
+
+1. Performance Modeling & Simulation
+
+Leverage and Maintain Cycle-Approximate Models: Leverage, and maintain execution-driven and trace-driven SoC performance simulators (e.g., using C++, SystemC, or Python).
+Explore Architectural Space: Construct scalable models to project the performance of future SoC configurations and validate architectural concepts before RTL freeze.
+Hardware/Software Co-Design: Model the interaction between hardware subsystems and low-level software stacks to identify system-wide bottlenecks.
+
+2. Workload Analysis & Benchmarking
+
+Characterize Workloads: Profile and analyze industry-standard benchmarks and real-world use cases across CPU (e.g., SPEC CPU), GPU (e.g., 3DMark, GFXBench), and Machine Learning/AI (e.g., MLPerf, LLM inference, CNNs).
+Trace Generation: Capture and manipulate instruction and memory traces from both pre-silicon environments and post-silicon hardware.
+
+ 
+
+3. Subsystem & Interconnect Analysis
+
+NoC & Fabric Optimization: Evaluate Network-on-Chip (NoC) topologies, routing algorithms, arbitration schemes, and bandwidth/latency characteristics under heavy multi-master workloads.
+Memory Hierarchy Evaluation: Analyze the impact of cache hierarchies (L1/L2/System Cache), memory controllers, and various memory technologies (e.g., LPDDR5/6, HBM) on system performance.
+
+4. PPA (Power, Performance, Area) Trade-off Studies
+
+Multi-Domain Trade-offs: Evaluate complex trade-offs when scaling or configuring different combinations of CPU cores, GPU compute units, and ML accelerators.
+
+ 
+
+Required Qualifications & Skills
+
+Technical Expertise
+
+Education: BS/MS in Computer Engineering, Electrical Engineering, Computer Science, or a related field.
+Experience: 5+ years of industry experience in SoC/Processor architecture and performance modeling.
+Programming: Strong proficiency in C/C++  and Python
+Architecture Knowledge: Deep understanding of modern computer architecture, including pipelining, out-of-order execution, cache coherence protocols, and virtual memory.
+Modeling Frameworks: Direct experience with performance modeling frameworks (e.g., gem5, SystemC, or proprietary cycle-accurate/cycle-approximate simulators).
+
+ 
+
+Preferred Qualifications
+
+Hands-on experience with post-silicon debug tools and reading hardware performance counters (e.g., ARM PMU, Intel VTune, or internal test chips).
+Familiarity with ML frameworks (PyTorch, TensorFlow) and compiling/mapping models to specialized hardware accelerators.
+Experience utilizing data visualization tools to present complex performance metrics cleanly to cross-functional stakeholders.
+#LI-AA1
+
+ 
+
+
+
+
+Benefits offered are described:  AMD benefits at a glance.
+
+ 
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law.   We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.
+
+ 
+
+AMD may use Artificial Intelligence to help screen, assess or select applicants for this position.  AMD’s “Responsible AI Policy” is available here.
+
+ 
+
+This posting is for an existing vacancy.
+
+Apply
+Not ready to apply?
+
+Let’s stay in touch!
+
+Connect With Us
+Join Our Talent Community
+Company
+About AMD
+Management Team
+Corporate Responsibility
+Careers
+Contact Us
+News & Events
+Newsroom
+Events
+Media Library
+Resources
+Developer Central
+Blogs
+Case Studies
+Webinars
+Partners
+AMD Partner Hub
+Authorized Distributors
+AMD University Program
+Investors
+Investor Relations
+Financial Information
+Board of Directors
+Governance Documents
+SEC Filings
+Terms and Conditions
+Privacy
+Trademarks
+Supply Chain Transparency
+Fair & Open Competition
+UK Tax Strategy
+Cookies Policy
+Cookie Settings
+
+©2026 Advanced Micro Devices, Inc.
+
+Cookie Notice
+This site uses cookies from us and our partners to make your browsing experience more efficient, relevant, convenient and personal. In some cases, they are essential to making the site work properly. Using the buttons below, you can accept cookies, refuse cookies, or change your settings at any time by clicking on the Cookie Settings link. For more information, refer to AMD's privacy notice and cookie policy.
+Cookie Settings Reject All Accept Cookies

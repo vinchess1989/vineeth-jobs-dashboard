@@ -36090,5 +36090,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "VLSI LEAD L1",
+    "company": "Wipro",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4430945553",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is based in Bengaluru, India which does not match the target locations of Finland/UK/Asia/Remote Worldwide.",
+    "id": "348f597f",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2023-06-08",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "SoC Performance Modeling & Architecture Engineer",
+    "company": "AMD",
+    "location": "Bangalore, India",
+    "url": "https://careers.amd.com/careers-home/jobs/84935?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Senior SoC Architecture role matching power, thermal, and performance domains with 5+ years experience.",
+    "id": "61425fb0",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_soc_performance_modeling___arc_61425fb0.txt"
+  },
+  {
+    "title": "GPU Performance Modeling & Optimization Engineer",
+    "company": "AMD (Advanced Micro Devices)",
+    "location": "Bangalore, India",
+    "url": "https://careers.amd.com/careers-home/jobs/84934?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role requires hands-on GPU Performance Modeling & Optimization experience which matches the candidate's background.",
+    "id": "d88e9d0c",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd__advanced_micro__gpu_performance_modeling___opt_d88e9d0c.txt"
   }
 ]
