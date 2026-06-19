@@ -37812,5 +37812,61 @@
     "posted_date": "2023-06-05",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Analog Design Engineer",
+    "company": "AMD",
+    "location": "Boxborough, Massachusetts",
+    "url": "https://careers.amd.com/careers-home/jobs/87030?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an Analog Design Engineer position, which does not match the semiconductor/VLSI/EDA domains targeted.",
+    "id": "ad501f79",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Hsinchu, Taiwan",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FPhysical-Design-Engineer-Taiwan%2F248",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a fit for Physical Design but the years of experience required (8+) may be slightly lower than ideal for our target senior roles.",
+    "id": "3fc98a58",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "APR BE Manager",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18148&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches senior leadership role with 6+ years' experience in physical design and signoff, at a semiconductor company located in Taiwan.",
+    "id": "95ff9d74",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "N/A",
+    "description_file": "job_descriptions/taiwan_semiconductor_apr_be_manager_95ff9d74.txt"
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAPR-BE-Manager%2F18148",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The URL is broken and does not lead to a valid job posting.",
+    "id": "55791b9c",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
