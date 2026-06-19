@@ -30280,5 +30280,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Analog Circuit Design Engineer",
+    "company": "ACL Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-acl-digital-4260948660",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a direct match for our Analog Design Engineer domain, with 2+ years of experience and strong expertise in Cadence tools.",
+    "id": "7685168e",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2026-05-18",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/acl_digital_analog_circuit_design_engineer_7685168e.txt"
+  },
+  {
+    "title": "FPGA Engineer",
+    "company": "Cyient",
+    "location": "Melbourne, FL",
+    "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-cyient-4426853215",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The domain & technical area of FPGA engineering is a mismatch for this semiconductor/VLSI/EDA job search focus.",
+    "id": "bddf8f06",
+    "source": "linkedin_fpga_ww",
+    "posted_date": "2023-06-07",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "IC Design Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6156&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an IC Design Engineer position at TSMC, which does not match the technical domains we are looking for.",
+    "id": "7ec24919",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIC-Design-Engineer%2F6156",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a specific IC Design Engineer role at TSMC, which does not match the technical leadership and broader domain focus required.",
+    "id": "8124d969",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
