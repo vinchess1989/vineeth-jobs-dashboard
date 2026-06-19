@@ -31932,5 +31932,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "IT Security Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=250&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This IT Security Engineer role at TSMC is focused on cybersecurity operations and threat analysis, not in semiconductor VLSI EDA domains like Power Integrity, Advanced Packaging, CAD Methodology or Physical Design.",
+    "id": "033d75b6",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Security-Engineer%2F250",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job URL does not lead to a valid job posting page, as it is a LinkedIn login page.",
+    "id": "6f4f4e4a",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Digital Design and Automation Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=532&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a fresh graduate level digital design and automation engineer role, which does not match the senior leadership technical roles we are seeking.",
+    "id": "f5829e1d",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDigital-Design-and-Automation-Engineer%2F532",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is for a Senior Design Engineer focused on digital design and automation, which matches the candidate's background in Power Integrity and Advanced Packaging.",
+    "id": "6923baf6",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_linkedin_6923baf6.txt"
   }
 ]
