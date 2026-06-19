@@ -29860,5 +29860,61 @@
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "ESMC General Security Manager (m/w/d)",
+    "company": "European Semiconductor Manufacturing Company (ESMC)",
+    "location": "Germany-Dresden",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21842&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical management role, not an engineering/technical position.",
+    "id": "f81f2ce4",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-03",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FESMC-General-Security-Manager-m-w-d%2F21842",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting URL leads to a generic LinkedIn page without specific job details, so it cannot be evaluated against the provided criteria.",
+    "id": "600b61c3",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Silicon Photonics Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=395&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This Silicon Photonics Engineer role at TSMC is focused on photonic components and customization, which does not directly match the key domains of Power Integrity (PI), Advanced Packaging / Thermal, or related EDA/CAD/Methodology roles in the semiconductor/VLSI/EDA industry.",
+    "id": "055194e5",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-23",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSilicon-Photonics-Engineer%2F395",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Silicon Photonics Engineer, which does not fit into the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership. Therefore, it does not meet the target job criteria.",
+    "id": "968ea27a",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
