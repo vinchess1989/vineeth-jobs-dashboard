@@ -29734,5 +29734,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Senior Engineer - AT Central QASingapore, SingaporePosted 2 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/38901201",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role does not fit the specific technical domains of Power Integrity/SI, CAD/Methodology, nor Physical Design which are our top priority areas.",
+    "id": "2984ffa1",
+    "source": "micron_careers",
+    "posted_date": "2023-04-27",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "AI Manager",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5427&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is an AI/ML engineering management role, not a semiconductor/VLSI/EDA technical position.",
+    "id": "14628495",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-25",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Manager%2F5427",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is at TSMC, a semiconductor manufacturing company, which does not fit the EDA/CAD/semiconductor engineering roles we are looking for. We need jobs at companies like Synopsys, Cadence, Mentor Graphics, or semiconductor design services firms.",
+    "id": "efe43a2c",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
