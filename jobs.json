@@ -28348,5 +28348,61 @@
     "posted_date": "2023-04-12",
     "deadline": "Open until filled",
     "description_file": "job_descriptions/micron_technology__i_sr_engineer___cmp_process_deve_ecf60ba2.txt"
+  },
+  {
+    "title": "Graphics Engineer",
+    "company": "Arm",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://careers.arm.com/job/cambridge/graphics-engineer/33099/96521990288",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical software engineering role at Arm, which we are filtering out.",
+    "id": "d6f554c2",
+    "source": "arm_careers",
+    "posted_date": "2026-06-16",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Product Manager",
+    "company": "Arm",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://careers.arm.com/job/cambridge/senior-product-manager/33099/87889683648",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is non-technical marketing/product management role, not an engineering/technical position in semiconductor/VLSI/EDA domain.",
+    "id": "d7cbf2a5",
+    "source": "arm_careers",
+    "posted_date": "2026-06-07",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "\u30102026 TSMC Campus Recruitment\u3011Corporate Planning Organization (CPO)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19048&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Corporate Planning position at TSMC's headquarters in Taiwan, which does not match the target domains of Power Integrity, Advanced Packaging, SoC PDN sign-off, etc. specified in the job requirements.",
+    "id": "6e9dba15",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-18",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Corporate-Planning-Organization-CPO%2F19048",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting URL does not lead to a specific job listing with detailed requirements, making it impossible to determine if this would be a good match for our candidate based on the provided information alone.",
+    "id": "391ca44a",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
