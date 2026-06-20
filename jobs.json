@@ -42208,5 +42208,33 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Department Secretary (Taichung)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taichung, Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=20470&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a general administrative position, not a technical/engineering role focused on semiconductor, VLSI, EDA.",
+    "id": "bfa6d4e1",
+    "source": "tsmc_careers",
+    "posted_date": "2026-05-08",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDepartment-Secretary-Taichung%2F20470",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job link leads to a generic LinkedIn page without specific details about the job title, company, location or application deadline. More information is required to determine if this job matches the search criteria.",
+    "id": "16df43da",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
