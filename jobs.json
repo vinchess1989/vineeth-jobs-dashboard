@@ -42530,5 +42530,33 @@
     "posted_date": "2026-06-16",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Principal ASIC Design Engineer",
+    "company": "Medtronic",
+    "location": "Mounds View, MN",
+    "url": "https://www.linkedin.com/jobs/view/principal-asic-design-engineer-at-medtronic-4423518892",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role at a medical device company, outside our semiconductor/VLSI/EDA focus.",
+    "id": "5585c5eb",
+    "source": "linkedin_asic_ww",
+    "posted_date": "2026-06-19",
+    "deadline": "2026-07-03",
+    "description_file": null
+  },
+  {
+    "title": "Staff Engineer, VLSI Design Engineering (IO Design)",
+    "company": "Sandisk",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/staff-engineer-vlsi-design-engineering-io-design-at-sandisk-4430463664",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role requires VLSI design expertise, especially on IO circuit blocks used in memory products like DDR4, DDR5, LPDDR4, LPDDR5, GDDR5, GDDR6. This matches the key technical domains specified.",
+    "id": "950239f1",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2023-06-20",
+    "deadline": "N/A",
+    "description_file": "job_descriptions/sandisk_staff_engineer__vlsi_design_en_950239f1.txt"
   }
 ]
