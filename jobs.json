@@ -38820,5 +38820,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "AI Engineering Lead",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19487&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for an AI Engineering Lead, which does not match the VLSI/EDA/semiconductor technical domains targeted.",
+    "id": "cb5aa08c",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-09",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "AI HPC Manager",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+    "location": "Dresden, Germany",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18441&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an AI HPC Architect role, which doesn't directly match the domain skills in our target criteria.",
+    "id": "adf6f8d3",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-25",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-HPC-Manager%2F18441",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a non-technical marketing role, which does not match our requirements.",
+    "id": "2db7556e",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
