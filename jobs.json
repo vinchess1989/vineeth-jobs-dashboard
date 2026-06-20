@@ -40528,5 +40528,33 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "More details",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=17914&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This AI Product Manager role is focused on semiconductor equipment and does not directly match our target domains of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, etc. in VLSI/EDA.",
+    "id": "e62665f8",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-25",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Product-Manager-Semiconductor%2F17914",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical marketing role at a semiconductor company, which does not match the requirements.",
+    "id": "9990f9fc",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
