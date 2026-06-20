@@ -38890,5 +38890,47 @@
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Research Scientist - AI for Electronic Design Automation",
+    "company": "ScOp Venture Capital",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/research-scientist-ai-for-electronic-design-automation-at-scop-venture-capital-4431171858",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a research scientist focused on AI for electronic design automation, but does not directly match the VLSI/EDA/semiconductor technical domains we are targeting.",
+    "id": "8610b29d",
+    "source": "linkedin_eda_ww",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Application Engineer \u2013 AI-Enhanced EDA Solutions",
+    "company": "ScOp Venture Capital",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/application-engineer-%E2%80%93-ai-enhanced-eda-solutions-at-scop-venture-capital-4431165986",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires EDA expertise, but does not match the primary focus areas of Power Integrity, Advanced Packaging, or CAD Methodology. It is also based in Santa Clara, CA which has lower priority than Europe, India or Asia locations.",
+    "id": "a5c00798",
+    "source": "linkedin_eda_ww",
+    "posted_date": "2026-06-12",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "HBM Principal Component Validation EngineerSingapore, SingaporePosted 3 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/40905039",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is focused on validation for high bandwidth memory (HBM) components, which falls under the semiconductor domain. However, it does not directly align with the key domains we are targeting such as Power Integrity, Advanced Packaging, CAD/Methodology or Physical Design.",
+    "id": "d3a4f5a3",
+    "source": "micron_careers",
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
