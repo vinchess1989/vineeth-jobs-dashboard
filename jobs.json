@@ -38778,5 +38778,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "HIG HBM Senior PE Component Validation EngineerSingapore, SingaporePosted 3 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/40931421",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches domain of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus. Located in Singapore.",
+    "id": "99076abf",
+    "source": "micron_careers",
+    "posted_date": "2023-06-20",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/micron_technology__i_hig_hbm_senior_pe_component_va_99076abf.txt"
+  },
+  {
+    "title": "Investor Relations Manager",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=547&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a non-technical Investor Relations Manager position at a semiconductor company, which does not match our engineering/technical positions requirement.",
+    "id": "462a0a7f",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FInvestor-Relations-Manager%2F547",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is an investor relations role, not a technical semiconductor position.",
+    "id": "5894ca87",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
