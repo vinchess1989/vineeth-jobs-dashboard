@@ -23,6 +23,7 @@ SEEN_URLS_FILE = os.path.join(BASE_DIR, "seen_urls.json")
 CHECKPOINT_FILE = os.path.join(BASE_DIR, "checkpoint.json")
 REQ_FILE = os.path.join(BASE_DIR, "job_requirements.md")
 DELETED_FILE = os.path.join(BASE_DIR, "deleted.json")
+HISTORY_FILE = os.path.join(BASE_DIR, "jobs_history.json")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # BLOCKED KEYWORDS — jobs with these keywords in the title are auto-deleted
@@ -372,6 +373,58 @@ def clean_old_backups(backup_dir):
         print(f"INFO: Cleaned up {deleted_count} old backups (kept {len(keepers)}).")
 
 
+def save_history_snapshot(jobs):
+    """Append a count snapshot to jobs_history.json for trend tracking."""
+    snapshot = {
+        "timestamp": datetime.now().isoformat(timespec='seconds'),
+        "total": len(jobs),
+        "yes": sum(1 for j in jobs if j.get('matches_requirements') == 'yes'),
+        "no": sum(1 for j in jobs if j.get('matches_requirements') == 'no'),
+        "maybe": sum(1 for j in jobs if j.get('matches_requirements') == 'maybe'),
+        "pending": sum(1 for j in jobs if j.get('matches_requirements') == 'pending'),
+    }
+    history = []
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+                history = json.load(f)
+        except Exception:
+            history = []
+    history.append(snapshot)
+    with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+        json.dump(history, f, indent=2)
+
+
+def generate_history_from_backups():
+    """One-time: build jobs_history.json from all existing backup files."""
+    if os.path.exists(HISTORY_FILE):
+        return  # Already generated
+    backup_dir = os.path.join(BASE_DIR, "backups")
+    files = sorted(glob.glob(os.path.join(backup_dir, "jobs_backup_*.json")))
+    history = []
+    for fpath in files:
+        basename = os.path.basename(fpath)
+        try:
+            ts_str = basename.replace("jobs_backup_", "").replace(".json", "")
+            ts = datetime.strptime(ts_str, "%Y%m%d_%H%M%S")
+            with open(fpath, 'r', encoding='utf-8') as f:
+                jobs = json.load(f)
+            history.append({
+                "timestamp": ts.isoformat(timespec='seconds'),
+                "total": len(jobs),
+                "yes": sum(1 for j in jobs if j.get('matches_requirements') == 'yes'),
+                "no": sum(1 for j in jobs if j.get('matches_requirements') == 'no'),
+                "maybe": sum(1 for j in jobs if j.get('matches_requirements') == 'maybe'),
+                "pending": sum(1 for j in jobs if j.get('matches_requirements') == 'pending'),
+            })
+        except Exception as e:
+            print(f"WARN: Skipping {basename}: {e}")
+    if history:
+        with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+            json.dump(history, f, indent=2)
+        print(f"INFO: Generated jobs_history.json with {len(history)} snapshots from backups.")
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # CLEANUP — Auto-delete blocked/expired jobs
 # ─────────────────────────────────────────────────────────────────────────────
@@ -568,6 +621,9 @@ def scrape_all_jobs(max_jobs=200):
 
     print(f"Total jobs currently in jobs.json: {len(combined_jobs)}")
     print(f"Backup saved to: {backup_file}\n")
+
+    # Append to history for trend chart
+    save_history_snapshot(combined_jobs)
 
     # Run smart cleanup
     clean_old_backups(backup_dir)
@@ -1180,7 +1236,7 @@ def update_git():
             return
 
         # Add updated files
-        subprocess.run(["git", "add", "jobs.json", "seen_urls.json", "checkpoint.json", "job_descriptions"], cwd=repo_dir, check=True, env=env)
+        subprocess.run(["git", "add", "jobs.json", "seen_urls.json", "checkpoint.json", "job_descriptions", "jobs_history.json"], cwd=repo_dir, check=True, env=env)
         # Check if there are changes to commit
         status = subprocess.run(["git", "status", "--porcelain"], cwd=repo_dir, capture_output=True, text=True, env=env)
         if status.stdout.strip():
@@ -1363,18 +1419,8 @@ def poll_firebase_feedback():
             except Exception as e:
                 print(f"Error syncing match updates: {e}")
         
-        # Clear shared_state for processed URLs
-        if processed_urls:
-            try:
-                # We do a PATCH request with updateMask to remove the fields
-                url = "https://firestore.googleapis.com/v1/projects/manju-jobs-dashboard/databases/(default)/documents/shared_state/job_status"
-                # To delete fields, you specify them in updateMask and omit them from the document body
-                # Unfortunately, REST API requires fields to be present in updateMask.
-                # Actually, sending a document with just the fields you want to KEEP is hard.
-                # Since REST API field paths for URLs (containing dots) are complex, it's easier to just fetch it and delete the keys.
-                
         # Wipe shared_state since all updates are now safely in jobs.json
-        if locals().get('applied_updates') or user_review_updates or match_updates:
+        if user_review_updates or match_updates:
             try:
                 # Get the correct project ID based on the URL we polled
                 proj_id = "vineeth-jobs-dashboard" 
@@ -1467,6 +1513,7 @@ def print_job_summary():
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
+    generate_history_from_backups()
     self_heal_dates()
     parser = argparse.ArgumentParser(description="Semiconductor Job Scraper and Reviewer")
     parser.add_argument("--git-only", action="store_true", help="Only run the Git commit and push step, then exit.")

@@ -304,8 +304,10 @@
         .col-sync { width: 110px; min-width: 100px; }
         .col-matches { width: 130px; min-width: 120px; }
         .col-reason { width: 200px; min-width: 150px; }
+        .col-user-reason { width: 200px; min-width: 150px; }
         .col-applied { width: 100px; min-width: 90px; }
         .col-user-review { width: 120px; min-width: 110px; }
+        .col-visited { width: 90px; min-width: 80px; text-align: center; }
 
         /* Badges & Actions */
         .status-pill {
@@ -722,11 +724,11 @@
                     setupUploadListeners();
                     
                     if (firestoreUnsubscribe) firestoreUnsubscribe();
-                    firestoreUnsubscribe = db.collection('users').doc(user.uid).onSnapshot(doc => {
+                    firestoreUnsubscribe = db.collection('shared_state').doc('job_status').onSnapshot(doc => {
                         if (doc.exists) {
-                            appliedJobsState = doc.data();
+                            sharedJobsState = doc.data();
                         } else {
-                            appliedJobsState = {};
+                            sharedJobsState = {};
                         }
                         if (allJobs.length > 0) buildTable();
                     });
@@ -736,7 +738,7 @@
                     logoutBtn.style.display = 'none';
                     userEmail.style.display = 'none';
                     userEmail.textContent = '';
-                    appliedJobsState = {};
+                    sharedJobsState = {};
                     if (firestoreUnsubscribe) {
                         firestoreUnsubscribe();
                         firestoreUnsubscribe = null;
@@ -891,9 +893,11 @@
                         <th class="col-deadline resizable-th"><div class="resizable-header" onclick="sortTable(7)">Deadline ↕<div class="active-filters-summary" id="active-filters-7"></div></div></th>
                         <th class="col-sync resizable-th"><div class="resizable-header" onclick="sortTable(8)">Sync ↕<div class="active-filters-summary" id="active-filters-8"></div></div></th>
                         <th class="col-matches resizable-th"><div class="resizable-header" onclick="sortTable(9)">Matches ↕<div class="active-filters-summary" id="active-filters-9"></div></div></th>
-                        <th class="col-reason resizable-th"><div class="resizable-header" onclick="sortTable(10)">Reason ↕<div class="active-filters-summary" id="active-filters-10"></div></div></th>
-                        <th class="col-applied resizable-th"><div class="resizable-header" onclick="sortTable(11)">Applied ↕<div class="active-filters-summary" id="active-filters-11"></div></div></th>
-                        <th class="col-user-review resizable-th"><div class="resizable-header" onclick="sortTable(12)">User Review ↕<div class="active-filters-summary" id="active-filters-12"></div></div></th>
+                        <th class="col-reason resizable-th"><div class="resizable-header" onclick="sortTable(10)">AI Reason ↕<div class="active-filters-summary" id="active-filters-10"></div></div></th>
+                        <th class="col-user-reason resizable-th"><div class="resizable-header" onclick="sortTable(11)">User Reason ↕<div class="active-filters-summary" id="active-filters-11"></div></div></th>
+                        <th class="col-applied resizable-th"><div class="resizable-header" onclick="sortTable(12)">Applied ↕<div class="active-filters-summary" id="active-filters-12"></div></div></th>
+                        <th class="col-user-review resizable-th"><div class="resizable-header" onclick="sortTable(13)">User Review ↕<div class="active-filters-summary" id="active-filters-13"></div></div></th>
+                        <th class="col-visited resizable-th"><div class="resizable-header" onclick="sortTable(14)">Visited ↕<div class="active-filters-summary" id="active-filters-14"></div></div></th>
                     </tr>
                     <tr class="filter-row">
                         <th></th>
@@ -909,6 +913,8 @@
                         <th><div id="filter-col-10"></div></th>
                         <th><div id="filter-col-11"></div></th>
                         <th><div id="filter-col-12"></div></th>
+                        <th><div id="filter-col-13"></div></th>
+                        <th><div id="filter-col-14"></div></th>
                     </tr>
                 </thead>
                 <tbody id="jobs-body"></tbody>
@@ -1000,8 +1006,8 @@
             // 3. Rows
             allJobs.forEach((job, index) => {
                 const jobIdSafe = job.id || job.url.replace(/[\.#\$\/\[\]]/g, '_');
-                let appliedStatus = localStorage.getItem('applied_' + job.url) || (sharedJobsState[job.url] && sharedJobsState[job.url].applied) || job.applied || 'no';
-                let userReview = localStorage.getItem('user_review_' + job.url) || (sharedJobsState[job.url] && sharedJobsState[job.url].user_review) || job.user_review || 'pending';
+                let appliedStatus = (sharedJobsState[job.url] && sharedJobsState[job.url].applied) || job.applied || 'no';
+                let userReview = (sharedJobsState[job.url] && sharedJobsState[job.url].user_review) || job.user_review || 'pending';
                 
                 const tr = document.createElement('tr');
                 tr.setAttribute('data-url', job.url);
@@ -1012,6 +1018,9 @@
                 const sourceVal = job.source || getSourceFromUrl(job.url) || 'Unknown';
                 const syncVal = job.needs_re_review ? 'Queued' : 'Up to Date';
                 const jobIdVal = job.id || 'N/A';
+                const aiReason = job.reason || '';
+                const userReason = (sharedJobsState[job.url] && (sharedJobsState[job.url].user_reason || sharedJobsState[job.url].reason)) || '';
+                const visitedVal = job.visited || 'no';
                 
                 tr.innerHTML = `
                     <td class="col-id">${index + 1}</td>
@@ -1039,16 +1048,16 @@
                         <span class="status-pill ${matchVal}" style="display:inline-block; text-align:center;">${matchVal}</span>
                         `}
                     </td>
-                    <td class="col-reason"><div class="reason-cell" title="${(job.reason || '').replace(/"/g, '&quot;')}">${job.reason || ''}</div></td>
+                    <td class="col-reason"><div class="reason-cell" title="${aiReason.replace(/"/g, '&quot;')}">${aiReason}</div></td>
+                    <td class="col-user-reason"><div class="user-reason-cell" title="${userReason.replace(/"/g, '&quot;')}">${userReason}</div></td>
                     <td class="col-applied" data-value="${appliedStatus}">
                         ${isAuthorized ? `
-                        <select class="status-pill ${appliedStatus === 'yes' ? 'yes' : (appliedStatus === 'Reject' ? 'no' : 'no')}" onchange="toggleApplied(this, '${job.url}', '${appliedStatus}')">
+                        <select class="status-pill ${appliedStatus === 'yes' ? 'yes' : 'no'}" onchange="toggleApplied(this, '${job.url}', '${appliedStatus}')">
                             <option value="no" ${appliedStatus === 'no' ? 'selected' : ''}>no</option>
                             <option value="yes" ${appliedStatus === 'yes' ? 'selected' : ''}>yes</option>
-                            <option value="Reject" ${appliedStatus === 'Reject' ? 'selected' : ''}>Reject</option>
                         </select>
                         ` : `
-                        <span class="status-btn ${appliedStatus === 'yes' ? 'status-yes' : (appliedStatus === 'Reject' ? 'status-reject' : 'status-no')}" style="cursor: default; display:inline-block; text-align:center;">${appliedStatus}</span>
+                        <span class="status-btn ${appliedStatus === 'yes' ? 'status-yes' : 'status-no'}" style="cursor: default; display:inline-block; text-align:center;">${appliedStatus}</span>
                         `}
                     </td>
                     <td class="col-user-review" data-value="${userReview}">
@@ -1059,6 +1068,7 @@
                         </select>
                         ` : `<span class="status-pill ${userReview === 'done' ? 'yes' : 'pending'}">${userReview}</span>`}
                     </td>
+                    <td class="col-visited" data-value="${visitedVal}"><span class="status-pill ${visitedVal}">${visitedVal}</span></td>
                 `;
                 tbody.appendChild(tr);
             });
@@ -1089,8 +1099,8 @@
             const tbody = document.querySelector('table tbody');
             const rows = Array.from(tbody.querySelectorAll('tr'));
             
-            // Build the multi-select dropdowns for columns 1 to 12
-            for (let i = 1; i <= 12; i++) {
+            // Build the multi-select dropdowns for columns 1 to 14
+            for (let i = 1; i <= 14; i++) {
                 const uniqueValues = new Set();
                 rows.forEach(row => {
                     const td = row.getElementsByTagName("td")[i];
@@ -1107,27 +1117,29 @@
                 let customDateInput = '';
                 if (i === 6) {
                     customDateInput = `
-                        <div style="padding: 4px 8px; border-bottom: 1px solid rgba(255,255,255,0.1);">
+                        <div style="padding: 0 0 4px 0;">
                             <input type="number" id="posted-days-filter" placeholder="Within X days..." style="width: 100%; padding: 4px; font-size: 0.75rem; background: rgba(0,0,0,0.3); color: white; border: 1px solid var(--border-color); border-radius: 4px;" onkeyup="filterTable()" onchange="filterTable()" min="0">
                         </div>
                     `;
                 } else if (i === 7) {
                     customDateInput = `
-                        <div style="padding: 4px 8px; border-bottom: 1px solid rgba(255,255,255,0.1);">
+                        <div style="padding: 0 0 4px 0;">
                             <input type="number" id="deadline-days-filter" placeholder="Next X days..." style="width: 100%; padding: 4px; font-size: 0.75rem; background: rgba(0,0,0,0.3); color: white; border: 1px solid var(--border-color); border-radius: 4px;" onkeyup="filterTable()" onchange="filterTable()" min="0">
                         </div>
                     `;
                 }
                 
                 let optionsHtml = `
-                    <div style="padding: 4px 8px; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; gap: 8px; margin-bottom: 4px;">
-                        <button type="button" onclick="window.toggleAllFilters(${i}, true, event)" style="background:none; border:none; color:#a78bfa; font-size:0.75rem; cursor:pointer; padding:0;">Select All</button>
-                        <button type="button" onclick="window.toggleAllFilters(${i}, false, event)" style="background:none; border:none; color:var(--text-secondary); font-size:0.75rem; cursor:pointer; padding:0;">Clear</button>
+                    <div style="position: sticky; top: -8px; background: #1e243b; z-index: 10; padding: 8px 8px 4px 8px; margin: -8px 0 4px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+                        <div style="display: flex; gap: 8px; margin-bottom: 4px;">
+                            <button type="button" onclick="window.toggleAllFilters(${i}, true, event)" style="background:none; border:none; color:#a78bfa; font-size:0.75rem; cursor:pointer; padding:0;">Select All</button>
+                            <button type="button" onclick="window.toggleAllFilters(${i}, false, event)" style="background:none; border:none; color:var(--text-secondary); font-size:0.75rem; cursor:pointer; padding:0;">Clear</button>
+                        </div>
+                        <div style="margin-bottom: ${customDateInput ? '4px' : '0'};">
+                            <input type="text" placeholder="Search..." oninput="filterMsOptions(this)" onclick="event.stopPropagation()" style="width: 100%; padding: 4px 8px; border-radius: 4px; background: rgba(0,0,0,0.2); border: 1px solid var(--border-color); color: white; font-size: 0.8rem; outline: none;">
+                        </div>
+                        ${customDateInput}
                     </div>
-                    <div style="padding: 0 8px 8px 8px; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 4px;">
-                        <input type="text" placeholder="Search..." oninput="filterMsOptions(this)" onclick="event.stopPropagation()" style="width: 100%; padding: 4px 8px; border-radius: 4px; background: rgba(0,0,0,0.2); border: 1px solid var(--border-color); color: white; font-size: 0.8rem; outline: none;">
-                    </div>
-                    ${customDateInput}
                 `;
                 sortedVals.forEach(val => {
                     optionsHtml += `<label class="ms-option"><input type="checkbox" value="${val.replace(/"/g, '&quot;')}"> ${val}</label>`;
@@ -1146,6 +1158,36 @@
                 checkboxes.forEach(cb => {
                     cb.addEventListener('change', filterTable);
                 });
+            }
+            
+            // Restore filters from localStorage
+            try {
+                const projectId = typeof firebaseConfig !== 'undefined' ? firebaseConfig.projectId : 'default';
+                const savedStr = localStorage.getItem('jobBoardFilters_' + projectId);
+                if (savedStr) {
+                    const saved = JSON.parse(savedStr);
+                    const postedInput = document.getElementById('posted-days-filter');
+                    const deadlineInput = document.getElementById('deadline-days-filter');
+                    if (postedInput && saved.postedLimit !== null && saved.postedLimit !== undefined) postedInput.value = saved.postedLimit;
+                    if (deadlineInput && saved.deadlineLimit !== null && saved.deadlineLimit !== undefined) deadlineInput.value = saved.deadlineLimit;
+                    
+                    if (saved.colFilters) {
+                        for (let i = 1; i <= 14; i++) {
+                            const container = document.getElementById(`filter-col-${i}`);
+                            if (!container) continue;
+                            if (saved.colFilters[i]) {
+                                const checkboxes = container.querySelectorAll('input[type="checkbox"]');
+                                checkboxes.forEach(cb => {
+                                    if (saved.colFilters[i].includes(cb.value)) {
+                                        cb.checked = true;
+                                    }
+                                });
+                            }
+                        }
+                    }
+                }
+            } catch (e) {
+                console.error("Error restoring filters", e);
             }
         }
         
@@ -1218,11 +1260,11 @@
             today.setHours(0,0,0,0);
             
             const filters = {};
-            for (let i = 1; i <= 12; i++) {
+            for (let i = 1; i <= 14; i++) {
                 const container = document.getElementById(`filter-col-${i}`);
                 if (!container) continue;
                 const checked = Array.from(container.querySelectorAll('input[type="checkbox"]:checked')).map(cb => cb.value);
-                
+
                 let summaryTexts = [...checked];
                 if (i === 6 && postedLimit !== null && !isNaN(postedLimit)) summaryTexts.unshift(`< ${postedLimit}d`);
                 if (i === 7 && deadlineLimit !== null && !isNaN(deadlineLimit)) summaryTexts.unshift(`< ${deadlineLimit}d`);
@@ -1244,20 +1286,33 @@
                 }
             }
             
+            // Save filters to localStorage
+            try {
+                const projectId = typeof firebaseConfig !== 'undefined' ? firebaseConfig.projectId : 'default';
+                const filtersToSave = {
+                    postedLimit: (!isNaN(postedLimit) ? postedLimit : null),
+                    deadlineLimit: (!isNaN(deadlineLimit) ? deadlineLimit : null),
+                    colFilters: filters
+                };
+                localStorage.setItem('jobBoardFilters_' + projectId, JSON.stringify(filtersToSave));
+            } catch (e) {
+                console.error("Error saving filters", e);
+            }
+            
             let visibleCount = 0;
             let counts = { yes: 0, maybe: 0, no: 0, pending: 0, rereview: 0 };
             let appliedCount = 0;
             let reviewedCount = 0;
-            
+            filteredRows = [];
             rows.forEach(row => {
                 let show = true;
                 
-                for (let i = 1; i <= 12; i++) {
+                for (let i = 1; i <= 14; i++) {
                     if (filters[i]) {
                         const td = row.getElementsByTagName("td")[i];
                         if (td) {
                             const val = td.hasAttribute("data-value") ? td.getAttribute("data-value") : td.textContent.trim();
-                            
+
                             let passesCheckbox = filters[i].length === 0 || filters[i].includes(val);
                             
                             if (i === 6 && postedLimit !== null && !isNaN(postedLimit)) {
@@ -1310,13 +1365,13 @@
                         if (tdSync.getAttribute("data-value") === 'Queued') counts.rereview++;
                     }
                     
-                    const tdApplied = row.getElementsByTagName("td")[11];
+                    const tdApplied = row.getElementsByTagName("td")[12];
                     if (tdApplied) {
                         const aVal = tdApplied.getAttribute("data-value");
-                        if (aVal === 'yes' || aVal === 'Reject') appliedCount++;
+                        if (aVal === 'yes') appliedCount++;
                     }
                     
-                    const tdReview = row.getElementsByTagName("td")[12];
+                    const tdReview = row.getElementsByTagName("td")[13];
                     if (tdReview) {
                         const rVal = tdReview.getAttribute("data-value");
                         if (rVal === 'done') reviewedCount++;
@@ -1326,17 +1381,19 @@
             
             const counter = document.getElementById('listings-counter');
             if (counter) {
-                let text = `<strong>${visibleCount}</strong>`;
+                let text = `<strong id="stat-total" style="cursor:help;border-bottom:1px dashed rgba(255,255,255,0.4);">${visibleCount}</strong>`;
                 if (visibleCount !== allJobs.length) {
                     text += ` (filtered from ${allJobs.length})`;
                 }
                 text += ` <span style="margin: 0 10px; opacity: 0.3;">|</span> `;
-                text += `<span style="color: var(--color-yes); font-weight: 600;">Yes: ${counts.yes}</span> &nbsp;&nbsp; `;
+                text += `<span id="stat-yes" style="color: var(--color-yes); font-weight: 600; cursor:help; border-bottom:1px dashed rgba(16,185,129,0.5);">Yes: ${counts.yes}</span> &nbsp;&nbsp; `;
                 text += `<span style="color: var(--color-maybe); font-weight: 600;">Maybe: ${counts.maybe}</span> &nbsp;&nbsp; `;
                 text += `<span style="color: var(--color-no); font-weight: 600;">No: ${counts.no}</span> &nbsp;&nbsp; `;
                 text += `<span style="color: var(--color-pending); font-weight: 600;">Pending: ${counts.pending}</span> &nbsp;&nbsp; `;
                 text += `<span style="color: #a78bfa; font-weight: 600;">Re-review: ${counts.rereview}</span>`;
                 counter.innerHTML = text;
+                _attachChartHover(document.getElementById('stat-yes'), 'yes');
+                _attachChartHover(document.getElementById('stat-total'), 'total');
             }
             
             const appliedCounter = document.getElementById('applied-counter');
@@ -1372,10 +1429,13 @@
             if (!container) {
                 container = document.createElement('div');
                 container.id = 'pagination-container';
-                container.style = 'display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-card); border-top: 1px solid var(--border-color); border-radius: 0 0 1.25rem 1.25rem;';
+                container.style = 'display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-card); border-bottom: 1px solid var(--border-color);';
                 
                 const tableContainer = document.querySelector('.table-container');
-                if (tableContainer) {
+                const scrollArea = document.querySelector('.table-scroll-area');
+                if (tableContainer && scrollArea) {
+                    tableContainer.insertBefore(container, scrollArea);
+                } else if (tableContainer) {
                     tableContainer.appendChild(container);
                 }
             }
@@ -1428,7 +1488,7 @@
                     }, { merge: true });
                     
                     select.disabled = false;
-                    select.className = 'status-pill ' + (newState === 'yes' ? 'yes' : (newState === 'Reject' ? 'no' : 'no'));
+                    select.className = 'status-pill ' + (newState === 'yes' ? 'yes' : 'no');
                     select.closest('td').setAttribute('data-value', newState);
                     select.setAttribute('onchange', `toggleApplied(this, '${url}', '${newState}')`);
                     
@@ -1441,7 +1501,7 @@
                     select.disabled = false;
                 }
             } else {
-                select.className = 'status-pill ' + (newState === 'yes' ? 'yes' : (newState === 'Reject' ? 'no' : 'no'));
+                select.className = 'status-pill ' + (newState === 'yes' ? 'yes' : 'no');
                 select.closest('td').setAttribute('data-value', newState);
                 filterTable(); 
                 autoMarkUserReviewDone(url);
@@ -1490,8 +1550,22 @@
                         timestamp: firebase.firestore.FieldValue.serverTimestamp()
                     });
                     
+                    await db.collection("shared_state").doc("job_status").set({
+                        [url]: { matches_requirements: newState, user_reason: reason }
+                    }, { merge: true });
+                    
                     if (!isBlank) {
                         alert("Feedback saved! The AI requirements have been updated.");
+                    }
+                    
+                    // Update user reason cell
+                    const tr = select.closest('tr');
+                    if (tr) {
+                        const reasonCell = tr.querySelector('.user-reason-cell');
+                        if (reasonCell) {
+                            reasonCell.textContent = reason || '';
+                            reasonCell.title = reason;
+                        }
                     }
                     
                     select.disabled = false;
@@ -1527,11 +1601,15 @@
                         timestamp: firebase.firestore.FieldValue.serverTimestamp()
                     });
                     
+                    await db.collection("shared_state").doc("job_status").set({
+                        [url]: { user_review: newState }
+                    }, { merge: true });
+                    
                     select.disabled = false;
                     select.className = 'status-pill ' + (newState === 'done' ? 'yes' : 'pending');
                     select.closest('td').setAttribute('data-value', newState);
                     select.setAttribute('onchange', `handleUserReviewChange(this, '${url}', '${newState}')`);
-                    localStorage.setItem('user_review_' + url, newState);
+                    localStorage.removeItem('user_review_' + url);
                     
                     filterTable(); // Update counts
                 } catch (e) {
@@ -1546,8 +1624,92 @@
             }
         }
         
+        // ── History trend chart ────────────────────────────────────────────────
+        let _chartHistory = null;
+        async function _loadChartHistory() {
+            if (_chartHistory !== null) return _chartHistory;
+            try {
+                const r = await fetch('https://vinchess1989.github.io/vineeth-jobs-dashboard/jobs_history.json?nocache=' + Date.now());
+                _chartHistory = r.ok ? await r.json() : [];
+            } catch (e) { _chartHistory = []; }
+            return _chartHistory;
+        }
+        function _renderChart(canvas, data, metric) {
+            const ctx = canvas.getContext('2d');
+            const W = canvas.width, H = canvas.height;
+            ctx.clearRect(0, 0, W, H);
+            if (!data || data.length < 2) {
+                ctx.fillStyle = 'rgba(255,255,255,0.4)'; ctx.font = '11px sans-serif'; ctx.textAlign = 'center';
+                ctx.fillText('Not enough data yet', W / 2, H / 2); return;
+            }
+            const LINES = metric === 'yes'
+                ? [{ key: 'yes', color: '#10b981', label: 'Yes' }, { key: 'maybe', color: '#f59e0b', label: 'Maybe' }]
+                : [{ key: 'total', color: '#a5b4fc', label: 'Total' }, { key: 'yes', color: '#10b981', label: 'Yes' }];
+            const allVals = data.flatMap(d => LINES.map(l => d[l.key] ?? 0));
+            const minVal = Math.max(0, Math.min(...allVals) - 1), maxVal = Math.max(...allVals) + 1, range = maxVal - minVal || 1;
+            const pL = 38, pR = 10, pT = 22, pB = 22, cW = W - pL - pR, cH = H - pT - pB;
+            ctx.strokeStyle = 'rgba(255,255,255,0.06)'; ctx.lineWidth = 1;
+            for (let i = 0; i <= 4; i++) {
+                const y = pT + cH * i / 4;
+                ctx.beginPath(); ctx.moveTo(pL, y); ctx.lineTo(pL + cW, y); ctx.stroke();
+                ctx.fillStyle = 'rgba(255,255,255,0.35)'; ctx.font = '9px sans-serif'; ctx.textAlign = 'right';
+                ctx.fillText(Math.round(maxVal - range * i / 4), pL - 3, y + 3);
+            }
+            LINES.forEach(line => {
+                ctx.strokeStyle = line.color; ctx.lineWidth = 2; ctx.lineJoin = 'round'; ctx.beginPath();
+                data.forEach((d, i) => {
+                    const x = pL + (i / (data.length - 1)) * cW;
+                    const y = pT + cH - ((d[line.key] ?? 0) - minVal) / range * cH;
+                    i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+                }); ctx.stroke();
+                if (data.length <= 40) {
+                    ctx.fillStyle = line.color;
+                    data.forEach((d, i) => {
+                        const x = pL + (i / (data.length - 1)) * cW;
+                        const y = pT + cH - ((d[line.key] ?? 0) - minVal) / range * cH;
+                        ctx.beginPath(); ctx.arc(x, y, 2.5, 0, Math.PI * 2); ctx.fill();
+                    });
+                }
+            });
+            const fmt = d => new Date(d.timestamp).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+            ctx.fillStyle = 'rgba(255,255,255,0.4)'; ctx.font = '9px sans-serif';
+            ctx.textAlign = 'left'; ctx.fillText(fmt(data[0]), pL, H - 5);
+            ctx.textAlign = 'right'; ctx.fillText(fmt(data[data.length - 1]), pL + cW, H - 5);
+            let lx = pL;
+            LINES.forEach(line => {
+                ctx.strokeStyle = line.color; ctx.lineWidth = 2;
+                ctx.beginPath(); ctx.moveTo(lx, pT - 7); ctx.lineTo(lx + 14, pT - 7); ctx.stroke();
+                ctx.fillStyle = 'rgba(255,255,255,0.75)'; ctx.font = '9px sans-serif'; ctx.textAlign = 'left';
+                ctx.fillText(line.label, lx + 16, pT - 3);
+                lx += 16 + ctx.measureText(line.label).width + 20;
+            });
+        }
+        async function _showChartTooltip(el, metric) {
+            const tip = document.getElementById('chart-tooltip');
+            document.getElementById('chart-tooltip-title').textContent =
+                metric === 'yes' ? 'Yes & Maybe matches over time' : 'Total listings & Yes matches over time';
+            tip.style.display = 'block';
+            const rect = el.getBoundingClientRect();
+            const tipW = 350, tipH = 185;
+            let left = rect.left + rect.width / 2 - tipW / 2;
+            let top = rect.top - tipH - 14 + window.scrollY;
+            if (left < 8) left = 8;
+            if (left + tipW > window.innerWidth - 8) left = window.innerWidth - tipW - 8;
+            if (top < window.scrollY + 8) top = rect.bottom + 14 + window.scrollY;
+            tip.style.left = left + 'px'; tip.style.top = top + 'px';
+            const data = await _loadChartHistory();
+            _renderChart(document.getElementById('chart-tooltip-canvas'), data, metric);
+        }
+        function _hideChartTooltip() { document.getElementById('chart-tooltip').style.display = 'none'; }
+        function _attachChartHover(el, metric) {
+            if (!el) return;
+            el.addEventListener('mouseenter', () => _showChartTooltip(el, metric));
+            el.addEventListener('mouseleave', _hideChartTooltip);
+        }
+        // ── End history trend chart ────────────────────────────────────────────
+
         async function autoMarkUserReviewDone(url) {
-            let currentReview = localStorage.getItem('user_review_' + url);
+            let currentReview = (sharedJobsState[url] && sharedJobsState[url].user_review) || 'pending';
             if (currentReview === 'done') return;
             
             const tbody = document.getElementById('jobs-body');
@@ -1557,7 +1719,7 @@
             let selectElem = null;
             for (let row of rows) {
                 if (row.getAttribute('data-url') === url) {
-                    const td = row.getElementsByTagName("td")[12];
+                    const td = row.getElementsByTagName("td")[13];
                     if (td) {
                         selectElem = td.querySelector('select');
                     }
@@ -1569,7 +1731,6 @@
                 selectElem.value = 'done';
                 handleUserReviewChange(selectElem, url, 'pending');
             } else {
-                localStorage.setItem('user_review_' + url, 'done');
                 if (typeof db !== 'undefined' && db !== null) {
                     try {
                         await db.collection("user_feedback").add({
@@ -1579,6 +1740,10 @@
                             status: "unread",
                             timestamp: firebase.firestore.FieldValue.serverTimestamp()
                         });
+                        
+                        await db.collection("shared_state").doc("job_status").set({
+                            [url]: { user_review: 'done' }
+                        }, { merge: true });
                     } catch (e) {
                         console.error("Auto review sync failed", e);
                     }
@@ -1586,5 +1751,12 @@
             }
         }    
     </script>
+
+    <!-- History trend chart tooltip -->
+    <div id="chart-tooltip" style="display:none;position:absolute;z-index:9999;background:#161b2e;border:1px solid rgba(255,255,255,0.12);border-radius:0.75rem;padding:0.75rem 1rem 0.6rem;box-shadow:0 20px 50px rgba(0,0,0,0.75);pointer-events:none;width:350px;">
+        <div id="chart-tooltip-title" style="font-size:0.72rem;font-weight:600;color:rgba(255,255,255,0.55);margin-bottom:0.5rem;font-family:'Space Grotesk',sans-serif;letter-spacing:0.04em;text-transform:uppercase;"></div>
+        <canvas id="chart-tooltip-canvas" width="318" height="130"></canvas>
+    </div>
+
 </body>
 </html>
