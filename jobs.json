@@ -41536,5 +41536,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "EUV Mask BEOL R&D Engineer",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/euv-mask-beol-rd-engineer-micron-technology-JV_IC1127927_KO0,25_KE26,43.htm?jl=1010170563749",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This position is for a BEOL R&D Engineer specializing in EUV mask technology, which does not align with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "id": "4686161c",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Cybersecurity Solution Architect",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=20479&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Cybersecurity Solution Architect role which does not match the technical domains of Power Integrity, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "id": "827224c6",
+    "source": "tsmc_careers",
+    "posted_date": "2026-05-12",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCybersecurity-Solution-Architect%2F20479",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The URL provided does not lead to a valid job posting page, therefore it cannot be evaluated.",
+    "id": "4a0b4f50",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
