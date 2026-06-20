@@ -42488,5 +42488,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Engineer, SIG Electrical Design",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/engineer-sig-electrical-design-micron-technology-JV_IC1147436_KO0,30_KE31,48.htm?jl=1010171184782",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical SIG Electrical Design Engineer role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "id": "c5493fb5",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Design Engineer, HBM DFT",
+    "company": "Micron Technology",
+    "location": "Richardson, TX, USA",
+    "url": "https://www.glassdoor.com/job-listing/design-engineer-hbm-dft-micron-technology-JV_IC1140053_KO0,23_KE24,41.htm?jl=1010171807278",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Design Engineer focusing on HBM DFT, which does not match the candidate's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
+    "id": "cf3fa84f",
+    "source": "glassdoor_semi",
+    "posted_date": "2023-05-25",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "ESMC System Engineer Cleanroom / Systemingenieur Reinraumtechnik (m/f/d)",
+    "company": "European Semiconductor Manufacturing Company (ESMC) GmbH",
+    "location": "Dresden, Germany",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22507&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "Matches domain and work model, but years of experience is lower than expected for a senior leadership role.",
+    "id": "68ecd08a",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-16",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
