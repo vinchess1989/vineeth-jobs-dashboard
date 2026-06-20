@@ -41690,5 +41690,47 @@
     "posted_date": "N/A",
     "deadline": "if you feel this opportunity could be the next step in your career, we encourage you to apply. this position will accept applications on an ongoing basis.",
     "description_file": null
+  },
+  {
+    "title": "Staff Process Engineer, Thin Film Deposition, Terafab",
+    "company": "TeraFab Tesla (Extract from page)",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/staff-process-engineer-thin-film-deposition-terafab-tesla-JV_IC1139761_KO0,51_KE52,57.htm?jl=1010171744209",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Process Engineer position in thin film deposition, which does not directly align with the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "id": "b323442f",
+    "source": "glassdoor_semi",
+    "posted_date": "2023-06-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "DESIGN ENGINEER, HIG HBM DESIGN",
+    "company": "Best Places to Work",
+    "location": "San Jose, CA, USA",
+    "url": "https://www.glassdoor.com/job-listing/design-engineer-hig-hbm-design-micron-technology-JV_IC1140053_KO0,30_KE31,48.htm?jl=1010171807277",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "Senior role with 15 years experience matches, but company needs to be extracted from page.",
+    "id": "726baa4e",
+    "source": "glassdoor_semi",
+    "posted_date": "2026-06-12",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Engineer- HIG HBM, DTPCO",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/engineer-hig-hbm-dtpco-micron-technology-JV_IC1127927_KO0,22_KE23,40.htm?jl=1010171807327",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for an IC Engineer, which does not match the target technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "id": "949f19f2",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
