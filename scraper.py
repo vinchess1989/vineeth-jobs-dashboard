@@ -1508,8 +1508,10 @@ def print_job_summary():
             maybe_jobs = sum(1 for j in jobs_data if j.get('matches_requirements') == 'maybe')
             no_jobs = sum(1 for j in jobs_data if j.get('matches_requirements') == 'no')
             pending_jobs = sum(1 for j in jobs_data if j.get('matches_requirements') == 'pending')
+            re_review_jobs = sum(1 for j in jobs_data if j.get('needs_re_review') is True)
 
-        print(f"\nStats - Total jobs: {total_jobs} | Yes Match: {matching_jobs} | Maybe Match: {maybe_jobs} | No Match: {no_jobs} | Pending: {pending_jobs}")
+        re_review_str = f" | Re-review: {re_review_jobs}" if re_review_jobs else ""
+        print(f"\nStats - Total jobs: {total_jobs} | Yes Match: {matching_jobs} | Maybe Match: {maybe_jobs} | No Match: {no_jobs} | Pending: {pending_jobs}{re_review_str}")
     except Exception as e:
         print(f"Error reading jobs file for status display: {e}")
 
