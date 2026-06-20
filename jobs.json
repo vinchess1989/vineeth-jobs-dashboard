@@ -38624,5 +38624,33 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u8eab\u5fc3\u969c\u7919\u62db\u52df",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21850&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical HR role at a semiconductor company.",
+    "id": "5a0ecc5c",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-03",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21850",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job URL is broken and cannot be accessed to review the details.",
+    "id": "dc50be34",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
