@@ -38512,5 +38512,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Physical Design Engineer",
+    "company": "Quest Global",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4425618467",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role involves advanced physical design of semiconductor IPs which is a direct match to the candidate profile.",
+    "id": "56c4c08d",
+    "source": "linkedin_vlsi_ww",
+    "posted_date": "2023-05-24",
+    "deadline": "N/A",
+    "description_file": "job_descriptions/quest_global_physical_design_engineer_56c4c08d.txt"
+  },
+  {
+    "title": "AI HARDWARE ENGINEER",
+    "company": "Ekcel Technologies Inc",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/ai-hardware-engineer-at-ekcel-technologies-inc-4427533244",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This AI Hardware Engineer role at Ekcel Technologies is focused on ML hardware design and integration, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "id": "6edf8508",
+    "source": "linkedin_vlsi_ww",
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Silicon Design Verification Engineer",
+    "company": "AMD",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/silicon-design-verification-engineer-at-amd-4356641414",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is located at AMD's headquarters in San Jose, California, USA.",
+    "id": "66402cf0",
+    "source": "linkedin_vlsi_ww",
+    "posted_date": "2023-06-12",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
