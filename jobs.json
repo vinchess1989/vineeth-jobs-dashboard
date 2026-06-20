@@ -504,20 +504,6 @@
     "description_file": null
   },
   {
-    "title": "SoC Design Engineer",
-    "company": "OMNIVISION",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/soc-design-engineer-at-omnivision-4404224587",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Job is an entry-level SoC Design Engineer role at a semiconductor company, which does not match our technical job focus.",
-    "id": "261568c5",
-    "source": "linkedin_asic_ww",
-    "posted_date": "2026-06-05",
-    "deadline": "2026-06-19",
-    "description_file": null
-  },
-  {
     "title": "Capex & Equipment Coordination",
     "company": "Tata Electronics",
     "location": "Kolar, Karnataka, India",
@@ -32536,20 +32522,6 @@
     "description_file": null
   },
   {
-    "title": "ASIC Physical Design Tools, Flows, Methodologies Manager",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "url": "https://www.linkedin.com/jobs/view/asic-physical-design-tools-flows-methodologies-manager-at-google-4424077753",
-    "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role at Google with experience in TFM for ASICs, managing a team of engineers.",
-    "id": "11726045",
-    "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
-    "deadline": "2026-06-19",
-    "description_file": null
-  },
-  {
     "title": "ML Research Engineer - Hardware Codesign",
     "company": "OpenAI",
     "location": "San Francisco, CA",
@@ -33541,20 +33513,6 @@
     "source": "linkedin_semi_eu",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
-  },
-  {
-    "title": "PCB Design Engineer",
-    "company": "Thales",
-    "location": "Tubize, Walloon Region, Belgium",
-    "url": "https://be.linkedin.com/jobs/view/pcb-design-engineer-at-thales-4343770957",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for PCB design rather than VLSI/semiconductor/EDA focus areas.",
-    "id": "24cb0342",
-    "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "2026-06-19",
     "description_file": null
   },
   {
@@ -42486,6 +42444,34 @@
     "id": "3f590e49",
     "source": "glassdoor_semi",
     "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "[Fall 2025/Spring 2026] TSMC Engineering Career Opportunities (US Locations)",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16562&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "id": "73967bf3",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "US Locations (Remote)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFall-2025-Spring-2026-TSMC-Engineering-Career-Opportunities-US-Locations%2F16562",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is based in TSMC's US locations which requires visa sponsorship or relocation, and does not match Vineeth's criteria of being based in Finland, Europe, UK, India or Asia. Also, it's a general engineering role rather than focusing on Power Integrity.",
+    "id": "45eef695",
+    "source": "tsmc_careers",
+    "posted_date": "2023-05-31",
     "deadline": "Open until filled",
     "description_file": null
   }
