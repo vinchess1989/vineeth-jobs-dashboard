@@ -39366,5 +39366,61 @@
     "posted_date": "2023-06-12",
     "deadline": "N/A",
     "description_file": "job_descriptions/ceremorphic__inc__hardware_architect_4353504d.txt"
+  },
+  {
+    "title": "BSID AI Product Manager (Engineer Role)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16407&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an AI Product Manager, which does not directly fit our semiconductor/VLSI/EDA job requirements.",
+    "id": "5f882200",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FBSID-AI-Product-Manager-Engineer-Role%2F16407",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an AI Product Manager Engineer at TSMC, which does not match the technical domains we are targeting.",
+    "id": "80ad0ae8",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "ICSD _ Server Hardware SIT (System Integration Test) Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16604&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a hardware/systems integration test engineer role, not focused on semiconductor VLSI/EDA domains.",
+    "id": "c8537ec6",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC (Taiwan Semiconductor Manufacturing Company)",
+    "location": "Santa Clara, CA, USA",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FICSD-Server-Hardware-SIT-System-Integration-Test-Engineer%2F16604",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a hardware SIT System Integration Test Engineer position, which does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership roles.",
+    "id": "8128ca9c",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
