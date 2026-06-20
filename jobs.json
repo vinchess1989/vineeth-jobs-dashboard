@@ -40234,5 +40234,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "\u3010H405\u3011\u65b0\u898f\u4e8b\u696d\u4f01\u753b\u30fb\u63a8\u9032\uff08\u4e8b\u696d\u958b\u767a\u90e8\uff0f\u6771\u4eac\u30fb\u5175\u5eab\uff09",
+    "company": "KOBE STEEL LTD",
+    "location": "Sector 2, Bucharest, Romania",
+    "url": "https://ro.linkedin.com/jobs/view/%E3%80%90h405%E3%80%91%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E4%BC%81%E7%94%BB%E3%83%BB%E6%8E%A8%E9%80%B2%EF%BC%88%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E9%83%A8%EF%BC%8F%E6%9D%B1%E4%BA%AC%E3%83%BB%E5%85%B5%E5%BA%AB%EF%BC%89-at-kobe-steel-ltd-4412323174",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a new business development role at KOBE STEEL LTD, which does not fit the semiconductor/VLSI/EDA technical roles we are matching.",
+    "id": "e34565fb",
+    "source": "linkedin_semi_eu",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Maintenance Operator (f/m/d)",
+    "company": "Renesas Electronics",
+    "location": "Dresden, Saxony, Germany",
+    "url": "https://de.linkedin.com/jobs/view/maintenance-operator-f-m-d-at-renesas-electronics-4419851031",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical maintenance operator role at Renesas Electronics, which does not match the semiconductor/VLSI/EDA technical positions we are looking for.",
+    "id": "a48589bd",
+    "source": "linkedin_semi_eu",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Analog Engineer (f/m/d)",
+    "company": "Renesas Electronics",
+    "location": "Edinburgh, Scotland, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/analog-engineer-f-m-d-at-renesas-electronics-4420698552",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role matches the Analog Engineer criteria at a semiconductor company located in Edinburgh, UK.",
+    "id": "70c47d84",
+    "source": "linkedin_semi_uk",
+    "posted_date": "2023-05-08",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_analog_engineer__f_m_d__70c47d84.txt"
+  },
+  {
+    "title": "Project Manager: Data Center Delivery, Finland",
+    "company": "Verda",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/project-manager-data-center-delivery-finland-at-verda-4409967473",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Project Manager focused on data center delivery and physical expansion, rather than an engineering/technical position in semiconductor/VLSI/EDA.",
+    "id": "451550a6",
+    "source": "linkedin_semi_finland",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
