@@ -39240,5 +39240,47 @@
     "posted_date": "2026-06-09",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Senior Product Development Engineer",
+    "company": "Nvidia",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/senior-product-development-engineer-nvidia-JV_IC1147439_KO0,35_KE36,42.htm?jl=1010169663953",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for a non-technical product development engineer position at a semiconductor company.",
+    "id": "8c3b552d",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "development engineer jobs in Santa Clara, CA",
+    "company": "Amazon Web Services",
+    "location": "Cupertino, CA, USA",
+    "url": "https://www.glassdoor.com/Job/santa-clara-development-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,32.htm",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Development Engineer position at Amazon Web Services, which does not directly match Vineeth's technical leadership focus in Power Integrity and Advanced Packaging.",
+    "id": "c6006fd4",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Mechanical Engineer - (E4)",
+    "company": "Applied Materials",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/mechanical-engineer-e4-applied-materials-JV_IC1147439_KO0,22_KE23,40.htm?jl=1010170540568",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is a non-technical Mechanical Engineer position, which does not match the semiconductor/VLSI/EDA technical focus required.",
+    "id": "5986223e",
+    "source": "glassdoor_semi",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
