@@ -44786,20 +44786,6 @@
     "description_file": null
   },
   {
-    "title": "Sales Manager Jobs",
-    "company": "Sales Representative Jobs",
-    "location": "Helsinki, Finland",
-    "url": "https://builtin.com/jobs/sales/search/sales-manager",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a sales management role, not a technical engineering role in semiconductor/VLSI/EDA.",
-    "id": "99db738a",
-    "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
-  },
-  {
     "title": "Sales Operations Jobs",
     "company": "Sales Operations Jobs",
     "location": "San Jose, CA, USA",
@@ -45315,6 +45301,34 @@
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Chief of Staff to the COO",
+    "company": "Verda",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/chief-of-staff-to-the-coo-at-verda-4409960625",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is an executive Chief of Staff role for the COO, not a technical semiconductor/VLSI/EDA engineering position.",
+    "id": "65cc9c89",
+    "source": "linkedin_semi_finland",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Chief of Staff to the COO",
+    "company": "Verda",
+    "location": "Helsinki Metropolitan Area",
+    "url": "https://fi.linkedin.com/jobs/view/chief-of-staff-to-the-coo-at-verda-4418964318",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is a non-technical Chief of Staff position to the COO, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "id": "83f18f1f",
+    "source": "linkedin_semi_finland",
+    "posted_date": "N/A",
+    "deadline": "N/A",
     "description_file": null
   }
 ]
