@@ -43370,5 +43370,33 @@
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Senior AI/System/Full-Stack Web Developer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18774&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical HR role at a semiconductor company, which does not fit our engineering/technical position criteria.",
+    "id": "e2ae9568",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSenior-AI-System-Full-Stack-Web-Developer%2F18774",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior AI System Full Stack Web Developer, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "id": "2ae4cf0c",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
