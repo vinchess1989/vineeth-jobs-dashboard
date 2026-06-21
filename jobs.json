@@ -43552,5 +43552,33 @@
     "posted_date": "2023-06-12",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Senior Engineer, Technology - AMAIS",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/senior-engineer-technology-amais-micron-technology-JV_IC1127927_KO0,32_KE33,50.htm?jl=1010171472917",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Technical Account Manager, which does not match the target technical domains.",
+    "id": "01e3c3b6",
+    "source": "glassdoor_semi",
+    "posted_date": "2026-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFinancial-Specialist-Funding-Management-Department%2F463",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role (Financial Specialist) and does not fit our semiconductor/VLSI/EDA expertise requirements.",
+    "id": "ff0377a8",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
