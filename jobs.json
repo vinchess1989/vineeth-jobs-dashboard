@@ -43398,5 +43398,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "HRBP Manager",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18183&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a HR management position, not a technical engineering role.",
+    "id": "a8d2180e",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHRBP-Manager%2F18183",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is at a semiconductor company, but it is for an HR role and does not meet our technical requirements.",
+    "id": "a2c6e873",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
