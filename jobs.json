@@ -44378,5 +44378,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Principal Product Engineer",
+    "company": "Cadence",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/principal-product-engineer-at-cadence-4414704668",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Senior leadership role in Power Integrity at Cadence, matching key domain and seniority level criteria.",
+    "id": "3da1cb72",
+    "source": "linkedin_semi_india",
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/cadence_principal_product_engineer_3da1cb72.txt"
+  },
+  {
+    "title": "Senior Talent Sourcing Specialist",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22246&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a non-technical HR position which does not match our semiconductor/VLSI/EDA technical focus.",
+    "id": "0b71f938",
+    "source": "tsmc_careers",
+    "posted_date": "2026-06-08",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSenior-Talent-Sourcing-Specialist%2F22246",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical sales role, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "id": "49d5d9f6",
+    "source": "tsmc_careers",
+    "posted_date": "2023-06-21",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
