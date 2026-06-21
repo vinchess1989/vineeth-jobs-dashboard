@@ -883,7 +883,7 @@
                 </div>
                 <div class="table-info-item">
                     <span class="table-info-label">Applied</span>
-                    <span class="table-info-value" id="applied-counter">0</span>
+                    <span class="table-info-value" id="applied-counter" style="cursor:help;border-bottom:1px dashed rgba(244,114,182,0.5);">0</span>
                 </div>
                 <div class="table-info-item">
                     <span class="table-info-label">Reviewed</span>
@@ -1381,7 +1381,10 @@
             }
             
             const appliedCounter = document.getElementById('applied-counter');
-            if (appliedCounter) appliedCounter.textContent = appliedCount;
+            if (appliedCounter) {
+                appliedCounter.textContent = appliedCount;
+                _attachChartHover(appliedCounter, 'applied');
+            }
             
             const reviewedCounter = document.getElementById('reviewed-counter');
             if (reviewedCounter) reviewedCounter.textContent = reviewedCount;
@@ -1625,6 +1628,8 @@
             }
             const LINES = metric === 'yes'
                 ? [{ key: 'yes', color: '#10b981', label: 'Yes' }, { key: 'maybe', color: '#f59e0b', label: 'Maybe' }]
+                : metric === 'applied'
+                ? [{ key: 'applied', color: '#f472b6', label: 'Applied' }]
                 : [{ key: 'total', color: '#a5b4fc', label: 'Total' }, { key: 'yes', color: '#10b981', label: 'Yes' }];
             const allVals = data.flatMap(d => LINES.map(l => d[l.key] ?? 0));
             const minVal = Math.max(0, Math.min(...allVals) - 1), maxVal = Math.max(...allVals) + 1, range = maxVal - minVal || 1;
@@ -1668,7 +1673,9 @@
         async function _showChartTooltip(el, metric) {
             const tip = document.getElementById('chart-tooltip');
             document.getElementById('chart-tooltip-title').textContent =
-                metric === 'yes' ? 'Yes & Maybe matches over time' : 'Total listings & Yes matches over time';
+                metric === 'yes' ? 'Yes & Maybe matches over time'
+                : metric === 'applied' ? 'Applied jobs over time'
+                : 'Total listings & Yes matches over time';
             tip.style.display = 'block';
             const rect = el.getBoundingClientRect();
             const tipW = 350, tipH = 185;
