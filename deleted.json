@@ -3163,5 +3163,50 @@
     "deadline": "N/A",
     "description_file": null,
     "deletion_reason": "Title contains hard-rejection keyword 'sales manager'"
+  },
+  {
+    "title": "Senior Signal and Power Integrity Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-at-nvidia-4395491043",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires US residency, which disqualifies it based on our location criteria.",
+    "id": "6b83e5ad",
+    "source": "linkedin_ww_power_integrity",
+    "posted_date": "2026-06-08",
+    "deadline": "2026-01-13",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-01-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Power Delivery & Integrity Engineer",
+    "company": "Majestic Labs ai",
+    "location": "Los Altos, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-power-delivery-integrity-engineer-at-majestic-labs-ai-4329000557",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "Strong match on domain but US-based with no relocation mention",
+    "id": "3a10a937",
+    "source": "linkedin_ww_power_integrity_p2",
+    "posted_date": "2023-06-12",
+    "deadline": "2023-07-12",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-07-12) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Power Systems Engineer",
+    "company": "EVONA",
+    "location": "Lanham, MD",
+    "url": "https://www.linkedin.com/jobs/view/power-systems-engineer-at-evona-4426806584",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is in Lanham, MD which does not match the priority regions of Finland, Europe (outside Finland), UK (England, Scotland, Ireland) or India/Asia. It's also a hard rejection as it requires US citizenship.",
+    "id": "cdeb9723",
+    "source": "linkedin_ww_power_integrity_p2",
+    "posted_date": "2023-05-17",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

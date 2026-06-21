@@ -205,11 +205,11 @@ FIXED_SITES = [
     {"id": "nxp_careers",             "platform": "nxp",             "scroll_count": 8, "url": "https://nxp.wd3.myworkdayjobs.com/careers?q=engineer"},
     {"id": "infineon_careers",        "platform": "infineon",        "scroll_count": 8, "url": "https://www.infineon.com/cms/en/careers/jobsearch/?query=engineer"},
     {"id": "stmicro_careers",         "platform": "stmicro",         "scroll_count": 8, "url": "https://stmicroelectronics.eightfold.ai/careers?query=engineer"},
-    {"id": "microchip_careers",       "platform": "microchip",       "scroll_count": 8, "url": "https://careers.microchip.com/search-jobs?k=engineer"},
-    {"id": "renesas_careers",         "platform": "renesas",         "scroll_count": 8, "url": "https://www.renesas.com/en/about/careers/search?q=engineer"},
-    {"id": "marvell_careers",         "platform": "marvell",         "scroll_count": 8, "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2?q=engineer"},
-    {"id": "adi_careers",             "platform": "adi",             "scroll_count": 8, "url": "https://analogdevices.wd1.myworkdayjobs.com/External?q=engineer"},
-    {"id": "onsemi_careers",          "platform": "onsemi",          "scroll_count": 8, "url": "https://onsemi.wd1.myworkdayjobs.com/onsemiExternalSite?q=engineer"},
+    # Microchip: careers.microchip.com has expired SSL cert; removed — covered by LinkedIn keyword searches
+    # Renesas: renesas.com triggers bot-protection redirect (chrome-error); removed — covered by LinkedIn
+    # Marvell: Workday SPA, returns ~0 links; removed — covered by LinkedIn keyword searches
+    # ADI: Workday SPA, returns ~0 links; removed — covered by LinkedIn keyword searches
+    # Onsemi: Workday SPA, returns ~0 links; removed — covered by LinkedIn keyword searches
     {"id": "micron_careers",          "platform": "micron",          "scroll_count": 8, "url": "https://micron.eightfold.ai/careers?query=engineer"},
     {"id": "mediatek_careers",        "platform": "mediatek",        "scroll_count": 8, "url": "https://careers.mediatek.com/eREC/search?query=engineer"},
     {"id": "arm_careers",             "platform": "arm",             "scroll_count": 8, "url": "https://careers.arm.com/search-jobs?k=engineer"},
@@ -222,7 +222,7 @@ FIXED_SITES = [
     {"id": "synopsys_careers",    "platform": "synopsys",    "scroll_count": 8, "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359#keyWordSearch=engineer"},
     {"id": "cadence_careers",     "platform": "cadence",     "scroll_count": 8, "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=engineer"},
     {"id": "siemens_eda_careers", "platform": "siemens_eda", "scroll_count": 8, "url": "https://jobs.siemens.com/careers?query=EDA&location=&pid=&domain=&sort_by=date&triggerGoButton=false"},
-    {"id": "ansys_careers",       "platform": "ansys",       "scroll_count": 8, "url": "https://careers.ansys.com/search-jobs?k=semiconductor"},
+    # Ansys acquired by Synopsys in 2024 — careers merged into Synopsys; entry removed
     {"id": "keysight_careers",    "platform": "keysight",    "scroll_count": 8, "url": "https://jobs.keysight.com/search-jobs?k=engineer"},
 
     # Consultancies & Staffing
@@ -779,6 +779,12 @@ def scrape_all_jobs(max_jobs=200):
                 print(f"Added {added} new unseen jobs from this source.")
             except Exception as e:
                 print(f"Failed to scrape {target['id']}: {e}")
+                # Reset page to a clean state so the next goto() isn't interrupted
+                # by an unresolved navigation left behind by this failure.
+                try:
+                    page.goto("about:blank", timeout=5000)
+                except Exception:
+                    pass
 
             current_idx += 1
 
