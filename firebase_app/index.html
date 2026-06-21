@@ -696,6 +696,7 @@
         const itemsPerPage = 100;
         let filteredRows = [];
         let lastSortedCol = -1;
+        let _rowCache = null; // [{el, vals[], postedMs, deadlineMs}] — pre-cached for fast filtering
 
         const fileStatusDot = document.getElementById('file-status-dot');
         const fileStatusText = document.getElementById('file-status-text');
@@ -839,7 +840,27 @@
             buildTable(lastMod);
         }
 
+        function _buildRowCache() {
+            const tbody = document.querySelector('table tbody');
+            if (!tbody) return;
+            const rows = tbody.querySelectorAll('tr');
+            _rowCache = Array.from(rows, row => {
+                const tds = row.getElementsByTagName('td');
+                const vals = Array.from(tds, td =>
+                    td.hasAttribute('data-value') ? td.getAttribute('data-value') : td.textContent.trim()
+                );
+                // Pre-parse date columns to avoid repeated new Date() in hot loop
+                const parseMs = v => {
+                    if (!v || v === 'N/A' || v === 'Open until filled' || v === 'Unknown') return null;
+                    const d = new Date(v);
+                    return isNaN(d.getTime()) ? null : d.getTime();
+                };
+                return { el: row, vals, postedMs: parseMs(vals[6]), deadlineMs: parseMs(vals[7]) };
+            });
+        }
+
         function buildTable(lastMod) {
+            _rowCache = null; // invalidate cache when table is rebuilt
             jobsContainer.innerHTML = '';
 
             // 1. Info bar
@@ -1096,18 +1117,14 @@
         };
 
         function buildMultiSelectFilters() {
-            const tbody = document.querySelector('table tbody');
-            const rows = Array.from(tbody.querySelectorAll('tr'));
-            
+            if (!_rowCache) _buildRowCache();
+
             // Build the multi-select dropdowns for columns 1 to 14
             for (let i = 1; i <= 14; i++) {
                 const uniqueValues = new Set();
-                rows.forEach(row => {
-                    const td = row.getElementsByTagName("td")[i];
-                    if (td) {
-                        const val = td.hasAttribute("data-value") ? td.getAttribute("data-value") : td.textContent.trim();
-                        if (val) uniqueValues.add(val);
-                    }
+                _rowCache.forEach(({ vals }) => {
+                    const val = vals[i];
+                    if (val) uniqueValues.add(val);
                 });
                 
                 const sortedVals = Array.from(uniqueValues).sort((a, b) => a.localeCompare(b, undefined, {sensitivity: 'base'}));
@@ -1247,10 +1264,8 @@
         }
 
         function filterTable() {
-            const tbody = document.querySelector('table tbody');
-            if (!tbody) return;
-            const rows = Array.from(tbody.querySelectorAll('tr'));
-            
+            if (!_rowCache) _buildRowCache();
+
             const postedDaysInput = document.getElementById('posted-days-filter');
             const deadlineDaysInput = document.getElementById('deadline-days-filter');
             const postedLimit = (postedDaysInput && postedDaysInput.value) ? parseInt(postedDaysInput.value) : null;
@@ -1304,80 +1319,49 @@
             let appliedCount = 0;
             let reviewedCount = 0;
             filteredRows = [];
-            rows.forEach(row => {
-                let show = true;
-                
-                for (let i = 1; i <= 14; i++) {
-                    if (filters[i]) {
-                        const td = row.getElementsByTagName("td")[i];
-                        if (td) {
-                            const val = td.hasAttribute("data-value") ? td.getAttribute("data-value") : td.textContent.trim();
+            const todayMs = today.getTime();
+            const DAY_MS = 86400000;
 
-                            let passesCheckbox = filters[i].length === 0 || filters[i].includes(val);
-                            
-                            if (i === 6 && postedLimit !== null && !isNaN(postedLimit)) {
-                                let passesDate = false;
-                                if (val && val !== 'N/A' && val !== 'Open until filled' && val !== 'Unknown') {
-                                    const d = new Date(val);
-                                    if (!isNaN(d.getTime())) {
-                                        const diffTime = today - d;
-                                        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-                                        if (diffDays >= 0 && diffDays <= postedLimit) passesDate = true;
-                                    }
-                                }
-                                passesCheckbox = filters[i].length === 0 ? passesDate : (passesCheckbox || passesDate);
-                            }
-                            
-                            if (i === 7 && deadlineLimit !== null && !isNaN(deadlineLimit)) {
-                                let passesDate = false;
-                                if (val && val !== 'N/A' && val !== 'Open until filled' && val !== 'Unknown') {
-                                    const d = new Date(val);
-                                    if (!isNaN(d.getTime())) {
-                                        const diffTime = d - today;
-                                        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-                                        if (diffDays >= 0 && diffDays <= deadlineLimit) passesDate = true;
-                                    }
-                                }
-                                passesCheckbox = filters[i].length === 0 ? passesDate : (passesCheckbox || passesDate);
-                            }
-                            
-                            if (!passesCheckbox) {
-                                show = false;
-                                break;
-                            }
-                        }
+            for (let r = 0; r < _rowCache.length; r++) {
+                const entry = _rowCache[r];
+                const { vals, postedMs, deadlineMs } = entry;
+                let show = true;
+
+                for (let i = 1; i <= 14; i++) {
+                    if (!filters[i]) continue;
+                    const val = vals[i] || '';
+                    let passesCheckbox = filters[i].length === 0 || filters[i].includes(val);
+
+                    if (i === 6 && postedLimit !== null && !isNaN(postedLimit)) {
+                        const passesDate = postedMs !== null &&
+                            Math.ceil((todayMs - postedMs) / DAY_MS) >= 0 &&
+                            Math.ceil((todayMs - postedMs) / DAY_MS) <= postedLimit;
+                        passesCheckbox = filters[i].length === 0 ? passesDate : (passesCheckbox || passesDate);
                     }
+
+                    if (i === 7 && deadlineLimit !== null && !isNaN(deadlineLimit)) {
+                        const passesDate = deadlineMs !== null &&
+                            Math.ceil((deadlineMs - todayMs) / DAY_MS) >= 0 &&
+                            Math.ceil((deadlineMs - todayMs) / DAY_MS) <= deadlineLimit;
+                        passesCheckbox = filters[i].length === 0 ? passesDate : (passesCheckbox || passesDate);
+                    }
+
+                    if (!passesCheckbox) { show = false; break; }
                 }
-                
+
                 if (show) {
-                    filteredRows.push(row);
+                    filteredRows.push(entry.el);
                     visibleCount++;
-                    const tdMatches = row.getElementsByTagName("td")[9];
-                    const tdSync = row.getElementsByTagName("td")[8];
-                    if (tdMatches) {
-                        const mVal = tdMatches.getAttribute("data-value");
-                        if (mVal === 'yes') counts.yes++;
-                        else if (mVal === 'maybe') counts.maybe++;
-                        else if (mVal === 'no') counts.no++;
-                        else if (mVal === 'pending') counts.pending++;
-                    }
-                    if (tdSync) {
-                        if (tdSync.getAttribute("data-value") === 'Queued') counts.rereview++;
-                    }
-                    
-                    const tdApplied = row.getElementsByTagName("td")[12];
-                    if (tdApplied) {
-                        const aVal = tdApplied.getAttribute("data-value");
-                        if (aVal === 'yes') appliedCount++;
-                    }
-                    
-                    const tdReview = row.getElementsByTagName("td")[13];
-                    if (tdReview) {
-                        const rVal = tdReview.getAttribute("data-value");
-                        if (rVal === 'done') reviewedCount++;
-                    }
+                    const mVal = vals[9];
+                    if (mVal === 'yes') counts.yes++;
+                    else if (mVal === 'maybe') counts.maybe++;
+                    else if (mVal === 'no') counts.no++;
+                    else if (mVal === 'pending') counts.pending++;
+                    if (vals[8] === 'Queued') counts.rereview++;
+                    if (vals[12] === 'yes') appliedCount++;
+                    if (vals[13] === 'done') reviewedCount++;
                 }
-            });
+            }
             
             const counter = document.getElementById('listings-counter');
             if (counter) {
@@ -1409,18 +1393,15 @@
             currentPage = page;
             const start = (currentPage - 1) * itemsPerPage;
             const end = start + itemsPerPage;
-            
-            const tbody = document.querySelector('table tbody');
-            const rows = Array.from(tbody.querySelectorAll('tr'));
-            
-            rows.forEach(row => {
-                row.style.display = 'none';
-            });
-            
+
+            // Hide all rows using cache (avoids querySelectorAll)
+            if (_rowCache) {
+                for (let r = 0; r < _rowCache.length; r++) _rowCache[r].el.style.display = 'none';
+            }
             for (let i = start; i < end && i < filteredRows.length; i++) {
                 filteredRows[i].style.display = '';
             }
-            
+
             updatePaginationUI();
         }
 
