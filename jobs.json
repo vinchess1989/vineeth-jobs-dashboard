@@ -44308,5 +44308,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "IP Design & Verification Engineer",
+    "company": "AMD",
+    "location": "Hyderabad, Telangana, India",
+    "url": "https://in.linkedin.com/jobs/view/ip-design-verification-engineer-at-amd-4412112659",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches semiconductor/VLSI/EDA domains and senior level with 7+ years experience, at AMD which is a key company in this space.",
+    "id": "1081bef2",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_ip_design___verification_engin_1081bef2.txt"
+  },
+  {
+    "title": "JASM - Fab23 - Equipment Engineer (4146)",
+    "company": "Japan Advanced Semiconductor Manufacturing, Inc.",
+    "location": "Japan-Kumamoto",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=13487&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is an Equipment Engineer position at a semiconductor manufacturing facility, which does not match our focus on technical roles in VLSI/EDA/Packaging.",
+    "id": "2dfd5999",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-11",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
