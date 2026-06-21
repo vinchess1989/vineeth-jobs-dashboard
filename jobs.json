@@ -44756,5 +44756,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "SoC Design Architect",
+    "company": "Oho Group",
+    "location": "California, United States",
+    "url": "https://www.linkedin.com/jobs/view/soc-design-architect-at-oho-group-4430340299",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for a senior SoC design architect focused on AI acceleration systems, which does not directly match the technical areas we are looking for (Power Integrity/Advanced Packaging/CAD/Methodology).",
+    "id": "428d767c",
+    "source": "linkedin_asic_ww",
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
+    "company": "Jack & Jill",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4430341228",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a founding design engineer at a startup, which does not match the VLSI/EDA semiconductor job requirements.",
+    "id": "f0ee73cd",
+    "source": "linkedin_rtl_ww",
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Principal DRAM Design Engineer",
+    "company": "Micron Technology",
+    "location": "Extract from page",
+    "url": "https://www.glassdoor.com/job-listing/principal-dram-design-engineer-micron-technology-JV_IC1127927_KO0,30_KE31,48.htm?jl=1010172694666",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires DRAM design experience which is not a primary focus of the candidate's background in Power Integrity and Advanced Packaging.",
+    "id": "b5d87c0a",
+    "source": "glassdoor_semi",
+    "posted_date": "2026-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
