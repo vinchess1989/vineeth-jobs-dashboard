@@ -44420,5 +44420,47 @@
     "posted_date": "2023-06-21",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Verification Engineer (BLR/ Pune)",
+    "company": "ScaleFlux",
+    "location": "Pune City, Maharashtra, India",
+    "url": "https://in.linkedin.com/jobs/view/verification-engineer-blr-pune-at-scaleflux-4430314782",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role fits a mid-senior level VLSI/SoC design verification engineer position, with the required skills and experience in digital ASIC design, ARM cores, AMBA protocols, SOC interfaces. The location is also a match.",
+    "id": "94ab65d2",
+    "source": "linkedin_vlsi_india",
+    "posted_date": "2023-06-18",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/scaleflux_verification_engineer__blr__pu_94ab65d2.txt"
+  },
+  {
+    "title": "Specialty Technology R&D Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6157&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This position is located in Taiwan, which does not match the priority locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "id": "790e0afa",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-25",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSpecialty-Technology-R-D-Engineer%2F6157",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a technical role at a semiconductor company, but it does not match the specific domains of Power Integrity, Advanced Packaging, CAD/Methodology, or Physical Design that Vineeth's background and skills align with. It also does not specify if visa sponsorship is available.",
+    "id": "66c66906",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
