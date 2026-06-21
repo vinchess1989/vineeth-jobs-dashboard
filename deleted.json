@@ -3148,5 +3148,20 @@
     "deadline": "2026-03-09",
     "description_file": null,
     "deletion_reason": "Deadline (2026-03-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sales Manager Jobs",
+    "company": "Sales Representative Jobs",
+    "location": "Helsinki, Finland",
+    "url": "https://builtin.com/jobs/sales/search/sales-manager",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a sales management role, not a technical engineering role in semiconductor/VLSI/EDA.",
+    "id": "99db738a",
+    "source": "builtin_semi",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Title contains hard-rejection keyword 'sales manager'"
   }
 ]
