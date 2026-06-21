@@ -52,102 +52,122 @@ BLOCKED_TITLE_KEYWORDS = [
 # ─────────────────────────────────────────────────────────────────────────────
 SEARCH_SITES = [
     # LinkedIn — semiconductor/VLSI keywords
-    {"id": "linkedin_semi_ww", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&sortBy=DD"},
-    {"id": "linkedin_vlsi_ww", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=VLSI&sortBy=DD"},
-    {"id": "linkedin_eda_ww", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=EDA%20design%20automation&sortBy=DD"},
-    {"id": "linkedin_asic_ww", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=ASIC%20design&sortBy=DD"},
-    {"id": "linkedin_semi_india", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=India&sortBy=DD"},
-    {"id": "linkedin_vlsi_india", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=VLSI&location=India&sortBy=DD"},
-    {"id": "linkedin_fpga_ww", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=FPGA%20engineer&sortBy=DD"},
-    {"id": "linkedin_rtl_ww", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=RTL%20design%20engineer&sortBy=DD"},
+    # pages: how many URL-offset pages to fetch (LinkedIn +25/page, Indeed +10/page)
+    # scroll_count: how many scroll actions on infinite-scroll / career-page sites
+    {"id": "linkedin_semi_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&sortBy=DD"},
+    {"id": "linkedin_vlsi_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=VLSI&sortBy=DD"},
+    {"id": "linkedin_eda_ww",     "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=EDA%20design%20automation&sortBy=DD"},
+    {"id": "linkedin_asic_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=ASIC%20design&sortBy=DD"},
+    {"id": "linkedin_semi_india", "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=India&sortBy=DD"},
+    {"id": "linkedin_vlsi_india", "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=VLSI&location=India&sortBy=DD"},
+    {"id": "linkedin_fpga_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=FPGA%20engineer&sortBy=DD"},
+    {"id": "linkedin_rtl_ww",     "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=RTL%20design%20engineer&sortBy=DD"},
 
     # Indeed — semiconductor
-    {"id": "indeed_semi_ww", "platform": "indeed", "url": "https://www.indeed.com/jobs?q=semiconductor+engineer&sort=date"},
-    {"id": "indeed_vlsi_india", "platform": "indeed", "url": "https://www.indeed.com/jobs?q=VLSI+design&l=India&sort=date"},
-    {"id": "indeed_asic", "platform": "indeed", "url": "https://www.indeed.com/jobs?q=ASIC+design+engineer&sort=date"},
+    {"id": "indeed_semi_ww",   "platform": "indeed", "pages": 4, "url": "https://www.indeed.com/jobs?q=semiconductor+engineer&sort=date"},
+    {"id": "indeed_vlsi_india","platform": "indeed", "pages": 4, "url": "https://www.indeed.com/jobs?q=VLSI+design&l=India&sort=date"},
+    {"id": "indeed_asic",      "platform": "indeed", "pages": 4, "url": "https://www.indeed.com/jobs?q=ASIC+design+engineer&sort=date"},
 
-    # Naukri.com — India-specific
-    {"id": "naukri_vlsi", "platform": "naukri", "url": "https://www.naukri.com/vlsi-design-jobs?sort=date"},
-    {"id": "naukri_semi", "platform": "naukri", "url": "https://www.naukri.com/semiconductor-jobs?sort=date"},
-    {"id": "naukri_fpga", "platform": "naukri", "url": "https://www.naukri.com/fpga-jobs?sort=date"},
-    {"id": "naukri_asic", "platform": "naukri", "url": "https://www.naukri.com/asic-design-jobs?sort=date"},
-    {"id": "naukri_embedded", "platform": "naukri", "url": "https://www.naukri.com/embedded-systems-jobs?sort=date"},
+    # Naukri.com — India-specific (infinite scroll)
+    {"id": "naukri_vlsi",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/vlsi-design-jobs?sort=date"},
+    {"id": "naukri_semi",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/semiconductor-jobs?sort=date"},
+    {"id": "naukri_fpga",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/fpga-jobs?sort=date"},
+    {"id": "naukri_asic",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/asic-design-jobs?sort=date"},
+    {"id": "naukri_embedded", "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/embedded-systems-jobs?sort=date"},
 
     # Glassdoor
-    {"id": "glassdoor_semi", "platform": "glassdoor", "url": "https://www.glassdoor.com/Job/semiconductor-engineer-jobs-SRCH_KO0,22.htm?sortBy=date_desc"},
+    {"id": "glassdoor_semi", "platform": "glassdoor", "scroll_count": 10, "url": "https://www.glassdoor.com/Job/semiconductor-engineer-jobs-SRCH_KO0,22.htm?sortBy=date_desc"},
 
     # Major Semiconductor Companies — Career Pages
-    {"id": "intel_careers", "platform": "intel", "url": "https://jobs.intel.com/en/search-jobs?k=engineer"},
-    {"id": "amd_careers", "platform": "amd", "url": "https://careers.amd.com/careers/SearchJobs?sort=posting_date"},
-    {"id": "nvidia_careers", "platform": "nvidia", "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=engineer"},
-    {"id": "qualcomm_careers", "platform": "qualcomm", "url": "https://careers.qualcomm.com/careers?query=engineer&sortBy=relevance"},
-    {"id": "broadcom_careers", "platform": "broadcom", "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career?q=engineer"},
-    {"id": "ti_careers", "platform": "ti", "url": "https://careers.ti.com/search-jobs?k=engineer"},
-    {"id": "nxp_careers", "platform": "nxp", "url": "https://nxp.wd3.myworkdayjobs.com/careers?q=engineer"},
-    {"id": "infineon_careers", "platform": "infineon", "url": "https://www.infineon.com/cms/en/careers/jobsearch/?query=engineer"},
-    {"id": "stmicro_careers", "platform": "stmicro", "url": "https://stmicroelectronics.eightfold.ai/careers?query=engineer"},
-    {"id": "microchip_careers", "platform": "microchip", "url": "https://careers.microchip.com/search-jobs?k=engineer"},
-    {"id": "renesas_careers", "platform": "renesas", "url": "https://www.renesas.com/en/about/careers/search?q=engineer"},
-    {"id": "marvell_careers", "platform": "marvell", "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2?q=engineer"},
-    {"id": "adi_careers", "platform": "adi", "url": "https://analogdevices.wd1.myworkdayjobs.com/External?q=engineer"},
-    {"id": "onsemi_careers", "platform": "onsemi", "url": "https://onsemi.wd1.myworkdayjobs.com/onsemiExternalSite?q=engineer"},
-    {"id": "micron_careers", "platform": "micron", "url": "https://micron.eightfold.ai/careers?query=engineer"},
-    {"id": "mediatek_careers", "platform": "mediatek", "url": "https://careers.mediatek.com/eREC/search?query=engineer"},
-    {"id": "arm_careers", "platform": "arm", "url": "https://careers.arm.com/search-jobs?k=engineer"},
-    {"id": "samsung_semi_careers", "platform": "samsung_semi", "url": "https://semiconductor.samsung.com/us/careers/job-search/?keyword=engineer"},
-    {"id": "tsmc_careers", "platform": "tsmc", "url": "https://careers.tsmc.com/careers/SearchJobs?sort=posting_date"},
-    {"id": "globalfoundries_careers", "platform": "globalfoundries", "url": "https://globalfoundries.wd1.myworkdayjobs.com/External?q=engineer"},
-    {"id": "skhynix_careers", "platform": "skhynix", "url": "https://recruit.skhynix.com/eng/search.do"},
+    {"id": "intel_careers",           "platform": "intel",           "scroll_count": 8, "url": "https://jobs.intel.com/en/search-jobs?k=engineer"},
+    {"id": "amd_careers",             "platform": "amd",             "scroll_count": 8, "url": "https://careers.amd.com/careers/SearchJobs?sort=posting_date"},
+    {"id": "nvidia_careers",          "platform": "nvidia",          "scroll_count": 8, "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=engineer"},
+    {"id": "qualcomm_careers",        "platform": "qualcomm",        "scroll_count": 8, "url": "https://careers.qualcomm.com/careers?query=engineer&sortBy=relevance"},
+    {"id": "broadcom_careers",        "platform": "broadcom",        "scroll_count": 8, "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career?q=engineer"},
+    {"id": "ti_careers",              "platform": "ti",              "scroll_count": 8, "url": "https://careers.ti.com/search-jobs?k=engineer"},
+    {"id": "nxp_careers",             "platform": "nxp",             "scroll_count": 8, "url": "https://nxp.wd3.myworkdayjobs.com/careers?q=engineer"},
+    {"id": "infineon_careers",        "platform": "infineon",        "scroll_count": 8, "url": "https://www.infineon.com/cms/en/careers/jobsearch/?query=engineer"},
+    {"id": "stmicro_careers",         "platform": "stmicro",         "scroll_count": 8, "url": "https://stmicroelectronics.eightfold.ai/careers?query=engineer"},
+    {"id": "microchip_careers",       "platform": "microchip",       "scroll_count": 8, "url": "https://careers.microchip.com/search-jobs?k=engineer"},
+    {"id": "renesas_careers",         "platform": "renesas",         "scroll_count": 8, "url": "https://www.renesas.com/en/about/careers/search?q=engineer"},
+    {"id": "marvell_careers",         "platform": "marvell",         "scroll_count": 8, "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2?q=engineer"},
+    {"id": "adi_careers",             "platform": "adi",             "scroll_count": 8, "url": "https://analogdevices.wd1.myworkdayjobs.com/External?q=engineer"},
+    {"id": "onsemi_careers",          "platform": "onsemi",          "scroll_count": 8, "url": "https://onsemi.wd1.myworkdayjobs.com/onsemiExternalSite?q=engineer"},
+    {"id": "micron_careers",          "platform": "micron",          "scroll_count": 8, "url": "https://micron.eightfold.ai/careers?query=engineer"},
+    {"id": "mediatek_careers",        "platform": "mediatek",        "scroll_count": 8, "url": "https://careers.mediatek.com/eREC/search?query=engineer"},
+    {"id": "arm_careers",             "platform": "arm",             "scroll_count": 8, "url": "https://careers.arm.com/search-jobs?k=engineer"},
+    {"id": "samsung_semi_careers",    "platform": "samsung_semi",    "scroll_count": 8, "url": "https://semiconductor.samsung.com/us/careers/job-search/?keyword=engineer"},
+    {"id": "tsmc_careers",            "platform": "tsmc",            "scroll_count": 8, "url": "https://careers.tsmc.com/careers/SearchJobs?sort=posting_date"},
+    {"id": "globalfoundries_careers", "platform": "globalfoundries", "scroll_count": 8, "url": "https://globalfoundries.wd1.myworkdayjobs.com/External?q=engineer"},
+    {"id": "skhynix_careers",         "platform": "skhynix",         "scroll_count": 8, "url": "https://recruit.skhynix.com/eng/search.do"},
 
     # EDA / Design Automation Companies
-    {"id": "synopsys_careers", "platform": "synopsys", "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359#keyWordSearch=engineer"},
-    {"id": "cadence_careers", "platform": "cadence", "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=engineer"},
-    {"id": "siemens_eda_careers", "platform": "siemens_eda", "url": "https://jobs.siemens.com/careers?query=EDA&location=&pid=&domain=&sort_by=date&triggerGoButton=false"},
-    {"id": "ansys_careers", "platform": "ansys", "url": "https://careers.ansys.com/search-jobs?k=semiconductor"},
-    {"id": "keysight_careers", "platform": "keysight", "url": "https://jobs.keysight.com/search-jobs?k=engineer"},
+    {"id": "synopsys_careers",    "platform": "synopsys",    "scroll_count": 8, "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359#keyWordSearch=engineer"},
+    {"id": "cadence_careers",     "platform": "cadence",     "scroll_count": 8, "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=engineer"},
+    {"id": "siemens_eda_careers", "platform": "siemens_eda", "scroll_count": 8, "url": "https://jobs.siemens.com/careers?query=EDA&location=&pid=&domain=&sort_by=date&triggerGoButton=false"},
+    {"id": "ansys_careers",       "platform": "ansys",       "scroll_count": 8, "url": "https://careers.ansys.com/search-jobs?k=semiconductor"},
+    {"id": "keysight_careers",    "platform": "keysight",    "scroll_count": 8, "url": "https://jobs.keysight.com/search-jobs?k=engineer"},
 
     # Consultancies & Staffing (Semiconductor Specialists)
-    {"id": "tata_elxsi_careers", "platform": "tata_elxsi", "url": "https://www.tataelxsi.com/careers/job-search.html"},
-    {"id": "sifive_careers", "platform": "sifive", "url": "https://www.sifive.com/careers"},
-    {"id": "tessolve_careers", "platform": "tessolve", "url": "https://www.tessolve.com/careers/"},
+    {"id": "tata_elxsi_careers", "platform": "tata_elxsi", "scroll_count": 8, "url": "https://www.tataelxsi.com/careers/job-search.html"},
+    {"id": "sifive_careers",     "platform": "sifive",     "scroll_count": 8, "url": "https://www.sifive.com/careers"},
+    {"id": "tessolve_careers",   "platform": "tessolve",   "scroll_count": 8, "url": "https://www.tessolve.com/careers/"},
 
     # Government / Public Sector (India)
-    {"id": "isro_careers", "platform": "isro", "url": "https://www.isro.gov.in/careers.html"},
-    {"id": "drdo_careers", "platform": "drdo", "url": "https://www.drdo.gov.in/drdo/job-opportunities"},
-    {"id": "bel_careers", "platform": "bel", "url": "https://www.bel-india.in/Ede/ContentPage.aspx?MId=21&CId=0&LId=1&link=291"},
-    {"id": "cdac_careers", "platform": "cdac", "url": "https://www.cdac.in/index.aspx?id=ca_openpositions"},
+    {"id": "isro_careers", "platform": "isro", "scroll_count": 6, "url": "https://www.isro.gov.in/careers.html"},
+    {"id": "drdo_careers", "platform": "drdo", "scroll_count": 6, "url": "https://www.drdo.gov.in/drdo/job-opportunities"},
+    {"id": "bel_careers",  "platform": "bel",  "scroll_count": 6, "url": "https://www.bel-india.in/Ede/ContentPage.aspx?MId=21&CId=0&LId=1&link=291"},
+    {"id": "cdac_careers", "platform": "cdac", "scroll_count": 6, "url": "https://www.cdac.in/index.aspx?id=ca_openpositions"},
 
     # Startup Job Boards
-    {"id": "yc_semi", "platform": "yc", "url": "https://www.workatastartup.com/jobs?query=semiconductor"},
-    {"id": "wellfound_semi", "platform": "wellfound", "url": "https://wellfound.com/role/r/semiconductor-engineer"},
-    {"id": "builtin_semi", "platform": "builtin", "url": "https://builtin.com/jobs?search=semiconductor"},
+    {"id": "yc_semi",       "platform": "yc",       "scroll_count": 10, "url": "https://www.workatastartup.com/jobs?query=semiconductor"},
+    {"id": "wellfound_semi","platform": "wellfound", "scroll_count": 10, "url": "https://wellfound.com/role/r/semiconductor-engineer"},
+    {"id": "builtin_semi",  "platform": "builtin",   "scroll_count": 10, "url": "https://builtin.com/jobs?search=semiconductor"},
 
     # European / UK / Finland Specific
-    {"id": "linkedin_semi_eu", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=European%20Union&sortBy=DD"},
-    {"id": "linkedin_semi_uk", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=United%20Kingdom&sortBy=DD"},
-    {"id": "linkedin_semi_finland", "platform": "linkedin", "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=Finland&sortBy=DD"},
-    {"id": "ic_resources", "platform": "ic_resources", "url": "https://ic-resources.com/en/jobs/semiconductor"},
-    {"id": "euro_engineer_jobs", "platform": "euro_engineer_jobs", "url": "https://www.euroengineerjobs.com/jobs/semiconductor"},
-    {"id": "jobly_fi_engineer", "platform": "jobly", "url": "https://www.jobly.fi/tyopaikat?search=engineer"},
-    {"id": "work_in_finland", "platform": "work_in_finland", "url": "https://www.workinfinland.com/en/open-jobs/?industry=engineering"},
+    {"id": "linkedin_semi_eu",      "platform": "linkedin",          "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=European%20Union&sortBy=DD"},
+    {"id": "linkedin_semi_uk",      "platform": "linkedin",          "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=United%20Kingdom&sortBy=DD"},
+    {"id": "linkedin_semi_finland", "platform": "linkedin",          "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=Finland&sortBy=DD"},
+    {"id": "ic_resources",          "platform": "ic_resources",      "scroll_count": 8, "url": "https://ic-resources.com/en/jobs/semiconductor"},
+    {"id": "euro_engineer_jobs",    "platform": "euro_engineer_jobs","scroll_count": 8, "url": "https://www.euroengineerjobs.com/jobs/semiconductor"},
+    {"id": "jobly_fi_engineer",     "platform": "jobly",             "scroll_count": 10, "url": "https://www.jobly.fi/tyopaikat?search=engineer"},
+    {"id": "work_in_finland",       "platform": "work_in_finland",   "scroll_count": 8, "url": "https://www.workinfinland.com/en/open-jobs/?industry=engineering"},
 
     # Reddit Startups & Freelance
-    {"id": "reddit_chipdesign", "platform": "reddit", "url": "https://old.reddit.com/r/chipdesign/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
-    {"id": "reddit_ece", "platform": "reddit", "url": "https://old.reddit.com/r/ECE/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
-    {"id": "reddit_hwstartups", "platform": "reddit", "url": "https://old.reddit.com/r/hwstartups/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
+    {"id": "reddit_chipdesign", "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/chipdesign/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
+    {"id": "reddit_ece",        "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/ECE/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
+    {"id": "reddit_hwstartups", "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/hwstartups/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
 ]
 
+# Default scroll count for sites with no explicit scroll_count set
+_DEFAULT_SCROLL_COUNT = 8
+
+def _page_url(base_url: str, platform: str, page_idx: int) -> str:
+    """Return the URL for a given 0-based page index."""
+    if page_idx == 0:
+        return base_url
+    if platform == 'linkedin':
+        return base_url + f'&start={page_idx * 25}'
+    if platform == 'indeed':
+        return base_url + f'&start={page_idx * 10}'
+    return base_url  # fallback: unsupported platform, stay on page 0
 
 def generate_targets():
     """Generate scrape targets from SEARCH_SITES config."""
     targets = []
     for site in SEARCH_SITES:
-        targets.append({
-            "id": site["id"],
-            "platform": site["platform"],
-            "term": "All",
-            "url": site["url"]
-        })
+        max_pages = site.get('pages', 1)
+        scroll_count = site.get('scroll_count', _DEFAULT_SCROLL_COUNT)
+        for page_idx in range(max_pages):
+            url = _page_url(site['url'], site['platform'], page_idx)
+            target_id = site['id'] if page_idx == 0 else f"{site['id']}_p{page_idx + 1}"
+            targets.append({
+                'id': target_id,
+                'platform': site['platform'],
+                'term': 'All',
+                'url': url,
+                'scroll_count': scroll_count,
+            })
     return targets
 
 
@@ -591,8 +611,8 @@ def scrape_all_jobs(max_jobs=200):
             print(f"\nNavigating to {target['url']} (Site: {target['id']}) ...")
             try:
                 page.goto(target['url'], timeout=30000)
-                # Scroll down 3 times to trigger lazy-loaded content
-                for _ in range(3):
+                scroll_count = target.get('scroll_count', _DEFAULT_SCROLL_COUNT)
+                for _ in range(scroll_count):
                     page.mouse.wheel(0, 2000)
                     time.sleep(1.5)
 
