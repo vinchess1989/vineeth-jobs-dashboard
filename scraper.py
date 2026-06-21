@@ -28,7 +28,24 @@ HISTORY_FILE = os.path.join(BASE_DIR, "jobs_history.json")
 # ─────────────────────────────────────────────────────────────────────────────
 # BLOCKED KEYWORDS — jobs with these keywords in the title are auto-deleted
 # ─────────────────────────────────────────────────────────────────────────────
-BLOCKED_TITLE_KEYWORDS = ['director', 'vice president', 'vp ', 'chief ', 'cto', 'ceo', 'cfo']
+BLOCKED_TITLE_KEYWORDS = [
+    # C-suite / pure-executive (non-technical)
+    'director', 'vice president', 'cto', 'ceo', 'cfo',
+    # Non-technical: HR & Recruiting
+    'talent acquisition', 'recruiter', 'human resources',
+    # Non-technical: Finance
+    'financial analyst', 'finance analyst', 'accountant', 'investor relations',
+    # Non-technical: Marketing (specific non-engineer roles)
+    'marketing manager', 'marketing coordinator', 'marketing analyst',
+    'digital marketing', 'content marketing', 'social media manager',
+    # Non-technical: Sales management (not "Sales Engineer" or "Technical Account Manager")
+    'sales manager', 'sales coordinator', 'inside sales',
+    # Non-technical: Supply chain / sourcing / procurement
+    'sourcing manager', 'supply chain analyst', 'procurement analyst',
+    'supply chain manager',
+    # Non-technical: Other
+    'venture associate', 'venture partner',
+]
 
 # ─────────────────────────────────────────────────────────────────────────────
 # JOB SOURCES — Semiconductor / VLSI / EDA domain
@@ -431,7 +448,7 @@ def generate_history_from_backups():
 # ─────────────────────────────────────────────────────────────────────────────
 
 def clean_blocked_jobs():
-    """Finds and moves blocked jobs (title keywords, expired deadlines) from jobs.json to deleted.json."""
+    """Finds and moves hard-rejected jobs from jobs.json to deleted.json based on job_requirements.md criteria."""
     if not os.path.exists(JOBS_FILE):
         return
 
@@ -456,40 +473,47 @@ def clean_blocked_jobs():
     seen_deleted = {j.get('url') for j in deleted_jobs if j.get('url')}
 
     for job in jobs:
+        # Never auto-delete jobs the user has already explicitly reviewed
+        if job.get('user_review') == 'done' or job.get('applied') == 'yes':
+            cleaned_jobs.append(job)
+            continue
+
         title = job.get('title', '').lower()
         reason = job.get('reason', '').lower()
 
         is_blocked = False
         deletion_reason = ""
 
-        # Check blocked title keywords
+        # 1. Blocked title keywords (non-technical roles + C-suite)
         for kw in BLOCKED_TITLE_KEYWORDS:
             if kw in title:
                 is_blocked = True
-                deletion_reason = f"Title contains blocked keyword '{kw}'"
+                deletion_reason = f"Title contains hard-rejection keyword '{kw}'"
                 break
 
-        # Check US citizenship requirement (security clearance)
+        # 2. US citizenship / no-visa-sponsorship requirement (detected in LLM reason)
         if not is_blocked:
             if any(phrase in reason for phrase in [
                 "us citizenship", "security clearance required",
-                "must be a u.s. citizen", "requires us citizenship"
+                "must be a u.s. citizen", "requires us citizenship",
+                "no visa sponsorship", "no sponsorship",
+                "us citizen only", "must be authorized to work in the us",
+                "work authorization in the us",
             ]):
                 is_blocked = True
-                deletion_reason = "Requires US citizenship or security clearance"
+                deletion_reason = "Requires US citizenship / no visa sponsorship"
 
-        # Check expired deadline (> 2 days passed) and not reviewed by user
-        if not is_blocked and job.get('user_review') != 'done':
+        # 3. Expired deadline (> 2 days passed)
+        if not is_blocked:
             deadline_str = job.get('deadline', '')
-            if deadline_str:
-                if re.match(r'^\d{4}-\d{2}-\d{2}$', str(deadline_str)):
-                    try:
-                        deadline_date = datetime.strptime(deadline_str, "%Y-%m-%d")
-                        if datetime.now() > deadline_date + timedelta(days=2):
-                            is_blocked = True
-                            deletion_reason = f"Deadline ({deadline_str}) passed by more than 2 days and unreviewed"
-                    except ValueError:
-                        pass
+            if deadline_str and re.match(r'^\d{4}-\d{2}-\d{2}$', str(deadline_str)):
+                try:
+                    deadline_date = datetime.strptime(deadline_str, "%Y-%m-%d")
+                    if datetime.now() > deadline_date + timedelta(days=2):
+                        is_blocked = True
+                        deletion_reason = f"Deadline ({deadline_str}) passed by more than 2 days and unreviewed"
+                except ValueError:
+                    pass
 
         if is_blocked:
             job['deletion_reason'] = deletion_reason
@@ -501,7 +525,7 @@ def clean_blocked_jobs():
             cleaned_jobs.append(job)
 
     if moved_count > 0:
-        print(f"INFO: Moved {moved_count} blocked jobs to deleted.json.")
+        print(f"INFO: Moved {moved_count} hard-rejected jobs to deleted.json.")
         try:
             with open(JOBS_FILE, 'w', encoding='utf-8') as f:
                 json.dump(cleaned_jobs, f, indent=2)

@@ -1,11 +1,11 @@
 # Job Search Requirements — Semiconductor / VLSI / EDA
 
 ## Candidate Profile
-* **Name:** Vineeth
-* **Current Role:** (To be filled by Vineeth)
-* **Years of Experience:** (To be filled by Vineeth)
-* **Background:** Semiconductor, VLSI Design, EDA tools, embedded systems
-* **Key Skills:** (To be filled — e.g., RTL Design, Verification, DFT, Physical Design, FPGA, Embedded C/C++, SystemVerilog, UVM, Verilog, VHDL, Cadence/Synopsys tools, etc.)
+* **Name:** Vineeth Prathapachandra Kaimal
+* **Current Role:** Technical Leader - Power Integrity & Advanced Packaging
+* **Years of Experience:** 15 years
+* **Background:** Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology
+* **Key Skills:** ANSYS RedHawk, RedHawk-SC, Totem, Cadence Voltus, Grid Prototyping System (GPS), Python, Perl, Tcl, Shell Scripting, Team Leadership
 
 ## Hard Rejections
 Immediately discard a job if ANY of the following are true:
@@ -17,30 +17,31 @@ Immediately discard a job if ANY of the following are true:
 A job is a match if it satisfies the criteria in ALL of the following categories:
 
 **1. Domain & Technical Area:**
-Must be in at least ONE of the following technical domains:
-* **VLSI Design:** RTL design, logic design, digital/analog IC design, SoC design, ASIC design
-* **Verification:** Functional verification, formal verification, UVM, SystemVerilog, emulation
-* **Physical Design:** Floor planning, placement & routing, timing closure, STA, power analysis
-* **DFT:** Design for Test, ATPG, BIST, scan chain, JTAG
-* **FPGA:** FPGA design, prototyping, Xilinx, Intel/Altera
-* **EDA Tools:** CAD development, EDA software engineering, algorithm development for synthesis/PnR/timing
-* **Embedded Systems:** Firmware, embedded C/C++, RTOS, BSP, device drivers, microcontroller programming
-* **Semiconductor Process:** Process engineering, device physics, fab operations, yield engineering
-* **Architecture:** CPU/GPU/NPU/DSP architecture, microarchitecture, ISA design
-* **Packaging & Test:** IC packaging, test engineering, ATE, characterization
+Must be in at least ONE of the following technical domains, with a strong preference for the first four:
+* **Power Integrity (PI) / Signal Integrity (SI):** SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus
+* **Advanced Packaging / Thermal:** Package thermal analysis, IC packaging, ballout optimization
+* **CAD / Methodology:** CAD tool methodology, sign-off flow automation, EDA integration
+* **Physical Design:** Floor planning, padring layout, bump planning, placement & routing
+* **EDA Tools:** Applications Engineer, Technical Account Manager, or EDA software engineering
+* **VLSI / SoC Design:** General SoC architecture, ASIC design
+* **Engineering Leadership:** CAD manager, PI/SI manager, or SoC physical design lead
 
 **2. Location & Work Model:**
-* **Yes Match:** Must satisfy at least ONE of:
-  * Located in India (any major city)
-  * Fully Remote with worldwide eligibility (no country restriction)
-  * Located in a semiconductor hub worldwide (San Jose, Austin, Portland, Munich, Eindhoven, Hsinchu, Seoul, etc.) AND offers visa sponsorship or relocation
-* **Maybe Match:** Jobs in locations outside India that don't explicitly mention visa sponsorship but match all other criteria
-* **Location Inference:** If the job is posted by an India-based company (TCS, Wipro, HCL, Infosys, etc.) and no location is specified, assume India.
+* **Yes Match (Location):** 
+  * Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). This is the highest priority region.
+  * India or Asia (e.g., Taiwan, South Korea, Singapore).
+  * Fully Remote with worldwide eligibility.
+  * United States, ONLY IF the job explicitly mentions visa sponsorship or relocation.
+* **Hard Rejection (Location):** 
+  * Reject any US-based role that explicitly requires US residency, US Citizenship, or states "no visa sponsorship".
+* **Work Model:** Look for Full-Time, but also actively flag **Part-Time, Contract, Freelance, or Gig-based** roles, especially if they are at startups or consultancies.
 
-**3. Experience Level:**
-* Match jobs from entry-level through senior level
-* If the job requires more than 15 years of experience, mark as "no"
-* Director/VP/C-level titles should be marked as "no"
+**3. Experience Level & Role Type:**
+* **Priority Match:** Senior Leadership roles (Principal Engineer, Director, Manager, Technical Leader, Staff Engineer)
+* **Company Type Match:** Highly prioritize semiconductor startups and specialized consultancies hiring for these leadership roles.
+* Mark as "yes" for roles matching 10-15+ years of experience in the target domains.
+* Mark as "maybe" for senior roles with slightly fewer years (e.g. 8-10) if they have a leadership title.
+* Entry-level or mid-level roles (e.g. < 7 years) should be marked as "no" unless it's a rapidly growing startup.
 
 **4. Application Deadline:**
 * The last date of application MUST be in the future (use today's date for comparison)
