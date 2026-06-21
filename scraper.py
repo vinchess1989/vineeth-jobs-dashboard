@@ -1,6 +1,7 @@
 import json
 import time
 import os
+import sys
 import subprocess
 import threading
 import hashlib
@@ -24,6 +25,69 @@ CHECKPOINT_FILE = os.path.join(BASE_DIR, "checkpoint.json")
 REQ_FILE = os.path.join(BASE_DIR, "job_requirements.md")
 DELETED_FILE = os.path.join(BASE_DIR, "deleted.json")
 HISTORY_FILE = os.path.join(BASE_DIR, "jobs_history.json")
+LOGS_DIR = os.path.join(BASE_DIR, "logs")
+
+
+class TeeLogger:
+    """Mirrors every print() to both the terminal and a daily log file.
+
+    start_capture() / stop_capture() collect lines from one scrape batch.
+    Lines from each batch are accumulated in _cycle_buf; flush_cycle() returns
+    and clears it so analyze_scrape_run_log() sees the whole cycle at once.
+    """
+
+    def __init__(self, log_path: str):
+        self._stdout = sys.stdout
+        os.makedirs(os.path.dirname(log_path), exist_ok=True)
+        self._log_file = open(log_path, 'a', encoding='utf-8', buffering=1)
+        self._capture_buf: list[str] = []
+        self._capturing = False
+        self._cycle_buf: list[str] = []
+
+    def write(self, msg: str):
+        self._stdout.write(msg)
+        self._log_file.write(msg)
+        if self._capturing:
+            self._capture_buf.append(msg)
+
+    def flush(self):
+        self._stdout.flush()
+        self._log_file.flush()
+
+    def close(self):
+        self._log_file.close()
+
+    def start_capture(self):
+        self._capture_buf.clear()
+        self._capturing = True
+
+    def stop_capture(self):
+        """Stop capturing; append this batch's lines to the cycle buffer."""
+        self._capturing = False
+        lines = ''.join(self._capture_buf).splitlines()
+        self._cycle_buf.extend(lines)
+
+    def flush_cycle(self) -> list[str]:
+        """Return the full cycle's accumulated lines and reset for the next cycle."""
+        lines = list(self._cycle_buf)
+        self._cycle_buf.clear()
+        return lines
+
+    def __getattr__(self, name):
+        return getattr(self._stdout, name)
+
+
+_tee_logger: TeeLogger | None = None
+
+
+def _checkpoint_reached_end() -> bool:
+    """True if the last scrape_all_jobs() call visited the final target."""
+    try:
+        with open(CHECKPOINT_FILE, 'r', encoding='utf-8') as f:
+            idx = json.load(f).get("target_index", 0)
+        return idx >= len(generate_targets())
+    except Exception:
+        return False
 
 # ─────────────────────────────────────────────────────────────────────────────
 # BLOCKED KEYWORDS — jobs with these keywords in the title are auto-deleted
@@ -1024,6 +1088,58 @@ def extract_company_from_text(text, job_title):
 # AI-POWERED JOB EVALUATION
 # ─────────────────────────────────────────────────────────────────────────────
 
+def analyze_scrape_run_log(lines: list[str]):
+    """Send lines captured during a full scrape cycle to the LLM and print a health report."""
+    llm_endpoint = os.environ.get("LOCAL_LLM_ENDPOINT")
+    llm_model = os.environ.get("LOCAL_LLM_MODEL")
+    if not llm_endpoint or not llm_model:
+        return
+
+    relevant = [l for l in lines if any(kw in l for kw in [
+        'Navigating to', 'Found ', 'potential job links', 'Failed to scrape', 'Added ',
+    ])]
+    if not relevant:
+        return
+
+    log_text = '\n'.join(relevant)
+    prompt = (
+        "You are analysing the console log of a job-scraper run.\n"
+        "Each search source prints three lines:\n"
+        "  Navigating to <url> (Term: All, Site: <id>) ...\n"
+        "  Found N potential job links on <platform>.\n"
+        "  Added M new unseen jobs from this source.\n\n"
+        "Task: identify every source that returned 0 potential job links. "
+        "For each, note the site ID and URL. "
+        "If ALL sources returned results, just say 'All sources returned results.' "
+        "Be concise — bullet points only, no preamble.\n\n"
+        f"Log:\n{log_text}"
+    )
+
+    headers = {"Content-Type": "application/json"}
+    llm_api_key = os.environ.get("LOCAL_LLM_API_KEY")
+    if llm_api_key:
+        headers["Authorization"] = f"Bearer {llm_api_key}"
+
+    payload = {
+        "model": llm_model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.2,
+        "max_tokens": 600,
+    }
+
+    try:
+        resp = requests.post(llm_endpoint, headers=headers, json=payload, timeout=60)
+        resp.raise_for_status()
+        report = resp.json()['choices'][0]['message']['content'].strip()
+        print(f"\n{'='*50}")
+        print("SCRAPE HEALTH REPORT (LLM)")
+        print('='*50)
+        print(report)
+        print('='*50)
+    except Exception as e:
+        print(f"[log-analysis] LLM health report failed: {e}")
+
+
 def review_pending_jobs(specific_urls=None):
     """Visit URLs of pending jobs, extract description, and evaluate using a local LLM."""
     if not os.path.exists(JOBS_FILE):
@@ -1566,6 +1682,12 @@ def print_job_summary():
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
+    global _tee_logger
+    os.makedirs(LOGS_DIR, exist_ok=True)
+    log_path = os.path.join(LOGS_DIR, f"scraper_{datetime.now().strftime('%Y%m%d')}.log")
+    _tee_logger = TeeLogger(log_path)
+    sys.stdout = _tee_logger
+
     generate_history_from_backups()
     self_heal_dates()
     parser = argparse.ArgumentParser(description="Semiconductor Job Scraper and Reviewer")
@@ -1621,7 +1743,13 @@ def main():
                 checkpoint_idx = 0
 
             print(f"\nINFO: Scraping batch of up to 15 jobs (Starting target index: {checkpoint_idx}/{total_targets})...")
+            if _tee_logger:
+                _tee_logger.start_capture()
             new_jobs = scrape_all_jobs(max_jobs=15)
+            if _tee_logger:
+                _tee_logger.stop_capture()
+                if _checkpoint_reached_end():
+                    analyze_scrape_run_log(_tee_logger.flush_cycle())
 
             new_checkpoint_idx = 0
             if os.path.exists(CHECKPOINT_FILE):
@@ -1712,8 +1840,16 @@ def main():
 
         try:
             print(f"\nINFO: Scanning for up to {quota} new unseen jobs...")
+            if _tee_logger:
+                _tee_logger.start_capture()
             new_jobs = scrape_all_jobs(max_jobs=quota)
+            if _tee_logger:
+                _tee_logger.stop_capture()
+                if _checkpoint_reached_end():
+                    analyze_scrape_run_log(_tee_logger.flush_cycle())
         except Exception as e:
+            if _tee_logger:
+                _tee_logger.stop_capture()
             print(f"An error occurred during scraping: {e}")
 
         # Collect URLs to review
