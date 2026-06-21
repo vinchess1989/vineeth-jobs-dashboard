@@ -2,11 +2,12 @@ import json
 import time
 import os
 import sys
+import re
+import unicodedata
 import subprocess
 import threading
 import hashlib
 import argparse
-import re
 import glob
 from datetime import datetime, timedelta
 from urllib.parse import urljoin, quote
@@ -114,25 +115,69 @@ BLOCKED_TITLE_KEYWORDS = [
 # ─────────────────────────────────────────────────────────────────────────────
 # JOB SOURCES — Semiconductor / VLSI / EDA domain
 # ─────────────────────────────────────────────────────────────────────────────
-SEARCH_SITES = [
-    # LinkedIn — semiconductor/VLSI keywords
-    # pages: how many URL-offset pages to fetch (LinkedIn +25/page, Indeed +10/page)
-    # scroll_count: how many scroll actions on infinite-scroll / career-page sites
-    {"id": "linkedin_semi_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&sortBy=DD"},
-    {"id": "linkedin_vlsi_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=VLSI&sortBy=DD"},
-    {"id": "linkedin_eda_ww",     "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=EDA%20design%20automation&sortBy=DD"},
-    {"id": "linkedin_asic_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=ASIC%20design&sortBy=DD"},
-    {"id": "linkedin_semi_india", "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=India&sortBy=DD"},
-    {"id": "linkedin_vlsi_india", "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=VLSI&location=India&sortBy=DD"},
-    {"id": "linkedin_fpga_ww",    "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=FPGA%20engineer&sortBy=DD"},
-    {"id": "linkedin_rtl_ww",     "platform": "linkedin", "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=RTL%20design%20engineer&sortBy=DD"},
+# ── Keyword terms searched across every keyword-capable site ──────────────
+_KEYWORD_TERMS = [
+    "semiconductor",
+    "VLSI design",
+    "ASIC design",
+    "FPGA engineer",
+    "RTL design engineer",
+    "EDA design automation",
+    "power integrity",
+    "advanced packaging",
+    "physical design",
+    "SoC design",
+]
 
-    # Indeed — semiconductor
-    {"id": "indeed_semi_ww",   "platform": "indeed", "pages": 4, "url": "https://www.indeed.com/jobs?q=semiconductor+engineer&sort=date"},
-    {"id": "indeed_vlsi_india","platform": "indeed", "pages": 4, "url": "https://www.indeed.com/jobs?q=VLSI+design&l=India&sort=date"},
-    {"id": "indeed_asic",      "platform": "indeed", "pages": 4, "url": "https://www.indeed.com/jobs?q=ASIC+design+engineer&sort=date"},
+# ── Sites that accept a keyword injected into the URL ─────────────────────
+_KEYWORD_SITE_TEMPLATES = [
+    {
+        "id_prefix": "linkedin_ww",
+        "platform": "linkedin",
+        "pages": 3,
+        "url_template": "https://www.linkedin.com/jobs/search?keywords={term_enc}&sortBy=DD",
+    },
+    {
+        "id_prefix": "linkedin_india",
+        "platform": "linkedin",
+        "pages": 3,
+        "url_template": "https://www.linkedin.com/jobs/search?keywords={term_enc}&location=India&sortBy=DD",
+    },
+    {
+        "id_prefix": "linkedin_eu",
+        "platform": "linkedin",
+        "pages": 2,
+        "url_template": "https://www.linkedin.com/jobs/search?keywords={term_enc}&location=European%20Union&sortBy=DD",
+    },
+    {
+        "id_prefix": "linkedin_uk",
+        "platform": "linkedin",
+        "pages": 2,
+        "url_template": "https://www.linkedin.com/jobs/search?keywords={term_enc}&location=United%20Kingdom&sortBy=DD",
+    },
+    {
+        "id_prefix": "linkedin_fi",
+        "platform": "linkedin",
+        "pages": 2,
+        "url_template": "https://www.linkedin.com/jobs/search?keywords={term_enc}&location=Finland&sortBy=DD",
+    },
+    {
+        "id_prefix": "indeed_ww",
+        "platform": "indeed",
+        "pages": 3,
+        "url_template": "https://www.indeed.com/jobs?q={term_enc}&sort=date",
+    },
+    {
+        "id_prefix": "indeed_india",
+        "platform": "indeed",
+        "pages": 3,
+        "url_template": "https://www.indeed.com/jobs?q={term_enc}&l=India&sort=date",
+    },
+]
 
-    # Naukri.com — India-specific (infinite scroll)
+# ── Fixed sites (career pages, boards that don't fit a keyword URL template)
+FIXED_SITES = [
+    # Naukri.com — India-specific (category URLs, not keyword search)
     {"id": "naukri_vlsi",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/vlsi-design-jobs?sort=date"},
     {"id": "naukri_semi",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/semiconductor-jobs?sort=date"},
     {"id": "naukri_fpga",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/fpga-jobs?sort=date"},
@@ -172,7 +217,7 @@ SEARCH_SITES = [
     {"id": "ansys_careers",       "platform": "ansys",       "scroll_count": 8, "url": "https://careers.ansys.com/search-jobs?k=semiconductor"},
     {"id": "keysight_careers",    "platform": "keysight",    "scroll_count": 8, "url": "https://jobs.keysight.com/search-jobs?k=engineer"},
 
-    # Consultancies & Staffing (Semiconductor Specialists)
+    # Consultancies & Staffing
     {"id": "tata_elxsi_careers", "platform": "tata_elxsi", "scroll_count": 8, "url": "https://www.tataelxsi.com/careers/job-search.html"},
     {"id": "sifive_careers",     "platform": "sifive",     "scroll_count": 8, "url": "https://www.sifive.com/careers"},
     {"id": "tessolve_careers",   "platform": "tessolve",   "scroll_count": 8, "url": "https://www.tessolve.com/careers/"},
@@ -188,50 +233,67 @@ SEARCH_SITES = [
     {"id": "wellfound_semi","platform": "wellfound", "scroll_count": 10, "url": "https://wellfound.com/role/r/semiconductor-engineer"},
     {"id": "builtin_semi",  "platform": "builtin",   "scroll_count": 10, "url": "https://builtin.com/jobs?search=semiconductor"},
 
-    # European / UK / Finland Specific
-    {"id": "linkedin_semi_eu",      "platform": "linkedin",          "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=European%20Union&sortBy=DD"},
-    {"id": "linkedin_semi_uk",      "platform": "linkedin",          "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=United%20Kingdom&sortBy=DD"},
-    {"id": "linkedin_semi_finland", "platform": "linkedin",          "pages": 4, "url": "https://www.linkedin.com/jobs/search?keywords=semiconductor&location=Finland&sortBy=DD"},
-    {"id": "ic_resources",          "platform": "ic_resources",      "scroll_count": 8, "url": "https://ic-resources.com/en/jobs/semiconductor"},
-    {"id": "euro_engineer_jobs",    "platform": "euro_engineer_jobs","scroll_count": 8, "url": "https://www.euroengineerjobs.com/jobs/semiconductor"},
-    {"id": "jobly_fi_engineer",     "platform": "jobly",             "scroll_count": 10, "url": "https://www.jobly.fi/tyopaikat?search=engineer"},
-    {"id": "work_in_finland",       "platform": "work_in_finland",   "scroll_count": 8, "url": "https://www.workinfinland.com/en/open-jobs/?industry=engineering"},
+    # European / UK specialist boards
+    {"id": "ic_resources",       "platform": "ic_resources",      "scroll_count": 8,  "url": "https://ic-resources.com/en/jobs/semiconductor"},
+    {"id": "euro_engineer_jobs", "platform": "euro_engineer_jobs","scroll_count": 8,  "url": "https://www.euroengineerjobs.com/jobs/semiconductor"},
+    {"id": "jobly_fi_engineer",  "platform": "jobly",             "scroll_count": 10, "url": "https://www.jobly.fi/tyopaikat?search=engineer"},
+    {"id": "work_in_finland",    "platform": "work_in_finland",   "scroll_count": 8,  "url": "https://www.workinfinland.com/en/open-jobs/?industry=engineering"},
 
-    # Reddit Startups & Freelance
+    # Reddit
     {"id": "reddit_chipdesign", "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/chipdesign/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
     {"id": "reddit_ece",        "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/ECE/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
     {"id": "reddit_hwstartups", "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/hwstartups/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
 ]
 
-# Default scroll count for sites with no explicit scroll_count set
 _DEFAULT_SCROLL_COUNT = 8
 
+
 def _page_url(base_url: str, platform: str, page_idx: int) -> str:
-    """Return the URL for a given 0-based page index."""
     if page_idx == 0:
         return base_url
     if platform == 'linkedin':
         return base_url + f'&start={page_idx * 25}'
     if platform == 'indeed':
         return base_url + f'&start={page_idx * 10}'
-    return base_url  # fallback: unsupported platform, stay on page 0
+    return base_url
+
+
+def _term_slug(term: str) -> str:
+    """ASCII slug from a search term for use in target IDs."""
+    normalized = unicodedata.normalize('NFKD', term)
+    ascii_str = normalized.encode('ascii', 'ignore').decode('ascii')
+    return re.sub(r'[^a-z0-9]+', '_', ascii_str.lower()).strip('_')
+
 
 def generate_targets():
-    """Generate scrape targets from SEARCH_SITES config."""
+    from urllib.parse import quote_plus
     targets = []
-    for site in SEARCH_SITES:
+
+    # 1. Every keyword × every keyword-capable site
+    for term in _KEYWORD_TERMS:
+        slug = _term_slug(term)
+        term_enc = quote_plus(term)
+        for tmpl in _KEYWORD_SITE_TEMPLATES:
+            base_url = tmpl['url_template'].replace('{term_enc}', term_enc)
+            max_pages = tmpl.get('pages', 1)
+            scroll_count = tmpl.get('scroll_count', _DEFAULT_SCROLL_COUNT)
+            base_id = f"{tmpl['id_prefix']}_{slug}"
+            for page_idx in range(max_pages):
+                url = _page_url(base_url, tmpl['platform'], page_idx)
+                tid = base_id if page_idx == 0 else f"{base_id}_p{page_idx + 1}"
+                targets.append({'id': tid, 'platform': tmpl['platform'], 'term': term,
+                                'url': url, 'scroll_count': scroll_count})
+
+    # 2. Fixed sites (career pages, specialist boards — no keyword injection)
+    for site in FIXED_SITES:
         max_pages = site.get('pages', 1)
         scroll_count = site.get('scroll_count', _DEFAULT_SCROLL_COUNT)
         for page_idx in range(max_pages):
             url = _page_url(site['url'], site['platform'], page_idx)
-            target_id = site['id'] if page_idx == 0 else f"{site['id']}_p{page_idx + 1}"
-            targets.append({
-                'id': target_id,
-                'platform': site['platform'],
-                'term': 'All',
-                'url': url,
-                'scroll_count': scroll_count,
-            })
+            tid = site['id'] if page_idx == 0 else f"{site['id']}_p{page_idx + 1}"
+            targets.append({'id': tid, 'platform': site['platform'], 'term': 'All',
+                            'url': url, 'scroll_count': scroll_count})
+
     return targets
 
 
