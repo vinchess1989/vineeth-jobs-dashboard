@@ -8146,13 +8146,12 @@
     "url": "https://www.infineon.com/careers/job/563808957852893",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description is incomplete and does not contain sufficient details to evaluate a match.",
+    "reason": "The job posting URL was missing, so the company and location could not be verified.",
     "id": "1e0947d8",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Product Engineer (f/m/div)Bucharest (Romania)HRC1581348HybridHybrid",
@@ -8161,13 +8160,12 @@
     "url": "https://www.infineon.com/careers/job/563808970071621",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description text is blank or incomplete, making it impossible to determine whether it matches the search criteria.",
+    "reason": "The job listing does not contain enough information to determine if it matches the specified criteria.",
     "id": "a5b7fbd3",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Technical Marketing Lead (f/m/div)Villach (Austria)HRC1653033",
@@ -8176,28 +8174,12 @@
     "url": "https://www.infineon.com/careers/job/563808970837911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain enough details for an accurate evaluation. The page appears to have encountered a 404 error, likely pointing to an outdated link.",
+    "reason": "The job URL did not load properly, so key details like posted_date, deadline and location could not be extracted.",
     "id": "fc84d262",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior Staff Engineer Analog Mixed Signal Design (f/m/div)Bucharest (Romania)HRC1175403HybridHybrid",
-    "company": "Infineon Technologies",
-    "location": "Extract from page",
-    "url": "https://www.infineon.com/careers/job/563808958727017",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job description is incomplete and missing key details like the company name, location, and position details.",
-    "id": "55e48b02",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT DevOps Engineer",
@@ -8206,13 +8188,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5419&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Taiwan which doesn't match the high-priority regions of Finland, UK, India or Asia.",
+    "reason": "The role is primarily software development (DevOps, cloud-native architecture) and does not fit Vineeth's Power Integrity, Advanced Packaging, or CAD/Methodology background.",
     "id": "f28e06e2",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -8221,13 +8202,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-DevOps-Engineer%2F5419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is invalid, preventing extraction of key details like posted date, deadline, company name and location.",
+    "reason": "This is a technical role at TSMC, which does not fit Vineeth's background in Power Integrity and Advanced Packaging. It requires knowledge of EDA tools like Synopsys Custom Designer, but Vineeth's key skills are focused on ANSYS RedHawk and Cadence Voltus.",
     "id": "7bc33c8e",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Backend Software Engineer",
@@ -8236,13 +8216,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=541&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Backend Software Engineer, which does not match the technical domains we are targeting such as Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, etc.",
+    "reason": "The role is primarily software development (Backend Software Engineer) which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "d1626733",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -8251,13 +8230,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FBackend-Software-Engineer%2F541",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This LinkedIn page does not contain a clear job title, company name, location, or posting date. It appears to be just a login screen for an individual's LinkedIn profile.",
+    "reason": "The role is a Backend Software Engineer which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA.",
     "id": "42d64340",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Research and Development Engineer (R&D)",
@@ -8266,13 +8244,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19033&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Taiwan, which does not match the target regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions.",
+    "reason": "The role is research-focused on exploring new materials, technologies and tools for advanced device architectures and IC manufacturing which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA methodology.",
     "id": "100f9f28",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -8281,13 +8258,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Research-and-Development-Engineer-R-D%2F19033",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with VLSI/EDA with 10+ years experience required in Power Integrity and Advanced Packaging, which are key technical domains.",
+    "reason": "Technical leadership role in Power Integrity at a top semiconductor company, with 15+ years of experience.",
     "id": "7065defd",
     "source": "tsmc_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_7065defd.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_7065defd.txt"
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u6843\u7af9\u82d7",
