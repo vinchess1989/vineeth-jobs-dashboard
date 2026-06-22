@@ -53939,14 +53939,13 @@
     "location": "Greater Chennai Area",
     "url": "https://in.linkedin.com/jobs/view/cmpc-engineer-senior-team-leader-at-larsen-toubro-4374781205",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is in civil engineering for metro construction, not semiconductor/VLSI/EDA.",
     "id": "5f03638b",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer - MTS",
@@ -53954,14 +53953,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-mts-at-micron-technology-4410848224",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role focuses on RTL design for NAND products, which is not a match for Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "c194c544",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-31",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Layout Engineer / Lead",
@@ -53969,14 +53967,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-layout-engineer-lead-at-erbity-4398386024",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This analog layout engineering role focuses on custom layout implementation and is not a senior leadership position as Vineeth's background. Also, it is India-based only.",
     "id": "78694418",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CMPC ENGINEER - SENIOR TEAM LEADER",
@@ -53985,13 +53982,12 @@
     "url": "https://in.linkedin.com/jobs/view/cmpc-engineer-senior-team-leader-at-larsen-toubro-4374780220",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a CMPC Engineer, which does not match with the target domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is for a non-technical engineering leadership position, unrelated to semiconductor/VLSI/EDA.",
     "id": "58b3515a",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Design Engineer",
@@ -54000,13 +53996,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-design-engineer-at-larsen-toubro-4420910035",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Design Engineer at Larsen & Toubro, which does not match our semiconductor/VLSI/EDA focus.",
+    "reason": "The role is a general Design Engineer position focusing on Transmission Line Towers and Civil Foundations, which does not match Vineeth's specific expertise areas of Power Integrity, Advanced Packaging, VLSI/EDA/CAD.",
     "id": "a536cf70",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2026-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verification Intern",
@@ -54015,13 +54010,12 @@
     "url": "https://in.linkedin.com/jobs/view/verification-intern-at-ast-spacemobile-4428824338",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level internship position, whereas the candidate profile specified requires 10-15 years of experience. Also, it's a verification intern role rather than a technical leadership position.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM testbench development), which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f5be0496",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Layout Engineers",
@@ -54030,13 +54024,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-layout-engineers-at-acl-digital-4260951163",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Analog Layout Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "reason": "The role is primarily focused on analog layout engineering, which is outside Vineeth's domain of power integrity and advanced packaging expertise.",
     "id": "630ac951",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Modem design/RTL (Sr Staff)",
@@ -54044,14 +54037,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/modem-design-rtl-sr-staff-at-qualcomm-4320393646",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on RTL (Register Transfer Level) design for modems, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "202b284f",
     "source": "linkedin_india_asic_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -54059,14 +54051,13 @@
     "location": "Pune City, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/senior-digital-design-engineer-at-nxp-semiconductors-4424169514",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior engineering position with over 2 years of experience required, fitting the target criteria.",
+    "matches_requirements": "maybe",
+    "reason": "Seniority level is entry-level but years of experience desired (around +2) suggests potential for leadership growth.",
     "id": "02c87550",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nxp_semiconductors_senior_digital_design_engineer_02c87550.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verification Intern",
@@ -54075,13 +54066,12 @@
     "url": "https://in.linkedin.com/jobs/view/verification-intern-at-ast-spacemobile-4428814454",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical verification intern role at a space technology company, which does not match our requirement of semiconductor/VLSI/EDA engineering roles.",
+    "reason": "The role is primarily focused on verification (DV Engineer, FPGA and verification development) which does not match Vineeth's domain expertise in Power Integrity, Packaging, CAD.",
     "id": "1b8bb921",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Program Manager",
