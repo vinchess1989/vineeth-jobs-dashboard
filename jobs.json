@@ -40079,14 +40079,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/senior-staff-signal-power-integrity-engineer-maxlinear-JV_IC1147279_KO0,44_KE45,54.htm?jl=1010156096987",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Staff Engineer role with 10+ years of experience in Power Integrity and Signal Integrity at MaxLinear matches key criteria.",
+    "matches_requirements": "maybe",
+    "reason": "Senior staff role in power integrity, matches leadership experience but not domain-specific skills like RedHawk/Voltus mentioned earlier.",
     "id": "2b02c803",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/maxlinear_senior_staff_signal___power_in_2b02c803.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "integration engineer jobs in Carlsbad, CA",
@@ -40094,14 +40093,13 @@
     "location": "San Diego, CA, USA",
     "url": "https://www.glassdoor.com/Job/carlsbad-integration-engineer-jobs-SRCH_IL.0,8_IC1147279_KO9,29.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Job is based in Carlsbad, CA which does not match target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "afb7f11c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Carlsbad, CA jobs",
@@ -40110,13 +40108,12 @@
     "url": "https://www.glassdoor.com/Job/carlsbad-jobs-SRCH_IL.0,8_IC1147279.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for a wide range of non-technical roles at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The job listing is for a non-technical HR position, which does not match Vineeth's engineering background in Power Integrity and VLSI.",
     "id": "cb38527d",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-08-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MaxLinear jobs in Carlsbad, CA",
@@ -40125,13 +40122,12 @@
     "url": "https://www.glassdoor.com/Job/carlsbad-maxlinear-jobs-SRCH_IL.0,8_IC1147279_KO9,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not match the requirements.",
+    "reason": "The role is at a semiconductor company, but it's in California, USA which requires US residency/citizenship. The candidate profile also does not match this technical role.",
     "id": "cb457df9",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Package Design Engineer",
@@ -40140,13 +40136,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-package-design-engineer-micron-technology-JV_IC1127927_KO0,30_KE31,48.htm?jl=1010155634653",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Package Design Engineer role which does not directly fit the target domains of Power Integrity (PI) / Advanced Packaging / Thermal / CAD / Methodology specified in the requirements.",
+    "reason": "The role is focused on package design for semiconductor memory, which is different from Vineeth's expertise in power integrity and advanced packaging of SoCs.",
     "id": "12393049",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "simulation engineer jobs in Richardson, TX",
@@ -40155,13 +40150,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-simulation-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not fit the criteria of an engineering/technical position.",
+    "reason": "The role is primarily verification (UVM, testbench development), which is outside Vineeth's domain.",
     "id": "4c482645",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer III",
@@ -40170,13 +40164,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-engineer-iii-at-applied-materials-4417661392",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical position in manufacturing engineering at a semiconductor equipment company.",
+    "reason": "The role is hardware-focused on semiconductor manufacturing equipment, which is outside Vineeth's primary domains of Power Integrity (PI), Advanced Packaging, and EDA tools.",
     "id": "d4aab7e7",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Development Engineer",
@@ -40184,14 +40177,13 @@
     "location": "Phoenix, AZ",
     "url": "https://www.linkedin.com/jobs/view/module-development-engineer-at-intel-4418829838",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on dry etch semiconductor manufacturing and does not match the specified VLSI/EDA domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "61ce9059",
     "source": "linkedin_semi_ww",
-    "posted_date": "2023-06-19",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Engineer",
@@ -40199,14 +40191,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/systems-engineer-at-applied-materials-4420120788",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a non-technical Systems Engineer position at Applied Materials, which does not fit our semiconductor/VLSI/EDA technical role focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b2e0dbb3",
     "source": "linkedin_semi_ww",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Development Engineer",
@@ -40215,13 +40206,12 @@
     "url": "https://in.linkedin.com/jobs/view/test-development-engineer-at-tata-electronics-4423638147",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Test Development Engineer at a Tata Electronics facility in Mayang, Assam, India, which does not match the target domains of Power Integrity, Advanced Packaging, CAD Methodology, VLSI/SoC Design or EDA Tools.",
+    "reason": "The role is focused on semiconductor IC test development and ATE software, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "d73fe7a7",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Technology Development Program Manager",
