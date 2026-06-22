@@ -18772,13 +18772,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-video-silicon-ip-multimedia-lab-at-bytedance-4428414276",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role specifically requires 2+ years of experience, which is less than the desired 10-15 years. It also does not match the domain-specific requirements for Power Integrity/Signal Integrity, Advanced Packaging/Thermal, or CAD/Methodology in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "f741e938",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Design Engineer",
@@ -18787,13 +18786,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-design-engineer-at-micron-technology-4416177108",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This engineering position at Micron is in San Jose, CA, which does not match the preferred locations of Finland, Europe (excluding Finland), UK, India, Asia, or fully remote roles worldwide.",
+    "reason": "The role is primarily software development (RTL, RTL verification) which is outside Vineeth's domain of expertise",
     "id": "3cf1f5e6",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Staff Engineer-Design (Digital Logic)",
@@ -18802,13 +18800,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-staff-engineer-design-digital-logic-at-microchip-technology-inc-4382195022",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on digital logic design, which does not directly align with the candidate's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily software development (embedded software engineer) which is outside Vineeth's domain of VLSI/EDA.",
     "id": "27d76555",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer (eInfochips)",
@@ -18817,13 +18814,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-einfochips-at-arrow-electronics-4419978276",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is located at Arrow Electronics in Mountain View, CA and requires travel. It does not fit the target location criteria of Finland, Europe (outside Finland), UK, India, Asia, Singapore, or fully remote positions.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "3d775ec0",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Silicon Engineer",
@@ -18832,13 +18828,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-silicon-engineer-at-cognichip-4397775089",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a logic design/verification engineer, which doesn't match Vineeth's power integrity and advanced packaging background.",
+    "reason": "Requires backend flow and physical design experience which is outside Vineeth's domain.",
     "id": "2977a648",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal ASIC Design Engineer",
@@ -18847,13 +18842,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-asic-design-engineer-at-cognichip-4429159438",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Redwood City, CA, USA which does not match the priority locations of Finland, Europe (outside Finland), UK, India, or Asia.",
+    "reason": "The job is for a Principal ASIC Design Engineer role which requires deep silicon expertise combined with AI/ML skills, outside Vineeth's focus on Power Integrity and Advanced Packaging.",
     "id": "14523f01",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer (MPU)",
@@ -18862,13 +18856,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-mpu-at-brainchip-4414056260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the target domain of Power Integrity, Advanced Packaging, or CAD/Methodology. It is for Digital Design Engineer focused on RISC-V architectures and custom accelerators.",
+    "reason": "This role is primarily software development (embedded software engineer) which is outside Vineeth's domain.",
     "id": "554e1c8a",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -18877,13 +18870,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-engineer-at-texas-instruments-india-4382497797",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Engineer at Texas Instruments India, which does not match the key domains of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology that the candidate Vineeth Prathapachandra Kaimal specializes in.",
+    "reason": "The job is for a Product Engineer at Texas Instruments India, which does not match Vineeth's technical domain of Power Integrity and VLSI.",
     "id": "35da407b",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lab Manager - Hardware Engineering",
@@ -18892,13 +18884,12 @@
     "url": "https://in.linkedin.com/jobs/view/lab-manager-hardware-engineering-at-nvidia-4424484417",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires only a bachelor's degree plus 8+ years of experience, which is too low for the target senior leadership role.",
+    "reason": "The role is a Lab Manager for hardware engineering labs, which does not directly match Vineeth's technical domains of power integrity, advanced packaging, SoC physical design, or EDA tools. Although it has leadership aspects, the focus on running and managing hardware testing labs is outside his area.",
     "id": "3ecc3d5c",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Engineer",
@@ -18906,14 +18897,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-product-engineer-at-mythic-4412222080",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior hands-on Product Engineer position at Mythic, a semiconductor company based in Bengaluru, India.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily software engineering (product development) rather than semiconductor/VLSI/EDA technical roles.",
     "id": "7cf1d436",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/mythic_senior_product_engineer_7cf1d436.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Product Engineer",
