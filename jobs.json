@@ -14474,13 +14474,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-System-Engineer-IMC%2F16026",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electrical Engineer at a semiconductor company, which does not qualify based on our non-technical rejection criteria.",
+    "reason": "The job posting URL is for a LinkedIn page, not a specific job listing with details matching Vineeth's profile and requirements.",
     "id": "e3187046",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intelligent Manufacturing Engineer (Hsinchu)",
@@ -14489,28 +14488,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=322&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role, not semiconductor design or EDA/CAD.",
+    "reason": "This is a manufacturing engineer position at TSMC, which does not match Vineeth's background in Power Integrity and Advanced Packaging. The location is also incorrect.",
     "id": "3f193383",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-Hsinchu%2F322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical HR role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "This is a manufacturing engineering role at TSMC, not related to semiconductor design, EDA tools, or power integrity.",
     "id": "3b7e58c2",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HPC Hardware Engineer",
@@ -14519,13 +14516,12 @@
     "url": "https://www.indeed.com/viewjob?jk=123456789abcdef0",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was broken, and no relevant details could be found to determine a match.",
+    "reason": "The role is focused on HPC systems and clusters, which is outside Vineeth's domain of semiconductor VLSI EDA.",
     "id": "22eac7bd",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applications Engineer",
@@ -14534,13 +14530,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=716615d3d2212319",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify a company name, making it impossible to determine the hiring firm's focus and relevance to VLSI/EDA.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "9e90f7b7",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applications Engineer salaries in Knoxville, TN",
@@ -14549,13 +14544,12 @@
     "url": "https://www.indeed.com/career/application-developer/salaries/Knoxville--TN?campaignid=serp-more&fromjk=716615d3d2212319&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role in marketing.",
+    "reason": "The job is for a non-technical Application Developer role, outside Vineeth's domain of semiconductor/VLSI/EDA engineering.",
     "id": "0d697c85",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D\u5148\u9032\u5c01\u88dd\u6280\u8853\u767c\u5c55",
@@ -14564,13 +14558,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6155&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for R&D Advanced Packaging at TSMC in Taiwan, which doesn't match the target domains of Power Integrity, Signal Integrity, CAD Methodology, and EDA Tools.",
+    "reason": "The role is focused on R&D of advanced packaging at TSMC Taiwan, which is outside Vineeth's key domains of power integrity, signal integrity, and EDA tools.",
     "id": "51923bc1",
     "source": "tsmc_careers",
     "posted_date": "2026-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14579,13 +14572,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D%2F6155",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL is incorrect and leads to LinkedIn's general career page, not a specific job posting. Unable to evaluate job requirements.",
+    "reason": "The job is for a non-technical HR role, which is not within Vineeth's technical domain.",
     "id": "faaf2622",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer (Kaohsiung)",
@@ -14593,14 +14585,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=15461&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a match as it falls under Process Integration Engineer which fits into Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus domain.",
+    "matches_requirements": "no",
+    "reason": "This is a manufacturing process integration role at TSMC, which does not match Vineeth's technical leadership background in power integrity, advanced packaging, and SoC PDN sign-off.",
     "id": "9b9f4d90",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_process_integration_engineer___9b9f4d90.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14609,13 +14600,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Integration-Engineer-Kaohsiung%2F15461",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the specified criteria for semiconductor/VLSI/EDA experience and location.",
+    "reason": "The job is for a Software Engineer position, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "bfa634f7",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Intelligent Scheduling Engineer (IMC)",
