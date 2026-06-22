@@ -182,34 +182,18 @@
     "description_file": null
   },
   {
-    "title": "Senior Applied Machine Learning Engineer - VLSI Design",
-    "company": "NVIDIA AI",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/senior-applied-machine-learning-engineer-vlsi-design-at-nvidia-ai-4423327428",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role involves machine learning for VLSI design automation, which does not directly match the target domains of Power Integrity (PI), Advanced Packaging, CAD Methodology, or Physical Design.",
-    "id": "a67c5fb9",
-    "source": "linkedin_eda_ww",
-    "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Consulting Engineer - FEA",
     "company": "IMAGINiT Technologies",
     "location": "San Francisco, CA",
     "url": "https://www.linkedin.com/jobs/view/consulting-engineer-fea-at-imaginit-technologies-4338992194",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FEA consulting engineer at IMAGINiT Technologies, which focuses on engineering simulation technology and Ansys products. This does not match our target domains of Power Integrity (PI), Advanced Packaging, or CAD/EDA Methodology.",
+    "reason": "This FEA consulting engineer role at IMAGINiT Technologies is for mechanical simulation with ANSYS, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "af5381f1",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA- CAD Engineer",
@@ -218,13 +202,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-cad-engineer-at-wd-4410634427",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires full-time on-site work in San Jose, CA, which does not match Vineeth's location preferences. Also, it is an entry-level position with 0-5 years experience required.",
+    "reason": "The role is primarily software development (automation scripts, tool integration) which is outside Vineeth's domain.",
     "id": "9730788b",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer",
@@ -233,28 +216,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bayone-solutions-4428755884",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract software engineering role at a BayOne Solutions, which does not match the semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "The role is primarily software development (Python, Go, Perl, shell scripting on Linux) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "16f3e37c",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Design Automation Engineer (TFM/EDA)",
-    "company": "Intel",
-    "location": "Hillsboro, OR",
-    "url": "https://www.linkedin.com/jobs/view/design-automation-engineer-tfm-eda-at-intel-4424477790",
-    "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a close match for Design Automation Engineer with experience in EDA tools and TFM, located in Hillsboro, OR.",
-    "id": "2e289056",
-    "source": "linkedin_eda_ww",
-    "posted_date": "2023-06-01",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_design_automation_engineer__tf_2e289056.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Engineer (TFM/EDA)",
@@ -263,13 +230,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-automation-engineer-tfm-eda-at-intel-4424479838",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Folsom, CA which does not match our target locations of Finland, UK, India, Asia (Taiwan/SK/Singapore), or fully remote positions. The US location does not specify visa sponsorship.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "8546f7f8",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Applied ML Engineer (R53702/vt)",
@@ -278,13 +244,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-applied-ml-engineer-r53702-vt-at-cadence-4386830683",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Principal Applied ML Engineer focusing on AI agent infrastructure and LLM integration in EDA tools, not directly relevant to VLSI/EDA/Semiconductor domains.",
+    "reason": "The role focuses on AI and software development for chip design verification methodologies, which is a non-technical match for Vineeth's power integrity and advanced packaging background.",
     "id": "e86a3079",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC/SoC Design Engineer",
@@ -293,13 +258,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-soc-design-engineer-at-amd-4396754609",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in San Jose, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia specified in the requirements.",
+    "reason": "The job is located in San Jose, CA which requires US residency or visa sponsorship - this doesn't match Vineeth's criteria for Finland, Europe or Asia roles without explicit visa sponsorship.",
     "id": "d93be089",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -308,13 +272,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-nvidia-4395473388",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Santa Clara, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or Asia. Also, it explicitly requires a US Bachelor's degree.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "05f29ffb",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Design Engineer",
@@ -323,13 +286,12 @@
     "url": "https://www.linkedin.com/jobs/view/silicon-design-engineer-at-amd-4406439055",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was missing or incorrect, preventing a proper evaluation of the matching requirements.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "1afaca6b",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -338,13 +300,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-cisco-4404057935",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires being onsite in San Jose, CA at least 4 days/week which does not match the target work model of fully remote.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "8ea889d7",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-10",
+    "description_file": null
   },
   {
     "title": "ASIC Engineer 2",
@@ -353,13 +314,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-2-at-micron-technology-4415188536",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a technical role at Micron Technology but does not match the semiconductor/VLSI/EDA focus of our target jobs.",
+    "reason": "The role is software development focused (firmware engineer) which is outside Vineeth's domain of expertise in PI, packaging and CAD.",
     "id": "87f32ddd",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer \u2013 AI SoC Development",
@@ -368,13 +328,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-%E2%80%93-ai-soc-development-at-intel-4331985756",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Austin, TX, which does not match the preferred locations of Finland, Europe (excluding Finland), UK, India, or fully remote worldwide positions.",
+    "reason": "This role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "473905d7",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
@@ -383,13 +342,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4395471440",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires US residency, which is a hard rejection based on location/work model criteria.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain of expertise.",
     "id": "a07025a1",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-03-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-22",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -398,13 +356,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-broadcom-4374980520",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RTL Design Engineer role does not match the semiconductor/VLSI/EDA technical domains specified in the job search criteria.",
+    "reason": "This RTL Design Engineer role is primarily focused on digital verification and synthesis, which does not match Vineeth's domain of Power Integrity and Advanced Packaging. It falls under hard rejections for verification roles.",
     "id": "c287242a",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
