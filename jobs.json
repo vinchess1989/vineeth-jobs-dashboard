@@ -33626,13 +33626,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/embedded-software-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Embedded Software Engineer role which does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology etc. required by the candidate.",
+    "reason": "This role is for an Embedded Software Engineer, which does not match Vineeth's areas of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "ce53530a",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Jobs",
@@ -33640,14 +33639,13 @@
     "location": "Espoo, Finland",
     "url": "https://builtin.com/jobs/dev-engineering/search/engineering",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job postings listed are too diverse across domains to match the specified VLSI/EDA technical requirements.",
+    "matches_requirements": "maybe",
+    "reason": "The title suggests it could potentially be a leadership role, but the details are quite vague and don't specify enough context to determine for sure. More info would be needed about the actual job description and responsibilities.",
     "id": "5fffe60f",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Engineering Manager Jobs",
@@ -33655,14 +33653,13 @@
     "location": "Sunnyvale, CA, USA",
     "url": "https://builtin.com/jobs/dev-engineering/search/engineering-manager",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Engineering Manager roles with no specific domain focus, but some look good for Power Integrity / Signal Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical Engineering Manager role at a software company, not an engineering/technical position at a semiconductor company.",
     "id": "7cf79606",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Environmental Engineering Jobs",
@@ -33671,13 +33668,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/environmental-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for an environmental engineer, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The job is for a non-technical environmental engineering position, not related to semiconductor/VLSI/EDA.",
     "id": "668610a6",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive Assistant Jobs",
@@ -33686,13 +33682,12 @@
     "url": "https://builtin.com/jobs/operations/search/executive-assistant",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an Executive Assistant role, not a technical semiconductor/VLSI/EDA engineering position.",
+    "reason": "The job is for an Executive Assistant role, which is a non-technical administrative support position and does not match Vineeth's technical background in Power Integrity and semiconductor/EDA. The job posting is on Built In, a general job board with postings from various industries including tech but also finance, healthcare, etc.",
     "id": "6ed0b7d7",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Engineer Jobs",
@@ -33701,13 +33696,12 @@
     "url": "https://builtin.com/jobs/jobs/dev-engineering/search/field-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Field Service Engineer role, which does not match our requirement of engineering/technical positions.",
+    "reason": "This is a field service engineering role, not related to semiconductor/VLSI/EDA.",
     "id": "da437b1c",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Service Technician Jobs",
@@ -33716,28 +33710,26 @@
     "url": "https://builtin.com/jobs/customer-success/search/field-service-technician",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a field service technician role, which does not match the technical engineering positions we are looking for in the semiconductor/VLSI/EDA industry.",
+    "reason": "The job is a non-technical role for a field service technician, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "93cf2fe9",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Finance Jobs",
     "company": "Accountant Jobs",
-    "location": "Extract from page",
+    "location": "San Francisco, CA, USA",
     "url": "https://builtin.com/jobs/finance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in finance, not semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical finance role, which does not match Vineeth's domain.",
     "id": "119db36c",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Finance Manager Jobs",
@@ -33746,13 +33738,12 @@
     "url": "https://builtin.com/jobs/finance/search/finance-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed finance manager roles are not technical positions related to semiconductor/VLSI/EDA. They do not fit the domain requirements.",
+    "reason": "The role is a finance leadership position, which does not match Vineeth's technical background in power integrity, advanced packaging, and EDA.",
     "id": "a60cd0da",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Front End Developer Jobs",
@@ -33760,14 +33751,13 @@
     "location": "San Francisco, CA, USA",
     "url": "https://builtin.com/jobs/dev-engineering/front-end",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Front End Developer position, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ebd60d74",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Full Stack Developer Jobs",
