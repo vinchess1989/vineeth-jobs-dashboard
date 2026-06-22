@@ -31413,14 +31413,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6154&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "This R&D Module Engineer role is a senior technical position focused on advanced process equipment and technology development for TSMC's mainstream technologies. It matches the domain criteria of Power Integrity/Signal Integrity, Advanced Packaging, and EDA tools.",
+    "matches_requirements": "yes",
+    "reason": "Matches key skills of Power Integrity, Advanced Packaging, and EDA tool expertise with a strong technical leadership role.",
     "id": "daddb21e",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": "job_descriptions/taiwan_semiconductor_r_d_module_engineer_daddb21e.txt"
   },
   {
     "title": "LinkedIn",
@@ -31429,13 +31428,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Module-Engineer%2F6154",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Module Engineer which does not match the specified technical domains.",
+    "reason": "The role is at a semiconductor manufacturing company (TSMC), so it's a hard rejection as per the rule for non-technical roles in semiconductors.",
     "id": "78a600c8",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead/Staff - Kernel Optimization Engineer (SIMD/VLIW Architectures)",
@@ -31444,13 +31442,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86390?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a kernel optimization engineer focused on AI, which does not match the VLSI/EDA domain focus.",
+    "reason": "This is a software development role focused on AI/ML kernel optimization for AMD's Ryzen processors, which falls outside Vineeth's main areas of Power Integrity (PI) and Advanced Packaging.",
     "id": "6b8aa075",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship - Innovation Management (Digital Manufacturing Solutions)SingaporeHRC1603622",
@@ -31459,13 +31456,12 @@
     "url": "https://www.infineon.com/careers/job/563808970308174",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (Innovation Management) at a semiconductor company, which does not match our engineering/technical position criteria.",
+    "reason": "The job is for an Innovation Management role, not a technical semiconductor/VLSI/EDA position.",
     "id": "317b3ca2",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Internship - Software Application LogisticsSingaporeHRC1636075",
@@ -31474,13 +31470,12 @@
     "url": "https://www.infineon.com/careers/job/563808970664768",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided leads to a 404 error page, indicating the job posting is likely invalid or has been removed.",
+    "reason": "The job is an HR role at Infineon, which does not match the technical engineering/leadership roles we are searching for.",
     "id": "5a95612b",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship - Sales (Daegu) Daegu, South KoreaHRC1540932",
@@ -31489,13 +31484,12 @@
     "url": "https://www.infineon.com/careers/job/563808969485861",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Sales role, which does not match our semiconductor/VLSI/EDA technical position criteria.",
+    "reason": "The job posting URL returns a 404 error, so it is likely inactive.",
     "id": "372c72e2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI Design Engineer for Server / Data Center Products",
@@ -31504,13 +31498,12 @@
     "url": "https://www.linkedin.com/jobs/view/vlsi-design-engineer-for-server-data-center-products-at-qualcomm-4384669521",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role explicitly requires US residency, which violates our visa sponsorship requirement.",
+    "reason": "The role is focused on general SoC design and ASIC development, which doesn't precisely match Vineeth's deep specialization in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "d1182dda",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer 4",
@@ -31519,13 +31512,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-4-at-micron-technology-4410857056",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an ASIC Engineer position at Micron Technology, which falls into the VLSI/SoC Design domain. The candidate profile specified in the job search requirements does not match the skills required for this role.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "14092aad",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-05-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Methodology Architect",
@@ -31534,13 +31526,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-methodology-architect-at-nvidia-4395471486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX which does not match the high priority locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also doesn't match India, Asia, remote with worldwide eligibility.",
+    "reason": "The role is primarily software development which falls outside Vineeth's domain.",
     "id": "f03412a4",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Methodology Architect",
@@ -31548,14 +31539,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/eda-methodology-architect-at-nvidia-4395469808",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits our target domain of EDA Methodology and is at NVIDIA, a top-tier semiconductor company.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on CAD tool methodology, flow automation and EDA integration, which is a better fit for Vineeth's technical leadership background in Power Integrity (PI) and Advanced Packaging than direct RTL to GDS physical design.",
     "id": "a94cdede",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-16",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_eda_methodology_architect_a94cdede.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software R&D Engineer, RTL Optimization Tools",
