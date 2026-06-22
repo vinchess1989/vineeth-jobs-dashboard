@@ -1696,18 +1696,17 @@
   },
   {
     "title": "Hillsboro, OR jobs",
-    "company": "Extract from page",
+    "company": "Tualatin Hills Park & Recreation District",
     "location": "Hillsboro, OR, USA",
     "url": "https://www.glassdoor.com/Job/hillsboro-jobs-SRCH_IL.0,9_IC1151603.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a Glassdoor search page for Hillsboro jobs without specific company names, locations, or dates. It does not match the criteria for a valid job posting.",
+    "reason": "Non-technical roles, unrelated to semiconductors/VLSI/EDA",
     "id": "5777aa20",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ebara Technologies jobs in Hillsboro, OR",
@@ -1716,13 +1715,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-ebara-technologies-jobs-SRCH_IL.0,9_IC1151603_KO10,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role and does not fit the semiconductor/VLSI/EDA technical domain requirements.",
+    "reason": "The job is located in Hillsboro, OR, USA, which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
     "id": "b9fb0a74",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "applications engineer jobs in Boise, ID",
@@ -1731,13 +1729,12 @@
     "url": "https://www.glassdoor.com/Job/boise-applications-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Boise, ID, USA which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide without specific country restrictions.",
+    "reason": "US-based role requiring US residency without mention of visa sponsorship",
     "id": "33018f35",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Member of Technical Staff (CMP) Engineer",
@@ -1746,13 +1743,12 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Member-of-Technical-Staff--CMP--Engineer_JR0281513?shared_id=NTA3OGJmNzQtNjNiOS00MWYyLWJlNDItYjdhMDAyM2I2OWVh",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position requires US residency, which disqualifies it based on our location criteria.",
+    "reason": "This role is focused on semiconductor manufacturing and process development, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, and CAD Methodology.",
     "id": "99bb90c0",
     "source": "intel_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-17",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Data Center Facilities Engineer",
@@ -1761,13 +1757,12 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sr-Data-Center-Facilities-Engineer_JR0284784?shared_id=NTA3OGJmNzQtNjNiOS00MWYyLWJlNDItYjdhMDAyM2I2OWVh",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on data center facilities engineering, not semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a Facilities Engineer focused on mechanical systems, not an EDA/semiconductor/VLSI technical engineering position. It does not fit Vineeth's background.",
     "id": "11f27b18",
     "source": "intel_careers",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SoC Compute/Memory Subsystem Architect",
@@ -1776,13 +1771,12 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-SoC-Compute-Memory-Subsystem-Architect_JR0284565?shared_id=NTA3OGJmNzQtNjNiOS00MWYyLWJlNDItYjdhMDAyM2I2OWVh",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency and does not mention visa sponsorship.",
+    "reason": "The role is primarily focused on SoC design and architecture, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
     "id": "490eeaf6",
     "source": "intel_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Compute/Memory Subsystem Architect",
@@ -1790,14 +1784,13 @@
     "location": "Ireland, Leixlip",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/SoC-Compute-Memory-Subsystem-Architect_JR0284570?shared_id=NTA3OGJmNzQtNjNiOS00MWYyLWJlNDItYjdhMDAyM2I2OWVh",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior-level role in SoC architecture with good domain match, but no clear mention of location or deadline.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software architecture (SoC Compute/Memory Subsystem) which is a software development domain rather than Vineeth's semiconductor/VLSI/EDA technical areas.",
     "id": "2acede31",
     "source": "intel_careers",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Careers",
@@ -1851,13 +1844,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86874?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Program Manager focused on engineering initiatives, which does not match our technical job criteria in semiconductor/VLSI/EDA domains.",
+    "reason": "The job posting URL was not found in the given text.",
     "id": "c9c08327",
     "source": "amd_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PC Board Design Engineer",
@@ -1866,13 +1858,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87322?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a PC Board Design Engineer at AMD, which does not directly match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for PC Board Design, which does not match Vineeth's key skills and experience in Power Integrity, Advanced Packaging, SoC PDN sign-off, and CAD Methodology.",
     "id": "e31de705",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior GPU Kernel Optimization Engineer",
@@ -1881,13 +1872,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/81040?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a GPU kernel optimization engineer, which does not directly match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development (GPU kernel, CUDA/Python programming) which falls outside Vineeth's domain of Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "71323b37",
     "source": "amd_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Development Engineer",
@@ -1895,14 +1885,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.amd.com/careers-home/jobs/87106?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is focused on PCBA BOM management for AMD's Adaptive Embedded and Computing products, which matches the domain of Physical Design and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on PCBA manufacturing and BOM management, which does not match Vineeth's core areas of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology.",
     "id": "c6ea6c9f",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_product_development_engineer_c6ea6c9f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer - AI Models",
@@ -1911,13 +1900,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87325?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Engineer focused on AI models, not related to VLSI/EDA/semiconductor domain.",
+    "reason": "The role is software development focused (AI, Python) rather than semiconductor/VLSI/EDA.",
     "id": "ed2a3fe5",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Software Development Engineer",
