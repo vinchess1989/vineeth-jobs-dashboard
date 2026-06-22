@@ -42418,13 +42418,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-engineer-technology-amais-micron-technology-JV_IC1127927_KO0,32_KE33,50.htm?jl=1010171472917",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Technical Account Manager, which does not match the target technical domains.",
+    "reason": "The job is for a general software engineering role, not specific to semiconductor/VLSI/EDA.",
     "id": "01e3c3b6",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -42433,13 +42432,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFinancial-Specialist-Funding-Management-Department%2F463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Financial Specialist) and does not fit our semiconductor/VLSI/EDA expertise requirements.",
+    "reason": "The role is for a Financial Specialist, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and CAD/Methodology.",
     "id": "ff0377a8",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital IC Design Engineer - Early Career",
@@ -42447,14 +42445,13 @@
     "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/digital-ic-design-engineer-early-career-marvell-technology-JV_IC1154956_KO0,39_KE40,58.htm?jl=1010172998059",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Early career role with 0-3 years experience, but matches key technical domain of Digital IC Design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "5ee05328",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "digital design engineer jobs in Westborough, MA",
@@ -42463,13 +42460,12 @@
     "url": "https://www.glassdoor.com/Job/westborough-digital-design-engineer-jobs-SRCH_IL.0,11_IC1154956_KO12,35.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a general digital design engineer role at Amazon, which does not specifically match the required technical domains like Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, etc. specified in the requirements.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "f9e707a0",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Westborough, MA jobs",
@@ -42478,13 +42474,12 @@
     "url": "https://www.glassdoor.com/Job/westborough-jobs-SRCH_IL.0,11_IC1154956.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The IP address is blocked, making it impossible to access the job details.",
+    "reason": "The URL provided is for a generic Glassdoor search result page, not a specific semiconductor/VLSI/EDA job posting. It lacks key details like company name, location and a valid application deadline.",
     "id": "2a0b863b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marvell Technology jobs in Westborough, MA",
@@ -42493,13 +42488,12 @@
     "url": "https://www.glassdoor.com/Job/westborough-marvell-technology-jobs-SRCH_IL.0,11_IC1154956_KO12,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a non-technical role at a semiconductor company, which does not match our requirements.",
+    "reason": "The role is at a semiconductor company, which falls outside Vineeth's domain of expertise in EDA/VLSI.",
     "id": "a290b67e",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Yield & Device Analytics Engineer",
@@ -42508,13 +42502,12 @@
     "url": "https://www.glassdoor.com/job-listing/manufacturing-yield-device-analytics-engineer-noveon-magnetics-JV_IC1139795_KO0,45_KE46,62.htm?jl=1010170605928",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role focused on device analytics and yield, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, or EDA/CAD Methodology that are key to VLSI/EDA jobs.",
+    "reason": "The role is primarily software development focused on manufacturing yield and analytics, which is outside Vineeth's domain of expertise in Power Integrity, CAD/Methodology, VLSI/EDA tools.",
     "id": "4f87278b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "technical analyst jobs in San Marcos, TX",
@@ -42523,13 +42516,12 @@
     "url": "https://www.glassdoor.com/Job/san-marcos-technical-analyst-jobs-SRCH_IL.0,10_IC1139795_KO11,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical analyst role, which does not match the specified technical domains such as Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The URL provided appears to be a Glassdoor search page for technical analyst jobs in San Marcos, TX rather than a specific job posting. It contains no actual job descriptions that match Vineeth's profile.",
     "id": "04138e51",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "San Marcos, TX jobs",
@@ -42538,13 +42530,12 @@
     "url": "https://www.glassdoor.com/Job/san-marcos-jobs-SRCH_IL.0,10_IC1139795.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for a non-technical role at a semiconductor company and does not match the engineering/technical positions we are looking for.",
+    "reason": "The URL is for a generic Glassdoor search page for San Marcos, TX jobs without any specific job details to evaluate against the given requirements.",
     "id": "5d5f2c04",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Noveon Magnetics jobs in San Marcos, TX",
@@ -42553,13 +42544,12 @@
     "url": "https://www.glassdoor.com/Job/san-marcos-noveon-magnetics-jobs-SRCH_IL.0,10_IC1139795_KO11,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at Noveon, which specializes in magnetics rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is for Noveon Magnetics, a company that does not fit within the Semiconductor / VLSI / EDA industry.",
     "id": "4948a569",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Integrity Engineer-Silicon",
