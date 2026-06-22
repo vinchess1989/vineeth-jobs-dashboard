@@ -67786,13 +67786,12 @@
     "url": "https://bg.linkedin.com/jobs/view/trainee-electronic-design-automation-software-engineering-at-globalfoundries-4403790852",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship program, not a full-time position that matches the job requirements.",
+    "reason": "The role is an internship specifically for undergraduates, and it is part-time aligned with university schedules.",
     "id": "de3d5e7e",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Gate-level IR/EM CAD/NLP Engineer (m/f/d)",
@@ -67801,13 +67800,12 @@
     "url": "https://de.linkedin.com/jobs/view/gate-level-ir-em-cad-nlp-engineer-m-f-d-at-apple-4414434760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on machine learning and natural language processing for EDA software, not directly related to semiconductor VLSI EDA.",
+    "reason": "The role is primarily software development focused on ML/NLP interfacing with EDA tools, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "2cfce508",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -67816,13 +67814,12 @@
     "url": "https://gr.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365300559",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on digital logic design and AI architecture rather than semiconductor VLSI/EDA areas.",
+    "reason": "The role is focused on digital logic design (RTL coding, IP integration) which is outside Vineeth's key areas of Power Integrity and Advanced Packaging. Also, it is a staff/senior level position in Greece.",
     "id": "aa80f26c",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Software Engineer \u2013 Photonic & Electronic Circuits",
@@ -67830,14 +67827,13 @@
     "location": "Ghent Metropolitan Area",
     "url": "https://be.linkedin.com/jobs/view/eda-software-engineer-%E2%80%93-photonic-electronic-circuits-at-keysight-technologies-4400838245",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match in Power Integrity, EDA, and CAD domains, with good experience range.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software engineering, not power integrity or EDA tools.",
     "id": "038ca193",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/keysight_technologie_eda_software_engineer___photon_038ca193.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Application Engineer",
@@ -67845,14 +67841,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/lead-application-engineer-at-cadence-4429644459",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches technical domain of Power Integrity/SI but leadership level with less experience required",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "1c48b510",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "2023-06-20",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FE Design Agentic AI Automation Expert",
@@ -67860,14 +67855,13 @@
     "location": "Agrate Brianza, Lombardy, Italy",
     "url": "https://it.linkedin.com/jobs/view/fe-design-agentic-ai-automation-expert-at-stmicroelectronics-italia-4424953388",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical one in AI/ML and requires software engineering skills, fitting the target domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "04122d6b",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "2026-06-08",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/stmicroelectronics_i_fe_design_agentic_ai_automatio_04122d6b.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior PDK Development Engineer",
@@ -67876,13 +67870,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-pdk-development-engineer-at-analog-devices-4237235408",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for PDK development, which does not directly align with the candidate's background in Power Integrity and Advanced Packaging.",
+    "reason": "This is a PDK development role, which falls outside Vineeth's area of Power Integrity and Advanced Packaging expertise.",
     "id": "db8f5df8",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -67890,14 +67883,13 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339269760",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years of experience in Physical Design, EDA tools like Primetime, and location Amsterdam, Netherlands match the target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on physical design, synthesis, and verification - it does not primarily involve power integrity/advanced packaging which are key skills for Vineeth.",
     "id": "c8d2c030",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2023-05-27",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__c8d2c030.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software QA Automation Lead, AI Systems (SuperAgent Team)",
@@ -67905,14 +67897,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/software-qa-automation-lead-ai-systems-superagent-team-at-cadence-4414489744",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves AI systems, which matches the target domain of Power Integrity with a strong 'maybe' due to the semiconductor context. However, it is not strictly focused on PI or related tools like RedHawk.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development with a focus on AI systems and automation, which is outside Vineeth's domain in Power Integrity & Advanced Packaging.",
     "id": "d1c1955d",
     "source": "linkedin_eu_eda_design_automation_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -67921,13 +67912,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339219811",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior/Staff Silicon Physical Design Engineer role matches the key skills and experience levels required.",
+    "reason": "Matches Vineeth's background in PI, packaging, and SoC design, with a strong focus on physical design. Located in Dublin which is a high priority location.",
     "id": "16d34688",
     "source": "linkedin_eu_eda_design_automation_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__16d34688.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__16d34688.txt"
   },
   {
     "title": "Research Software Engineer \u2014 Differentiable Scientific Computing (JAX/Julia)",
