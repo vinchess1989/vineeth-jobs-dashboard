@@ -57958,13 +57958,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-sr-engineer-system-hardware-2-4-years-at-moschip%C2%AE-4406997215",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a System Hardware Engineer, not a semiconductor/VLSI/EDA position.",
+    "reason": "This is an embedded software engineering role with hardware experience, which does not match Vineeth's VLSI/EDA background in power integrity and advanced packaging.",
     "id": "221d6de5",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer",
@@ -57973,13 +57972,12 @@
     "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-siemens-eda-siemens-digital-industries-software-4429351019",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Development Engineer position at Siemens EDA, which does not fit the Semiconductor / VLSI / EDA technical focus.",
+    "reason": "This software development engineer role is outside Vineeth's domain of semiconductor/VLSI/EDA technical roles.",
     "id": "1cd32bc4",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer 5, Software",
@@ -57987,14 +57985,13 @@
     "location": "New Delhi, Delhi, India",
     "url": "https://in.linkedin.com/jobs/view/r-d-engineer-5-software-at-keysight-technologies-4351598932",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior R&D Engineer role with experience in EDA software matching key domain of Power Integrity.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "957005de",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-05-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead CAD Integration & Validation Engineer \u2013 Analog/Mixed-Signal/RF",
@@ -58002,14 +57999,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/lead-cad-integration-validation-engineer-%E2%80%93-analog-mixed-signal-rf-at-nxp-semiconductors-4428418801",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a good match for an experienced engineer with 8+ years of experience in semiconductor/EDA, focused on pre-silicon verification and CAD integration/validation for analog/mixed-signal/RF SoC development.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on pre-silicon verification and tool integration for AMS/RF IP cores, which falls outside Vineeth's core domain of Power Integrity and Advanced Packaging.",
     "id": "05ee7037",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nxp_semiconductors_lead_cad_integration___validat_05ee7037.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PD CAD Engineer",
@@ -58017,14 +58013,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/pd-cad-engineer-at-acl-digital-4314238580",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior PD CAD engineering position at an engineering services company, with 5+ years of experience required and strong technical skills in EDA tools.",
+    "matches_requirements": "no",
+    "reason": "This is an entry-level Associate role which does not fit Vineeth's 15+ years of experience.",
     "id": "93f0914a",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/acl_digital_pd_cad_engineer_93f0914a.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Engineer 2",
@@ -58032,14 +58027,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-skyworks-solutions-inc-4407596341",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain expertise in EDA tools, semiconductor design and automation, and software development.",
+    "matches_requirements": "no",
+    "reason": "This is a software development role, not related to Power Integrity (PI), Advanced Packaging, or EDA tools.",
     "id": "fed2f613",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-04-24",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/skyworks_solutions___software_engineer_2_fed2f613.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer - System Hardware - 4-5 Years",
@@ -58048,13 +58042,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-system-hardware-4-5-years-at-moschip%C2%AE-4406982423",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mid-Senior level Hardware Engineer position with 4-5 years experience, which does not match the Senior Technical leadership profile of Vineeth.",
+    "reason": "The role is focused on hardware design and embedded systems, which does not directly match Vineeth's background in power integrity, advanced packaging, and EDA tools.",
     "id": "0938da48",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead Engineer - System Hardware - 5-6 YEars",
@@ -58063,13 +58056,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-engineer-system-hardware-5-6-years-at-moschip%C2%AE-4406988366",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Lead Engineer - System Hardware, which does not match the technical domains of Power Integrity, Advanced Packaging, etc. specified in the job requirements.",
+    "reason": "The role is primarily hardware board design focused with experience in embedded systems, which does not match Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "2471f899",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Engineer - System Hardware -7-8 Years",
@@ -58078,13 +58070,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-engineer-system-hardware-7-8-years-at-moschip%C2%AE-4406989412",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a hardware engineer with experience in electronic board designs, not semiconductor/EDA/VLSI.",
+    "reason": "The role is primarily software development (firmware engineer) and does not fit Vineeth's domain.",
     "id": "31f303a3",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-05-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Lead I - VLSI PD CAD AI/ML",
@@ -58092,14 +58083,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/technical-lead-i-vlsi-pd-cad-ai-ml-at-ust-4407755026",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role combines VLSI physical design experience with AI/ML expertise, fitting the target domains.",
+    "matches_requirements": "no",
+    "reason": "This is an entry-level role focused on machine learning and physical design automation, which does not match Vineeth's 15 years of power integrity and advanced packaging experience.",
     "id": "729599ca",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
