@@ -47136,13 +47136,12 @@
     "url": "https://www.linkedin.com/jobs/view/head-of-pa-development-at-falcomm-4384869625",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires being onsite full-time in Atlanta, GA which does not match the candidate's preference for locations like Finland, Europe (outside Finland), UK, India, or fully remote roles.",
+    "reason": "This is a Senior Leadership position which does not match Vineeth's experience level.",
     "id": "cc9c2285",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Plant Manager",
@@ -47151,13 +47150,12 @@
     "url": "https://www.linkedin.com/jobs/view/plant-manager-at-dsj-global-4420999566",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing plant manager for water production and packaging, not related to semiconductor/VLSI/EDA.",
+    "reason": "Non-technical role at a semiconductor company",
     "id": "e7b5f63f",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP Procurement",
@@ -47165,14 +47163,13 @@
     "location": "Ewing, NJ",
     "url": "https://www.linkedin.com/jobs/view/vp-procurement-at-church-dwight-co-inc-4414669257",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "Non-technical VP role in a CPG company, not semiconductor/VLSI/EDA.",
     "id": "85dbf871",
     "source": "linkedin_ww_advanced_packaging_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-28",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Optical Packaging Process Engineer",
@@ -47181,13 +47178,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-optical-packaging-process-engineer-at-psiquantum-4397673416",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Milpitas, CA and requires a Master's degree or above which does not fit Vineeth's background.",
+    "reason": "The role focuses on optical packaging process development, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging. While related to semiconductor manufacturing, it is not within his core domain expertise.",
     "id": "2868ee3d",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Architect",
@@ -47196,13 +47192,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-architect-at-mediatek-4426173181",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 8+ years of experience, which is more senior than what Vineeth Prathapachandra Kaimal's profile suggests.",
+    "reason": "The role is a direct match for Packaging Architect with the required expertise, experience and location in San Jose, CA. It does not fit Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
     "id": "4dfdb416",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Engineer - Senior",
@@ -47211,13 +47206,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-engineer-senior-at-cummins-inc-4423280231",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing packaging role focused on expendable and returnable packaging systems, not semiconductor VLSI EDA design.",
+    "reason": "The role is focused on industrial packaging design for a manufacturing company, which does not match Vineeth's background in semiconductor power integrity and advanced packaging.",
     "id": "c3c400ec",
     "source": "linkedin_ww_advanced_packaging_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Packaging Engineer",
@@ -47226,13 +47220,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-packaging-engineer-at-proclinical-staffing-4417744406",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for packaging engineering at a healthcare company, not semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on FDA regulated packaging for healthcare products, which is outside Vineeth's main domains of expertise in semiconductor/EDA. His background is in power integrity, advanced packaging and EDA tools for chip design.",
     "id": "8c3f7063",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marketing & Graphic Design Specialist",
@@ -47241,13 +47234,12 @@
     "url": "https://www.linkedin.com/jobs/view/marketing-graphic-design-specialist-at-joseph-s-bakery-4412175461",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Marketing & Graphic Design Specialist at a bakery company, which does not fit our technical job requirements in semiconductor/VLSI/EDA.",
+    "reason": "The role is a marketing and graphic design specialist focused on print, packaging, e-commerce and brand design - it does not fit Vineeth's technical background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
     "id": "5321b378",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Optical Packaging Design Tech Lead",
@@ -47256,13 +47248,12 @@
     "url": "https://www.linkedin.com/jobs/view/advanced-optical-packaging-design-tech-lead-at-mediatek-4405143827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is based in San Jose, California which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India, or fully remote positions. Additionally, it requires a Master's degree or PhD which exceeds his preferred experience level of 15 years.",
+    "reason": "The role is primarily focused on optical packaging design for photonics and optoelectronic products, which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "a9f60d04",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Marketing Specialist \u2013 SCG India",
@@ -47271,13 +47262,12 @@
     "url": "https://in.linkedin.com/jobs/view/marketing-specialist-%E2%80%93-scg-india-at-scg-4297815911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a marketing position, not technical.",
+    "reason": "The role is a marketing specialist position which falls outside Vineeth's technical domain.",
     "id": "a38971a1",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2023-04-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Packaging Specialist",
