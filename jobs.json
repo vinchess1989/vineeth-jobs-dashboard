@@ -9890,20 +9890,6 @@
     "description_file": null
   },
   {
-    "title": "Industrial Engineer (110)",
-    "company": "Materials Engineer (17)",
-    "location": "Munich, Germany",
-    "url": "https://www.euroengineerjobs.com/jobs/industrial_engineer",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
-    "id": "626edad8",
-    "source": "euro_engineer_jobs",
-    "posted_date": "2023-06-18",
-    "deadline": "2026-06-21",
-    "description_file": null
-  },
-  {
     "title": "Mechanical Engineer (125)",
     "company": "Williams Racing",
     "location": "Munich, Germany",
@@ -18595,20 +18581,6 @@
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": null
-  },
-  {
-    "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer",
-    "company": "Boeing",
-    "location": "El Segundo, CA",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-digital-electronics-circuit-unit-hardware-design-engineer-at-boeing-4414803875",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This entry-level hardware design position is focused on digital electronics for aerospace applications, which is outside Vineeth's domain of power integrity and advanced packaging.",
-    "id": "62cef000",
-    "source": "linkedin_fpga_ww",
-    "posted_date": "2026-06-10",
-    "deadline": "2026-06-21",
     "description_file": null
   },
   {
@@ -30705,20 +30677,6 @@
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null
-  },
-  {
-    "title": "Development Manager, Marketing Technology",
-    "company": "Telenor",
-    "location": "Helsinki, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/development-manager-marketing-technology-at-telenor-4418730996",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company",
-    "id": "0a24d80c",
-    "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "2026-06-21",
     "description_file": null
   },
   {
@@ -69466,13 +69424,12 @@
     "url": "https://uk.linkedin.com/jobs/view/reliability-senior-manager-at-vishay-newport-limited-4407630458",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Quality & Reliability Manager position at a semiconductor company.",
+    "reason": "This is a non-technical reliability role for semiconductor manufacturing, not an engineering/technical position in VLSI/EDA.",
     "id": "b51dd80f",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior LLM Inference Performance Engineer",
@@ -69481,13 +69438,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-llm-inference-performance-engineer-at-amd-4417645696",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on LLMs, AI tooling and infrastructure, which does not match the semiconductor/VLSI/EDA domains.",
+    "reason": "The role is focused on AI performance engineering of LLM inference services, which does not directly map to Vineeth's power integrity and advanced packaging background.",
     "id": "2bcf6033",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "APC Engineer",
@@ -69496,13 +69452,12 @@
     "url": "https://fi.linkedin.com/jobs/view/apc-engineer-at-metso-4428488487",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an APC Engineer position at a mining equipment company (Metso), which does not match the semiconductor/VLSI/EDA industry focus. The job also does not fit any of the specified technical domains.",
+    "reason": "The role is focused on APC system implementation and customer interaction, not semiconductor/EDA/VLSI technology.",
     "id": "3ebab60d",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering",
@@ -69511,13 +69466,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4429197356",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an electrical engineering position, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The electrical engineering role is outside Vineeth's power integrity, advanced packaging and VLSI/SoC physical design domains.",
     "id": "26cd1202",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Tools Optimisation Engineer (Design Verification)",
@@ -69525,14 +69479,13 @@
     "location": "St Albans, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/cad-tools-optimisation-engineer-design-verification-at-apple-4414152827",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target domain of CAD/Methodology and the location is in England, UK which is a priority match.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on RTL simulation tools which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f2c722ce",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-05-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_cad_tools_optimisation_enginee_f2c722ce.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer (\u00a3140k + 20% Bonus)",
@@ -69540,14 +69493,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-engineer-%C2%A3140k-%2B-20%25-bonus-at-manchester-digital-4427786097",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a Senior Staff Engineer which matches the experience level and domain technical area.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Staff Engineer position with focus on AI technologies and consumer-facing platforms, which does not match Vineeth's background in power integrity, packaging and EDA tools.",
     "id": "f703a5c4",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -69556,13 +69508,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-ic-resources-4361206836",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Design Verification Engineer, not a senior leadership position that would match the candidate's experience.",
+    "reason": "This role is primarily verification (UVM-based verification, testbench development) which is outside Vineeth's domain.",
     "id": "aa2244eb",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-05-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering",
@@ -69571,13 +69522,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4429199327",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Electrical Engineering AI Trainer, focusing on training AI models with technical engineering knowledge rather than a semiconductor/VLSI/EDA role.",
+    "reason": "This is a non-technical electrical engineering role that does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "52501d1c",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering",
@@ -69586,13 +69536,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4428665357",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level contract electrical engineering position focused on creating AI training problems, not a match for our target technical domains of VLSI/EDA.",
+    "reason": "The role is primarily software development (AI, data annotation, technical writing) rather than focused on VLSI/EDA engineering.",
     "id": "55630f05",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Design Verification Engineer - (Cambridge, UK)",
@@ -69601,13 +69550,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cpu-design-verification-engineer-cambridge-uk-at-european-tech-recruit-4427992441",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a CPU Design Verification Engineer, which does not match the target domain of Power Integrity (PI), Advanced Packaging, CAD/Methodology, or Physical Design.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f1653907",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering",
