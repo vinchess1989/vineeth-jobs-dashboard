@@ -25100,13 +25100,12 @@
     "url": "https://builtin.com/jobs/data-analytics/search/business-analyst",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The jobs listed are for Business Analyst roles, which do not match the Power Integrity/Advanced Packaging/VLSI/EDA technical domains required.",
+    "reason": "The role is a Business Analyst position focused on data analytics and Power BI, not a technical leadership role in semiconductor/VLSI/EDA.",
     "id": "c5560298",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Development Manager Jobs",
@@ -25115,13 +25114,12 @@
     "url": "https://builtin.com/jobs/sales/search/business-development-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role in semiconductor/VLSI/EDA domain",
+    "reason": "The role is non-technical business development, which is outside Vineeth's domain of semiconductor/VLSI/EDA engineering and leadership.",
     "id": "4378e980",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-14",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Business Intelligence Jobs",
@@ -25130,13 +25128,12 @@
     "url": "https://builtin.com/jobs/data-analytics/business-intelligence",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are in various business intelligence roles at companies like Caterpillar, Ibotta, Tempus AI and Navy Federal Credit Union. They are not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Business Intelligence Analyst, which does not match Vineeth's technical background in semiconductor/VLSI/EDA. It is also fully remote and does not specify any location.",
     "id": "5067fd82",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Systems Analyst Jobs",
@@ -25145,13 +25142,12 @@
     "url": "https://builtin.com/jobs/data-analytics/search/business-systems-analyst",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical business systems analyst role, which does not fit our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The job is for a non-technical Business Systems Analyst role, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "ca610be0",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "C# Jobs",
@@ -25160,13 +25156,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/c-sharp",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed C# jobs are unrelated to semiconductor/VLSI/EDA industry expertise.",
+    "reason": "This is a software development role primarily focused on C++, which is not a match for Vineeth's domain of Power Integrity and Advanced Packaging in EDA.",
     "id": "db019385",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer (m/f/d) Backend of Line / Wafer / Chip on Board",
@@ -25175,13 +25170,12 @@
     "url": "https://de.linkedin.com/jobs/view/process-engineer-m-f-d-backend-of-line-wafer-chip-on-board-at-swissbit-ag-4377931955",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Engineer with focus on mechanical wafer backend processes, which doesn't match the required Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal domains.",
+    "reason": "The role is for a Backend of Line / Wafer / Chip on Board Process Engineer, focusing on mechanical wafer backend processes and interfacing between manufacturing, quality, and assembly. This does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "7070ed11",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer",
@@ -25190,13 +25184,12 @@
     "url": "https://be.linkedin.com/jobs/view/senior-process-engineer-at-verotech-4424525295",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a senior process engineer in manufacturing and does not fit the semiconductor/VLSI/EDA technical domains we are targeting.",
+    "reason": "The role is a Process Engineer, which does not match Vineeth's background in Power Integrity and VLSI/EDA. It involves semiconductor fab process engineering.",
     "id": "448dd788",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Test Engineer",
@@ -25205,13 +25198,12 @@
     "url": "https://de.linkedin.com/jobs/view/asic-test-engineer-at-imec-4429929320",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Test Engineer, which does not match Vineeth's key skills in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "reason": "The role is for an ASIC Test Engineer, which is primarily verification (testbench development) and not in Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "1d804e54",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Product Engineer",
@@ -25220,13 +25212,12 @@
     "url": "https://be.linkedin.com/jobs/view/asic-product-engineer-at-imec-4423393236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an ASIC Product Engineer role, which does not match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, and CAD/Methodology in the VLSI/EDA field.",
+    "reason": "The role is in ASIC product engineering, which is more focused on hardware design and production rather than the power integrity and advanced packaging domain that Vineeth specializes in.",
     "id": "d96115c2",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Validation Engineer",
@@ -25235,13 +25226,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-validation-engineer-at-alif-semiconductor-4411839108",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Validation Engineer position, which does not match the technical background and experience of Vineeth Prathapachandra Kaimal.",
+    "reason": "The role is primarily verification (test equipment, frameworks), which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "66c4e6e5",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "QPU Process Engineer",
