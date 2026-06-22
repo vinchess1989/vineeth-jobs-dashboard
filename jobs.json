@@ -9224,13 +9224,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-red-digital-cinema-4415124617",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer at RED Digital Cinema, which does not fit within the specified domains of Power Integrity, Advanced Packaging, or VLSI/EDA. It also specifies a location in Orange County, CA, USA, which does not match the preferred locations.",
+    "reason": "The role is primarily ASIC/FPGA design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging. It also doesn't mention Python skills.",
     "id": "e658de27",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -9239,13 +9238,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-indotronix-avani-group-4425893241",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer at Indotronix Avani Group, which does not match the Semiconductor / VLSI / EDA industry focus.",
+    "reason": "The role is an FPGA Engineer position, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging for semiconductor VLSI EDA.",
     "id": "60e6f529",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -9253,14 +9251,13 @@
     "location": "Massachusetts, United States",
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-x4-life-sciences-4417666309",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an FPGA engineer at a medical diagnostics company, which does not match the semiconductor/VLSI/EDA domain focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "1740aacf",
     "source": "linkedin_fpga_ww",
-    "posted_date": "2026-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer - Leading Trading Firm",
@@ -9269,13 +9266,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-leading-trading-firm-at-capital-markets-recruitment-4420403245",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering position at a trading firm, not a semiconductor/VLSI/EDA related role.",
+    "reason": "The role is primarily software development (C++, Python) and not focused on semiconductor, VLSI, EDA domains.",
     "id": "d66d3123",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -9284,13 +9280,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-galent-4413333846",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based onsite in Melbourne, Florida which does not match the priority regions of Finland, Europe outside Finland, UK, India, Asia, or fully remote worldwide.",
+    "reason": "The role is primarily focused on FPGA hardware engineering, design, and verification rather than Power Integrity or Advanced Packaging.",
     "id": "1787bc89",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-05-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA / RTL Design Engineer",
@@ -9299,13 +9294,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-swits-digital-private-limited-4429575197",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract role and does not match the senior leadership experience we are seeking.",
+    "reason": "The role is primarily RTL/Verilog design focused, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging. It is an entry-level/mid-level position with less than 5 years experience required.",
     "id": "3e897fc3",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer, Digital Signal Processing",
@@ -9314,13 +9308,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-digital-signal-processing-at-google-4427729517",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is highly specialized in digital signal processing for TPUs at Google, which does not align well with Vineeth's background in power integrity and advanced packaging.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "e1e319d1",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design and Integration Engineer",
@@ -9328,14 +9321,13 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/rtl-design-and-integration-engineer-at-google-4426131693",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an RTL design position focused on Google's TPU hardware, which does not match the VLSI/EDA domains we are targeting.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "6b7ca512",
     "source": "linkedin_rtl_ww",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer, TPU",
@@ -9343,14 +9335,13 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-tpu-at-google-4426621009",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is specific to TPU architecture and RTL design for AI/ML applications at Google, which does not directly align with the semiconductor/VLSI/EDA job requirements.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b27f76fc",
     "source": "linkedin_rtl_ww",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -9359,13 +9350,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-l-a-darling-4429594003",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a company named L.A. Darling, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily focused on product design for retail displays and fixtures, which does not match Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "2f1b8fb1",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-17",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer",
