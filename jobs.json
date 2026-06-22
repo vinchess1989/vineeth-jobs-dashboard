@@ -2910,13 +2910,12 @@
     "url": "https://jobs.siemens.com/cs_CZ/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description is incomplete and does not specify a company name or location, making it impossible to evaluate against the given criteria.",
+    "reason": "The job posting URL provided does not contain relevant details for evaluation and appears to be an inactive Siemens careers page.",
     "id": "b5349444",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u4e2d\u6587 (\u7b80\u4f53)",
@@ -2925,13 +2924,12 @@
     "url": "https://jobs.siemens.com/zh_CN/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a Siemens company, which does not match our focus on engineering/technical positions.",
+    "reason": "The job posting is in Chinese, but no specific technical requirements are mentioned for a semiconductor/VLSI/EDA role.",
     "id": "9f918303",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u4e2d\u6587 (\u7e41\u4f53)",
@@ -2940,13 +2938,12 @@
     "url": "https://jobs.siemens.com/zh_TW/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company.",
+    "reason": "This is a general Siemens careers page with no specific job openings listed.",
     "id": "2fb98e4a",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Job Search",
@@ -2955,13 +2952,12 @@
     "url": "https://www.euroengineerjobs.com/job_search",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical marketing position at a semiconductor company.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "ef8ff545",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "Job Alerts",
@@ -2970,13 +2966,12 @@
     "url": "https://www.euroengineerjobs.com/job_alert/new",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a generic alert for various engineering disciplines without specifying a technical focus matching our target domains.",
+    "reason": "The job is for non-technical marketing/sales roles, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "3e6af740",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Career Guides",
@@ -2985,13 +2980,12 @@
     "url": "https://www.euroengineerjobs.com/career_guide",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing does not match the search criteria for semiconductor/VLSI/EDA roles.",
+    "reason": "The listed career guides are informational articles and do not correspond to specific technical jobs in semiconductor/VLSI/EDA.",
     "id": "195696f0",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Belgium (11)",
@@ -3000,28 +2994,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/belgium",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job posting does not match the exact domain-specific technical skills and years of experience required for semiconductor/VLSI/EDA roles.",
+    "reason": "The role is for a Program Manager, which does not fit Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "c106edb3",
     "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Czech Republic (17)",
-    "company": "EUSPA - European Union Agency for the Space Programme",
-    "location": "Prague, Czech Republic",
-    "url": "https://www.euroengineerjobs.com/jobs/czech_republic",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is an engineering management role for a space-related agency, which does not match the technical domains we are targeting (Power Integrity/Signal Integrity, Advanced Packaging/Thermal, CAD/Methodology, etc.).",
-    "id": "e695d65c",
-    "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "7 july",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "France (16)",
@@ -3030,13 +3008,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/france",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is not a match for a semiconductor/VLSI/EDA role; it's an engineering job at ESRF in France.",
+    "reason": "The job is for non-technical roles at a semiconductor company, which we do not want to filter.",
     "id": "b90084f7",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Greece (8)",
@@ -3045,13 +3022,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/greece",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a non-technical HR role and does not fit our semiconductor/VLSI/EDA technical focus.",
+    "reason": "Not a technical role within semiconductor/VLSI/EDA domain, and no specific technical skills mentioned.",
     "id": "661fad85",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Netherlands (12)",
