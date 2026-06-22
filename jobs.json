@@ -1914,13 +1914,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87088?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused, not semiconductor/VLSI/EDA engineering.",
+    "reason": "The job is for a software development engineer position, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "29b55444",
     "source": "amd_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join Talent Network",
@@ -1928,29 +1927,27 @@
     "location": "Extract from page",
     "url": "https://careers.qualcomm.com/careers/join?sortBy=relevance",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "No specific job role mentioned, only a general talent network submission.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "74b934d8",
     "source": "qualcomm_careers",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Manage",
-    "company": "Extract from page",
+    "company": "Qualcomm",
     "location": "Extract from page",
     "url": "https://careers.qualcomm.com/careers/settings?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description text does not contain enough information to determine eligibility based on domain, technical area, experience level, location, and work model.",
+    "reason": "The job is a non-technical HR role, so it does not match Vineeth's engineering background.",
     "id": "88fbd200",
     "source": "qualcomm_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior EngineerHyderabad, Telangana, IndiaSoftware EngineeringPosted 2 days ago",
@@ -1959,13 +1956,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446718893932?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role unrelated to semiconductor/VLSI/EDA domains.",
+    "reason": "This is a general software engineering role at Qualcomm India, not a specialized technical leadership position in Power Integrity, Advanced Packaging, SoC design, etc. which match Vineeth's background.",
     "id": "6340ae74",
     "source": "qualcomm_careers",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff ASIC Verification EngineerMarkham, Ontario, CanadaASICS EngineeringPosted a month ago",
@@ -1974,13 +1970,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446718599937?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role focused on ASIC verification, not a VLSI/EDA design position.",
+    "reason": "This role is primarily ASIC verification rather than Power Integrity/Advanced Packaging which is Vineeth's domain.",
     "id": "48a32f7a",
     "source": "qualcomm_careers",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Job Application Privacy Notice",
@@ -1989,13 +1984,12 @@
     "url": "https://www.qualcomm.com/site/job-application-privacy-notice",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a privacy notice page for applying to jobs at Qualcomm, not an actual job posting.",
+    "reason": "Non-technical HR role, no engineering/semiconductor domain mentioned",
     "id": "7c6d378e",
     "source": "qualcomm_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "sitemap",
@@ -2004,13 +1998,12 @@
     "url": "https://careers.ti.com/sitemaps/sitemapIndex",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a sitemap file, which does not contain any actual job postings and therefore cannot be evaluated against the given criteria.",
+    "reason": "The URL provided is for a sitemap index file which lists other XML files containing job listings, but does not contain an actual job posting to evaluate against the given criteria.",
     "id": "3f749918",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Events 1",
@@ -2019,13 +2012,12 @@
     "url": "https://careers.ti.com/en/sites/CX/events",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not specify a clear company name and location, so it cannot be evaluated against the target criteria.",
+    "reason": "The job posting is for a general company event, not a specific technical role. It does not fit Vineeth's profile.",
     "id": "52a0a3b1",
     "source": "ti_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Careers",
@@ -2034,28 +2026,26 @@
     "url": "https://careers.ti.com/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical marketing role at a semiconductor company, which does not match our technical engineering focus.",
+    "reason": "The job posting URL was not found, so there is no deadline and no company name to evaluate.",
     "id": "381c7753",
     "source": "ti_careers",
     "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Candidate login",
-    "company": "Extract from page",
+    "company": "Texas Instruments",
     "location": "Extract from page",
     "url": "https://careers.ti.com/en/sites/CX/my-profile/sign-in",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain sufficient details for evaluation, such as company name, location, or application deadline.",
+    "reason": "The URL provided does not lead to an actual job posting, but instead appears to be a login page for managing a Texas Instruments careers profile. There is no actual job description available.",
     "id": "4187f495",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join our talent community",
@@ -2064,13 +2054,12 @@
     "url": "https://careers.ti.com/en/sites/CX/join-talent-community",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for joining a talent community, which does not specify any open positions.",
+    "reason": "Not a specific engineering/technical role at a semiconductor company",
     "id": "5eb65430",
     "source": "ti_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Find your role",
@@ -2079,13 +2068,12 @@
     "url": "https://careers.ti.com/en/sites/CX/requisitions",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain enough specific details to accurately evaluate a match with the defined criteria.",
+    "reason": "Not a technical engineering role, looks like general corporate job search page without specific openings listed.",
     "id": "c4795447",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Engineering",
