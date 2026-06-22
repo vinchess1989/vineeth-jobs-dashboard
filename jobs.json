@@ -22636,43 +22636,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22509&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical safety role at a semiconductor company which we are rejecting per instructions.",
+    "reason": "This is a non-technical HR role, not suitable for Vineeth's semiconductor/VLSI/EDA engineering background.",
     "id": "55fba926",
     "source": "tsmc_careers",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "Welcome Back",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSr-EH-S-Engineer%2F22509",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on software development, which is outside Vineeth's domain.",
     "id": "48b27c4c",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Silicon Technology Manager",
-    "company": "Cirrus Logic",
-    "location": "Austin, TX",
-    "url": "https://www.linkedin.com/jobs/view/silicon-technology-manager-at-cirrus-logic-4429363804",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires US residency which is a hard rejection based on our criteria.",
-    "id": "2da79abe",
-    "source": "linkedin_semi_ww",
-    "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Member of Technical Staff, Hardware",
@@ -22680,14 +22663,13 @@
     "location": "Mountain View, CA",
     "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-hardware-at-densityai-4429364689",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Candidate has relevant experience in hardware engineering, matches the technical domain criteria, and location is acceptable.",
+    "matches_requirements": "no",
+    "reason": "This role focuses on verification rather than Power Integrity or Advanced Packaging, which are Vineeth's key domains.",
     "id": "2013ba3e",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/densityai_member_of_technical_staff__har_2013ba3e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Device Modeling Engineer",
@@ -22695,14 +22677,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/device-modeling-engineer-at-texas-instruments-india-4382492951",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The candidate has deep semiconductor experience, but the role is for device modeling rather than PI/SI/EDA.",
+    "matches_requirements": "no",
+    "reason": "The role requires a Ph.D. but Vineeth's background is only a Master's, which disqualifies him.",
     "id": "751e1281",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Solutions Engineering, Staff Engineer",
@@ -22710,14 +22691,13 @@
     "location": "Bhubaneswar, Odisha, India",
     "url": "https://in.linkedin.com/jobs/view/solutions-engineering-staff-engineer-at-synopsys-inc-4390350488",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior technical role aligns with the key domains of VLSI/EDA, requiring strong expertise in RTL, physical design and post-silicon test/debug. It is at a semiconductor company, Synopsys.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on physical design (RTL, physical design, IP development) which is outside Vineeth's domain of PI/SI, packaging and CAD tools.",
     "id": "760747b1",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_solutions_engineering__staff_e_760747b1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -22726,13 +22706,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-hcltech-4427851700",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL Design Engineer, which is more focused on digital design and verification rather than our target areas of power integrity, advanced packaging, or EDA CAD.",
+    "reason": "The role is primarily RTL design, which falls outside Vineeth's domain of expertise.",
     "id": "69f52f54",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -22741,13 +22720,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-lattice-semiconductor-4429145119",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is entry-level ASIC Design Engineer, which does not match the target domain of senior technical leadership positions.",
+    "reason": "The role is an entry-level ASIC Design Engineer, which does not match Vineeth's senior leadership background and experience in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis and CAD Methodology.",
     "id": "dd0163ef",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -22756,13 +22734,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-airbus-us-space-defense-inc-4414247486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position does not match the key technical domains such as Power Integrity, Advanced Packaging, CAD/Methodology in VLSI/EDA.",
+    "reason": "The role is primarily software development (embedded Linux firmware engineer) rather than semiconductor/VLSI/EDA.",
     "id": "bb863899",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-05-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -22771,13 +22748,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-engineer-at-booz-allen-hamilton-4419948811",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a software engineering role focused on FPGA-based DSP systems, which does not match the target domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or related CAD Methodology.",
+    "reason": "The role is primarily software development (firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "ad4cbf7c",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sym3 Staff Hardware Engineer, Mechanical or Electrical salaries",
