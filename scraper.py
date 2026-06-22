@@ -185,18 +185,12 @@ _KEYWORD_SITE_TEMPLATES = [
 
 # ── Fixed sites (career pages, boards that don't fit a keyword URL template)
 FIXED_SITES = [
-    # Naukri.com — India-specific (category URLs, not keyword search)
-    {"id": "naukri_vlsi",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/vlsi-design-jobs?sort=date"},
-    {"id": "naukri_semi",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/semiconductor-jobs?sort=date"},
-    {"id": "naukri_fpga",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/fpga-jobs?sort=date"},
-    {"id": "naukri_asic",     "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/asic-design-jobs?sort=date"},
-    {"id": "naukri_embedded", "platform": "naukri", "scroll_count": 12, "url": "https://www.naukri.com/embedded-systems-jobs?sort=date"},
-
     # Glassdoor
     {"id": "glassdoor_semi", "platform": "glassdoor", "scroll_count": 10, "url": "https://www.glassdoor.com/Job/semiconductor-engineer-jobs-SRCH_KO0,22.htm?sortBy=date_desc"},
 
     # Major Semiconductor Companies — Career Pages
-    {"id": "intel_careers",           "platform": "intel",           "scroll_count": 8, "url": "https://jobs.intel.com/en/search-jobs?k=engineer"},
+    # Intel: landing page only shows ~5 featured jobs; Workday direct gives 20+ via ?q= fix
+    {"id": "intel_careers",           "platform": "intel",           "scroll_count": 8, "url": "https://intel.wd1.myworkdayjobs.com/External?q=engineer"},
     {"id": "amd_careers",             "platform": "amd",             "scroll_count": 8, "url": "https://careers.amd.com/careers/SearchJobs?sort=posting_date"},
     {"id": "nvidia_careers",          "platform": "nvidia",          "scroll_count": 8, "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=engineer"},
     {"id": "qualcomm_careers",        "platform": "qualcomm",        "scroll_count": 8, "url": "https://careers.qualcomm.com/careers?query=engineer&sortBy=relevance"},
@@ -204,48 +198,43 @@ FIXED_SITES = [
     {"id": "ti_careers",              "platform": "ti",              "scroll_count": 8, "url": "https://careers.ti.com/search-jobs?k=engineer"},
     {"id": "nxp_careers",             "platform": "nxp",             "scroll_count": 8, "url": "https://nxp.wd3.myworkdayjobs.com/careers?q=engineer"},
     {"id": "infineon_careers",        "platform": "infineon",        "scroll_count": 8, "url": "https://www.infineon.com/cms/en/careers/jobsearch/?query=engineer"},
-    {"id": "stmicro_careers",         "platform": "stmicro",         "scroll_count": 8, "url": "https://stmicroelectronics.eightfold.ai/careers?query=engineer"},
-    # Microchip: careers.microchip.com has expired SSL cert; removed — covered by LinkedIn keyword searches
-    # Renesas: renesas.com triggers bot-protection redirect (chrome-error); removed — covered by LinkedIn
-    # Marvell: Workday SPA, returns ~0 links; removed — covered by LinkedIn keyword searches
-    # ADI: Workday SPA, returns ~0 links; removed — covered by LinkedIn keyword searches
-    # Onsemi: Workday SPA, returns ~0 links; removed — covered by LinkedIn keyword searches
+    # STMicro: eightfold.ai is a pure React SPA — only 1 nav link regardless of scroll count; removed
+    # Microchip: expired SSL cert; removed — covered by LinkedIn keyword searches
+    # Renesas: bot-protection chrome-error redirect; removed — covered by LinkedIn
+    # Marvell/ADI/Onsemi: Workday SPA returning ~0 links; removed — covered by LinkedIn
     {"id": "micron_careers",          "platform": "micron",          "scroll_count": 8, "url": "https://micron.eightfold.ai/careers?query=engineer"},
-    {"id": "mediatek_careers",        "platform": "mediatek",        "scroll_count": 8, "url": "https://careers.mediatek.com/eREC/search?query=engineer"},
+    {"id": "mediatek_careers",        "platform": "mediatek",        "scroll_count": 8, "url": "https://careers.mediatek.com/en/jobs"},
     {"id": "arm_careers",             "platform": "arm",             "scroll_count": 8, "url": "https://careers.arm.com/search-jobs?k=engineer"},
-    {"id": "samsung_semi_careers",    "platform": "samsung_semi",    "scroll_count": 8, "url": "https://semiconductor.samsung.com/us/careers/job-search/?keyword=engineer"},
+    # Samsung Semi: semiconductor.samsung.com consistently returns error pages; removed
     {"id": "tsmc_careers",            "platform": "tsmc",            "scroll_count": 8, "url": "https://careers.tsmc.com/careers/SearchJobs?sort=posting_date"},
-    {"id": "globalfoundries_careers", "platform": "globalfoundries", "scroll_count": 8, "url": "https://globalfoundries.wd1.myworkdayjobs.com/External?q=engineer"},
-    {"id": "skhynix_careers",         "platform": "skhynix",         "scroll_count": 8, "url": "https://recruit.skhynix.com/eng/search.do"},
+    # GlobalFoundries moved from Workday to Eightfold.ai in 2025
+    {"id": "globalfoundries_careers", "platform": "globalfoundries", "scroll_count": 8, "url": "https://globalfoundries.eightfold.ai/careers?query=engineer"},
+    # SK Hynix: careers.skhynix.com DNS fails; removed
 
     # EDA / Design Automation Companies
-    {"id": "synopsys_careers",    "platform": "synopsys",    "scroll_count": 8, "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359#keyWordSearch=engineer"},
+    # Synopsys: Brassring (old ATS) shut down; new careers site
+    {"id": "synopsys_careers",    "platform": "synopsys",    "scroll_count": 8, "url": "https://careers.synopsys.com/jobs?keywords=engineer&pagesize=20&pagenumber=1"},
     {"id": "cadence_careers",     "platform": "cadence",     "scroll_count": 8, "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=engineer"},
     {"id": "siemens_eda_careers", "platform": "siemens_eda", "scroll_count": 8, "url": "https://jobs.siemens.com/careers?query=EDA&location=&pid=&domain=&sort_by=date&triggerGoButton=false"},
-    # Ansys acquired by Synopsys in 2024 — careers merged into Synopsys; entry removed
-    {"id": "keysight_careers",    "platform": "keysight",    "scroll_count": 8, "url": "https://jobs.keysight.com/search-jobs?k=engineer"},
+    # Ansys acquired by Synopsys in 2024 — careers merged into Synopsys; removed
+    # Keysight: all 96 links are nav/portal, actual job listings are JS-rendered only; removed
 
     # Consultancies & Staffing
-    {"id": "tata_elxsi_careers", "platform": "tata_elxsi", "scroll_count": 8, "url": "https://www.tataelxsi.com/careers/job-search.html"},
-    {"id": "sifive_careers",     "platform": "sifive",     "scroll_count": 8, "url": "https://www.sifive.com/careers"},
-    {"id": "tessolve_careers",   "platform": "tessolve",   "scroll_count": 8, "url": "https://www.tessolve.com/careers/"},
+    # Tata Elxsi: tataelxsi.com/careers/job-search.html returns 404; removed
+    # SiFive: all links end with /careers suffix, no individual job URLs served statically; removed
+    {"id": "tessolve_careers",   "platform": "tessolve",   "scroll_count": 8, "url": "https://tessolve.darwinbox.com/ms/candidatev2/main/careers/allJobs"},
+    # ISRO/DRDO/BEL/CDAC: government recruitment portals all inaccessible or 404; removed
 
-    # Government / Public Sector (India)
-    {"id": "isro_careers", "platform": "isro", "scroll_count": 6, "url": "https://www.isro.gov.in/careers.html"},
-    {"id": "drdo_careers", "platform": "drdo", "scroll_count": 6, "url": "https://www.drdo.gov.in/drdo/job-opportunities"},
-    {"id": "bel_careers",  "platform": "bel",  "scroll_count": 6, "url": "https://www.bel-india.in/Ede/ContentPage.aspx?MId=21&CId=0&LId=1&link=291"},
-    {"id": "cdac_careers", "platform": "cdac", "scroll_count": 6, "url": "https://www.cdac.in/index.aspx?id=ca_openpositions"},
-
-    # Startup Job Boards
-    {"id": "yc_semi",       "platform": "yc",       "scroll_count": 10, "url": "https://www.workatastartup.com/jobs?query=semiconductor"},
-    {"id": "wellfound_semi","platform": "wellfound", "scroll_count": 10, "url": "https://wellfound.com/role/r/semiconductor-engineer"},
+    # Job Boards
     {"id": "builtin_semi",  "platform": "builtin",   "scroll_count": 10, "url": "https://builtin.com/jobs?search=semiconductor"},
+    # YC Work at a Startup: query param ignored, returns generic category links only; removed
+    # Wellfound: requires login, returns 0 links; removed
 
     # European / UK specialist boards
-    {"id": "ic_resources",       "platform": "ic_resources",      "scroll_count": 8,  "url": "https://ic-resources.com/en/jobs/semiconductor"},
     {"id": "euro_engineer_jobs", "platform": "euro_engineer_jobs","scroll_count": 8,  "url": "https://www.euroengineerjobs.com/jobs/semiconductor"},
     {"id": "jobly_fi_engineer",  "platform": "jobly",             "scroll_count": 10, "url": "https://www.jobly.fi/tyopaikat?search=engineer"},
     {"id": "work_in_finland",    "platform": "work_in_finland",   "scroll_count": 8,  "url": "https://www.workinfinland.com/en/open-jobs/?industry=engineering"},
+    # IC Resources: consistently returns 1 nav link regardless of URL; removed
 
     # Reddit
     {"id": "reddit_chipdesign", "platform": "reddit", "scroll_count": 6, "url": "https://old.reddit.com/r/chipdesign/search?q=hiring+OR+freelance+OR+contract+OR+part-time&restrict_sr=on&sort=new&t=all"},
@@ -435,47 +424,62 @@ def parse_generic(soup, base_url):
     jobs = []
     for a in soup.find_all('a', href=True):
         href = a['href']
-        # Look for URL paths commonly associated with job postings
-        if any(kw in href.lower() for kw in ['/job', '/career', '/position', '/vacancy', '/opening', '/requisition',
-                                               '/view', '/rc/clk', '/apply', '/posting']):
-            # Skip search/list filter queries, sorting options, base list pages, and non-job pages
-            if any(skip in href.lower() for skip in [
-                '?search=', '?q=', '?sort=', '?query=',
-                '/careers?', '/job-search?', '/search-jobs?',
-                'destination=search', '/login', '/signup', '/register',
-                '/pricing', '/about', '/contact', '/blog',
-                '/job-bookmarks', '/saved-jobs', 'apply-now'
-            ]):
-                continue
-            clean_path = href.lower().split('?')[0].rstrip('/')
-            if clean_path.endswith('/careers') or clean_path.endswith('/jobs') or clean_path.endswith('/openings'):
-                continue
-            title = a.text.strip()
-            title_lower = title.lower()
-            if any(kw in title_lower for kw in BLOCKED_TITLE_KEYWORDS):
-                continue
-            if 5 < len(title) < 100 and not any(skip in title.lower() for skip in [
-                'read more', 'learn more', 'see all', 'show all', 'view all',
-                'sign in', 'log in', 'apply now', 'click here'
-            ]):
-                raw_url = urljoin(base_url, href)
-                # Normalize Indeed URLs to prevent duplicates
-                if "indeed.com/rc/clk" in raw_url and "jk=" in raw_url:
-                    import urllib.parse
-                    parsed = urllib.parse.urlparse(raw_url)
-                    qs = urllib.parse.parse_qs(parsed.query)
-                    if 'jk' in qs:
-                        raw_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}?jk={qs['jk'][0]}"
+        href_lower = href.lower()
+        path_part = href_lower.split('?')[0]
 
-                jobs.append({
-                    "title": title.replace('\n', ' ').strip(),
-                    "company": "Extract from page",
-                    "location": "Extract from page",
-                    "url": raw_url,
-                    "visited": "no",
-                    "matches_requirements": "pending",
-                    "reason": ""
-                })
+        # Must contain a job-related path keyword
+        if not any(kw in href_lower for kw in ['/job', '/career', '/position', '/vacancy', '/opening',
+                                                '/requisition', '/view', '/rc/clk', '/apply', '/posting']):
+            continue
+
+        # Workday (and similar ATSes) append ?q=<search_term> to job detail URLs.
+        # If the path contains /job/, this is a detail URL — strip the query string
+        # so the ?q= skip below doesn't incorrectly discard it.
+        if '/job/' in path_part and '?q=' in href_lower:
+            href = href.split('?')[0]
+            href_lower = href.lower()
+            path_part = href_lower
+
+        # Skip search/list filter queries, sorting options, base list pages, non-job pages
+        if any(skip in href_lower for skip in [
+            '?search=', '?q=', '?sort=', '?query=',
+            '/careers?', '/job-search?', '/search-jobs?',
+            'destination=search', '/login', '/signup', '/register',
+            '/pricing', '/about', '/contact', '/blog',
+            '/job-bookmarks', '/saved-jobs', 'apply-now'
+        ]):
+            continue
+
+        clean_path = path_part.rstrip('/')
+        if clean_path.endswith('/careers') or clean_path.endswith('/jobs') or clean_path.endswith('/openings'):
+            continue
+
+        title = a.text.strip()
+        title_lower = title.lower()
+        if any(kw in title_lower for kw in BLOCKED_TITLE_KEYWORDS):
+            continue
+        if 5 < len(title) < 100 and not any(skip in title.lower() for skip in [
+            'read more', 'learn more', 'see all', 'show all', 'view all',
+            'sign in', 'log in', 'apply now', 'click here'
+        ]):
+            raw_url = urljoin(base_url, href)
+            # Normalize Indeed URLs to prevent duplicates
+            if "indeed.com/rc/clk" in raw_url and "jk=" in raw_url:
+                import urllib.parse
+                parsed = urllib.parse.urlparse(raw_url)
+                qs = urllib.parse.parse_qs(parsed.query)
+                if 'jk' in qs:
+                    raw_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}?jk={qs['jk'][0]}"
+
+            jobs.append({
+                "title": title.replace('\n', ' ').strip(),
+                "company": "Extract from page",
+                "location": "Extract from page",
+                "url": raw_url,
+                "visited": "no",
+                "matches_requirements": "pending",
+                "reason": ""
+            })
     return jobs
 
 

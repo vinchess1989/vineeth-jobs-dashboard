@@ -52,3 +52,7 @@ Must be in at least ONE of the following technical domains, with a strong prefer
 When evaluating a job posting, you MUST use your web fetch tool to visit the URL to check the application deadline and read the full job description. Logically check if it fits the combinations defined above.
 
 **Tracking Evaluations:** After evaluating a "pending" job in `jobs.json`, you MUST update that specific job's entry directly within `jobs.json` in-place. Set `"visited": "yes"`, update `"matches_requirements"` to `"yes"` (if it matched), `"maybe"` (if it is a maybe match), or `"no"` (if it was discarded), and set `"reason"` to a brief 1-sentence explanation of your decision. Do NOT delete any records from the file!
+
+
+### Automatically Added Negative Constraints (from UI Rejections):
+- NEGATIVE CONSTRAINT: The user explicitly rejected a previous job because: 'Don’t match verification unless the job description mentions technical keywords in my requirements'. Do NOT match jobs that have this issue.
