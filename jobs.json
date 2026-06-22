@@ -6088,13 +6088,12 @@
     "url": "https://careers.arm.com/job/bengaluru/senior-verification-engineer/33099/96512853680",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Verification Engineer, which does not directly align with my primary domains of Power Integrity, Advanced Packaging, and CAD.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "b3f89d09",
     "source": "arm_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Debugger Software Engineer",
@@ -6103,13 +6102,12 @@
     "url": "https://careers.arm.com/job/manchester/debugger-software-engineer/33099/96460786960",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (software engineering) at a semiconductor company.",
+    "reason": "The role is primarily software engineering focused on debug tools, which is outside Vineeth's domain of Power Integrity, Advanced Packaging.",
     "id": "d1194247",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-15",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Architecture Formal Engineer",
@@ -6117,14 +6115,13 @@
     "location": "Cambridge, United Kingdom",
     "url": "https://careers.arm.com/job/cambridge/staff-architecture-formal-engineer/33099/89039360960",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain (Architecture Formal), location (Cambridge, UK), and seniority level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software engineering (OCaml, tool development) and verification rather than Power Integrity, packaging, or EDA tools. It does NOT match Vineeth's domain.",
     "id": "f9126d2d",
     "source": "arm_careers",
     "posted_date": "2025-01-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_staff_architecture_formal_engi_f9126d2d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Verification Engineer",
@@ -6133,13 +6130,12 @@
     "url": "https://careers.arm.com/job/bristol/soc-verification-engineer/33099/94451303312",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a SoC Verification Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, or CAD/Methodology. Also, the location is Bristol, UK, which doesn't match our preferred locations.",
+    "reason": "The role involves SoC verification, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "29226d63",
     "source": "arm_careers",
     "posted_date": "2026-04-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Field Applications Engineer (FAE)",
@@ -6147,14 +6143,13 @@
     "location": "Cambridge, United Kingdom; Munich, Germany",
     "url": "https://careers.arm.com/job/cambridge/principal-field-applications-engineer-fae/33099/94859311120",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job posting does not clearly state a specific company name, so it is unclear if this matches the criteria for a semiconductor/VLSI/EDA role.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily customer-facing technical sales, not engineering/technical work in semiconductor/VLSI/EDA.",
     "id": "9c906d7e",
     "source": "arm_careers",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Advanced Packaging Integration Engineer",
@@ -6162,14 +6157,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21826&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This engineering role is at a semiconductor manufacturing giant TSMC, but it's too senior/specialized (R&D Advanced Packaging Integration Engineer) for our search criteria which targets more general roles in Power Integrity, VLSI/EDA with 10-15 years experience.",
+    "matches_requirements": "yes",
+    "reason": "The role is a technical R&D position leading advanced packaging integration, matching Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "6745904a",
     "source": "tsmc_careers",
     "posted_date": "2026-05-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_r_d_advanced_packaging_integra_6745904a.txt"
   },
   {
     "title": "LinkedIn",
@@ -6178,13 +6172,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Advanced-Packaging-Integration-Engineer%2F21826",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain criteria for Advanced Packaging Engineer with leadership role and experience in semiconductor industry.",
+    "reason": "The role is a Senior Technical Leadership position focused on Advanced Packaging and Integration at TSMC, which strongly matches Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "abcedfef",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_abcedfef.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_abcedfef.txt"
   },
   {
     "title": "Process Engineer (Taichung)",
@@ -6193,13 +6186,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19713&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is with Taiwan Semiconductor Manufacturing Company Limited, which does not match the VLSI/EDA industry focus of the job search.",
+    "reason": "The role is a Process Engineer focused on semiconductor manufacturing, which does not fit Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "ef7a2f5f",
     "source": "tsmc_careers",
     "posted_date": "2026-04-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -6208,13 +6200,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Engineer-Taichung%2F19713",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior level role at TSMC with over 10 years of experience in Power Integrity and Advanced Packaging, matching key skills and domains.",
+    "reason": "Matches domain, technical area, years of experience, and location criteria for a senior-level role in Power Integrity.",
     "id": "d6c05d42",
     "source": "tsmc_careers",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_d6c05d42.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_d6c05d42.txt"
   },
   {
     "title": "Research and Development Engineer (R&D)",
@@ -6223,13 +6214,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16359&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This R&D engineering role at TSMC is located in Taiwan, which doesn't match the target locations of Finland, Europe (outside Finland), UK, India or Asia. It's also not a Power Integrity/SI/Advanced Packaging/CAD leadership role.",
+    "reason": "This is a general R&D engineer position at TSMC, not specific to Power Integrity, Packaging or VLSI/EDA roles that Vineeth's background is in.",
     "id": "2bbdf388",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Siemens Jobs Search Homepage",
