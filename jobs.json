@@ -3456,13 +3456,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1tmowha/i_build_embedded_system_hw_sw_in_bangalore_i_need/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical B2B sales role at an individual startup, which does not match our semiconductor/VLSI/EDA technical role focus.",
+    "reason": "This is a request for help finding a B2B sales partner, not an actual job posting.",
     "id": "98027a58",
     "source": "reddit_hwstartups",
     "posted_date": "2026-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Box build quote came in higher than our PCBA quote, not sure if that's normal at this scale",
@@ -3470,14 +3469,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/hwstartups/comments/1tjf7da/box_build_quote_came_in_higher_than_our_pcba/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical marketing role at a semiconductor company.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "dd62835a",
     "source": "reddit_hwstartups",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "I built a lightweight PLM tool for HW startups & SMBs with free access",
@@ -3485,14 +3483,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/hwstartups/comments/1tipeth/i_built_a_lightweight_plm_tool_for_hw_startups/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a self-post about a PLM tool, not an active job opening.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ab68b760",
     "source": "reddit_hwstartups",
-    "posted_date": "2026-05-20",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Direct Procurement Manager",
@@ -3501,13 +3498,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-direct-procurement-manager-at-roku-4416471057",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Procurement Manager role at Roku, which does not fit the semiconductor/VLSI/EDA domain technical expert criteria.",
+    "reason": "The role is primarily software development (e.g. 'support new product development and manage the end-to-end procurement lifecycle') which is outside Vineeth's domain.",
     "id": "263e3f0b",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equity Research Analyst",
@@ -3516,13 +3512,12 @@
     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-at-alexander-chapman-4419495148",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Equity Research Analyst role, which is non-technical and does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for an Equity Research Analyst, which is a non-technical finance/analysis position and does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "19c36903",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equity Research Associate",
@@ -3531,13 +3526,12 @@
     "url": "https://www.linkedin.com/jobs/view/equity-research-associate-at-undisclosed-4425601739",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an Equity Research Associate role at a financial services firm, which does not match our semiconductor/VLSI/EDA technical job requirements.",
+    "reason": "The role is in finance, not semiconductor/VLSI/EDA.",
     "id": "95a5b30e",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commodity Business Manager",
@@ -3545,14 +3539,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/commodity-business-manager-at-halo-industries-inc-4413488848",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a non-technical business management position focused on strategic sourcing and supplier relationships, which does not match the technical semiconductor/VLSI/EDA job requirements.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "25882e34",
     "source": "linkedin_semi_ww",
-    "posted_date": "2023-05-01",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "General Manager Business Unit",
@@ -3561,13 +3554,12 @@
     "url": "https://www.linkedin.com/jobs/view/general-manager-business-unit-at-synexis-global-4412894363",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business leadership role, not an engineering or technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is a General Manager for a business unit, which does not fit Vineeth's technical background in Power Integrity, Advanced Packaging and EDA.",
     "id": "5cf259af",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Manager, Operations, Solar Manufacturing",
@@ -3576,13 +3568,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-manager-operations-solar-manufacturing-at-tesla-4418467043",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Operations Sr. Manager position at Tesla's solar manufacturing facility, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is in solar manufacturing operations, which does not match Vineeth's semiconductor/VLSI/EDA background and expertise.",
     "id": "52b1c206",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-05-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Head of Business Operations",
@@ -3590,14 +3581,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/head-of-business-operations-at-vishay-intertechnology-inc-4427748862",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Director of Business Operations at a semiconductor company, but does not fit the technical domains we are targeting.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "6fba4a80",
     "source": "linkedin_semi_ww",
-    "posted_date": "2026-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Sourcing",
