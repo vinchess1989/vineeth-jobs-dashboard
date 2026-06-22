@@ -5668,13 +5668,12 @@
     "url": "https://careers.amd.com/careers-home/locations",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This page lists various AMD office locations around the world, but does not contain a specific job posting to evaluate.",
+    "reason": "This is an AMD corporate careers page showing global locations rather than a specific job opening.",
     "id": "b0e2d787",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join Our Talent Community",
@@ -5683,13 +5682,12 @@
     "url": "https://careers.amd.com/talent-network/talentcommunity",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (Talent Community) at a semiconductor company, and does not match engineering/technical positions.",
+    "reason": "The posting is for a general talent community rather than a specific engineering role at AMD.",
     "id": "28b96784",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer -BT EngineerHyderabad, Telangana, IndiaSoftware EngineeringPosted 8 months ago",
@@ -5698,13 +5696,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446715247414?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering position focused on Bluetooth firmware development, not relevant to semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for software development, not power integrity or advanced packaging.",
     "id": "3eecc3c8",
     "source": "qualcomm_careers",
     "posted_date": "2023-05-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marketing",
@@ -5713,13 +5710,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/marketing",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Marketing position, which does not match the technical engineering roles we are looking for in the semiconductor/VLSI/EDA industry.",
+    "reason": "Non-technical role, does not match semiconductor/VLSI/EDA domain.",
     "id": "6c871ef6",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Finance, accounting & operations",
@@ -5728,13 +5724,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/finance-accounting-operations",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical finance, accounting & operations role at TI, not an engineering/technical position we are looking for.",
+    "reason": "The job is for non-technical Finance, accounting & operations roles at a semiconductor company Texas Instruments.",
     "id": "89e950ab",
     "source": "ti_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Information technology",
@@ -5743,13 +5738,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/information-technology",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This IT role is a broad non-technical position and does not match our semiconductor/VLSI/EDA domain focus.",
+    "reason": "Non-technical role, HR position at semiconductor company.",
     "id": "a96f68bc",
     "source": "ti_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Job opportunities",
@@ -5758,13 +5752,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/job-opportunities",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general job search page, not a specific job posting matching our criteria.",
+    "reason": "This is a general job listing page with no specific job postings matching the domain requirements.",
     "id": "469c4c91",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Recruitment process",
@@ -5773,13 +5766,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/recruitment-process",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The given job description does not contain a valid semiconductor/VLSI/EDA job posting.",
+    "reason": "Non-technical role at a semiconductor company - we only want engineering/technical positions.",
     "id": "9a46d8e3",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Students & new grads",
@@ -5788,13 +5780,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/students-new-grads",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role in HR for a semiconductor company",
+    "reason": "This is an entry-level position for students and new graduates, not a technical leadership role matching Vineeth's background.",
     "id": "4af17fdc",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Veterans",
@@ -5803,13 +5794,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/veterans",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not contain a clear match with the specified target domains, experience levels, and company types.",
+    "reason": "The URL provided does not lead to an actual job posting, only a generic company page.",
     "id": "5a0ffde4",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship - AI Agent Developer (f/m/div)Villach (Austria)HRC1654461_1HybridHybrid",
