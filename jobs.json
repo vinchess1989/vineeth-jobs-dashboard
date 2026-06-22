@@ -51979,14 +51979,13 @@
     "location": "Greater London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/deputy-chief-technology-officer-at-stealth-4421559653",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is an executive leadership position with no clear technical fit for a semiconductor/VLSI/EDA background.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role in a technology-focused company but domain is unclear",
     "id": "1e4d2c70",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Chief Technology Officer",
@@ -51995,13 +51994,12 @@
     "url": "https://uk.linkedin.com/jobs/view/deputy-chief-technology-officer-at-stealth-4421555649",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a CTO-level executive position with no direct technical engineering work. It does not match our focus on semiconductor/VLSI/EDA engineering jobs.",
+    "reason": "The role is at a high-level executive position with no specific technical domain match to Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "b25ae303",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Engineer",
@@ -52010,13 +52008,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cyber-security-engineer-at-w1m-wealth-investment-management-4426775492",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Financial Services/Investment Management, not semiconductor/VLSI/EDA.",
+    "reason": "The job is a non-technical HR role, which does not match Vineeth's engineering background.",
     "id": "a234f3af",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Engineer",
@@ -52025,13 +52022,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-engineer-at-searchability-ns-d-4410961857",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a SOC Engineer role in Cybersecurity, which does not match the technical domains of Power Integrity/SI, Advanced Packaging/Thermal, or VLSI/SoC Design mentioned in the candidate profile requirements.",
+    "reason": "The role is primarily focused on security operations and monitoring, not power integrity or advanced packaging.",
     "id": "7c6a3984",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Engineer - FTC",
@@ -52040,13 +52036,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-engineer-ftc-at-barclay-simpson-4421934811",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SOC Engineer at a recruitment agency, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The role is a general SOC Engineer position focused on security monitoring and incident response, not specifically in Power Integrity, packaging, or SoC design areas that Vineeth specializes in.",
     "id": "172eed1f",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate SoC Architect",
@@ -52055,13 +52050,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-soc-architect-at-graphcore-4415694417",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a graduate level SoC Architect position, which does not match the experienced professional profile of Vineeth.",
+    "reason": "The role is focused on SoC architecture for AI acceleration, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging. While it touches on related areas like hardware design and systems integration, it requires a different skill set focusing on AI hardware rather than power integrity and advanced packaging.",
     "id": "a6f20847",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT / GRC External Auditor SOC 2 - LATAM",
@@ -52070,13 +52064,12 @@
     "url": "https://uk.linkedin.com/jobs/view/it-grc-external-auditor-soc-2-latam-at-insight-assurance-4405279313",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an IT Auditor position focused on SOC 2 compliance, which does not match the technical domains of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or CAD Methodology required for roles in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily focused on IT audit engagements, external audits and compliance automation tools which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
     "id": "60237b97",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC/ASIC Design Verification Engineer",
@@ -52085,13 +52078,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-asic-design-verification-engineer-at-zerorisc-4421676010",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for SoC/ASIC Design Verification rather than Power Integrity or Advanced Packaging.",
+    "reason": "This SoC/ASIC Design Verification Engineer role at ZeroRISC is focused on security-sensitive silicon IP development and verification, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, or CAD Methodology. It falls under the 'Verification' hard rejection criteria.",
     "id": "d44ca33f",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-05-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Security Engineer",
@@ -52100,13 +52092,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-security-engineer-at-cantor-fitzgerald-4416196235",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a security engineer focused on network and infrastructure, which does not match the VLSI/EDA semiconductor domain requirements.",
+    "reason": "The role is focused on network security engineering at a financial firm, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "e25e9e85",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Operations Center Engineer",
@@ -52115,13 +52106,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-operations-center-engineer-at-computappoint-4426302156",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Security Operations Center Engineer at a law firm, not matching semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily focused on SIEM, security automation, and operations - outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "b8edad03",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Specialist, IT Security Auditor",
