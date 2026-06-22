@@ -15999,14 +15999,13 @@
     "location": "Kaohsiung, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Engineer-Kaohsiung%2F15463",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Kaohsiung, Taiwan, which does not match the preferred locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia (e.g., Taiwan, South Korea, Singapore), or Fully Remote with worldwide eligibility.",
+    "matches_requirements": "yes",
+    "reason": "Senior leadership role at semiconductor manufacturing giant TSMC with strong overlap in Power Integrity and advanced packaging",
     "id": "ac8d5101",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc__taiwan_semicon_linkedin_ac8d5101.txt"
   },
   {
     "title": "Digital Design Engineer I",
@@ -16015,13 +16014,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-i-at-silicon-labs-4419664484",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Digital Design Engineer, which falls under VLSI design, and does not fit the Semiconductor / VLSI / EDA job requirements.",
+    "reason": "The role is primarily software development focused (embedded firmware engineer) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "2e1ebe3e",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Components Engineer, Sr.",
@@ -16030,13 +16028,12 @@
     "url": "https://www.linkedin.com/jobs/view/components-engineer-sr-at-bastion-technologies-inc-4424260181",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Components Engineer at Bastion Technologies, which does not fit the target technical domains of Power Integrity, Advanced Packaging, SoC Physical Design, CAD Methodology in the Semiconductor/VLSI/EDA industry.",
+    "reason": "The role is for electronic/mechanical components engineering, which is outside Vineeth's domain of Power Integrity and VLSI. It does not match his expertise.",
     "id": "bedd6c0e",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -16045,13 +16042,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4409682796",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in San Jose, CA which does not match our preferred locations.",
+    "reason": "The role is a Physical Design Engineer, which falls outside Vineeth's expertise of primarily Power Integrity and Advanced Packaging.",
     "id": "550b7669",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -16060,13 +16056,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-mythic-4306958293",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Verification Engineer position at Mythic, which does not directly match the stated job requirements for Power Integrity and Advanced Packaging.",
+    "reason": "This role is primarily focused on general Design Verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "67b4afba",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Physical Design Engineer",
@@ -16074,14 +16069,13 @@
     "location": "California, United States",
     "url": "https://www.linkedin.com/jobs/view/remote-physical-design-engineer-at-quest-global-4426576385",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves physical design at a senior level, matching key requirements. It is full-time.",
+    "matches_requirements": "no",
+    "reason": "The role is a Senior Physical Design Engineer with 5-10+ years of experience, which falls outside Vineeth's 15 years of experience.",
     "id": "bebc95ed",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/quest_global_remote_physical_design_enginee_bebc95ed.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Design Verification Engineer",
@@ -16090,13 +16084,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-design-verification-engineer-at-google-4428480583",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This CPU design verification engineer position is specifically for Google's hardware team, focusing on custom silicon solutions for consumer products. This does not fit the domain and technical area criteria of working in Power Integrity, Signal Integrity, Advanced Packaging, or CAD/Methodology.",
+    "reason": "The role is primarily verification (UVM, SystemVerilog, testbench development) which is outside Vineeth's domain.",
     "id": "e2a7813c",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior VLSI CAD Software Engineer",
@@ -16104,14 +16097,13 @@
     "location": "Hillsboro, OR",
     "url": "https://www.linkedin.com/jobs/view/senior-vlsi-cad-software-engineer-at-nvidia-4395483222",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Senior Software Engineer position with a focus on VLSI CAD software development, matching the target domain of Physical Design and EDA Tools.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily software development (desktop applications engineering) and does not match Vineeth's background in power integrity, advanced packaging, and VLSI.",
     "id": "b8adf2ab",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_vlsi_cad_software_engin_b8adf2ab.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -16120,13 +16112,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-at-matrix-research-inc-4250722927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not match our requirements.",
+    "reason": "The role is primarily software development (embedded microcontroller and Linux driver experience), which is outside Vineeth's domain.",
     "id": "2e019ef7",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "1 year ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -16135,13 +16126,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-edison-smart%C2%AE-4423511687",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA engineer role, which does not match the Power Integrity (PI) / Advanced Packaging / CAD / VLSI domains required.",
+    "reason": "The job is for a FPGA design role, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "063adaaa",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-05-25",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Asia Account Manager (Korea based)",
