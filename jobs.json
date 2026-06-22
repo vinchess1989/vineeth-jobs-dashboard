@@ -52260,13 +52260,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-soc-architect-at-graphcore-4392406415",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for a Principal SoC Architect at Graphcore, a semiconductor company based in Bristol, UK. The candidate has 15 years of experience and strong technical skills in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The role involves SoC architecture, which is a match for Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "3491e5a2",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/graphcore_principal_soc_architect_3491e5a2.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/graphcore_principal_soc_architect_3491e5a2.txt"
   },
   {
     "title": "Senior Embedded Architect Manager",
@@ -52274,14 +52273,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-embedded-architect-manager-at-nvidia-4414767847",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a director-level software engineering position, which does not directly match the technical domains specified in the requirements.",
+    "matches_requirements": "yes",
+    "reason": "Matches senior technical leadership with embedded architecture, hardware security, and low-level systems programming.",
     "id": "3745ad0e",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_senior_embedded_architect_mana_3745ad0e.txt"
   },
   {
     "title": "Staff SoC Architect",
@@ -52289,14 +52287,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-soc-architect-at-graphcore-4392407379",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior SoC Architect role matches key skill areas of VLSI/SoC Design and EDA Tools, with strong experience. Based in Bristol UK which is a target location.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (close collaboration with software teams and strong software dev experience required) which is outside Vineeth's domain.",
     "id": "a4d1f115",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/graphcore_staff_soc_architect_a4d1f115.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced SoC Design Engineer",
@@ -52305,13 +52302,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-soc-design-engineer-at-arm-2147623635",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches a senior SoC design engineer position with experience in RTL engineering and ARM-based designs, which is closely aligned with Vineeth's background.",
+    "reason": "The role is an SoC design engineer position with RTL engineering experience, fitting Vineeth's background in power integrity and advanced packaging.",
     "id": "40c9e13b",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_experienced_soc_design_enginee_40c9e13b.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_experienced_soc_design_enginee_40c9e13b.txt"
   },
   {
     "title": "Senior SoC Architect",
@@ -52320,13 +52316,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-architect-at-graphcore-4387943771",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a SoC Architect role focused on AI acceleration, not a match for Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "This role is focused on SoC architecture rather than power integrity, packaging or EDA/CAD tools which are Vineeth's key areas of expertise.",
     "id": "5b142e77",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Architect Manager",
@@ -52334,14 +52329,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-embedded-architect-manager-at-nvidia-4414765878",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a technical leadership position with 12+ years of experience, requiring skills in hardware and software security architecture. The location is Bristol, England.",
+    "matches_requirements": "maybe",
+    "reason": "Leadership role with technical domain overlap, but no exact sub-domain specified.",
     "id": "d50563c1",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_embedded_architect_mana_d50563c1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Architect Manager",
@@ -52349,14 +52343,13 @@
     "location": "Belfast, Northern Ireland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-embedded-architect-manager-at-nvidia-4414767848",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain & technical area as well as years of experience for a senior role",
+    "matches_requirements": "maybe",
+    "reason": "Senior Embedded Architect role with strong hardware security focus, but lacking specific PI/SI or packaging details.",
     "id": "2d71a098",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_embedded_architect_mana_2d71a098.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Experienced SoC Design Engineer",
@@ -52365,13 +52358,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-soc-design-engineer-at-arm-4406949590",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for an SoC Design Engineer at Arm, which matches the required technical domains of Power Integrity, Advanced Packaging, and VLSI/SoC Design.",
+    "reason": "This role matches Vineeth's domain expertise in SoC design, RTL engineering, and ARM architectures.",
     "id": "e246cd1f",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_experienced_soc_design_enginee_e246cd1f.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_experienced_soc_design_enginee_e246cd1f.txt"
   },
   {
     "title": "Experienced SoC Design Engineer",
@@ -52379,14 +52371,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/experienced-soc-design-engineer-at-arm-4406941720",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves SoC design which is within Vineeth's domain, and it is located in the UK which matches his background. However, it lacks explicit detail on skills like PI/SI, CAD tools, etc.",
     "id": "1b2e1a53",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_experienced_soc_design_enginee_1b2e1a53.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Silicon Design Engineer",
@@ -52395,13 +52386,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-silicon-design-engineer-at-amd-4415211759",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain & technical area criteria for Senior Leadership roles with 10-15+ years of experience in silicon design and digital ASIC development at semiconductor companies.",
+    "reason": "Senior Silicon Design Engineer role aligns with Vineeth's background in Power Integrity, Advanced Packaging and matches the technical domains of Power Integrity/Signal Integrity, Physical Design, EDA Tools, and VLSI/SoC Design.",
     "id": "25526cae",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-05-07",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_senior_silicon_design_engineer_25526cae.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_senior_silicon_design_engineer_25526cae.txt"
   },
   {
     "title": "Cyber Security Specialist",
