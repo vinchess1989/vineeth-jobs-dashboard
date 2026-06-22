@@ -2585,14 +2585,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FRegister-your-profile-on-TSMC-Talent-Pool%2F562",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Technical Leader in Power Integrity & Advanced Packaging, which matches Vineeth's background and experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on software development of applications, which is outside Vineeth's domain.",
     "id": "26108c55",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_26108c55.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Accounting Associate",
@@ -2601,28 +2600,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=346&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical finance role at a semiconductor company, which does not match our focus.",
+    "reason": "The role is a non-technical finance/accounting position, so it does not match Vineeth's semiconductor/VLSI/EDA engineering background.",
     "id": "e1f331fb",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "N/A - Extract from page",
-    "location": "Extract from page",
+    "location": "N/A - Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAccounting-Associate%2F346",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an accounting position which does not match the technical roles we are searching for in semiconductor, VLSI, EDA.",
+    "reason": "The role is a general accounting associate position, which does not match Vineeth's technical background in semiconductor, VLSI, EDA.",
     "id": "83122899",
     "source": "tsmc_careers",
     "posted_date": "2023-05-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u4eba\u529b\u8cc7\u6e90\u4e00\u5e74\u671f\u7d04\u8058\u52a9\u7406 - \u8eab\u5fc3\u969c\u7919\u4eba\u624d\u62db\u52df",
@@ -2631,13 +2628,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=430&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is specifically for a non-technical HR role, which we are not interested in according to the guidelines.",
+    "reason": "The role is a temporary HR position for individuals with physical disabilities, which does not match Vineeth's technical background in semiconductor VLSI EDA.",
     "id": "3b47b87a",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -2646,13 +2642,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F430",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided does not lead to a valid job description page, so it cannot be evaluated based on the given criteria.",
+    "reason": "The job posting is for a non-technical HR role, which does not match Vineeth's engineering background.",
     "id": "ea0fb3e8",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Memory Design Engineer",
@@ -2660,14 +2655,13 @@
     "location": "Germany-Munich",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16555&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The AI Memory Design Engineer role at TSMC Europe B.V. in Munich, Germany fits the target job criteria for a semiconductor AI/ML memory design engineer with 5+ years experience.",
+    "matches_requirements": "no",
+    "reason": "The role is software-focused with requirements like 'conduct circuit design or RTL coding' which doesn't match Vineeth's hardware/EDA background.",
     "id": "9c246e43",
     "source": "tsmc_careers",
     "posted_date": "2026-05-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_europe_b_v_ai_memory_design_engineer_9c246e43.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -2675,14 +2669,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Memory-Design-Engineer%2F16555",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a memory design engineer at TSMC, which falls under VLSI/SoC Design domain but does not directly match the Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal or CAD / Methodology roles that are our primary focus.",
+    "matches_requirements": "yes",
+    "reason": "Technical leadership role in Power Integrity domain at TSMC with strong overlap in skills and experience.",
     "id": "292e448b",
     "source": "tsmc_careers",
     "posted_date": "2023-06-15",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_linkedin_292e448b.txt"
   },
   {
     "title": "2026 \u53f0\u7a4d\u96fb\u6821\u5712\u5fb5\u624d 2026 TSMC Campus Recruitment",
@@ -2691,28 +2684,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19032&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Campus Recruitment Program at TSMC's Taiwan headquarters, which does not fit the senior leadership roles in Semiconductor / VLSI / EDA we are targeting.",
+    "reason": "This is a general TSMC campus recruitment program with no specific technical role or location mentioned.",
     "id": "c30298a1",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-2026-TSMC-Campus-Recruitment%2F19032",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting page. It appears to be an incomplete LinkedIn sharing link without actual job details.",
+    "reason": "The role is not specific to Power Integrity or Advanced Packaging and does not match Vineeth's background.",
     "id": "89ed4479",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "More details",
@@ -2720,14 +2711,13 @@
     "location": "Germany-Dresden",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16035&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years experience in Power Integrity & Advanced Packaging, matches domain criteria.",
+    "matches_requirements": "no",
+    "reason": "This role is for a Process Engineer focused on semiconductor manufacturing, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, and CAD/EDA tools.",
     "id": "2302173b",
     "source": "tsmc_careers",
     "posted_date": "2026-05-12",
     "deadline": "2026-09-30",
-    "description_file": "job_descriptions/european_semiconduct_more_details_2302173b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -2736,13 +2726,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Engineer-m-f-d-Start-Date-1-October-2026%2F16035",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not lead to a valid job page; it appears to be for LinkedIn's own services.",
+    "reason": "The role is focused on process engineering for semiconductor manufacturing, which is outside Vineeth's domain in power integrity and advanced packaging.",
     "id": "146d6639",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Read the policy(opens in a new tab)",
