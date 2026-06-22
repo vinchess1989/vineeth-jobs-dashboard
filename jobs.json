@@ -49502,13 +49502,12 @@
     "url": "https://in.linkedin.com/jobs/view/battery-design-engineer-at-ather-energy-4418783529",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Battery Design Engineer role at an electric scooter company, which does not match our semiconductor/VLSI/EDA job search criteria.",
+    "reason": "This Battery Design Engineer role is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f0b86245",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49516,14 +49515,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-texas-instruments-india-4391860692",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level physical design engineer position with a focus on SoC designs at Texas Instruments India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily physical design which is outside Vineeth's domain.",
     "id": "adaa59ed",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_in_physical_design_engineer_adaa59ed.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -49531,14 +49529,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/staff-physical-design-engineer-at-aion-silicon-4377769573",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the domain of Physical Design with 5+ years of experience and knowledge in various tools.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on RTL to GDS physical implementation and team management, which does not match Vineeth's power integrity/advanced packaging expertise.",
     "id": "e9e371e2",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-03-03",
     "deadline": "N/A",
-    "description_file": "job_descriptions/aion_silicon_staff_physical_design_engineer_e9e371e2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -49547,13 +49544,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418842440",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The years of experience required is too low for this target role (14+ years needed but only 12+ years mentioned).",
+    "reason": "The role is primarily analog circuit design for SerDes PHY blocks, which does not match Vineeth's background in Power Integrity and packaging.",
     "id": "219c90b1",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -49562,13 +49558,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-physical-design-engineer-at-aion-silicon-4377782358",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mid-senior level Staff Physical Design Engineer role, which does not match Vineeth's senior technical leadership profile.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "1314bde4",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical design Engineer",
@@ -49577,13 +49572,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4354705409",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Entry-level role without match for required experience level, and located in India which is not a preferred location.",
+    "reason": "This is an entry-level physical design engineer role at a service company, not a senior technical leadership position in the semiconductor/EDA industry.",
     "id": "9b078b86",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-05-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49592,13 +49586,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4319575258",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match required domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership roles.",
+    "reason": "This is a physical design role focused on low power synthesis, which does not directly match Vineeth's background in power integrity and advanced packaging.",
     "id": "f37f6e54",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49606,14 +49599,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-altcognito-systems-4322780503",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an entry-level Associate position with only 3-8 years of experience required, which does not meet our requirement for senior leadership roles (10+ years) in key domains.",
+    "matches_requirements": "yes",
+    "reason": "The role involves physical design tasks like floorplanning, placement, routing, DRC/LVS, IR drop analysis which are in Vineeth's domain. The location is also a match.",
     "id": "00c86fde",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2026-03-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/altcognito_systems_physical_design_engineer_00c86fde.txt"
   },
   {
     "title": "DFT Lead",
@@ -49622,13 +49614,12 @@
     "url": "https://in.linkedin.com/jobs/view/dft-lead-at-cortex-consultants-llc-4419820082",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "8-15 years of experience fits the candidate profile's 15 years, and it is a mid-senior level role.",
+    "reason": "Seniority level is mid-senior and requires DFT experience, but does not specify semiconductor domain.",
     "id": "22000ec1",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Analog Circuit Design",
@@ -49636,14 +49627,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-analog-circuit-design-at-renesas-electronics-4358187195",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role focuses on analog circuit design, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "fcf68026",
     "source": "linkedin_india_physical_design_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Invitation for application to the post of goalkeeper coach for FIFA(TID)AIFF academy",
