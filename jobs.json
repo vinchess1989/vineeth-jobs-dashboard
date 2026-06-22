@@ -67108,34 +67108,18 @@
     "description_file": null
   },
   {
-    "title": "Senior Embedded Engineer",
-    "company": "LevelUP HCS",
-    "location": "Tampere, Pirkanmaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/senior-embedded-engineer-at-levelup-hcs-4425829538",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Senior Embedded Engineer focused on cryptography, Rust software development, and embedded systems in Verilog/C. It does not match the target domains of Power Integrity/SI, Advanced Packaging, or EDA/CAD.",
-    "id": "8da0d281",
-    "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Senior Hardware Engineer, RF",
     "company": "EXFO",
     "location": "Oulu, North Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-hardware-engineer-rf-at-exfo-4429149978",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of RF Systems Engineer with strong RF and wireless tech skills needed.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily for hardware engineering of RF systems, which is not Vineeth's domain as he specializes in Power Integrity and Advanced Packaging.",
     "id": "1cfbbd08",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/exfo_senior_hardware_engineer__rf_1cfbbd08.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Engineer, Radar Payload Team",
@@ -67143,14 +67127,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/electronics-engineer-radar-payload-team-at-iceye-4401743000",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Power Integrity, advanced packaging, and is based in Espoo, Finland which is a target location.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on electronics design for space-based radar payloads, which does not directly align with Vineeth's domain of power integrity and advanced packaging in semiconductor and SoC design.",
     "id": "c8bede83",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/iceye_electronics_engineer__radar_pa_c8bede83.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New Product Introduction Engineer, Controls",
@@ -67159,13 +67142,12 @@
     "url": "https://fi.linkedin.com/jobs/view/new-product-introduction-engineer-controls-at-ge-vernova-4418159255",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a New Product Introduction Engineer in controls, not semiconductor/VLSI/EDA.",
+    "reason": "The job is for a New Product Introduction Engineer role focused on Controls systems, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging. It does not match his technical background in VLSI/EDA.",
     "id": "b8984909",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Engineer - Avionics",
@@ -67174,13 +67156,12 @@
     "url": "https://fi.linkedin.com/jobs/view/electronics-engineer-avionics-at-iceye-4401731475",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Electronics Engineer for avionics, which does not directly match the VLSI/EDA/semiconductor domain focus. It falls under general electronics engineering.",
+    "reason": "The role is primarily software development (focusing on embedded and aerospace systems) rather than pure electronics engineering.",
     "id": "ea6503db",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Elektroniikkasuunnittelija, Sein\u00e4joki-Vaasa",
@@ -67188,14 +67169,13 @@
     "location": "Sein\u00e4joki, South Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/elektroniikkasuunnittelija-sein%C3%A4joki-vaasa-at-nottas-oy-4359240401",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for an electronics designer, which could potentially match a physical design role. However, it lacks specific technical details that would better align it with the target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The job is for an electronics designer position, which doesn't match Vineeth's background in Power Integrity and VLSI/EDA.",
     "id": "10f196fe",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "S\u00e4hk\u00f6automaatiosuunnittelija",
@@ -67204,28 +67184,12 @@
     "url": "https://fi.linkedin.com/jobs/view/s%C3%A4hk%C3%B6automaatiosuunnittelija-at-saalasti-rails-oy-4423626429",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role specifically requires CAD skills for electric automation design, which does not fully match the semiconductor/VLSI/EDA background of the candidate.",
+    "reason": "This electrical automation design role is focused on railway track and locomotive product development, not semiconductor VLSI/EDA.",
     "id": "8461b3c5",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Research And Development Engineer",
-    "company": "Logisnext Europe Oy",
-    "location": "Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/research-and-development-engineer-at-logisnext-europe-oy-4418591161",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a generic R&D role focused on electric trucks and technology development, not specifically in semiconductor/VLSI/EDA fields.",
-    "id": "7c67b193",
-    "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior TT&C Engineer",
@@ -67234,13 +67198,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-tt-c-engineer-at-reorbit-4399540594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a space engineering position focused on satellite communication systems, which does not match the VLSI/EDA semiconductor field.",
+    "reason": "This role is focused on RF communication systems engineering for satellites, not VLSI/EDA/semiconductor roles.",
     "id": "af71a572",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Payload Engineer",
@@ -67248,14 +67211,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-payload-engineer-at-reorbit-4410189340",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is not within the semiconductor/VLSI/EDA industry, as it is a senior payload engineer role in satellite communications and engineering.",
+    "matches_requirements": "yes",
+    "reason": "Matches domain (Power Integrity / Signal Integrity, CAD/Methodology) and location criteria of Finland.",
     "id": "1391c361",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/reorbit_senior_payload_engineer_1391c361.txt"
   },
   {
     "title": "Senior Lead NPI Engineer - Controls",
