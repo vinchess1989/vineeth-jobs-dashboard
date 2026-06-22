@@ -22901,14 +22901,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/tempe-applied-materials-jobs-SRCH_IL.0,5_IC1133917_KO6,23.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a semiconductor company, which does not match our target criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "6be7b6db",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(New College Grad) Engineer - Shift Process",
@@ -22917,13 +22916,12 @@
     "url": "https://www.glassdoor.com/job-listing/new-college-grad-engineer-shift-process-micron-technology-JV_IC1127927_KO0,39_KE40,57.htm?jl=1010164920392",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level college graduate role, well below the 10+ years of experience required.",
+    "reason": "This is an entry-level position for a new college graduate, which does not match the 10-15+ years of experience required by Vineeth.",
     "id": "55bebecb",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "student jobs in Boise, ID",
@@ -22932,13 +22930,12 @@
     "url": "https://www.glassdoor.com/Job/boise-student-jobs-SRCH_IL.0,5_IC1127927_KO6,13.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for non-technical student roles and does not fit semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The job is for non-technical student roles, which does not match Vineeth's technical background and expertise.",
     "id": "b1b529a0",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Dry Etch Equipment Engineer",
@@ -22947,13 +22944,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-dry-etch-equipment-engineer-micron-technology-JV_IC1127927_KO0,34_KE35,52.htm?jl=1010167045899",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Dry Etch Equipment Engineer, which does not match the semiconductor/VLSI/EDA technical domains we are looking for.",
+    "reason": "The role is for a dry etch equipment engineer, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, CAD Methodology and EDA tools.",
     "id": "10a98022",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - Reticle Manufacturing Process Engineer",
@@ -22962,13 +22958,12 @@
     "url": "https://www.glassdoor.com/job-listing/new-college-grad-reticle-manufacturing-process-engineer-micron-technology-JV_IC1127927_KO0,55_KE56,73.htm?jl=1010163229575",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical manufacturing role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "This role is for a reticle manufacturing process engineer, which does not match Vineeth's background in power integrity, advanced packaging, and EDA.",
     "id": "9549e433",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Boise, ID",
@@ -22977,13 +22972,12 @@
     "url": "https://www.glassdoor.com/Job/boise-process-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,22.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "The role is for a process engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "bd3aeb3a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Yield Enhancement Engineer - Physical Failure Analysis",
@@ -22992,13 +22986,12 @@
     "url": "https://www.glassdoor.com/job-listing/yield-enhancement-engineer-physical-failure-analysis-micron-technology-JV_IC1127927_KO0,52_KE53,70.htm?jl=1010169247504",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is focused on physical failure analysis, which does not directly align with the technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design or EDA Tools specified in the job search requirements.",
+    "reason": "The role is focused on Failure Analysis, which does not directly match Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "5ca70843",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Photolithography Process Engineer",
@@ -23007,13 +23000,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-photolithography-process-engineer-micron-technology-JV_IC1127927_KO0,40_KE41,58.htm?jl=1010165676876",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Photolithography Process Engineer, which does not fit the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a Photolithography Process Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA. It falls under semiconductor manufacturing rather than design/analysis.",
     "id": "e6db0d69",
     "source": "glassdoor_semi",
     "posted_date": "2023-10-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - DRAM Design Engineer",
@@ -23022,13 +23014,12 @@
     "url": "https://www.glassdoor.com/job-listing/new-college-grad-dram-design-engineer-micron-technology-JV_IC1127927_KO0,37_KE38,55.htm?jl=1010153723237",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job does not match semiconductor/VLSI/EDA experience and focuses on DRAM design engineering for a new college grad.",
+    "reason": "This is an entry-level role for a new college graduate, which does not match Vineeth's 15 years of experience.",
     "id": "2351b4af",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Boise, ID",
@@ -23037,13 +23028,12 @@
     "url": "https://www.glassdoor.com/Job/boise-design-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,21.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Boise, ID, USA which does not match the preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland), India or Asia, Fully Remote with worldwide eligibility, or the United States with explicit mention of visa sponsorship or relocation.",
+    "reason": "The job is based in Boise, ID which is a hard US location rejection.",
     "id": "fa381548",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Diffusion Process Engineer",
