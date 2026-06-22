@@ -13648,13 +13648,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-wipro-4424225776",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Mountain View, CA which does not match Vineeth's target locations.",
+    "reason": "The role is primarily RTL/Digital Design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "0c9fcff1",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Engineer",
@@ -13663,13 +13662,12 @@
     "url": "https://www.linkedin.com/jobs/view/project-engineer-at-wharton-smith-inc-4429530500",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is a civil construction engineering role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily construction engineering focused on tasks like estimating, project logs, and coordinating facility startup - this is outside Vineeth's domain.",
     "id": "b15a9fb8",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-13",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -13678,13 +13676,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-oho-group-4419082996",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level RTL Design Engineer position, which does not match the senior technical leadership roles targeted in the job search criteria.",
+    "reason": "This RTL Design Engineer role is focused on AI hardware, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
     "id": "2d27d2e1",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -13693,13 +13690,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-teradyne-4401982019",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Design Engineer position at a company called Teradyne, which is in North Reading, MA. This does not match the criteria for a candidate with 15 years of experience in Power Integrity, Advanced Packaging, SoC PDN sign-off or other fields targeted by the job search.",
+    "reason": "The role is primarily RTL/gate-level simulation, UVM testbench development, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "c2b071c5",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Somerville, MA",
@@ -13708,28 +13704,26 @@
     "url": "https://www.glassdoor.com/Job/somerville-process-engineer-jobs-SRCH_IL.0,10_IC1154685_KO11,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role in Operations, not related to VLSI/EDA",
+    "reason": "This process engineer role is at Amazon, which is not within the semiconductor/VLSI/EDA industry focus of this job search. The role also requires a degree in Engineering, Operations, Business Administration, or related STEM field but no specific VLSI, EDA or CAD tool expertise.",
     "id": "d5a7d599",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Somerville, MA jobs",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "The Home Depot",
+    "location": "Somerville, MA, USA",
     "url": "https://www.glassdoor.com/Job/somerville-jobs-SRCH_IL.0,10_IC1154685.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The IP address block indicates that this is a Glassdoor page, which does not contain an actual job posting from a semiconductor/VLSI/EDA company. It appears to be part of their error handling or security system.",
+    "reason": "The job is for a non-technical Store Support role at The Home Depot, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "de3e74d2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Component Engineer / Electrical Engineer Sr.",
@@ -13738,28 +13732,26 @@
     "url": "https://www.glassdoor.com/job-listing/electrical-component-engineer-electrical-engineer-sr-lockheed-martin-JV_IC1148176_KO0,52_KE53,68.htm?jl=1010157907749",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role (Electrical Component Engineer) at a semiconductor company (Lockheed Martin), which does not match our engineering/technical position requirement.",
+    "reason": "The role is primarily focused on electrical components design, not semiconductor VLSI/EDA.",
     "id": "62c0a34f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electrical Component Engineer / Electrical Engineer",
-    "company": "Extract from page",
+    "company": "Lockheed Martin",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/electrical-component-engineer-electrical-engineer-lockheed-martin-JV_IC1148176_KO0,49_KE50,65.htm?jl=1010157907743",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electrical Component Engineer, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership in semiconductor/VLSI/EDA.",
+    "reason": "Non-technical role in hardware engineering, not focused on semiconductor/VLSI/EDA domains.",
     "id": "ec1ec641",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "HyperLynx Analog Simulation Engineer",
@@ -13768,13 +13760,12 @@
     "url": "https://www.glassdoor.com/job-listing/hyperlynx-analog-simulation-engineer-lockheed-martin-JV_IC1154247_KO0,36_KE37,52.htm?jl=1010154111292",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Analog Simulation Engineer role which does not directly match Vineeth's key skills in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The role is for an Analog Simulation Engineer, which falls under verification and is outside Vineeth's domain.",
     "id": "69d936c8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "simulation engineer jobs in Orlando, FL",
@@ -13783,13 +13774,12 @@
     "url": "https://www.glassdoor.com/Job/orlando-simulation-engineer-jobs-SRCH_IL.0,7_IC1154247_KO8,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Orlando, FL, which does not match the target locations of Finland, Europe, UK, India, Asia, or fully remote with worldwide eligibility.",
+    "reason": "The job is for a simulation engineer, which falls under verification and is outside Vineeth's domain.",
     "id": "f8baf70d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Orlando, FL jobs",
