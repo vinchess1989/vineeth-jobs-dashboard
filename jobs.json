@@ -39534,13 +39534,12 @@
     "url": "https://www.glassdoor.com/job-listing/dry-etch-process-development-engineer-texas-instruments-JV_IC1128238_KO0,37_KE38,55.htm?jl=1010170376673",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Dry Etch Process Development) at a semiconductor company. It does not fit our engineering/technical position criteria.",
+    "reason": "The job is for a process engineering role focused on dry etch, which does not match Vineeth's background in power integrity, advanced packaging and EDA CAD.",
     "id": "14ea770f",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Engineer | MSP",
@@ -39549,13 +39548,12 @@
     "url": "https://www.glassdoor.com/job-listing/system-engineer-msp-texas-instruments-JV_IC1139977_KO0,19_KE20,37.htm?jl=1010170376552",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a Bachelor's degree which exceeds Vineeth's years of experience.",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "e34d4414",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "Electrical Component Engineer / Electrical Engineer, Sr. (Level III)",
@@ -39564,28 +39562,26 @@
     "url": "https://www.glassdoor.com/job-listing/electrical-component-engineer-electrical-engineer-sr-level-iii-lockheed-martin-JV_IC1148176_KO0,62_KE63,78.htm?jl=1010154112551",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role in HR, not within the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is non-technical (Electrical Engineer) and does not fit Vineeth's technical domain expertise.",
     "id": "c17ca94d",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer",
     "company": "Micron Technology",
-    "location": "Extract from page",
+    "location": "N/A, location not found in the job description text",
     "url": "https://www.glassdoor.com/job-listing/equipment-engineer-micron-technology-JV_IC1127927_KO0,18_KE19,36.htm?jl=1010156942861",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Equipment Engineer, which does not match the candidate's technical background in Power Integrity, Advanced Packaging, CAD/Methodology, and Physical Design.",
+    "reason": "The role is an equipment engineer position at Micron Technology, focused on manufacturing equipment setup and troubleshooting. This is a non-technical engineering/EDA/VLSI/Semiconductor role and does not match Vineeth's background or job requirements.",
     "id": "23172b48",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD Engineer - Fully Remote | Upto $90/hr",
@@ -39594,13 +39590,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-engineer-fully-remote-upto-%2490-hr-at-mercor-4429665922",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a CAD Engineer role focused on screenshot capture and UI annotation for professional CAD software, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a CAD technician focused on capturing screenshots and annotations of professional CAD software, not a VLSI/EDA technical role. Outside Vineeth's domain.",
     "id": "7b0497bb",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Circuit Design Verification Engineer",
@@ -39609,13 +39604,12 @@
     "url": "https://in.linkedin.com/jobs/view/memory-circuit-design-verification-engineer-at-micron-technology-4410836388",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a specific memory design verification role, not matching the broader Power Integrity / Advanced Packaging / CAD domains the candidate has experience in.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "6b5b2aea",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MicroDisplay Failure Analysis and Return Material Authorization Engineer, Raxium",
@@ -39624,13 +39618,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=223bd2e35bb5006a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify a company name or location.",
+    "reason": "The role is for a non-technical position (MicroDisplay Failure Analysis and Return Material Authorization Engineer) at a corporate_fare company, which does not fit the engineering/technical positions criteria.",
     "id": "3be2cf04",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scrum Master - R&D",
@@ -39639,13 +39632,12 @@
     "url": "https://www.glassdoor.com/job-listing/scrum-master-rd-newfoundland-and-labrador-hydro-JV_IC1139761_KO0,15_KE16,47.htm?jl=1010169987798",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Scrum Master role in R&D, which does not fit into the Semiconductor / VLSI / EDA technical domains.",
+    "reason": "The role is a Scrum Master for R&D, which is unrelated to Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, and CAD Methodology.",
     "id": "46164e90",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "scrum master jobs in Austin, TX",
@@ -39654,13 +39646,12 @@
     "url": "https://www.glassdoor.com/Job/austin-scrum-master-jobs-SRCH_IL.0,6_IC1139761_KO7,19.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Scrum Master in Austin, TX which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, etc. required by the job search criteria.",
+    "reason": "The role is for a non-technical Scrum Master position at a university, which does not match Vineeth's engineering background in semiconductor/VLSI/EDA.",
     "id": "94689ab2",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "24h",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Newfoundland and Labrador Hydro jobs in Austin, TX",
@@ -39669,13 +39660,12 @@
     "url": "https://www.glassdoor.com/Job/austin-newfoundland-and-labrador-hydro-jobs-SRCH_IL.0,6_IC1139761_KO7,38.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for Newfoundland and Labrador Hydro, a utility company. This does not match semiconductor/VLSI/EDA roles.",
+    "reason": "The role is non-technical (Human Resources) and does not match Vineeth's engineering background.",
     "id": "ba277785",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Full Stack SDE - SMA",
