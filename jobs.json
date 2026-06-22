@@ -26066,13 +26066,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19394&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role at a semiconductor company.",
+    "reason": "This is a non-technical Equipment Engineer role which does not match Vineeth's VLSI/EDA background and expertise.",
     "id": "d87af4fe",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -26081,13 +26080,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEquipment-Engineer-EE%2F19394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not mention a specific location, years of experience, or a clear role type that matches the candidate profile.",
+    "reason": "The role is primarily software development focused on equipment engineering, which is outside Vineeth's domain of expertise in semiconductor design and EDA tools.",
     "id": "8c8d5d51",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, ASIC Physical Design",
@@ -26095,14 +26093,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/engineer-asic-physical-design-micron-technology-JV_IC1142551_KO0,29_KE30,47.htm?jl=1010150525606",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves ASIC physical design, which is a match to one of our domains. However, it's unclear if the candidate's background in Power Integrity and Advanced Packaging would be directly applicable for this role. More details are needed.",
+    "matches_requirements": "no",
+    "reason": "The job is for ASIC Physical Design, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
     "id": "76a0bad4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "physical design engineer jobs in Minneapolis, MN",
@@ -26111,28 +26108,26 @@
     "url": "https://www.glassdoor.com/Job/minneapolis-physical-design-engineer-jobs-SRCH_IL.0,11_IC1142551_KO12,36.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Manufacturing Engineer III role in Minneapolis, which does not match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, etc.",
+    "reason": "This role is for a Product Design Manager at Accenture, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging. The role involves leading product design engagements from strategy through delivery.",
     "id": "13c59abc",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Micron Technology jobs in Minneapolis, MN",
-    "company": "Extract from page",
+    "company": "Micron Technology",
     "location": "Minneapolis, MN, USA",
     "url": "https://www.glassdoor.com/Job/minneapolis-micron-technology-jobs-SRCH_IL.0,11_IC1142551_KO12,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify Micron Technology as the hiring company, and it is a search results page for Minneapolis technology jobs. It does not match the criteria for a specific semiconductor/VLSI/EDA role at an identified company.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "965b192e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Reticle Equipment Engineer",
@@ -26141,13 +26136,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-reticle-equipment-engineer-micron-technology-JV_IC1127927_KO0,33_KE34,51.htm?jl=1010165722408",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Reticle Equipment Engineer, which does not fit within the semiconductor/VLSI/EDA domain focus of the job search.",
+    "reason": "The role is focused on semiconductor manufacturing equipment, which is outside Vineeth's domain of expertise in chip design and EDA tools.",
     "id": "4e599571",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr Medical Device Engineer - Biochemical Assay Development",
@@ -26156,28 +26150,26 @@
     "url": "https://www.indeed.com/viewjob?jk=0f1e2d3c4b5a6978",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical medical device engineering role, which does not match the semiconductor/VLSI/EDA technical focus required.",
+    "reason": "The job is for a non-technical role (medical device engineering) which is outside Vineeth's technical domains of expertise in semiconductor/VLSI/EDA.",
     "id": "1d3ef794",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Device Engineer salaries in Branchburg, NJ",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Branchburg, NJ, USA",
     "url": "https://www.indeed.com/career/staff-engineer/salaries/08876--NJ?campaignid=serp-more&fromjk=05bd5cbfbc4cb5c6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary information page, not an actual job posting.",
+    "reason": "The job is for a general staff engineer role without specifics on the semiconductor/VLSI/EDA domain.",
     "id": "e955c6cf",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Engineer \u2013 EngineerMarkham, Ontario, CanadaSoftware EngineeringPosted 10 days ago",
@@ -26186,13 +26178,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446718797466?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position at Qualcomm, which does not match the target domains of Power Integrity/SI, Advanced Packaging/Thermal, CAD Methodology, Physical Design or EDA Tools. It is also based in Ontario, Canada.",
+    "reason": "The role is primarily software development (React, TypeScript, C#, Python) and does not match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
     "id": "aaf7f2ee",
     "source": "qualcomm_careers",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Digital Design Engineering (AI/ML)",
@@ -26200,14 +26191,13 @@
     "location": "Chandler, AZ",
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-digital-design-engineering-ai-ml-at-analog-devices-4400121459",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role requires AI/ML expertise to improve digital design automation and productivity, which aligns well with the target domains of Power Integrity (PI) / Signal Integrity (SI), CAD/Methodology, and EDA Tools. However, it does not explicitly mention experience in power integrity or advanced packaging, which are other key focus areas.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (AI/ML techniques to improve design automation, optimization, and productivity) which is outside Vineeth's domain of expertise in Power Integrity / Signal Integrity / Advanced Packaging / CAD Methodology.",
     "id": "1df0ecdc",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Summer/Fall 2026 - Circuit Design Research Intern(7339)",
