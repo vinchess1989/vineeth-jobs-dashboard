@@ -14067,14 +14067,13 @@
     "location": "Austin, TX, USA",
     "url": "https://www.glassdoor.com/Job/austin-process-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,23.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX, USA which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "4303767e",
     "source": "glassdoor_semi",
-    "posted_date": "2026-06-18",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Tesla jobs in Austin, TX",
@@ -14083,13 +14082,12 @@
     "url": "https://www.glassdoor.com/Job/austin-tesla-jobs-SRCH_IL.0,6_IC1139761_KO7,12.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role in HR and not related to semiconductor/VLSI/EDA engineering.",
+    "reason": "The job is at Tesla, which is primarily focused on electric vehicles and renewable energy rather than semiconductor/VLSI/EDA.",
     "id": "10341650",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Control Senior Engineer/Engineer (Systems)Singapore, SingaporePosted 10 days ago",
@@ -14097,14 +14095,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/42076461",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Technical leadership role with 8+ years experience specified, matches target domains of Power Integrity and Advanced Packaging, and is located in Singapore which is a match.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily software engineering focused on process control systems, which is outside Vineeth's domain of power integrity and VLSI.",
     "id": "782564b2",
     "source": "micron_careers",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_process_control_senior_enginee_782564b2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
@@ -14113,13 +14110,12 @@
     "url": "https://careers.arm.com/job/bengaluru/senior-engineer/33099/96595985776",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches key skills and years of experience for a senior role.",
+    "reason": "Senior Engineer role with 5-7 years IP/Subsystem Verification experience matches leadership-level hiring criteria.",
     "id": "67307d3e",
     "source": "arm_careers",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_senior_engineer_67307d3e.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_senior_engineer_67307d3e.txt"
   },
   {
     "title": "Senior Engineer",
@@ -14128,13 +14124,12 @@
     "url": "https://careers.arm.com/job/cambridge/senior-engineer/33099/93150543136",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a Senior Engineer, not a semiconductor/VLSI/EDA technical role.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "eeec9413",
     "source": "arm_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verification Engineer",
@@ -14143,13 +14138,12 @@
     "url": "https://careers.arm.com/job/bengaluru/verification-engineer/33099/92870409072",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Verification Engineer, which does not match the target domain of Power Integrity or Advanced Packaging.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "d0ddef70",
     "source": "arm_careers",
     "posted_date": "2026-03-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Product Security Architect",
@@ -14157,14 +14151,13 @@
     "location": "Cambridge, England, United Kingdom; Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur Region, France",
     "url": "https://careers.arm.com/job/cambridge/principal-product-security-architect/33099/96596082576",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a Principal Product Security Architect role in one of Arm's security domains, with 10+ years experience required. It's listed as full-time and in Cambridge UK/Sophia Antipolis France locations which match our target criteria.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on security certification processes, which is not within Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f9e3fd1b",
     "source": "arm_careers",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_principal_product_security_arc_f9e3fd1b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Trilingual Module Engineer  (m/f/d)",
@@ -14173,13 +14166,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16338&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Trilingual Module Engineer at TSMC's joint venture, which does not directly match our target domains of Power Integrity, Advanced Packaging, SoC PDN Sign-off, etc.",
+    "reason": "This role is a manufacturing engineer position focused on equipment and process engineering, not a VLSI/EDA technical leadership role that Vineeth Prathapachandra Kaimal would be suitable for.",
     "id": "05c13120",
     "source": "tsmc_careers",
     "posted_date": "2025-05-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u65b0\u5efa\u5ee0\u5de5\u7a0b\u968a \u52a9\u7406\u5de5\u7a0b\u5e2b",
@@ -14187,14 +14179,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18671&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an entry-level manufacturing assistant role at a semiconductor fabrication plant, focusing on piping and wiring installation, material estimation, welding machines, and construction tool operation. It does not match the senior technical leadership roles in VLSI/EDA domains that were sought.",
+    "matches_requirements": "yes",
+    "reason": "This role matches the technical requirements for a semiconductor facility engineer, which is within Vineeth's background in advanced packaging and manufacturing.",
     "id": "014e301e",
     "source": "tsmc_careers",
     "posted_date": "2026-04-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor______________014e301e.txt"
   },
   {
     "title": "LinkedIn",
@@ -14203,13 +14194,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F18671",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was not accessible, preventing a full evaluation of the job requirements and company location.",
+    "reason": "The job URL is invalid and could not be accessed to gather necessary details.",
     "id": "f3d05b6d",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chemical Distribution Systems Engineer (CDS) (m/f/d)",
