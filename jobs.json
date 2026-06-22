@@ -59763,14 +59763,13 @@
     "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/power-design-engineer-%E2%80%93-data-center-accelerator-boards-at-openchip-software-technologies-4395486551",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a Power Design Engineer with experience in power delivery for accelerator boards used in data center environments.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with power design focus matches target domain of Power Integrity.",
     "id": "b0bb4196",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/openchip___software__power_design_engineer___data_c_b0bb4196.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EMC Engineer - HF",
@@ -59778,14 +59777,13 @@
     "location": "Ludvika, Dalarna County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/emc-engineer-hf-at-hitachi-energy-4427905258",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain (EMC) and senior experience level.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on EMC engineering for high-voltage DC systems, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "e7702628",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-05-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/hitachi_energy_emc_engineer___hf_e7702628.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EMC engineer",
@@ -59794,13 +59792,12 @@
     "url": "https://se.linkedin.com/jobs/view/emc-engineer-at-hitachi-energy-4427915160",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical and not related to semiconductor, VLSI, EDA.",
+    "reason": "The role is focused on EMC (electromagnetic compatibility) in a high-voltage DC power transmission setting, which does not match Vineeth's background in Power Integrity and advanced packaging.",
     "id": "c8d88b4b",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-05-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior R&D Engineer, Electrical Design",
@@ -59809,13 +59806,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-r-d-engineer-electrical-design-at-stryker-4419077752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior R&D Engineer specializing in Electrical Design, not Power Integrity or VLSI.",
+    "reason": "The role is primarily software/firmware development focused, which is outside Vineeth's domain of expertise.",
     "id": "0d787912",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-05-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr Power Electronics Engineer",
@@ -59824,13 +59820,12 @@
     "url": "https://nl.linkedin.com/jobs/view/sr-power-electronics-engineer-at-siemens-emobility-4428058122",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a Sr Power Electronics Engineer focused on EV charging systems, which does not directly match the key areas of VLSI/EDA.",
+    "reason": "The role is focused on power electronics for electric vehicle charging infrastructure, which is not a direct match to Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "805785fa",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Post Silicon & Power Engineer (CPUSS Architecture and Performance) - Cork, IRL",
@@ -59838,14 +59833,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/cpu-post-silicon-power-engineer-cpuss-architecture-and-performance-cork-irl-at-qualcomm-4323377781",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Power & Performance Engineer with CPUSS architecture and performance focus, matching the required technical domains in power integrity and SoC physical design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily firmware & kernel development, which is outside Vineeth's domain.",
     "id": "508362de",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_cpu_post_silicon___power_engin_508362de.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity (SI) Engineer (m,f,d)",
@@ -59853,14 +59847,13 @@
     "location": "Bi\u00e8vres, \u00cele-de-France, France",
     "url": "https://fr.linkedin.com/jobs/view/signal-integrity-si-engineer-m-f-d-at-molex-4408884315",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical SI Engineer position at Molex, fitting the key domains of Power Integrity (SI) and matching the location criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on connector product design and development, not directly related to Vineeth's technical background in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging, CAD/Methodology.",
     "id": "92018c32",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/molex_signal_integrity__si__engineer_92018c32.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Applications Engineer II \u2013 Physical Layer (m/f/d)",
@@ -59868,14 +59861,13 @@
     "location": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-applications-engineer-ii-%E2%80%93-physical-layer-m-f-d-at-microchip-technology-inc-4427573501",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the key skills and experience areas for an Applications Engineer specializing in physical layer technologies at a semiconductor company based in Germany.",
+    "matches_requirements": "no",
+    "reason": "Primarily a verification role focusing on RTL/gate-level simulation, UVM, testbench development rather than leadership in power integrity, packaging and physical design.",
     "id": "56429e12",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/microchip_technology_senior_applications_engineer_i_56429e12.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Asset Integrity Engineer - Electrical",
@@ -59884,13 +59876,12 @@
     "url": "https://uk.linkedin.com/jobs/view/asset-integrity-engineer-electrical-at-ow-ocean-winds-4423641784",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Asset Integrity Engineer with a focus on electrical systems in offshore wind power, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for an Asset Integrity Electrical Engineer at a wind energy company, not related to semiconductor/VLSI/EDA.",
     "id": "16c4623b",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-05-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Systems & Technology IT Business Partner",
@@ -59899,13 +59890,12 @@
     "url": "https://uk.linkedin.com/jobs/view/systems-technology-it-business-partner-at-abm-uk-4421849752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an IT business partner focused on aviation operations, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The job is a non-technical IT business partnering role focusing on aviation operations systems like INFORM and PDA-based workforce management tools. It does not involve semiconductor, VLSI, EDA, power integrity, advanced packaging or CAD/EDA tool methodology.",
     "id": "34076b3e",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Geospatial Analyst",
