@@ -51714,13 +51714,12 @@
     "url": "https://ie.linkedin.com/jobs/view/asic-digital-design-architect-at-synopsys-inc-4385882407",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role is close to the ideal match but lacks specific detail on required years of experience or leadership title.",
+    "reason": "The role involves ASIC digital design, which falls under Vineeth's domain, but is slightly lower level than his current Senior Leadership position. The company is Synopsys, a major EDA player.",
     "id": "a7a8ac3d",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Hardware Design Engineer (IP Architect)",
@@ -51728,14 +51727,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/system-hardware-design-engineer-ip-architect-at-synopsys-inc-4428614252",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a System Hardware Design Engineer, which doesn't match Vineeth's key skills in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "Matches VLSI/EDA domains but role is IP Architect, not direct technical match for Vineeth's PI/SI and packaging focus",
     "id": "1ad35d52",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-20",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Design Member of Technical Staff (MTS)",
@@ -51743,14 +51741,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/digital-design-member-of-technical-staff-mts-at-onsemi-4391136604",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the senior leadership technical staff requirements for digital design work at an automotive semiconductor company in Ireland.",
+    "matches_requirements": "maybe",
+    "reason": "Senior Digital Design MTS role with 15+ years experience fits leadership criteria, but domain is not explicitly stated.",
     "id": "22943f89",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/onsemi_digital_design_member_of_techn_22943f89.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Leader Digital IC Design",
@@ -51758,14 +51755,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/technical-leader-digital-ic-design-at-imec-the-netherlands-4328818237",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical leadership role with required IC design experience, and location is Eindhoven, Netherlands.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves IC design with a focus on ultra-low-power electronics, which aligns with Vineeth's background in Power Integrity and advanced packaging. The technical leadership component is a bit ambiguous but given the company is imec Netherlands, which is well-regarded in semiconductor research, it could be a good match for Vineeth to take up.",
     "id": "e105fecf",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/imec_the_netherlands_technical_leader_digital_ic_de_e105fecf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Architect \u2013 Silicon IC (f/m/d)",
@@ -51774,13 +51770,12 @@
     "url": "https://at.linkedin.com/jobs/view/digital-design-architect-%E2%80%93-silicon-ic-f-m-d-at-renesas-electronics-4339106464",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at a senior level requiring 8+ years of experience, but the candidate has only 15 years of experience in power integrity and advanced packaging. The technical domains don't exactly match.",
+    "reason": "The role is primarily digital IC design with RTL implementation and verification, which is outside Vineeth's core domain of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off.",
     "id": "e1d0a367",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior - SOC Analyst - NextHub Bari",
@@ -51789,13 +51784,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-soc-analyst-nexthub-bari-at-deloitte-4428895578",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical SOC Analyst role at a Deloitte consulting firm, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily Cybersecurity focused with SOC, Threat Hunting and SIEM skills required. This does not match Vineeth's VLSI/EDA background in Power Integrity, CAD methodology or SoC Physical Design.",
     "id": "b88d9a2b",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL peripheral integration undergraduate student (R0)",
@@ -51804,13 +51798,12 @@
     "url": "https://es.linkedin.com/jobs/view/rtl-peripheral-integration-undergraduate-student-r0-at-barcelona-supercomputing-center-4430975045",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an undergraduate student position focused on RTL peripheral integration, not a technical leadership role in semiconductor/VLSI/EDA. Also, fully remote.",
+    "reason": "The role is for RTL peripheral integration, which falls under general SoC/VLSI design, not power integrity or advanced packaging. It does not match Vineeth's key technical domains.",
     "id": "a09cc053",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "2026-07-03",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Chief Technology Officer",
@@ -51818,14 +51811,13 @@
     "location": "Amsterdam Area",
     "url": "https://nl.linkedin.com/jobs/view/deputy-chief-technology-officer-at-stealth-4421556896",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This Deputy CTO role matches the target criteria of leading global engineering operations for a large scale digital asset market maker and infrastructure provider. The company is in the domain of algorithmic trading, digital assets, and provides institutional-grade financial services.",
+    "matches_requirements": "no",
+    "reason": "The role is a senior leadership position that does not specifically match Vineeth's technical domain of Power Integrity, Advanced Packaging, and related EDA/CAD skills.",
     "id": "bc602fdb",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/stealth_deputy_chief_technology_office_bc602fdb.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Security Engineer",
@@ -51834,13 +51826,12 @@
     "url": "https://es.linkedin.com/jobs/view/it-security-engineer-at-destinus-4403420524",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical IT security role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on IT security engineering for a small IT team, with no overlap in domains like Power Integrity (PI), Advanced Packaging, VLSI/SoC design, CAD methodology, or EDA tools.",
     "id": "3b9a7da4",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Deputy Chief Technology Officer",
@@ -51849,13 +51840,12 @@
     "url": "https://be.linkedin.com/jobs/view/deputy-chief-technology-officer-at-stealth-4421545654",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a deputy CTO role at the executive level, which does not match the technical leadership and engineering focus required for this search.",
+    "reason": "The role is software development leadership rather than semiconductor/VLSI/EDA.",
     "id": "522555d0",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Chief Technology Officer",
