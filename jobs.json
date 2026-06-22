@@ -71916,13 +71916,12 @@
     "url": "https://tw.linkedin.com/jobs/view/product-engineer-silicon-at-google-4424553242",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for product engineering of custom silicon solutions, which doesn't directly match the VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (product engineering) and is outside Vineeth's domain of expertise in semiconductor VLSI EDA.",
     "id": "a89ef2b7",
     "source": "linkedin_india_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Volume Manufacturing Engineer",
@@ -71931,13 +71930,12 @@
     "url": "https://tw.linkedin.com/jobs/view/high-volume-manufacturing-engineer-at-arm-4419063125",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the required experience of 15 years and the domain of Power Integrity (PI) / Signal Integrity (SI).",
+    "reason": "The role is primarily manufacturing and process engineering, with no clear overlap in Power Integrity (PI) or advanced packaging",
     "id": "df32fa77",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2023-06-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Chip Manufacturing Engineer",
@@ -71946,13 +71944,12 @@
     "url": "https://tw.linkedin.com/jobs/view/chip-manufacturing-engineer-at-nvidia-4395491161",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match target domain Power Integrity (PI) / Signal Integrity (SI) or Advanced Packaging / Thermal",
+    "reason": "The role is a Product Development Lab Engineer, which does not match Vineeth's background in Power Integrity & Advanced Packaging.",
     "id": "12f3fd0c",
     "source": "linkedin_india_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Development Engineer",
@@ -71961,13 +71958,12 @@
     "url": "https://tw.linkedin.com/jobs/view/product-development-engineer-at-nvidia-4413193028",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for Product Development Engineering, which does not match the specified VLSI/EDA/semiconductor technical domains. The company NVIDIA also falls outside the listed preferred employers.",
+    "reason": "The role is primarily focused on product development engineering for GPU chips and manufacturing, which does not match Vineeth's core domain of Power Integrity, Advanced Packaging and EDA tools.",
     "id": "3254a9b4",
     "source": "linkedin_india_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Foundry Technical manager \uff08IC role \uff09",
@@ -71975,14 +71971,13 @@
     "location": "Zhubei, Taiwan, Taiwan",
     "url": "https://tw.linkedin.com/jobs/view/foundry-technical-manager-%EF%BC%88ic-role-%EF%BC%89-at-renesas-electronics-4378379148",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches target domain of Foundry Operations with 10+ years experience specified.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on foundry operations and technology transfer, which does not directly match Vineeth's background in power integrity and advanced packaging.",
     "id": "6d557d87",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_foundry_technical_manager__ic__6d557d87.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DRAM Foundry Technologist",
@@ -71991,13 +71986,12 @@
     "url": "https://tw.linkedin.com/jobs/view/dram-foundry-technologist-at-sandisk-4399226190",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical management role with DRAM suppliers, which does not directly match the VLSI/EDA domains Vineeth has experience in.",
+    "reason": "This role focuses on DRAM foundry engagement, which is outside Vineeth's primary domain of power integrity and advanced packaging.",
     "id": "a11eddc2",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced process technology development",
@@ -72006,13 +72000,12 @@
     "url": "https://tw.linkedin.com/jobs/view/advanced-process-technology-development-at-mediatek-4405137925",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for process technology development, which does not directly match the specified background of power integrity and advanced packaging expertise.",
+    "reason": "The role is focused on advanced process technology development for semiconductor products, which does not match Vineeth's key background and expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal analysis, CAD Methodology, or Physical Design.",
     "id": "a6c6fe63",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DRAM Device Engineer Lead",
@@ -72021,13 +72014,12 @@
     "url": "https://tw.linkedin.com/jobs/view/dram-device-engineer-lead-at-micron-technology-4410847231",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This senior engineering role at Micron Technology in Taiwan closely matches Vineeth's background and experience, particularly his technical leadership in power integrity and advanced packaging.",
+    "reason": "Matches leadership role, semiconductor domain and strong overlap with Vineeth's power integrity experience and technical skills like device physics, yield ramping, cross-functional team coordination",
     "id": "b559772a",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology_dram_device_engineer_lead_b559772a.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology_dram_device_engineer_lead_b559772a.txt"
   },
   {
     "title": "Senior Staff Product Engineer",
@@ -72036,13 +72028,12 @@
     "url": "https://tw.linkedin.com/jobs/view/senior-staff-product-engineer-at-infineon-technologies-4429959115",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Product Engineering role working on semiconductor products, which fits the target technical domains but the location in Kaohsiung, Taiwan does not match the high priority regions of Finland Europe, UK, India or remote worldwide. It is also at a company level that is too large and established to be a startup or consultancy.",
+    "reason": "The role is primarily software development (electrical engineering, semiconductor technology). It is outside Vineeth's domain.",
     "id": "0ba2ee97",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SMTS Foundry Technology",
@@ -72050,14 +72041,13 @@
     "location": "Taipei, Taipei City, Taiwan",
     "url": "https://tw.linkedin.com/jobs/view/smts-foundry-technology-at-rambus-4417652763",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical position focusing on foundry interactions and technology qualification.",
+    "matches_requirements": "no",
+    "reason": "The role is for a SMTS Foundry Technology position, which is not within Vineeth's Power Integrity and Advanced Packaging expertise domain.",
     "id": "0f0a4251",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/rambus_smts_foundry_technology_0f0a4251.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Yield Enhancement (PYE) Engineer",
