@@ -24960,13 +24960,12 @@
     "url": "https://builtin.com/jobs/data-analytics/analytics",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job posting is for analytics roles, not semiconductor/VLSI/EDA engineering positions.",
+    "reason": "The job is an analytics role focused on business operations and financial strategy, which does not directly match Vineeth's technical background in power integrity, advanced packaging, and VLSI/EDA.",
     "id": "5e871fe5",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Android Developer Jobs",
@@ -24975,43 +24974,40 @@
     "url": "https://builtin.com/jobs/dev-engineering/android",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Android Developer position, which does not match the specified VLSI/EDA/semiconductor industry requirements.",
+    "reason": "This is a non-technical Android Developer role at a job board, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "cd5bcad2",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Security Engineer Jobs",
-    "company": "Extract from page",
+    "company": "Application Security Engineer Jobs",
     "location": "Extract from page",
     "url": "https://builtin.com/jobs/cybersecurity-it/search/application-security-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This software engineering role is for application security, which does not match the VLSI/EDA technical domains required.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "70812d79",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Artificial Intelligence Jobs",
-    "company": "Extract from page",
+    "company": "Aalto University",
     "location": "Espoo, Finland",
     "url": "https://builtin.com/jobs/artificial-intelligence",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for AI roles rather than semiconductor/VLSI/EDA related positions.",
+    "reason": "Job is for non-technical AI research, not relevant to semiconductor/VLSI/EDA",
     "id": "e16518b5",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Controller Jobs",
@@ -25020,13 +25016,12 @@
     "url": "https://builtin.com/jobs/finance/search/assistant-controller",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in Finance, not engineering/technical.",
+    "reason": "The job is for a non-technical finance role, which does not match Vineeth's technical background.",
     "id": "1a942796",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Product Manager Jobs",
@@ -25035,13 +25030,12 @@
     "url": "https://builtin.com/jobs/product/search/associate-product-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Associate Product Manager, which does not match the technical roles in semiconductor/VLSI/EDA domains required.",
+    "reason": "This is a product management role, not an engineering/technical position at a semiconductor company.",
     "id": "04031f35",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automation Engineer Jobs",
@@ -25050,13 +25044,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/automation-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "None of these automation engineer roles are focused on semiconductor, VLSI, EDA or closely related areas like power integrity, advanced packaging, thermal analysis, or physical design. They are more broadly in software automation and dev engineering.",
+    "reason": "This is a software engineering role focused on automation, which is outside Vineeth's primary domain of power integrity and advanced packaging.",
     "id": "a381dc7e",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Backend Developer Jobs",
@@ -25065,13 +25058,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/backend-developer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general search result page, not a specific job posting with details required for an evaluation.",
+    "reason": "This is a Backend Developer role at a software company, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "517dca4a",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Blockchain Developer Jobs",
@@ -25080,13 +25072,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/blockchain-developer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Blockchain Developer position, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The job is for a blockchain developer, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and EDA. It falls under software development rather than semiconductor/VLSI/EDA.",
     "id": "89b52894",
     "source": "builtin_semi",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Brand Manager Jobs",
@@ -25095,13 +25086,12 @@
     "url": "https://builtin.com/jobs/marketing/search/brand-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a marketing position focused on employer branding and not technical like Power Integrity, Advanced Packaging, EDA or VLSI/SoC design.",
+    "reason": "This is a marketing role for a payments startup, not an engineering/technical position related to semiconductor/VLSI/EDA.",
     "id": "6998e78a",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Analyst Jobs",
