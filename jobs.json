@@ -67505,14 +67505,13 @@
     "location": "Pune District, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/eda-infrastructure-staff-engineer-at-lattice-semiconductor-4429614863",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key criteria for EDA Infrastructure role with Python, Perl and Tcl scripting expertise.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on HPC cluster management, cloud platforms, and automation - which doesn't match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC Design.",
     "id": "a3882ffc",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/lattice_semiconducto_eda_infrastructure___staff_eng_a3882ffc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD AI Infrastructure Engineers (SOC/IP/VLSI)",
@@ -67520,14 +67519,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cad-ai-infrastructure-engineers-soc-ip-vlsi-at-synopsys-inc-4428004971",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches mid-senior level role with 9-15 years experience, in Bangalore, and fits several target technical domains.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 9-15 years experience, strong match for candidate's background in Power Integrity and Advanced Packaging.",
     "id": "81c46ccc",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_cad_ai_infrastructure_engineer_81c46ccc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineering, Staff Engineer - ICV Runset Development",
@@ -67535,14 +67533,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/application-engineering-staff-engineer-icv-runset-development-at-synopsys-inc-4384867383",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of physical verification, IC Validator runset development, and location in Hyderabad, India.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves developing and validating DRC, LVS, and Fill runsets for Synopsys IC Validator tool, which aligns with Vineeth's Power Integrity domain.",
     "id": "18bbe85d",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_application_engineering__staff_18bbe85d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -67550,14 +67547,13 @@
     "location": "Serilingampalli, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-altera-4415502681",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain, experience level, and location criteria for a physical design engineer role.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Physical Design Engineer role, which is within Vineeth's domain expertise of Power Integrity and Advanced Packaging. However, it does not match his key skills in CAD Methodology, EDA tool integration or Engineering Leadership.",
     "id": "91d25023",
     "source": "linkedin_india_eda_design_automation_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/altera_physical_design_engineer_91d25023.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Physical Design Engineer",
@@ -67565,14 +67561,13 @@
     "location": "Pune Division, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/senior-principal-physical-design-engineer-at-nxp-semiconductors-4404552755",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior physical design engineering role matches the key criteria of domain expertise, years of experience, and location preferences.",
+    "matches_requirements": "no",
+    "reason": "The role involves too much RTL/gate-level physical design which is not Vineeth's strength, and focuses on place and route etc. rather than power integrity and packaging.",
     "id": "e3639e7b",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nxp_semiconductors_senior_principal_physical_desi_e3639e7b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Lead I - VLSI PD CAD",
@@ -67580,14 +67575,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/technical-lead-i-vlsi-pd-cad-at-ust-4361463003",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits the target domain of VLSI Physical Design and CAD, with a strong match on key skills in EDA tools and methodologies.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification which is outside Vineeth's domain",
     "id": "0f803a9d",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ust_technical_lead_i___vlsi_pd_cad_0f803a9d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -67595,14 +67589,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-leadsoc-technologies-pvt-ltd-4389542073",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills, experience level, and domain - VLSI/EDA Physical Design Engineer role at a specialized semiconductor consultancy.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on physical design with Cadence tools, which matches Vineeth's expertise in power integrity and advanced packaging. However, it does not mention power integrity, thermal analysis, or relevant leadership roles that would be a high priority match.",
     "id": "d54c31b1",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-05-28",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/leadsoc_technologies_senior_physical_design_enginee_d54c31b1.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Staff Engineer - CAD",
@@ -67611,13 +67604,12 @@
     "url": "https://in.linkedin.com/jobs/view/technical-staff-engineer-cad-at-microchip-technology-inc-4418946210",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches semiconductor/EDA/VLSI background, experience and seniority level.",
+    "reason": "The role is a CAD Engineer position at Microchip Technology, which aligns with Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "1bd6a3fd",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/microchip_technology_technical_staff_engineer___cad_1bd6a3fd.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/microchip_technology_technical_staff_engineer___cad_1bd6a3fd.txt"
   },
   {
     "title": "PE CAD Engineering",
@@ -67626,13 +67618,12 @@
     "url": "https://in.linkedin.com/jobs/view/pe-cad-engineering-at-rambus-4424841224",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Strong match with candidate's background in Power Integrity, Advanced Packaging and technical skills in CAD tools.",
+    "reason": "Matches VLSI/EDA technical domain, suitable experience level and location.",
     "id": "d9f06076",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/rambus_pe_cad_engineering_d9f06076.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/rambus_pe_cad_engineering_d9f06076.txt"
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -67640,14 +67631,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-encharge-ai-4430732089",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role with 4-7 years experience matches the domain and experience level criteria.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on physical design for an AI hardware company, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "d587bb30",
     "source": "linkedin_india_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/encharge_ai_senior_physical_design_enginee_d587bb30.txt",
-    "needs_re_review": true
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
