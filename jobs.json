@@ -27578,13 +27578,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40743030",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches required semiconductor/EDA experience and Singapore location.",
+    "reason": "Matches Vineeth's background and key skills in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology. Singapore location is a match.",
     "id": "ecf60ba2",
     "source": "micron_careers",
     "posted_date": "2023-04-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_sr_engineer___cmp_process_deve_ecf60ba2.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_sr_engineer___cmp_process_deve_ecf60ba2.txt"
   },
   {
     "title": "Graphics Engineer",
@@ -27593,13 +27592,12 @@
     "url": "https://careers.arm.com/job/cambridge/graphics-engineer/33099/96521990288",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical software engineering role at Arm, which we are filtering out.",
+    "reason": "The role is primarily software engineering for graphics development, which falls outside Vineeth's domain of expertise in power integrity and advanced packaging.",
     "id": "d6f554c2",
     "source": "arm_careers",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Manager",
@@ -27608,13 +27606,12 @@
     "url": "https://careers.arm.com/job/cambridge/senior-product-manager/33099/87889683648",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical marketing/product management role, not an engineering/technical position in semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development (software engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "d7cbf2a5",
     "source": "arm_careers",
     "posted_date": "2026-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Corporate Planning Organization (CPO)",
@@ -27623,13 +27620,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19048&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Corporate Planning position at TSMC's headquarters in Taiwan, which does not match the target domains of Power Integrity, Advanced Packaging, SoC PDN sign-off, etc. specified in the job requirements.",
+    "reason": "This role is a mix of business, DevOps and ML roles - outside Vineeth's domain focus on Power Integrity and Packaging.",
     "id": "6e9dba15",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -27638,13 +27634,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Corporate-Planning-Organization-CPO%2F19048",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not lead to a specific job listing with detailed requirements, making it impossible to determine if this would be a good match for our candidate based on the provided information alone.",
+    "reason": "The job is for a non-technical corporate planning role, which is outside Vineeth's domain.",
     "id": "391ca44a",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "HPC Chip PDN Solution Expert",
@@ -27653,13 +27648,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18002&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches key skills of HPC, PDN sign-off flow automation, and experience level",
+    "reason": "Highly technical semiconductor role matches Vineeth's power integrity, advanced packaging and SoC PDN background at a top foundry company in Taiwan.",
     "id": "4cb19611",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc__taiwan_semicon_hpc_chip_pdn_solution_expert_4cb19611.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc__taiwan_semicon_hpc_chip_pdn_solution_expert_4cb19611.txt"
   },
   {
     "title": "LinkedIn",
@@ -27667,14 +27661,13 @@
     "location": "N/A - location not specified in job description",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHPC-Chip-PDN-Solution-Expert%2F18002",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role seems to match Vineeth's background in Power Integrity and Advanced Packaging, but a clearer match would require more details from the job posting.",
+    "matches_requirements": "no",
+    "reason": "The job is for an Application Engineer role at a semiconductor company, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging and EDA methodology.",
     "id": "684e3faa",
     "source": "tsmc_careers",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intelligent Manufacturing Engineer (MFG, Taichung)",
@@ -27683,13 +27676,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19715&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a full-time role at TSMC's manufacturing facility, which does not fit our target domain of semiconductor VLSI EDA roles.",
+    "reason": "The role is focused on manufacturing engineering, which is outside Vineeth's core domains of Power Integrity, Advanced Packaging, and EDA/CAD.",
     "id": "efbad377",
     "source": "tsmc_careers",
     "posted_date": "2026-04-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -27697,14 +27689,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-MFG-Taichung%2F19715",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting URL is for an Intelligent Manufacturing Engineer position at TSMC, which does not match the required technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership. The candidate profile provided also does not align with this role.",
+    "matches_requirements": "maybe",
+    "reason": "Senior-level semiconductor role with 10+ years experience, possibly a match for Vineeth's background in Power Integrity and Packaging. But need to check job description details like exact location, company, and specific job duties.",
     "id": "eb538ea9",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer III - (E3)",
@@ -27713,13 +27704,12 @@
     "url": "https://www.glassdoor.com/job-listing/mechanical-engineer-iii-e3-applied-materials-JV_IC1139761_KO0,26_KE27,44.htm?jl=1010164664491",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Mechanical Engineer position, which does not match the semiconductor/VLSI/EDA technical focus required.",
+    "reason": "This is a non-technical Mechanical Engineer role at Applied Materials, not a semiconductor/VLSI/EDA engineering position.",
     "id": "5805f863",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "mechanical engineer jobs in Austin, TX",
