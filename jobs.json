@@ -4548,13 +4548,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-design-verification-engineer-at-l-t-technology-services-4021728985",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Design Verification Engineer with 5+ years of experience, which does not match the senior technical leadership roles we are targeting.",
+    "reason": "The job is for a Design Verification Engineer role, which falls under verification domain and is outside Vineeth's main expertise area of Power Integrity and Advanced Packaging.",
     "id": "ba376900",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electrical Physical Designer",
@@ -4563,13 +4562,12 @@
     "url": "https://in.linkedin.com/jobs/view/electrical-physical-designer-at-larsen-toubro-4391576084",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position for Electrical Physical Designer at Larsen & Toubro in Vadodara, India. It does not match the senior leadership roles and technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, etc. specified in the candidate profile.",
+    "reason": "This is an Electrical Physical Designer role focused on electrical layouts and CAD tools like AutoCAD, MicroStation. It does not match Vineeth's semiconductor/EDA/VLSI background in Power Integrity, Packaging, EDA methodologies or SoC physical design.",
     "id": "2ca7eff8",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -4577,14 +4575,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-texas-instruments-india-4418271266",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires a physical design engineer with 2-5 years of experience and good RTL design skills, which matches the specified job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design coding with cadence tools, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "443015b1",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_in_physical_design_engineer_443015b1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer | Physical Design | 4+ Years |",
@@ -4592,14 +4589,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-engineer-physical-design-4%2B-years-at-cisco-4404059915",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Physical Design role with >4 years experience, good match for target criteria",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior level ASIC Engineer Physical Design role in Bangalore, which is a match for Vineeth's background and experience. However, it explicitly states 'Bachelor's or a Master\u2019s Degree in Electrical or Computer Engineering with 5+ years of expereince is required.' This limits the candidate to a minimum of 5 years of experience, which is below Vineeth's reported 15 years.",
     "id": "46a18ab4",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cisco_asic_engineer___physical_desig_46a18ab4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Physical Design",
@@ -4607,14 +4603,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-physical-design-at-renesas-electronics-4377806169",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Staff/Senior Staff Engineer with deep expertise in Logic Synthesis and/or Static Timing Analysis, matching the target domain criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on logic synthesis and STA, which falls outside Vineeth's domain of power integrity and advanced packaging expertise.",
     "id": "cd4628f1",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-04",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_staff_engineer__physical_desig_cd4628f1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -4623,13 +4618,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-design-verification-engineer-at-capgemini-engineering-4415271814",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Verification Engineer, which does not match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "74ee8c3d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -4638,13 +4632,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-belvedere-trading-llc-4409116475",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA engineer at a trading firm, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development (C++, Python scripts) which is outside Vineeth's domain of Power Integrity, Advanced Packaging and EDA CAD tools.",
     "id": "b38da83a",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -4653,13 +4646,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-aaa-global-4427930752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer focused on automated trading infrastructure, which does not match the target domains of Power Integrity, Advanced Packaging, or EDA/VLSI/SoC Design.",
+    "reason": "The role is primarily software development (knowledge of C++, TCL/Python/Bash) which is outside Vineeth's domain. He has no experience in this area.",
     "id": "0da03291",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -4668,13 +4660,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-citadel-securities-4417962939",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer at a financial services firm, which does not match our focus on semiconductor/VLSI/EDA roles.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "e72492d5",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-05-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff FPGA Engineer",
@@ -4683,13 +4674,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-fpga-engineer-at-vector-atomic-4407172298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is too specific to FPGA design, while the target roles focus on broader areas like Power Integrity, Advanced Packaging, and VLSI/SoC Design.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "6a4a0309",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
