@@ -12262,13 +12262,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-techneptune-consulting-inc-4427379022",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided returned an error, so we could not retrieve enough details to assess if it matches our target job criteria.",
+    "reason": "This role is primarily verification (RTL/gate-level simulation, testbench development), which is outside Vineeth's domain.",
     "id": "4dd6c50e",
     "source": "linkedin_asic_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Designer",
@@ -12277,13 +12276,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-designer-at-staffing-technologies-4426615923",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a contract position with Staffing Technologies, which is a staffing agency, not a semiconductor/VLSI/EDA company.",
+    "reason": "This Analog Designer role focuses on GPIO design for third-party IP integration into SoCs, which is outside Vineeth's core power integrity and packaging domain expertise.",
     "id": "432e3a27",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -12292,13 +12290,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-oho-group-4426970487",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an RTL Design Engineer role with no direct match to the semiconductor/VLSI/EDA technical domains targeted.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "5cdc525b",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SRAM Engineer",
@@ -12307,13 +12304,12 @@
     "url": "https://in.linkedin.com/jobs/view/sram-engineer-at-tata-electronics-4402419228",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an SRAM Engineer, which does not directly match the key domains of Power Integrity, Advanced Packaging, or VLSI/EDA tools and methodologies specified in the candidate profile.",
+    "reason": "This is an entry-level to mid-level R&D SRAM Engineer role at a semiconductor company in India, while Vineeth has over 15 years of experience specifically in power integrity and advanced packaging. The technical focus also does not closely match his expertise.",
     "id": "b5d4dc1f",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Engineering : Power Silicon & Yield",
@@ -12322,13 +12318,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-engineering-power-silicon-yield-at-texas-instruments-4403908928",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Product Engineer for analog power products at Texas Instruments, focused on productization and PI/SI. It does not match Vineeth's background in PI/PI technical leadership.",
+    "reason": "The job is a product engineering role focused on TI's power silicon products, which does not match Vineeth's background in PI/advanced packaging and sign-off flows. Also, it's mid-senior level instead of leadership.",
     "id": "fa4a0291",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-03",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer",
@@ -12337,13 +12332,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-engineer-at-lam-research-4397219769",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Process Engineer, which does not fit the key skills of Power Integrity and Advanced Packaging that Vineeth Prathapachandra Kaimal has expertise in.",
+    "reason": "The role is primarily software development and does not match Vineeth's domain of VLSI/EDA.",
     "id": "459c3475",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Yield / Integration Engineering",
@@ -12352,13 +12346,12 @@
     "url": "https://in.linkedin.com/jobs/view/yield-integration-engineering-at-globalfoundries-4408644214",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on semiconductor manufacturing yield and integration engineering, which does not directly align with the top priority technical domains of Power Integrity (PI), Advanced Packaging / Thermal, or CAD / Methodology. It also doesn't match the desired experience level for a senior leadership role.",
+    "reason": "The role is for semiconductor device physics, characterization, wafer fabrication and transistor support roles, which does not match Vineeth's background in Power Integrity & Advanced Packaging.",
     "id": "aed44cf4",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer 5",
@@ -12367,13 +12360,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-engineer-5-at-lam-research-4426613731",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on semiconductor equipment engineering, not VLSI/EDA.",
+    "reason": "The role is primarily focused on semiconductor manufacturing equipment, not the semiconductor design and EDA tools that Vineeth's background is in.",
     "id": "c71236ec",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Product Engineer",
@@ -12382,13 +12374,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-product-engineer-at-renesas-electronics-4419520453",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches with semiconductor engineering, specifically power devices and NPI process.",
+    "reason": "Strong technical match for senior semiconductor product engineering with 5-7 years experience",
     "id": "ce2aade4",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_staff_product_engineer_ce2aade4.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/renesas_electronics_staff_product_engineer_ce2aade4.txt"
   },
   {
     "title": "Technical Staff - Test Engineering",
@@ -12397,13 +12388,12 @@
     "url": "https://in.linkedin.com/jobs/view/technical-staff-test-engineering-at-microchip-technology-inc-4414648700",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Technical Staff position, which does not fit the Senior Leadership (Technical Leader, Manager, Director) roles targeted by the criteria.",
+    "reason": "The role is primarily focused on test engineering for silicon (ASIC/FPGA) rather than power integrity, advanced packaging, or EDA CAD methodology. Vineeth's background is in PI and packaging.",
     "id": "6898db2b",
     "source": "linkedin_semi_india",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Device Modeling Engineer",
