@@ -56978,13 +56978,12 @@
     "url": "https://ro.linkedin.com/jobs/view/rtl-engineer-at-undelucram-ro-4388227861",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RTL Engineer role does not match the semiconductor/VLSI/EDA industry focus of the job search.",
+    "reason": "The role is primarily RTL design, which falls under Vineeth's domain of SoC physical design and CAD methodology, but it does NOT require his specific area of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, or EDA Tools.",
     "id": "e6d27ad3",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ingeniero de dise\u00f1o",
@@ -56993,13 +56992,12 @@
     "url": "https://es.linkedin.com/jobs/view/ingeniero-de-dise%C3%B1o-at-w-hunt-espa%C3%B1a-4429254463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Design Engineer, which does not match the Semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is for an Industrial Design position, which does not match Vineeth's background in Power Integrity and VLSI.",
     "id": "e3bb3f4d",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur d'\u00e9tudes am\u00e9nagement du territoire projet ANR DECODE",
@@ -57008,13 +57006,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-d-%C3%A9tudes-am%C3%A9nagement-du-territoire-projet-anr-decode-at-universit%C3%A9-du-littoral-c%C3%B4te-d-opale-4428279117",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a university project research position focused on studying and documenting straits around the world, rather than semiconductor/VLSI/EDA technical roles.",
+    "reason": "The job is for a university research project studying straits between countries and continents, which is unrelated to semiconductor/VLSI/EDA. The role involves managing a website and social media related to this research project.",
     "id": "c82f69b6",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "2023-07-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-19",
+    "description_file": null
   },
   {
     "title": "Digital Twin Engineer",
@@ -57023,13 +57020,12 @@
     "url": "https://it.linkedin.com/jobs/view/digital-twin-engineer-at-pirelli-4429258067",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Digital Twin Engineer focused on tire manufacturing, which does not match the semiconductor/VLSI/EDA field expertise.",
+    "reason": "The job is for a Digital Twin Engineer position at Pirelli, which works on tire industry digital twin models and factory flow simulations. This is in the automotive manufacturing domain, not semiconductor/VLSI/EDA.",
     "id": "70243c2d",
     "source": "linkedin_eu_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GPU Top Design Engineer",
@@ -57037,14 +57033,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-top-design-engineer-at-apple-4414162537",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior GPU design engineering position at Apple, which matches the target domain of Physical Design with experience in SystemVerilog/VHDL.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily GPU top-level design rather than Power Integrity, CAD methodology, or physical design.",
     "id": "1436692c",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_gpu_top_design_engineer_1436692c.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior SoC / RTL Design Engineer",
@@ -57052,14 +57047,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-rtl-design-engineer-at-arm-4423248089",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior SoC / RTL Design Engineer role matches the domain criteria, but lacks specifics on years of experience and leadership title to confidently match.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on SoC design and verification, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "b4922ff1",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-03-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer - CPU",
@@ -57067,14 +57061,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-rtl-design-engineer-cpu-at-sifive-4414663434",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design for CPU cores, which is outside Vineeth's domain of expertise in Power Integrity, Packaging and EDA tools.",
     "id": "7a1e57fb",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff RTL Design Engineer - CPU Midcore",
@@ -57082,14 +57075,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-rtl-design-engineer-cpu-midcore-at-sifive-4414678150",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior RTL Design Engineer role at SiFive aligns with VLSI/SoC Design domain, location is Cambridge, England which matches the preferred region",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong overlap in VLSI/SoC design and semiconductor engineering, but lacking specific details on domain focus.",
     "id": "3a957a37",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-05-31",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/sifive_staff_rtl_design_engineer___cp_3a957a37.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CPU RTL Design Engineer",
@@ -57097,14 +57089,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/cpu-rtl-design-engineer-at-european-tech-recruit-4427028841",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design for CPU, which falls outside Vineeth's domain of Power Integrity and Packaging.",
     "id": "7b18f37e",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Microarchitect & RTL Designer",
@@ -57112,14 +57103,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/microarchitect-rtl-designer-at-baya-systems-4386026446",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Microarchitecture and RTL Design with a semiconductor/EDA company in UK.",
+    "matches_requirements": "no",
+    "reason": "Job is a mid-level RTL Designer role, not a Senior Leadership position as Vineeth Kaimal has.",
     "id": "860887b2",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/baya_systems_microarchitect___rtl_designer_860887b2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
