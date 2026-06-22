@@ -39800,13 +39800,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=0e779ef823b173a2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a business intelligence engineering role, not relevant to VLSI/EDA.",
+    "reason": "The role is for a Business Intelligence Engineer focused on devices demand science optimization, which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
     "id": "229a03d3",
     "source": "indeed_semi_ww",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Business Intelligence Engineer, Devices Demand Science Optimization salaries in Seattle, WA",
@@ -39815,13 +39814,12 @@
     "url": "https://www.indeed.com/career/business-intelligence-developer/salaries/Seattle--WA?campaignid=serp-more&fromjk=0e779ef823b173a2&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business intelligence role, not a semiconductor/VLSI/EDA engineering position.",
+    "reason": "The role is primarily software development (BI Engineer) and does not match Vineeth's technical background in VLSI/EDA.",
     "id": "f2c0d6b4",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Manager, Litho Process Development",
@@ -39830,13 +39828,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19699&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior leadership role with 3-5 years experience required, matching the candidate profile.",
+    "reason": "This technical management role at TSMC specifically requires lithography process development expertise, which fits within Vineeth's background in Power Integrity and Advanced Packaging. The location is also a match.",
     "id": "8e79bcd1",
     "source": "tsmc_careers",
     "posted_date": "2026-03-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_technical_manager__litho_proce_8e79bcd1.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_technical_manager__litho_proce_8e79bcd1.txt"
   },
   {
     "title": "LinkedIn",
@@ -39844,14 +39841,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTechnical-Manager-Litho-Process-Development%2F19699",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with technical expertise matching the candidate profile, but located in Taiwan which is a lower priority location.",
+    "matches_requirements": "yes",
+    "reason": "Matches leadership role exception with power integrity experience, for a TSMC semiconductor company.",
     "id": "e6812533",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_e6812533.txt"
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -39860,13 +39856,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4430087454",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical design engineering position, not matching the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development (full-stack, TypeScript, React) which is outside Vineeth's domain.",
     "id": "7dcb60b1",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF Electrical Engineer",
@@ -39875,13 +39870,12 @@
     "url": "https://www.glassdoor.com/job-listing/rf-electrical-engineer-abbott-JV_IC1155583_KO0,22_KE23,29.htm?jl=1010169532326",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role in HR, not engineering/technical.",
+    "reason": "The role is for an RF Electrical Engineer, which falls under the verification domain and is outside Vineeth's expertise.",
     "id": "f0278f07",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "electrical engineer jobs in Atlanta, GA",
@@ -39890,13 +39884,12 @@
     "url": "https://www.glassdoor.com/Job/atlanta-electrical-engineer-jobs-SRCH_IL.0,7_IC1155583_KO8,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an electrical engineer position at a general company, not within the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is focused on electrical engineering for Siemens devices and communication, which does not match Vineeth's background in semiconductor VLSI/EDA.",
     "id": "651f12cf",
     "source": "glassdoor_semi",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Atlanta, GA jobs",
@@ -39905,13 +39898,12 @@
     "url": "https://www.glassdoor.com/Job/atlanta-jobs-SRCH_IL.0,7_IC1155583.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical warehouse role at a retail company, not a semiconductor/VLSI/EDA engineering position.",
+    "reason": "Job is for non-technical roles like HR, finance, and marketing at a semiconductor company - we only want engineering/technical positions.",
     "id": "bb105723",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Abbott jobs in Atlanta, GA",
@@ -39920,13 +39912,12 @@
     "url": "https://www.glassdoor.com/Job/atlanta-abbott-jobs-SRCH_IL.0,7_IC1155583_KO8,14.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job search page is for Abbott jobs in Atlanta, GA and does not match the criteria for Semiconductor / VLSI / EDA roles.",
+    "reason": "The role is non-technical HR, which does not match Vineeth's engineering background.",
     "id": "6631cb19",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GPS Engineer",
@@ -39935,13 +39926,12 @@
     "url": "https://www.glassdoor.com/job-listing/gps-engineer-applied-materials-JV_IC1147439_KO0,12_KE13,30.htm?jl=1010169549023",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a GPS Engineer at Applied Materials, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a GPS Engineer position at Applied Materials, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
     "id": "f7f94436",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Planner (Project Engineer)",
