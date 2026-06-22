@@ -62410,13 +62410,12 @@
     "url": "https://fi.linkedin.com/jobs/view/anfran-suunnitteluteht%C3%A4vien-osaajaverkosto-at-anfra-4384283120",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a construction design engineer, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a construction design position focused on concrete and structural engineering, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "12530252",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Sculptor",
@@ -62424,14 +62423,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/digital-sculptor-at-%C5%8Dura-4406498707",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves 3D modeling, surfacing and visualization for product design, which fits the Digital Sculptor domain. However, it's in industrial design rather than semiconductor/VLSI/EDA.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on industrial design and product visualization rather than semiconductor, VLSI, EDA technical domains.",
     "id": "22e5c517",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Design Engineer",
@@ -62440,13 +62438,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mechanical-design-engineer-at-hitachi-energy-4427912189",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role, not an engineering/technical position at a semiconductor company.",
+    "reason": "The role is in mechanical engineering, not semiconductor/VLSI/EDA.",
     "id": "c009d577",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2026-05-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RAU-suunnittelu, suunnittelija",
@@ -62454,29 +62451,13 @@
     "location": "Oulu, North Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/rau-suunnittelu-suunnittelija-at-ramboll-4429940765",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical position at Ramboll, which matches our target domain criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is for a RAU design engineer, which falls under structural engineering and does not match Vineeth's expertise in semiconductor/VLSI/EDA.",
     "id": "24c807e1",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-05",
     "deadline": "2026-08-31",
-    "description_file": "job_descriptions/ramboll_rau_suunnittelu__suunnittelija_24c807e1.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "Product Development Engineer",
-    "company": "Ensto",
-    "location": "Porvoo, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/product-development-engineer-at-ensto-4427846068",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Product Development Engineer in Mechanical Engineering, which doesn't match the semiconductor/VLSI/EDA domain and skills required.",
-    "id": "d856578c",
-    "source": "linkedin_fi_physical_design",
-    "posted_date": "2026-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Aeronautical Engineer",
@@ -62485,13 +62466,12 @@
     "url": "https://fi.linkedin.com/jobs/view/aeronautical-engineer-at-kelluu-4424002752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Aeronautical Engineering, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is aeronautical engineering focused on airship design, which does not match Vineeth's background in semiconductor/VLSI/EDA. It also specifies no direct overlap with power integrity, advanced packaging or CAD methodology.",
     "id": "4b8bcc20",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2026-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-24",
+    "description_file": null
   },
   {
     "title": "Design Manager",
@@ -62499,14 +62479,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/design-manager-at-atnorth-4407382433",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior design role at a Nordic data center company involves leading technical and commercial aspects of designing high-efficiency, sustainable data centers in Finland and other Nordic countries. The key skills and experience match well with the target domains.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily in civil engineering, architecture, and infrastructure construction rather than semiconductor VLSI EDA domains that Vineeth specializes in.",
     "id": "660509bf",
     "source": "linkedin_fi_physical_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/atnorth_design_manager_660509bf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer",
@@ -62515,13 +62494,12 @@
     "url": "https://fi.linkedin.com/jobs/view/r-d-engineer-at-assa-abloy-group-4426421010",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mechanical R&D engineering role, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Junior R&D Engineer position focused on mechanics, which is outside Vineeth's senior technical leadership domain.",
     "id": "e5559813",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-26",
+    "description_file": null
   },
   {
     "title": "Design Manager",
@@ -62529,14 +62507,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/design-manager-at-mercury-4330528155",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Design Manager role with MEP background, fits key criteria",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior design leadership position at a construction firm with requirements in MEP, CSA, BIM and strong communication skills - this matches Vineeth's background and experience level.",
     "id": "4e03f661",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2023-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/mercury_design_manager_4e03f661.txt"
   },
   {
     "title": "Design Manager",
@@ -62545,13 +62522,12 @@
     "url": "https://fi.linkedin.com/jobs/view/design-manager-at-cts-group-4424236507",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Design manager role with no clear technical specialization, but matches general design management for data center projects.",
+    "reason": "Leadership role with 8+ years experience required, but domain not specified",
     "id": "e2a716d5",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija ABB:lle Vaasaan",
