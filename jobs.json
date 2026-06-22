@@ -12401,14 +12401,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/device-modeling-engineer-at-texas-instruments-india-4382814057",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches in Domain & Technical Area (Power Integrity, CAD/Methodology), and within target experience range of 10-15+ years",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (modeling expertise, AI/ML work) rather than hardware-focused semiconductor design.",
     "id": "53f203ea",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-23",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/texas_instruments_in_device_modeling_engineer_53f203ea.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "System Integration Engineer",
@@ -12417,13 +12416,12 @@
     "url": "https://in.linkedin.com/jobs/view/system-integration-engineer-at-applied-materials-india-4426862426",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing engineering position focused on developing and maintaining methods, operating sequences, and processes rather than directly related to semiconductor VLSI EDA work.",
+    "reason": "The role is focused on R&D tool integration and operation, which does not match Vineeth's domain of power integrity, signal integrity, or packaging.",
     "id": "9455778a",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -12432,13 +12430,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-engineer-at-tessolve-4416396089",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Product Engineer position at Tessolve, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "This product engineer role is focused on hardware design, test and manufacturing at Tessolve, a semiconductor services firm. It does NOT match Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, which require deep skills in EDA tools like ANSYS RedHawk, Cadence Voltus, etc. Instead it is general ASIC product development for a contract fab service.",
     "id": "b48ac72f",
     "source": "linkedin_semi_india",
     "posted_date": "2026-04-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lab Manager - Hardware Engineering",
@@ -12447,13 +12444,12 @@
     "url": "https://in.linkedin.com/jobs/view/lab-manager-hardware-engineering-at-nvidia-ai-4421508935",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Lab Manager - Hardware Engineering, which does not match the required Technical Leadership positions in Power Integrity, Advanced Packaging, and related domains.",
+    "reason": "The role is a hardware engineering lab manager and does not match Vineeth's background in power integrity, advanced packaging and EDA tools.",
     "id": "f2bac649",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -12462,13 +12458,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-engineer-at-texas-instruments-india-4414130324",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Product Engineer position at a semiconductor company, which does not match our target engineering/technical roles.",
+    "reason": "The role is primarily software development (electronics, firmware engineer) which is outside Vineeth's domain.",
     "id": "2094fac1",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Chip Power Estimation Engineer",
@@ -12477,13 +12472,12 @@
     "url": "https://in.linkedin.com/jobs/view/chip-power-estimation-engineer-at-nvidia-4395476617",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches all key skills, experience level, and targets power estimation for NVIDIA chips which is a strong match.",
+    "reason": "The role is for a chip power estimation engineer position, which fits Vineeth's background in Power Integrity (PI) and matches the target domain of Power Integrity/Signal Integrity.",
     "id": "cff42a5d",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_chip_power_estimation_engineer_cff42a5d.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_chip_power_estimation_engineer_cff42a5d.txt"
   },
   {
     "title": "Lead Engineer",
@@ -12492,13 +12486,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-engineer-at-quest-global-4427492341",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mid-senior level engineer position at Quest Global, which does not directly match the technical domains and leadership experience requirements specified.",
+    "reason": "The role is for an Engineering Services Practitioner, which does not match Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "db59c0df",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer - DEMQRA WLR",
@@ -12507,13 +12500,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-demqra-wlr-at-micron-technology-4410848228",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Wafer Level Reliability Engineer position which does not match the VLSI/EDA/semiconductor technical domains required.",
+    "reason": "The job is for a software engineering role at Micron, which is a semiconductor manufacturing company. However, Vineeth has more experience in EDA/CAD tools and chip design methodologies rather than pure software development.",
     "id": "7cb2d4af",
     "source": "linkedin_semi_india",
     "posted_date": "2023-04-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Design",
@@ -12522,13 +12514,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-design-at-micron-technology-4411377187",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Engineer, Design role at Micron Technology's Hyderabad office, which does not match the semiconductor/VLSI/EDA technical domain required.",
+    "reason": "The role is primarily verification (static and dynamic simulations, SPF extraction) which is outside Vineeth's domain.",
     "id": "182f3081",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer Design",
@@ -12536,14 +12527,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-design-at-micron-technology-4410855040",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of physical design and years of experience.",
+    "matches_requirements": "no",
+    "reason": "This role is more focused on block-level and sub-system level design, while Vineeth's background is in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
     "id": "aa061ec0",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-04-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology_staff_engineer_design_aa061ec0.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD Design Engineer",
