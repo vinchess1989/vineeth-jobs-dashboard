@@ -14614,13 +14614,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5308&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is focused on manufacturing engineering, not the specific semiconductor/VLSI/EDA roles and technical domains we are searching for.",
+    "reason": "This is a non-technical manufacturing engineering role focused on intelligent scheduling for TSMC's fabs, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, and EDA CAD.",
     "id": "d8fae1c4",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14629,13 +14628,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Scheduling-Engineer-IMC%2F5308",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located at TSMC's Hsinchu headquarters in Taiwan, which does not match the target locations of Finland, UK, India, Asia, USA with visa sponsorship.",
+    "reason": "This role is primarily software development (embedded firmware), which is outside Vineeth's domain.",
     "id": "5e3cb9f2",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon DFT Engineer, Cloud SIlicon",
@@ -14644,13 +14642,12 @@
     "url": "https://in.linkedin.com/jobs/view/silicon-dft-engineer-cloud-silicon-at-google-4430444013",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Test Engineer position, not specifically focusing on Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design areas which are the main target domains.",
+    "reason": "The role is primarily software development (e.g. scripting Python, Perl), which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "a28b7816",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ZENITH INFOTEK jobs in Santa Clara, CA",
@@ -14659,13 +14656,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-zenith-infotek-jobs-SRCH_IL.0,11_IC1147439_KO12,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Equipment Automation Engineer position at a semiconductor manufacturing company, which does not fit the desired technical roles in VLSI/EDA.",
+    "reason": "The role is software development focused, not semiconductor/VLSI/EDA.",
     "id": "12074322",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. ASIC DFT Engineer (Silicon)",
@@ -14674,13 +14670,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-asic-dft-engineer-silicon-spacex-JV_IC1139761_KO0,28_KE29,35.htm?jl=1010150289782",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC DFT Engineer, which does not match the target domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The role is primarily verification (UVM, testbench development), which is outside Vineeth's domain.",
     "id": "295c38e9",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "engineer jobs in Austin, TX",
@@ -14689,28 +14684,26 @@
     "url": "https://www.glassdoor.com/Job/austin-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,15.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a match based on domain/technical area requirements.",
+    "reason": "The job is located in Austin, TX, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia. It also doesn't fit other target criteria.",
     "id": "1bf5933b",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-09-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SpaceX jobs in Austin, TX",
-    "company": "Extract from page",
+    "company": "SpaceX",
     "location": "Austin, TX, USA",
     "url": "https://www.glassdoor.com/Job/austin-spacex-jobs-SRCH_IL.0,6_IC1139761_KO7,13.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role at semiconductor/VLSI/EDA company",
+    "reason": "The job posting URL appears to be a Glassdoor search result page for SpaceX jobs in Austin, TX, and does not contain an actual job description. It is likely a placeholder or index page.",
     "id": "7bf6eec2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Careers",
@@ -14719,13 +14712,12 @@
     "url": "https://www.glassdoor.com/Jobs/Glassdoor-Jobs-E100431.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The given job description does not contain a valid job posting, but instead appears to be related to security and access issues on the Glassdoor website.",
+    "reason": "No specific job details provided, only a general Glassdoor careers page link.",
     "id": "1d6c56e1",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Facility Engineer (FAC)",
@@ -14734,13 +14726,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19041&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Facility Engineer, which does not match our target technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "reason": "This is a non-technical facility engineer role focused on plant maintenance rather than semiconductor R&D, design, or engineering.",
     "id": "54b95056",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14749,13 +14740,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Facility-Engineer-FAC%2F19041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "The role is more focused on facility maintenance, logistics and operations rather than semiconductor engineering.",
     "id": "f639dcf0",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Facilities Technician / Betriebstechniker (Electrical Systems) (m/f/d)",
