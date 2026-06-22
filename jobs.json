@@ -67926,13 +67926,12 @@
     "url": "https://es.linkedin.com/jobs/view/research-software-engineer-%E2%80%94-differentiable-scientific-computing-jax-julia-at-axiomatic-ai-4426636355",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a Research Software Engineer focused on differentiable scientific computing, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily focused on software development (machine learning, numerical pipelines) rather than semiconductor/VLSI/EDA.",
     "id": "1688a04e",
     "source": "linkedin_eu_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Quality Engineer (f/m/d)",
@@ -67941,13 +67940,12 @@
     "url": "https://de.linkedin.com/jobs/view/design-quality-engineer-f-m-d-at-munich-electrification-4385477193",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Design Quality Engineer role at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The role is primarily focused on hardware design and quality assurance, while Vineeth's background is in power integrity, advanced packaging, and SoC PDN sign-off. There is no strong overlap between Vineeth's skills and the requirements of this role.",
     "id": "3cea7a24",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -67955,14 +67953,13 @@
     "location": "Vienna, Vienna, Austria",
     "url": "https://at.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339299550",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires experience with specific EDA tools like Primetime, StarRC, Genus, Innovus, Design Compiler, ICC/ICC2, FC, and Calibre which are not mentioned in the candidate's background.",
+    "matches_requirements": "yes",
+    "reason": "The role strongly matches Vineeth's domain of expertise with a focus on physical design.",
     "id": "98bed316",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__98bed316.txt"
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -67970,14 +67967,13 @@
     "location": "Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4340376285",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a Senior/Staff Silicon Physical Design Engineer at Axelera AI, which matches the target domain of Physical Design.",
+    "matches_requirements": "maybe",
+    "reason": "Senior/Staff-level physical design role at Axelera AI, with 10+ years of experience required.",
     "id": "d196b494",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2026-05-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__d196b494.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -67985,14 +67981,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339389479",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior role with leadership title at a semiconductor startup focused on AI, matching key skills in PI/SI and physical design.",
+    "matches_requirements": "maybe",
+    "reason": "Senior/Staff Silicon Physical Design Engineer role with 10+ years experience is a match for Vineeth's background, but the exact 10-year mark might be considered senior rather than mid-level.",
     "id": "8be8b1c4",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__8be8b1c4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -68000,14 +67995,13 @@
     "location": "Brussels, Brussels Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339369629",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior/Staff Silicon Physical Design Engineer role with 10+ years of experience, matching key requirements in domain and technical area.",
+    "matches_requirements": "no",
+    "reason": "The job is primarily verification focused (RTL/gate-level simulation, GDS integration) which is outside Vineeth's domain.",
     "id": "64a548db",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__64a548db.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer (Machine Learning)",
@@ -68016,13 +68010,12 @@
     "url": "https://ie.linkedin.com/jobs/view/staff-engineer-machine-learning-at-synopsys-inc-4383766756",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical software engineering role in AI/ML rather than specifically for semiconductor/VLSI/EDA technical positions.",
+    "reason": "The role is primarily software development (AI/ML engineer) rather than semiconductor/VLSI/EDA related.",
     "id": "885207cb",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronic Design Engineer",
@@ -68031,13 +68024,12 @@
     "url": "https://be.linkedin.com/jobs/view/electronic-design-engineer-at-vivid-resourcing-4405646292",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Kortrijk, Belgium and does not match the semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily focused on PCB design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "833fd7ef",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Transparency Manager",
@@ -68046,13 +68038,12 @@
     "url": "https://cz.linkedin.com/jobs/view/global-transparency-manager-at-abbvie-4425807316",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a Global Transparency Manager role in AbbVie's Compliance team, which does not match the VLSI/EDA/Semiconductor technical domain.",
+    "reason": "The role is non-technical, focused on corporate compliance and reporting, not semiconductor/VLSI/EDA engineering.",
     "id": "d4cc0140",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-14",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Technology Specialist - Power Platform",
@@ -68061,13 +68052,12 @@
     "url": "https://pl.linkedin.com/jobs/view/senior-technology-specialist-power-platform-at-the-heineken-company-4428715526",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Technology Specialist role in Power Platform, which does not match the target technical domains of Power Integrity/Signal Integrity (PI/SI), Advanced Packaging/Thermal, and CAD/Methodology.",
+    "reason": "The job is for a Power Platform specialist role, which focuses on governance, architecture and development using Microsoft tools like Power Apps, Power Automate, and Dataverse. This is outside Vineeth's domain of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal analysis, EDA/CAD tool integration and methodology automation, and SoC physical design.",
     "id": "b6ff718e",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Hardware Design Engineer",
