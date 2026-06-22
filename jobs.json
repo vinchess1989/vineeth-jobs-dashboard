@@ -40359,14 +40359,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/test-engineer-at-texas-instruments-india-4396305477",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a software test engineering position focused on TI's multiphase power controllers, not a role in semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "2536ced3",
     "source": "linkedin_semi_india",
-    "posted_date": "2026-05-26",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior System Integration Engineer - Test & Validation",
@@ -40375,13 +40374,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-system-integration-engineer-test-validation-halo-industries-JV_IC1147439_KO0,50_KE51,66.htm?jl=1010171845063",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior System Integration Engineer focused on test and validation, which does not directly match the key technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, or VLSI / SoC Design.",
+    "reason": "The role is software development focused (test & validation) and does not match Vineeth's domain of expertise in Power Integrity, Advanced Packaging, CAD/Methodology for VLSI/EDA.",
     "id": "6de238bd",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "integration engineer jobs in Santa Clara, CA",
@@ -40390,13 +40388,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-integration-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role with AWS, not semiconductor/VLSI/EDA related.",
+    "reason": "The job is for a non-technical role at Amazon - a software development position, not semiconductor/VLSI/EDA.",
     "id": "df903cba",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Halo Industries jobs in Santa Clara, CA",
@@ -40405,13 +40402,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-halo-industries-jobs-SRCH_IL.0,11_IC1147439_KO12,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Santa Clara, CA which requires US residency and does not mention visa sponsorship.",
+    "reason": "The job posting does not fit Vineeth's background and key skills",
     "id": "8e73a1d3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hookup CAD Assistant Engineer",
@@ -40420,13 +40416,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5314&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This entry-level CAD Assistant Engineer role does not match the senior technical leadership position requirements specified in the job search criteria.",
+    "reason": "The role is primarily CAD focused with responsibilities around 2D/3D Space Management and does not match Vineeth's domain of Power Integrity, Advanced Packaging.",
     "id": "076a699f",
     "source": "tsmc_careers",
     "posted_date": "2026-04-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -40434,14 +40429,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHookup-CAD-Assistant-Engineer%2F5314",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is not clearly within Vineeth's specified technical domains and does not have a clear deadline.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior CAD Assistant Engineer position at TSMC, fitting the target domain of Physical Design.",
     "id": "b6bce47a",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_b6bce47a.txt"
   },
   {
     "title": "EUV Mask BEOL R&D Engineer",
@@ -40450,13 +40444,12 @@
     "url": "https://www.glassdoor.com/job-listing/euv-mask-beol-rd-engineer-micron-technology-JV_IC1127927_KO0,25_KE26,43.htm?jl=1010170563749",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a BEOL R&D Engineer specializing in EUV mask technology, which does not align with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is for an EUV Mask BEOL Engineer, which is outside Vineeth's Power Integrity and Advanced Packaging domains.",
     "id": "4686161c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cybersecurity Solution Architect",
@@ -40465,28 +40458,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=20479&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cybersecurity Solution Architect role which does not match the technical domains of Power Integrity, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "This role is for a non-technical Cybersecurity Solution Architect position at a semiconductor company, which does not match Vineeth's VLSI/EDA background.",
     "id": "827224c6",
     "source": "tsmc_careers",
     "posted_date": "2026-05-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCybersecurity-Solution-Architect%2F20479",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting page, therefore it cannot be evaluated.",
+    "reason": "The job is for a non-technical cybersecurity solution architect role at a semiconductor company, which does not match Vineeth's technical background and expertise.",
     "id": "4a0b4f50",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Incoming Material Quality & Reliability Senior Engineer (m/f/d)",
@@ -40495,13 +40486,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18922&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a semiconductor manufacturing quality engineer position, which does not match the target VLSI/EDA technical areas.",
+    "reason": "The role is primarily focused on supplier management and quality assurance, which does not closely match Vineeth's power integrity & advanced packaging background. It is an outlier from his typical job domain.",
     "id": "4b1e6e70",
     "source": "tsmc_careers",
     "posted_date": "2026-03-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
