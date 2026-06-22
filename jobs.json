@@ -46996,13 +46996,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-product-development-commercialization-apc-a-novvia-group-company-at-novvia-group-4428742267",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for VP Product Development & Commercialization, which falls into the CAD/Methodology domain but does not directly match the semiconductor/VLSI/EDA field.",
+    "reason": "The error message indicates the page could not be processed, likely due to an invalid or non-existent URL. More information is needed to make a proper evaluation.",
     "id": "e96d51a0",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Designer [210661]",
@@ -47011,13 +47010,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-designer-210661-at-aquent-4424927774",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a temporary freelance packaging designer position at an agency, not a technical semiconductor/VLSI/EDA engineering job.",
+    "reason": "The role is for a Packaging Designer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "191cdba0",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Packaging Graphic Designer",
@@ -47026,13 +47024,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-packaging-graphic-designer-at-likely-inc-4426987227",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Packaging Graphic Designer, which does not match the Semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a packaging graphic designer, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "9bbf8128",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Engineer",
@@ -47040,14 +47037,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/senior-packaging-engineer-at-coka-4424946321",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a mechanical packaging engineering position, focused on connectors and physical assembly rather than semiconductor packaging, power integrity, CAD, EDA tools or SoC design.",
     "id": "23e3c8ba",
     "source": "linkedin_ww_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Plant Assistant",
@@ -47056,13 +47052,12 @@
     "url": "https://www.linkedin.com/jobs/view/plant-assistant-at-ipg-4428810108",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company.",
+    "reason": "The role is non-technical manufacturing support, not semiconductor/VLSI/EDA engineering.",
     "id": "b2cae08e",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Powder Packer",
@@ -47071,13 +47066,12 @@
     "url": "https://www.linkedin.com/jobs/view/powder-packer-at-u-s-silica-company-4420744033",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role in semiconductor/VLSI/EDA domain.",
+    "reason": "This Powder Packer role is for operating advanced packaging systems at a silica mining company, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
     "id": "800eb585",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2026-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Production Designer : 26-01567",
@@ -47086,13 +47080,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-production-designer-26-01567-at-akraya-inc-4422162911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a contract packaging production designer with expertise in Adobe Creative Suite applications, not related to VLSI/EDA semiconductor industry.",
+    "reason": "This role is for a packaging designer focused on print production and Adobe Creative Suite, while Vineeth's background is in Power Integrity, Advanced Packaging, and SoC Physical Design.",
     "id": "2f5a060f",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Engineer",
@@ -47100,14 +47093,13 @@
     "location": "Saratoga, CA",
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-engineer-at-eridu-4400525970",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "This role matches Vineeth's background and experience in Advanced Packaging, as well as being in the semiconductor industry.",
     "id": "c569a6b3",
     "source": "linkedin_ww_advanced_packaging_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-02",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/eridu_advanced_packaging_engineer_c569a6b3.txt"
   },
   {
     "title": "Creative Production + Packaging Designer",
@@ -47116,13 +47108,12 @@
     "url": "https://www.linkedin.com/jobs/view/creative-production-%2B-packaging-designer-at-solomon-page-4423198711",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contract position for graphic production, packaging design, and consumer products, which does not align with the semiconductor/VLSI/EDA industry expertise required.",
+    "reason": "The role is for a Creative Production + Packaging Designer, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and SoC Physical Design.",
     "id": "ae4d7c5c",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Engineer",
@@ -47131,13 +47122,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-packaging-engineer-at-proclinical-staffing-4417742383",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in packaging engineering for a healthcare company, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for a Senior Packaging Engineer specializing in innovation-focused R&D roles, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging. A leadership-level technical role in his domain would be more relevant.",
     "id": "c9fe5df7",
     "source": "linkedin_ww_advanced_packaging_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of PA Development",
