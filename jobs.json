@@ -50627,8 +50627,7 @@
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer (Security Operations, Zero Trust)",
@@ -50637,13 +50636,12 @@
     "url": "https://www.linkedin.com/jobs/view/security-engineer-security-operations-zero-trust-at-blackcloak-4387247009",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical security operations position focused on supporting corporate security, IT operations and compliance.",
+    "reason": "The job is for a Security Engineer position, which requires security clearance and is outside Vineeth's domain of expertise in Power Integrity, VLSI/EDA.",
     "id": "3f310a88",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2023-05-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Security Analyst",
@@ -50652,13 +50650,12 @@
     "url": "https://www.linkedin.com/jobs/view/network-security-analyst-at-cymertek-corporation-4264559724",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a TS/SCI full poly clearance which restricts to US citizens only.",
+    "reason": "The role requires a TS/SCI clearance, which restricts to US citizens only.",
     "id": "59577129",
     "source": "linkedin_ww_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-11-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Consultant",
@@ -50667,13 +50664,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-consultant-at-forerunner-4427689523",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a consulting position and does not match our technical requirements for semiconductor, VLSI, EDA experience.",
+    "reason": "This is a non-technical IT consulting role, outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "bf341b66",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CISO",
@@ -50682,13 +50678,12 @@
     "url": "https://www.linkedin.com/jobs/view/ciso-at-rain-4359483165",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a CISO position focused on security governance, risk management, and compliance strategy, rather than semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is a software development/engineering leadership position, not technical/technical leadership in semiconductor/VLSI/EDA.",
     "id": "e3805a68",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2023-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OT Cybersecurity Analyst",
@@ -50696,14 +50691,13 @@
     "location": "Homewood, IL",
     "url": "https://www.linkedin.com/jobs/view/ot-cybersecurity-analyst-at-lanco-group-of-companies-4410189833",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on operational technology (OT) cybersecurity, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "3c34c865",
     "source": "linkedin_ww_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Security Analyst",
@@ -50711,29 +50705,13 @@
     "location": "Reston, VA",
     "url": "https://www.linkedin.com/jobs/view/network-security-analyst-at-cymertek-corporation-4264560354",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "Requires TS/SCI clearance which restricts to US citizens only; role is in network security, outside Vineeth's domain of Power Integrity and Advanced Packaging",
     "id": "4538e2ff",
     "source": "linkedin_ww_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "InfoSec & IT Lead",
-    "company": "RevOptimal",
-    "location": "New Orleans, LA",
-    "url": "https://www.linkedin.com/jobs/view/infosec-it-lead-at-revoptimal-4361258367",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
-    "id": "cc91d3b9",
-    "source": "linkedin_ww_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT Consultant",
@@ -50742,28 +50720,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-consultant-at-forerunner-4427692531",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is IT consulting focused on automation, compliance and AI enablement in a remote OK/hybrid startup environment. It does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily IT operations, automation, security and compliance with some overlap in AI. It does not match Vineeth's focus on Power Integrity, Advanced Packaging, VLSI, EDA tools or SoC Physical Design.",
     "id": "d244a59e",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "OT SOC Detection Engineer",
-    "company": "CenterPoint Energy",
-    "location": "Houston, TX",
-    "url": "https://www.linkedin.com/jobs/view/ot-soc-detection-engineer-at-centerpoint-energy-4428255876",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
-    "id": "b49d6904",
-    "source": "linkedin_ww_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI SOC Engineer",
