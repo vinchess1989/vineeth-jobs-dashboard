@@ -34718,13 +34718,12 @@
     "url": "https://www.glassdoor.com/job-listing/process-engineer-ii-tok-JV_IC1151603_KO0,19_KE20,23.htm?jl=1010167548225",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Engineer II role, which does not match the technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership that we are targeting.",
+    "reason": "The role is a Process Engineer, which does not match Vineeth's background and domain expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
     "id": "e0311e59",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Hillsboro, OR",
@@ -34733,13 +34732,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-process-engineer-jobs-SRCH_IL.0,9_IC1151603_KO10,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role in semiconductor/VLSI/EDA domain",
+    "reason": "Non-technical role at a semiconductor company, not matching Vineeth's background",
     "id": "14b7a71e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "2026-12-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TOK jobs in Hillsboro, OR",
@@ -34748,13 +34746,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-tok-jobs-SRCH_IL.0,9_IC1151603_KO10,13.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is for a search results page with no specific company or location mentioned, making it ineligible based on the criteria.",
+    "reason": "The job is located in Hillsboro, OR, USA which does not match any of the preferred locations specified.",
     "id": "38ea02dd",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Audio HW Systems senior  EngineerHyderabad, Telangana, IndiaSystems EngineeringPosted 2 months ago",
@@ -34763,13 +34760,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446718020739?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Audio HW Systems Engineer, which does not match the specified technical domains of Power Integrity, Signal Integrity, Advanced Packaging, or CAD/Methodology.",
+    "reason": "The role is primarily software engineering focused on audio systems and interfaces, while Vineeth's background is in power integrity, packaging, and EDA CAD tools.",
     "id": "ae0c6a7e",
     "source": "qualcomm_careers",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automotive Audio Systems EngineerHyderabad, Telangana, IndiaSystems EngineeringPosted 16 days ago",
@@ -34778,13 +34774,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446718623077?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an engineer specializing in DSP algorithms and ML models for automotive audio systems, which does not directly align with the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is focused on DSP, ML for automotive audio systems rather than semiconductor VLSI/EDA.",
     "id": "0c225b24",
     "source": "qualcomm_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Audio Systems EngineerShanghai, Shanghai, ChinaSystems EngineeringPosted a day ago",
@@ -34793,13 +34788,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446719090098?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position focused on audio systems and AI-based voice processing, which does not fit the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is primarily software development (software engineer) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging.",
     "id": "6c408e1c",
     "source": "qualcomm_careers",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Engineer, Senior - Audio DSPHyderabad, Telangana, IndiaSoftware EngineeringPosted 16 days ago",
@@ -34808,13 +34802,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446717058536?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position focused on DSP/Audio rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is software engineering focused on DSP, with no specific overlap with Vineeth's power integrity, advanced packaging, or EDA expertise.",
     "id": "ffcc16df",
     "source": "qualcomm_careers",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead DPDK/SPDK Optimization Engineer",
@@ -34823,13 +34816,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/79810?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Linux systems engineer focused on DPDK optimization, which does not match the target domains of Power Integrity (PI), Advanced Packaging, or EDA tools.",
+    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
     "id": "54b9fd03",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. ASIC Design Engineer",
@@ -34838,13 +34830,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-asic-design-engineer-micron-technology-JV_IC1147436_KO0,23_KE24,41.htm?jl=1010160424780",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level ASIC Design Engineer with only 5-8 years experience required, whereas our target roles should match 10+ years for senior leadership.",
+    "reason": "The job is for an ASIC Design Engineer, which falls under general SoC/VLSI design and does not match Vineeth's Power Integrity (PI), Advanced Packaging, or CAD/Methodology specialties.",
     "id": "04fda708",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "asic engineer jobs in San Jose, CA",
@@ -34853,13 +34844,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-asic-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,22.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior ASIC Design Engineer, which doesn't match Vineeth's focus on Power Integrity and Advanced Packaging.",
+    "reason": "The job is located in Sunnyvale, CA, USA which does not match the specified location requirements of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also does not match India, Asia, fully remote worldwide, or US with visa sponsorship/relocation.",
     "id": "26b6c8d4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Micron Technology jobs in San Jose, CA",
