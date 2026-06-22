@@ -13927,29 +13927,27 @@
     "location": "Cape Canaveral, FL, USA",
     "url": "https://www.glassdoor.com/Job/cape-canaveral-lockheed-martin-jobs-SRCH_IL.0,14_IC1154280_KO15,30.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting is for non-technical roles at a semiconductor company, which is not aligned with our engineering/technical focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "6493528d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior Mechanical Engineer",
     "company": "Merck & Co., Inc.",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/senior-mechanical-engineer-merck-kgaa-JV_IC1147436_KO0,26_KE27,37.htm?jl=1010150617861",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mechanical engineering role focused on device packaging, not semiconductor VLSI EDA related.",
+    "reason": "Non-technical role at a semiconductor company",
     "id": "e1910a48",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "mechanical engineer jobs in San Jose, CA",
@@ -13958,13 +13956,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-mechanical-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical mechanical engineering role at a semiconductor company, which does not match the specified technical criteria.",
+    "reason": "This is a mechanical engineering role at a non-technical company, outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "f42070aa",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "San Jose, CA jobs",
@@ -13973,13 +13970,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-jobs-SRCH_IL.0,8_IC1147436.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL provided points to a generic San Jose, CA jobs search on Glassdoor, which does not contain specific job details that match the criteria. The listing is too broad and needs a more targeted job description.",
+    "reason": "The listing is for a generic search results page, not a specific job posting.",
     "id": "13ea0132",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Merck KGaA jobs in San Jose, CA",
@@ -13988,13 +13984,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-merck-kgaa-jobs-SRCH_IL.0,8_IC1147436_KO9,19.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a Merck KGaA position in San Jose, CA which does not match the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is an HR position, which is a hard rejection per the instructions.",
     "id": "c6b3fe7e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Mechanical Engineer, Building Design Facilities",
@@ -14003,13 +13998,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-mechanical-engineer-building-design-facilities-tesla-JV_IC1149628_KO0,49_KE50,55.htm?jl=1010163169794",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Engineer position, which does not match the technical domains of Power Integrity/SI, Advanced Packaging/Thermal, CAD Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership. It falls outside our target areas.",
+    "reason": "The role is primarily focused on building design for Tesla's facilities, which does not match Vineeth's domain of expertise in semiconductor/VLSI/EDA. It involves mechanical engineering rather than electronic design.",
     "id": "108d4280",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "mechanical engineer jobs in Sparks, NV",
@@ -14018,13 +14012,12 @@
     "url": "https://www.glassdoor.com/Job/sparks-mechanical-engineer-jobs-SRCH_IL.0,6_IC1149628_KO7,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a semiconductor company and does not match our technical job requirements.",
+    "reason": "The job is for a mechanical engineer, which does not match Vineeth's electrical engineering and EDA software tool expertise.",
     "id": "96ab9385",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sparks, NV jobs",
@@ -14033,13 +14026,12 @@
     "url": "https://www.glassdoor.com/Job/sparks-jobs-SRCH_IL.0,6_IC1149628.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a specific job posting, but rather to a search results page for jobs in Sparks, NV. This does not allow me to evaluate if it matches the criteria for semiconductor/VLSI/EDA roles.",
+    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which is not within Vineeth's engineering domain.",
     "id": "babbb5ac",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Tesla jobs in Sparks, NV",
@@ -14048,13 +14040,12 @@
     "url": "https://www.glassdoor.com/Job/sparks-tesla-jobs-SRCH_IL.0,6_IC1149628_KO7,12.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for non-technical roles at Tesla and requires specific US-based residency which violates the hard rejection criteria.",
+    "reason": "The job is located in Sparks, NV, USA which does not match the specified locations of Finland, Europe, UK, England, Scotland, Ireland, India, Asia, Fully Remote with worldwide eligibility.",
     "id": "e45f58bb",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Module Process Engineer, Terafab",
@@ -14063,13 +14054,12 @@
     "url": "https://www.glassdoor.com/job-listing/module-process-engineer-terafab-tesla-JV_IC1139761_KO0,31_KE32,37.htm?jl=1010158197911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role for Tesla's Terafab module, which does not match our target domains in semiconductor/VLSI/EDA.",
+    "reason": "The job is primarily focused on module fabrication process engineering, which does not match Vineeth's domain of Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "a0b6461a",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Austin, TX",
