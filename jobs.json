@@ -44778,34 +44778,18 @@
     "description_file": null
   },
   {
-    "title": "Principal Signal and Power Integrity Engineer",
-    "company": "Microsoft",
-    "location": "Raleigh, NC",
-    "url": "https://www.linkedin.com/jobs/view/principal-signal-and-power-integrity-engineer-at-microsoft-4422944573",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is located in Raleigh, NC, USA which does not match the priority regions of Finland, Europe (outside Finland), UK, India or Asia.",
-    "id": "1b5b2666",
-    "source": "linkedin_ww_power_integrity",
-    "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Signal Integrity/Power Integrity Principal Engineer",
     "company": "Marvell Technology",
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-power-integrity-principal-engineer-at-marvell-technology-4411560731",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is at a semiconductor company, but for a non-technical HR position.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Principal Engineer position within Power Integrity / Signal Integrity, aligning with Vineeth's background and experience. It requires strong expertise in high-speed interfaces, SI/PI tools, and cross-domain issues resolution.",
     "id": "1ab10063",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/marvell_technology_signal_integrity_power_integri_1ab10063.txt"
   },
   {
     "title": "Senior Signal/Power Integrity Engineer",
@@ -44814,13 +44798,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-signal-power-integrity-engineer-at-lyte-4420907442",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires 8 years of experience, which is less than the preferred minimum of 10-15 years. Also, it's located in Sunnyvale, CA, USA which does not match the target locations.",
+    "reason": "The job is based in Sunnyvale, CA which does not match Vineeth's preferred locations.",
     "id": "f40e0af0",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief of Staff - Power",
@@ -44828,14 +44811,13 @@
     "location": "Denver, CO",
     "url": "https://www.linkedin.com/jobs/view/chief-of-staff-power-at-bkv-corporation-4418182343",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is non-technical (Strategic Planning Manager) and not in semiconductor/VLSI/EDA domain",
     "id": "6576f561",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Data Analyst",
@@ -44844,13 +44826,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-helic-co-4431316944",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical junior data analyst role at a software company, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a non-technical Junior Data Analyst position, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "396d754b",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Power Integrity (PI) Analysis Engineer",
@@ -44858,14 +44839,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/senior-power-integrity-pi-analysis-engineer-at-mediatek-4426171181",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (power electronics engineer) which is outside Vineeth's domain.",
     "id": "dc72be7a",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager- Inventory & Data Analyst",
@@ -44874,13 +44854,12 @@
     "url": "https://www.linkedin.com/jobs/view/manager-inventory-data-analyst-at-greenology-products-llc-4429540131",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Inventory & Data Analyst, which is a non-technical business/operations position at a consumer products company, not an engineering/technical role in semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical inventory & data analyst role, not related to semiconductor/VLSI/EDA.",
     "id": "7ee09115",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-06-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Data Analyst II",
@@ -44889,13 +44868,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-electrosoft-4427022696",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a data analyst role, not related to VLSI/EDA/semiconductor domain.",
+    "reason": "The role is non-technical, focused on data analysis and coordination for a cybersecurity program at Electrosoft, which does not match Vineeth's domain in semiconductor/VLSI/EDA.",
     "id": "04de87e0",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PLI Project Lead",
@@ -44904,13 +44882,12 @@
     "url": "https://www.linkedin.com/jobs/view/pli-project-lead-at-acuren-4426830904",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires different technical skills (inspection, safety) than our VLSI/EDA focus area.",
+    "reason": "The role is non-technical, focusing on project management and not related to semiconductor/VLSI/EDA.",
     "id": "5565dade",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP of Engineering - Power Management",
@@ -44918,14 +44895,13 @@
     "location": "Tampa, FL",
     "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-power-management-at-integrated-power-services-4426003358",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily for a VP of engineering in the power management division, which is a leadership position focusing on business operations and growth rather than technical semiconductor/VLSI/EDA domain expertise. Vineeth's background is in power integrity, packaging, SoC PDN sign-off, CAD methodology, etc., not general power systems or engineering leadership.",
     "id": "3d6eea5f",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer",
