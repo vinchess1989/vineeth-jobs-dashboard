@@ -61024,13 +61024,12 @@
     "url": "https://it.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430117265",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain/technical area, senior level experience, European location.",
+    "reason": "Matches senior engineering role with experience in power delivery, PDN analysis and advanced packaging",
     "id": "1aad16cb",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_1aad16cb.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_1aad16cb.txt"
   },
   {
     "title": "Senior NPI Packaging Engineer",
@@ -61038,14 +61037,13 @@
     "location": "European Union",
     "url": "https://www.linkedin.com/jobs/view/senior-npi-packaging-engineer-at-ic-resources-4427980021",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior NPI Packaging Engineer role matches the advanced packaging technical domain and senior experience level criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is for a mid-level Senior NPI Packaging Engineer, not matching Vineeth's 15+ years experience level. Also, it does not clearly state a match with his power integrity background.",
     "id": "0cb08e6a",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ic_resources_senior_npi_packaging_engineer_0cb08e6a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MMIC Design Manager",
@@ -61053,14 +61051,13 @@
     "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/mmic-design-manager-at-ic-resources-4423396394",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches technical domain for MMIC/RF design leadership, but role is more general 'Design Manager' than specifically PI/SI which is our highest priority. Also in Germany, not one of our top location priorities.",
+    "matches_requirements": "no",
+    "reason": "The role specifically requires experience in RF/mmWave design, GaAs/GaN/InP technologies and IC/package integration. Vineeth's background is mainly in power integrity (PI), advanced packaging and SoC PDN sign-off.",
     "id": "ac2146d8",
     "source": "linkedin_eu_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "10t23:59:00z",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Project Mechanical Assembler",
@@ -61069,13 +61066,12 @@
     "url": "https://nl.linkedin.com/jobs/view/project-mechanical-assembler-at-mpac-group-4430020044",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for mechanical assembly of packaging machines, not semiconductor VLSI/EDA roles.",
+    "reason": "This mechanical assembly role is outside Vineeth's semiconductor/VLSI/EDA technical domain and experience.",
     "id": "3bab6a53",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Technician/Polymer Plastics",
@@ -61084,13 +61080,12 @@
     "url": "https://ie.linkedin.com/jobs/view/process-technician-polymer-plastics-at-lindal-group-4411380355",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for Process Technician/Polymer Plastics, not related to semiconductor/VLSI/EDA industry.",
+    "reason": "This is a manufacturing process technician role for injection molding, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "f41a2349",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Global Product Manager",
@@ -61099,13 +61094,12 @@
     "url": "https://it.linkedin.com/jobs/view/global-product-manager-at-trimas-packaging-4425786503",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a non-technical marketing role, not engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "This is a marketing/sales role focused on global product management for packaging, which does not match Vineeth's technical background in power integrity and VLSI design.",
     "id": "b058b6a8",
     "source": "linkedin_eu_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Packaging Designer",
@@ -61114,13 +61108,12 @@
     "url": "https://cz.linkedin.com/jobs/view/packaging-designer-at-vilgain-4420947463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a food packaging designer, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for a food product packaging designer, not a semiconductor/VLSI/EDA technical position.",
     "id": "6d402f5b",
     "source": "linkedin_eu_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. RF/mmWave IC & SiP Design & Line Manager",
@@ -61128,14 +61121,13 @@
     "location": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/sr-rf-mmwave-ic-sip-design-line-manager-at-keysight-technologies-4419295638",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a non-technical management role at a semiconductor company, which does not match our requirements.",
+    "matches_requirements": "yes",
+    "reason": "Matches senior leadership role in semiconductor engineering with good domain overlap on RF/mmWave IC & SiP, though not a direct technical match for Vineeth's exact Power Integrity/PI background.",
     "id": "2671dc05",
     "source": "linkedin_eu_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-09",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/keysight_technologie_sr__rf_mmwave_ic___sip_design__2671dc05.txt"
   },
   {
     "title": "Advanced Manufacturing Lead",
@@ -61144,13 +61136,12 @@
     "url": "https://uk.linkedin.com/jobs/view/advanced-manufacturing-lead-at-hdr-4395420443",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing leadership position focusing on project management, not related to VLSI/EDA/semiconductor domains.",
+    "reason": "The role is primarily about project management, architecture & construction and does not fit a semiconductor/VLSI/EDA technical background.",
     "id": "30b2aa56",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Forklift Driver",
@@ -61159,13 +61150,12 @@
     "url": "https://uk.linkedin.com/jobs/view/forklift-driver-at-shotton-mill-limited-4423655398",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a forklift driver in a paper manufacturing facility, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is for a forklift driver, which does not match Vineeth's technical VLSI/EDA background.",
     "id": "e5ba4663",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Manufacturing Lead",
