@@ -30490,13 +30490,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-applications-engineer-%E2%80%93-americas-at-cml-micro-4416604513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical sales position, not an engineering or technical leadership role in the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is customer-facing sales and applications engineering for RFIC products, which does not directly match Vineeth's domain of Power Integrity (PI) / Advanced Packaging / Thermal.",
     "id": "703598a2",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior NPI/Manufacturing Engineer",
@@ -30505,13 +30504,12 @@
     "url": "https://uk.linkedin.com/jobs/view/junior-npi-manufacturing-engineer-at-infinitesima-4388554444",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a junior NPI/Manufacturing Engineer focused on product assembly and documentation, not in our VLSI/EDA technical domains.",
+    "reason": "The role is non-technical production engineering focused on robotics and product assembly, which doesn't match Vineeth's semiconductor/VLSI/EDA background in Power Integrity, advanced packaging, EDA tools and methodologies.",
     "id": "8bba8d50",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer - Freelance AI Trainer",
@@ -30520,13 +30518,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-freelance-ai-trainer-at-mindrift-4426750472",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a freelance AI trainer in optics and physics, unrelated to semiconductor/VLSI/EDA work.",
+    "reason": "The role is a freelance AI problem designer for physics simulations, which does not match Vineeth's semiconductor/VLSI/EDA background in power integrity, advanced packaging, and CAD.",
     "id": "eef4c452",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Application Engineer",
@@ -30534,14 +30531,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/sr-application-engineer-at-renesas-electronics-4420422475",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This Sr Application Engineer role is a strong match based on the candidate's background and required technical skills in mixed-signal IC evaluations, design-in and ramp support.",
+    "matches_requirements": "no",
+    "reason": "The role is a general Applications Engineer position, focused on customer support and design-in phases. It does not strongly match Vineeth's specific expertise in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or related CAD methodology.",
     "id": "f74c3486",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-10",
     "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_sr_application_engineer_f74c3486.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer - Freelance AI Trainer",
@@ -30550,13 +30546,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-freelance-ai-trainer-at-mindrift-4426746590",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a freelance AI training position focused on physics problem design, not a semiconductor/VLSI/EDA technical role.",
+    "reason": "This is a freelance AI training role for optical physics problems, not related to semiconductor/VLSI/EDA domains.",
     "id": "3c8e664e",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Quality Manager",
@@ -30565,13 +30560,12 @@
     "url": "https://uk.linkedin.com/jobs/view/quality-manager-at-forefront-rf-4428805992",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Quality Manager position at a semiconductor company, but does not fit the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology etc.",
+    "reason": "This role is a Quality Manager position focused on semiconductor manufacturing quality processes, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off.",
     "id": "8fe69c9d",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -30580,13 +30574,12 @@
     "url": "https://fi.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430111734",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain/technical area, senior role with 15+ years of experience.",
+    "reason": "Senior engineer role with 15+ years experience in Power Integrity and Advanced Packaging, matches target domains.",
     "id": "d925410a",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_d925410a.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_d925410a.txt"
   },
   {
     "title": "Manager, MEMS Engineering",
@@ -30594,14 +30587,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/manager-mems-engineering-at-sitime-4344812673",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with 5+ years experience required, but some technical details missing",
+    "matches_requirements": "no",
+    "reason": "The role is a MEMS engineering team lead, outside Vineeth's focus on power integrity, packaging and CAD.",
     "id": "90f482ea",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "2 viikkoa sitten",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Optical Engineer",
@@ -30610,13 +30602,12 @@
     "url": "https://fi.linkedin.com/jobs/view/optical-engineer-at-methode-electronics-4414680424",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an optical engineer focused on automotive lighting systems, which does not match the Power Integrity/SI/CAD VLSI domains.",
+    "reason": "Not a semiconductor/VLSI/EDA technical role, and not in Finland or India.",
     "id": "a723a093",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-05-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Two R&D Engineers",
@@ -30624,14 +30615,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/two-r-d-engineers-at-aalto-university-4425263617",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The roles are R&D Engineer positions related to SPM instrumentation and semiconductor device physics, with potential startup co-founder possibilities after an initial project phase. The skills match VLSI/EDA domains but it's not clear if they align directly with the candidate's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The job is for general R&D engineers, not specialized in semiconductor/VLSI/EDA domain that Vineeth Prathapachandra Kaimal has expertise in.",
     "id": "3cba9260",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
