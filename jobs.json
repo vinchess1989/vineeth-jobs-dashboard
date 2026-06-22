@@ -43538,13 +43538,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-engineer-electronics-at-silitalent-4431343350",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an engineering position at a staffing company, not directly related to semiconductor/VLSI/EDA.",
+    "reason": "This is a manufacturing engineering role, not VLSI/EDA/Semiconductor.",
     "id": "e1e573a0",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing System Engineer",
@@ -43553,13 +43552,12 @@
     "url": "https://in.linkedin.com/jobs/view/manufacturing-system-engineer-at-tata-electronics-4422288478",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Associate-level manufacturing systems engineer position, which does not match the senior technical leadership roles in Power Integrity and Advanced Packaging that Vineeth has.",
+    "reason": "Not a semiconductor/VLSI/EDA role, manufacturing systems engineering for electronics company",
     "id": "4e32ac8e",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Digital Design Engineer",
@@ -43568,13 +43566,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-digital-design-engineer-at-larsen-toubro-4365517582",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Digital Design Engineer, which does not match the candidate's background in Power Integrity, Advanced Packaging, and SoC PDN Sign-off.",
+    "reason": "This RTL Digital Design Engineer role at Larsen & Toubro is focused on analog mixed signal IP/IC design and integration, which does not match Vineeth's power integrity (PI) and advanced packaging background.",
     "id": "b24ca433",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Digital Design Engineer for analog mixed signal IP/IC.",
@@ -43583,13 +43580,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-digital-design-engineer-for-analog-mixed-signal-ip-ic-at-larsen-toubro-4365528024",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level engineering position focused on analog mixed signal IP/IC design, which does not match the senior leadership technical roles in Power Integrity and Advanced Packaging sought by this candidate.",
+    "reason": "The role is primarily digital design for analog mixed signal IP/IC, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
     "id": "52188ef3",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Manager, AI Market Analytics",
@@ -43598,13 +43594,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18714&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI Market Analytics technical manager, not a semiconductor/EDA/VLSI engineering position.",
+    "reason": "The role is a business analytics position focused on AI demand forecasting and market analysis, which does not directly align with Vineeth's technical expertise in power integrity, advanced packaging, and SoC design.",
     "id": "9400117b",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -43613,13 +43608,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTechnical-Manager-AI-Market-Analytics%2F18714",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role, which does not match our engineering/technical position focus.",
+    "reason": "The role is for a Technical Manager in AI Market Analytics, which does not match Vineeth's technical background and areas of expertise.",
     "id": "e14eb996",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Architect",
@@ -43628,13 +43622,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-design-architect-at-oho-group-4430340299",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a senior SoC design architect focused on AI acceleration systems, which does not directly match the technical areas we are looking for (Power Integrity/Advanced Packaging/CAD/Methodology).",
+    "reason": "The role is primarily software development (HW/SW co-optimization for AI workloads), which is outside Vineeth's domain.",
     "id": "428d767c",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -43643,13 +43636,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4430341228",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a founding design engineer at a startup, which does not match the VLSI/EDA semiconductor job requirements.",
+    "reason": "This is a founding engineering position at a startup with no clear fit to Vineeth's specific semiconductor/VLSI/EDA background and experience.",
     "id": "f0ee73cd",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal DRAM Design Engineer",
@@ -43658,13 +43650,12 @@
     "url": "https://www.glassdoor.com/job-listing/principal-dram-design-engineer-micron-technology-JV_IC1127927_KO0,30_KE31,48.htm?jl=1010172694666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires DRAM design experience which is not a primary focus of the candidate's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on DRAM design, which falls outside Vineeth's main areas of Power Integrity, Advanced Packaging and CAD/Methodology.",
     "id": "b5d87c0a",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Total Product Support Engineer",
@@ -43673,13 +43664,12 @@
     "url": "https://fi.linkedin.com/jobs/view/total-product-support-engineer-at-beneq-4415790323",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is a non-technical role in product support, not an engineering/technical position in semiconductor/VLSI/EDA. It does not match our job search requirements.",
+    "reason": "The role is for a Technical Support Engineer, which falls outside Vineeth's domain of expertise in Power Integrity and VLSI.",
     "id": "c6f671e2",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Operator",
