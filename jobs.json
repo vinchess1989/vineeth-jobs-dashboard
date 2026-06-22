@@ -50062,13 +50062,12 @@
     "url": "https://uk.linkedin.com/jobs/view/events-influencer-executive-at-skin-cupid-4428646539",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for events, influencer management and marketing in the beauty industry, not related to semiconductor/VLSI/EDA fields.",
+    "reason": "The role is a marketing position focused on events and influencer partnerships, which does not match Vineeth's technical background in power integrity, advanced packaging, VLSI design, or EDA tools.",
     "id": "84d49a49",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Design Engineer",
@@ -50076,14 +50075,13 @@
     "location": "High Peak, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/mechanical-design-engineer-at-filtronic-4417394343",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a Mechanical Design Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging and CAD.",
     "id": "a65ae962",
     "source": "linkedin_uk_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Design Engineer",
@@ -50092,13 +50090,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mechanical-design-engineer-at-filtronic-4417403104",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Design Engineer role at Filtronic, which does not match the Semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is for a Mechanical Design Engineer, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "4bbfc31e",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Design Engineer",
@@ -50107,13 +50104,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mechanical-design-engineer-at-filtronic-4417394359",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Design Engineer, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a Mechanical Design Engineer focused on RF and microwave product design, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "1ea345c7",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Solution Architect - Physical AI, Medical and Surgical Robotics",
@@ -50121,14 +50117,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-solution-architect-physical-ai-medical-and-surgical-robotics-at-nvidia-4418530230",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on software development, AI applications and robotics rather than semiconductor/EDA/VLSI technical domains.",
     "id": "95a0e0bc",
     "source": "linkedin_uk_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -50137,13 +50132,12 @@
     "url": "https://uk.linkedin.com/jobs/view/physical-design-engineer-at-fractile-4430472208",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level physical design engineer position which matches Vineeth's background.",
+    "reason": "The role is in Physical Design, which matches Vineeth's background in Power Integrity and Packaging.",
     "id": "05e25212",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/fractile_physical_design_engineer_05e25212.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/fractile_physical_design_engineer_05e25212.txt"
   },
   {
     "title": "Research & Technology Scientist / Engineer",
@@ -50152,13 +50146,12 @@
     "url": "https://uk.linkedin.com/jobs/view/research-technology-scientist-engineer-at-terry-parris-associates-ltd-4429667248",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a scientist or engineer focused on advanced materials and technology development, not semiconductor VLSI EDA.",
+    "reason": "This position is for a research scientist/engineer role focused on advanced materials, metallurgy and additive manufacturing, which does not match Vineeth's power integrity, packaging, SoC design background.",
     "id": "1ccb480d",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -50167,13 +50160,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4340785666",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the key skills required, experience level, and technical domain for a Senior/Staff Silicon Physical Design Engineer.",
+    "reason": "Matches target domain of Physical Design with SoC experience, and seniority level.",
     "id": "8c6da2fa",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-05-15",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__8c6da2fa.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__8c6da2fa.txt"
   },
   {
     "title": "Security Services Group (SSG) - Commercial Officer",
@@ -50181,14 +50173,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/security-services-group-ssg-commercial-officer-at-uk-ministry-of-defence-4425268439",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily a non-technical commercial officer position focused on sales, contract negotiations and procurement in security services, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "e4384016",
     "source": "linkedin_uk_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Analog and RF Designer \u2013 Cambridge, UK",
@@ -50197,13 +50188,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-analog-and-rf-designer-%E2%80%93-cambridge-uk-at-palma-ceia-semidesign-4366647299",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Analog and RF Designer, which does not match the candidate's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is focused on analog/RF IC design for SoCs, which falls outside Vineeth's core power integrity and advanced packaging expertise.",
     "id": "a16395d2",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-04-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
