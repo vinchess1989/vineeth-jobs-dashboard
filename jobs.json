@@ -46155,14 +46155,13 @@
     "location": "Delft, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/hardware-validation-engineer-at-qblox-4431119370",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Python for testing and data analysis) and does not fit Vineeth's VLSI/EDA background.",
     "id": "d6bd916c",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-15",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT Specialist - Domes Aulus Zante",
@@ -46171,13 +46170,12 @@
     "url": "https://gr.linkedin.com/jobs/view/it-specialist-domes-aulus-zante-at-domes-resorts-4388362140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT Specialist role in hospitality, which does not match the semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is a general IT Specialist focused on guest experiences and operations, with no mention of semiconductor/EDA/VLSI expertise in power integrity, packaging, CAD tools etc. that Vineeth has.",
     "id": "0b8d05af",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCBA Design Engineer",
@@ -46185,14 +46183,13 @@
     "location": "North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/pcba-design-engineer-at-trinamics-4429976143",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is located in North Brabant, Netherlands, which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India, or Asia. Also, it does not clearly fit any of the technical domains Vineeth specializes in.",
     "id": "1b1b2b9c",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Signal/Power Integrity Engineer",
@@ -46201,13 +46198,12 @@
     "url": "https://ro.linkedin.com/jobs/view/senior-signal-power-integrity-engineer-at-lyte-4408732760",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior level role, 8+ years experience required, good match for senior engineering leadership in semiconductor industry.",
+    "reason": "Senior role in Power Integrity with experience in SIwave, SI/PI engineering for high-speed designs matches key skills and domain. Based in Bucharest, Romania.",
     "id": "0952af65",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/lyte_senior_signal_power_integrity__0952af65.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/lyte_senior_signal_power_integrity__0952af65.txt"
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -46216,13 +46212,12 @@
     "url": "https://nl.linkedin.com/jobs/view/senior-physical-design-engineer-at-ic-resources-4424188085",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role matches with the target domain of Physical Design.",
+    "reason": "Senior Physical Design Engineer role, close match to Vineeth's experience and key skills.",
     "id": "d6a142a9",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ic_resources_senior_physical_design_enginee_d6a142a9.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/ic_resources_senior_physical_design_enginee_d6a142a9.txt"
   },
   {
     "title": "Excel Specialist",
@@ -46231,13 +46226,12 @@
     "url": "https://pt.linkedin.com/jobs/view/excel-specialist-at-odixcity-consulting-4429134658",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Excel Specialist role at a consulting company, which does not match our semiconductor/VLSI/EDA job requirements.",
+    "reason": "This Excel Specialist role is for data analysis and spreadsheet management, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "dc391204",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Integrity Engineer",
@@ -46246,13 +46240,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-integrity-engineer-at-graphcore-4414712664",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level Power Integrity Engineer, requiring experience with PI simulation tools and practical design improvements. It fits the target domain of Power Integrity.",
+    "reason": "Power Integrity Engineer role with experience using PI simulation tools and driving practical design improvements matches target domain of Power Integrity / Signal Integrity.",
     "id": "a02a7676",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/graphcore_power_integrity_engineer_a02a7676.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/graphcore_power_integrity_engineer_a02a7676.txt"
   },
   {
     "title": "GPU Electrical Analysis Engineer",
@@ -46261,13 +46254,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gpu-electrical-analysis-engineer-at-apple-4414159657",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a GPU Electrical Analysis Engineer, which does not directly match the VLSI/EDA technical domains of Power Integrity, CAD Methodology, Physical Design, or EDA Tools that Vineeth's background aligns with.",
+    "reason": "The role is primarily focused on GPU electrical analysis, which is outside Vineeth's domain of Power Integrity (PI) and Advanced Packaging. It also does not match his key skills with tools like ANSYS RedHawk.",
     "id": "1e54ee7c",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Electrical Analysis Engineer",
@@ -46275,14 +46267,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-electrical-analysis-engineer-at-apple-4414173034",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical leadership position at an Apple semiconductor design site that aligns with Vineeth's background in power integrity and advanced packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is for a GPU Electrical Analysis Engineer at Apple, which falls under RTL/gate-level simulation and is outside Vineeth's domain.",
     "id": "56a110f4",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_gpu_electrical_analysis_engine_56a110f4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity Engineer",
@@ -46291,13 +46282,12 @@
     "url": "https://uk.linkedin.com/jobs/view/signal-integrity-engineer-at-graphcore-4414707990",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job is located in London, England, UK and requires strong signal and power integrity expertise using tools like ANSYS SIwave. This matches the candidate profile.",
+    "reason": "Strong SI/PI focus with high-speed digital interfaces, excellent match for Vineeth's background.",
     "id": "419da758",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-04-11",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/graphcore_signal_integrity_engineer_419da758.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/graphcore_signal_integrity_engineer_419da758.txt"
   },
   {
     "title": "Higher Engineer",
