@@ -20857,14 +20857,13 @@
     "location": "Bangalore Rural, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/standard-cell-characterization-engineer-at-acl-digital-4418577452",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Standard Cell Characterization Engineer with 3-6 years of experience, fitting the technical domain requirements. The job is located in Bangalore Rural, Karnataka, India.",
+    "matches_requirements": "no",
+    "reason": "The role is for Standard Cell Characterization Engineer, which falls under Logic Design and not Power Integrity/Advanced Packaging.",
     "id": "83ca403b",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": "job_descriptions/acl_digital_standard_cell_characterization_83ca403b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer - Low Power Design",
@@ -20872,14 +20871,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-low-power-design-at-ibm-4417943827",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills, senior level, and semiconductor domain.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily low-power VLSI/SoC physical design which is outside Vineeth's main domain of power integrity, thermal, and CAD automation. It has some overlap with his expertise but doesn't match his core technical focus areas.",
     "id": "03b2ddd8",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ibm_physical_design_engineer___low_03b2ddd8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer/layout Engineer, Memory CAD, GuadalajaraTlaquepaque, Jalisco, MexicoPosted 23 days ago",
@@ -20887,14 +20885,13 @@
     "location": "Guadalajara, Jalisco, Mexico",
     "url": "https://micron.eightfold.ai/careers/job/42021274",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's background with experience in CAD, software development, and memory design. The location is in Guadalajara, Mexico.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on layout design, utilities and automation scripts rather than power integrity or advanced packaging.",
     "id": "fcfaa71d",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology_sr_engineer_layout_engineer__m_fcfaa71d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design ENgineer II",
@@ -20903,13 +20900,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-ii-at-cadence-4425824450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level Design Engineer II position with 2-5 years of experience, which does not match the senior leadership technical roles and domain-specific expertise we are targeting.",
+    "reason": "The role is primarily software development (embedded SW engineer) which is outside Vineeth's domain.",
     "id": "1991b744",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IBM LOGIC DESIGN ENGINEER - CORE",
@@ -20917,14 +20913,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ibm-logic-design-engineer-core-at-ibm-4419253092",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior logic design engineer position with 4+ years experience, which is within the candidate's technical background and job search criteria.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on RTL design for a CPU, which falls more into VLSI/SoC Design and does not match Vineeth's key skills in Power Integrity and Advanced Packaging.",
     "id": "4b608e7f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-04-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ibm_ibm_logic_design_engineer___co_4b608e7f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer Design",
@@ -20932,14 +20927,13 @@
     "location": "Bengaluru East, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-design-at-infineon-technologies-4414205056",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role matches a senior engineering position with 8+ years experience, but does not specify semiconductor/EDA/VLSI domain.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on digital design for ASICs and SoCs, which does not strongly match Vineeth's background in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "7bf78bd9",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Chip Lead",
@@ -20948,13 +20942,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-chip-lead-at-texas-instruments-india-4410491544",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain, experience level, and location criteria for a semiconductor SoC design leadership role at an India-based TI subsidiary.",
+    "reason": "Highly matches Vineeth's power integrity, packaging expertise with leadership role at semiconductor company in India",
     "id": "9baaa1f3",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_in_soc_chip_lead_9baaa1f3.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/texas_instruments_in_soc_chip_lead_9baaa1f3.txt"
   },
   {
     "title": "Static Timing Analysis (STA)",
@@ -20963,13 +20956,12 @@
     "url": "https://in.linkedin.com/jobs/view/static-timing-analysis-sta-at-capgemini-4419842200",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mid-level role at an IT services company rather than a semiconductor/EDA engineering position.",
+    "reason": "This STA role is more focused on traditional EDA tool usage and IC design, rather than Vineeth's key areas of Power Integrity, Advanced Packaging, and CAD methodology.",
     "id": "b760617d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -20977,14 +20969,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/digital-design-engineer-at-texas-instruments-india-4382815061",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches domain with 3-5 years of RTL design experience.",
+    "matches_requirements": "no",
+    "reason": "This is an RTL Design Engineer role, which focuses on digital logic and verification rather than power integrity or packaging. Vineeth's background is in PI and advanced packaging.",
     "id": "e7b0aa44",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -20993,13 +20984,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-lattice-semiconductor-4429132222",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate should have experience with ANSYS RedHawk and Cadence Voltus tools which are critical for this role, but they are not mentioned in the job description.",
+    "reason": "The role is for an ASIC Design Engineer at Lattice Semiconductor, which does not closely match Vineeth's background in Power Integrity & Advanced Packaging.",
     "id": "cc56904e",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer \u2013 Chip Design Front End",
