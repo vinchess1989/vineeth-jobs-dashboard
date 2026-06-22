@@ -3875,14 +3875,13 @@
     "location": "Phoenix, AZ",
     "url": "https://www.linkedin.com/jobs/view/design-automation-engineer-tfm-eda-at-intel-4424472929",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The candidate profile matches 10-15+ years of experience but this role is for a less senior 'Senior Software Engineer' position with only 3+ years' experience required.",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's background in Power Integrity and Advanced Packaging, with specific mention of EDA tool support for Intel's PDK.",
     "id": "59b78cb8",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/intel_design_automation_engineer__tf_59b78cb8.txt"
   },
   {
     "title": "Senior Design Automation Engineer, Applied AI",
@@ -3891,13 +3890,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-design-automation-engineer-applied-ai-at-nvidia-4395483236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Senior Design Automation Engineer role for AI and ML in design automation, not focused on semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily software development (AI/ML solution development) which is outside Vineeth's domain.",
     "id": "d2efa2e6",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT/EDA Engineer",
@@ -3906,13 +3904,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-eda-engineer-at-falcomm-4384881232",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mix of IT infrastructure management and EDA tool support, not focused enough on power integrity / VLSI engineering.",
+    "reason": "The role is primarily software/IT infrastructure, not semiconductor/VLSI/EDA.",
     "id": "948261ac",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Tool Management Specialist",
@@ -3921,13 +3918,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-tool-management-specialist-at-snapcode-inc-4338451990",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is contract, requires CAD software skills which do not match the key skills listed, and does not focus on power integrity/advanced packaging/CAD methodology.",
+    "reason": "The role is primarily focused on EDA tool management and workflow optimization, which does not strongly match Vineeth's power integrity, advanced packaging, and methodology strengths.",
     "id": "4454dc81",
     "source": "linkedin_eda_ww",
     "posted_date": "2025-12-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Engineer",
@@ -3936,13 +3932,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-at-falcomm-4384863847",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires onsite work in Atlanta, GA which does not match the preferred locations of Finland/Europe, India/Asia, or fully remote positions.",
+    "reason": "The role is primarily software development focused (firmware engineer) which is outside Vineeth's domain.",
     "id": "e1ec3018",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior CAD Engineer",
@@ -3951,13 +3946,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-cad-engineer-at-nvidia-4406923234",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a senior level position at NVIDIA's headquarters location of Santa Clara, CA which does not match the target locations in Finland, Europe (outside Finland), UK, India/Asia/Taiwan/SKorea/Singapore, or fully remote with worldwide eligibility.",
+    "reason": "The role is primarily focused on mechanical design rather than semiconductor, VLSI, EDA tools and methods.",
     "id": "26729b34",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Intern",
@@ -3966,13 +3960,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-automation-intern-at-solidigm-4417180030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a full-time internship position at a semiconductor company in Rancho Cordova, CA, which does not match the priority regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide roles.",
+    "reason": "The job is an internship and falls outside Vineeth's 15+ years of experience. It does not match any of his key skills.",
     "id": "9b48c32f",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer",
@@ -3981,13 +3974,12 @@
     "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-cybercoders-4424329588",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electrical Engineer, which does not match VLSI/EDA domain expertise required.",
+    "reason": "This is a general electrical engineer role at a company, not specifically focused on semiconductor/VLSI/EDA work. Vineeth's technical background is in Power Integrity and advanced packaging for chip design.",
     "id": "e9109943",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Design Flow Development Engineer",
@@ -3996,13 +3988,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-design-flow-development-engineer-at-intel-4426987927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, which violates the location requirements.",
+    "reason": "The role is focused on EDA CAD/Tool Flow Development for EM/IR analysis, which does not match Vineeth's key skills in Power Integrity (PI) and Advanced Packaging.",
     "id": "d5feef99",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Assembly Design Kit (ADK) Development Engineer (2.5D/3D Advanced Packaging)",
@@ -4010,14 +4001,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-assembly-design-kit-adk-development-engineer-2-5d-3d-advanced-packaging-at-rapidus-corporation-us-4419801633",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires 5+ years, but the target is looking for candidates with 15 years of experience.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with semiconductor background, but doesn't specify exact domain for Prathapachandra Kaimal's skills. Company is hiring for ADK development.",
     "id": "cf51e8e0",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-03-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer IC Design",
