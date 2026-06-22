@@ -23042,13 +23042,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-diffusion-process-engineer-micron-technology-JV_IC1127927_KO0,33_KE34,51.htm?jl=1010165719759",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Senior Diffusion Process Engineer role at Micron Technology, which does not match the Semiconductor/VLSI/EDA domain and technical areas specified in the job requirements.",
+    "reason": "This is a semiconductor manufacturing process engineering role, not related to EDA/semiconductor/VLSI design or leadership.",
     "id": "775e092c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Wet Etch Equipment Engineer",
@@ -23056,14 +23055,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/senior-wet-etch-equipment-engineer-micron-technology-JV_IC1127927_KO0,34_KE35,52.htm?jl=1010165774643",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This wet etch equipment engineering role is not within the semiconductor/VLSI/EDA domain, therefore it does not match the job requirements.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "5e8e3ef8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Administrative Specialist",
@@ -23072,13 +23070,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86024?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an administrative specialist position at AMD, which is a non-technical role and therefore does not match the requirements for semiconductor/VLSI/EDA roles.",
+    "reason": "The job is a non-technical administrative support role at AMD, which does not fit Vineeth's engineering/technical background.",
     "id": "869157ea",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer- PPATHyderabad, Telangana, IndiaSoftware EngineeringPosted 25 days ago",
@@ -23087,28 +23084,26 @@
     "url": "https://careers.qualcomm.com/careers/job/446716071861?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a match for Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology roles. It's a software engineering position at Qualcomm in India.",
+    "reason": "The role is focused on software engineering for server-class SoCs, which is outside Vineeth's primary domain of power integrity and packaging.",
     "id": "8b79a131",
     "source": "qualcomm_careers",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "LinkedIn",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FMarket-Analyst-Marketing-Manager-IoT-Digital-Consumer-Electronics%2F19489",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical marketing role, which does not match Vineeth's engineering background.",
     "id": "01936b29",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Physical Design Engineer",
@@ -23117,13 +23112,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-physical-design-engineer-at-verex-engineering-llc-4427856806",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Physical Design Engineer at a non-semiconductor company.",
+    "reason": "The role is a pure ASIC Physical Design Engineer position, which does not match Vineeth's Power Integrity and Advanced Packaging focus. The company is also in the engineering services sector rather than semiconductor/VLSI/EDA.",
     "id": "fff95275",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior PC Board Design Engineer",
@@ -23132,13 +23126,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87085?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a match for technical expertise, but it's located in Austin, Texas and explicitly requires US residency. This violates the location work model requirement of being in Finland, Europe; India/Asia; or UK (England, Scotland, Ireland).",
+    "reason": "The role is primarily PCB design for Data Center GPUs, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "2dc70bea",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer (m/f/d)",
@@ -23146,14 +23139,13 @@
     "location": "Germany-Dresden",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16027&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches location criteria (Germany-Dresden) and domain (Process Integration Engineer with semiconductor experience)",
+    "matches_requirements": "no",
+    "reason": "The role is for a Process Integration Engineer, not Power Integrity or Advanced Packaging.",
     "id": "07af5abe",
     "source": "tsmc_careers",
     "posted_date": "2026-10-27",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_semiconduct_process_integration_engineer___07af5abe.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -23162,13 +23154,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Integration-Engineer-m-f-d%2F16027",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Senior Process Integration Engineer at TSMC with 15+ years of experience in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "reason": "The role matches Power Integrity (PI) domain with expertise in RedHawk/Voltus tools, and the location is Finland, which is a high-priority region.",
     "id": "211426c6",
     "source": "tsmc_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_211426c6.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_211426c6.txt"
   },
   {
     "title": "Staff Application EngineerSan Jose + 2 moreHRC1654714Hybrid",
@@ -23177,13 +23168,12 @@
     "url": "https://www.infineon.com/careers/job/563808970905279",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title is Application Engineer, which is a mid-level technical role and does not match the senior leadership roles we are looking for.",
+    "reason": "The job posting has a 404 error, indicating that it is either non-existent or inaccessible.",
     "id": "c6b0dcb8",
     "source": "infineon_careers",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer System Application Engineering_3886Shenzhen + 1 moreHRC1593886",
