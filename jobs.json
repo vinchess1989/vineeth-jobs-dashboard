@@ -23881,29 +23881,27 @@
     "location": "Helsinki, Finland",
     "url": "https://builtin.com/jobs/jobs/dev-engineering/search/artificial-intelligence-engineer",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This AI Engineer role does not match the semiconductor/VLSI/EDA technical domains specified in the job search requirements.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves AI engineering but does not specify power integrity, signal integrity, or EDA tools.",
     "id": "65412285",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analysis Reporting Jobs",
     "company": "Analysis Reporting Jobs Extracted from BuiltIn.com",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://builtin.com/jobs/data-analytics/analysis-reporting",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Analysis Reporting role, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "Not a technical role in semiconductor, VLSI, EDA industry.",
     "id": "237b5277",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Device Engineer",
@@ -23911,14 +23909,13 @@
     "location": "Leixlip, County Kildare, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/device-engineer-at-intel-4425284750",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match with device engineering, advanced node semiconductor experience and Intel location.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on semiconductor device engineering in a manufacturing fab setting, which falls outside Vineeth's primary domains of Power Integrity, Advanced Packaging and CAD/EDA Methodology. Vineeth has deep experience with EDA tools, but this job doesn't clearly require that skillset.",
     "id": "3c7e8c37",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_device_engineer_3c7e8c37.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer",
@@ -23927,13 +23924,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-process-engineer-at-intel-4428494334",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior process engineering role is focused on semiconductor manufacturing at Intel's Ireland fab, not on VLSI/EDA roles in power integrity or advanced packaging.",
+    "reason": "This role is a non-technical process engineering position, which is outside Vineeth's domain in semiconductor/VLSI/EDA.",
     "id": "c801336f",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Microsystems Development Engineer (m/f/d)",
@@ -23942,13 +23938,12 @@
     "url": "https://de.linkedin.com/jobs/view/microsystems-development-engineer-m-f-d-at-x-fab-sarawak-4409923479",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Erfurt, Germany, which doesn't match the target regions of Finland, Europe (outside Finland), UK, India or fully remote positions.",
+    "reason": "The role is primarily focused on microsystems development in semiconductor wafer fabrication, which is outside Vineeth's domain of expertise in semiconductor power integrity, advanced packaging, and EDA tools.",
     "id": "ed39b649",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced Technology Development Engineer",
@@ -23956,14 +23951,13 @@
     "location": "Dresden, Saxony, Germany",
     "url": "https://de.linkedin.com/jobs/view/experienced-technology-development-engineer-at-globalfoundries-4424618741",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches semiconductor manufacturing domain with advanced technology development.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "7b80dad2",
     "source": "linkedin_semi_eu",
-    "posted_date": "2026-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/globalfoundries_experienced_technology_develop_7b80dad2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Processintegrator ASICs (w/m/div)",
@@ -23971,14 +23965,13 @@
     "location": "Dresden, Saxony, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-processintegrator-asics-w-m-div-at-bosch-4430449102",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical Senior Processintegrator ASICs role at Bosch, which does not match our focus on engineering/technical positions in the semiconductor/VLSI/EDA industry.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "177b6d42",
     "source": "linkedin_semi_eu",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer, Device Expert",
@@ -23987,13 +23980,12 @@
     "url": "https://nl.linkedin.com/jobs/view/application-engineer-device-expert-at-invisix-measuring-systems-4425631633",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a semiconductor device modelling specialist, which does not match the VLSI/EDA job categories.",
+    "reason": "The role is for a semiconductor device modeling position, which does not directly map to Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "c726a9fc",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Microsystems Development Engineer (m/f/d)",
@@ -24002,13 +23994,12 @@
     "url": "https://de.linkedin.com/jobs/view/microsystems-development-engineer-m-f-d-at-x-fab-4417202594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position at a semiconductor company.",
+    "reason": "The role is focused on microsystems development rather than semiconductor, VLSI, EDA.",
     "id": "72dd1905",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Low Voltage Technology Development (f/m/div)",
@@ -24017,13 +24008,12 @@
     "url": "https://at.linkedin.com/jobs/view/principal-engineer-low-voltage-technology-development-f-m-div-at-infineon-technologies-4428364816",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The domain does not perfectly match the specified domains for a high priority match, focusing on Power Integrity and Advanced Packaging instead.",
+    "reason": "This Principal Engineer role is focused on low voltage technology development and does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "f0f01c4d",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer: Test Engineering Wafer Test, Final Module Test & Characterization",
