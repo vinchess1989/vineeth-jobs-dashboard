@@ -51293,14 +51293,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-turing-ai-ml-sr-engineer-sr-lead-at-qualcomm-4321688090",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Sr Engineer/Sr Lead in RTL Design at Qualcomm, which matches Vineeth's background and experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design for AI/ML systems, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "63da7e0f",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_rtl_design_turing_ai_ml__sr_en_63da7e0f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Engineer III, Silicon Cloud",
@@ -51309,13 +51308,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-engineer-iii-silicon-cloud-at-google-4428735050",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level role, not a senior leadership position.",
+    "reason": "This role is focused on ASIC RTL design for Google's consumer products, which does not match Vineeth's areas of expertise in power integrity and advanced packaging.",
     "id": "f51cc51d",
     "source": "linkedin_india_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Verification Graduate Intern",
@@ -51324,13 +51322,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-verification-graduate-intern-at-tesla-4420213880",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is an internship with Tesla, which does not match the senior-level technical leadership roles typically handled by someone with 15 years of experience in Power Integrity and Advanced Packaging.",
+    "reason": "The job is for SOC Verification which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "5f6357d0",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Security Engineer",
@@ -51339,13 +51336,12 @@
     "url": "https://in.linkedin.com/jobs/view/it-security-engineer-at-beghou-4365518815",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT Security Engineer role at a life sciences consulting firm, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily focused on IT audit, compliance and security operations rather than semiconductor/EDA technical domains like Power Integrity, VLSI design or EDA tools.",
     "id": "5678f533",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-04-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer , SOC Architect",
@@ -51354,13 +51350,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-soc-architect-at-renesas-electronics-4404540391",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for a Principal Engineer position at Renesas Electronics, with strong requirements in SoC architecture and design.",
+    "reason": "Senior SOC Architect role at semiconductor firm Renesas Electronics in Bangalore, with a good match to Vineeth's background in SoC PDN sign-off and technical leadership.",
     "id": "2aab4341",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_principal_engineer___soc_archi_2aab4341.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_principal_engineer___soc_archi_2aab4341.txt"
   },
   {
     "title": "2026 Campus Hire_ Associate Engineer_ HW",
@@ -51369,13 +51364,12 @@
     "url": "https://in.linkedin.com/jobs/view/2026-campus-hire-associate-engineer-hw-at-qualcomm-4273838338",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a college graduate entry-level position, not a match for the experienced technical leader role sought.",
+    "reason": "This is an entry-level Associate Engineer role at a semiconductor company, which falls outside Vineeth's domain of 10+ years experience in Power Integrity, Advanced Packaging, and EDA.",
     "id": "a8deec2a",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Lead",
@@ -51384,13 +51378,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-lead-at-l-t-technology-services-4237639322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Lead, which does not match the key skill areas of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology mentioned in the candidate profile.",
+    "reason": "This RTL Design Lead role is focused on IP and SoC design, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, CAD Methodology.",
     "id": "2104b33c",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vulnerability Management Analyst",
@@ -51398,14 +51391,13 @@
     "location": "Pune Division, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/vulnerability-management-analyst-at-persistent-systems-4422056286",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a non-technical position in software development, which is outside Vineeth's domain.",
     "id": "ec6f221c",
     "source": "linkedin_india_soc_design_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Azure Infrastructure Architect",
@@ -51414,13 +51406,12 @@
     "url": "https://in.linkedin.com/jobs/view/azure-infrastructure-architect-at-birlasoft-4424324622",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Azure Infrastructure Architect, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The job is for an Azure Infrastructure Architect role at a software company, which does not match Vineeth's domain of Power Integrity and Advanced Packaging. It is outside his area of expertise.",
     "id": "5e9d9ff8",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Lead",
@@ -51428,14 +51419,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-lead-at-l-t-technology-services-4184548573",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for a Design Verification Lead with 7-10 years experience, which fits within the senior leadership range but at a more junior level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "60047ac8",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Digital Engineer",
