@@ -18492,13 +18492,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-feasibility-engineer-ai-ml-processors-at-qualcomm-4424410804",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The key skills listed do not match this specific role's technical requirements.",
+    "reason": "The role is primarily RTL/verification (designing testbenches, simulation) which is a hard rejection per job requirements.",
     "id": "cb328304",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD and PPA Methodology Engineer",
@@ -18506,14 +18505,13 @@
     "location": "San Diego, CA",
     "url": "https://www.linkedin.com/jobs/view/cad-and-ppa-methodology-engineer-at-qualcomm-4323121478",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's background in Power Integrity (PI), Advanced Packaging, and skills in EDA tools.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
     "id": "89345e5a",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_cad_and_ppa_methodology_engine_89345e5a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -18522,13 +18520,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-eridu-4402629973",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Saratoga, CA and explicitly requires US residency. This does not match the location and work model criteria of being in Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also does not have worldwide eligibility for remote work.",
+    "reason": "The role is primarily focused on physical design and layout, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "bdca0782",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-02",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Platform Technologies Language & Frontend Design Engineer",
@@ -18537,13 +18534,12 @@
     "url": "https://www.linkedin.com/jobs/view/platform-technologies-language-frontend-design-engineer-at-sifive-4400911646",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position focused on programming language tooling for hardware design, rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (programming languages, hardware design tools) which is outside Vineeth's domain of Power Integrity, Packaging, EDA tools and physical design.",
     "id": "515d5617",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware/ Software Co-Design Engineer",
@@ -18551,14 +18547,13 @@
     "location": "Fremont, CA",
     "url": "https://www.linkedin.com/jobs/view/hardware-software-co-design-engineer-at-neuralink-4416713967",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a semiconductor startup Neuralink, but it is located in Fremont, CA and requires expertise in micro-architecture design for low-power processors which does not match the job requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 15+ years of experience, but location is US-based without clear visa sponsorship or relocation details.",
     "id": "37466c3c",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design/CAD Engineer",
@@ -18567,13 +18562,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-cad-engineer-at-astera-labs-4392472596",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in San Jose, CA, USA which does not match the priority locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote worldwide.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "9f1a58c9",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI System Engineer",
@@ -18582,13 +18576,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-system-engineer-at-sk-hynix-america-4404232624",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires expertise in AI memory systems but the target profile focuses on Power Integrity, SoC PDN sign-off and is missing AI system design experience.",
+    "reason": "The role is primarily software development (AI system engineering) and does not match Vineeth's Power Integrity, Advanced Packaging, or EDA/CAD/Physical Design background.",
     "id": "f1f17445",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-04-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architecture & Performance Modeling Engineer",
@@ -18597,13 +18590,12 @@
     "url": "https://www.linkedin.com/jobs/view/architecture-performance-modeling-engineer-at-eridu-4400528823",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Saratoga, CA which does not match the target locations of Finland/UK/India/Asia/Remote positions.",
+    "reason": "The role is software development focused (AI infrastructure, programming languages) which does not match Vineeth's VLSI/EDA background in Power Integrity and packaging.",
     "id": "cd0a42f8",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer",
@@ -18612,13 +18604,12 @@
     "url": "https://www.linkedin.com/jobs/view/entry-level-digital-electronics-circuit-unit-hardware-design-engineer-at-boeing-4414803875",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an electronics hardware design role, which does not fit Vineeth's background in Power Integrity and advanced packaging.",
+    "reason": "This entry-level hardware design position is focused on digital electronics for aerospace applications, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "62cef000",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-21",
+    "description_file": null
   },
   {
     "title": "Software Development Engineer - Physical AI",
@@ -18626,14 +18617,13 @@
     "location": "United Kingdom",
     "url": "https://careers.amd.com/careers-home/jobs/86987?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with 10+ years of experience, domain match but unclear on fully remote or specific location.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused on Linux and embedded systems, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and EDA/Physical Design.",
     "id": "5699dabf",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
