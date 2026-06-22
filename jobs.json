@@ -34172,28 +34172,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-rtl-design-engineer-tpu-at-google-4429647241",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior RTL design engineer role specifically requires 8+ years of ASIC design experience, which doesn't match the candidate's background in power integrity and advanced packaging. The job is also located in Sunnyvale, CA.",
+    "reason": "The job is for an RTL design engineer specializing in TPUs, which is software-focused and outside Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "91e39ad9",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "BIOS Technical Leader (IC role)",
-    "company": "AMD",
-    "location": "Nangang District, Taipei, Taiwan",
-    "url": "https://careers.amd.com/careers-home/jobs/80594?lang=en-us",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a BIOS Technical Leader role with a focus on firmware development, which does not match the semiconductor/VLSI/EDA technical domains prioritized.",
-    "id": "09bff713",
-    "source": "amd_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "APR Engineer",
@@ -34201,14 +34185,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=545&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for IC design, which does not match the key domains of Power Integrity (PI) / Advanced Packaging that the candidate specializes in.",
+    "matches_requirements": "yes",
+    "reason": "Matches Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis.",
     "id": "f86251b9",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/taiwan_semiconductor_apr_engineer_f86251b9.txt"
   },
   {
     "title": "LinkedIn",
@@ -34216,14 +34199,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAPR-Engineer%2F545",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is at TSMC, which is a semiconductor fabrication company. The requirements are for a Technical Engineer position in Packaging & Materials Engineering.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a senior engineer position with 10+ years of experience required, but does not specify a direct technical match in Vineeth's areas of expertise. May be a stretch match for a PI/SI technical lead or EDA software engineering.",
     "id": "266d13d4",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Designer",
@@ -34231,14 +34213,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=399&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the target regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "matches_requirements": "yes",
+    "reason": "The role requires layout design experience for advanced nodes, which matches Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "afb90caa",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/taiwan_semiconductor_layout_designer_afb90caa.txt"
   },
   {
     "title": "LinkedIn",
@@ -34247,13 +34228,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FLayout-Designer%2F399",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role at a semiconductor company.",
+    "reason": "The role is at a semiconductor manufacturing company, which does not fit Vineeth's background in EDA and CAD tools.",
     "id": "7f695bf2",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sustainability Content Strategist",
@@ -34262,13 +34242,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4026&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Sustainability Content Strategist, which does not match the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical (Admin/Engineer) at a semiconductor company, so it does not match Vineeth's domain.",
     "id": "bd8f4c4d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -34277,13 +34256,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSustainability-Content-Strategist%2F4026",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Sustainability Content Strategist role, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The job is for a content strategist, which is a non-technical marketing role and does not match Vineeth's technical background in semiconductor VLSI/EDA.",
     "id": "ce72dd63",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Customer Loyalty Enhancement Project Engineer",
@@ -34292,28 +34270,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19436&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical customer loyalty enhancement position, which does not fit the semiconductor/VLSI/EDA technical expertise focus of our search.",
+    "reason": "The role is a customer service position focused on corporate reporting and customer satisfaction surveys, which does not align with Vineeth's technical background in power integrity, advanced packaging, and EDA.",
     "id": "3397ddff",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCustomer-Loyalty-Enhancement-Project-Engineer%2F19436",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was broken and did not load for me to extract required details.",
+    "reason": "Company TSMC is a semiconductor foundry, which does not directly align with Vineeth's power integrity and advanced packaging focus. The role also requires Taiwanese citizenship.",
     "id": "1ff5e642",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power Electronics Engineer",
