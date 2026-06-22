@@ -70403,14 +70403,13 @@
     "location": "Valkeakoski, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/application-engineer-at-amcor-4392597839",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role of Application Engineer fits Vineeth's background and skills in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, and thermal analysis.",
+    "matches_requirements": "no",
+    "reason": "The role is for an Application Engineer position at a company called Amcor, which does not fit Vineeth's background in Power Integrity and VLSI.",
     "id": "5b85514d",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2023-05-15",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amcor_application_engineer_5b85514d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Projekti-insin\u00f6\u00f6ri | Project Engineer, Per\u00e4sein\u00e4joki",
@@ -70418,14 +70417,13 @@
     "location": "Per\u00e4sein\u00e4joki, South Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/projekti-insin%C3%B6%C3%B6ri-project-engineer-per%C3%A4sein%C3%A4joki-at-nordec-group-4419008644",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Power Integrity/SI, working at semiconductor company Nordec Group with CAD tool expertise.",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical project engineer role at a construction company, not fitting Vineeth's VLSI/EDA semiconductor background.",
     "id": "5e93e533",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nordec_group_projekti_insin__ri___project_e_5e93e533.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer",
@@ -70434,13 +70432,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mechanical-engineer-at-ponsse-4421941726",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Mechanical Engineer role focused on cabin design for forest machines, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "This is a mechanical engineering role for forest machine cabin design, outside semiconductor/VLSI/EDA domain.",
     "id": "e27cd651",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-12",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Critical Facilities (Mechanical) Engineer",
@@ -70448,29 +70445,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/data-center-critical-facilities-mechanical-engineer-at-equinix-4425798573",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a Data Center Mechanical Engineer, not related to semiconductor/VLSI/EDA.",
     "id": "4d06c0a8",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Kokenut suunnitteluinsin\u00f6\u00f6ri, laiteratkaisut",
-    "company": "Makron",
-    "location": "Lahti, P\u00e4ij\u00e4t-H\u00e4me, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/kokenut-suunnitteluinsin%C3%B6%C3%B6ri-laiteratkaisut-at-makron-4430431241",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
-    "id": "21adca41",
-    "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-16",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Asiakaspalveluhenkinen mekaniikkasuunnittelija meriteollisuuteen",
@@ -70479,13 +70460,12 @@
     "url": "https://fi.linkedin.com/jobs/view/asiakaspalveluhenkinen-mekaniikkasuunnittelija-meriteollisuuteen-at-alten-4421698780",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a client-facing mechanical designer, not a technical engineering role focusing on semiconductor/VLSI/EDA domains.",
+    "reason": "This is a non-technical customer service role for mechanical design of marine products, not related to semiconductor/VLSI/EDA",
     "id": "0fc2c593",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "2026-06-28",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Critical Facilities Engineer -Mechanical",
@@ -70493,14 +70473,13 @@
     "location": "Kouvola, Kymenlaakso, Finland",
     "url": "https://fi.linkedin.com/jobs/view/critical-facilities-engineer-mechanical-at-nova-complex-4427466858",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a mechanical engineer focused on data center facilities, not semiconductor/VLSI/EDA.",
+    "matches_requirements": "yes",
+    "reason": "The role is a strong match for Vineeth's background in Power Integrity and Advanced Packaging, with specific experience in thermal management and data center mechanical systems.",
     "id": "0ccf883e",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/nova_complex_critical_facilities_engineer___0ccf883e.txt"
   },
   {
     "title": "Projectingenieur Onderhoudsprojecten",
@@ -70509,13 +70488,12 @@
     "url": "https://fi.linkedin.com/jobs/view/projectingenieur-onderhoudsprojecten-at-engie-belgium-4378846323",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a project engineer focused on maintenance projects, not matching semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily maintenance engineering for a power generation facility, focusing on power stations and industrial complexes. It does not match Vineeth's background in semiconductor VLSI/EDA.",
     "id": "4101463c",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Interior Outfitting Engineer, EPC Division",
@@ -70524,13 +70502,12 @@
     "url": "https://fi.linkedin.com/jobs/view/interior-outfitting-engineer-epc-division-at-almaco-group-4388705198",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Interior Outfitting Engineer focused on marine and offshore projects, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for interior outfitting design, which is not a match for Vineeth's power integrity and advanced packaging expertise.",
     "id": "3a4947ce",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-05-15",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Admin, Copyright & Workflow Specialist",
@@ -70539,13 +70516,12 @@
     "url": "https://it.linkedin.com/jobs/view/admin-copyright-workflow-specialist-at-warner-music-group-4429654597",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical admin, copyright & workflow specialist without any semiconductor/VLSI/EDA background or skills.",
+    "reason": "The role is non-technical admin support, well outside Vineeth's domain of VLSI/EDA.",
     "id": "8f0e995c",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Service Technician",
