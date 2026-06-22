@@ -62955,14 +62955,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-logic-design-engineer-at-intel-4418828839",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior SoC Logic Design Engineer role with 12+ years experience, at an Intel location in India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL (register transfer level) design and simulation, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "de59c4a5",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power and Performance Engineer",
@@ -62971,13 +62970,12 @@
     "url": "https://in.linkedin.com/jobs/view/power-and-performance-engineer-at-amd-4414058785",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Strong match with candidate's background in Power Integrity, PI/SI manager role at AMD Bengaluru.",
+    "reason": "The role involves power architecture, firmware, algorithms, and software interfaces for AMD's SoC design, which falls within Vineeth's key skills and experience.",
     "id": "2a3b74a0",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-15",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_power_and_performance_engineer_2a3b74a0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_power_and_performance_engineer_2a3b74a0.txt"
   },
   {
     "title": "Internship: Cybersecurity engineer",
@@ -62986,13 +62984,12 @@
     "url": "https://es.linkedin.com/jobs/view/internship-cybersecurity-engineer-at-gmv-4385374295",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This cybersecurity internship is unrelated to VLSI/EDA semiconductor roles that Vineeth specializes in.",
+    "reason": "The role is in cybersecurity engineering, which is not a technical fit for Vineeth's background in power integrity and semiconductor packaging.",
     "id": "04bb85f0",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "# DIGITAL CAMPUS SOC Coordinator",
@@ -63001,13 +62998,12 @@
     "url": "https://es.linkedin.com/jobs/view/%23-digital-campus-soc-coordinator-at-airbus-helicopters-4384702860",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SOC Coordinator focused on digital campus operations, which doesn't match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
+    "reason": "The role is focused on SOC operations, incident response and security analysis - this is more of an IT/Security Ops position than a technical semiconductor/VLSI/EDA role that Vineeth Kaimal would be suited for.",
     "id": "fcd4f23a",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOC Engineer",
@@ -63016,13 +63012,12 @@
     "url": "https://gr.linkedin.com/jobs/view/soc-engineer-at-cegeka-4423624721",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SOC Engineer with Microsoft Security Stack focus, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily software/IT security focused (Microsoft Security Stack, SOC, SIEM) rather than semiconductor/VLSI/EDA.",
     "id": "1692a180",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOC 2 Project Manager",
@@ -63031,13 +63026,12 @@
     "url": "https://ro.linkedin.com/jobs/view/soc-2-project-manager-at-miratech-4405528868",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a project management position focused on SOC 2 certification, which does not directly match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The SOC 2 Project Manager role is focused on IT, cybersecurity and compliance projects rather than semiconductor/VLSI/EDA technical domains.",
     "id": "11eb8696",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Teamlead Managed Security Operation",
@@ -63046,13 +63040,12 @@
     "url": "https://de.linkedin.com/jobs/view/teamlead-managed-security-operation-at-vimopro-gmbh-4421790469",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Managed Security Operations leadership position, which does not match the semiconductor/VLSI/EDA technical background required.",
+    "reason": "The role is in IT security consulting, which is outside Vineeth's domain of expertise.",
     "id": "33905164",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC Power Integrity / EMIR Intern (m/f/d)",
@@ -63060,14 +63053,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/soc-power-integrity-emir-intern-m-f-d-at-apple-4414168369",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's background and experience in Power Integrity, advanced packaging, SoC PDN sign-off, thermal analysis, and CAD methodology.",
+    "matches_requirements": "no",
+    "reason": "The role is an internship focused on SoC Power Integrity and EMIR at Apple, which does not directly match Vineeth's key skills in VLSI/EDA tools and leadership.",
     "id": "346f6be2",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_soc_power_integrity___emir_int_346f6be2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC 2 Project Manager",
@@ -63076,13 +63068,12 @@
     "url": "https://pl.linkedin.com/jobs/view/soc-2-project-manager-at-miratech-4405539695",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Project Manager focused on IT and cybersecurity compliance, not a technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily focused on IT, cybersecurity compliance and governance project management rather than semiconductor/VLSI/EDA technical domains.",
     "id": "ab7f9f29",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63091,13 +63082,12 @@
     "url": "https://de.linkedin.com/jobs/view/security-engineer-at-air-apps-4407866358",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Security Engineer position at a software company, which does not match our semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is focused on application security, cloud infrastructure, and DevSecOps rather than semiconductor/VLSI/EDA domains.",
     "id": "8c6a9b7a",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOAR Engineer",
