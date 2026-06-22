@@ -34438,13 +34438,12 @@
     "url": "https://www.glassdoor.com/Job/manchester-sanmina-jobs-SRCH_IL.0,10_IC1147907_KO11,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Manchester, NH, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia.",
+    "reason": "The role is a mechanical assembler at an electronics manufacturing facility, which does not match Vineeth's semiconductor/VLSI/EDA background and job requirements.",
     "id": "e30a1ecc",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Engineer",
@@ -34453,28 +34452,26 @@
     "url": "https://www.glassdoor.com/job-listing/project-engineer-linde-JV_IC1161666_KO0,16_KE17,22.htm?jl=1010169021805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Project Engineer role, which does not meet our engineering/technical position requirement.",
+    "reason": "Non-technical role at a semiconductor company, not an engineering/technical position.",
     "id": "518597f1",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "project engineer jobs in The Woodlands, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "The Woodlands, TX USA",
     "url": "https://www.glassdoor.com/Job/the-woodlands-project-engineer-jobs-SRCH_IL.0,13_IC1161666_KO14,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical project manager position, which does not match the semiconductor/VLSI/EDA technical roles criteria.",
+    "reason": "The job is located in The Woodlands, TX USA and does not match Vineeth's location preferences of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
     "id": "4aaf23d5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "The Woodlands, TX jobs",
@@ -34483,13 +34480,12 @@
     "url": "https://www.glassdoor.com/Job/the-woodlands-jobs-SRCH_IL.0,13_IC1161666.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for a general search of jobs in The Woodlands, TX without specific technical requirements matching the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The Woodlands, TX jobs is a non-technical location-based search on Glassdoor, which does not fit Vineeth's semiconductor/VLSI/EDA technical domain.",
     "id": "d0de32f7",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Implementation Methodology Engineer",
@@ -34498,13 +34494,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-implementation-methodology-engineer-at-nvidia-ai-4425337773",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Santa Clara, CA, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia or fully remote.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "881a188c",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer IC Design",
@@ -34513,13 +34508,12 @@
     "url": "https://www.linkedin.com/jobs/view/r-d-engineer-ic-design-at-broadcom-4379160226",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Irvine, CA which does not match the priority regions of Finland, Europe (outside Finland), UK, India, Asia, or Fully Remote with worldwide eligibility.",
+    "reason": "The role is primarily software development (BSEE and MSEE, RTL design) which is outside Vineeth's domain of power integrity, advanced packaging and EDA.",
     "id": "27f6d619",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer 4",
@@ -34527,14 +34521,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/process-engineer-4-at-lam-research-4426616712",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves process engineering within semiconductor equipment manufacturing, which aligns with key domains like Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on semiconductor manufacturing process engineering, which does not strongly match Vineeth's power integrity and advanced packaging background.",
     "id": "e405ea17",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/lam_research_process_engineer_4_e405ea17.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer Staff",
@@ -34543,13 +34536,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-engineer-staff-at-lam-research-4377943093",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Process Engineer position at Lam Research, which does not fit the Power Integrity, Advanced Packaging, or EDA domains we are targeting.",
+    "reason": "The role is primarily in equipment engineering for chemical processing rather than semiconductor process engineering or EDA tools.",
     "id": "501ddbfd",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "R&D \u2013 TCAD Scientist/Engineer",
@@ -34558,13 +34550,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-%E2%80%93-tcad-scientist-engineer-at-tata-electronics-4378100932",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for TCAD Scientist/Engineer work on developing semiconductor technologies at an Indian company, which does not match the high priority domains of Power Integrity/SI, Advanced Packaging, nor key EDA/CAD roles.",
+    "reason": "The role is focused on TCAD Scientist/Engineer for semiconductor manufacturing, which does not closely match Vineeth's background in Power Integrity, Advanced Packaging and EDA CAD Methodology.",
     "id": "a4cde2aa",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer, Sr. Staff",
@@ -34573,13 +34564,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-engineer-sr-staff-at-lam-research-4400706693",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a semiconductor equipment process engineer rather than focusing on semiconductor design, power integrity, SI/PI, or EDA tools which are our key areas of interest.",
+    "reason": "The role is for a Process Engineer at Lam Research, focusing on semiconductor manufacturing equipment and systems. This is an engineering/technical position but does not fit Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
     "id": "17cfded1",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Lead Engineer",
