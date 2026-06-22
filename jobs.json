@@ -38175,14 +38175,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18545&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The position is located in Taiwan, which does not match the target regions of Finland/UK/India/Asia/fully remote worldwide.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves AI development for business challenges, but it's unclear if it requires semiconductor/EDA specific skills.",
     "id": "b4131f72",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -38191,28 +38190,26 @@
     "url": "https://in.linkedin.com/jobs/view/hardware-engineer-at-ltimindtree-4428524701",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level Associate Hardware Engineer role, which does not match our senior leadership and technical leadership criteria.",
+    "reason": "Not a match for Vineeth's technical leadership experience and location preference.",
     "id": "6616636a",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Development Engineer",
     "company": "Nvidia",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/senior-product-development-engineer-nvidia-JV_IC1147439_KO0,35_KE36,42.htm?jl=1010169663953",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a non-technical product development engineer position at a semiconductor company.",
+    "reason": "This role is for a Product Development Engineer at Nvidia, focusing on software and hardware development for GPUs. It does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, or CAD methodology.",
     "id": "8c3b552d",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "development engineer jobs in Santa Clara, CA",
@@ -38221,13 +38218,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-development-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Development Engineer position at Amazon Web Services, which does not directly match Vineeth's technical leadership focus in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily hardware development, not power integrity/advanced packaging.",
     "id": "c6006fd4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer - (E4)",
@@ -38236,13 +38232,12 @@
     "url": "https://www.glassdoor.com/job-listing/mechanical-engineer-e4-applied-materials-JV_IC1147439_KO0,22_KE23,40.htm?jl=1010170540568",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical Mechanical Engineer position, which does not match the semiconductor/VLSI/EDA technical focus required.",
+    "reason": "This is a non-technical role for mechanical engineering at Applied Materials, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "5986223e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Engineer - Power Interface",
@@ -38251,13 +38246,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=21148779d512598b",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in Marketing and Sales at Texas Instruments, which does not match the semiconductor/VLSI/EDA technical engineering positions we are searching for.",
+    "reason": "The role is primarily software development focused on interfacing with power systems, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "20ef2b14",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Engineer - Power Interface salaries in Dallas, TX",
@@ -38266,13 +38260,12 @@
     "url": "https://www.indeed.com/career/test-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=21148779d512598b&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical engineer position with salary details, not an engineering/technical role at a semiconductor company.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
     "id": "aa511d69",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer II",
@@ -38281,13 +38274,12 @@
     "url": "https://www.glassdoor.com/job-listing/process-engineer-ii-applied-materials-JV_IC1147439_KO0,19_KE20,37.htm?jl=1010170540569",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role in manufacturing engineering, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Process Engineer II at Applied Materials, which is non-technical manufacturing engineering and does not match Vineeth's technical background in VLSI/EDA.",
     "id": "7e480aeb",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer III - (E3)",
@@ -38296,13 +38288,12 @@
     "url": "https://www.glassdoor.com/job-listing/mechanical-engineer-iii-e3-applied-materials-JV_IC1147439_KO0,26_KE27,44.htm?jl=1010169549372",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a semiconductor company, which does not match our engineering/technical job requirements.",
+    "reason": "The role is a mechanical engineer position at Applied Materials, which does not match the semiconductor/VLSI/EDA technical domains.",
     "id": "e3ea790a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Audio Systems EngineerHanoi, H\u00e0 N\u1ed9i, Vietnam + 2 moreSystems EngineeringPosted a month ago",
@@ -38311,13 +38302,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446718656894?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Software Engineering position focused on AI-based audio solutions, which doesn't directly fit the key domains of Power Integrity (PI), Advanced Packaging, or EDA Methodology.",
+    "reason": "The role is primarily software development (DSP, AI models for speech/audio processing) and does not fit Vineeth's primary domain of power integrity/signal integrity, advanced packaging, or EDA/CAD methodology.",
     "id": "03f06f78",
     "source": "qualcomm_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Architect",
