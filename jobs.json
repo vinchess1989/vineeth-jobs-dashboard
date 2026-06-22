@@ -49375,14 +49375,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-asic-physical-design-engineer-pnr-sta-at-erbity-4396585351",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "5-8 years of experience, strong Cadence tool skills, and PnR/STA expertise matches target criteria.",
+    "matches_requirements": "maybe",
+    "reason": "The role has good physical design experience but may be too junior for Vineeth's level.",
     "id": "132030a3",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-05-02",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/erbity_physical_design_engineer___asi_132030a3.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Physical Design Engineer",
@@ -49390,14 +49389,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/asic-physical-design-engineer-at-ceremorphic-inc-4139459825",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior mid-level position at a semiconductor startup, fitting the key profile and requirements.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on ASIC physical design rather than power integrity, advanced packaging, SoC PDN sign-off, or thermal analysis which are Vineeth's areas of expertise.",
     "id": "1838203f",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ceremorphic__inc__asic_physical_design_engineer_1838203f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49406,13 +49404,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4321587421",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level physical design engineer role, which does not match the target senior leadership positions.",
+    "reason": "This is an entry-level Physical Design Engineer role at a services company, which does not match Vineeth's 15+ years of experience and senior leadership focus.",
     "id": "1c394386",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-03-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Design Engineer",
@@ -49421,13 +49418,12 @@
     "url": "https://in.linkedin.com/jobs/view/hardware-design-engineer-at-tata-communications-4426790570",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not fit into the target domains of Power Integrity, Advanced Packaging, Thermal Analysis, CAD Methodology, EDA Tools, Physical Design, VLSI/SoC Design, or Engineering Leadership. It is a general Hardware Design Engineer position at a telecom company.",
+    "reason": "The role is for a Hardware Design Engineer which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "a7cbb8d4",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2026-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Design Engineer",
@@ -49435,14 +49431,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-design-engineer-at-onsemi-4355223449",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog IC design, which falls outside Vineeth's Power Integrity and Advanced Packaging focus areas.",
     "id": "282a1ef7",
     "source": "linkedin_india_physical_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PE Physical Design",
@@ -49450,14 +49445,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/pe-physical-design-at-rambus-4417654714",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "maybe",
+    "reason": "The role requires 10+ years of experience in physical design, and is for Rambus which counts as a semiconductor startup.",
     "id": "b6ce1e3f",
     "source": "linkedin_india_physical_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-09",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer (T&D) - Mumbai",
@@ -49466,28 +49460,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-t-d-mumbai-at-burns-mcdonnell-india-3996468335",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Business Consulting & Services firm, not a semiconductor/EDA company.",
+    "reason": "The job is for a substation primary design engineer, which is unrelated to VLSI/semiconductor/EDA.",
     "id": "dd237023",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Analog Circuit Design Engineer",
-    "company": "Intel",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418833695",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is more focused on analog design rather than power integrity, which is Vineeth's area of expertise.",
-    "id": "49f14329",
-    "source": "linkedin_india_physical_design_p2",
-    "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NPU Physical Design Engineer",
@@ -49495,14 +49473,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/npu-physical-design-engineer-at-qualcomm-4424205546",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Senior Physical Design Engineer with experience in PNR implementation, signoff knowledge, and good Unix/Linux skills. It matches the target domains of Physical Design and EDA Tools.",
+    "matches_requirements": "no",
+    "reason": "The job is focused on NPU hardware engineering, not power integrity or physical design.",
     "id": "65a45cee",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_npu_physical_design_engineer_65a45cee.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -49510,14 +49487,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418840518",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a Senior Leadership position with 15+ years experience and background in Power Integrity, Advanced Packaging, and SoC PDN Sign-off.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on analog circuit design at Intel, which falls outside Vineeth's power integrity and advanced packaging background.",
     "id": "acf26dab",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_analog_circuit_design_engineer_acf26dab.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Battery Design Engineer",
