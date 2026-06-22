@@ -72321,14 +72321,13 @@
     "location": "Noida, Uttar Pradesh, India",
     "url": "https://in.linkedin.com/jobs/view/lead-physical-design-engineer-at-nxp-semiconductors-4428640152",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is more focused on general physical design and layout engineering rather than specializing in Power Integrity (PI) or Advanced Packaging - key areas of interest.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "722cc799",
     "source": "linkedin_india_physical_design",
-    "posted_date": "2026-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Information Security Engineer",
@@ -72337,13 +72336,12 @@
     "url": "https://www.linkedin.com/jobs/view/information-security-engineer-at-jobgether-4430392297",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Information Security Engineer, which does not match the technical domains required (Power Integrity, Advanced Packaging, etc.).",
+    "reason": "The role is primarily software development (DevOps, automation), which is outside Vineeth's domain.",
     "id": "d50efcd4",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT Infrastructure Specialist",
@@ -72351,14 +72349,13 @@
     "location": "Irving, TX",
     "url": "https://www.linkedin.com/jobs/view/it-infrastructure-specialist-at-city-of-irving-4421125168",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an IT Infrastructure Specialist at a government organization (City of Irving), which does not match the semiconductor/VLSI/EDA industry focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "45184d75",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "2026-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Embedded Systems Security Engineer (m/f/d)",
@@ -72366,14 +72363,13 @@
     "location": "Noida, Uttar Pradesh, India",
     "url": "https://in.linkedin.com/jobs/view/embedded-systems-security-engineer-m-f-d-at-nxp-semiconductors-4410767582",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an Embedded Systems Security Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It also explicitly requires BSEE or MSEE/PHD in Security Engineering/Electronic Engineering.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ce011d2a",
     "source": "linkedin_india_soc_design",
-    "posted_date": "2026-06-11",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Post Silicon Validation Engineer (Debug)",
@@ -72382,13 +72378,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87353?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is located in Penang, Malaysia which does not match the high priority locations of Finland/Europe/UK or India/Asia.",
+    "reason": "This is a technical validation engineer role, which falls outside Vineeth's domain of power integrity and packaging.",
     "id": "41df36b0",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Firmware Engineer",
@@ -72397,13 +72392,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87289?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Taipei, which does not match one of our target locations (Finland, India, UK, US with visa sponsorship).",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain of VLSI/EDA.",
     "id": "9af046f6",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "BMC Firmware Engineer (Server)",
@@ -72412,13 +72406,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87305?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match technical domains of Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "reason": "This is a software engineering role for BMC firmware, which is outside Vineeth's domain of VLSI/EDA/semiconductor.",
     "id": "41b60c13",
     "source": "amd_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Analog Designer",
@@ -72427,13 +72420,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87068?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Analog Designer rather than a Signal & Power Integrity Engineer which we are looking to match.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "02f206e7",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Debug Lead Engineer",
@@ -72441,14 +72433,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/80818?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role does not match the key technical domains of Power Integrity, Advanced Packaging/Thermal, or CAD/Methodology. It is focused on system-level SoC debugging and validation.",
+    "matches_requirements": "yes",
+    "reason": "The role involves debugging of SoC features, leading cross-functional critical silicon issue debug, and requires over 15 years experience. It fits Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off.",
     "id": "d54c49fa",
     "source": "amd_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-25",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_debug_lead_engineer_d54c49fa.txt"
   },
   {
     "title": "Radar Component Verification Specialist (f/m/div)Graz (Austria)131932",
@@ -72457,13 +72448,12 @@
     "url": "https://www.infineon.com/careers/job/563808971279202",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL returns a 404 error, so it is likely inactive.",
+    "reason": "The job posting URL is empty, so we can't determine if it matches Vineeth's profile.",
     "id": "17d81ad6",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager Data Science HRAhmedabad (India)HRC1678686",
