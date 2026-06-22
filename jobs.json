@@ -19891,14 +19891,13 @@
     "location": "Germany-Dresden",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16033&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a match for domain and technical area, but it's based in Germany, which isn't one of the highest priority locations.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "3b1399bb",
     "source": "tsmc_careers",
-    "posted_date": "2026-05-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -19907,13 +19906,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEquipment-Engineer-m-f-d-Start-Date-1-October-2026%2F16033",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Equipment Engineer position, which does not directly match the technical domains we are targeting.",
+    "reason": "The role is primarily software development (embedded firmware engineer), which is outside Vineeth's domain.",
     "id": "7a7586e3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FEOL Reliability Engineer",
@@ -19921,14 +19919,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/feol-reliability-engineer-at-samsung-semiconductor-4422603949",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is a direct hire by Samsung Semiconductor, located in Austin, Texas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "702f2ad1",
     "source": "linkedin_semi_ww",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Yield Engineer",
@@ -19937,13 +19934,12 @@
     "url": "https://www.linkedin.com/jobs/view/yield-engineer-at-samsung-india-4429784345",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-senior level semiconductor manufacturing engineer role, which does not directly match the VLSI/EDA job requirements.",
+    "reason": "This role is primarily focused on yield analysis in a semiconductor fab, which falls outside Vineeth's domain of power integrity and advanced packaging expertise. ",
     "id": "11d54346",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Development Engineer",
@@ -19952,13 +19948,12 @@
     "url": "https://www.linkedin.com/jobs/view/module-development-engineer-at-intel-4418829839",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency, which is a non-matching requirement.",
+    "reason": "The role is primarily focused on semiconductor manufacturing processes and equipment, which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD/Methodology.",
     "id": "a8dd9b90",
     "source": "linkedin_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Development Engineer",
@@ -19967,13 +19962,12 @@
     "url": "https://www.linkedin.com/jobs/view/module-development-engineer-at-intel-4418824993",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a close match but requires PhD level education, while our candidate has 15 years of experience in Power Integrity and Advanced Packaging roles. The PhD requirement makes this a hard no.",
+    "reason": "This role is primarily for software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "7f5ff5be",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Yield Engineer",
@@ -19982,13 +19976,12 @@
     "url": "https://www.linkedin.com/jobs/view/yield-engineer-at-samsung-semiconductor-4414287712",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a semiconductor manufacturing engineering position, not focused on power integrity, signal integrity, VLSI/EDA tools, or leadership roles in those fields.",
+    "reason": "The role is a Yield Engineer focused on semiconductor wafer fabrication, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
     "id": "63139a4d",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Backend of Line - Module Integration Engineer",
@@ -19997,13 +19990,12 @@
     "url": "https://www.linkedin.com/jobs/view/backend-of-line-module-integration-engineer-at-samsung-india-4429789369",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Taylor, TX which does not match our target location criteria.",
+    "reason": "This role is primarily software development (Lithography, Etch, Diffusion, Thin Films Deposition, Wet Cleans, CMP) rather than semiconductor design/EDA.",
     "id": "383a96fa",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Standard Cell Library Engineer",
@@ -20012,13 +20004,12 @@
     "url": "https://www.linkedin.com/jobs/view/standard-cell-library-engineer-at-intel-4419369263",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is at Intel's Folsom, CA location which requires US residency without visa sponsorship options.",
+    "reason": "The job is a software engineering position related to tool development and standard cell library reliability, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "acc5c549",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Validation Engineer",
@@ -20027,13 +20018,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-validation-engineer-at-omnivision-4404241269",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Product Validation Engineer, which does not match the key domains of Power Integrity (PI), Advanced Packaging, or EDA/CAD Methodology that Vineeth's background and skills focus on.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "91a2c926",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Development Engineer",
