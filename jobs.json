@@ -31274,13 +31274,12 @@
     "url": "https://in.linkedin.com/jobs/view/job-opportunity-for-vlsi-engineers-at-tech-mahindra-at-tech-mahindra-4428232326",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a VLSI Engineer position at an IT services company (Tech Mahindra) instead of a semiconductor/VLSI/EDA role.",
+    "reason": "Not a technical leadership role, but an engineering search",
     "id": "4a7036a6",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industriepraktikum - Labor- und Datenmanagement (m/w/d)Villach (Austria)HRC1588306On-site",
@@ -31289,13 +31288,12 @@
     "url": "https://www.infineon.com/careers/job/563808970124033",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is incorrect and leads to a 404 error. Unable to extract necessary information.",
+    "reason": "The job is for an internship position, which does not match the senior leadership role experience level we are looking for.",
     "id": "44efd268",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Account Production Planner",
@@ -31304,13 +31302,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=3775&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an admin/operations position focused on customer and internal logistics planning, not a technical engineering role in Power Integrity, VLSI/EDA domains.",
+    "reason": "The role is an engineer/admin position rather than technical/leadership engineering.",
     "id": "0c65de1d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -31318,14 +31315,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAccount-Production-Planner%2F3775",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job role is for an Account Production Planner, which does not fit the technical engineering roles we are targeting.",
+    "matches_requirements": "yes",
+    "reason": "The role of Technical Leader - Power Integrity & Advanced Packaging matches Vineeth's background and key skills in power integrity, advanced packaging, and EDA tools.",
     "id": "56be1739",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_56be1739.txt"
   },
   {
     "title": "Internship - AI/ML-Based Finite Element AnalysisSingaporeHRC1637608",
@@ -31334,13 +31330,12 @@
     "url": "https://www.infineon.com/careers/job/563808970681318",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title indicates an internship focused on AI/ML and does not match the semiconductor/VLSI/EDA roles we are targeting.",
+    "reason": "The job title indicates an internship position which does not match the senior-level roles Vineeth is being hired for.",
     "id": "00cf9909",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Verification (f/m/div)Villach (Austria)HRC1653224Hybrid",
@@ -31349,28 +31344,26 @@
     "url": "https://www.infineon.com/careers/job/563808970893785",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title and description do not match the specified semiconductor/VLSI/EDA technical domains, experience level, or location requirements.",
+    "reason": "The job is for a verification role, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "942c38ab",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Verification Engineer (f/m/div)Villach (Austria)130653Hybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Villach (Austria)",
     "url": "https://www.infineon.com/careers/job/563808970735007",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL was broken and led to a 404 error page, so the company, location, posted_date, and deadline could not be extracted.",
+    "reason": "The job is for Digital Verification Engineer which falls under verification domain and not within Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
     "id": "3117da7d",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mask Process Engineer",
@@ -31379,13 +31372,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=286&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is specifically located at TSMC's Taiwan fab, which does not fit the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote with worldwide eligibility.",
+    "reason": "This is a manufacturing engineering role focused on mask process engineering for semiconductor fab operations, which does not match Vineeth's power integrity and packaging technical background.",
     "id": "51ff1023",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -31393,14 +31385,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FMask-Process-Engineer%2F286",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "No specific technical domain or years of experience mentioned, and location is worldwide remote.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a Senior Engineer position with 10+ years of experience, which falls within Vineeth's range. However, it does not explicitly mention Power Integrity, Advanced Packaging, or EDA in its description.",
     "id": "c73d1850",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -31408,14 +31399,13 @@
     "location": "Chiayi, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDepartment-Secretary-Chiayi%2F21833",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a non-technical administrative role for a Department Secretary, which does not match the technical requirements for semiconductor/VLSI/EDA experience.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role, but specific domain not clearly mentioned in title",
     "id": "ae177e70",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Module Engineer",
