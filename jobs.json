@@ -41480,13 +41480,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-asic-design-engineer-at-medtronic-4423518892",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a medical device company, outside our semiconductor/VLSI/EDA focus.",
+    "reason": "The role is primarily focused on digital ASIC design rather than Power Integrity, Advanced Packaging, or EDA/CAD tooling which are Vineeth's areas of expertise.",
     "id": "5585c5eb",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-19",
     "deadline": "2026-07-03",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, VLSI Design Engineering (IO Design)",
@@ -41494,14 +41493,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-vlsi-design-engineering-io-design-at-sandisk-4430463664",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires VLSI design expertise, especially on IO circuit blocks used in memory products like DDR4, DDR5, LPDDR4, LPDDR5, GDDR5, GDDR6. This matches the key technical domains specified.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (SW Engineer) which is outside Vineeth's domain.",
     "id": "950239f1",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-20",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/sandisk_staff_engineer__vlsi_design_en_950239f1.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "HBM Sr RTL Engineer",
@@ -41510,13 +41508,12 @@
     "url": "https://www.glassdoor.com/job-listing/hbm-sr-rtl-engineer-micron-technology-JV_IC1140053_KO0,19_KE20,37.htm?jl=1010153723218",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior RTL Engineer, which does not match the technical domains we are targeting.",
+    "reason": "The job is for a software engineering role at Micron Technology, which specializes in memory chips and does not fit Vineeth's expertise in power integrity, advanced packaging, SoC design and EDA.",
     "id": "6e9a9d65",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "verification engineer jobs in Richardson, TX",
@@ -41525,28 +41522,26 @@
     "url": "https://www.glassdoor.com/Job/richardson-verification-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general software engineering position, not specialized in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
     "id": "3bfe25d8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Materials Engineer, Functional Thin Films, Terafab",
     "company": "Tesla (Extracted from URL)",
-    "location": "Extract from page",
+    "location": "N/A (extract location from URL)",
     "url": "https://www.glassdoor.com/job-listing/sr-materials-engineer-functional-thin-films-terafab-tesla-JV_IC1139761_KO0,51_KE52,57.htm?jl=1010171744206",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Materials Engineer focusing on functional thin films, which does not match the technical domains of Power Integrity, Advanced Packaging, or EDA/CAD.",
+    "reason": "The job is for a non-technical Materials Engineering role, which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA.",
     "id": "2ffdb9cf",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR ENGINEER - F15 MFG WET Equipment EngineerHiroshima, JapanPosted 3 months ago",
@@ -41555,13 +41550,12 @@
     "url": "https://micron.eightfold.ai/careers/job/29615474",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Wet Etch Equipment Engineer position at Micron Technology, which does not match the semiconductor/VLSI/EDA technical role requirements.",
+    "reason": "The job is for a Wet Equipment Engineer position at Micron, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "d7edec7b",
     "source": "micron_careers",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Process Integration, Advanced NANDSingapore, SingaporePosted 8 months ago",
@@ -41570,13 +41564,12 @@
     "url": "https://micron.eightfold.ai/careers/job/30266085",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in NAND process integration and does not directly match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging, CAD/Methodology, nor Physical Design.",
+    "reason": "The role is in NAND process integration, not directly related to Vineeth's focus areas of power integrity, advanced packaging, or EDA/CAD.",
     "id": "ae555d12",
     "source": "micron_careers",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP, FP&A",
@@ -41585,13 +41578,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-fp-a-at-micron-technology-4410840293",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VP-level Financial Planning & Analysis (FP&A) position at Micron Technology, which does not fit the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is a financial leadership position at a semiconductor company, but does not involve power integrity, signal integrity, advanced packaging, EDA tools, VLSI/SoC design, or engineering leadership.",
     "id": "ca22ce09",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Machine Learning Jobs",
@@ -41600,13 +41592,12 @@
     "url": "https://builtin.com/jobs/data-analytics/machine-learning",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are unrelated to semiconductor/VLSI/EDA and focus on general machine learning roles in various industries.",
+    "reason": "This job is for a Machine Learning Engineer role, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "606e7188",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Management Trainee Jobs",
@@ -41615,13 +41606,12 @@
     "url": "https://builtin.com/jobs/operations/search/management-trainee",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business role, not an engineering/technical position at a semiconductor company.",
+    "reason": "The job posting is for a non-technical management trainee role at an unspecified company, which does not match Vineeth's technical background in semiconductor, VLSI and EDA.",
     "id": "da7dc005",
     "source": "builtin_semi",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer Jobs",
