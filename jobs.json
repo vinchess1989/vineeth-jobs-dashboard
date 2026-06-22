@@ -48955,14 +48955,13 @@
     "location": "Durham, NC",
     "url": "https://www.linkedin.com/jobs/view/senior-physical-design-engineer-at-nvidia-4395490103",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role at NVIDIA matches the technical expertise and leadership experience criteria.",
+    "matches_requirements": "no",
+    "reason": "This is a specific Physical Design Engineer role, outside Vineeth's focus on Power Integrity and Advanced Packaging.",
     "id": "c58147a2",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_physical_design_enginee_c58147a2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -48971,13 +48970,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-physical-design-engineer-at-google-4426102835",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 10+ years of experience, but also states 'Bachelor's degree in Electrical Engineering...'. This is inconsistent with typical senior-level roles which usually require Master's or PhD.",
+    "reason": "The role is primarily software development focused (firmware engineer) which is outside Vineeth's domain.",
     "id": "094d6d97",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Leader Physical Design",
@@ -48986,13 +48984,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-leader-physical-design-at-amazon-web-services-aws-4345261236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is non-technical HR role at a semiconductor company",
+    "reason": "The role is primarily software development and not focused on semiconductor/VLSI/EDA domains.",
     "id": "155b5bcf",
     "source": "linkedin_ww_physical_design_p3",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -49001,13 +48998,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-physical-design-engineer-at-marvell-technology-4411567595",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 3-5 years of experience which is less than the preferred target range of 10-15+ years. This position is also in Irvine, CA, USA which does not match the high priority regions.",
+    "reason": "The job is an engineering role at a semiconductor company, but it does not fit Vineeth's specific areas of power integrity/thermal/advanced packaging.",
     "id": "80149a93",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49015,14 +49011,13 @@
     "location": "Westford, MA",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-nvidia-ai-4417963564",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior physical design engineer position with 3+ years of experience on leading-edge technologies matching the candidate's background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (embedded/firmware) which is outside Vineeth's domain.",
     "id": "eee0acfc",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_ai_physical_design_engineer_eee0acfc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer, Forward Deployed Engineering",
@@ -49031,13 +49026,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-forward-deployed-engineering-at-openai-4417166197",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Physical Design Engineer role at OpenAI, which does not fit the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily focused on physical design of ASICs/SoCs, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "8bdc3a6e",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Lead",
@@ -49046,13 +49040,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-lead-at-olix-4420759128",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at a semiconductor company but requires US residency, which violates our rule against non-technical roles.",
+    "reason": "The role is primarily focused on general ASIC physical design leadership rather than Vineeth's specific areas of expertise in Power Integrity, Advanced Packaging, and CAD/Methodology.",
     "id": "e1c88aff",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -49061,13 +49054,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-physical-design-engineer-at-tenstorrent-4265044599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Austin, TX which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions. Additionally, it explicitly requires US residency.",
+    "reason": "This is a senior physical design role with experience in synthesis, PnR and timing closure on taped-out designs. Vineeth's background is in power integrity (PI), advanced packaging, SoC PDN sign-off, thermal analysis, CAD methodology, which does not directly match the key skills required.",
     "id": "3223b801",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-09-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer for Core IP",
@@ -49075,14 +49067,13 @@
     "location": "Hillsboro, OR",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-for-core-ip-at-intel-4418847041",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a Physical Design Engineer for Core IP, which fits the domain but not perfectly with senior technical leadership. The years of experience also aren't specified.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on CPU physical design which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "85a4d11f",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49090,14 +49081,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-etched-4385396339",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Physical Design Engineer at Etched, with a preferred experience range of 5-10+ years. It matches the target domain and technical area as per the job search requirements.",
+    "matches_requirements": "no",
+    "reason": "This is a mid-senior level Physical Design Engineer role at a semiconductor startup Etched in San Jose, CA. It does not match Vineeth's senior leadership role with 15+ years of experience in Power Integrity and Packaging.",
     "id": "0be3d9cf",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/etched_physical_design_engineer_0be3d9cf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Physical Design Feasibility Engineer",
