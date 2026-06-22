@@ -51013,14 +51013,13 @@
     "location": "Anupgarh, Rajasthan, India",
     "url": "https://in.linkedin.com/jobs/view/security-engineer-at-xenonstack-moments-4314629427",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused (AI/ML and web applications) rather than semiconductor/VLSI/EDA.",
     "id": "588ec8b4",
     "source": "linkedin_india_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer, Google Cloud, Silicon",
@@ -51029,13 +51028,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-google-cloud-silicon-at-google-4426795684",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an RTL Design Engineer position at Google, which does not fit the Power Integrity / Signal Integrity focus of our job search.",
+    "reason": "The role is primarily software development (Python, Perl coding languages) and verification (ASIC design verification), which are outside Vineeth's domain.",
     "id": "3a91a6bf",
     "source": "linkedin_india_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Architect",
@@ -51044,13 +51042,12 @@
     "url": "https://in.linkedin.com/jobs/view/cyber-security-architect-at-tata-advanced-systems-limited-4426911230",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Cyber Security Architect, which does not match the Semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily focused on cyber security architecture and solutions, which does not match Vineeth's background in power integrity, advanced packaging and EDA. It would require a strong focus on network & infra security solutions, cybersecurity services, testing and possibly programming/scripting.",
     "id": "160963ec",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Architect",
@@ -51059,13 +51056,12 @@
     "url": "https://in.linkedin.com/jobs/view/system-architect-at-tata-electronics-4421901135",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not in semiconductor/VLSI/EDA domain, but electronics manufacturing",
+    "reason": "The role is a senior Systems Architect position, which does not directly match Vineeth's Power Integrity and Advanced Packaging focus areas.",
     "id": "c1ee3187",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ADAS Lead",
@@ -51073,14 +51069,13 @@
     "location": "Thiruvananthapuram Taluk, India",
     "url": "https://in.linkedin.com/jobs/view/adas-lead-at-tata-elxsi-4417892044",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Mid-Level role with 6+ years experience fits for a Senior-level match, and ADAS is closely related to VLSI/EDA/semiconductor domains. However, location doesn't match the India or Europe priorities.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused on automotive platforms, which does not match Vineeth's domain of expertise in Power Integrity/Signal Integrity, Advanced Packaging, CAD/Methodology, and VLSI/SoC Design.",
     "id": "67792d36",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Sec_Air Liquide_Q1",
@@ -51089,13 +51084,12 @@
     "url": "https://in.linkedin.com/jobs/view/cyber-sec-air-liquide-q1-at-infosys-4402325976",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an IT consulting role, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "The job is for a Cybersecurity Analyst, which is software development and not related to Vineeth's domains of expertise in Power Integrity, Advanced Packaging, CAD/Methodology, etc.",
     "id": "22d447cc",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-05-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Associate - Charge Entry",
@@ -51104,13 +51098,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-associate-charge-entry-at-calpion-inc-4039347545",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role focused on healthcare billing and data entry, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a non-technical customer service position focused on medical billing and data entry, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "5c92ade3",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "XR Systems Technology Architect - All levels",
@@ -51118,14 +51111,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/xr-systems-technology-architect-all-levels-at-qualcomm-4319143077",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Technology Architect position at Qualcomm in Bengaluru, India, which matches Vineeth's background and skills.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (IPs, DSPs, NSPs), which is outside Vineeth's domain.",
     "id": "f592c213",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-05-11",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_xr_systems_technology_architec_f592c213.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "2026 Campus Hire_ Associate Engineer_ HW",
@@ -51134,13 +51126,12 @@
     "url": "https://in.linkedin.com/jobs/view/2026-campus-hire-associate-engineer-hw-at-qualcomm-4273831631",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a college graduate associate engineer position, not matching the experienced technical leadership roles we are targeting.",
+    "reason": "This is an entry-level campus hire position at Qualcomm, which does not fit Vineeth's senior technical leadership background.",
     "id": "840cee99",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Architect",
@@ -51149,13 +51140,12 @@
     "url": "https://in.linkedin.com/jobs/view/network-architect-at-ltimindtree-4415213507",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Network Architect, focusing on SD-WAN and automation, which does not match the specified job requirements in the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u2014 this is outside Vineeth's domain.",
     "id": "1cc02c49",
     "source": "linkedin_india_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security & Access Control Engineer/Lead",
