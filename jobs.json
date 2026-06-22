@@ -29663,14 +29663,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FYEP-R-D-Engineer%2F301",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a Senior Engineering position at TSMC, which matches the target domain of semiconductor manufacturing and meets the senior-level requirement. The location is in Taiwan, which fits within the allowed Asia locations.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a senior engineering position at TSMC, which matches Vineeth's leadership level and technical background in power integrity and advanced packaging. However, it does not specify exactly which domain (PI/SI or Packaging) the role will focus on.",
     "id": "8a3ec592",
     "source": "tsmc_careers",
     "posted_date": "2023-06-19",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/tsmc_linkedin_8a3ec592.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Materials Engineer, Functional Thin Films, Terafab",
@@ -29679,13 +29678,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-materials-engineer-functional-thin-films-terafab-at-tesla-4429985911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Sr. Materials Engineer in thin film development, which does not match the VLSI/EDA semiconductor domain focus.",
+    "reason": "The role is primarily focused on materials science and thin film development, which does not directly align with Vineeth's background in Power Integrity (PI) / Advanced Packaging / SoC PDN Sign-off.",
     "id": "d6ac18a0",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design / PnR Lead",
@@ -29694,13 +29692,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86980?lang=en-us",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for a Physical Design Lead with 12+ years of experience, matching the required domain and experience level.",
+    "reason": "The role is a Physical Design lead which falls within Vineeth's domain and experience, and it is in Bangalore, India where he is currently located.",
     "id": "c576f259",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_physical_design___pnr_lead_c576f259.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_physical_design___pnr_lead_c576f259.txt"
   },
   {
     "title": "Supply Chain Business Analyst / Project Manager",
@@ -29709,13 +29706,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16056&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on digital transformation within TSMC's supply chain, which does not strongly match the technical domains of VLSI/EDA.",
+    "reason": "The role is more focused on supply chain and project management rather than semiconductor engineering or technical leadership.",
     "id": "a07d1aac",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29724,13 +29720,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSupply-Chain-Business-Analyst-Project-Manager%2F16056",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Supply Chain Business Analyst role at TSMC, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The job is for a Business Analyst/Project Manager role, which is non-technical and does not match Vineeth's technical leadership experience in semiconductor VLSI EDA.",
     "id": "00056b20",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5132\u5099\u6a21\u7d44\u526f\u5de5\u7a0b\u5e2b Module Associate Engineer (MAE)-\u8eab\u5fc3\u969c\u7919\u4eba\u624d\u62db\u52df",
@@ -29739,13 +29734,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19400&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is specifically for individuals with disabilities, located in Taiwan. The target regions are Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia (e.g., Taiwan, South Korea, Singapore) and the US only if it explicitly mentions visa sponsorship or relocation.",
+    "reason": "The role is an entry-level Associate Engineer position which does not closely match Vineeth's 15+ years of experience in Power Integrity, Advanced Packaging and SoC PDN Sign-off.",
     "id": "f83cec95",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29753,14 +29747,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FModule-Associate-Engineer-MAE%2F19400",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job URL is for a Module Associate Engineer at TSMC, which does not match the technical domains of Power Integrity or Advanced Packaging that Vineeth has experience in. The job also does not require a leadership role.",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off. It is a senior leadership position at TSMC, a leading semiconductor company.",
     "id": "1bbf1ec3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_1bbf1ec3.txt"
   },
   {
     "title": "IT Data Engineer",
@@ -29769,13 +29762,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=536&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an IT Data Engineer position, which does not match the VLSI/EDA technical domains of interest.",
+    "reason": "The role is a data engineer position focused on IT systems and big data solutions, which does not match Vineeth's expertise in semiconductor power integrity, advanced packaging, and EDA tools.",
     "id": "b9d1441a",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29784,13 +29776,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Data-Engineer%2F536",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Data Engineer) at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "c7b389f6",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer, Email Team",
@@ -29799,13 +29790,12 @@
     "url": "https://www.workatastartup.com/jobs/92753",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Software Engineer at OneSignal, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily software development (e.g. TypeScript, Ruby, Rust) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "ebddb5fa",
     "source": "yc_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead, Engineer",
