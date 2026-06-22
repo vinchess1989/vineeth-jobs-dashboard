@@ -43958,13 +43958,12 @@
     "url": "https://www.workatastartup.com/jobs/92565",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software engineering role focused on CAD development, which does not match the VLSI/EDA industry focus of semiconductor-related roles.",
+    "reason": "The role is primarily software engineering (systems programming, building native applications) rather than VLSI/EDA.",
     "id": "758a32fd",
     "source": "yc_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Founding Product Engineer",
@@ -43973,13 +43972,12 @@
     "url": "https://www.workatastartup.com/jobs/95388",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical product engineering role focused on AI accounting, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is software development focused on AI systems, not semiconductor/VLSI/EDA engineering.",
     "id": "6b9c26fb",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ML Engineer",
@@ -43988,13 +43986,12 @@
     "url": "https://www.workatastartup.com/jobs/95906",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This machine learning engineer role at Jarmin is focused on AI/ML and software engineering for their products, not semiconductor/VLSI/EDA design or technical leadership in power integrity, advanced packaging, or CAD.",
+    "reason": "The role is primarily software development (ML Engineer) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, and CAD Methodology.",
     "id": "f2ff654a",
     "source": "yc_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Engineer Jobs",
@@ -44003,13 +44000,12 @@
     "url": "https://builtin.com/jobs/sales/sales-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a sales engineering role, which does not match the technical VLSI/EDA/Semiconductor domain required by the job search criteria.",
+    "reason": "The role is primarily for software/hardware sales, not semiconductor/VLSI/EDA engineering.",
     "id": "82562e20",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Jobs",
@@ -44018,13 +44014,12 @@
     "url": "https://builtin.com/jobs/sales",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are all sales-related positions, which do not match the technical domains specified in the job requirements.",
+    "reason": "The job posting is for non-technical sales roles, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "155b5717",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Leadership Jobs",
@@ -44033,13 +44028,12 @@
     "url": "https://builtin.com/jobs/sales/leadership",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job postings listed are for Sales Leadership roles, which do not match the technical domain of semiconductor/VLSI/EDA required by the reviewer.",
+    "reason": "The role is a Sales Leadership position, which is outside Vineeth's technical domain of expertise in semiconductor/VLSI/EDA.",
     "id": "182495b4",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Operations Jobs",
@@ -44048,43 +44042,40 @@
     "url": "https://builtin.com/jobs/sales/sales-operations",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a sales operations role, which does not match the technical semiconductor/VLSI/EDA background required.",
+    "reason": "This is a sales operations role, which does not match Vineeth's technical background in power integrity, advanced packaging, and EDA.",
     "id": "6015f3d2",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Representative Jobs",
-    "company": "Extract from page",
+    "company": "Extracted from page",
     "location": "San Francisco, CA, USA",
     "url": "https://builtin.com/jobs/sales/search/sales-representative",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The sales representative roles do not match the technical domains of Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership required for this job search.",
+    "reason": "The role is for a Sales Representative, which is an non-technical sales position outside Vineeth's domain.",
     "id": "71f118d7",
     "source": "builtin_semi",
     "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salesforce Administrator Jobs",
     "company": "Canonical",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://builtin.com/jobs/dev-engineering/search/salesforce-administrator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Salesforce Administrator role, not related to semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical Salesforce Administrator role, not an engineering position in semiconductor/VLSI/EDA.",
     "id": "d6bb6329",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salesforce Developer Jobs",
@@ -44093,13 +44084,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/salesforce",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Salesforce Developer position, which does not match the target domains of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology that Vineeth Prathapachandra Kaimal's background and key skills are in.",
+    "reason": "This is a Salesforce Developer role, not related to semiconductor/VLSI/EDA.",
     "id": "2d2f1ee6",
     "source": "builtin_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scala Jobs",
