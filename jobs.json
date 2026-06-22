@@ -59624,13 +59624,12 @@
     "url": "https://pl.linkedin.com/jobs/view/senior-pmo-lead-carbon-data-reporting-at-heineken-global-shared-services-4415088168",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a PMO lead for carbon data and reporting in a beverage company, with no overlap in domains like Power Integrity/Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "The role is primarily non-technical (PMO, program governance) and does not match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis.",
     "id": "5ce3387d",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -59638,14 +59637,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/hardware-engineer-at-vivid-resourcing-4399873622",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for a hardware engineer, but does not specify which specific technical domains this would fall under, like power integrity, advanced packaging, etc. More details needed to evaluate against our target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is non-technical HR/administrative support, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "d0c002ca",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Manager Business Partner",
@@ -59653,14 +59651,13 @@
     "location": "Lisbon, Lisbon, Portugal",
     "url": "https://pt.linkedin.com/jobs/view/project-manager-business-partner-at-airbus-4420168200",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a business management position focused on process transformation and project management, rather than having technical skills in power integrity, signal integrity, advanced packaging, CAD, or VLSI/SoC design.",
+    "matches_requirements": "maybe",
+    "reason": "The role is related to project management, but specific technical domains are not mentioned.",
     "id": "0c3848a5",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced Power/EMIR Design Engineer (M, F, D)",
@@ -59668,14 +59665,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/experienced-power-emir-design-engineer-m-f-d-at-apple-4414165429",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches candidate profile for Power Integrity analysis with experience in ANSYS RedHawk tools.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "ce28bb00",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_experienced_power_emir_design__ce28bb00.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Integrity Design Engineer \u2013 PDN / EMIR - Cork, Ireland",
@@ -59684,13 +59680,12 @@
     "url": "https://ie.linkedin.com/jobs/view/power-integrity-design-engineer-%E2%80%93-pdn-emir-cork-ireland-at-qualcomm-4383919208",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus skills required.",
+    "reason": "The role is a technical leadership position in Power Integrity and aligns well with Vineeth's experience.",
     "id": "7f419e31",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_power_integrity_design_enginee_7f419e31.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/qualcomm_power_integrity_design_enginee_7f419e31.txt"
   },
   {
     "title": "Early Career - Power/EMIR Design Engineer (M, F, D)",
@@ -59699,13 +59694,12 @@
     "url": "https://de.linkedin.com/jobs/view/early-career-power-emir-design-engineer-m-f-d-at-apple-4414165438",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches key skills of power integrity analysis with ANSYS RedHawk and advanced packaging experience.",
+    "reason": "Matches technical domain of Power Integrity, with leadership role exception.",
     "id": "867454c0",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_early_career___power_emir_desi_867454c0.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/apple_early_career___power_emir_desi_867454c0.txt"
   },
   {
     "title": "EMI/EMC Simulation Engineer (m/f/d)",
@@ -59714,13 +59708,12 @@
     "url": "https://de.linkedin.com/jobs/view/emi-emc-simulation-engineer-m-f-d-at-harman-international-4414352622",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (EMC Engineer) at an electronics company.",
+    "reason": "The role is primarily simulation engineering for EMI/EMC in automotive electronics, which falls outside Vineeth's domain of expertise in Power Integrity and SoC physical design.",
     "id": "85c5f742",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "R&D Electrical Engineer - Simulation & Experiment",
@@ -59729,13 +59722,12 @@
     "url": "https://se.linkedin.com/jobs/view/r-d-electrical-engineer-simulation-experiment-at-nkt-4402137208",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on High Voltage, Power Cable technology R&D and simulation, while our target domain requirements are in areas like Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology for semiconductor/VLSI/EDA. The skills also don't closely match.",
+    "reason": "The role is primarily focused on simulation and theoretical analysis, which doesn't directly match Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "1e81f7f3",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff R&D Design Engineer - Power Electronics",
@@ -59744,13 +59736,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-staff-r-d-design-engineer-power-electronics-at-stryker-4370736400",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a R&D Design Engineer position in Power Electronics, which does not closely match the Semiconductor/VLSI/EDA technical domains. Additionally, it's located in Cork, Ireland which does not align with the target locations.",
+    "reason": "The role is software engineering focused on product development rather than semiconductor/VLSI/EDA technical roles.",
     "id": "55392a72",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Power Applications Engineer",
@@ -59758,14 +59749,13 @@
     "location": "Limerick, County Limerick, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/staff-power-applications-engineer-at-analog-devices-4384027779",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches semiconductor domain, Power Integrity focus, and Ireland location",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (providing hands-on debug, design guidance, and customer design-cycle support). This is outside Vineeth's domain.",
     "id": "e4744326",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/analog_devices_staff_power_applications_engin_e4744326.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Design Engineer \u2013 Data Center Accelerator Boards",
