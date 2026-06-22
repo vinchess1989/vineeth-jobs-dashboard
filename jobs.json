@@ -32940,13 +32940,12 @@
     "url": "https://fi.linkedin.com/jobs/view/manager-product-engineering-at-fiskars-group-4420400260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product engineering manager for Fiskars consumer products, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for product engineering management, not semiconductor VLSI EDA.",
     "id": "515e99d4",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "2026-06-29",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
@@ -32954,14 +32953,13 @@
     "location": "Vaasa, Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4430910676",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches the Power Integrity / Signal Integrity technical domain requirement with expertise in SoC PDN sign-off using RedHawk/Voltus tools.",
+    "matches_requirements": "no",
+    "reason": "The role is in power electronics, which does not match Vineeth's key skills in Power Integrity (PI), Advanced Packaging, and EDA tools.",
     "id": "eb557803",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/danfoss_senior_portfolio_manager__powe_eb557803.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer I, Process Engineering",
@@ -32970,13 +32968,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-engineer-i-process-engineering-at-asm-4414232530",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role in process engineering for semiconductors, which is outside our domain of focus on VLSI/EDA/Semiconductor roles.",
+    "reason": "The role is primarily software development (C++ programming for process automation) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and related areas.",
     "id": "50b70eec",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IP Sub system / Block Level Verification Engineer",
@@ -32984,14 +32981,13 @@
     "location": "Hyderabad, India",
     "url": "https://careers.amd.com/careers-home/jobs/79700?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's background in power integrity and requires Python, Perl, Tcl, and shell scripting skills.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "84c8c056",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_ip_sub_system___block_level_ve_84c8c056.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Content Management Specialist (f/m/div) Porto (Maia) (Portugal)HRC1625905HybridHybrid",
@@ -33000,13 +32996,12 @@
     "url": "https://www.infineon.com/careers/job/563808970646455",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Digital Content Management Specialist) and does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for a non-technical role in HR at a semiconductor company, which does not match Vineeth's engineering/technical background.",
     "id": "ed47a05f",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career Programs Development Trainee (f/m/div)Porto (Maia) (Portugal)HRC1674136HybridHybrid",
@@ -33015,28 +33010,26 @@
     "url": "https://www.infineon.com/careers/job/563808971229927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in Human Resources, which does not match the semiconductor/VLSI/EDA technical roles we are searching for.",
+    "reason": "The job is for a non-technical HR role, which does not match Vineeth's technical background in semiconductor engineering.",
     "id": "faf12999",
     "source": "infineon_careers",
     "posted_date": "2023-04-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Specialist Digital Content Management (f/m/div)Munich (Germany)HRC1672310Hybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Munich, Germany",
     "url": "https://www.infineon.com/careers/job/563808971196495",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job posting does not contain enough details for evaluation.",
+    "reason": "The job is a non-technical HR role, which is outside Vineeth's domain.",
     "id": "985844d8",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Operations & Process Specialist (f/m/div)Porto (Maia) (Portugal)HRC1653350HybridHybrid",
@@ -33045,13 +33038,12 @@
     "url": "https://www.infineon.com/careers/job/563808970874329",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided appears to be broken, leading to a '404 ERROR' page. Unable to determine job details.",
+    "reason": "The job posting URL is incorrect or non-existent, so we cannot evaluate this job.",
     "id": "8e77401c",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Business Analytics Specialist (f/m/div)Porto (Maia) (Portugal)HRC1653345HybridHybrid",
@@ -33060,13 +33052,12 @@
     "url": "https://www.infineon.com/careers/job/563808970874327",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain relevant details such as company name, location, posted date, and deadline for applying.",
+    "reason": "The job listing was found to be empty, so it cannot be evaluated against the requirements.",
     "id": "54a33bf2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Go-to-Market Specialist (f/m/div)Porto (Maia) (Portugal)HRC1316964HybridHybrid",
@@ -33075,13 +33066,12 @@
     "url": "https://www.infineon.com/careers/job/563808961499204",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not fit the specified domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership. The role is for a 'Software Go-to-Market Specialist' which does not match any of the technical areas.",
+    "reason": "The job is for a non-technical HR role at Infineon, which does not match Vineeth's background in semiconductor engineering and technical leadership.",
     "id": "e15d85ba",
     "source": "infineon_careers",
     "posted_date": "2023-06-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Sales Operations Specialist (f/m/div)Porto (Maia) (Portugal)HRC1629516Hybrid",
