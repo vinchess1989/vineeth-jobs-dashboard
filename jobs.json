@@ -18212,13 +18212,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-development-tools-engineer-at-altera-4415518232",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in San Jose, CA, USA which does not match the priority locations of Finland, Europe (outside Finland), UK, India or Asia.",
+    "reason": "This role is for FPGA development tools engineering, which is outside Vineeth's domain of power integrity, advanced packaging and CAD methodologies.",
     "id": "ccad2dc8",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Architect",
@@ -18227,13 +18226,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-architect-at-etched-4385397234",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Architect position at a startup company, which does not directly match the technical domains in Vineeth's profile.",
+    "reason": "The job is a software architecture role in ASIC design, which does not directly match Vineeth's background in Power Integrity and packaging.",
     "id": "13872492",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer, Hardware Tools and Methodology Development",
@@ -18242,13 +18240,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-hardware-tools-and-methodology-development-at-nvidia-4395470563",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Software Engineering role at NVIDIA which does not fit the target domain of Power Integrity, Advanced Packaging, or other VLSI/EDA specializations.",
+    "reason": "This role is for software development of hardware tools and methodologies, which falls outside Vineeth's domain of power integrity, advanced packaging, and related EDA/CAD. He has expertise in physical design, EDA tool applications or software engineering focused on semiconductor process flows.",
     "id": "25db4a2e",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Platform Technologies Language & Frontend Design Engineer",
@@ -18257,13 +18254,12 @@
     "url": "https://www.linkedin.com/jobs/view/platform-technologies-language-frontend-design-engineer-at-sifive-4400909718",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software engineering role focused on programming language tooling for hardware design, which does not match our semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is primarily software development (Scala, Python) rather than Power Integrity, VLSI design, EDA tools.",
     "id": "2b690b6e",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager -  Analog Design",
@@ -18272,13 +18268,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86184?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical management role at AMD, which does not fit our focus on engineering/technical positions.",
+    "reason": "The role requires significant analog and digital design experience for LPDDR PHYs which is outside Vineeth's PI/SI and packaging background.",
     "id": "4c47d926",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer/Snr Engineer, FE CPIE YETaichung City, Taichung City, Taiwan + 1 morePosted 2 months ago",
@@ -18287,13 +18282,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40404151",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This senior engineer role is a good fit for the candidate profile, targeting advanced packaging and front-end yield engineering at a semiconductor company in Taiwan.",
+    "reason": "The role is for a senior yield engineering position at Micron's Taiwan fab, fitting Vineeth's power integrity and advanced packaging background. It requires strong front-end semiconductor manufacturing and yield engineering skills.",
     "id": "05fe4a13",
     "source": "micron_careers",
     "posted_date": "2023-04-27",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_engineer_snr_engineer__fe_cpie_05fe4a13.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_engineer_snr_engineer__fe_cpie_05fe4a13.txt"
   },
   {
     "title": "Warehouse Assistant Engineer",
@@ -18302,13 +18296,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=420&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Warehouse Assistant Engineer role at TSMC, which does not match our target domains of VLSI/EDA/Semiconductor engineering roles.",
+    "reason": "The role is a Warehouse Assistant Engineer, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "25bc7ea8",
     "source": "tsmc_careers",
     "posted_date": "2023-04-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -18317,13 +18310,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FWarehouse-Assistant-Engineer%2F420",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Warehouse Assistant role, which does not match the Semiconductor / VLSI / EDA technical criteria.",
+    "reason": "The job is for a non-technical Warehouse Assistant role, which does not fit Vineeth's technical background.",
     "id": "e853b905",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Department Secretary (Tainan)",
@@ -18332,13 +18324,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=3978&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an administrative support role, not a technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is an administrative support position and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
     "id": "1fd35abc",
     "source": "tsmc_careers",
     "posted_date": "2026-05-13",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -18347,13 +18338,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDepartment-Secretary-Tainan%2F3978",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL requires a login to view details, making it ineligible for automated analysis.",
+    "reason": "The URL is broken/invalid, making it impossible to review the actual job posting details.",
     "id": "8a62f930",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Corporate Sustainability Engagement & Strategy Specialist",
