@@ -13783,18 +13783,17 @@
   },
   {
     "title": "Orlando, FL jobs",
-    "company": "Extract from page",
+    "company": "Infin Moving",
     "location": "Orlando, FL",
     "url": "https://www.glassdoor.com/Job/orlando-jobs-SRCH_IL.0,7_IC1154247.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a generic Glassdoor search results page for Orlando jobs, without specifying any particular role or company. It does not match the detailed job requirements profiled above.",
+    "reason": "Job is for warehouse packing roles, not semiconductor/VLSI/EDA technical positions.",
     "id": "d5d078cd",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lockheed Martin jobs in Orlando, FL",
@@ -13803,13 +13802,12 @@
     "url": "https://www.glassdoor.com/Job/orlando-lockheed-martin-jobs-SRCH_IL.0,7_IC1154247_KO8,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Orlando, FL, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote with worldwide eligibility.",
+    "reason": "The role is a non-technical HR position, which is outside Vineeth's domain.",
     "id": "fdaaf9ae",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Inclusion Principal/Senior Professional",
@@ -13818,13 +13816,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19491&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a human resources position focused on global inclusion and employee engagement, not a technical engineering job in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Global Inclusion Professional with no clear match to Vineeth's Power Integrity, Packaging, SoC PDN Sign-off background. It does involve HR-related ESG projects.",
     "id": "14788436",
     "source": "tsmc_careers",
     "posted_date": "2026-03-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer (PE)",
@@ -13833,13 +13830,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5437&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a Master's degree, is located in Taiwan, and does not fit the domains we are looking for.",
+    "reason": "This is a semiconductor manufacturing role, not a leadership or technical engineering role matching Vineeth's background.",
     "id": "bd892488",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -13847,14 +13843,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Engineer-PE%2F5437",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which violates one of our hard rejection criteria.",
+    "matches_requirements": "maybe",
+    "reason": "Candidate profile matches key skills and experience but no specific domain details given in job posting URL.",
     "id": "d087fac7",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u9ad8\u96c4",
@@ -13862,14 +13857,13 @@
     "location": "\u9ad8\u96c4, Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21848&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a multi-choice selection of lower-level technician positions without specific technical domains matching the target criteria.",
+    "matches_requirements": "yes",
+    "reason": "The role is a general technician position at TSMC's manufacturing facility in Kaohsiung, Taiwan.",
     "id": "263e8c87",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_____________263e8c87.txt"
   },
   {
     "title": "LinkedIn",
@@ -13877,14 +13871,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21848",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is at TSMC, which does not fit the semiconductor startup/consultancy preference for senior leadership roles.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 10+ years of experience preferred, but not explicitly required",
     "id": "b1fe9147",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Design Engineer",
@@ -13893,13 +13886,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-design-engineer-at-intel-4426015635",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Analog Design Engineer role requires US residency, which violates our visa sponsorship restriction.",
+    "reason": "The role is primarily analog design which is outside Vineeth's domain of VLSI/EDA/semiconductor expertise.",
     "id": "8fc15338",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "electrical engineer jobs in Cape Canaveral, FL",
@@ -13908,13 +13900,12 @@
     "url": "https://www.glassdoor.com/Job/cape-canaveral-electrical-engineer-jobs-SRCH_IL.0,14_IC1154280_KO15,34.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an electrical engineer, not related to VLSI/EDA/semiconductor",
+    "reason": "The job listing is for a non-technical role at Stark Tech, not an engineering/technical position.",
     "id": "d80a19ae",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cape Canaveral, FL jobs",
@@ -13923,13 +13914,12 @@
     "url": "https://www.glassdoor.com/Job/cape-canaveral-jobs-SRCH_IL.0,14_IC1154280.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not match our engineering/technical position criteria.",
+    "reason": "The job listing is for a non-technical HR role, which does not match Vineeth's engineering background.",
     "id": "7b3e0a88",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lockheed Martin jobs in Cape Canaveral, FL",
