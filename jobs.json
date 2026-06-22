@@ -52959,14 +52959,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/sram-circuit-design-engineer-at-ceremorphic-inc-4146521837",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This mid-senior level SRAM circuit design role at Ceremorphic, a semiconductor startup, matches the domain and experience requirements for my job search.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves SRAM design, which is within Vineeth's background of Power Integrity and SoC PDN sign-off. However, it does not explicitly mention power integrity or advanced packaging.",
     "id": "0ebe5143",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-05-26",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ceremorphic__inc__sram_circuit_design_engineer_0ebe5143.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Design Engineer",
@@ -52975,13 +52974,12 @@
     "url": "https://in.linkedin.com/jobs/view/layout-design-engineer-at-hcltech-4422774450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level engineering position with less than 7 years experience, which does not meet the senior leadership role criteria.",
+    "reason": "The role is primarily CAD layout design for analog/digital ICs, which is outside Vineeth's domain of power integrity and advanced packaging expertise.",
     "id": "526f98ba",
     "source": "linkedin_india_vlsi_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52989,14 +52987,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4308886732",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years experience in Power Integrity, Advanced Packaging at a semiconductor company matches key skills and role level.",
+    "matches_requirements": "no",
+    "reason": "The role is for a Design Verification Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging and VLSI CAD.",
     "id": "db0f03eb",
     "source": "linkedin_india_vlsi_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_design_verification_engineer_db0f03eb.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -53004,14 +53001,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4312657213",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target VLSI/EDA technical domains, with 5 years of experience required and a Bengaluru, India location.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (Verilog, System verilog, UVM, VHDL, UVVM) which is outside Vineeth's domain.",
     "id": "1c5887c5",
     "source": "linkedin_india_vlsi_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_design_verification_engineer_1c5887c5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -53020,13 +53016,12 @@
     "url": "https://de.linkedin.com/jobs/view/digital-design-engineer-at-racyics-4321931290",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not fit the VLSI/EDA domain criteria, being an entry-level digital design engineer position focused on RTL design and verification rather than semiconductor or EDA tool work.",
+    "reason": "The role is primarily digital design, not power integrity or packaging.",
     "id": "70469c4e",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "H\u00e5rdvaruingenj\u00f6r inom avionik till Gripens utveckling",
@@ -53034,14 +53029,13 @@
     "location": "Link\u00f6ping, \u00d6sterg\u00f6tland County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/h%C3%A5rdvaruingenj%C3%B6r-inom-avionik-till-gripens-utveckling-at-saab-4429113128",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily avionics software development with embedded systems, which does not closely match Vineeth's power integrity and advanced packaging background.",
     "id": "935ffc74",
     "source": "linkedin_eu_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -53050,13 +53044,12 @@
     "url": "https://es.linkedin.com/jobs/view/hardware-engineer-at-hubbell-incorporated-4426838582",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Hardware Engineer at Hubbell Incorporated, which does not match the semiconductor/VLSI/EDA domain focus of the job search.",
+    "reason": "The role is for a hardware design engineer in smart grid utilities, electronics manufacturing, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "7a050de8",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
@@ -53065,13 +53058,12 @@
     "url": "https://ie.linkedin.com/jobs/view/fy27-intern-engineering-internship-2027-6-months-cork-at-qualcomm-4412113401",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship role, not a full-time engineering position.",
+    "reason": "This is a general engineering internship role, not specific to semiconductor/VLSI/EDA domains that Vineeth works in.",
     "id": "c22afa19",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Radar Design FPGA Engineer",
@@ -53080,13 +53072,12 @@
     "url": "https://nl.linkedin.com/jobs/view/radar-design-fpga-engineer-at-krush-labs-4426789165",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA software/hardware co-design and verification, which does not directly match the VLSI/EDA job requirements. It's closer to embedded systems engineering than semiconductor EDA.",
+    "reason": "The role is focused on FPGA design for radar systems, which does not match Vineeth's Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off background.",
     "id": "dd17046f",
     "source": "linkedin_eu_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Internship \u2013 Product Engineering (ML Model Development)",
@@ -53095,13 +53086,12 @@
     "url": "https://nl.linkedin.com/jobs/view/internship-%E2%80%93-product-engineering-ml-model-development-at-nxp-semiconductors-4431385492",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an internship focused on ML model development and data analysis, not a technical role in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "This is an internship position for a ML model development engineer, which does not match Vineeth's senior technical leadership background in power integrity and advanced packaging.",
     "id": "f9617074",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
