@@ -8958,13 +8958,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-lead-at-l-t-technology-services-4065970198",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an Associate Manager role with 8+ years experience required, which does not match the target of 10-15+ years for senior leadership roles.",
+    "reason": "The role is focused on Physical Design (PnR) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "86547686",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Physical Design",
@@ -8972,14 +8971,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-physical-design-at-renesas-electronics-4386354866",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain (Physical Design), experience level, and location.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves leading MCU/subsystem/block-level physical design, which is close to Vineeth's expertise in SoC PDN sign-off and package thermal analysis. However, it does not directly match his deep specialization in Power Integrity, EDA tools, or advanced packaging.",
     "id": "17f67ac4",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_staff_engineer__physical_desig_17f67ac4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Physical design Engineer",
@@ -8987,14 +8985,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-physical-design-engineer-at-amd-4381286833",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a senior level physical design role at AMD in Bengaluru, India, matching the target profile.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on ASIC physical design rather than power integrity, which doesn't match Vineeth's key skills and background.",
     "id": "a6b036e4",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/amd_asic_physical_design_engineer_a6b036e4.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Verification Engineer (BLR/ Pune)",
@@ -9003,13 +9000,12 @@
     "url": "https://in.linkedin.com/jobs/view/verification-engineer-blr-pune-at-scaleflux-4403352246",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Verification Engineer position at ScaleFlux in Pune, India, which does not match the target domains of Power Integrity, Advanced Packaging or CAD Methodology.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which falls outside Vineeth's domain.",
     "id": "ec34a4f5",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -9018,13 +9014,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4261261385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level position with only 4 years of experience required, which is below our target of 10-15+ years.",
+    "reason": "The role is primarily software development (proficiency in Python/Perl/TCL), which is outside Vineeth's domain.",
     "id": "f5fecadc",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -9032,14 +9027,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-acl-digital-4214190880",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires experience with Innovus, ICC2, and Fusion Compiler - tools commonly used in SOC physical design sign-off.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on physical design and optimization, which falls outside Vineeth's main area of power integrity.",
     "id": "bbcb00c9",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": "job_descriptions/acl_digital_physical_design_engineer_bbcb00c9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design verification engineer - Malaysia",
@@ -9048,13 +9042,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-malaysia-at-ust-4418294236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Engineer role which does not match the key skills of Power Integrity, Advanced Packaging, CAD Methodology and EDA tools expertise as stated in the candidate profile.",
+    "reason": "This is a verification role focused on UVM, Verilog/SystemVerilog, and SoC/IP-level work which does NOT match Vineeth's power integrity, packaging, CAD, EDA tools or physical design background.",
     "id": "8003603d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-04-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -9063,13 +9056,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4261270179",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an Associate level Design Verification Engineer role, not a match for Senior Technical Leadership roles.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "afc42320",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -9077,14 +9069,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4312638999",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a Design Verification Engineer position at a semiconductor company with the required experience and skills.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Verilog, System verilog, UVM) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "56c6599d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-03-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_design_verification_engineer_56c6599d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "2026 Campus Hire_ Engineer_ HW",
@@ -9093,13 +9084,12 @@
     "url": "https://in.linkedin.com/jobs/view/2026-campus-hire-engineer-hw-at-qualcomm-4273834615",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a junior campus hire position, not matching the senior level and technical domains specified.",
+    "reason": "The role is a general hardware engineering position which doesn't match Vineeth's specialized background in power integrity, advanced packaging, and EDA tools.",
     "id": "204c9d38",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Formal Verification Engineer",
