@@ -57398,13 +57398,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-designer-at-mbda-4322099550",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Designer role is not in a matching technical domain, and the location is Bolton, England, United Kingdom which does not match our target locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia (Taiwan, South Korea, Singapore) or fully remote worldwide.",
+    "reason": "The job is for an FPGA Designer role at MBDA, which is outside Vineeth's domain of Power Integrity (PI) and Advanced Packaging expertise.",
     "id": "86d28654",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Digital Design Engineer, Automotive",
@@ -57413,13 +57412,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-digital-design-engineer-automotive-at-nxp-semiconductors-4386503804",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the target technical areas of Power Integrity (PI) / Signal Integrity (SI), and Advanced Packaging / Thermal.",
+    "reason": "Matches Domain & Technical Area, Location, Experience Level criteria",
     "id": "8a0d16f5",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nxp_semiconductors_principal_digital_design_engin_8a0d16f5.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/nxp_semiconductors_principal_digital_design_engin_8a0d16f5.txt"
   },
   {
     "title": "Firmware Developer for QEC applications",
@@ -57428,13 +57426,12 @@
     "url": "https://fi.linkedin.com/jobs/view/firmware-developer-for-qec-applications-at-iqm-quantum-computers-4426230282",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Quantum Error Correction (QEC) Firmware Developer, which does not match the VLSI/EDA/Semiconductor domain.",
+    "reason": "The role is primarily software development (firmware engineer) which falls outside Vineeth's domain of Power Integrity, Advanced Packaging and CAD/Methodology.",
     "id": "5b321685",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Embedded Engineer HW & SW",
@@ -57443,13 +57440,12 @@
     "url": "https://fi.linkedin.com/jobs/view/embedded-engineer-hw-sw-at-alten-4422917371",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Embedded Engineer HW & SW, which does not match the specific technical domains we are targeting (Power Integrity, Advanced Packaging, etc.)",
+    "reason": "The role is primarily software development (C/C++, RTOS) rather than power integrity, advanced packaging, or EDA tools.",
     "id": "6416ad2a",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -57458,13 +57454,12 @@
     "url": "https://fi.linkedin.com/jobs/view/design-engineer-at-winthrop-technologies-4361420239",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Engineer in construction, not semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical (design engineering for construction) and does not match Vineeth's power integrity, VLSI/EDA background.",
     "id": "2e904929",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -57472,14 +57467,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/design-engineer-at-winthrop-technologies-4360597317",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a junior design engineer position at Winthrop Technologies, which fits the target domain of Design Engineering. The location Espoo Finland also matches.",
+    "matches_requirements": "no",
+    "reason": "The role is for a design engineer in data center construction and coordination, which does not match Vineeth's background of semiconductor VLSI/EDA.",
     "id": "fd357215",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -57488,13 +57482,12 @@
     "url": "https://fi.linkedin.com/jobs/view/design-engineer-at-destia-oy-4417218345",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Engineer role which does not match the technical domains required by the expert profile.",
+    "reason": "The role is a Design Engineer focused on infrastructure projects, which does not match Vineeth's background in semiconductor VLSI EDA. It would require different skills and experience with construction and infrastructure design.",
     "id": "e7128029",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Design Engineer",
@@ -57503,13 +57496,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-design-engineer-at-fiskars-group-4422923074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a design engineer, not semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical design engineering role, not related to semiconductor/VLSI/EDA.",
     "id": "4bdcf234",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-06-10",
     "deadline": "2026-07-01",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Design Engineer",
@@ -57518,13 +57510,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-design-engineer-at-fiskars-group-4422906956",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Lead Design Engineer in product development, not semiconductor/VLSI/EDA.",
+    "reason": "Not a technical engineering role related to power integrity, signal integrity, packaging, VLSI/SoC design, or EDA. Role is general mechanical design for consumer products.",
     "id": "a0a845e3",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "2026-07-01",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Camera Optical Design Engineer",
@@ -57533,13 +57524,12 @@
     "url": "https://fi.linkedin.com/jobs/view/camera-optical-design-engineer-at-huawei-4418291836",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Camera Optical Design Engineer focused on smartphone camera modules, not related to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is for optical design of camera modules, not related to semiconductor, VLSI, EDA domains that Vineeth specializes in.",
     "id": "d9253159",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "K\u00e4\u00e4mij\u00e4",
