@@ -48815,14 +48815,13 @@
     "location": "Cranberry Township, PA",
     "url": "https://www.linkedin.com/jobs/view/physical-security-engineer-at-laveer-engineering-4412193098",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily nuclear engineering focused on plant design and protection systems, outside Vineeth's semiconductor/VLSI/EDA domain expertise.",
     "id": "fdfd538b",
     "source": "linkedin_ww_physical_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineering Associate",
@@ -48831,13 +48830,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineering-associate-at-mesa-associates-inc-4347591513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Substation Physical Engineering Associate role which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for a substation physical design engineer, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "18e7c8f8",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Academy Medical & Performance Practitioner",
@@ -48845,14 +48843,13 @@
     "location": "San Diego, CA",
     "url": "https://www.linkedin.com/jobs/view/academy-medical-performance-practitioner-at-san-diego-fc-4428598580",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical role at a sports organization, not related to semiconductor/VLSI/EDA.",
     "id": "0dbb8cf1",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist",
@@ -48861,13 +48858,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4426391890",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company, does not fit the domain and technical area requirements.",
+    "reason": "The job is non-technical role for low voltage systems installation and IT hardware deployment, outside Vineeth's semiconductor/VLSI/EDA domain expertise.",
     "id": "6e952d05",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Security Manager",
@@ -48875,14 +48871,13 @@
     "location": "College Park, MD",
     "url": "https://www.linkedin.com/jobs/view/senior-physical-security-manager-at-ionq-4415327777",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a non-technical physical security management position, and does not match Vineeth's VLSI/EDA technical expertise.",
     "id": "45603647",
     "source": "linkedin_ww_physical_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical and Technical Security Specialist",
@@ -48891,13 +48886,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-and-technical-security-specialist-at-potomacwave-4425327246",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is a non-technical role at a semiconductor company, so it doesn't meet our engineering/technical position requirement.",
+    "reason": "This role is primarily focused on physical security, not Power Integrity, VLSI/EDA or semiconductor technologies.",
     "id": "c579b18b",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Therapist",
@@ -48906,13 +48900,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-therapist-at-aret%C3%A9-health-pt-4407925753",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role of Physical Therapist at a healthcare company, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "This is a non-technical role (Health Care Provider) at a healthcare company, not in semiconductor/VLSI/EDA.",
     "id": "5f5861bf",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist",
@@ -48921,13 +48914,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4417099604",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Field Technology Specialist role, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is non-technical (IT hardware deployment and troubleshooting) and does not match Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "14114091",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Security Manager",
@@ -48936,13 +48928,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-security-manager-at-city-of-durham-4430418849",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a government position for physical security management, not a technical role related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a non-technical government administration position with no mention of semiconductor, VLSI, EDA, power integrity, or packaging in the job description.",
     "id": "993953f2",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2026-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -48951,13 +48942,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-physical-design-engineer-at-nvidia-4395488167",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, which is a hard rejection per our rules.",
+    "reason": "The role is primarily verification (UVM, testbench development), which is outside Vineeth's domain.",
     "id": "316b4056",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
