@@ -37755,14 +37755,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/40931421",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus. Located in Singapore.",
+    "matches_requirements": "no",
+    "reason": "The job is for a specific Senior Engineer role focused on HBM PE Component Validation, which falls outside Vineeth's main areas of Power Integrity and Advanced Packaging. It has no mention of leadership/management.",
     "id": "99076abf",
     "source": "micron_careers",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_hig_hbm_senior_pe_component_va_99076abf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -37770,14 +37769,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FInvestor-Relations-Manager%2F547",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an investor relations role, not a technical semiconductor position.",
+    "matches_requirements": "yes",
+    "reason": "Matches domain (Advanced Packaging / Thermal) and work model (Remote with worldwide eligibility).",
     "id": "5894ca87",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_5894ca87.txt"
   },
   {
     "title": "AI Engineering Lead",
@@ -37786,13 +37784,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19487&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an AI Engineering Lead, which does not match the VLSI/EDA/semiconductor technical domains targeted.",
+    "reason": "The role is primarily focused on AI systems engineering and LLM application development, which is outside Vineeth's domain of expertise in semiconductor, EDA, VLSI and related hardware technical areas.",
     "id": "cb5aa08c",
     "source": "tsmc_careers",
     "posted_date": "2026-03-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI HPC Manager",
@@ -37800,14 +37797,13 @@
     "location": "Dresden, Germany",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18441&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an AI HPC Architect role, which doesn't directly match the domain skills in our target criteria.",
+    "matches_requirements": "maybe",
+    "reason": "The role is focused on AI HPC architecture, which matches Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "adf6f8d3",
     "source": "tsmc_careers",
     "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -37816,13 +37812,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-HPC-Manager%2F18441",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical marketing role, which does not match our requirements.",
+    "reason": "The role is an AI-HPC Manager position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "2db7556e",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -37831,13 +37826,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-digital-design-engineer-at-nvidia-ai-4423319760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Digital Design Engineer role at NVIDIA which does not match the specified target domains of Power Integrity, Advanced Packaging, VLSI/SoC Design, CAD/Methodology, or EDA Tools.",
+    "reason": "This role is primarily software development (embedded software engineer) which is outside Vineeth's domain of power integrity, advanced packaging and EDA.",
     "id": "7ca4778b",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Thermal Mechanical SimulationHyderabad, Telangana, IndiaPosted 2 months ago",
@@ -37845,14 +37839,13 @@
     "location": "Hyderabad, India",
     "url": "https://micron.eightfold.ai/careers/job/40835715",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Thermal Mechanical Simulation Engineer role at Micron, which falls under the Advanced Packaging/Thermal domain. However, the candidate profile has significant experience in Power Integrity and CAD Methodology, which do not directly align with this specific role.",
+    "matches_requirements": "yes",
+    "reason": "Matches key skills of Thermal Mechanical Simulation, ANSYS, and Micron's Advanced Packaging Technology & Development team.",
     "id": "02128c1a",
     "source": "micron_careers",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_engineer__thermal_mechanical_s_02128c1a.txt"
   },
   {
     "title": "Research Scientist - AI for Electronic Design Automation",
@@ -37860,14 +37853,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/research-scientist-ai-for-electronic-design-automation-at-scop-venture-capital-4431171858",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a research scientist focused on AI for electronic design automation, but does not directly match the VLSI/EDA/semiconductor technical domains we are targeting.",
+    "matches_requirements": "yes",
+    "reason": "The role fits Vineeth's domain of expertise in Power Integrity and matches his key skills like Python, Perl, Tcl scripting.",
     "id": "8610b29d",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/scop_venture_capital_research_scientist___ai_for_el_8610b29d.txt"
   },
   {
     "title": "Application Engineer \u2013 AI-Enhanced EDA Solutions",
@@ -37876,13 +37868,12 @@
     "url": "https://www.linkedin.com/jobs/view/application-engineer-%E2%80%93-ai-enhanced-eda-solutions-at-scop-venture-capital-4431165986",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires EDA expertise, but does not match the primary focus areas of Power Integrity, Advanced Packaging, or CAD Methodology. It is also based in Santa Clara, CA which has lower priority than Europe, India or Asia locations.",
+    "reason": "This is an EDA application engineer role, not a power integrity or advanced packaging position Vineeth specializes in.",
     "id": "a5c00798",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM Principal Component Validation EngineerSingapore, SingaporePosted 3 months ago",
@@ -37891,13 +37882,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40905039",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on validation for high bandwidth memory (HBM) components, which falls under the semiconductor domain. However, it does not directly align with the key domains we are targeting such as Power Integrity, Advanced Packaging, CAD/Methodology or Physical Design.",
+    "reason": "The job is for a Staff Engineer role in HBM Component Validation, which requires 7+ years of experience and is outside Vineeth's domain. Vineeth has only 15 years of relevant experience.",
     "id": "d3a4f5a3",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Design (ASIC) Engineer",
