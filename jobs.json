@@ -61723,14 +61723,13 @@
     "location": "Belgium",
     "url": "https://be.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4340366167",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior/Staff level physical design role at Axelera AI matches candidate's background in power integrity and advanced packaging.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 10+ years experience, good domain overlap in physical design and EDA tools, but company not explicitly stated.",
     "id": "3e4e123e",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2023-05-22",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__3e4e123e.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Wireless Systems Engineer",
@@ -61739,13 +61738,12 @@
     "url": "https://gr.linkedin.com/jobs/view/wireless-systems-engineer-at-intracom-defense-4416220479",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Wireless Systems Engineer, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for a Wireless Systems Engineer at Intracom Defense, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, EDA tools, and CAD methodology.",
     "id": "b7d47603",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -61754,13 +61752,12 @@
     "url": "https://ee.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4340176685",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job is a senior-level physical design role at Axelera AI, which fits the domain and experience level criteria.",
+    "reason": "Senior/Staff level physical design role at Axelera AI matches Vineeth's expertise and experience level.",
     "id": "9305c98f",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__9305c98f.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__9305c98f.txt"
   },
   {
     "title": "CPU Physical Design Engineer - Cork, Ireland",
@@ -61769,13 +61766,12 @@
     "url": "https://ie.linkedin.com/jobs/view/cpu-physical-design-engineer-cork-ireland-at-qualcomm-4363489748",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Qualcomm is actively seeking candidates for physical design engineering positions that match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "Role matches Vineeth's Power Integrity background with requirements for ANSYS RedHawk and PI/SI expertise.",
     "id": "e533d451",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_cpu_physical_design_engineer___e533d451.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/qualcomm_cpu_physical_design_engineer___e533d451.txt"
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -61784,13 +61780,12 @@
     "url": "https://ro.linkedin.com/jobs/view/staff-physical-design-engineer-at-marvell-technology-4411578115",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a senior-level physical design engineering position at Marvell, which fits the target domain and experience level criteria.",
+    "reason": "The role is a Staff Engineer position in Physical Design at Marvell, which matches Vineeth's senior leadership profile.",
     "id": "1fc3690a",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/marvell_technology_staff_physical_design_engineer_1fc3690a.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/marvell_technology_staff_physical_design_engineer_1fc3690a.txt"
   },
   {
     "title": "Sr. Physical Design Engineer (CPU  cores)",
@@ -61798,14 +61793,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/sr-physical-design-engineer-cpu-cores-at-amd-4264442415",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role at AMD with 10+ years of experience, matching key domains of Physical Design and Semiconductor Manufacturing.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a senior physical design engineer position, fitting Vineeth's background in physical design.",
     "id": "6ca6de06",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/amd_sr__physical_design_engineer___6ca6de06.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -61813,14 +61807,13 @@
     "location": "North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/physical-design-engineer-at-ic-resources-4426138415",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for Physical Design Engineer with experience in synthesis, floorplanning and physical implementation planning.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on RTL-to-GDS implementation, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f9e73a50",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ic_resources_physical_design_engineer_f9e73a50.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer (CPU Cores)",
@@ -61829,13 +61822,12 @@
     "url": "https://ie.linkedin.com/jobs/view/staff-physical-design-engineer-cpu-cores-at-amd-4403213631",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the target domain of Physical Design, and is based in Dublin, Ireland.",
+    "reason": "The role matches Vineeth's background in Power Integrity and Advanced Packaging with a focus on CPU Cores at AMD.",
     "id": "467e174e",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/amd_staff_physical_design_engineer_467e174e.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_staff_physical_design_engineer_467e174e.txt"
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -61844,13 +61836,12 @@
     "url": "https://ee.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339339477",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role matches target domain of Physical Design and fits the preferred location criteria.",
+    "reason": "The role is a Senior Physical Design Engineer with 10+ years experience, fitting Vineeth's domain and leadership level.",
     "id": "0a6804cc",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-06",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__0a6804cc.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__0a6804cc.txt"
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -61858,14 +61849,13 @@
     "location": "Riga, Riga, Latvia",
     "url": "https://lv.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339189701",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with VLSI/SoC physical design and is located in Riga, Latvia which fits the target regions.",
+    "matches_requirements": "maybe",
+    "reason": "Senior/Staff title with less than 10 years but potential leadership overlap",
     "id": "177ba149",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__177ba149.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Physical Design Engineer",
