@@ -57537,14 +57537,13 @@
     "location": "Lappeenranta sub-region, South Karelia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/k%C3%A4%C3%A4mij%C3%A4-at-spindrive-4428808846",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domains of Power Integrity, CAD/Methodology and is in Finland.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves packaging and product development for specialized semiconductor components, which is related to Vineeth's advanced packaging background. However, it does not explicitly mention power integrity or EDA tools.",
     "id": "903744ac",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2026-06-11",
     "deadline": "2026-06-25",
-    "description_file": "job_descriptions/spindrive_k__mij__903744ac.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ter\u00e4srakennesuunnittelija",
@@ -57553,13 +57552,12 @@
     "url": "https://fi.linkedin.com/jobs/view/ter%C3%A4srakennesuunnittelija-at-premekon-oy-4427937368",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a structural design role, not within VLSI/EDA semiconductor domain.",
+    "reason": "The role is for a structural designer, which is outside Vineeth's VLSI/EDA domain.",
     "id": "00da8202",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Maintenance Design Engineer, Mechanics",
@@ -57568,13 +57566,12 @@
     "url": "https://fi.linkedin.com/jobs/view/maintenance-design-engineer-mechanics-at-normet-group-4426785876",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical maintenance design engineering role for mechanical equipment, unrelated to semiconductor/VLSI/EDA domain",
+    "reason": "The role is a maintenance engineering position for mechanical equipment, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
     "id": "64f4b720",
     "source": "linkedin_fi_rtl_design_engineer_p2",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Konesuunnittelija",
@@ -57583,13 +57580,12 @@
     "url": "https://fi.linkedin.com/jobs/view/konesuunnittelija-at-dieffenbacher-panelboard-finland-dpf-4429794562",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Designer, not matching the VLSI/EDA/semiconductor domain.",
+    "reason": "The role is focused on machinery design for panelboard manufacturing, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "a33f20d5",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-05",
     "deadline": "2026-06-29",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Lead Engineer -suunnittelija, mekaniikka",
@@ -57598,13 +57594,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-lead-engineer-suunnittelija-mekaniikka-at-etteplan-4429074741",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mechanical design engineer, not related to semiconductor/VLSI/EDA domains.",
+    "reason": "This mechanical design role is unrelated to VLSI/EDA semiconductor domains, and is focused on machinery and construction management.",
     "id": "6ed55ea8",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Designer, Shipbuilding",
@@ -57613,13 +57608,12 @@
     "url": "https://fi.linkedin.com/jobs/view/system-designer-shipbuilding-at-comatec-group-4426162124",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical System Designer role, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is not a technical engineering position at a semiconductor/VLSI/EDA company, but rather a mechanical engineering role in shipbuilding.",
     "id": "c682385f",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-11",
     "deadline": "2026-08-02",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Design Engineer, Static Equipment",
@@ -57628,13 +57622,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-design-engineer-static-equipment-at-rejlers-4422256777",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical marketing/sales role at a semiconductor company",
+    "reason": "The role is for a Lead Design Engineer, primarily focused on static equipment (e.g. tanks, vessels, heat exchangers) in process industries like chemical. This is not within Vineeth's core technical domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, or VLSI/SoC Physical Design.",
     "id": "41cd672e",
     "source": "linkedin_fi_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-05",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applied AI Engineer, Silicon Engineering",
@@ -57642,14 +57635,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-silicon-engineering-at-etched-4431631044",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for an Applied AI Engineer, primarily working on integrating AI with chip development and verification flows. This is a software-focused role that does not match Vineeth's background in hardware domains like Power Integrity, Advanced Packaging and VLSI.",
     "id": "edb8cbb8",
     "source": "linkedin_ww_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD Engineer",
@@ -57657,14 +57649,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cad-engineer-at-nvidia-4395478567",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves development of EDA tools but specifics are a bit unclear on domain alignment.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (EDA tool development) which is outside Vineeth's domain.",
     "id": "2f29b012",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer II \u2013 Design",
@@ -57672,14 +57663,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-ii-%E2%80%93-design-at-microchip-technology-inc-4335895565",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a Senior Design Engineer focused on automation and AI integration rather than Power Integrity or Advanced Packaging.",
     "id": "7a39de83",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-07",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "R&D Engineering, Staff Engineer",
