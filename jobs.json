@@ -48396,13 +48396,12 @@
     "url": "https://uk.linkedin.com/jobs/view/digital-r-d-scientist-internship-at-metalchemy-4430942890",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a digital R&D scientist internship, which does not match the target technical leadership roles in VLSI/EDA.",
+    "reason": "The role is software development (programming, automation) with a computational focus rather than semiconductor/VLSI/EDA technical domains.",
     "id": "b681d273",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-06-10",
     "deadline": "2026-07-03",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Design Engineer",
@@ -48411,13 +48410,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-packaging-design-engineer-at-olix-4397147527",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role closely matches the candidate's experience and skills, especially with advanced packaging and power integrity.",
+    "reason": "The role matches Vineeth's domain of advanced packaging and requires senior level experience.",
     "id": "dde120bd",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2023-05-02",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/olix_senior_packaging_design_engine_dde120bd.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/olix_senior_packaging_design_engine_dde120bd.txt"
   },
   {
     "title": "Key Account Manager",
@@ -48426,13 +48424,12 @@
     "url": "https://uk.linkedin.com/jobs/view/key-account-manager-at-headscout-4423161770",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales/account management position, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily customer relationship management focused with no strong technical background matching Vineeth's domain.",
     "id": "ddfe2723",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Creative Design Manager (12 month FTC)",
@@ -48441,13 +48438,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-creative-design-manager-12-month-ftc-at-propelis-4429236386",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Creative Design Manager at a creative services company, which does not fit our focus on semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is primarily design leadership without specific mention of semiconductor, EDA, VLSI or related technical domains. It's also a fixed-term contract.",
     "id": "152250dd",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-05-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Design Engineer",
@@ -48456,13 +48452,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mechanical-design-engineer-at-sapien-engineering-4429642757",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Design Engineer, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is mechanical engineering design for packaging machinery, which does not match Vineeth's background in semiconductor power integrity and advanced packaging.",
     "id": "3d472dfa",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager, Design/Process Engineering, Design Engineering",
@@ -48471,13 +48466,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-manager-design-process-engineering-design-engineering-at-amazon-4430148738",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Design/Process Engineering Manager, which is not in the target technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is for Design/Process Engineering, which does not match Vineeth's background in Power Integrity, Advanced Packaging and related technical areas.",
     "id": "513aecde",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Product Manager",
@@ -48485,14 +48479,13 @@
     "location": "Leicester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/global-product-manager-at-rieke-4417187917",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a marketing-focused product management position, which does not closely match Vineeth's technical background in power integrity and advanced packaging.",
     "id": "d5d83d16",
     "source": "linkedin_uk_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Service Technician",
@@ -48501,13 +48494,12 @@
     "url": "https://uk.linkedin.com/jobs/view/service-technician-at-rh-plastics-technology-ltd-4427982323",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical service technician position, whereas we are looking for engineering/technical positions in semiconductor/VLSI/EDA.",
+    "reason": "The role is a general machinery service technician position, not specific to semiconductor/VLSI/EDA. It does not match Vineeth's domain expertise in power integrity, advanced packaging, SoC design.",
     "id": "13bce9d7",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Opto - Electronics Device Engineer",
@@ -48515,14 +48507,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-opto-electronics-device-engineer-at-microsoft-4427967518",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is for an Opto-Electronics Device Engineer, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "f2b8f04e",
     "source": "linkedin_uk_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Marketing Engineer (SEO, AEO & CRO)",
@@ -48530,14 +48521,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/marketing-engineer-seo-aeo-cro-at-precis-4426067130",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is marketing-focused for an advertising services company, with no technical roles in semiconductor/VLSI/EDA",
     "id": "978e23cc",
     "source": "linkedin_fi_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Freelance Physical Technologist",
