@@ -14208,13 +14208,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=15999&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not fit into the target domains of Power Integrity, Advanced Packaging, or CAD/Methodology for VLSI/EDA.",
+    "reason": "The role is not related to Power Integrity, Advanced Packaging, EDA tools, CAD methodology, physical design, VLSI/SoC design or engineering leadership which are Vineeth's areas of expertise. Instead, it is for a Chemical Distribution Systems Engineer focused on semiconductor fab chemical dispensing systems.",
     "id": "3943276a",
     "source": "tsmc_careers",
     "posted_date": "2025-03-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14223,13 +14222,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FChemical-Distribution-Systems-Engineer-CDS-m-f-d%2F15999",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Chemical Distribution Systems Engineer, which does not match our technical domains.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer), which is outside Vineeth's domain.",
     "id": "b084c113",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Foundry Development Engineer",
@@ -14238,13 +14236,12 @@
     "url": "https://www.linkedin.com/jobs/view/foundry-development-engineer-at-nvidia-ai-4423197916",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Santa Clara, CA which does not match the required locations of Finland, Europe (outside Finland), UK, India or Asia. It also requires 12+ years experience while the candidate Vineeth has 15 years.",
+    "reason": "The job is located in Santa Clara, CA which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India/Asia or fully remote worldwide. It also requires a BS degree but no PhD which does not strongly align with his background.",
     "id": "963e5da4",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer",
@@ -14253,13 +14250,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-applied-materials-4411504453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Santa Clara, CA, USA, which does not match any of our preferred locations.",
+    "reason": "The role is software development focused (e.g. 'hardware characterization', 'technical documentation') and not a match for Vineeth's Power Integrity / VLSI background.",
     "id": "83f68e74",
     "source": "linkedin_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, DRAM PI",
@@ -14267,14 +14263,13 @@
     "location": "Boise, ID",
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-dram-pi-at-micron-technology-4416174255",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in Boise, ID which does not match the target locations of Finland, Europe, UK, India, Asia, Remote Worldwide.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Leadership position with 10+ years of experience required, and matches the Power Integrity technical domain.",
     "id": "863bc5e2",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/micron_technology_staff_engineer__dram_pi_863bc5e2.txt"
   },
   {
     "title": "Process Integration Engineer",
@@ -14283,13 +14278,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-applied-materials-4405593510",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Process Integration Engineer position at Applied Materials, which doesn't match the specified VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "6370141d",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-04-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Device/Process Integration Engineer (R&D)",
@@ -14297,14 +14291,13 @@
     "location": "Lehi, UT",
     "url": "https://www.linkedin.com/jobs/view/device-process-integration-engineer-r-d-at-texas-instruments-4400002736",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years of experience, leadership role in Power Integrity and Advanced Packaging aligns with target domains.",
+    "matches_requirements": "no",
+    "reason": "The role is software engineering focused, not semiconductor/VLSI/EDA.",
     "id": "fdae71a0",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_device_process_integration_eng_fdae71a0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Product Engineering (Mfg.)",
@@ -14313,13 +14306,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-engineer-product-engineering-mfg-at-analog-devices-4410311895",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a match for VLSI/EDA roles. Job is for Product Engineering in Manufacturing at Analog Devices in Beaverton, Oregon.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "1e8449fa",
     "source": "linkedin_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Engineer",
@@ -14328,13 +14320,12 @@
     "url": "https://www.linkedin.com/jobs/view/test-engineer-at-tower-semiconductor-4414760102",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Test Engineer position, which does not match the targeted technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership in the Semiconductor/VLSI/EDA industry.",
+    "reason": "The role is focused on manufacturing and test engineering for semiconductor devices, which falls outside Vineeth's primary domain of Power Integrity, Advanced Packaging, CAD/Methodology.",
     "id": "25f233ec",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer II - Product",
@@ -14343,13 +14334,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-engineer-ii-product-at-microchip-technology-inc-4414641797",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical (Product Engineering) and located in San Jose, CA, USA, which does not match the semiconductor/VLSI/EDA domain expertise and preferred locations.",
+    "reason": "The role is primarily focused on manufacturing engineering and product support rather than Power Integrity, CAD methodology, or SoC physical design.",
     "id": "f378f711",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Device Engineer",
