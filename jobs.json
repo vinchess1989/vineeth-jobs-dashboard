@@ -14894,13 +14894,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F389",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not specify a company name, making it impossible to determine if it matches the target criteria.",
+    "reason": "The role is a technical leadership position at TSMC, which is primarily focused on process technology and manufacturing, not semiconductor design or EDA tools.",
     "id": "9d1e2e81",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u88fd\u7a0b\u5de5\u7a0b\u5e2b (\u53f0\u5357)",
@@ -14908,14 +14907,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=391&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills and experience in semiconductor manufacturing process development.",
+    "matches_requirements": "no",
+    "reason": "The role is manufacturing-focused, which does not align with Vineeth's background in power integrity and advanced packaging.",
     "id": "83b27219",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "N/A",
-    "description_file": "job_descriptions/taiwan_semiconductor____________83b27219.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14924,13 +14922,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F391",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a marketing position, not an engineering/technical role.",
+    "reason": "The job is at TSMC, which is a semiconductor fabrication plant (wafer fab), not an EDA/semiconductor software company. Vineeth's experience is in power integrity and advanced packaging, but this job is focused on manufacturing.",
     "id": "11ecb62e",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer",
@@ -14939,13 +14936,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-onsemi-4401660914",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Process Integration Engineer) and does not match our semiconductor/VLSI/EDA focus.",
+    "reason": "The role is for a semiconductor process engineer rather than a power integrity, advanced packaging, SoC PDN sign-off, or EDA tool expert.",
     "id": "3207d375",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Yield & Product Engineering",
@@ -14953,14 +14949,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-yield-product-engineering-at-infineon-technologies-4423380667",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior leadership role with 10-15+ years of experience required, matching key domains of Power Integrity and advanced packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is heavily focused on semiconductor manufacturing engineering, which is outside Vineeth's main domain of expertise in Power Integrity and CAD.",
     "id": "b0212eb7",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/infineon_technologie_staff_yield___product_engineer_b0212eb7.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Development Engineer",
@@ -14969,13 +14964,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-development-engineer-at-micron-technology-4418581827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Development Engineer at Micron Technology, which is outside the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, and CAD / Methodology.",
+    "reason": "The role is primarily software development (supporting product verification and validation using CAD tools and simulations) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "d6e634c6",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Manager, ASIC Sustaining Engineering, Silicon Operations",
@@ -14984,13 +14978,12 @@
     "url": "https://www.linkedin.com/jobs/view/manager-asic-sustaining-engineering-silicon-operations-at-amazon-4415368256",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a security clearance that restricts to US citizens only.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which falls outside Vineeth's domain.",
     "id": "80286e71",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration/Yield Enhancement Engineer",
@@ -14999,13 +14992,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-yield-enhancement-engineer-at-x-fab-4419218325",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Lubbock, TX, USA which does not match the preferred locations.",
+    "reason": "This is a process integration engineer role focused on semiconductor manufacturing, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "2143852a",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Product Engineer",
@@ -15014,13 +15006,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-product-engineer-at-marvell-technology-4411568573",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Santa Clara, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, fully remote positions worldwide, or India/Asia. The US location with no mention of visa sponsorship also gets hard rejected per instructions.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "a57555a3",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer",
@@ -15029,13 +15020,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-tsmc-4366437512",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Phoenix, AZ which does not match the high priority regions of Finland/UK/India/Asia or fully remote positions.",
+    "reason": "This Process Integration Engineer role is focused on semiconductor fab operations, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "02ee895d",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Yield and Integration Engineer",
