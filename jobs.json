@@ -72602,13 +72602,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F540",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role of Technical Leader for Power Integrity & Advanced Packaging closely matches Vineeth's background and key skills.",
+    "reason": "Senior leadership role without specific technical domain mentioned, but has strong overlap with target domains",
     "id": "7aff5f6c",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer (Micro-Architecture & RTL Design)",
@@ -72616,14 +72615,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-rtl-design-engineer-micro-architecture-rtl-design-at-rtlynx-semicon-4430375493",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job matches domain requirements for Power Integrity, Advanced Packaging, and RTL Design Engineer.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on RTL design for SoC/ASIC, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "6cc8ed65",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/rtlynx_semicon_senior_rtl_design_engineer__mi_6cc8ed65.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -72632,13 +72630,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-viqu-energy-4430393506",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Design Engineer role is focused on utility infrastructure projects and requires a background in utilities, electricity distribution or infrastructure design. The job description does not match Vineeth's experience in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is for a Design Engineer at VIQU Energy, which does not match Vineeth's Power Integrity and Advanced Packaging technical areas. It would be more suited to someone with experience in electrical distribution network design.",
     "id": "5dbc84e0",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Strategic Communications Officer",
@@ -72647,13 +72644,12 @@
     "url": "https://www.linkedin.com/jobs/view/strategic-communications-officer-at-union-of-concerned-scientists-4427738119",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical communications officer role at a nonprofit, far outside the semiconductor/VLSI/EDA technical domain.",
+    "reason": "This is a non-technical, non-engineering communications role at an environmental advocacy nonprofit, not related to semiconductor/VLSI/EDA.",
     "id": "90aa3d90",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
-    "deadline": "until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "until filled.",
+    "description_file": null
   },
   {
     "title": "Sr. Analog Designer",
@@ -72662,13 +72658,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87065?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an analog designer position, not a VLSI/EDA technical role.",
+    "reason": "The role is primarily software development focused on firmware for AI servers, which does not match Vineeth's domain of power integrity and VLSI.",
     "id": "fc8437c8",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Specialist Test EngineeringTaipei (Taiwan) + 1 moreHRC1676664",
@@ -72677,13 +72672,12 @@
     "url": "https://www.infineon.com/careers/job/563808971260888",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not mention technical keywords related to the candidate's background and skills.",
+    "reason": "The job posting URL was empty, making it impossible to assess whether this role fits Vineeth's background and requirements.",
     "id": "127113db",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logisztikai \u00fcgyint\u00e9z\u0151 - Shipping Administrator (f/m/div)Cegl\u00e9d (Hungary)HRC1682845",
@@ -72692,28 +72686,26 @@
     "url": "https://www.infineon.com/careers/job/563808971299439",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company.",
+    "reason": "The job is for a non-technical HR role at Infineon, which does not match Vineeth's engineering background.",
     "id": "1c377744",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Manager Digital IP and Product Development (f/m/div)Dresden (Germany)HRC1661402",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Dresden (Germany)",
     "url": "https://www.infineon.com/careers/job/563808971020897",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title and description do not match the specified technical domains related to Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is a Project Manager for Digital IP and Product Development, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, CAD Methodology, etc.",
     "id": "a654b43d",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Specialist Package Technology DevelopmentPenang (Malaysia)HRC1576208",
@@ -72722,13 +72714,12 @@
     "url": "https://www.infineon.com/careers/job/563808970160255",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was missing, so I could not verify if it fit the domain and technical area criteria.",
+    "reason": "The URL provided does not lead to a valid job posting page.",
     "id": "a8d995db",
     "source": "infineon_careers",
     "posted_date": "2023-08-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Specialist Procurement EngineeringKulim (Malaysia)HRC1671520",
@@ -72737,13 +72728,12 @@
     "url": "https://www.infineon.com/careers/job/563808971240822",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain relevant technical keywords for semiconductor, VLSI, EDA roles.",
+    "reason": "The URL is broken and returns a 404 error, so it cannot be evaluated.",
     "id": "995f5d3e",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager Industrial EngineeringBatam (Indonesia)HRC1639360",
