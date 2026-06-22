@@ -54626,13 +54626,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-medibeam-4421353003",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mechanical design position, not focused on semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Senior Design Engineer in orthopaedic product design, which does not match Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "b0c7560d",
     "source": "linkedin_uk_asic_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GPU Physical Design Engineer",
@@ -54640,14 +54639,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-physical-design-engineer-at-apple-4414153781",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match with the candidate's background in Physical Design, specifically for GPU design at Apple in Cambridge UK.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves GPU physical design, which is within Vineeth's domain of expertise.",
     "id": "a027253b",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_gpu_physical_design_engineer_a027253b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -54655,14 +54653,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-design-engineer-at-riverlane-4417702670",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Senior Digital Design Engineer role at Riverlane, which doesn't match the Semiconductor/VLSI/EDA technical domains required.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a senior-level digital design engineering position focusing on FPGA and ASIC environments, with strong overlap with Vineeth's power integrity and advanced packaging experience.",
     "id": "b35a519c",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Design Engineer",
@@ -54670,14 +54667,13 @@
     "location": "England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-design-engineer-at-elite-people-partners-ltd-4419232972",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Principal Design Engineer with ownership over micro-architecture and RTL design for GPU/AI compute IP, aligning well with the target domains.",
+    "matches_requirements": "maybe",
+    "reason": "Principal Design Engineer role, close to Vineeth's domain but lacking specifics on exact technical focus like PI/SI or packaging",
     "id": "b9055679",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-04-11",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/elite_people_partner_principal_design_engineer_b9055679.txt",
-    "needs_re_review": true
+    "deadline": "apply now",
+    "description_file": null
   },
   {
     "title": "Graduate Silicon Engineer",
@@ -54686,13 +54682,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-silicon-engineer-at-graphcore-4424569754",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a graduate level silicon design engineer, which does not match the senior technical leader profile of Vineeth.",
+    "reason": "This entry-level graduate role is outside Vineeth's domain of 15+ years of experience in Power Integrity, Advanced Packaging, and VLSI/EDA. It involves basic silicon design tasks and would require significant learning and growth beyond Vineeth's current skill set.",
     "id": "236c249c",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -54700,14 +54695,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-arm-4424609159",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Design Engineer position at Arm, which fits the target domain of Physical Design and the UK location matches.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on general mechanical design rather than semiconductor/VLSI/EDA.",
     "id": "d0590b53",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_senior_design_engineer_d0590b53.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Layout Engineer",
@@ -54716,13 +54710,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-layout-engineer-at-ic-resources-4430324092",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Graduate Layout Engineer position, which does not match the senior-level technical leadership roles targeted.",
+    "reason": "The role is focused on IC layout, PCB layout and design automation - it does not match Vineeth's background in power integrity, signal integrity, advanced packaging or EDA tools.",
     "id": "97a14828",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Physical Verification Design Engineer",
@@ -54731,13 +54724,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gpu-physical-verification-design-engineer-at-apple-4414163527",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a GPU Physical Design role focusing on verification, not power integrity or advanced packaging which aligns with Vineeth's background and key skills.",
+    "reason": "The role is primarily verification (physical design verification closure), which is outside Vineeth's domain.",
     "id": "df3a7210",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-05-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD Engineer",
@@ -54745,14 +54737,13 @@
     "location": "Roecliffe, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/cad-engineer-at-ardent-4411537410",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with CAD engineering, specifically focusing on SolidWorks and product lifecycle management, fitting into the broader technical domain.",
+    "matches_requirements": "no",
+    "reason": "The job is for a CAD Engineer role, which does not match Vineeth's technical domains of Power Integrity, Advanced Packaging, or EDA/CAD Methodology. It also doesn't have a leadership position.",
     "id": "7fea0afb",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-05-01",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/ardent_cad_engineer_7fea0afb.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GPU Physical Verification Design Engineer",
@@ -54760,14 +54751,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-physical-verification-design-engineer-at-apple-4414155747",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a GPU Physical Verification Design Engineer at Apple, matching the target domains of Power Integrity and Advanced Packaging. The candidate has 15 years experience in these areas.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on GPU physical verification, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "a40a1b77",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_gpu_physical_verification_desi_a40a1b77.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Graduate Silicon Engineer",
