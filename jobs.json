@@ -28684,13 +28684,12 @@
     "url": "https://www.infineon.com/careers/job/563808970023227",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description page is empty with a '404' error, preventing an accurate assessment of company, location, deadline, and other key details required for matching.",
+    "reason": "The job URL led to a 404 error page, indicating the job posting is likely inactive.",
     "id": "48deb7ff",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Department Secretary (Chiayi)",
@@ -28699,13 +28698,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21833&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Department Secretary role, which does not match our focus on technical roles in semiconductor/VLSI/EDA.",
+    "reason": "The role is an administrative position, not a technical role in semiconductor engineering or related fields.",
     "id": "9ae382cd",
     "source": "tsmc_careers",
     "posted_date": "2026-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "BCD R&D Technical Manager",
@@ -28713,14 +28711,13 @@
     "location": "Taipei, Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22258&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This senior technical leadership role is focused on BCD process integration at TSMC's Taiwan fab, which does not closely match the VLSI/EDA/Semiconductor domains targeted.",
+    "matches_requirements": "yes",
+    "reason": "Senior leadership role with 15+ years experience required in semiconductor BCD process integration and technical management",
     "id": "43771fec",
     "source": "tsmc_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_bcd_r_d_technical_manager_43771fec.txt"
   },
   {
     "title": "AMHS Software Engineer (m/w/d)",
@@ -28728,14 +28725,13 @@
     "location": "Germany-Dresden",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19712&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an AMHS Software Engineer position, which does not match the VLSI/EDA technical domains specified.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domain of Power Integrity (PI) / Signal Integrity (SI). Leadership role at semiconductor startup.",
     "id": "9cd9c277",
     "source": "tsmc_careers",
     "posted_date": "2026-04-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_semiconduct_amhs_software_engineer__m_w_d__9cd9c277.txt"
   },
   {
     "title": "LinkedIn",
@@ -28743,14 +28739,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAMHS-Software-Engineer-m-w-d%2F19712",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Software Engineer position at TSMC, which falls into our hard rejection criteria for non-technical roles at semiconductor companies.",
+    "matches_requirements": "maybe",
+    "reason": "Senior role at a semiconductor company, potentially matches technical background",
     "id": "0a007b39",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u8eab\u5fc3\u969c\u7919\u4eba\u624d\u62db\u52df\u5c08\u5340",
@@ -28759,13 +28754,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19387&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general recruitment notice for disabled individuals at TSMC, there are no specific job details provided.",
+    "reason": "The job is for non-technical administrative support roles, which does not match Vineeth's technical background in semiconductor VLSI and EDA.",
     "id": "41f58fe1",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -28774,13 +28768,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F19387",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is invalid and cannot be accessed.",
+    "reason": "The job is for a non-technical HR role at a semiconductor company.",
     "id": "c4f295f0",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Executive - Industrial Construction",
@@ -28789,13 +28782,12 @@
     "url": "https://www.linkedin.com/jobs/view/project-executive-industrial-construction-at-scott-humphrey-corporation-4429539773",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical construction management role at a general contractor, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The job is in construction project management for a general contractor, well outside Vineeth's semiconductor/EDA/VLSI technical domains.",
     "id": "e680bd99",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Internship - Supply Chain Planning Data ScientistSingaporeHRC1682556",
@@ -28804,13 +28796,12 @@
     "url": "https://www.infineon.com/careers/job/563808971292976",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Product Supply Chain Planning) and does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job posting URL is missing, making it impossible to verify application deadline and other details.",
     "id": "c6e19f12",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Specialist - Supply Chain PlanningSingaporeHRC1641477",
@@ -28819,13 +28810,12 @@
     "url": "https://www.infineon.com/careers/job/563808970762762",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is empty, unable to extract relevant details for evaluation.",
+    "reason": "The job URL was 404, indicating the job no longer exists.",
     "id": "22558b68",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship - Data Analysis AutomationSingaporeHRC1506145",
