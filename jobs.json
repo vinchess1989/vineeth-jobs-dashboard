@@ -19332,13 +19332,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/how-to-recall-email-in-outlook?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical writing position about email etiquette, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job posting is for a non-technical writing role, which is not within Vineeth's domain of semiconductor/VLSI/EDA engineering.",
     "id": "acb294e0",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "How To Write a Resume Key Account Manager Resume (With Template and Example)",
@@ -19347,13 +19346,12 @@
     "url": "https://www.indeed.com/career-advice/resumes-cover-letters/resume-key-account-manager?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a generic resume advice article, not a specific job posting. Therefore it does not meet the target criteria for an actual semiconductor/VLSI/EDA industry role.",
+    "reason": "The job is a resume guide article, not an actual open job posting.",
     "id": "271b5fe3",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Payroll Coordinator Resume Example (With Tips)",
@@ -19362,13 +19360,12 @@
     "url": "https://www.indeed.com/career-advice/resumes-cover-letters/payroll-coordinator-resume?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical resume for a payroll coordinator, which does not match our focus on semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is non-technical, HR/administration rather than engineering/technical.",
     "id": "1757c289",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -19377,13 +19374,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTalent-Acquisition-Planning-Analyst%2F19410",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was invalid, preventing further evaluation of this job against the criteria.",
+    "reason": "The role is a Talent Acquisition Planning Analyst, which falls under HR and not engineering/technical positions as per Vineeth's domain.",
     "id": "0a61db41",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Device Engineer",
@@ -19392,13 +19388,12 @@
     "url": "https://www.linkedin.com/jobs/view/device-engineer-at-intel-4418835714",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Phoenix, AZ which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or Fully Remote with worldwide eligibility.",
+    "reason": "The role is a general device engineering position at Intel, which does not match Vineeth's specific focus areas of Power Integrity (PI), Advanced Packaging, and CAD Methodology.",
     "id": "9e0cdbfd",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intel Process Integration Engineer - (BE)",
@@ -19407,13 +19402,12 @@
     "url": "https://www.linkedin.com/jobs/view/intel-process-integration-engineer-be-at-intel-4425887024",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a PhD, but the candidate has only a Master's degree and 15 years of experience.",
+    "reason": "The role is primarily device engineering focused, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "c641f38c",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intel Process Integration Engineer - (BE)",
@@ -19422,13 +19416,12 @@
     "url": "https://www.linkedin.com/jobs/view/intel-process-integration-engineer-be-at-intel-4425882128",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a PhD degree, which is above the candidate's experience level.",
+    "reason": "The role is primarily Device Engineering (semiconductor device fabrication, electrical characterization of transistors) which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "e76ed292",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intel Process Integration Engineer - (FE)",
@@ -19437,13 +19430,12 @@
     "url": "https://www.linkedin.com/jobs/view/intel-process-integration-engineer-fe-at-intel-4425871955",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, which excludes it based on location criteria.",
+    "reason": "Requires a PhD degree, which is above Vineeth's current education level.",
     "id": "3b16f355",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Module Integration Engineer",
@@ -19452,13 +19444,12 @@
     "url": "https://www.linkedin.com/jobs/view/module-integration-engineer-at-samsung-india-4429788361",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role explicitly requires US residency, which disqualifies it based on location work model criteria.",
+    "reason": "Job is for a Semiconductor manufacturing position, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "2ab0d3c3",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-05-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer",
@@ -19467,13 +19458,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-samsung-semiconductor-4418035491",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on semiconductor manufacturing process integration, which does not directly align with the candidate's background in power integrity and advanced packaging for SoC PDN sign-off.",
+    "reason": "This role is for a non-technical process integration engineering position at a semiconductor company, which does not match the job search requirements.",
     "id": "787b2a37",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Integration Engineer",
