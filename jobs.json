@@ -7880,13 +7880,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-rtl-design-engineer-at-lean-it-inc-4426850261",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Senior RTL Design Engineer role does not match the target domains of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology. It is focused on Verilog RTL design and development for ASIC/SoC Digital Design.",
+    "reason": "The role is primarily RTL design which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and CAD/Methodology.",
     "id": "a89737c6",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sym3 Staff Hardware Engineer, Mechanical or Electrical",
@@ -7895,13 +7894,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=965208e26c67dcf4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This hardware engineer role is focused on plasma tool service at Applied Materials, which is a semiconductor manufacturing equipment company. It does not fit our target domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, or EDA/CAD Methodology.",
+    "reason": "The role is primarily focused on mechanical and electrical hardware engineering, which falls outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "91270bdb",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sym3 Staff Hardware Engineer, Mechanical or Electrical salaries in Santa Clara, CA",
@@ -7910,13 +7908,12 @@
     "url": "https://www.indeed.com/career/hardware-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=965208e26c67dcf4&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed position is a Hardware Engineer salary survey result, not an actual job posting for hire.",
+    "reason": "The role is outside Vineeth's domain as it is a Hardware Engineer position focusing on mechanical and electrical aspects, whereas Vineeth specializes in Power Integrity (PI), Advanced Packaging, and EDA tools.",
     "id": "fbc3bb35",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HPC Hardware Engineer",
@@ -7925,13 +7922,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=b6adc45f0b2d8dd4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an HPC Hardware Engineer, which does not match the target technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "7a7d4f52",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HPC Hardware Engineer salaries in Milpitas, CA",
@@ -7940,13 +7936,12 @@
     "url": "https://www.indeed.com/career/hardware-engineer/salaries/Milpitas--CA?campaignid=serp-more&fromjk=b6adc45f0b2d8dd4&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The given job listing is for Hardware Engineer roles with salary data, but does not actually describe a specific job opening that meets the target domain and technical area criteria. It needs to include an actual job description matching the semiconductor/VLSI/EDA fields.",
+    "reason": "The role is for hardware engineer focusing on Linux systems, which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and EDA tools.",
     "id": "3d21a52f",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-23",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electrical /Mechanical Engineer",
@@ -7955,43 +7950,40 @@
     "url": "https://www.indeed.com/viewjob?jk=890abcdef0123456",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position in HR, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "b572cfa6",
     "source": "indeed_semi_ww",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "field service engineer jobs in Richardson, TX",
-    "company": "Extract from page",
+    "company": "Amazon Web Services",
     "location": "Richardson, TX, USA",
     "url": "https://www.glassdoor.com/Job/richardson-field-service-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,33.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical field service engineer role at a company that was not explicitly named in the job description. It does not match our focus on semiconductor/VLSI/EDA engineering and technical positions.",
+    "reason": "This role is for AI/ML engineering, not VLSI/EDA.",
     "id": "de19b054",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Richardson, TX jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Richardson, TX, USA",
     "url": "https://www.glassdoor.com/Job/richardson-jobs-SRCH_IL.0,10_IC1140053.htm",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a generic Glassdoor search for all jobs in Richardson, TX without a specific company or role matching Vineeth's profile. It requires further information to determine if it matches.",
     "id": "55db53a3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GTI / Green Technology Investments LLC jobs in Richardson, TX",
@@ -8000,28 +7992,12 @@
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=GTI+%2F+Green+Technology+Investments+LLC&sc.locationSeoString=Richardson&locId=1140053&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a company that appears to be focused on investments rather than engineering.",
+    "reason": "The job is a non-technical HR role, which does not match Vineeth's engineering background in VLSI/EDA.",
     "id": "b3e7bfc7",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Program Manager - NPI",
-    "company": "AMD",
-    "location": "Singapore",
-    "url": "https://careers.amd.com/careers-home/jobs/80155?lang=en-us",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Program Manager for NPI, which does not directly match any of our target technical domains like Power Integrity, Advanced Packaging, CAD/Methodology, etc.",
-    "id": "9cb9a938",
-    "source": "amd_careers",
-    "posted_date": "2023-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Benefits at TI",
