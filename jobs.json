@@ -46855,14 +46855,13 @@
     "location": "Auburn, KY",
     "url": "https://www.linkedin.com/jobs/view/senior-manager-packaging-innovation-at-mars-4382856540",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on packaging innovation, operational improvements and process optimization rather than semiconductor, VLSI, EDA or technical leadership roles in power integrity or physical design.",
     "id": "fdd62ff6",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager, Packaging and Serialization",
@@ -46870,14 +46869,13 @@
     "location": "San Diego, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-manager-packaging-and-serialization-at-acadia-pharmaceuticals-4379454140",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on pharmaceutical packaging and serialization, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "e4c75290",
     "source": "linkedin_ww_advanced_packaging_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IC Packaging Designer",
@@ -46885,14 +46883,13 @@
     "location": "Atlanta, GA",
     "url": "https://www.linkedin.com/jobs/view/senior-ic-packaging-designer-at-falcomm-4384881243",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on RFIC package design and substrate routing, which is outside Vineeth's domain of power integrity, advanced packaging, and SoC PDN sign-off.",
     "id": "11ddff48",
     "source": "linkedin_ww_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-03",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Technologist",
@@ -46900,14 +46897,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-technologist-at-mediatek-4405140913",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "maybe",
+    "reason": "The role involves advanced packaging technologies such as 2.5D/3D and requires collaboration with cross-functional teams, which aligns with Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "24f5890c",
     "source": "linkedin_ww_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Packaging Developer",
@@ -46916,13 +46912,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-developer-at-majesty-brands-4429173062",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Packaging Developer role at Majesty Brands, which does not match the semiconductor/VLSI/EDA industry expertise required.",
+    "reason": "The role is in apparel, accessories, footwear consumer products - well outside semiconductor/VLSI/EDA domains.",
     "id": "70f045bd",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-05-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Engineer",
@@ -46931,13 +46926,12 @@
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-engineer-at-samtec-inc-4429591407",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in San Diego, CA, USA which does not match any of the preferred locations.",
+    "reason": "The role is primarily focused on advanced technology development rather than semiconductor/VLSI/EDA design and tools.",
     "id": "3d1c02a5",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Mechanical Engineer $120,000/year",
@@ -46946,13 +46940,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-mechanical-engineer-%24120-000-year-at-voltas-4430096425",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship for a Senior Mechanical Engineer, which does not match the technical leadership roles we are looking to find matches for.",
+    "reason": "This is an on-site internship role for mechanical engineering focused on medical device design and development, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "88500dd4",
     "source": "linkedin_ww_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VP, NA Category Experience - US, Remote (East Coast)",
@@ -46961,13 +46954,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-na-category-experience-us-remote-east-coast-at-vistaprint-4424910335",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for VP of Category Experience, not related to semiconductor/VLSI/EDA technical positions.",
+    "reason": "The role is a VP of Category Management, which is primarily about marketing and product strategy rather than semiconductor design/EDA/CAD.",
     "id": "0a14b95e",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Operator (REQ839)",
@@ -46976,13 +46968,12 @@
     "url": "https://www.linkedin.com/jobs/view/production-operator-req839-at-spartech-llc-4429573504",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical production operator role at a manufacturing company, which does not fit our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is an entry-level Production Operator position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and VLSI/EDA.",
     "id": "99081d3e",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Designer",
@@ -46991,13 +46982,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-designer-at-solomon-page-4409667190",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a production designer for packaging, not technical roles related to semiconductor VLSI/EDA.",
+    "reason": "The role is a production designer position focused on packaging and prepress artwork, which does not match the semiconductor/VLSI/EDA domain specified in the job requirements.",
     "id": "3303f1e8",
     "source": "linkedin_ww_advanced_packaging_p2",
     "posted_date": "2023-06-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VP Product Development & Commercialization - APC (a Novvia Group Company)",
