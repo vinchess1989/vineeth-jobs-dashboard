@@ -22365,18 +22365,17 @@
   },
   {
     "title": "materials engineer jobs in Austin, TX",
-    "company": "Extract from page",
+    "company": "Amazon Web Services",
     "location": "Austin, TX, USA",
     "url": "https://www.glassdoor.com/Job/austin-materials-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "This role is focused on software development, not semiconductor/VLSI/EDA.",
     "id": "ffa098fa",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Design Engineer",
@@ -22385,13 +22384,12 @@
     "url": "https://www.glassdoor.com/job-listing/principal-design-engineer-micron-technology-JV_IC1147436_KO0,25_KE26,43.htm?jl=1010161399048",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role requires US residency, which violates our no-US-only policy.",
+    "reason": "The role is a general SoC Design Engineer position without specific focus on Power Integrity, Advanced Packaging, CAD/Methodology, or Leadership roles that Vineeth's background strongly aligns with.",
     "id": "da90bde4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Product Engineer (PE)",
@@ -22400,28 +22398,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19042&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a Product Engineer at TSMC's headquarters in Taiwan, which does not match the target locations of Finland, Europe, UK, India, Asia, or US with visa sponsorship.",
+    "reason": "This is a generic engineering role at TSMC, not focused on the semiconductor VLSI EDA domains Vineeth works in. It's also location-specific to Taiwan.",
     "id": "77c0b677",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A - extracted from page",
+    "location": "N/A - extracted from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Product-Engineer-PE%2F19042",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role in HR and Recruiting, which falls outside Vineeth's domain.",
     "id": "9bb021a2",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "More details",
@@ -22430,28 +22426,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22510&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a temporary contractor role for HR at TSMC's headquarters in Taiwan, which does not match the technical VLSI/EDA roles we are targeting.",
+    "reason": "The role is a Talent Acquisition Coordination Assistant, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "7cf0ef57",
     "source": "tsmc_careers",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "TSMC",
+    "location": "Taichung, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTalent-Acquisition-Coordination-Assistant-1-Year-Contractor-Taichung%2F22510",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is a contractor position, which does not match Vineeth's experience level and technical focus.",
     "id": "1df27ffe",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Equity Research Analyst - Single Manager Fund",
@@ -22460,28 +22454,26 @@
     "url": "https://www.linkedin.com/jobs/view/equity-research-analyst-single-manager-fund-at-selby-jennings-4430466036",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical finance role, not related to semiconductor/VLSI/EDA",
+    "reason": "The role is focused on equity research for investment management, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "429bd62b",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "TSMC",
+    "location": "Taipei, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSafety-and-Health-Assistant-Engineer%2F19474",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is in Safety & Health engineering, which is outside Vineeth's domain of expertise in semiconductor design and EDA tools.",
     "id": "24e314a2",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer, Agentic AI Developer",
@@ -22490,13 +22482,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-engineer-agentic-ai-developer-at-protingent-4429366758",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role focused on building AI systems and integrating with EDA tools, rather than a semiconductor VLSI/EDA technical role.",
+    "reason": "The role is primarily software development focused on AI systems and tool automation, which is a mismatch for Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "e8008c96",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -22504,14 +22495,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-erbity-4396571889",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain & technical area, location, and experience level criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "61e8ce0e",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-02",
     "deadline": "N/A",
-    "description_file": "job_descriptions/erbity_design_verification_engineer_61e8ce0e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "[Summer 2027] TSMC AZ Internship Opportunities - Engineering Roles",
