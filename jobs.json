@@ -33766,13 +33766,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/full-stack-developer",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This position matches the target domains of Power Integrity (PI), Advanced Packaging, and CAD/Methodology in semiconductor/VLSI/EDA. It is a senior-level role at a leading EDA software company.",
+    "reason": "Vineeth has significant experience in Power Integrity which is a strong match for this role.",
     "id": "8c8ca859",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ansys_full_stack_developer_jobs_8c8ca859.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/ansys_full_stack_developer_jobs_8c8ca859.txt"
   },
   {
     "title": "Analytical Test Technician",
@@ -33781,13 +33780,12 @@
     "url": "https://ie.linkedin.com/jobs/view/analytical-test-technician-at-msr-fsr-llc-4414626760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an analytical test technician, which does not match the technical domains of Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI, SoC Design or Engineering Leadership.",
+    "reason": "Not a semiconductor, EDA, VLSI related technical role - it is for an analytical test technician in clean rooms and manufacturing settings. Requires hands-on assembly, welding experience, and pipe system testing.",
     "id": "f037ae4a",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Procurement Manager",
@@ -33796,13 +33794,12 @@
     "url": "https://uk.linkedin.com/jobs/view/procurement-manager-at-winbro-4428496491",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a procurement management position focused on purchasing for manufacturing, with no technical requirements in semiconductor/VLSI/EDA.",
+    "reason": "The role is a procurement manager position at Winbro, which is focused on manufacturing and does not match Vineeth's background in semiconductor/VLSI/EDA. The job posting has no mention of technical skills or working with EDA tools.",
     "id": "ffd284a5",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Strategic Market Editor - Critical Minerals",
@@ -33810,14 +33807,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/strategic-market-editor-critical-minerals-at-fastmarkets-4413994911",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Strategic Market Editor role focused on critical minerals markets, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b55e380b",
     "source": "linkedin_semi_uk",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Installation Operations Lead",
@@ -33826,13 +33822,12 @@
     "url": "https://uk.linkedin.com/jobs/view/installation-operations-lead-at-infinitesima-4414626703",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Installation Operations Lead, which does not match the technical engineering roles we are looking for.",
+    "reason": "The role is focused on installation operations for measurement equipment rather than semiconductor design/development.",
     "id": "c65184b6",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Assistant Manager (f/m/d)",
@@ -33840,14 +33835,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/analog-assistant-manager-f-m-d-at-renesas-electronics-4387410751",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Not a technical role focusing on semiconductor/VLSI/EDA domain requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Matches Domain & Technical Area, but is a management role without specific technical skills mentioned.",
     "id": "4b776e6a",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Support Engineer I (Onsite 2 days a week)",
@@ -33855,14 +33849,13 @@
     "location": "Bracknell, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/technical-support-engineer-i-onsite-2-days-a-week-at-eyelit-technologies-4418736461",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an IT support role, not a technical engineering position focused on semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "3f44f6fa",
     "source": "linkedin_semi_uk",
-    "posted_date": "2023-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Section Manager",
@@ -33871,13 +33864,12 @@
     "url": "https://uk.linkedin.com/jobs/view/section-manager-at-nrl-4414007290",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical management position, focusing on delivery and coordination of civils and infrastructure packages in a high-voltage environment. It does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for a civil construction project manager, focused on infrastructure and utilities - it does not match semiconductor/VLSI/EDA technical domains.",
     "id": "d4e2c567",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-04-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer with Python - Freelance AI Trainer",
@@ -33886,13 +33878,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-with-python-freelance-ai-trainer-at-mindrift-4426330966",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Optical Engineer with Python AI Trainer role at a software company, not in semiconductor/VLSI/EDA domain.",
+    "reason": "This role is for an Optical Engineer with Python AI training, which does not match Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "b5b2c0bf",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Optical Engineer with Python - Freelance AI Trainer",
@@ -33901,13 +33892,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-with-python-freelance-ai-trainer-at-mindrift-4426331947",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Freelance AI Trainer in Python and Physics, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is software development focused on AI/ML for problem design and validation, which does not match Vineeth's background in power integrity and EDA tools.",
     "id": "2a2c5da4",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal MEMS Development Engineer",
