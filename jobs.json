@@ -41895,18 +41895,17 @@
   },
   {
     "title": "Process Engineer Jobs",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Built In",
+    "location": "Remote (Worldwide)",
     "url": "https://builtin.com/jobs/dev-engineering/search/process-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title 'Process Engineer' does not match the technical domains we are targeting such as Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership in the semiconductor/VLSI/EDA space.",
+    "reason": "The role is primarily software development (embedded firmware engineer) which is outside Vineeth's domain.",
     "id": "e00b8582",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Analyst Jobs",
@@ -41915,13 +41914,12 @@
     "url": "https://builtin.com/jobs/product/search/product-analyst",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The jobs listed are for Product Analyst positions which do not match the technical roles required in semiconductor/VLSI/EDA industry.",
+    "reason": "The role is for a Product Analyst, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and EDA. It requires skills in data analysis and product management.",
     "id": "6df8ed49",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Designer Jobs",
@@ -41930,13 +41928,12 @@
     "url": "https://builtin.com/jobs/design-ux/search/product-designer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general Product Designer job listing on Built In, not specifically targeting VLSI/EDA roles in semiconductor companies.",
+    "reason": "The role is primarily software development and UX/UI design, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "2ccafbba",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Manager Jobs",
@@ -41945,13 +41942,12 @@
     "url": "https://builtin.com/jobs/product",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Product Manager role which does not match the technical domains of Power Integrity, Advanced Packaging, VLSI/SoC Design etc. required in the job search criteria.",
+    "reason": "The job is a Product Manager role in product marketing, not related to semiconductor/VLSI/EDA.",
     "id": "14d5eb47",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Prozessintegrator ASICs (w/m/div)",
@@ -41960,28 +41956,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-prozessintegrator-asics-w-m-div-at-bosch-4429645492",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a 'Senior Process Integrator ASICs' role, which does not directly match the target domains of Power Integrity (PI), Advanced Packaging, or EDA tools.",
+    "reason": "The role is a technical engineering position at Bosch, which is outside Vineeth's domain of semiconductor, VLSI and EDA.",
     "id": "c9778dc7",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "ASIC Industrialization Engineer",
-    "company": "VeroTech",
-    "location": "Leuven, Flemish Region, Belgium",
-    "url": "https://be.linkedin.com/jobs/view/asic-industrialization-engineer-at-verotech-4422007627",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an industrialization engineer role, not a semiconductor/VLSI/EDA technical engineering role that focuses on power integrity and advanced packaging.",
-    "id": "528f2c5a",
-    "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "QPU Development Engineer - Fixed term",
@@ -41990,13 +41970,12 @@
     "url": "https://fi.linkedin.com/jobs/view/qpu-development-engineer-fixed-term-at-iqm-quantum-computers-4417054367",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Quantum Processing Unit (QPU) Development Engineer, which does not match our target domains of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis or EDA Tool Methodology.",
+    "reason": "The role is primarily focused on quantum computer hardware development and fabrication, which is outside Vineeth's domain of expertise in semiconductor power integrity, advanced packaging, and physical design.",
     "id": "e2e2bd9e",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Device Engineer",
@@ -42005,13 +41984,12 @@
     "url": "https://it.linkedin.com/jobs/view/device-engineer-at-tower-semiconductor-4375345586",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Agrate Brianza, Lombardy, Italy, which does not match the priority regions of Finland, Europe (outside Finland), UK (England, Scotland, Ireland) or India/Asia. Additionally, it requires fluent Italian language skills.",
+    "reason": "The role is primarily MEMS device development, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "603e01bf",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer Metrology (m/w/d)",
@@ -42020,13 +41998,12 @@
     "url": "https://de.linkedin.com/jobs/view/process-engineer-metrology-m-w-d-at-vishay-siliconix-itzehoe-gmbh-4427023296",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Engineer in semiconductor production, but requires knowledge of Halbleiterprozesses and semiconductor processes which doesn't fit the VLSI/EDA technical domains specified.",
+    "reason": "This is a non-technical manufacturing role at Vishay Siliconix Itzehoe GmbH, which only focuses on MOSFET production. Vineeth's experience is in semiconductor design, VLSI and EDA tools, not manufacturing.",
     "id": "0f156f16",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer",
@@ -42035,13 +42012,12 @@
     "url": "https://de.linkedin.com/jobs/view/application-engineer-at-kla-4430416685",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general Application Engineer position rather than focusing on Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "reason": "The role is primarily focused on applications engineering for semiconductor metrology systems, which does not match Vineeth's domains of power integrity, advanced packaging, and CAD methodology.",
     "id": "03370453",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer (NPI)",
