@@ -24805,14 +24805,13 @@
     "location": "Extract from page",
     "url": "https://jobs.keysight.com/candidate-portal",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical HR role, which does not match Vineeth's background in semiconductor technology and engineering.",
     "id": "f7db6e36",
     "source": "keysight_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Our Culture",
@@ -24849,13 +24848,12 @@
     "url": "https://jobs.keysight.com/awards",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for awards and recognition received by Keysight, not a specific open position.",
+    "reason": "This is an employer awards page, not a job listing.",
     "id": "7c9056b3",
     "source": "keysight_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Students & Graduates",
@@ -24864,13 +24862,12 @@
     "url": "https://jobs.keysight.com/students-and-graduates",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This posting is for general student internships and entry-level positions, not specific technical roles in semiconductor/VLSI/EDA.",
+    "reason": "The job is for general student internships and graduates in various roles, not specifically technical semiconductor/VLSI/EDA positions. Also, no specific location details were given.",
     "id": "68f1735f",
     "source": "keysight_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join Now",
@@ -24879,13 +24876,12 @@
     "url": "https://jobs.keysight.com/talent/talentcommunity/form",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role in Keysight's HR department, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "The job posting does not contain sufficient details for an accurate evaluation.",
     "id": "af1e72e0",
     "source": "keysight_careers",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "all of our U.S. Notices",
@@ -24894,13 +24890,12 @@
     "url": "https://jobs.keysight.com/location-united-states",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general company overview, not an actual job posting.",
+    "reason": "The job posting does not match the specified criteria as it is a general company-wide listing for employees across various roles and locations in the U.S., not a technical engineering position.",
     "id": "bed92c28",
     "source": "keysight_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Marketing",
@@ -24909,13 +24904,12 @@
     "url": "https://www.workatastartup.com/jobs/l/marketing",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for marketing roles at various startups, which do not match the semiconductor/VLSI/EDA technical domain.",
+    "reason": "This is a marketing position at a startup job board, not a semiconductor/VLSI/EDA technical role.",
     "id": "3b5ae5d2",
     "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Finance",
@@ -24924,28 +24918,12 @@
     "url": "https://www.workatastartup.com/jobs/l/finance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Finance role, which does not match the technical domains like Power Integrity, Advanced Packaging, CAD/Methodology etc. that we are filtering for in semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical finance role, not related to semiconductor/VLSI/EDA.",
     "id": "1b2c041f",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior Software Engineer, Journeys Team (Fullstack)",
-    "company": "OneSignal",
-    "location": "United States (Remote) / Remote (US)",
-    "url": "https://www.workatastartup.com/jobs/72052",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a software engineering position at OneSignal, which does not fit the semiconductor/VLSI/EDA domain.",
-    "id": "6145241b",
-    "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Developer",
@@ -24954,13 +24932,12 @@
     "url": "https://www.workatastartup.com/jobs/93806",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a software developer position at a marketing platform startup, which does not match semiconductor/VLSI/EDA domain expertise.",
+    "reason": "This is a software developer role at a marketing startup, which does not match Vineeth's background in EDA/semiconductor/VLSI.",
     "id": "69960dea",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Manager",
@@ -24969,13 +24946,12 @@
     "url": "https://www.workatastartup.com/jobs/93495",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Engineering Manager focused on platform engineering, data integration and cloud infrastructure - this does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a senior leadership position that does not strongly match Vineeth's domain expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off, and thermal analysis. It is also not located in one of the high-priority regions.",
     "id": "da8479b5",
     "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "apply now",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-15",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analytics Jobs",
