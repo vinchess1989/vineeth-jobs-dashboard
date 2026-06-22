@@ -46016,13 +46016,12 @@
     "url": "https://ie.linkedin.com/jobs/view/physical-design-implementation-at-european-tech-recruit-4425470758",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role with required experience in PD lifecycle, tools and techniques.",
+    "reason": "Matches target Physical Design Implementation role with 4+ years experience, and is located in Cork, Ireland.",
     "id": "d6e26e65",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_design_implementation_d6e26e65.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_physical_design_implementation_d6e26e65.txt"
   },
   {
     "title": "AIT Engineer \u2013 Power Systems",
@@ -46030,14 +46029,13 @@
     "location": "Valencia, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/ait-engineer-%E2%80%93-power-systems-at-kats-recruitment-4412857635",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on hardware assembly, integration, and testing of satellite power systems, which doesn't directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "54e3c374",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Werkstudent (m/w/d) Elektrik/Elektronik",
@@ -46046,13 +46044,12 @@
     "url": "https://de.linkedin.com/jobs/view/werkstudent-m-w-d-elektrik-elektronik-at-rolls-royce-power-systems-4429598034",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Werkstudent (work-study student) focused on Power BI Dashboard development, data analysis using PTC RV&S (Integrity Lifecycle Manager), and reporting. It does not match Vineeth's technical background in semiconductor VLSI/EDA/Power Integrity.",
+    "reason": "The job is for a non-technical administrative role involving data analysis and dashboard development, outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "b42bf613",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Control and Protection System Engineer",
@@ -46060,14 +46057,13 @@
     "location": "Berlin, Berlin, Germany",
     "url": "https://de.linkedin.com/jobs/view/control-and-protection-system-engineer-at-ge-vernova-4430970985",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with 10+ years experience, close match on technical domain, but remote location and no explicit visa support details yet.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on HVDC control, protection systems and PSCAD/MATLAB Simulink modeling, which does not closely match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tool expertise.",
     "id": "6a042369",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Creative QA Specialist",
@@ -46076,13 +46072,12 @@
     "url": "https://es.linkedin.com/jobs/view/creative-qa-specialist-at-smadex-4408826408",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical creative position, not related to semiconductor/VLSI/EDA work.",
+    "reason": "This Creative QA Specialist role is focused on interactive ads and digital creative quality, not semiconductor/VLSI/EDA.",
     "id": "0f391a76",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -46091,13 +46086,12 @@
     "url": "https://ie.linkedin.com/jobs/view/physical-design-engineer-at-european-tech-recruit-4427030852",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job posting is for a Physical Design Engineer role at a semiconductor company located in Cork, Ireland.",
+    "reason": "Matches target domain of Physical Design Engineer with seniority level and location in Cork, Ireland",
     "id": "0b7e2db9",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_design_engineer_0b7e2db9.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_physical_design_engineer_0b7e2db9.txt"
   },
   {
     "title": "Senior Avionics Engineer (F/M/X)",
@@ -46106,13 +46100,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-avionics-engineer-f-m-x-at-isptech-4419606390",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Avionics Engineer, which does not match the Semiconductor/VLSI/EDA industry expertise required.",
+    "reason": "The role is for Avionics Engineering, not related to semiconductor/VLSI/EDA.",
     "id": "dcafbc56",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Field Service & Quality Engineer.",
@@ -46121,13 +46114,12 @@
     "url": "https://ie.linkedin.com/jobs/view/field-service-quality-engineer-at-jones-engineering-4423893966",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Field Service & Quality Engineer in Electrical and Instrumentation, which does not match the candidate's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or related EDA tools.",
+    "reason": "The role is focused on electrical engineering for modular construction units, not semiconductor/VLSI/EDA.",
     "id": "7bda679c",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Project Engineer",
@@ -46135,14 +46127,13 @@
     "location": "Wetzlar, Hesse, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-project-engineer-at-adjacency-recruitment-group-4426828929",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a mechanical engineering project management position focused on plant engineering, which does not directly match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
     "id": "496f48d6",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Front Office Agent - Domes of Corfu",
@@ -46151,13 +46142,12 @@
     "url": "https://gr.linkedin.com/jobs/view/front-office-agent-domes-of-corfu-at-domes-resorts-4426484769",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a hospitality front office agent at a luxury resort, not a technical role in semiconductor/VLSI/EDA.",
+    "reason": "This is a hospitality role for a luxury resort, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "37c55602",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Validation Engineer",
