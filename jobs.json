@@ -46576,13 +46576,12 @@
     "url": "https://uk.linkedin.com/jobs/view/sr-power-electronics-engineer-at-eaton-4347863466",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Power Electronics Engineer, which does not match the semiconductor/VLSI/EDA domains we are targeting.",
+    "reason": "The role is for a power electronics engineer designing circuits and systems, which falls under electrical engineering rather than semiconductor/VLSI/EDA. It also requires specific knowledge of power semiconductors and components.",
     "id": "d907a64a",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-05-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power System Engineer",
@@ -46591,13 +46590,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-system-engineer-at-national-grid-4426834915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Power System Engineer at an energy utility company, which does not fit our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is in power systems engineering for electricity transmission network design and compliance, not related to semiconductor, VLSI, EDA.",
     "id": "f52f802a",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer (AI/Hot swap)",
@@ -46606,13 +46604,12 @@
     "url": "https://uk.linkedin.com/jobs/view/application-engineer-ai-hot-swap-at-nexperia-4399731858",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level position for a Power Electronics Application Engineer, which does not match the senior leadership technical roles and domains targeted in this job search.",
+    "reason": "The role is for a Product Application Engineer focusing on AI and Hot-Swap solutions, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off. It requires expertise in circuit simulation (e.g. SIMPLIS, LTspice, PSpice etc) and PCB design, while Vineeth specializes in EDA tools like ANSYS RedHawk, RedHawk-SC, Totem, Cadence Voltus, Grid Prototyping System (GPS), Python, Perl, Tcl, Shell Scripting.",
     "id": "35f8abca",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-04-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power and Performance Engineer, PAI Platforms and Performance Analysis",
@@ -46621,13 +46618,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-and-performance-engineer-pai-platforms-and-performance-analysis-at-arm-4424090827",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job is a match based on the candidate's background in Power Integrity and Advanced Packaging.",
+    "reason": "Matches key skills of power/performance analysis, pre-silicon/post-silicon PnP work, and SoC platforms in semiconductor industry.",
     "id": "b151c015",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2026-06-07",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_power_and_performance_engineer_b151c015.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_power_and_performance_engineer_b151c015.txt"
   },
   {
     "title": "Electronics Design Engineer",
@@ -46636,13 +46632,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electronics-design-engineer-at-fuse-energy-4424748698",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electronics Design Engineer focused on renewable energy hardware, which does not match the technical domains of Power Integrity (PI), Advanced Packaging, VLSI/EDA in semiconductors.",
+    "reason": "The role is focused on developing renewable energy systems hardware, which falls under software development/firmware engineering rather than semiconductor/VLSI/EDA.",
     "id": "0c2e5aa1",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Systems Engineer - London, Bicester or Newcastle",
@@ -46651,13 +46646,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-systems-engineer-london-bicester-or-newcastle-at-tractebel-4367634795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Power Systems Engineer focused on data center design, using simulation tools like ETAP for power distribution, load flow analysis, and safety studies. This does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
+    "reason": "The role is for a Power Systems Engineer working on data center power distribution, which does not match Vineeth's domain of Power Integrity, Advanced Packaging, and SoC PDN.",
     "id": "a751332a",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Project Manager - Avionics",
@@ -46666,13 +46660,12 @@
     "url": "https://fi.linkedin.com/jobs/view/project-manager-avionics-at-reorbit-4421929347",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a semiconductor company, which does not match our engineering/technical job requirements.",
+    "reason": "This project management role is focused on avionics and satellite systems, which is outside Vineeth's core areas of power integrity and advanced packaging in semiconductor design.",
     "id": "39a37c3e",
     "source": "linkedin_fi_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electronics Engineer, Radar Payload Team",
@@ -46680,14 +46673,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-electronics-engineer-radar-payload-team-at-iceye-4427937824",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "maybe",
+    "reason": "The role requires experience in electronics engineering designing industrial-grade hardware, which partially overlaps with Power Integrity and advanced packaging.",
     "id": "300f2054",
     "source": "linkedin_fi_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering Manager",
@@ -46695,14 +46687,13 @@
     "location": "Kouvola, Kymenlaakso, Finland",
     "url": "https://fi.linkedin.com/jobs/view/electrical-engineering-manager-at-dayone-4414956179",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily team leadership for electrical systems operations and maintenance, which doesn't match Vineeth's technical specialties in Power Integrity, Packaging, EDA tools.",
     "id": "416049ba",
     "source": "linkedin_fi_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Database Administrator (DBA)",
@@ -46710,14 +46701,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/database-administrator-dba-at-air-apps-4405158958",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a Database Administrator, which falls outside Vineeth's domain of Power Integrity and VLSI/EDA. It involves more database administration and less semiconductor or EDA-related technical skills.",
     "id": "9a19aa8a",
     "source": "linkedin_fi_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Service Project Manager",
