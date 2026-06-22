@@ -897,34 +897,18 @@
     "description_file": null
   },
   {
-    "title": "FPGA ENGINEER II",
-    "company": "Raytheon",
-    "location": "McKinney, TX",
-    "url": "https://www.linkedin.com/jobs/view/fpga-engineer-ii-at-raytheon-4400691710",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This FPGA design role requires U.S. citizenship, which does not match the target domains of Power Integrity/Signal Integrity, CAD/methodology, or VLSI/SoC design for overseas candidates.",
-    "id": "9d2ebb30",
-    "source": "linkedin_fpga_ww",
-    "posted_date": "2026-04-10",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "FPGA Designer",
     "company": "GE HealthCare",
     "location": "Niskayuna, NY",
     "url": "https://www.linkedin.com/jobs/view/fpga-designer-at-ge-healthcare-4429762171",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Designer role, which does not match the VLSI/EDA expertise required by the job search criteria.",
+    "reason": "The role is primarily firmware development for FPGA and mixed-signal ASICs, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "b831c533",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -933,28 +917,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-acron-aviation-4395734482",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an FPGA Engineer position, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for an FPGA Engineer role which does not match Vineeth's domain of expertise in Power Integrity and Advanced Packaging. It involves firmware development for avionics systems rather than semiconductor design.",
     "id": "bbedb76a",
     "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "FPGA Design Engineer - Pittsburgh, PA",
-    "company": "Quintech Electronics & Communications, Inc.",
-    "location": "Pittsburgh, PA",
-    "url": "https://www.linkedin.com/jobs/view/fpga-design-engineer-pittsburgh-pa-at-quintech-electronics-communications-inc-4425797824",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The candidate requirements state 'Must be a US Citizen'",
-    "id": "29da093b",
-    "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Design Eng",
@@ -963,13 +931,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-eng-at-lockheed-martin-4413241511",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA design at a defense contractor, Lockheed Martin, and explicitly requires TS/SCI clearance. We only accept roles in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (embedded software, firmware engineering) which is outside Vineeth's domain.",
     "id": "7d0aa291",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer II",
@@ -978,13 +945,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-ii-at-raytheon-4385538288",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires U.S. citizenship, a security clearance and is based in Huntsville, AL.",
+    "reason": "The role is primarily software development (embedded firmware, Linux environment) which is outside Vineeth's domain.",
     "id": "9f97684a",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-03-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TPU RTL Design Engineer",
@@ -993,13 +959,12 @@
     "url": "https://www.linkedin.com/jobs/view/tpu-rtl-design-engineer-at-google-4417175088",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an RTL design role for TPUs, which does not directly match the target VLSI/EDA domains like Power Integrity, Advanced Packaging, Physical Design, or EDA Tools.",
+    "reason": "The role is primarily software development (Python scripting for design automation and data analysis) rather than focused on semiconductor process technology, power integrity, packaging, SoC physical design, or EDA tools.",
     "id": "0b52f63d",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "NPU RTL Design Engineer, AI Hardware",
@@ -1008,13 +973,12 @@
     "url": "https://www.linkedin.com/jobs/view/npu-rtl-design-engineer-ai-hardware-at-tesla-4420219528",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an AI Hardware team at Tesla, which does not directly match the VLSI/EDA domains of Power Integrity, Advanced Packaging, or EDA tool applications. It also specifies Austin, TX location.",
+    "reason": "The role is primarily software development focused on AI hardware, which is outside Vineeth's domain of power integrity and VLSI/EDA.",
     "id": "e5c38363",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Design Engineer",
@@ -1023,13 +987,12 @@
     "url": "https://www.linkedin.com/jobs/view/system-design-engineer-at-bee-talent-solutions-4429575543",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contractor role for the US, which does not match the preferred regions of Finland/Europe/UK/India/Asia.",
+    "reason": "This is a contract role for System Design Engineer at a recruiting agency, not a semiconductor/VLSI/EDA technical leadership position.",
     "id": "7119f009",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -1038,13 +1001,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-ramp-4421236091",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position focused on building product experiences using AI and self-serve research tools, rather than VLSI/EDA/semiconductor roles in power integrity, advanced packaging, or CAD.",
+    "reason": "The role is for a design engineer at a fintech startup, which does not match Vineeth's VLSI/EDA background and experience.",
     "id": "474cb0f5",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. RTL Design Engineer (Silicon Engineering)",
@@ -1053,13 +1015,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-rtl-design-engineer-silicon-engineering-at-spacex-4418005165",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer at SpaceX, which does not match the required semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "3983aea9",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC RTL Design Engineer, AI Math & Computer Hardware",
@@ -1068,13 +1029,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-rtl-design-engineer-ai-math-computer-hardware-at-tesla-4420204939",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for ASIC RTL Design Engineer focusing on AI Math & Computer Hardware, which does not match the semiconductor/VLSI/EDA expertise required. It's also in Palo Alto, CA, USA, which doesn't fit the location preference.",
+    "reason": "The role is primarily software development (hardware/software co-design) which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
     "id": "d5bb36b3",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Find salaries",
@@ -1083,13 +1043,12 @@
     "url": "https://www.indeed.com/career/salaries",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (career advice) and does not match the semiconductor/VLSI/EDA technical positions we are looking to filter.",
+    "reason": "The job is for a non-technical role (salary research) at a job aggregation company, which does not fit Vineeth's engineering background.",
     "id": "0bcc6f47",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Design Engineer, Amazon Devices-Hardware",
@@ -1098,13 +1057,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=73cb168981897707",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical sales role at Amazon Devices, which does not fit the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "dd239541",
     "source": "indeed_semi_ww",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Design Engineer, Amazon Devices-Hardware salaries in Sunnyvale, CA",
@@ -1113,13 +1071,12 @@
     "url": "https://www.indeed.com/career/product-designer/salaries/Sunnyvale--CA?campaignid=serp-more&fromjk=73cb168981897707&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Product Design Engineer at Amazon Devices-Hardware, which does not match the required technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, etc.",
+    "reason": "This role is a software engineer position focused on hardware design, which does not match Vineeth's background in power integrity, packaging, and CAD methodology.",
     "id": "5fc48217",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Systems Engineer | FPDLink",
