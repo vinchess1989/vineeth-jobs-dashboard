@@ -68066,13 +68066,12 @@
     "url": "https://dk.linkedin.com/jobs/view/electronics-hardware-design-engineer-at-schneider-electric-4428719508",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electronics Hardware Design Engineer role at Schneider Electric, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is for an Electronics Hardware Design Engineer, focusing on energy management products like UPS, which does not match Vineeth's expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, and related EDA/CAD areas.",
     "id": "dcdec32e",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Design Engineer",
@@ -68081,13 +68080,12 @@
     "url": "https://fr.linkedin.com/jobs/view/r-d-design-engineer-at-microchip-technology-inc-4414651540",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an R&D Design Engineer, and the candidate profile specified is a Technical Leader in Power Integrity & Advanced Packaging. There's also no explicit mention of VLSI/EDA related skills required.",
+    "reason": "The role is for an R&D Engineer focused on mixed power electronics, mechanical design and simulation, which does not directly match Vineeth's key background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off.",
     "id": "df26d1bc",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Research Engineer - Electrical Systems",
@@ -68096,13 +68094,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-research-engineer-electrical-systems-at-collins-aerospace-4418082566",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Research Engineer in Electrical Systems, which does not match our target technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "This role is for a Senior Research Engineer in electrical systems, power electronics and aerospace research at Collins Aerospace. It does not match Vineeth's background in VLSI/EDA design and Power Integrity.",
     "id": "a9fbc672",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-05-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer (EMC, Design Verification) - (m/f/d)",
@@ -68111,13 +68108,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-engineer-emc-design-verification-m-f-d-at-harman-international-4412146214",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a hardware test engineer, not specifically focused on semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily focused on EMC testing of telematic systems, which does not match Vineeth's expertise in Power Integrity, Advanced Packaging, and SoC design sign-off.",
     "id": "b6ffd9ab",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EMV Ingenieur (m/w/d)",
@@ -68126,13 +68122,12 @@
     "url": "https://de.linkedin.com/jobs/view/emv-ingenieur-m-w-d-at-schotstek-4302566721",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an EMV Engineer role focusing on signal integrity and hardware design rather than power integrity, advanced packaging, or EDA tools which are the target focus areas.",
+    "reason": "The role is focused on EMV engineering for PCB assembly, with electrical measurements and analysis. This is outside Vineeth's main domains of Power Integrity (PI), Advanced Packaging / Thermal, and EDA CAD Methodology.",
     "id": "7e2b9b5d",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "R&D Engineer (f/m/d)",
@@ -68141,13 +68136,12 @@
     "url": "https://de.linkedin.com/jobs/view/r-d-engineer-f-m-d-at-abb-4429562455",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match the required domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design. It is a general hardware engineering position.",
+    "reason": "The role is primarily focused on hardware development rather than power integrity or advanced packaging.",
     "id": "80a63fd9",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Engineer - Electromagnetic Interference (EMI)",
@@ -68156,13 +68150,12 @@
     "url": "https://de.linkedin.com/jobs/view/systems-engineer-electromagnetic-interference-emi-at-helsing-4410382953",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in a semiconductor company that does not meet our engineering/technical position requirement.",
+    "reason": "The role is focused on EMI/EMC engineering for airborne platforms, which does not directly match Vineeth's domain of Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off. It also doesn't have a clear technical leadership aspect.",
     "id": "729ce4e0",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research & Development Hardware Engineer",
@@ -68170,14 +68163,13 @@
     "location": "Stockholm, Stockholm County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/research-development-hardware-engineer-at-wequel-4328250576",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits a Senior Hardware Engineer position with 6+ years of experience required, matching the target domains and seniority level criteria.",
+    "matches_requirements": "no",
+    "reason": "The job is for a PhD-level hardware engineer focused on advanced power electronics research and development, using SiC semiconductors. It requires significant lab experience with high voltage AC systems up to 400V, PCB design in Altium, and thermal management. This does not match the candidate Vineeth's profile which focuses on Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal analysis, CAD/Methodology, Physical Design, or EDA Tools application engineering roles.",
     "id": "9316bf1d",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/wequel_research___development_hardwar_9316bf1d.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electronics Engineer",
@@ -68186,13 +68178,12 @@
     "url": "https://nl.linkedin.com/jobs/view/electronics-engineer-at-philips-4406522739",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This electronics engineer role at Philips is a non-technical engineering position and does not match our target domain of semiconductor/VLSI/EDA roles.",
+    "reason": "The role is primarily electronics design engineering for medical devices, which does not directly match Vineeth's background in semiconductor VLSI EDA and power integrity. Also, it requires a Bachelor's/Master's degree, not the 15 years of relevant experience he has.",
     "id": "a793d555",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-10",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Electronics Engineer",
@@ -68201,13 +68192,12 @@
     "url": "https://fr.linkedin.com/jobs/view/power-electronics-engineer-at-esrf-the-european-synchrotron-4411241074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Power Electronics Engineer at a research facility, focused on accelerator environments. It does not match the required technical domains of VLSI/EDA/Semiconductor industry expertise in Power Integrity, Advanced Packaging, or EDA tools.",
+    "reason": "The role is for a Power Electronics Engineer at an accelerator research facility, which does not match Vineeth's semiconductor/VLSI/EDA background and roles.",
     "id": "296ba573",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Power Electronics Engineer",
