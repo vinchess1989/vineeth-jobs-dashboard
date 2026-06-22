@@ -5388,28 +5388,26 @@
     "url": "https://www.indeed.com/career-advice/resume-samples?from=jobsearch_footer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general resume sample page, not a specific job posting.",
+    "reason": "Not a semiconductor/VLSI/EDA related job, only general IT and engineering roles",
     "id": "fc13e393",
     "source": "indeed_vlsi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Career Explorer",
-    "company": "Extract from page",
+    "company": "Indeed",
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/salaries?from=jobsearch_footer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain a specific job posting, company name, location, or application deadline. It appears to be an aggregated list of average salaries and job openings across various industries.",
+    "reason": "The posting is for a non-technical role (Company Reviews, Find Salaries) at Indeed - we only want engineering/technical positions.",
     "id": "4ebebfc8",
     "source": "indeed_vlsi_india",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX",
@@ -5418,13 +5416,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=1038f6bd857f5c89",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI infrastructure engineer, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "This role is focused on AI infrastructure and software engineering, which does not directly match Vineeth's technical background in Power Integrity, Advanced Packaging, and CAD Methodology for semiconductor design.",
     "id": "6296c34e",
     "source": "indeed_asic",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX salaries in Santa Clara, CA",
@@ -5433,28 +5430,26 @@
     "url": "https://www.indeed.com/career/infrastructure-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=1038f6bd857f5c89&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job postings are for Infrastructure Engineer roles, not VLSI/EDA/semiconductor roles focused on Power Integrity, Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is for AI infrastructure engineering, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and CAD.",
     "id": "7f217d68",
     "source": "indeed_asic",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Principal ASIC Design Engineer - Terawave salaries",
-    "company": "Extract from page",
+    "company": "Terawave",
     "location": "Austin, TX, USA",
     "url": "https://www.indeed.com/career/salaries/Senior%20Design%20Engineer/Central,%20TX?campaignid=serp-more&fromjk=c6f6f8c6a8ff97de&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify a technical role in semiconductor/VLSI/EDA, and the salary details are unrelated to our search criteria.",
+    "reason": "The role is focused on ASIC design, which is outside Vineeth's core domain of Power Integrity and Advanced Packaging.",
     "id": "1d38b2ab",
     "source": "indeed_asic",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. ASIC Design Engineer",
@@ -5463,13 +5458,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=06c750a4bb5d0a49",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify a company name, making it impossible to evaluate its relevance.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "d05a6be5",
     "source": "indeed_asic",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. ASIC Design Engineer salaries in Roseville, CA",
@@ -5478,13 +5472,12 @@
     "url": "https://www.indeed.com/career/senior-design-engineer/salaries/95747--CA?campaignid=serp-more&fromjk=06c750a4bb5d0a49&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary data page for a Senior Design Engineer position, not an actual job posting with requirements and details.",
+    "reason": "The job is for a senior ASIC design role, which doesn't match Vineeth's background in Power Integrity and Advanced Packaging. Also, it's located in the US, which we avoid unless visa sponsorship or relocation is explicitly mentioned.",
     "id": "14b53f22",
     "source": "indeed_asic",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -5493,13 +5486,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=0f8c066edc83b9a3",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role does not match the required technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership roles. It's a generic ASIC Design Engineer position without specifying the key focus areas.",
+    "reason": "This role is primarily focused on software development and testing, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off and Thermal Analysis.",
     "id": "2cd33c37",
     "source": "indeed_asic",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer salaries in Sunnyvale, CA",
@@ -5508,13 +5500,12 @@
     "url": "https://www.indeed.com/career/design-engineer/salaries/94089--CA?campaignid=serp-more&fromjk=0f8c066edc83b9a3&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description is for a salary information page on Indeed, not an actual job posting.",
+    "reason": "The role is focused on software development (embedded firmware) rather than semiconductor design and EDA tools.",
     "id": "b1363146",
     "source": "indeed_asic",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal FPGA/ASIC Engineer - Level 3",
@@ -5523,13 +5514,12 @@
     "url": "https://www.indeed.com/viewjob?jk=cdef0123456789ab",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in HR at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The role is primarily software development (embedded firmware) which is outside Vineeth's domain.",
     "id": "cdfec5b8",
     "source": "indeed_asic",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Career advice",
