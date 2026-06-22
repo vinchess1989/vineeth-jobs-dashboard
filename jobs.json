@@ -20032,13 +20032,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-development-engineer-at-intel-4394733629",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This technical role is a clear match for Vineeth's background, but it is in Hillsboro, OR and requires Intel to cover relocation costs. Since US-based roles require explicit visa sponsorship to be considered, this job does not meet the criteria.",
+    "reason": "The role is primarily focused on semiconductor fabrication, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "1d5cb1e6",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Product Engineering (Manufacturing)",
@@ -20047,13 +20046,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-engineer-product-engineering-manufacturing-at-analog-devices-4422219094",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Engineer in Manufacturing, focused on process improvements and device analysis. It does not match the specified technical domains like Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, or EDA/CAD.",
+    "reason": "The role is a general product engineering position focused on manufacturing, which does not match Vineeth's technical domain of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or related CAD Methodology.",
     "id": "248ce0a2",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Development Engineer (28nm)",
@@ -20062,13 +20060,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-development-engineer-28nm-at-texas-instruments-4387734497",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires US residency or visa sponsorship, which is a hard rejection for this role.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "27ba9f7d",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer - Semicon Manufacturing Fab",
@@ -20076,14 +20073,13 @@
     "location": "Chandigarh, Chandigarh, India",
     "url": "https://in.linkedin.com/jobs/view/equipment-engineer-semicon-manufacturing-fab-at-mel-systems-and-services-ltd-4387935035",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a mix of equipment engineering with semiconductor manufacturing, which aligns with some technical domains but not others. The key difference compared to the ideal matches is that this role focuses on ownership and maintenance of equipment rather than deep design or analysis work in Power Integrity or CAD.",
+    "matches_requirements": "no",
+    "reason": "The role is non-technical equipment engineering for semiconductor manufacturing, outside Vineeth's domain of VLSI/EDA technical leadership.",
     "id": "0580f717",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Manager, Product Applications Engineering",
@@ -20092,13 +20088,12 @@
     "url": "https://in.linkedin.com/jobs/view/associate-manager-product-applications-engineering-at-kla-4411530876",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is an Associate Manager of Product Applications Engineering at KLA, a semiconductor company in Chennai India.",
+    "reason": "The role requires managing a team of applications development engineers and partnering with customers to insert KLA products into advanced technology nodes.",
     "id": "1d881431",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/kla_associate_manager__product_app_1d881431.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/kla_associate_manager__product_app_1d881431.txt"
   },
   {
     "title": "Senior Silicon Engineer",
@@ -20106,14 +20101,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-silicon-engineer-at-microsoft-4423381394",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domains of Power Integrity, CAD/Methodology, and is a senior leadership role in India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on ASIC verification, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "457c18ad",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/microsoft_senior_silicon_engineer_457c18ad.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Qualification Engineer",
@@ -20121,29 +20115,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/system-qualification-engineer-at-applied-materials-india-4409604399",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain requirements for Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on complex system qualification and validation, which is outside Vineeth's domain of power integrity/thermal. It involves hardware/software integration but no specific mention of PI/SI tools like RedHawk/Voltus.",
     "id": "1e73d7ea",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/applied_materials_in_system_qualification_engineer_1e73d7ea.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "Digital Design Verification Engineer | Precision ADC",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://www.indeed.com/viewjob?jk=a1b2c3d4e5f67890",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job description page is empty with an error message indicating it doesn't exist.",
-    "id": "5372ebd5",
-    "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Office Administrator",
@@ -20152,13 +20130,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21837&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an administrative office role, not a technical engineering or leadership position related to semiconductor, VLSI, EDA work.",
+    "reason": "The role is non-technical administration, not relevant to Vineeth's technical background in Power Integrity and EDA tools.",
     "id": "e85ab388",
     "source": "tsmc_careers",
     "posted_date": "2026-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -20167,13 +20144,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FOffice-Administrator%2F21837",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided does not lead to a valid job listing page with required details like posted date, application deadline, company name, and location. It appears to be a LinkedIn redirect link without specific job information.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "433bc975",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer (PIE)",
