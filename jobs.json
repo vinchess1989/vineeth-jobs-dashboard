@@ -15314,13 +15314,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=505&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an admin position focused on facility and safety rather than technical VLSI/EDA work.",
+    "reason": "This is a non-technical administrative role for an 'Facility & Industrial Safety / Environmental Protection' Assistant Engineer. It does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC design.",
     "id": "ed6d82ff",
     "source": "tsmc_careers",
     "posted_date": "2026-04-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -15329,13 +15328,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F505",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a marketing position, which does not meet our technical role requirement.",
+    "reason": "The role is for a technical leader in Advanced Packaging and Power Integrity, but does not explicitly specify working in EDA tool development or semiconductor design. It could potentially be a match for a senior engineering leadership position at TSMC, but the job description needs to be checked for exact domain alignment.",
     "id": "1534786c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HR Business Partner - Operations",
@@ -15344,28 +15342,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=307&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an HR business partner position, which does not match the technical engineering/technical leadership roles sought in semiconductor/VLSI/EDA.",
+    "reason": "This is an HR administrative role, not a technical engineering position in semiconductor/EDA/VLSI.",
     "id": "51790550",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "LinkedIn",
-    "company": "LinkedIn",
-    "location": "Extract from page",
-    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHR-Business-Partner-Operations%2F307",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a non-technical HR role which does not match the semiconductor/VLSI/EDA technical engineering positions we are looking for.",
-    "id": "b2bbde13",
-    "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Safety and Health Assistant Engineer (\u5b89\u5168\u885b\u751f\u52a9\u7406\u5de5\u7a0b\u5e2b)",
@@ -15374,13 +15356,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19474&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a Safety and Health Assistant Engineer role at TSMC, which does not meet the technical requirements for the semiconductor/VLSI/EDA job search.",
+    "reason": "The role is not a technical engineering position, but an administrative safety and health assistant role focused on auditing and compliance.",
     "id": "13eead20",
     "source": "tsmc_careers",
     "posted_date": "2026-03-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Digital IC Design Engineer",
@@ -15388,14 +15369,13 @@
     "location": "Dublin, Ireland",
     "url": "https://careers.amd.com/careers-home/jobs/76383?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a senior digital IC design engineer with extensive experience in RTL design and verification, fitting the target domain criteria. The location is Dublin, Ireland which matches one of the preferred regions.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "37b5bf3f",
     "source": "amd_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/amd__advanced_micro__staff_digital_ic_design_engine_37b5bf3f.txt",
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager Product Marketing (f/m/div)Munich (Germany)HRC1530211HybridHybrid",
@@ -15404,13 +15384,12 @@
     "url": "https://www.infineon.com/careers/job/563808969277595",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role, which does not match our requirements.",
+    "reason": "The role is non-technical - Product Marketing Manager, and does not fit Vineeth's technical background.",
     "id": "072bc5fa",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager Product MarketingBangalore MG (India)HRC1162465HybridHybrid",
@@ -15419,13 +15398,12 @@
     "url": "https://www.infineon.com/careers/job/563808958519716",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role, which does not match our requirements.",
+    "reason": "The given job description text does not contain enough details to determine a match based on the provided criteria.",
     "id": "2d7f8a5c",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager Product MarketingShanghai + 3 moreHRC1635561",
@@ -15434,13 +15412,12 @@
     "url": "https://www.infineon.com/careers/job/563808970718344",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical marketing role, which does not match our focus on engineering/technical positions.",
+    "reason": "The job posting does not contain sufficient information to make a determination. The page appears to be empty.",
     "id": "a53be274",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager Product MarketingEl Segundo + 2 moreHRC1572398Hybrid",
@@ -15449,13 +15426,12 @@
     "url": "https://www.infineon.com/careers/job/563808969925732",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role, which does not match our criteria for semiconductor/VLSI/EDA positions.",
+    "reason": "The job is a non-technical product marketing role, not an engineering/technical position in semiconductor, VLSI, EDA.",
     "id": "84a4103e",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager of Application Marketing: Power SystemsSan Jose + 3 moreHRC1553962Hybrid",
