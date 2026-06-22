@@ -31694,13 +31694,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-intel-4429637447",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level physical design engineer position at Intel, fitting the key target domains of Power Integrity and CAD/Methodology.",
+    "reason": "The role is a senior physical design engineer position at Intel's Bengaluru facility, which falls within Vineeth's domain and experience level.",
     "id": "547f466b",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-19",
     "deadline": "N/A",
-    "description_file": "job_descriptions/intel_physical_design_engineer_547f466b.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/intel_physical_design_engineer_547f466b.txt"
   },
   {
     "title": "Design Technology Tool Enablement Engineer",
@@ -31709,13 +31708,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-technology-tool-enablement-engineer-at-intel-4418836689",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a specific security clearance that restricts to US citizens only, which is a hard rejection criteria.",
+    "reason": "The role is primarily focused on software development of EDA tools rather than Power Integrity, Advanced Packaging, or CAD Methodology.",
     "id": "fde7a443",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer, CAD Automation",
@@ -31724,13 +31722,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-cad-automation-at-nvidia-4424494288",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in CA, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or Asia. It also exceeds the 15 years experience desired.",
+    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
     "id": "3bd56121",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOC IP Methodology Engineer - Custom SOC",
@@ -31738,14 +31735,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/soc-ip-methodology-engineer-custom-soc-at-nvidia-4395473469",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires a Masters degree with at least 8 years' experience, which exceeds Vineeth's current qualifications.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domain (SOC/IP methodology, RTL to GDS, physical design, EDA tool flows) and seniority level. Located in high-priority region of Austin, TX.",
     "id": "64895d82",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "2026-06-24",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_soc_ip_methodology_engineer____64895d82.txt"
   },
   {
     "title": "ML Research Engineer - Hardware Codesign",
@@ -31754,13 +31750,12 @@
     "url": "https://www.linkedin.com/jobs/view/ml-research-engineer-hardware-codesign-at-openai-4417166205",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is focused on ML research for AI systems, not semiconductor/VLSI/EDA work.",
+    "reason": "The role is primarily software development focused on ML, not VLSI/EDA/semiconductor hardware design.",
     "id": "d0db3c3d",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Tools Software Engineer",
@@ -31769,13 +31764,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-tools-software-engineer-at-intel-4418846076",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires US residency without mentioning visa sponsorship options, hard rejection rule",
+    "reason": "The role is primarily focused on software development rather than semiconductor, VLSI, EDA technical domains.",
     "id": "6f34c3c8",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer, ASIC Design and Verification Tools",
@@ -31784,13 +31778,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-asic-design-and-verification-tools-at-nvidia-4395474425",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Santa Clara, CA which does not match the preferred location criteria of Finland, Europe (outside Finland), UK, India or Asia. It also doesn't state if it's fully remote.",
+    "reason": "The role is primarily software development (tool development) rather than power integrity, advanced packaging, or physical design.",
     "id": "a810bc0c",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD/EDA Tools Automation Engineer",
@@ -31799,13 +31792,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-eda-tools-automation-engineer-at-intel-4426184261",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires on-site presence at Intel's Hillsboro, OR location.",
+    "reason": "The role is primarily focused on software tool development for semiconductor design automation, which is outside Vineeth's core domains of Power Integrity and Advanced Packaging. Also, it specifies 'College Grad' for the seniority level.",
     "id": "0435e98d",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Engineer \u2013 Systems & Performance Engineering",
@@ -31813,29 +31805,27 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/82625?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a senior-level engineer with 10+ years' experience, focusing on systems architecture and performance engineering. The job location is Bangalore, India.",
+    "matches_requirements": "no",
+    "reason": "This role is for a non-technical Software Systems Design Engineer, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "d2a89462",
     "source": "amd_careers",
     "posted_date": "2023-03-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_lead_engineer___systems___perf_d2a89462.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Embedded Software Engineer (f/m/div)Padua (Padova) (Italy)HRC1588752Hybrid",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Padua (Padova), Italy",
     "url": "https://www.infineon.com/careers/job/563808970189312",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "404 Error on Infineon site, could not find details about company, location or deadline.",
+    "reason": "The job is for an Embedded Software Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "645b3e4f",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager Digital Pre-Silicon Verification (f/m/div)Belgrade (Serbia)HRC1375228HybridHybrid",
