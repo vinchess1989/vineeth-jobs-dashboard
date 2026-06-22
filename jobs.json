@@ -42838,13 +42838,12 @@
     "url": "https://uk.linkedin.com/jobs/view/new-product-introduction-engineer-at-axelera-ai-4426328866",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a New Product Introduction Engineer at Axelera AI in Bristol, UK, which does not match the target domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, or CAD Methodology.",
+    "reason": "This is a New Product Introduction Engineer role, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "86fd992f",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Corporate Planning (CPO) Associate _ Operational Planning Track",
@@ -42853,13 +42852,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16651&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering/leadership role in semiconductor/VLSI/EDA domains.",
+    "reason": "Role is entry-level and does not match leadership role criteria",
     "id": "9057ad7a",
     "source": "tsmc_careers",
     "posted_date": "2026-04-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -42868,13 +42866,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCorporate-Planning-CPO-Associate-Operational-Planning-Track%2F16651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a corporate planning role, which does not match the technical engineering positions we are looking for in the semiconductor/VLSI/EDA industry.",
+    "reason": "The job is for a corporate planning role, which does not match Vineeth's technical background in power integrity, advanced packaging and EDA.",
     "id": "bcff2554",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software/Algorithm Engineer",
@@ -42883,13 +42880,12 @@
     "url": "https://www.glassdoor.com/job-listing/software-algorithm-engineer-applied-materials-JV_IC1147439_KO0,27_KE28,45.htm?jl=1010172272139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software/Algorithm Engineer role at Applied Materials, which does not fit the technical domains and experience level requirements of Semiconductor/VLSI/EDA industry.",
+    "reason": "The job is for a software engineering role, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "feb3a82a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Infrastructure Verification Engineer",
@@ -42898,13 +42894,12 @@
     "url": "https://www.glassdoor.com/job-listing/infrastructure-verification-engineer-techbiz-global-JV_IC1150472_KO0,36_KE37,51.htm?jl=1010168637576",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Continuous Integration & Verification Infrastructure role, which does not directly match the VLSI/EDA technical domains.",
+    "reason": "The role is software-focused on CI/CD, not power integrity or VLSI.",
     "id": "6c827b07",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "verification engineer jobs in Kirkland, WA",
@@ -42913,13 +42908,12 @@
     "url": "https://www.glassdoor.com/Job/kirkland-verification-engineer-jobs-SRCH_IL.0,8_IC1150472_KO9,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a verification engineer role which does not match the technical domains of Power Integrity, Advanced Packaging, and CAD/Methodology we are targeting.",
+    "reason": "This is a verification engineering role, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "3bf38cc5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Kirkland, WA jobs",
@@ -42928,13 +42922,12 @@
     "url": "https://www.glassdoor.com/Job/kirkland-jobs-SRCH_IL.0,8_IC1150472.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search is for all Kirkland, WA jobs which does not match the specific technical domains and experience levels we are looking for.",
+    "reason": "The job posting is for Kirkland, WA, USA, which does not match Vineeth's target locations in Finland, Europe (outside Finland), UK, India/Asia or fully remote positions. Additionally, it lacks specific details on the technical role and company.",
     "id": "2e7c0b53",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Techbiz Global jobs in Kirkland, WA",
@@ -42943,13 +42936,12 @@
     "url": "https://www.glassdoor.com/Job/kirkland-techbiz-global-jobs-SRCH_IL.0,8_IC1150472_KO9,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided does not lead to a valid job listing. It appears to be instructions on how to access Glassdoor and troubleshoot security issues, rather than an actual job advertisement.",
+    "reason": "The job is located in Kirkland, WA, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India/Asia or fully remote roles.",
     "id": "8a5fc181",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Engineer II",
@@ -42958,13 +42950,12 @@
     "url": "https://www.glassdoor.com/job-listing/software-engineer-ii-cadence-design-systems-JV_IC1147436_KO0,20_KE21,43.htm?jl=1010170539526",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Engineer II at Cadence Design Systems, which does not fit the Technical Leader - Power Integrity & Advanced Packaging background of the candidate.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "2c387203",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "software engineer jobs in San Jose, CA",
@@ -42973,13 +42964,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-software-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software engineer position, which does not match the semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "The job is for software engineer roles, which falls under software development and is outside Vineeth's domain of VLSI/EDA.",
     "id": "d941c21f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cadence Design Systems jobs in San Jose, CA",
