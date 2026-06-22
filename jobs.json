@@ -11422,13 +11422,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18807&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a trainee position leading to a regular Process Engineer role at TSMC in Taiwan, which does not match the specified target job criteria.",
+    "reason": "The role is for a process assistant, which does not match Vineeth's senior technical leadership experience.",
     "id": "595ebce8",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -11437,13 +11436,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F18807",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid LinkedIn job posting, so it cannot be evaluated.",
+    "reason": "The job URL does not contain a standard date, making it difficult to determine if the posting is still active.",
     "id": "7f807a6c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Packaging Simulation Engineer",
@@ -11452,13 +11450,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16521&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This R&D Packaging Simulation Engineer role is located in Taiwan, which does not match the target regions of Finland, Europe (outside Finland), UK, India, Asia or US with visa sponsorship. It's also a more junior level engineer position rather than a senior leadership role.",
+    "reason": "The role is primarily focused on simulation for advanced packaging, while Vineeth's background is in Power Integrity and Advanced Packaging. It does not match his key skills.",
     "id": "e369ed1b",
     "source": "tsmc_careers",
     "posted_date": "2023-05-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -11467,13 +11464,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Packaging-Simulation-Engineer%2F16521",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role fits the Advanced Packaging / Thermal domain with experience in package thermal analysis and IC packaging, meeting our target job criteria.",
+    "reason": "The role is a Senior Packaging Engineer position at TSMC, which fits Vineeth's Power Integrity and Advanced Packaging experience. It is fully remote worldwide.",
     "id": "d23156e5",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_d23156e5.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_d23156e5.txt"
   },
   {
     "title": "Quality and Reliability Engineer",
@@ -11481,14 +11477,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=352&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for a Quality and Reliability Engineer at TSMC Taiwan, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Quality and Reliability Engineer at TSMC, which matches Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "8d317690",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_quality_and_reliability_engine_8d317690.txt"
   },
   {
     "title": "LinkedIn",
@@ -11496,14 +11491,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FQuality-and-Reliability-Engineer%2F352",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a general Quality and Reliability Engineer position, which does not match the specific technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership that are targeted.",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's background in Power Integrity, with a focus on package thermal analysis and IC packaging, which aligns closely with his experience.",
     "id": "18aceaa3",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc__taiwan_semicon_linkedin_18aceaa3.txt"
   },
   {
     "title": "Process Engineer (RDPC - 3DIC)",
@@ -11511,14 +11505,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4992&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an R&D Process Engineer position, which doesn't match the target technical domains like Power Integrity, Signal Integrity, or CAD/Methodology.",
+    "matches_requirements": "yes",
+    "reason": "Matches domain of Advanced Packaging / Thermal, with 15+ years experience in Power Integrity & Advanced Packaging. Leadership role exception applies.",
     "id": "6e407391",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_process_engineer__rdpc___3dic__6e407391.txt"
   },
   {
     "title": "LinkedIn",
@@ -11526,14 +11519,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Engineer-RDPC-3DIC%2F4992",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches the domain of Power Integrity (PI) / Signal Integrity (SI), and is for a Senior level role at TSMC, a major semiconductor company.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a Process Engineer for advanced packaging which matches Vineeth's background, but there is no explicit years of experience mentioned. The job is remote worldwide so it fits that requirement.",
     "id": "22df5601",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_22df5601.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer (RDPC - 3DIC)",
@@ -11541,14 +11533,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4993&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This equipment engineering role is focused on semiconductor manufacturing processes and equipment, which does not directly match the candidate's power integrity, advanced packaging, and EDA tool expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role is a technical position focused on advanced semiconductor manufacturing equipment engineering and process development, which closely matches Vineeth's background in Power Integrity, Packaging, and CAD Methodology.",
     "id": "5e60ba22",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_equipment_engineer__rdpc___3di_5e60ba22.txt"
   },
   {
     "title": "LinkedIn",
@@ -11557,13 +11548,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEquipment-Engineer-RDPC-3DIC%2F4993",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Equipment Engineer position, which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership specified in the requirements.",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "2847c8fa",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Substrate / Advanced Package Engineer (7103)",
