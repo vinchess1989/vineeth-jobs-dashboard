@@ -49782,13 +49782,12 @@
     "url": "https://de.linkedin.com/jobs/view/electronics-engineer-f-m-d-at-universal-quantum-4426793236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This electronics engineering role at Universal Quantum does not match the semiconductor/VLSI/EDA domain expertise required for this job search.",
+    "reason": "The job is for an Electronics Engineer role at a general electronics company, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "3e974be6",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Design Engineer",
@@ -49797,13 +49796,12 @@
     "url": "https://es.linkedin.com/jobs/view/staff-physical-design-engineer-at-aion-silicon-4377788256",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Staff Physical Design Engineer position, which does not exactly match the specified technical domains of Power Integrity / Signal Integrity, CAD / Methodology, or Advanced Packaging. It falls within the broader category of 'Physical Design' but lacks specificity in terms of power integrity or advanced packaging.",
+    "reason": "The role is primarily focused on Physical Design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "66b87d64",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF/mmW Device Engineer (m/f/d)",
@@ -49812,13 +49810,12 @@
     "url": "https://de.linkedin.com/jobs/view/rf-mmw-device-engineer-m-f-d-at-apple-4426045446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RF/mmW Device Engineer, which doesn't fit the primary target domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology. It's also in Munich Germany, not a priority location.",
+    "reason": "The role is primarily software development (cellular silicon development) which is outside Vineeth's domain.",
     "id": "c0a2701f",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Principal SoC Physical Design Engineer",
@@ -49827,13 +49824,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-principal-soc-physical-design-engineer-at-racyics-4239958016",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior/Principal level SoC Physical Design Engineer role matches the senior experience and domain requirements.",
+    "reason": "Strong match for senior SoC physical design with 10+ years experience, in key technical areas of CAD methodology and EDA tools like Cadence, Synopsys.",
     "id": "19392e21",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/racyics_senior_principal_soc_physical__19392e21.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/racyics_senior_principal_soc_physical__19392e21.txt"
   },
   {
     "title": "INTERNSHIP \u2013 STUDIO ASSISTANT (M/F/X) \u2013 JULY 2026",
@@ -49842,13 +49838,12 @@
     "url": "https://fr.linkedin.com/jobs/view/internship-%E2%80%93-studio-assistant-m-f-x-%E2%80%93-july-2026-at-celine-4411668192",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The internship is for a non-technical studio assistant role, which does not match our semiconductor/VLSI/EDA job requirements.",
+    "reason": "The job is an internship in fashion studio assistance, unrelated to semiconductor/VLSI/EDA.",
     "id": "5799baa9",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2026-06-22",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Space Systems Engineer (Greece)",
@@ -49857,13 +49852,12 @@
     "url": "https://gr.linkedin.com/jobs/view/space-systems-engineer-greece-at-oq-technology-4422734050",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Space Systems Engineer role, unrelated to Semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily focused on system engineering of satellite systems and ground segment, which is outside Vineeth's primary domains of power integrity, advanced packaging, and CAD.",
     "id": "fe222d9f",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49872,13 +49866,12 @@
     "url": "https://pt.linkedin.com/jobs/view/physical-design-engineer-at-axelera-ai-4392926464",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position, and the candidate has over 15 years of experience.",
+    "reason": "The role is primarily RTL/gate-level simulation, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "4772d901",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49886,14 +49879,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/physical-design-engineer-at-axelera-ai-4392910875",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role matches senior leadership experience, but the company is a startup so there's some uncertainty.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "172ae957",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49901,14 +49893,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/physical-design-engineer-at-axelera-ai-4392925495",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves physical design with EDA tools, but is at a startup company not directly in the semiconductor domain.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily physical design with a focus on ASICs, while Vineeth's background is in power integrity and advanced packaging. There is no strong overlap.",
     "id": "27ae2fc6",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Lead",
@@ -49917,13 +49908,12 @@
     "url": "https://fr.linkedin.com/jobs/view/physical-design-lead-at-ic-resources-4430317335",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level Physical Design Lead with experience required, matching key criteria.",
+    "reason": "Matches all key requirements for a Physical Design Lead at a semiconductor startup with leadership/management title.",
     "id": "15217c93",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ic_resources_physical_design_lead_15217c93.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/ic_resources_physical_design_lead_15217c93.txt"
   },
   {
     "title": "High-Speed Digital PCB Layout Engineer (m/f/div.)",
