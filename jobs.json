@@ -16560,13 +16560,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Technician%2F19046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is a LinkedIn share link, which does not contain an actual job posting with details needed for evaluation.",
+    "reason": "The URL provided is for LinkedIn's general page, not a specific job posting. It does not contain enough information to evaluate if it matches Vineeth Kaimal's profile and requirements.",
     "id": "c350937b",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer (Hsinchu)",
@@ -16574,14 +16573,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=388&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a Process Integration Engineer at TSMC, which matches the technical domains of Advanced Packaging and Power Integrity. The location is Taiwan.",
+    "matches_requirements": "no",
+    "reason": "This role is for a Process Integration Engineer at TSMC, which focuses on semiconductor fab manufacturing and does not match Vineeth's experience in power integrity, advanced packaging, or EDA tool methodology.",
     "id": "43eb4a68",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_process_integration_engineer___43eb4a68.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u5609\u7fa9",
@@ -16590,13 +16588,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21846&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an entry-level position at TSMC, which does not fit the senior leadership level we are targeting.",
+    "reason": "The role is for a manufacturing technician at TSMC, which is outside Vineeth's domain.",
     "id": "71ff5d72",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -16605,13 +16602,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21846",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL is for a LinkedIn profile, not a specific job posting. No job details could be extracted.",
+    "reason": "The job is for a non-technical role (HR) which does not match Vineeth's technical background.",
     "id": "923a36ef",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Firmware Test Development Engineer",
@@ -16620,13 +16616,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87078?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Markham, Canada, which doesn't match our target locations of Finland/UK/Asia/Remote/US with visa sponsorship. Plus it's not a leadership position.",
+    "reason": "The role is primarily software development and firmware engineering, which falls outside Vineeth's domain of power integrity, advanced packaging, SoC PDN sign-off, thermal analysis and CAD methodology.",
     "id": "e06c7a11",
     "source": "amd_careers",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "TSMC R&D Process Engineer / FLM (Forward Looking Module)",
@@ -16634,14 +16629,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19509&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires relocation to Hsinchu, Taiwan which does not match the target regions of Finland, Europe (outside Finland), UK, India, Asia or fully remote positions.",
+    "matches_requirements": "yes",
+    "reason": "Matches domain of Power Integrity / Signal Integrity (PI/SI) and years of experience",
     "id": "6d281a03",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/taiwan_semiconductor_tsmc_r_d_process_engineer___fl_6d281a03.txt"
   },
   {
     "title": "R&D Advanced Packaging Module Engineer",
@@ -16649,14 +16643,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=11865&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match for an advanced packaging engineer role at a major foundry like TSMC, with PhD level R&D work in Taiwan.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on R&D of advanced packaging modules at TSMC, which falls more into the domain of manufacturing and packaging rather than power integrity and EDA tools. Also, it's not a leadership position.",
     "id": "784257af",
     "source": "tsmc_careers",
     "posted_date": "2026-05-28",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_r_d_advanced_packaging_module__784257af.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -16665,13 +16658,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Advanced-Packaging-Module-Engineer%2F11865",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job role matches the target domain of Advanced Packaging and requires 10+ years of experience.",
+    "reason": "The role is a match for Vineeth's experience in Power Integrity and Advanced Packaging, with relevant skills in RedHawk, Cadence Voltus, and CAD methodology.",
     "id": "98fbb10a",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_98fbb10a.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_98fbb10a.txt"
   },
   {
     "title": "Founder/Project Idea Seeking collaborators for hardware/industrial automation projects \u2013 Have manufacturing capacity ready",
@@ -16680,13 +16672,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1u97mqv/founderproject_idea_seeking_collaborators_for/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is seeking collaborators for hardware/industrial automation projects and does not fit the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for a hardware startup project collaborator, which does not match the semiconductor/VLSI/EDA industry expert role.",
     "id": "3626fede",
     "source": "reddit_hwstartups",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI LEAD L1",
@@ -16695,13 +16686,12 @@
     "url": "https://www.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4426633169",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Austin, TX which does not match the target regions of Finland, Europe (outside Finland), UK, India, or Asia as per job requirements.",
+    "reason": "This VLSI lead role is located in Austin, TX which requires US residency or visa sponsorship - Vineeth cannot relocate to the US and therefore does not match this job.",
     "id": "d538151d",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital IC Design Engineer",
