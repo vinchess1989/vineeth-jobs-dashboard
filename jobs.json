@@ -69564,13 +69564,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4428679299",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Electrical Engineering expert, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "This is an electrical engineering role focused on training AI, which is outside Vineeth's VLSI/EDA domain.",
     "id": "342d2e5a",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CPU Design Verification Engineer",
@@ -69579,13 +69578,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cpu-design-verification-engineer-at-european-tech-recruit-4427043036",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a CPU Design Verification Engineer, which doesn't match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain of expertise.",
     "id": "b3431f4d",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Project Manager IC Design (f/m/div)",
@@ -69594,13 +69592,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-project-manager-ic-design-f-m-div-at-bosch-sensortec-gmbh-4421147512",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a project management role focused on ASIC development, not a technical engineering role in semiconductor / VLSI / EDA.",
+    "reason": "The job is a non-technical project management role focused on ASIC development, which does not directly match Vineeth's VLSI/EDA technical leadership background.",
     "id": "e3a1c276",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Design Engineer, UK",
@@ -69608,14 +69605,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-design-engineer-uk-at-ashby-4403607782",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches target domain of Advanced Packaging / Thermal and the UK location preference.",
+    "matches_requirements": "no",
+    "reason": "The role is for a Design Engineer with focus on both design and coding, which is more of a software development role rather than semiconductor/VLSI/EDA domain.",
     "id": "1ad576b8",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-05-09",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ashby_staff_design_engineer__uk_1ad576b8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, VLSI Design Engineering (Verification, NAND, Memory, System Verilog) with 8 to 12 years of experience",
@@ -69624,13 +69620,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-vlsi-design-engineering-verification-nand-memory-system-verilog-with-8-to-12-years-of-experience-at-sandisk-4429230260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an entry-level Principal Engineer position with only 8-12 years of experience, which is less than our target of 10+ years for a Technical Leader. Also, it's not explicitly in the Power Integrity/Advanced Packaging domain we're targeting.",
+    "reason": "This role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "e03ce43f",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -69638,14 +69633,13 @@
     "location": "Valencia, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-at-em-e-group-4418764016",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The FPGA Engineer role at EM&E Group is close to matching the criteria but lacks specific mention of relevant EDA tools or VLSI/SoC design experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily FPGA design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "4ccef7c7",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA engineer. Timing. Granada, Spain",
@@ -69654,13 +69648,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-timing-granada-spain-at-safran-navigation-timing-4090009125",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The domain/technical area is incorrect for this role, as it's an FPGA engineer position with focus on timing in telecommunications and deterministic networking, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (embedded Linux, firmware) and not within Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "fae70212",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA & Firmware Engineer",
@@ -69669,13 +69662,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-firmware-engineer-at-sateliot-4427496934",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA & Firmware Engineer, which doesn't directly match the specified domains of Power Integrity, Advanced Packaging, or VLSI/EDA.",
+    "reason": "The role is primarily software development (Firmware Engineer) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA.",
     "id": "bb9b837d",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Emulation Engineer",
@@ -69684,13 +69676,12 @@
     "url": "https://ie.linkedin.com/jobs/view/fpga-emulation-engineer-at-european-tech-recruit-4425463874",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Emulation Engineer position, which does not match the Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design technical domains targeted.",
+    "reason": "The role is focused on FPGA design, verification and emulation, which is outside Vineeth's domain of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology.",
     "id": "156f0c34",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer (m/w/d)",
@@ -69699,13 +69690,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-design-engineer-m-w-d-at-thales-4387888525",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Design Engineer role at Thales, which does not match the semiconductor/VLSI/EDA industry focus of the expertise.",
+    "reason": "The role is focused on FPGA design for defense/aerospace applications, which doesn't directly align with Vineeth's background in power integrity and advanced packaging. There are no specific leadership responsibilities mentioned that would warrant a 'maybe' match.",
     "id": "6c095b70",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Entwickler (m/w/d)",
