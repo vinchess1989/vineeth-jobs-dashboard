@@ -35824,13 +35824,12 @@
     "url": "https://in.linkedin.com/jobs/view/quantum-device-engineer-at-albatronyx-4429678735",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on quantum device engineering, characterization, and fabrication rather than semiconductor VLSI EDA.",
+    "reason": "The role is for a Device Fabrication/Characterization Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "f9e530ef",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff ASIC Design Engineer",
@@ -35838,14 +35837,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/staff-asic-design-engineer-at-axiado-corporation-4414290264",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits a Senior Engineer position with 7+ years of experience in RTL logic design, SoC integration, and micro-architecture optimization. Axiado is a semiconductor startup in Hyderabad.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "e61c188f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axiado_corporation_staff_asic_design_engineer_e61c188f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Specialist",
@@ -35854,13 +35852,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineering-specialist-at-silicon-patterns-4417468005",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an Associate level Engineering Specialist role at a software engineering startup, which does not match the senior leadership technical roles we are looking for.",
+    "reason": "The role is for SystemC modeling, simulation, and architecture analysis for SoC development, which does not strongly match Vineeth's background in Power Integrity (PI), Advanced Packaging, CAD methodologies. It also doesn't have a leadership title.",
     "id": "7299858b",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-04-13",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Logic Design Engineer",
@@ -35869,13 +35866,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-logic-design-engineer-at-rambus-4416846855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Principal Engineer position which matches the target criteria for senior leadership roles.",
+    "reason": "The job role is primarily focused on digital logic design, which is outside Vineeth's power integrity and advanced packaging domain expertise.",
     "id": "3430567f",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer, Interconnect & Memory Systems",
@@ -35884,13 +35880,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-interconnect-memory-systems-at-tesla-4430987997",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI hardware design for Tesla's AI accelerators, which does not match the VLSI/EDA job requirements.",
+    "reason": "This RTL Design Engineer role is focused on AI accelerators and does not match Vineeth's Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, or EDA Tools expertise.",
     "id": "c1c2fc2b",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior IC Layout Design Engineer",
@@ -35899,13 +35894,12 @@
     "url": "https://www.glassdoor.com/job-listing/junior-ic-layout-design-engineer-ic-enable-JV_IC1140053_KO0,32_KE33,42.htm?jl=1010167681619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Junior IC Layout Design Engineer, which does not match the required senior-level technical leadership roles in Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The role is primarily focused on IC layout design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "fbb9bcb3",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IC Enable jobs in Richardson, TX",
@@ -35914,13 +35908,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-ic-enable-jobs-SRCH_IL.0,10_IC1140053_KO11,20.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an IC Layout Design Engineer role, which does not directly match the Power Integrity (PI) / Advanced Packaging focus areas.",
+    "reason": "This role is primarily for IC Layout Design Engineer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging. Vineeth has 15 years of experience in PI, not layout design.",
     "id": "cc7c3a18",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "30d+",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior AI Cluster Hardware Engineer",
@@ -35929,13 +35922,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87292?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Austin, Texas which does not match the preferred locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote worldwide. It also explicitly mentions visa sponsorship is not available for this role.",
+    "reason": "The role is primarily software development (GPU Cluster Network Performance Attainment Engineer) and outside Vineeth's domain.",
     "id": "620f0097",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Product Definition EngineerSan Jose + 1 moreHRC1660773Hybrid",
@@ -35944,13 +35936,12 @@
     "url": "https://www.infineon.com/careers/job/563808970999186",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job details are not available in the provided description to make an accurate evaluation.",
+    "reason": "The job title does not match Vineeth's background and key skills.",
     "id": "d42b7608",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer ApplicationsBangalore BTP (India)HRC1583987HybridHybrid",
@@ -35959,13 +35950,12 @@
     "url": "https://www.infineon.com/careers/job/563808970528796",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting content was empty, preventing a valid match based on domain and technical area.",
+    "reason": "The job posting link leads to a 404 error page, so it is likely inactive.",
     "id": "1d339783",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer DesignBangalore BTP (India)HRC1203449Hybrid",
