@@ -44658,13 +44658,12 @@
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-power-integrity-engineer-wearables-at-meta-4406456509",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Sunnyvale, CA, which does not match the preferred locations of Finland, UK, India, or fully remote.",
+    "reason": "The role is primarily software development focused (firmware, AI tools) which does not match Vineeth's background in Power Integrity/Advanced Packaging.",
     "id": "3b81d74b",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity / Power Integrity Engineer - Wearables",
@@ -44673,13 +44672,12 @@
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-power-integrity-engineer-wearables-at-meta-4406451682",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Redmond, WA, USA which does not match the preferred regions.",
+    "reason": "Role is primarily software development with firmware engineering, outside Vineeth's domain of expertise.",
     "id": "6a586c03",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal and Power Integrity Engineer",
@@ -44687,14 +44685,13 @@
     "location": "Palo Alto, CA",
     "url": "https://www.linkedin.com/jobs/view/signal-and-power-integrity-engineer-at-delos-data-4423690427",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with 15 years of relevant experience, fits Power Integrity focus but lacks clear CAD/Methodology emphasis.",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's background in Power Integrity and his years of experience.",
     "id": "529526a6",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/delos_data_signal_and_power_integrity_eng_529526a6.txt"
   },
   {
     "title": "Staff Signal and Power Integrity Engineer",
@@ -44703,13 +44700,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-signal-and-power-integrity-engineer-at-google-4417190042",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Mountain View, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or fully remote positions.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "acbac4ef",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Integrity Engineer",
@@ -44717,14 +44713,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/power-integrity-engineer-at-everpure-4415700557",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is located in Santa Clara, CA which does not match the target regions of Finland, Europe (outside Finland), UK, India/Asia, or Fully Remote.",
+    "matches_requirements": "yes",
+    "reason": "The role is for a Power Integrity Engineer at Everpure, which matches Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "3cd58ff0",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/everpure_power_integrity_engineer_3cd58ff0.txt"
   },
   {
     "title": "Signal and Power Integrity Engineer",
@@ -44732,29 +44727,13 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/signal-and-power-integrity-engineer-at-google-4418825902",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for the target domains of Signal and Power Integrity, with specific mention of experience in SI/PI modeling tool chains. The company is Google, which fits our semiconductor focus.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (programming, data analysis) and does not directly match Vineeth's power integrity and advanced packaging domain expertise.",
     "id": "4b7173bf",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/google_signal_and_power_integrity_eng_4b7173bf.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "Signal Integrity & Power Integrity Engineer, Amazon Leo",
-    "company": "Amazon",
-    "location": "Redmond, WA",
-    "url": "https://www.linkedin.com/jobs/view/signal-integrity-power-integrity-engineer-amazon-leo-at-amazon-4386784503",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is located in Redmond, WA which does not match our target locations.",
-    "id": "3919e101",
-    "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Power Integrity",
@@ -44763,13 +44742,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-power-integrity-at-celestica-4379144364",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 7+ years of experience which exceeds the target of 10-15+ years for a senior leadership position.",
+    "reason": "The role is more focused on general power systems design rather than specific Power Integrity and Advanced Packaging domains Vineeth specializes in.",
     "id": "854274ac",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-05-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Signal and Power Integrity Engineer",
@@ -44778,13 +44756,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-signal-and-power-integrity-engineer-at-arm-4412161077",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role explicitly requires US residency, which violates the job search requirements.",
+    "reason": "The role is primarily software development (collaborating with engineering teams across geographies to perform system-level signal integrity and power integrity including silicon, package, and board) which is outside Vineeth's domain.",
     "id": "935cdd21",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal and Power Integrity Engineer",
@@ -44793,13 +44770,12 @@
     "url": "https://www.linkedin.com/jobs/view/signal-and-power-integrity-engineer-at-delart-4351021703",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 5+ years of experience, which is less than our target range of 10-15+ years.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "474021c6",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Signal and Power Integrity Engineer",
