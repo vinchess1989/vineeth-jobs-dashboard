@@ -69983,14 +69983,13 @@
     "location": "Limbourg, Walloon Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/design-system-engineer-f-m-x-at-amaris-consulting-4405808256",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Design System Engineer, which does not fit any of the target domains in the candidate profile. The job is related to software development and design systems rather than semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "120a8395",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2023-05-31",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Candidature spontan\u00e9e - Opportunit\u00e9s CDI dans l'a\u00e9ronautique, le spatial et la d\u00e9fense",
@@ -69998,14 +69997,13 @@
     "location": "Gironde, Nouvelle-Aquitaine, France",
     "url": "https://fr.linkedin.com/jobs/view/candidature-spontan%C3%A9e-opportunit%C3%A9s-cdi-dans-l-a%C3%A9ronautique-le-spatial-et-la-d%C3%A9fense-at-agap2-4418235617",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for non-technical roles like engineering support and project management which don't align with semiconductor/VLSI/EDA domain",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "6fce1543",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Candidature spontan\u00e9e MaiaSpace",
@@ -70014,13 +70012,12 @@
     "url": "https://fr.linkedin.com/jobs/view/candidature-spontan%C3%A9e-maiaspace-at-maiaspace-4420965379",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a startup company, which does not match the semiconductor/VLSI/EDA industry focus of our search.",
+    "reason": "The role is primarily software engineering, which is outside Vineeth's domain.",
     "id": "a43648e4",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -70029,13 +70026,12 @@
     "url": "https://se.linkedin.com/jobs/view/design-engineer-at-sana-4318513322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a design engineer position focused on backend systems and doesn't match the semiconductor/VLSI/EDA domains we are targeting.",
+    "reason": "The role is software development focused (Node.js, TypeScript) which does not match Vineeth's VLSI/EDA background in Power Integrity and Advanced Packaging.",
     "id": "fca444d9",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2023-08-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur Studio Design Senior H/F",
@@ -70043,14 +70039,13 @@
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-studio-design-senior-h-f-at-nexton-4419070059",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a design-focused product studio engineer, not related to semiconductor/VLSI/EDA domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ee62bd00",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2023-06-20",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer, UK",
@@ -70058,14 +70053,13 @@
     "location": "Oxford, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-uk-at-ashby-4427214460",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a senior design engineer role at Ashby, which fits the target domain of Design Engineering.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "e4939b69",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "2026-06-12",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/ashby_design_engineer__uk_e4939b69.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -70074,13 +70068,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-complete-security-recruitment-4429230442",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Engineer position in fire and security systems, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The role is for a Fire & Security Design Engineer, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "65422ec8",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Multi Skilled Engineer",
@@ -70089,13 +70082,12 @@
     "url": "https://uk.linkedin.com/jobs/view/multi-skilled-engineer-at-hyper-recruitment-solutions-4426861371",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical maintenance engineer position at a pharmaceutical company, which does not match our semiconductor/VLSI/EDA focus.",
+    "reason": "The role is an engineering maintenance position focused on production equipment, with no overlap with semiconductor VLSI EDA roles.",
     "id": "697f6427",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -70104,13 +70096,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-c-d-talent-advisory-4422896001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product design role focused on AI-powered software, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a UI/UX designer position focusing on B2B software products rather than semiconductor/VLSI/EDA",
     "id": "883d4060",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -70119,13 +70110,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-ringway-4428864002",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for highway maintenance and improvement schemes design, not semiconductor/VLSI/EDA.",
+    "reason": "The role is in highway engineering, not semiconductor/VLSI/EDA design.",
     "id": "1bd4cb42",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate design engineer",
