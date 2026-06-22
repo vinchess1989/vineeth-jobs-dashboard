@@ -50481,14 +50481,13 @@
     "location": "Kouvola, Kymenlaakso, Finland",
     "url": "https://fi.linkedin.com/jobs/view/data-center-ehs-engineer-finland-at-tiktok-4422578723",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Data Center EHS Engineer, which does not directly match the semiconductor/VLSI/EDA domains.",
+    "matches_requirements": "yes",
+    "reason": "The role of Data Center EHS Engineer - Finland matches Vineeth's background in Power Integrity (PI), Advanced Packaging, and aligns with his experience in SoC PDN sign-off.",
     "id": "b67d5ea6",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tiktok_data_center_ehs_engineer___fin_b67d5ea6.txt"
   },
   {
     "title": "Backend Engineer (Data Science / ML) - HYBRID",
@@ -50497,13 +50496,12 @@
     "url": "https://fi.linkedin.com/jobs/view/backend-engineer-data-science-ml-hybrid-at-zalando-4383439842",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Backend Engineer position focusing on Data Science / ML, which does not match the VLSI/EDA technical domains required by the initial prompt.",
+    "reason": "The role is software development (backend engineering with Databricks/AWS/Kubernetes) rather than semiconductor/VLSI/EDA.",
     "id": "0e372a17",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Frontend Engineer (Agentic AI Platform)",
@@ -50511,14 +50509,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/frontend-engineer-agentic-ai-platform-at-trimble-inc-4410560310",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Frontend Engineer on an AI platform, which doesn't directly match the Semiconductor/VLSI/EDA domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "29bb5d38",
     "source": "linkedin_fi_physical_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Information Technology Specialist",
@@ -50526,14 +50523,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/information-technology-specialist-at-takumi-security-4430362289",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for a non-technical IT support position at a cybersecurity consultancy, not an engineering/technical job in semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "9bfb0cfc",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "2023-05-03",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "IT - SCDHHS - Security Analyst - Consultant",
@@ -50541,14 +50537,13 @@
     "location": "Columbia, SC",
     "url": "https://www.linkedin.com/jobs/view/it-scdhhs-security-analyst-consultant-at-talent-software-services-4425311622",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an IT and consulting service provider, not a semiconductor/EDA company.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "f38a7ff6",
     "source": "linkedin_ww_soc_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Infrastructure Specialist",
@@ -50557,13 +50552,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-infrastructure-specialist-at-city-of-irving-4431606674",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an IT Infrastructure Specialist, which does not match the technical domains of Power Integrity (PI), VLSI/EDA, etc. required.",
+    "reason": "The role is non-technical HR, which does not match Vineeth's engineering background in Power Integrity, Advanced Packaging and VLSI/EDA.",
     "id": "a78332d0",
     "source": "linkedin_ww_soc_design",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Network Security Analyst",
@@ -50571,14 +50565,13 @@
     "location": "Honolulu, HI",
     "url": "https://www.linkedin.com/jobs/view/network-security-analyst-at-cymertek-corporation-4265115070",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires TS/SCI clearance with full poly and is located in Honolulu, HI which does not match the criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "f60e6544",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "2023-05-11",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Security Analyst",
@@ -50586,14 +50579,13 @@
     "location": "San Antonio, TX",
     "url": "https://www.linkedin.com/jobs/view/network-security-analyst-at-cymertek-corporation-4264557878",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires a U.S. Citizenship with active security clearance, which is a hard rejection per the instructions.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "e1fdf058",
     "source": "linkedin_ww_soc_design_p2",
-    "posted_date": "2026-06-11",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Security Analyst",
@@ -50601,14 +50593,13 @@
     "location": "Tysons Corner, VA",
     "url": "https://www.linkedin.com/jobs/view/network-security-analyst-at-cymertek-corporation-4264558770",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires TS/SCI clearance with full Poly which restricts to specific country's citizens only, violating hard rejection criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "79ad2199",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI SOC Architect",
@@ -50617,13 +50608,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-soc-architect-at-majestic-labs-ai-4413808661",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role, not focused on semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is primarily software development (AI, ML, compiler design) rather than semiconductor/VLSI/EDA.",
     "id": "3e8f1be7",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Security Analyst",
