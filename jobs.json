@@ -54906,13 +54906,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-at-piersight-4390017219",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an FPGA design role, not a Power Integrity/Advanced Packaging/SOC PDN Sign-off role.",
+    "reason": "The role is primarily software development (firmware engineer) and not a match for Vineeth's domain.",
     "id": "fe55960a",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design/Zebu Engineer (Senior/Lead/Staff)",
@@ -54920,14 +54919,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/fpga-design-zebu-engineer-senior-lead-staff-at-qualcomm-4425262070",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily FPGA design which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "f3c11b42",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA HAPS Engineer",
@@ -54935,14 +54933,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/fpga-haps-engineer-at-ust-4426959148",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is primarily FPGA design with HAPS Emulation, which is outside Vineeth's power integrity and advanced packaging domain.",
     "id": "2d022841",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -54951,13 +54948,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-at-ulook-4424901577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for an FPGA Engineer position at ULOOK, which does not directly match the target domains of Power Integrity (PI), Advanced Packaging, and CAD Methodology in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily FPGA design, which is outside Vineeth's domain of PI/Advanced Packaging expertise.",
     "id": "2890b54a",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior ASIC/FPGA Design & Verification Engineer",
@@ -54965,14 +54961,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-asic-fpga-design-verification-engineer-at-atria-logic-inc-4248025498",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills (ASIC/FPGA design, verification) and seniority level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "437681d7",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-06-21",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/atria_logic_inc__senior_asic_fpga_design___veri_437681d7.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer - FPGA/ORAN/Fronthaul",
@@ -54980,14 +54975,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-fpga-oran-fronthaul-at-avivys-4412335352",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior FPGA O-RAN Fronthaul Engineer role matches with VLSI/EDA experience in FPGA, wireless/RAN protocols and interfaces.",
+    "matches_requirements": "no",
+    "reason": "The role is software-focused on FPGA design for wireless/RAN products, which is outside Vineeth's primary domains of Power Integrity and VLSI/SoC physical design.",
     "id": "d5c4b161",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/avivys_senior_engineer___fpga_oran_fr_d5c4b161.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Lead",
@@ -54995,14 +54989,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/fpga-lead-at-cortex-consultants-llc-4419815160",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a Senior Leadership position with 8-15 years of experience in FPGA design and RTL coding, which aligns with the target criteria.",
+    "matches_requirements": "no",
+    "reason": "This is an RTL Design Engineer role focused on FPGA, which doesn't match Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "7cb59efb",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cortex_consultants_l_fpga_lead_7cb59efb.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55011,13 +55004,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-at-acl-digital-4345336105",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Associate level FPGA Engineer with 2-4 years experience, which does not match the senior-level VLSI/EDA roles and technical domains we are targeting.",
+    "reason": "The job is an entry-level FPGA Engineer role with less than 2 years experience, which is below Vineeth's seniority level.",
     "id": "7ccba4c7",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -55026,13 +55018,12 @@
     "url": "https://in.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-l-t-technology-services-4418898671",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an FPGA Design & Validation Engineer role, which does not match the VLSI/EDA domain of Vineeth's background and experience.",
+    "reason": "The job is for FPGA Design & Validation, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f9b9a1b1",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2023-06-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA/RTL Design Engineer",
@@ -55041,13 +55032,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-semi-leaf-4423595865",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an FPGA/RTL Design Engineer role with 5-8 years experience, which does not match the requirements of at least 10 years of experience in Power Integrity (PI), Advanced Packaging or similar domains.",
+    "reason": "The role focuses on FPGA design, while Vineeth's expertise is primarily in Power Integrity and Advanced Packaging.",
     "id": "fd2cdf2b",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA RTL Design Engineer",
