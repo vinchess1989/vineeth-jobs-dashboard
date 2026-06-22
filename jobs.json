@@ -39674,28 +39674,26 @@
     "url": "https://www.glassdoor.com/job-listing/sr-full-stack-sde-sma-texas-instruments-JV_IC1140053_KO0,21_KE22,39.htm?jl=1010170688652",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Full Stack Software Developer, which does not align with semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for a software developer (full-stack SDE) at Texas Instruments, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and EDA.",
     "id": "a3393696",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "full stack engineer jobs in Richardson, TX",
-    "company": "Extract from page",
+    "company": "Deloitte",
     "location": "Richardson, TX, USA",
     "url": "https://www.glassdoor.com/Job/richardson-full-stack-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Full Stack Engineer position at an unspecified company in Richardson, TX, USA. This does not match the semiconductor/VLSI/EDA technical domain focus required.",
+    "reason": "The role is primarily software development (Java, Python, JavaScript, Node.js, React) and not focused on semiconductor/VLSI/EDA.",
     "id": "f8e9637a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM SIPI, Staff Engineer",
@@ -39703,29 +39701,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/hbm-sipi-staff-engineer-micron-technology-JV_IC1140053_KO0,23_KE24,41.htm?jl=1010166917720",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Staff Engineer position for HBM Signal Integrity and Power Integrity at Micron Technology, which matches the candidate's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical role at Micron Technology, which does not fit Vineeth's engineering background.",
     "id": "036d7ac3",
     "source": "glassdoor_semi",
     "posted_date": "2023-10-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_hbm_sipi__staff_engineer_036d7ac3.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "engineer jobs in Richardson, TX",
-    "company": "Extract from page",
-    "location": "Richardson, TX, USA",
-    "url": "https://www.glassdoor.com/Job/richardson-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,19.htm",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Richardson, TX, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
-    "id": "ce81cba6",
-    "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Shift Equipment EngineerSingapore, SingaporePosted 8 months ago",
@@ -39734,13 +39716,12 @@
     "url": "https://micron.eightfold.ai/careers/job/38497817",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on manufacturing equipment and production engineering, while the target requires power integrity, packaging, or CAD/EDA expertise.",
+    "reason": "The job is for a shift equipment engineer role which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, etc.",
     "id": "2e26ef4b",
     "source": "micron_careers",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -39749,13 +39730,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-qualcomm-4421796850",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in San Diego, CA which does not match the priority regions of Finland, Europe (outside Finland), UK, India, Asia, Remote worldwide, or US with visa sponsorship. It also exceeds the required experience level.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "0b65f82a",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Engineer - Fab IT Services (m/f/d)",
@@ -39764,13 +39744,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19501&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is focused on IT support for a semiconductor fab and does not match the VLSI/EDA technical domains we target.",
+    "reason": "The IT Engineer role is non-technical, which is outside Vineeth's domain of expertise in semiconductor process technology.",
     "id": "3275c9cf",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "AMHS Hardware Engineer (m/w/d)",
@@ -39779,13 +39758,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19716&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a hardware engineer focused on AMHS systems, which does not directly match the semiconductor/VLSI/EDA technical domains we are targeting.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
     "id": "3fbf06fe",
     "source": "tsmc_careers",
     "posted_date": "2026-04-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -39794,13 +39772,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAMHS-Hardware-Engineer-m-w-d%2F19716",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is incomplete and cannot be visited to check full details.",
+    "reason": "The job posting is for a non-technical role (Hardware Engineer) at a semiconductor company, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "a864f387",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC RTL Design Engineer III, Silicon",
@@ -39808,14 +39785,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-rtl-design-engineer-iii-silicon-at-google-4422056788",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is an ASIC RTL Design Engineer with a semiconductor company (Google) and matches the target domain of Power Integrity/Signal Integrity.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on RTL design, simulation and verification work with Verilog/ SystemVerilog - this falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA tool methodology. The job should be discarded based on the hard rejection criteria.",
     "id": "21ce5b0d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/google_asic_rtl_design_engineer_iii___21ce5b0d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Business Intelligence Engineer, Devices Demand Science Optimization",
