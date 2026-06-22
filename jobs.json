@@ -5528,13 +5528,12 @@
     "url": "https://www.indeed.com/career-advice",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description is for a general career advice page on Indeed, not a specific semiconductor/VLSI/EDA engineering job.",
+    "reason": "The provided job description is for general career advice on Indeed's website, not a specific semiconductor/VLSI/EDA job posting with details needed to evaluate.",
     "id": "9a0c6fe1",
     "source": "indeed_asic",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Boise, ID jobs",
@@ -5543,28 +5542,26 @@
     "url": "https://www.glassdoor.com/Job/boise-jobs-SRCH_IL.0,5_IC1127927.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Field Occupancy Checker at an independent contractor position with no VLSI/EDA/Semiconductor experience required.",
+    "reason": "The role is a general kitchen team position at a Panda Express restaurant, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "cf4365b8",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ebara Technologies jobs in Boise, ID",
-    "company": "Extract from page",
+    "company": "Ebara Technologies",
     "location": "Boise, ID, USA",
     "url": "https://www.glassdoor.com/Job/boise-ebara-technologies-jobs-SRCH_IL.0,5_IC1127927_KO6,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided does not contain relevant information about the company, location, and job requirements.",
+    "reason": "The job is in Boise, ID which does not match the preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland), India or Asia, Fully Remote with worldwide eligibility or United States if it explicitly mentions visa sponsorship or relocation.",
     "id": "defbf05a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Los Angeles, CA",
@@ -5573,13 +5570,12 @@
     "url": "https://www.glassdoor.com/Job/los-angeles-design-engineer-jobs-SRCH_IL.0,11_IC1146821_KO12,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Los Angeles, CA, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India/Asia/Taiwan/South Korea/Singapore, or fully remote worldwide. Also, it does not explicitly mention visa sponsorship/relocation, so it's unlikely to be a match for US roles without that clarification.",
+    "reason": "The job is for a non-technical role at an unspecified company, which does not match Vineeth's engineering background.",
     "id": "c126eb7c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Los Angeles, CA jobs",
@@ -5588,13 +5584,12 @@
     "url": "https://www.glassdoor.com/Job/los-angeles-jobs-SRCH_IL.0,11_IC1146821.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for non-technical roles at a semiconductor company.",
+    "reason": "The URL is for a general search page with no specific job details, so it cannot be evaluated against the given criteria.",
     "id": "a13a4f2b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Freeform Future jobs in Los Angeles, CA",
@@ -5603,13 +5598,12 @@
     "url": "https://www.glassdoor.com/Job/los-angeles-freeform-future-jobs-SRCH_IL.0,11_IC1146821_KO12,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (HR) at a semiconductor company, which does not match our engineering/technical positions focus.",
+    "reason": "The job posting is for a non-technical role (HR) at a semiconductor company, which is a hard rejection per the job requirements.",
     "id": "a8b25ddb",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Systems Administrator",
@@ -5618,13 +5612,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87111?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a system administrator position focusing on end-user hardware and software support, rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "f35973f3",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU/ GFX - Verification Engineer",
@@ -5633,13 +5626,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/80796?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Hyderabad, India, which does not match our target location criteria of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "26236f8c",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Verification Engineer - Core Enablement",
@@ -5647,14 +5639,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/86975?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The candidate has 15 years of experience in Power Integrity and matches the technical requirements.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "97af3e45",
     "source": "amd_careers",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/amd_cpu_verification_engineer___co_97af3e45.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Categories",
@@ -5663,13 +5654,12 @@
     "url": "https://careers.amd.com/careers-home/categories",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided in the instructions is for a general AMD careers page, not a specific job opening matching the candidate profile. Therefore it cannot be matched based on the criteria.",
+    "reason": "The job posting URL was missing, so I could not verify if it is open or check the company and location details.",
     "id": "ca761bb2",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Locations",
