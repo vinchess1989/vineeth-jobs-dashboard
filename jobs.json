@@ -35557,14 +35557,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/manassas-manager-jobs-SRCH_IL.0,8_IC1130381_KO9,16.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical managerial role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "8cf32033",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internal Mobility Advisor (12 Month FTC)",
@@ -35573,13 +35572,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84685?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role, so it does not match the semiconductor/VLSI/EDA technical job requirements.",
+    "reason": "The role is primarily focused on talent acquisition, hiring and internal mobility processes rather than technical semiconductor/EDA engineering roles that Vineeth's background is suited for.",
     "id": "2de0f87c",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Verification Engineer (Wireless) \u2013 Remote (PST)",
@@ -35588,13 +35586,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-verification-engineer-wireless-%E2%80%93-remote-pst-at-purple-hires-inc-4429693272",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires less than 5 years of experience, which is below our target range.",
+    "reason": "Primarily ASIC Design Verification, outside Vineeth's Power Integrity and Advanced Packaging focus.",
     "id": "e2379e16",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Development Engineer - AI",
@@ -35603,13 +35600,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87197?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a software development engineer focusing on AI applications rather than VLSI/EDA technical domains.",
+    "reason": "This is a software development position, not related to semiconductor, VLSI, or EDA domains.",
     "id": "78ed071c",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fall 2026 Short Term Technical Marketing - Performance Analysis Coop",
@@ -35618,28 +35614,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84637?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a short-term coop position, not a full-time hire matching the target role.",
+    "reason": "The role is a Marketing/PR position, not technical.",
     "id": "fbf7f11b",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "2026-12-11",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Executive & Administrative Support Specialist (f/m/div)Bucharest (Romania)131889HybridHybrid",
-    "company": "Infineon Technologies AG",
-    "location": "Bucharest (Romania)",
-    "url": "https://www.infineon.com/careers/job/563808971255070",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job listing is for a non-technical Executive & Administrative Support Specialist role, which does not match the Semiconductor / VLSI / EDA technical focus required.",
-    "id": "4d0db8ab",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive & Administrative Project SupportDallas TX (United States) + 3 moreHRC1638563HybridHybrid",
@@ -35648,13 +35628,12 @@
     "url": "https://www.infineon.com/careers/job/563808970685906",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The job is for an executive/administrative support role, which is a non-technical position. It does not match the semiconductor/VLSI/EDA technical roles Vineeth is qualified for.",
     "id": "a13f98c7",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff AssistantSamut Prakan (Thailand)HRC1598486",
@@ -35663,13 +35642,12 @@
     "url": "https://www.infineon.com/careers/job/563808970268240",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a 404 error page, and no job details can be found.",
+    "reason": "The provided URL leads to a 404 error page, indicating that the job posting is invalid or no longer accessible.",
     "id": "5c6e2b52",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Specialist Product SupportPadua (Padova) (Italy)129497HybridHybrid",
@@ -35678,13 +35656,12 @@
     "url": "https://www.infineon.com/careers/job/563808970500815",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description URL provided does not contain any relevant details about the company, location, or posting date.",
+    "reason": "The job posting URL is missing, so I cannot visit it to check the application deadline.",
     "id": "64742d0d",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist Account Management - DistributionDallas TX (United States)HRC1654652Hybrid",
@@ -35693,13 +35670,12 @@
     "url": "https://www.infineon.com/careers/job/563808970905286",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title indicates a non-technical role focused on account management rather than semiconductor/VLSI/EDA technical roles.",
+    "reason": "The provided URL leads to a 404 error, indicating that the job posting is no longer available.",
     "id": "25f3a003",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist Sales Ops Analysis\t\tLivonia + 1 moreHRC1674142Hybrid",
