@@ -55998,13 +55998,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-ic-resources-4427061927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position which does not directly match the specified semiconductor/VLSI/EDA domains.",
+    "reason": "This is an FPGA Engineer role, not a Power Integrity or Packaging role that Vineeth specializes in.",
     "id": "3faf79d3",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -56013,13 +56012,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-ic-resources-4428707050",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "FPGA Engineer role does not match VLSI/EDA semiconductor technical domains.",
+    "reason": "This role is for an FPGA Engineer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging. It does not match his key skills in ANSYS RedHawk, Cadence Voltus or Python.",
     "id": "90b2ee61",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior/Intermediate FPGA Engineer",
@@ -56027,14 +56025,13 @@
     "location": "Clacton-On-Sea, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/junior-intermediate-fpga-engineer-at-emergent-vision-technologies-inc-4415459434",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (web, SEO, email marketing) rather than semiconductor/VLSI/EDA technical roles",
     "id": "efe963f1",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -56043,13 +56040,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-oxford-quantum-circuits-oqc-4431607254",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Senior FPGA Engineer at Oxford Quantum Circuits, which does not fit the VLSI/EDA Semiconductor job requirements.",
+    "reason": "This role is primarily FPGA engineering with quantum computing applications, not a technical leadership match for Vineeth's VLSI/EDA background.",
     "id": "4de5f84a",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -56058,13 +56054,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-design-engineer-at-thermoteknix-4375228745",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Design Engineer role at Thermoteknix, which does not match Vineeth's technical leadership profile in Power Integrity and Advanced Packaging.",
+    "reason": "This role is for FPGA design, which is not part of Vineeth's main domain of power integrity and advanced packaging.",
     "id": "a38c5ed5",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-03-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -56073,13 +56068,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-chroma-recruitment-4423673406",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on FPGA experience with VHDL, AMD, Vivado and general electronics/firmware rather than VLSI/EDA/CAD specific to semiconductor industry",
+    "reason": "This role is a general electronics engineer with FPGA focus, but no specific mention of power integrity, packaging thermal, CAD tools, EDA software engineering, SoC physical design. It is also based in UK which does not match Vineeth's current location.",
     "id": "86de461c",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -56087,14 +56081,13 @@
     "location": "St Leonards, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-gattaca-4422269714",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a match as it requires strong technical skills in FPGA design and VHDL development, which aligns with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily FPGA/Firmware engineering, which is outside Vineeth's main domains of Power Integrity and Advanced Packaging. It does involve safety-critical standards (DO-254) but that alone doesn't make it a match.",
     "id": "dae58ca4",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/gattaca_field_programmable_gate_arrays_dae58ca4.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -56103,13 +56096,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-quant-capital-4418738322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior FPGA Engineer with expertise in trading and finance, which does not match the VLSI/EDA technical domains required.",
+    "reason": "The role is primarily software engineering with a focus on C++, Java, and Linux, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "fb6ce0b4",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-05-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -56118,13 +56110,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-surrey-satellite-technology-ltd-sstl-4414596097",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an FPGA engineering role focused on OBDH systems for satellites, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is FPGA engineering focused on OBDH systems, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "e8778ae3",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA & Electronics Engineer",
@@ -56132,14 +56123,13 @@
     "location": "Salford, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/fpga-electronics-engineer-at-anson-mccade-4427369389",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with good match on domain but slightly less experience than ideal.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on FPGA design and electronics engineering, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "80326a20",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
