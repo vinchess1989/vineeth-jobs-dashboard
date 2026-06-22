@@ -22090,13 +22090,12 @@
     "url": "https://careers.arm.com/job/manchester/software-ml-engineer/33099/93485591936",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software ML Engineer role, which does not fit the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The role is primarily software development (ML Engineer) and not related to Power Integrity, Advanced Packaging, CAD/Methodology, VLSI/SoC Design, EDA Tools.",
     "id": "63130ad2",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Demand Analyst/Manager \u2013 PC/Server",
@@ -22105,28 +22104,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16532&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on business operations and market analysis rather than technical domains like VLSI/EDA that our job seeker Vineeth Prathapachandra Kaimal specializes in.",
+    "reason": "This is a non-technical corporate planning role focused on market research and analysis for PC/Server IC demand at TSMC. It is outside Vineeth's technical domain of power integrity, advanced packaging, EDA tools, VLSI/SoC design, and physical design.",
     "id": "c4d76d87",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "Welcome Back",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDemand-Analyst-Manager-PC-Server%2F16532",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical Demand Analyst Manager role and does not fit Vineeth's engineering background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "be439542",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Digital Transformation & AI",
@@ -22135,13 +22132,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19756&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI/Digital Transformation Manager role is focused on semiconductor operations and digital transformation, not the technical domains of Power Integrity/Advanced Packaging/CAD we are targeting.",
+    "reason": "This is a non-technical digital transformation role focused on AI and corporate planning, not a semiconductor/VLSI/EDA engineering position.",
     "id": "73f7b023",
     "source": "tsmc_careers",
     "posted_date": "2026-04-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -22150,13 +22146,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FManager-Digital-Transformation-AI%2F19756",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a digital transformation AI manager, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a general Digital Transformation AI Manager position, which does not match Vineeth's specific technical background in Power Integrity, Advanced Packaging, and VLSI/EDA.",
     "id": "f04f24e8",
     "source": "tsmc_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System and Chip Design Solutions Engineer",
@@ -22165,43 +22160,40 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=516&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job is a technical engineering role at TSMC's system and chip design solutions development division in Taiwan, fitting the semiconductor/VLSI/EDA criteria.",
+    "reason": "The role is a match for Vineeth's background in Power Integrity (PI), Advanced Packaging, and CAD Methodology, with strong preference for TSMC's focus on SoC design and EDA tools.",
     "id": "a903fd6e",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_system_and_chip_design_solutio_a903fd6e.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_system_and_chip_design_solutio_a903fd6e.txt"
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "Welcome Back",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSystem-and-Chip-Design-Solutions-Engineer%2F516",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a verification engineer, which is outside Vineeth's domain.",
     "id": "d02293e3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - Engineer, IC CAD",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Micron Technology",
+    "location": "N/A - company HQ is not specified",
     "url": "https://www.glassdoor.com/job-listing/new-college-grad-engineer-ic-cad-micron-technology-JV_IC1140053_KO0,32_KE33,50.htm?jl=1010165569513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a new college graduate, which does not match the candidate's experience level of 15 years in Power Integrity and Advanced Packaging.",
+    "reason": "This is an entry-level IC CAD Engineer position for a new college graduate, well below Vineeth's experience level and technical domain.",
     "id": "1ac9ba47",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "student jobs in Richardson, TX",
@@ -22210,13 +22202,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-student-jobs-SRCH_IL.0,10_IC1140053_KO11,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical student role at McDonald's, while we only want engineering/technical positions in semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical role for working with students at sports camps, not related to semiconductor/VLSI/EDA.",
     "id": "945ca9cf",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer III",
@@ -22225,13 +22216,12 @@
     "url": "https://www.glassdoor.com/job-listing/design-engineer-iii-applied-materials-JV_IC1147439_KO0,19_KE20,37.htm?jl=1010167377772",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the technical domains required for semiconductor/VLSI/EDA expertise.",
+    "reason": "The role is for a Design Engineer III, which primarily focuses on software and firmware development for manufacturing equipment, not semiconductor design/EDA. It does not match Vineeth's background in Power Integrity, Advanced Packaging, or SoC Physical Design.",
     "id": "0396e64b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Santa Clara, CA",
