@@ -39268,28 +39268,26 @@
     "url": "https://www.glassdoor.com/Job/temecula-process-engineer-jobs-SRCH_IL.0,8_IC1147145_KO9,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical and in HR, does not fit our semiconductor/VLSI/EDA engineering focus.",
+    "reason": "This is a non-technical engineering role focused on manufacturing and process integration for optics and photonics devices, which falls outside Vineeth's background in semiconductor power integrity, packaging, and EDA.",
     "id": "7a5cea61",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Temecula, CA jobs",
-    "company": "Extract from page",
+    "company": "Glassdoor",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/temecula-jobs-SRCH_IL.0,8_IC1147145.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The IP was blocked mistakenly, does not match the criteria for automatic matching.",
+    "reason": "Hard rejection - non-technical role at a semiconductor company",
     "id": "595ac5c5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Skorpios Technologies jobs in Temecula, CA",
@@ -39298,13 +39296,12 @@
     "url": "https://www.glassdoor.com/Job/temecula-skorpios-technologies-jobs-SRCH_IL.0,8_IC1147145_KO9,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the specified technical domains or regions.",
+    "reason": "The job is for a non-technical Marketing Specialist role at a semiconductor company, which is outside Vineeth's domain.",
     "id": "34d21439",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Skyworks Solutions jobs in Hillsboro, OR",
@@ -39313,13 +39310,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-skyworks-solutions-jobs-SRCH_IL.0,9_IC1151603_KO10,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Hillsboro, Oregon, which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions.",
+    "reason": "The job posting does not contain an actual job description, so it cannot be evaluated against the requirements.",
     "id": "450cdece",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer",
@@ -39328,43 +39324,40 @@
     "url": "https://www.glassdoor.com/job-listing/circuit-design-engineer-ampere-computing-JV_IC1138697_KO0,23_KE24,40.htm?jl=1010168706718",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Circuit Design Engineer role, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "4627275f",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "circuit design engineer jobs in Durham, NC",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Durham, NC, USA",
     "url": "https://www.glassdoor.com/Job/durham-circuit-design-engineer-jobs-SRCH_IL.0,6_IC1138697_KO7,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the domain-specific requirements for Power Integrity, Advanced Packaging, Thermal Analysis, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership roles in the Semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "db2faf5b",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Durham, NC jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Durham, NC, USA",
     "url": "https://www.glassdoor.com/Job/durham-jobs-SRCH_IL.0,6_IC1138697.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a variety of non-technical roles at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The job listing is for a general search across all Durham jobs, which includes non-technical roles and does not specify any semiconductor/VLSI/EDA related positions.",
     "id": "81921b4c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ampere Computing jobs in Durham, NC",
@@ -39373,13 +39366,12 @@
     "url": "https://www.glassdoor.com/Job/durham-ampere-computing-jobs-SRCH_IL.0,6_IC1138697_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Durham, NC which does not match the specified locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia, or fully remote worldwide without specific mention of visa sponsorship or relocation.",
+    "reason": "The job is for software development, which is outside Vineeth's domain.",
     "id": "d6a61156",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Applications Engineer - RF & Silicon Photonics",
@@ -39387,29 +39379,27 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/senior-applications-engineer-rf-silicon-photonics-stmicroelectronics-JV_IC1147439_KO0,49_KE50,68.htm?jl=1010162819957",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires experience in RF & Silicon Photonics, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a Senior Applications Engineer focused on RF & Silicon Photonics, which overlaps with EDA tool applications engineering. However, there's no specific mention of PI/SI, advanced packaging, or SoC physical design.",
     "id": "8dc20630",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "STMicroelectronics jobs in Santa Clara, CA",
     "company": "STMicroelectronics",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-stmicroelectronics-jobs-SRCH_IL.0,11_IC1147439_KO12,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify a clear location, making it difficult to determine if it matches the target criteria.",
+    "reason": "The job posting URL is for a Glassdoor search page, not a specific job listing matching Vineeth's profile.",
     "id": "4134d31c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer",
