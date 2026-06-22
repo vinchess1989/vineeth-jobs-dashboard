@@ -39124,17 +39124,16 @@
   {
     "title": "IT Manager Jobs",
     "company": "IT Support Specialist Jobs",
-    "location": "Extract from page",
+    "location": "Lappeenranta, Finland",
     "url": "https://builtin.com/jobs/cybersecurity-it/search/it-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT Manager position, which does not fit the technical roles we are searching for in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is non-technical (IT Manager) and does not fit Vineeth's technical background in Power Integrity, Advanced Packaging, VLSI/EDA.",
     "id": "e9ff7b45",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT Support Specialist Jobs",
@@ -39143,13 +39142,12 @@
     "url": "https://builtin.com/jobs/cybersecurity-it/search/it-support-specialist",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT Support Specialist, which is a non-technical role and does not match our focus on engineering/technical positions in the semiconductor/VLSI/EDA industry.",
+    "reason": "The job is for an IT Support Specialist, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "3d44ef60",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Systems Administrator Jobs",
@@ -39158,13 +39156,12 @@
     "url": "https://builtin.com/jobs/cybersecurity-it/search/it-systems-administrator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT Systems Administrator, which does not match the semiconductor/VLSI/EDA technical domains we are searching for.",
+    "reason": "The job is a non-technical IT Systems Administrator role, not related to semiconductor/VLSI/EDA",
     "id": "1e5a92ea",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u3010H405\u3011\u65b0\u898f\u4e8b\u696d\u4f01\u753b\u30fb\u63a8\u9032\uff08\u4e8b\u696d\u958b\u767a\u90e8\uff0f\u6771\u4eac\u30fb\u5175\u5eab\uff09",
@@ -39173,13 +39170,12 @@
     "url": "https://ro.linkedin.com/jobs/view/%E3%80%90h405%E3%80%91%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E4%BC%81%E7%94%BB%E3%83%BB%E6%8E%A8%E9%80%B2%EF%BC%88%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA%E9%83%A8%EF%BC%8F%E6%9D%B1%E4%BA%AC%E3%83%BB%E5%85%B5%E5%BA%AB%EF%BC%89-at-kobe-steel-ltd-4412323174",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a new business development role at KOBE STEEL LTD, which does not fit the semiconductor/VLSI/EDA technical roles we are matching.",
+    "reason": "The role is primarily business development/strategy rather than technical, and Vineeth's background is in technical engineering.",
     "id": "e34565fb",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Maintenance Operator (f/m/d)",
@@ -39188,13 +39184,12 @@
     "url": "https://de.linkedin.com/jobs/view/maintenance-operator-f-m-d-at-renesas-electronics-4419851031",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical maintenance operator role at Renesas Electronics, which does not match the semiconductor/VLSI/EDA technical positions we are looking for.",
+    "reason": "The role is primarily manufacturing/operational rather than technical leadership/specialization in power integrity, packaging, EDA tools, or VLSI design.",
     "id": "a48589bd",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-04",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Engineer (f/m/d)",
@@ -39202,14 +39197,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/analog-engineer-f-m-d-at-renesas-electronics-4420698552",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the Analog Engineer criteria at a semiconductor company located in Edinburgh, UK.",
+    "matches_requirements": "no",
+    "reason": "The job is for an analog design engineer position, which does not match Vineeth's power integrity and advanced packaging focus.",
     "id": "70c47d84",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_analog_engineer__f_m_d__70c47d84.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Manager: Data Center Delivery, Finland",
@@ -39218,13 +39212,12 @@
     "url": "https://fi.linkedin.com/jobs/view/project-manager-data-center-delivery-finland-at-verda-4409967473",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Project Manager focused on data center delivery and physical expansion, rather than an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "This is a project management role for data center delivery, which does not match Vineeth's semiconductor/VLSI/EDA technical background and expertise.",
     "id": "451550a6",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Department Secretary (Kaohsiung)",
@@ -39233,13 +39226,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=3977&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical administrative role, so it doesn't match our semiconductor/VLSI/EDA engineering focus.",
+    "reason": "The job is for a non-technical admin/secretarial role which does not match Vineeth's semiconductor/VLSI/EDA background and expertise.",
     "id": "6b3909ff",
     "source": "tsmc_careers",
     "posted_date": "2026-04-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -39248,13 +39240,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDepartment-Secretary-Kaohsiung%2F3977",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Department Secretary) at a semiconductor company, which does not match our engineering/technical position requirement.",
+    "reason": "The job is for a non-technical administrative role of a Department Secretary, which does not match Vineeth's technical background.",
     "id": "53e67584",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Development Engineer, Dry Etch (Jr., Mid, Sr.)",
@@ -39263,13 +39254,12 @@
     "url": "https://www.glassdoor.com/job-listing/process-development-engineer-dry-etch-jr-mid-sr-skorpios-technologies-JV_IC1147145_KO0,47_KE48,69.htm?jl=1010174429148",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Process Development Engineer in Dry Etch, which does not directly align with the key domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design or EDA Tools mentioned in the job search requirements. While it may involve some overlap with semiconductor manufacturing processes, it does not specifically target the high-priority areas.",
+    "reason": "The role is primarily focused on dry etch process development, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f81bfe36",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Temecula, CA",
