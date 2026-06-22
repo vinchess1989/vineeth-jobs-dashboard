@@ -25520,13 +25520,12 @@
     "url": "https://uk.linkedin.com/jobs/view/applications-engineer-uk-at-infinitesima-4429536848",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for an Applications Engineer in the UK, matching the target location criteria.",
+    "reason": "Matches the leadership role exception with a strong technical skill overlap in Applications Engineering for semiconductor technology",
     "id": "01c09cce",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/infinitesima_applications_engineer_uk_01c09cce.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/infinitesima_applications_engineer_uk_01c09cce.txt"
   },
   {
     "title": "Field Applications Engineer \u2013 EMEA (UK-based)",
@@ -25535,13 +25534,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-applications-engineer-%E2%80%93-emea-uk-based-at-cml-micro-4416228979",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Field Applications Engineer focused on customer support and market growth, rather than technical leadership in power integrity, signal integrity, packaging, or EDA-related areas.",
+    "reason": "This role is a Field Applications Engineer position focused on customer-facing technical support, which is outside Vineeth's core Power Integrity and Advanced Packaging technical domains.",
     "id": "7ca38bf0",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electronics Manager - up to \u00a383,000 DOE ID48696",
@@ -25550,13 +25548,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electronics-manager-up-to-%C2%A383-000-doe-id48696-at-humand-talent-4419264119",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Electronics Manager focusing on leadership and process improvement, but it does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership we are targeting.",
+    "reason": "This electronics manager role is non-technical, whereas Vineeth has a strong technical background in Power Integrity and Advanced Packaging. The role does not match his domain.",
     "id": "7b4ad917",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fundamental Researcher, MI-Canvas International",
@@ -25565,13 +25562,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fundamental-researcher-mi-canvas-international-at-point72-4290947330",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on fundamental research in industries and private companies, with a focus on qualitative insights, unlike VLSI/EDA roles.",
+    "reason": "This is a non-technical role focused on fundamental research and analysis for investment purposes, not related to semiconductor/VLSI/EDA. It falls under 'Fundamental Researcher' not matching Vineeth's domain.",
     "id": "651723e5",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OFCI Package Manager",
@@ -25579,14 +25575,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/ofci-package-manager-at-clear-4423900331",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Advanced Packaging / Thermal, with experience managing OFCI equipment packages.",
+    "matches_requirements": "no",
+    "reason": "The role is a project management position focused on data center delivery, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "aecdbeb7",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/clear__ofci_package_manager_aecdbeb7.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EMEA Engineering Graduate Program (m/f/d)",
@@ -25595,13 +25590,12 @@
     "url": "https://fi.linkedin.com/jobs/view/emea-engineering-graduate-program-m-f-d-at-avnet-4402024949",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general graduate program rather than a specific technical VLSI/EDA role, making it a non-match.",
+    "reason": "The role is a general engineering graduate program and does not match Vineeth's specialized technical background in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "40823bcf",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "2026-10-01",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Commercial Partnerships",
@@ -25610,13 +25604,12 @@
     "url": "https://fi.linkedin.com/jobs/view/head-of-commercial-partnerships-at-iqm-quantum-computers-4424574141",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a commercial partnerships role rather than a technical engineering or leadership position in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily non-technical, focusing on commercial partnerships and international business diplomacy rather than semiconductor/VLSI/EDA engineering.",
     "id": "dbec91d0",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Manager (Data Centers)",
@@ -25625,13 +25618,12 @@
     "url": "https://fi.linkedin.com/jobs/view/design-manager-data-centers-at-deci-ltd-4425819930",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a Design Manager specializing in data center projects, not a technical role related to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily design coordination for a data center project, which does not match Vineeth's focus on semiconductor/EDA VLSI Power Integrity and Advanced Packaging.",
     "id": "a01780d4",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Application Engineer",
@@ -25640,13 +25632,12 @@
     "url": "https://fi.linkedin.com/jobs/view/field-application-engineer-at-onenav-inc-4418044248",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires customer communication and field application engineering, which falls more under product marketing/sales rather than the technical domains of Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology in VLSI/EDA.",
+    "reason": "The role is for a Field Application Engineer, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA. It focuses on RF and GNSS technologies rather than semiconductor design or engineering.",
     "id": "924186dd",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commissioning Manager",
@@ -25655,13 +25646,12 @@
     "url": "https://fi.linkedin.com/jobs/view/commissioning-manager-at-deci-ltd-4418589349",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a commissioning manager for data center projects, unrelated to VLSI/EDA/Semiconductor fields.",
+    "reason": "This Commissioning Manager role is non-technical leadership, not a semiconductor/VLSI/EDA engineering position.",
     "id": "95ba4807",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CSA Project Manager",
