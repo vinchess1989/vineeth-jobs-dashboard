@@ -35684,13 +35684,12 @@
     "url": "https://www.infineon.com/careers/job/563808971212839",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title is for a non-technical sales operations role, not matching the semiconductor/VLSI/EDA technical positions we are searching for.",
+    "reason": "The job is for a non-technical Sales Operations Analysis role, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and EDA.",
     "id": "84f5f2fa",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Design and Technology Platform Engineer (DTP)",
@@ -35699,13 +35698,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19034&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the prioritized locations of Finland, UK, India, Europe (outside Finland), or fully remote positions.",
+    "reason": "This role is in IC physical design, which matches Vineeth's CAD & Methodology background but does not match his Power Integrity and Advanced Packaging focus areas.",
     "id": "f9c44450",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -35713,14 +35711,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Design-and-Technology-Platform-Engineer-DTP%2F19034",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a campus recruitment position, which does not match the senior-level technical leadership experience of the candidate profile.",
+    "matches_requirements": "yes",
+    "reason": "Matches Domain & Technical Area - Power Integrity (PI) / Signal Integrity (SI)",
     "id": "c9898984",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "2026-06-28",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_c9898984.txt"
   },
   {
     "title": "Deputy Manager - Cell Production",
@@ -35729,13 +35726,12 @@
     "url": "https://in.linkedin.com/jobs/view/deputy-manager-cell-production-at-adani-group-4405227219",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate profile provided does not match the technical requirements for this semiconductor/VLSI/EDA role.",
+    "reason": "The role is for semiconductor manufacturing, which is outside Vineeth's primary domain of expertise in Power Integrity (PI), Advanced Packaging, CAD Methodology and EDA tools.",
     "id": "04b04c8e",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Process Engineering | Global R&D Process Engineering Program",
@@ -35744,13 +35740,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-engineer-process-engineering-global-r-d-process-engineering-program-at-asm-4402145742",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Senior Engineer position in Process Engineering, focused on semiconductor equipment and materials research and development. It does not match the target domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design or EDA Tools.",
+    "reason": "The role is primarily focused on semiconductor equipment process engineering, not VLSI/EDA design or related technical domains.",
     "id": "eb3bae80",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Security and Virtualization Validation Engineer",
@@ -35759,13 +35754,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87341?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an AMD engineer position, not a general semiconductor/EDA role as required.",
+    "reason": "The role is primarily focused on datacenter CPU validation with a focus on security and virtualization features, which does not directly align with Vineeth's power integrity (PI), advanced packaging, and CAD/Methodology background. Although some aspects like SoC validation infrastructure could be relevant, the bulk of the job description is outside his core domain.",
     "id": "08dabd3f",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Bootstrapping a Hardware Startup in a $50M Niche Market",
@@ -35774,13 +35768,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1ua6oyx/bootstrapping_a_hardware_startup_in_a_50m_niche/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general discussion post about bootstrapping a hardware startup, not an actual job posting with requirements.",
+    "reason": "The job posting URL was blocked, preventing further evaluation of requirements against the candidate profile.",
     "id": "01674bda",
     "source": "reddit_hwstartups",
     "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -35789,13 +35782,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-digital-design-engineer-at-silanna-semiconductor-4427644378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in San Diego, California which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain. He specializes in Power Integrity and Advanced Packaging.",
     "id": "4fa3b78b",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer, GFac South Asia I&C EngineerSingapore, SingaporePosted 2 months ago",
@@ -35803,14 +35795,13 @@
     "location": "Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41218751",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Facilities Engineering position, which does not match the semiconductor/VLSI/EDA technical domains we are seeking.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns well with Vineeth's expertise in Power Integrity and Advanced Packaging, fitting his background.",
     "id": "5ee0bf3b",
     "source": "micron_careers",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_staff_engineer__gfac_south_asi_5ee0bf3b.txt"
   },
   {
     "title": "RTL Design Engineer",
@@ -35819,13 +35810,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-albatronyx-4429685701",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Associate position with less than 3 years experience required, which does not meet the target experience level of 10-15+ years for senior leadership roles.",
+    "reason": "The role is primarily hardware/software focused (RTL Design Engineer), outside Vineeth's domain of expertise in Power Integrity and CAD Methodology.",
     "id": "efd65049",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum Device Engineer",
