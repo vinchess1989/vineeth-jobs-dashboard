@@ -10302,13 +10302,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-technology-tool-enablement-engineer-at-intel-4418845206",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an engineering position but does not specifically match our technical domains of focus for Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design in VLSI/EDA.",
+    "reason": "The role is primarily software development (collaborating with internal and external ecosystem to coordinate tool feature requirements and specifications), which is outside Vineeth's domain.",
     "id": "b3db17f0",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chip/Software Engineer",
@@ -10317,13 +10316,12 @@
     "url": "https://www.linkedin.com/jobs/view/chip-software-engineer-at-silimate-yc-s23-4390795580",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Engineer at a semiconductor startup, not a technical position focused on VLSI/EDA.",
+    "reason": "The role is primarily software development (writing/shipping high-quality code in Python/C++) which is outside Vineeth's domain of Power Integrity, Advanced Packaging and EDA tool expertise.",
     "id": "d7dc968f",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chip/Software Engineer",
@@ -10332,13 +10330,12 @@
     "url": "https://www.linkedin.com/jobs/view/chip-software-engineer-at-silimate-yc-s23-4390901455",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position focused on building AI models and product strategy, which does not directly align with semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is primarily software development (Python/C++) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and VLSI design.",
     "id": "f8c7d0dd",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware / Software CoDesign Engineer  - 3P",
@@ -10347,13 +10344,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-software-codesign-engineer-3p-at-openai-4417166187",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Hardware / Software CoDesign Engineer at OpenAI, which does not fit the Semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is focused on software/hardware co-design for AI workloads, which does not closely match Vineeth's background in power integrity and advanced packaging.",
     "id": "cc204929",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "EDA/CAD SW Engineer (Multiple Levels)",
@@ -10362,13 +10358,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-cad-sw-engineer-multiple-levels-at-qualcomm-4318655256",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a specific security clearance that restricts to US citizens only.",
+    "reason": "The role is primarily software development rather than focusing on semiconductor, VLSI, EDA.",
     "id": "3cde9e2b",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon CAD Engineer, University Graduate, PhD",
@@ -10377,13 +10372,12 @@
     "url": "https://www.linkedin.com/jobs/view/silicon-cad-engineer-university-graduate-phd-at-google-4362596511",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Software Engineer position focusing on AI/ML hardware acceleration, not a semiconductor/VLSI/EDA technical engineering role.",
+    "reason": "The role is software development focused (e.g. Python, Java) rather than semiconductor/VLSI/EDA.",
     "id": "981c783a",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-04-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-22",
+    "description_file": null
   },
   {
     "title": "Member of Technical Staff - Architect",
@@ -10392,13 +10386,12 @@
     "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-architect-at-architect-4423024076",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical role at the intersection of AI and silicon design, which does not directly match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is software-focused (AI, ML accelerator architecture) which doesn't match Vineeth's hardware/VLSI/EDA background in PI, packaging, physical design.",
     "id": "8135a706",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Automated Derivatives",
@@ -10407,13 +10400,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-engineer-automated-derivatives-at-renesas-electronics-4429706570",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Austin, TX which does not match the preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also does not match India, Asia, Remote with worldwide eligibility. The US location and no mention of visa sponsorship/relocation make this a hard rejection.",
+    "reason": "This Senior Principal Software Engineering role is primarily software development focused, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "99906baa",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Account Manager",
@@ -10422,13 +10414,12 @@
     "url": "https://in.linkedin.com/jobs/view/account-manager-at-renesas-electronics-4418960067",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales role for building customer relationships, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The job is for an Account Manager role at Renesas Electronics, which does not match Vineeth's background in Power Integrity and VLSI/EDA tools.",
     "id": "74cf766d",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager - Cell Production",
@@ -10437,13 +10428,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-cell-production-at-adani-solar-4420459497",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a manufacturing position at Adani Solar, which does not fit the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is in solar module manufacturing, which is outside Vineeth's semiconductor/VLSI/EDA expertise domain.",
     "id": "91790adf",
     "source": "linkedin_semi_india",
     "posted_date": "2026-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Line Manager - Motor",
