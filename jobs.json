@@ -42697,14 +42697,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-npi-product-engineer-at-semtech-4398329345",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's technical background in NPI and is located in Bristol, UK which is an acceptable location match.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "8227c99f",
     "source": "linkedin_semi_uk",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/semtech_staff_npi_product_engineer_8227c99f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Reliability Engineer",
@@ -42713,13 +42712,12 @@
     "url": "https://uk.linkedin.com/jobs/view/reliability-engineer-at-cirrus-logic-4413568385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on customer support and product reliability rather than VLSI/EDA technical domains",
+    "reason": "The role is primarily focused on reliability engineering for mixed-signal IC products, which is different from Vineeth's domain of power integrity and advanced packaging.",
     "id": "786d2562",
     "source": "linkedin_semi_uk",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior NPI Product Engineer",
@@ -42728,13 +42726,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-npi-product-engineer-at-semtech-4414904991",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior NPI Product Engineer, which is not within the target domains of Power Integrity (PI), Advanced Packaging, or CAD Methodology.",
+    "reason": "This role is software development focused, not VLSI/EDA.",
     "id": "d005b52e",
     "source": "linkedin_semi_uk",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer",
@@ -42743,13 +42740,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-process-engineer-at-microchip-technology-inc-4414648686",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a semiconductor/VLSI/EDA role, but a manufacturing engineer position at a microelectronics company.",
+    "reason": "The role is a Senior Process Engineer focusing on manufacturing microelectronic modules, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, CAD methodology, etc.",
     "id": "2cd78de9",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Platform Development Engineer",
@@ -42757,14 +42753,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/platform-development-engineer-at-nexperia-4411154539",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Platform Development Engineer role matches the domain of Power MOSFET technology development, which is within the targeted technical domains.",
+    "matches_requirements": "no",
+    "reason": "The role is more focused on software development rather than semiconductor VLSI/EDA.",
     "id": "d14f47d8",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nexperia_platform_development_engineer_d14f47d8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff NPI Engineer",
@@ -42772,14 +42767,13 @@
     "location": "City Of Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-npi-engineer-at-oakmont-consulting-4419675862",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior NPI Product Engineer role with experience in analog/mixed-signal and optical technologies matches the semiconductor background",
+    "matches_requirements": "no",
+    "reason": "The role is a product engineer position which involves full end-to-end ownership of semiconductor products from concept to high-volume production - this is outside Vineeth's main domain of power integrity and advanced packaging.",
     "id": "ee93fc9c",
     "source": "linkedin_semi_uk",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/oakmont_consulting_senior_staff_npi_engineer_ee93fc9c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer",
@@ -42788,13 +42782,12 @@
     "url": "https://uk.linkedin.com/jobs/view/equipment-engineer-at-snap-inc-4411216519",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Maintenance Engineer at Snap Inc., which does not fit our target technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
+    "reason": "The role is primarily focused on maintenance of semiconductor manufacturing equipment, which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN.",
     "id": "995ee77c",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Yield Engineer",
@@ -42802,14 +42795,13 @@
     "location": "Greenock, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/yield-engineer-at-bluegate-consulting-4418774554",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job is for a semiconductor yield engineering role at BlueGate Consulting in Greenock, Scotland. It has some overlap with the target domains like Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis.",
+    "matches_requirements": "no",
+    "reason": "This is a semiconductor manufacturing yield engineering role, which does not directly match Vineeth's Power Integrity and Advanced Packaging background. However, it could be considered a maybe match for broader SoC design or engineering leadership roles.",
     "id": "446d6862",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -42817,14 +42809,13 @@
     "location": "Sheffield, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/product-engineer-at-phlux-technology-4397606508",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain (semiconductor Product engineering) and experience level (3+ years). Located in UK.",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical product engineering role at a semiconductor company, which does not match the job requirements.",
     "id": "5e6df12f",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/phlux_technology_product_engineer_5e6df12f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Wafer Process Engineer",
@@ -42833,13 +42824,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-wafer-process-engineer-at-lumentum-4417612071",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Wafer Process Engineer, focused on deposition expertise and equipment procurement lifecycle, which doesn't match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on wafer fabrication process engineering for optical coatings, while Vineeth's background is in chip-level power integrity and advanced packaging.",
     "id": "a65394fc",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-04-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New Product Introduction Engineer",
