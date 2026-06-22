@@ -59078,13 +59078,12 @@
     "url": "https://in.linkedin.com/jobs/view/field-application-engineer-bangalore-at-xp-power-4424125316",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match the required domains of Power Integrity, Advanced Packaging, or EDA tools and is more focused on general sales and technical support for power supply products.",
+    "reason": "This is a non-technical sales role focused on power supplies, not semiconductor VLSI EDA engineering roles.",
     "id": "55c73401",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-05-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior General Manager - Engineering",
@@ -59093,13 +59092,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-general-manager-engineering-at-intas-pharmaceuticals-4429277900",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a General Manager for Engineering and Projects, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership that we are looking to prioritize.",
+    "reason": "The role is a non-technical HR leadership position and does not fit Vineeth's engineering background in semiconductor/VLSI/EDA.",
     "id": "ad78dd9f",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Engineer",
@@ -59107,14 +59105,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/production-engineer-at-tecnicas-reunidas-4423138471",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Production Engineer focused on Oil & Gas and requires Power BI, SQL Server, Excel skills, but does not match the semiconductor/VLSI/EDA job requirements.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "e7ca490b",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "2023-05-16",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager",
@@ -59123,13 +59120,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-at-pwc-india-4291070001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business consulting position for data, analytics & AI services, not a technical engineering job in the semiconductor/VLSI/EDA industry.",
+    "reason": "Non-technical, business consulting role outside Vineeth's semiconductor/EDA domain",
     "id": "b0dd1dc1",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-05-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Program Officer \u2013 Data Quality and Documentation",
@@ -59137,14 +59133,13 @@
     "location": "Greater Delhi Area",
     "url": "https://in.linkedin.com/jobs/view/program-officer-%E2%80%93-data-quality-and-documentation-at-path-4413416836",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a non-technical Program Officer position focused on data quality, documentation and reporting in public health projects.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "99005e1a",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "2023-06-01",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Initiatives and Governance Specialist",
@@ -59153,13 +59148,12 @@
     "url": "https://in.linkedin.com/jobs/view/initiatives-and-governance-specialist-at-fieldcore-4408189271",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, focusing on sourcing and purchasing processes rather than semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a non-technical sourcing position with no overlap with Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "0f3774d9",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager - Field Quality Assurance",
@@ -59168,13 +59162,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-field-quality-assurance-at-adani-power-4406395163",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on mechanical quality assurance and inspection for a power plant, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is non-technical, HR-focused quality assurance for a power plant and does not involve semiconductor/VLSI/EDA technical domains.",
     "id": "b2e5b326",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager- C&I - Mundra",
@@ -59183,13 +59176,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-c-i-mundra-at-adani-power-4411612011",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not fit into any of the high-priority technical domains for semiconductor/VLSI/EDA jobs.",
+    "reason": "This is a non-technical business operations role, not an engineering/technical position at a semiconductor company.",
     "id": "550bc111",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Assistant Manager -Projects-Chemistry Commissioning Support",
@@ -59198,13 +59190,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-projects-chemistry-commissioning-support-at-adani-power-4419460849",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position focused on chemical commissioning and management in power plants, which does not align with the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is non-technical and focused on chemical commissioning rather than semiconductor/VLSI/EDA",
     "id": "163c077e",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Operations - Data Operations - Associate",
@@ -59213,13 +59204,12 @@
     "url": "https://in.linkedin.com/jobs/view/operations-data-operations-associate-at-kkr-4402454314",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Data Operations role at KKR, which does not fit our semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "The role is a non-technical business operations position focused on data governance and quality, which does not match Vineeth's technical VLSI/EDA background.",
     "id": "271d2551",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Manager - CHP Maintenance",
