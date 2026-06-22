@@ -54766,13 +54766,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-silicon-engineer-at-graphcore-4424561646",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a graduate position, which does not meet the experience level requirements.",
+    "reason": "The role is primarily software development (C/C++, Python) rather than semiconductor, VLSI, EDA.",
     "id": "fe486034",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Computer Aided Design Engineer",
@@ -54781,13 +54780,12 @@
     "url": "https://uk.linkedin.com/jobs/view/computer-aided-design-engineer-at-jayco-recruitment-4430976455",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a CAD Engineer specializing in electrical schematics and drawings, which does not directly match the VLSI/EDA domain requirements. The role also seems to be located in South Shields, England, United Kingdom.",
+    "reason": "This is a CAD Engineer role focused on electrical schematics and drawings, not the Power Integrity / Advanced Packaging roles Vineeth has experience with.",
     "id": "c4114d7d",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Frontend ASIC Design Engineer",
@@ -54795,14 +54793,13 @@
     "location": "City Of London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/frontend-asic-design-engineer-at-rise-technical-4406400026",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches our senior level frontend ASIC design engineer requirements, with relevant experience and skills.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on frontend digital design, which falls under general SoC architecture and ASIC design domains. Vineeth's background in Power Integrity (PI), Advanced Packaging, and CAD Methodology does not directly match this job.",
     "id": "adced0dd",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-06-06",
     "deadline": "N/A",
-    "description_file": "job_descriptions/rise_technical_frontend_asic_design_engineer_adced0dd.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Application Engineer (m/f/x)",
@@ -54810,14 +54807,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-application-engineer-m-f-x-at-skeleton-technologies-4417489245",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior role matches with 10+ years of experience and technical leadership",
+    "matches_requirements": "no",
+    "reason": "The role is primarily application engineering for energy storage systems, which does not match Vineeth's VLSI/EDA technical background in semiconductor power integrity and packaging. It also does not have a clear leadership requirement.",
     "id": "d183513d",
     "source": "linkedin_fi_asic_design",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/skeleton_technologie_senior_application_engineer__m_d183513d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "E190 Training and Checking Captain - Based in Perth, Australia",
@@ -54826,13 +54822,12 @@
     "url": "https://fi.linkedin.com/jobs/view/e190-training-and-checking-captain-based-in-perth-australia-at-qantas-4428438167",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate must have an ERJ170/190 type rating and command experience on type, which does not match the VLSI/EDA domain technical skills.",
+    "reason": "The role is for an E190 Training and Checking Captain, which is outside Vineeth's domain of expertise in Power Integrity, CAD methodology and VLSI.",
     "id": "7ebd0bd6",
     "source": "linkedin_fi_asic_design",
     "posted_date": "2023-06-09",
     "deadline": "2026-07-15",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, iOS",
@@ -54840,14 +54835,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/staff-engineer-ios-at-alphasense-4423531062",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a Staff Engineer position with iOS focus, fitting some key criteria but lacking specifics on years of experience and location. More context would be needed to determine if it fully matches.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (iOS) which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
     "id": "14846194",
     "source": "linkedin_fi_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer, iOS",
@@ -54856,13 +54850,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-staff-engineer-ios-at-alphasense-4423529119",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior Staff Engineer position focused on iOS and mobile systems, while the target role is for a Power Integrity / Advanced Packaging technical lead.",
+    "reason": "The role is primarily software development (iOS) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA.",
     "id": "606efd66",
     "source": "linkedin_fi_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -54871,13 +54864,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-at-cortex-consultants-llc-4428816905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA design role is for a consulting firm, not a semiconductor company.",
+    "reason": "Role is primarily FPGA design and validation rather than Power Integrity, Advanced Packaging or VLSI/SoC Physical Design",
     "id": "88db2e24",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL/FPGA Design Engineer(Experienced)",
@@ -54886,13 +54878,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-fpga-design-engineer-experienced-at-aumraj-design-systems-pvt-ltd-4267076709",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL/FPGA Design Engineer with 3-7 years of experience, which does not match the senior technical leadership profile.",
+    "reason": "The role is primarily verification (RTL, testbench development) which is outside Vineeth's domain.",
     "id": "9ce8c4b9",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -54901,13 +54892,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-at-dhruva-space-4428033921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA design and development, which does not directly match the VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (firmware engineer) rather than hardware design.",
     "id": "02de584f",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
