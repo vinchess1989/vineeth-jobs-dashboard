@@ -72742,13 +72742,12 @@
     "url": "https://www.infineon.com/careers/job/563808970793862",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain any technical details matching the specified domains and no indication of semiconductor/EDA/VLSI roles.",
+    "reason": "The job is for an HR (industrial engineering) role, which is a non-technical position and therefore does not match Vineeth's profile.",
     "id": "f44bdd66",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Engineer Unit Process DevelopmentMelaka (Malaysia)HRC1672729",
@@ -72757,28 +72756,12 @@
     "url": "https://www.infineon.com/careers/job/563808971186475",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "The role is a non-technical HR position at a semiconductor company, which violates the hard rejection criteria.",
     "id": "75f32f6c",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior Staff Specialist Procurement_9691Shanghai + 3 moreHRC1479691",
-    "company": "Infineon Technologies AG",
-    "location": "Extract from page",
-    "url": "https://www.infineon.com/careers/job/563808968754108",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job title and description do not match the specified technical domains for semiconductor, VLSI, EDA roles.",
-    "id": "0f9af0f9",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Specialist Quality Management Systems and ImprovementMelaka (Malaysia)HRC1579975",
@@ -72787,13 +72770,12 @@
     "url": "https://www.infineon.com/careers/job/563808970174619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description does not match the target technical domains for semiconductor/VLSI/EDA roles. It appears to be a general quality management systems and improvement role at Infineon Technologies.",
+    "reason": "The job is a non-technical HR role at a semiconductor company, which does not match Vineeth's engineering background.",
     "id": "b23d1e76",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Quantity Surveyor",
@@ -72802,13 +72784,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-quantity-surveyor-at-datax-connect-4428916854",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Quantity Surveyor role in the construction industry, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Quantity Surveyor/Senior QS in construction, not semiconductor/VLSI/EDA.",
     "id": "1bbd6df8",
     "source": "linkedin_fi_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -72817,13 +72798,12 @@
     "url": "https://nl.linkedin.com/jobs/view/hardware-engineer-at-thundersoft-4430383677",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT support role focusing on Windows, Mac and Linux OS environments, office software, and hardware troubleshooting. It does not match the VLSI/EDA semiconductor domain.",
+    "reason": "This hardware engineer role at ThunderSoft is focused on technical support and troubleshooting, which does not match Vineeth's areas of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, thermal analysis or EDA tools. It falls more into general IT hardware engineering and support.",
     "id": "2e54a6c8",
     "source": "linkedin_eu_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Architects, Engineers & Designers",
@@ -72832,13 +72812,12 @@
     "url": "https://lt.linkedin.com/jobs/view/architects-engineers-designers-at-%C4%8Diodri-4428907896",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for architects, engineers and designers to provide short paid consultations without taking on full design projects - this does not match the semiconductor/VLSI/EDA technical requirements.",
+    "reason": "The role is a general architect/engineer designer position, which doesn't match Vineeth's specific Power Integrity and Advanced Packaging technical expertise.",
     "id": "62d9e0a2",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -72847,13 +72826,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-visum-recruitment-4428917855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role for semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily design-focused (draw, update and maintain designs) without enough specifics in power integrity, signal integrity, packaging, thermal, CAD methodology, physical design that Vineeth could leverage. It's also a junior-level mechanical engineer position rather than a senior technical leadership role.",
     "id": "6ddad77d",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -72862,13 +72840,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-corp-match-private-limited-4428903759",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a physical design engineer role, which does not match the candidate's current technical leadership position and experience in power integrity and advanced packaging.",
+    "reason": "The role is an engineering position at a training and placement-focused company, which falls outside Vineeth's domain.",
     "id": "610b8715",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "3D Designer",
@@ -72877,13 +72854,12 @@
     "url": "https://uk.linkedin.com/jobs/view/3d-designer-at-hackajob-4427763409",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a 3D Designer at a fintech company Revolut, which doesn't match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The job is for a 3D Designer role at a fintech company, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "8f47e5ea",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Development Engineer",
