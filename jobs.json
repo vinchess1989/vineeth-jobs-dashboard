@@ -31554,13 +31554,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-r-d-engineer-rtl-optimization-tools-at-nvidia-4427233481",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Austin, TX which does not match the high priority locations of Finland, UK, India, Asia, or Fully Remote worldwide.",
+    "reason": "The role is primarily software development (C++ algorithms for RTL optimization) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "8af5711f",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Implementation Methodology Engineer - GPU",
@@ -31569,13 +31568,12 @@
     "url": "https://www.linkedin.com/jobs/view/implementation-methodology-engineer-gpu-at-nvidia-4395477232",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Santa Clara, CA which does not match the priority locations of Finland/Europe/UK/India/Asia. It also lacks key skills like ANSYS RedHawk etc.",
+    "reason": "This GPU implementation engineer role at NVIDIA is a logic design/implementation-focused position, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "32384097",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Implementation Methodology Engineer",
@@ -31583,14 +31581,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-implementation-methodology-engineer-at-nvidia-4427402631",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job role is a Senior Implementation Methodology Engineer with 6+ years of experience in ASIC implementation methodology and EDA tool/flow development which matches the criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on ASIC implementation methodology, which does not directly align with Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "6f2f2854",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_implementation_methodol_6f2f2854.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -31599,13 +31596,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-google-4424079747",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Sunnyvale, CA which does not match one of the preferred locations.",
+    "reason": "The role is primarily focused on physical design (RTL to GDSII) which is outside Vineeth's domain of power integrity and advanced packaging. It also requires experience with RTL to GDSII flow, script languages like Perl, Python or Tcl.",
     "id": "ad844a02",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Front-End CAD Engineer, Silicon",
@@ -31614,13 +31610,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-front-end-cad-engineer-silicon-at-google-4424232966",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Software Development Engineer position, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is primarily software development (writing production scripts, developing custom silicon solutions for Google devices) which is outside Vineeth's domain.",
     "id": "297f597f",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC AI Engineer",
@@ -31629,13 +31624,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-ai-engineer-at-nvidia-4424006270",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Santa Clara, CA, USA which does not match the target locations of Finland, UK, India or fully remote roles.",
+    "reason": "Not in Power Integrity, Advanced Packaging, EDA domains",
     "id": "005c1b1d",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "EDA Workflow Optimization Engineer",
@@ -31644,13 +31638,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-workflow-optimization-engineer-at-nvidia-4395485280",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires specific experience with ASIC, VLSI, CAD/EDA environments and UNIX systems programming which is outside Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is primarily focused on software engineering and optimization of chip design workflows, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging. Vineeth has more direct expertise in EDA tools and physical design.",
     "id": "1e963498",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-04-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer \u2013 Chip Design Back End",
@@ -31658,14 +31651,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-%E2%80%93-chip-design-back-end-at-toshiba-4429635574",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior backend physical design role matches the target domain and experience level requirements.",
+    "matches_requirements": "no",
+    "reason": "The job is a Principal Engineer role with backend physical design focus, which matches Vineeth's domain. However, it is based in Bengaluru, India, which is not one of Vineeth's highest priority locations.",
     "id": "7dfc0f10",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/toshiba_principal_engineer___chip_desi_7dfc0f10.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Architect \u2013 Programmable Clock Architecture",
@@ -31674,13 +31666,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86793?lang=en-us",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches leading a programmable clock design team with 15+ years experience in India for AMD.",
+    "reason": "Leadership role in Power Integrity/Signal Integrity domain at semiconductor company AMD, fits Vineeth's background and seniority level.",
     "id": "0df77de8",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_lead_architect___programmable__0df77de8.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_lead_architect___programmable__0df77de8.txt"
   },
   {
     "title": "Staff Software Development Engineer",
@@ -31689,13 +31680,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87090?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software development engineer, which does not fit our technical domain criteria.",
+    "reason": "The role is software development focused, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "ec5194b6",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
