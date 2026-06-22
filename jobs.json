@@ -54079,14 +54079,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-program-manager-at-scaleflux-4430072622",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires managing complex ASIC and SoC programs with 10+ years of experience in semiconductor design.",
+    "matches_requirements": "no",
+    "reason": "The role is an ASIC Program Manager which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN Sign-off.",
     "id": "672e8a5b",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/scaleflux_asic_program_manager_672e8a5b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verification Intern",
@@ -54095,13 +54094,12 @@
     "url": "https://in.linkedin.com/jobs/view/verification-intern-at-ast-spacemobile-4428826297",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for verification of satellite-based mobile phone systems, which does not match semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily verification focused (UVM) which does not match Vineeth's domain.",
     "id": "6afb700e",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD ENGINEERS CIVIL",
@@ -54110,13 +54108,12 @@
     "url": "https://in.linkedin.com/jobs/view/cad-engineers-civil-at-larsen-toubro-4365512724",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical CAD engineering role at Larsen & Toubro, a large construction and manufacturing company. It does not involve semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily non-technical (drafting, design) and unrelated to semiconductor/VLSI/EDA.",
     "id": "d19a1f3d",
     "source": "linkedin_india_asic_design_p2",
     "posted_date": "2023-11-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Designer",
@@ -54124,14 +54121,13 @@
     "location": "Lucca, Tuscany, Italy",
     "url": "https://it.linkedin.com/jobs/view/analog-designer-at-move-silicon-4427989203",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog IC design, which is outside Vineeth's expertise in power integrity and VLSI.",
     "id": "4b844284",
     "source": "linkedin_eu_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Analog IP Designer (m/f/d)",
@@ -54140,13 +54136,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-analog-ip-designer-m-f-d-at-x-fab-sarawak-4428540921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on analog IP design for X-FAB's semiconductor manufacturing, which does not directly align with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on analog IC design with Cadence Virtuoso, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "718e0ef0",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Designer",
@@ -54154,14 +54149,13 @@
     "location": "Milan, Lombardy, Italy",
     "url": "https://it.linkedin.com/jobs/view/analog-designer-at-move-silicon-4427981317",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role involves IP design for an AI-based EDA tool, which does not closely match Vineeth's areas of expertise in Power Integrity and Advanced Packaging.",
     "id": "ad0d6512",
     "source": "linkedin_eu_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-24",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital IC Designer - Milano",
@@ -54170,13 +54164,12 @@
     "url": "https://it.linkedin.com/jobs/view/digital-ic-designer-milano-at-move-silicon-4427996033",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches technical domain of digital IC design with required experience and skills.",
+    "reason": "The role involves digital IC design for ASIC development in power conversion and signal processing domains, which matches Vineeth's background in Power Integrity and SoC PDN sign-off.",
     "id": "12004eb5",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/move_silicon_digital_ic_designer___milano_12004eb5.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/move_silicon_digital_ic_designer___milano_12004eb5.txt"
   },
   {
     "title": "Senior EMC Design Engineer (m/f/d)",
@@ -54185,13 +54178,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-emc-design-engineer-m-f-d-at-tesla-4420218584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior EMC Design Engineer at Tesla, which doesn't fit the target domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is focused on automotive power electronics, not semiconductor VLSI EDA",
     "id": "0a5dee2a",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital IC Designer - Lucca",
@@ -54199,14 +54191,13 @@
     "location": "Lucca, Tuscany, Italy",
     "url": "https://it.linkedin.com/jobs/view/digital-ic-designer-lucca-at-move-silicon-4427975352",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior-level digital IC design role with requirements for HDL, ASIC flow and good communication skills in English.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily digital design (HDL, FPGA) which is outside Vineeth's main Power Integrity and Advanced Packaging domains.",
     "id": "89aea08d",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/move_silicon_digital_ic_designer___lucca_89aea08d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Supply Chain Officer",
@@ -54215,13 +54206,12 @@
     "url": "https://be.linkedin.com/jobs/view/asic-supply-chain-officer-at-imec-4429248528",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a supply chain officer, which does not match the technical engineering roles in semiconductor/VLSI/EDA we are looking to find.",
+    "reason": "This role is for a general supply chain officer rather than a technical semiconductor/VLSI/EDA position in power integrity, advanced packaging, or CAD.",
     "id": "c96a5876",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2023-05-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior Analog IC Layout Engineer \u2013 Transistor-Level Design - Milano",
