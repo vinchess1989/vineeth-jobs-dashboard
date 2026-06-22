@@ -68345,14 +68345,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/vp-strategic-alliances-ecosystem-at-exl-4413676597",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a VP of Strategic Alliances & Ecosystem, which focuses on business development and partnership strategy, rather than technical roles in semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "a19ad6a4",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "2026-06-19",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SCUK Data & Reporting Analyst",
@@ -68361,13 +68360,12 @@
     "url": "https://uk.linkedin.com/jobs/view/scuk-data-reporting-analyst-at-santander-consumer-uk-plc-4429995508",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Data & Reporting Analyst position at a finance company, which does not fit our semiconductor/VLSI/EDA job criteria.",
+    "reason": "The role is a non-technical finance/analysis position focused on data reporting and visualization, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "3e0db704",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Splicing Engineer",
@@ -68375,14 +68373,13 @@
     "location": "Greater London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/splicing-engineer-at-jsm-group-services-ltd-4422963668",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a splicing engineer, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "af1d3b1a",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Regulatory Affairs Specialist",
@@ -68390,14 +68387,13 @@
     "location": "Swinton, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/regulatory-affairs-specialist-at-luxfer-mel-technologies-4412897351",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is non-technical (Regulatory Affairs Specialist) and does not fit Vineeth's semiconductor/VLSI/EDA domain expertise.",
     "id": "8c5b22b4",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Electronic Engineering",
@@ -68405,14 +68401,13 @@
     "location": "Dunstable, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/head-of-electronic-engineering-at-saab-4426394264",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a senior leadership position which does not tightly match Vineeth's technical background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
     "id": "523ce102",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Consultant",
@@ -68421,13 +68416,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-consultant-at-consultancy-uk-4351855111",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a general business consulting role at a firm named Nine Feet Tall, which does not specialize in VLSI/EDA. It requires only a postgraduate degree.",
+    "reason": "The role is for a consulting firm, which is a non-technical position at a semiconductor company.",
     "id": "691d8b85",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-05-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Geospatial Manager",
@@ -68436,13 +68430,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-geospatial-manager-at-lightsource-bp-4427738001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Geospatial Manager at Lightsource bp, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is in renewable energy project development, not semiconductor/VLSI/EDA. It involves geospatial analysis and mapping to support solar and wind power projects.",
     "id": "b82512b4",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Assurance Analyst",
@@ -68451,13 +68444,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-assurance-analyst-at-laveer-engineering-4382514330",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical security assurance role focused on supply chain and compliance, not semiconductor/EDA/VLSI technical roles.",
+    "reason": "The role is a Supply Chain Security Analyst/Advisor, which focuses on security of supply chain and third-party suppliers. This does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "a28be477",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Management Information Lead",
@@ -68466,13 +68458,12 @@
     "url": "https://uk.linkedin.com/jobs/view/management-information-lead-at-department-for-work-and-pensions-dwp-4429631808",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on data analysis, reporting, and stakeholder management, which does not match the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical and unrelated to semiconductor, VLSI, EDA roles.",
     "id": "56ae0571",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Missions Systems Engineer",
@@ -68481,13 +68472,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-missions-systems-engineer-at-dea-specialised-airborne-operations-4376759242",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Missions Systems Engineer, which does not match the required VLSI/EDA domain.",
+    "reason": "The role is focused on airborne radar, sensors, and mission systems engineering for an aviation company, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "b0db0254",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager, Media Strategy & Governance",
