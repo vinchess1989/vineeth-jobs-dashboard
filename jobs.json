@@ -41059,14 +41059,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/ion-implant-operator-at-coherent-corp-4425313433",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on semiconductor manufacturing operations, which falls outside Vineeth's area of power integrity and advanced packaging expertise.",
     "id": "436ae990",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer - Korean, Japanese, or Mandarin Speaking",
@@ -41075,13 +41074,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-process-engineer-korean-japanese-or-mandarin-speaking-at-asm-4359930754",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a Senior Process Engineer position at ASM, which does not match the Power Integrity / Signal Integrity (PI/SI) or Advanced Packaging / Thermal roles we are looking for.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "ede44150",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Applications Engineer",
@@ -41089,14 +41087,13 @@
     "location": "Hillsboro, OR",
     "url": "https://www.linkedin.com/jobs/view/field-applications-engineer-at-asml-4408518714",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on lithography and metrology product support, which is outside Vineeth's domain of power integrity, advanced packaging, and EDA.",
     "id": "1be36fe5",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cleanroom Operator Level I (Entry Level)",
@@ -41104,14 +41101,13 @@
     "location": "Albany, NY",
     "url": "https://www.linkedin.com/jobs/view/cleanroom-operator-level-i-entry-level-at-ny-creates-4420611379",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a cleanroom operator, which does not match Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "19eb328b",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-28",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Department Secretary (Taichung)",
@@ -41120,13 +41116,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=20470&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general administrative position, not a technical/engineering role focused on semiconductor, VLSI, EDA.",
+    "reason": "The role is for a Department Secretary, which does not match Vineeth's technical background in Power Integrity and VLSI design.",
     "id": "bfa6d4e1",
     "source": "tsmc_careers",
     "posted_date": "2026-05-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -41135,13 +41130,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDepartment-Secretary-Taichung%2F20470",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job link leads to a generic LinkedIn page without specific details about the job title, company, location or application deadline. More information is required to determine if this job matches the search criteria.",
+    "reason": "The job is a non-technical administrative position at a semiconductor company, which does not match Vineeth's technical background.",
     "id": "16df43da",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Custom Memory Design Engineer",
@@ -41149,14 +41143,13 @@
     "location": "Germany-Munich",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16489&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior engineering role is a good match for the target profile, with experience in power integrity and advanced packaging. The location in Germany fits the preferred European locations.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (design kit generation) which is outside Vineeth's domain.",
     "id": "f9ca7ceb",
     "source": "tsmc_careers",
     "posted_date": "2026-05-11",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/tsmc_europe_b_v_custom_memory_design_engineer_f9ca7ceb.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -41165,13 +41158,12 @@
     "url": "https://www.workatastartup.com/jobs/94748",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product engineer role at a startup building AI agents for knowledge work, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a software engineering position at a startup, which falls outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "c422e273",
     "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "apply now",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electrical Engineering Intern",
@@ -41180,13 +41172,12 @@
     "url": "https://www.workatastartup.com/jobs/94262",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an Electrical Engineering Intern position focused on hardware and PCB design, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is focused on hardware design and electronics, which falls outside Vineeth's primary domains of power integrity, advanced packaging, and EDA tool methodology.",
     "id": "01755d6e",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Product Manager Jobs",
@@ -41195,13 +41186,12 @@
     "url": "https://www.workatastartup.com/jobs/r/product-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Product Manager position at various Y Combinator startups, focusing on product development and strategy. It does not match the technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The role is a Product Manager position at an AI/technology startup, which does not match Vineeth's VLSI/EDA semiconductor industry background and expertise.",
     "id": "29627750",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Sales Jobs",
