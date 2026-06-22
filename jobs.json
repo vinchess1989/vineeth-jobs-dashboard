@@ -8692,13 +8692,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-physical-design-engineer-netlisting-new-college-grad-2026-at-nvidia-4410863608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a new college grad entry-level position, whereas we are looking for senior-level positions with at least 10-15 years of experience.",
+    "reason": "This entry-level ASIC Physical Design Engineer role is far below Vineeth's experience level of 15 years, even for a college grad.",
     "id": "9ebe1588",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -8707,13 +8706,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-socionext-us-4401985678",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency which is a hard rejection per the instructions.",
+    "reason": "The role is primarily software development (RTL simulation, testbench development) which is outside Vineeth's domain.",
     "id": "3e22f097",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -8722,13 +8720,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-correct-designs-4225001718",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level engineer role at a company, not a senior technical leadership position in the target domains.",
+    "reason": "The role is primarily focused on verification, which is outside Vineeth's domain.",
     "id": "23042a6d",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-03-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -8737,13 +8734,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-correct-designs-4225003698",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Discarded as it is a non-technical HR role at a semiconductor company.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "2352abfb",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-01-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer - New College Grad 2026",
@@ -8752,13 +8748,12 @@
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-new-college-grad-2026-at-nvidia-ai-4424862124",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level circuit design engineer position for a new college grad, which does not match the senior-level technical leadership roles and experience we are targeting.",
+    "reason": "The job is an entry-level college grad position that requires a MS and specializes in standard cell library characterization, which does not match Vineeth's 15-year power integrity and advanced packaging experience.",
     "id": "aa9f6e68",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior VLSI CAD Software Engineer",
@@ -8766,14 +8761,13 @@
     "location": "Westford, MA",
     "url": "https://www.linkedin.com/jobs/view/senior-vlsi-cad-software-engineer-at-nvidia-4395470519",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior VLSI CAD Software Engineer role at NVIDIA matches technical domain and experience level.",
+    "matches_requirements": "no",
+    "reason": "This is a software engineering role focused on high-capacity and high-performance chip design applications, not in power integrity, packaging, CAD tools, or semiconductor hardware domains relevant to Vineeth's background.",
     "id": "f527c092",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_vlsi_cad_software_engin_f527c092.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -8782,13 +8776,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-engineer-at-eagle-wireless-4430413084",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Hardware Engineer role, which does not match the technical domains we are looking to match.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "55d72eac",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. ASIC EDA Workflow Engineer",
@@ -8797,13 +8790,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-asic-eda-workflow-engineer-at-tensordyne-4298126400",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in San Jose, CA, USA which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "reason": "The role is primarily software development with firmware engineer mentioned, which is outside Vineeth's domain.",
     "id": "a17b88b5",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-03-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior VLSI CAD Software Engineer",
@@ -8812,13 +8804,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-vlsi-cad-software-engineer-at-nvidia-4395483226",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at NVIDIA's headquarters, so it doesn't match our requirement for semiconductor/VLSI/EDA positions in Finland, Europe (outside Finland), or UK (England, Scotland, Ireland).",
+    "reason": "The role is primarily software development (C++, Java) and doesn't match Vineeth's VLSI/EDA domain expertise in power integrity, advanced packaging, CAD methodology.",
     "id": "62ee1653",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior VLSI CAD Software Engineer",
@@ -8826,14 +8817,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-vlsi-cad-software-engineer-at-nvidia-4395476582",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15 years of experience in Power Integrity, Advanced Packaging, and key skills like ANSYS RedHawk match the job requirements.",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role (Software Engineer) at a semiconductor company.",
     "id": "086e41c2",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "2026-06-24",
-    "description_file": "job_descriptions/nvidia_senior_vlsi_cad_software_engin_086e41c2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High-Speed Package Design Engineer",
