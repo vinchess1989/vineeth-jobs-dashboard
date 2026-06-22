@@ -8006,13 +8006,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/benefits",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general overview of Texas Instruments, not a specific job posting with requirements matching the target domains.",
+    "reason": "The role is a non-technical HR position, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "706f74a1",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Our culture",
@@ -8021,13 +8020,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/our-culture",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description does not contain enough specific details about the role, location or company to evaluate a match.",
+    "reason": "Non-technical role at a semiconductor company.",
     "id": "e0542194",
     "source": "ti_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Locations",
@@ -8036,13 +8034,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/locations",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general locations page, not an actual job posting.",
+    "reason": "The job posting URL does not specify a deadline for applying and is missing key details to make an accurate evaluation.",
     "id": "147def93",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "North America",
@@ -8051,13 +8048,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/north-america",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not fit the specified technical domains and is for a non-technical sales role.",
+    "reason": "The role is fully remote and does not specify a location, which doesn't match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia.",
     "id": "7288ceae",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Europe",
@@ -8066,13 +8062,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/europe",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Sales position, which does not match our technical job requirements.",
+    "reason": "The role is a general software engineering position, not specific to semiconductor/VLSI/EDA technical domains.",
     "id": "1f0d7600",
     "source": "ti_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Asia Pacific",
@@ -8081,13 +8076,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/asia-pacific",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Texas, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, England, Scotland, Ireland, India, Asia (Taiwan, South Korea, Singapore), or Remote with worldwide eligibility.",
+    "reason": "The job is based in Dallas, Texas which does not match the preferred locations of Finland, Europe, UK, India or Asia.",
     "id": "85598b13",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer Product Application_1294Xi'an + 1 moreHRC1661294",
@@ -8096,13 +8090,12 @@
     "url": "https://www.infineon.com/careers/job/563808970998529",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description page is empty with a '404 ERROR' message, unable to extract relevant details for evaluation.",
+    "reason": "The job posting URL is missing, so company and location cannot be verified.",
     "id": "b979a95e",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Product Application Engineer IPMXi'an + 5 moreHRC1283334",
@@ -8111,28 +8104,26 @@
     "url": "https://www.infineon.com/careers/job/563808961268303",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job details are incomplete, making it impossible to evaluate a match based on the information given.",
+    "reason": "The job listing URL is missing, so we can't check location, deadline, or company.",
     "id": "89894fa7",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer Automotive MOSFET Development (f/m/div)Dresden (Germany)HRC1643608",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Dresden (Germany)",
     "url": "https://www.infineon.com/careers/job/563808970816811",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is missing, making it impossible to fetch application deadline and other details.",
+    "reason": "The role is focused on MOSFET development for the automotive sector, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "1b5e8974",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer Technical Marketing and Application_9783Shenzhen + 1 moreHRC1639783",
@@ -8141,13 +8132,12 @@
     "url": "https://www.infineon.com/careers/job/563808970791401",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical marketing role, which does not match the engineering/technical positions we are looking for.",
+    "reason": "The job title mentions Technical Marketing, which is a non-technical role and thus does not match Vineeth's background in Power Integrity, Advanced Packaging and VLSI/EDA.",
     "id": "c7fee6f9",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, SMPS System ApplicationSeoul (Korea)HRC1145649",
