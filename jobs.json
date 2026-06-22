@@ -48675,14 +48675,13 @@
     "location": "Chattanooga, TN",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineering-associate-at-mesa-associates-inc-4347700583",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on substation design, which does not match Vineeth's area of expertise in semiconductor VLSI EDA Power Integrity and advanced packaging. The job is more aligned with traditional power engineering.",
     "id": "b6bcca56",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Scientist",
@@ -48691,13 +48690,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-scientist-at-axiom-consultants-4429577819",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a consultant position at a company, not directly matching semiconductor/VLSI/EDA domain requirements.",
+    "reason": "The role is primarily focused on meteorological instrumentation, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "852dbb4a",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist",
@@ -48706,13 +48704,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4417310501",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical position focused on deployment and maintenance of security systems, rather than semiconductor/VLSI/EDA roles.",
+    "reason": "The role is non-technical field installation and maintenance of physical security systems, which does not match Vineeth's VLSI/EDA background.",
     "id": "0fa63512",
     "source": "linkedin_ww_physical_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist",
@@ -48720,14 +48717,13 @@
     "location": "Newport, VT",
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4427045649",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is non-technical, focused on installation and maintenance of physical security systems rather than semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "d8190d7d",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "2023-05-25",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sports Information Officer, Athletics Football",
@@ -48741,8 +48737,7 @@
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Sports Information Officer, Athletics",
@@ -48750,14 +48745,13 @@
     "location": "Cincinnati, OH",
     "url": "https://www.linkedin.com/jobs/view/assistant-sports-information-officer-athletics-at-university-of-cincinnati-4429398268",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical Sports Information Officer role at a university, outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "6916203c",
     "source": "linkedin_ww_physical_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist",
@@ -48766,13 +48760,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4426399568",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Field Technology Specialist position at Sentrillion, which does not match our criteria for engineering/technical roles in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on low voltage system installation, networking and physical security systems deployment - which does not match Vineeth's expertise in VLSI/EDA/Power Integrity fields.",
     "id": "a336d95d",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Security Design Consultant",
@@ -48781,13 +48774,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-security-design-consultant-at-protus3-4416653885",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role focused on security systems design, not semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical, focusing on security system design and management rather than semiconductor/VLSI/EDA.",
     "id": "ea87f6a6",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Physical Security Consultant",
@@ -48796,13 +48788,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-physical-security-consultant-at-faith-group-llc-4407575158",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical leadership position at a consulting firm, focusing on physical security strategy and consulting rather than semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is focused on physical security consulting rather than semiconductor, VLSI or EDA domains.",
     "id": "8b626ba3",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist",
@@ -48811,13 +48802,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4426395929",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role focused on deployment and maintenance of security systems, not semiconductor/VLSI/EDA.",
+    "reason": "The role is IT infrastructure deployment and maintenance, not semiconductor/VLSI/EDA.",
     "id": "0237730e",
     "source": "linkedin_ww_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Security Engineer",
