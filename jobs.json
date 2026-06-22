@@ -57118,13 +57118,12 @@
     "url": "https://uk.linkedin.com/jobs/view/logical-design-engineer-at-fractile-4430457610",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for an RTL Design Engineer at a company building hardware for AI, which doesn't directly match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development focused on AI hardware acceleration, which is a mismatch for Vineeth's power integrity and advanced packaging background.",
     "id": "caccbba0",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -57132,14 +57131,13 @@
     "location": "Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365293711",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for a Logical Design Engineer at Axelera AI, which fits the VLSI/SoC design domain.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (RTL coding, digital design, SoC integration) which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "39110f69",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced SoC Design Engineer",
@@ -57147,14 +57145,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/experienced-soc-design-engineer-at-arm-4367605185",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is general SoC design, which does not directly match Vineeth's key Power Integrity and Advanced Packaging focus.",
     "id": "1dd48254",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal RTL Design Engineer",
@@ -57162,14 +57159,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-rtl-design-engineer-at-ic-resources-4428135593",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on RTL design for SoC and ASIC development, which falls outside Vineeth's domain of power integrity, advanced packaging, and CAD methodology.",
     "id": "49b5d88d",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. ASIC Design Engineer, Blink/Ring ASIC Team",
@@ -57177,14 +57173,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/sr-asic-design-engineer-blink-ring-asic-team-at-amazon-4378083534",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is primarily software development focused on backend and embedded systems, which is outside Vineeth's domain.",
     "id": "328ecc70",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Logical Design Engineer",
@@ -57192,14 +57187,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-logical-design-engineer-at-fractile-4408842252",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design which falls under verification, outside Vineeth's domain.",
     "id": "d144527a",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior VLSI Design Engineer",
@@ -57207,14 +57201,13 @@
     "location": "Farnborough, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-vlsi-design-engineer-at-mda-space-4377797793",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior VLSI design engineer role with 5+ years of experience in VLSI engineering, covering architectural, front-end design, verification and physical-design aspects",
+    "matches_requirements": "no",
+    "reason": "The job is a mid-level senior VLSI design engineer role with no specific mention of Power Integrity, CAD methodologies, EDA tools, physical design, or leadership - all areas where Vineeth has significant experience.",
     "id": "f8c01972",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/mda_space_senior_vlsi_design_engineer_f8c01972.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Frontend ASIC Design Engineer",
@@ -57222,14 +57215,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/frontend-asic-design-engineer-at-free-work-uk-4430784526",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key technical domain of frontend ASIC digital design with strong IC design experience and EDA tool knowledge.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves frontend digital design, which is relevant to Vineeth's background in power integrity and advanced packaging. However, it does not explicitly list expertise in those specific areas.",
     "id": "cd64b911",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/free_work_uk_frontend_asic_design_engineer_cd64b911.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff RTL/Digital Design Engineer - (CPU Team) - Visas Transfers Supported",
@@ -57237,14 +57229,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-rtl-digital-design-engineer-cpu-team-visas-transfers-supported-at-european-tech-recruit-4427984475",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves CPU RTL design and is located in Cambridge, UK which matches the target domain and location requirements.",
+    "matches_requirements": "no",
+    "reason": "The job is for RTL/Digital Design Engineer, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "9c31e8a4",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_staff_rtl_digital_design_engin_9c31e8a4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Validation and Emulation Engineer - Qualcomm - Cambridge, UK",
@@ -57253,13 +57244,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gpu-validation-and-emulation-engineer-qualcomm-cambridge-uk-at-qualcomm-4402131567",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a GPU Engineer focus on emulation/simulation acceleration/FPGA, whereas the candidate profile targets Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on GPU emulation, simulation acceleration and FPGA implementation rather than Power Integrity/Advanced Packaging/CAD Methodology areas which Vineeth specializes in.",
     "id": "0cc752bb",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Snr Digital Design Engineer",
