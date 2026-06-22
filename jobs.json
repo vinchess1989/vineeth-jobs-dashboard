@@ -7600,13 +7600,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-customer-service-raipur-at-jungheinrich-india-4396306103",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Customer Service Engineer role at Jungheinrich India, which does not fit the semiconductor/VLSI/EDA technical domain requirements.",
+    "reason": "The job is for a technical customer service role at a material handling equipment company, which does not fit Vineeth's semiconductor/VLSI/EDA background.",
     "id": "e4b5947b",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager \u2013 Yield Management Systems",
@@ -7615,13 +7614,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-%E2%80%93-yield-management-systems-at-tata-electronics-4418388407",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical engineering management position, focusing on yield and process integration rather than semiconductor VLSI/EDA.",
+    "reason": "The role is a yield engineering position at a semiconductor company, which falls outside Vineeth's domain of expertise in power integrity and advanced packaging.",
     "id": "fa592e35",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Spare Parts Sourcing Engineer",
@@ -7630,13 +7628,12 @@
     "url": "https://in.linkedin.com/jobs/view/spare-parts-sourcing-engineer-at-tata-electronics-4412242125",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for spare parts sourcing in electronics, not semiconductor VLSI/EDA.",
+    "reason": "The job is for a non-technical role of Spare Parts Sourcing Engineer at a Tata Electronics semiconductor facility, which does not match Vineeth's engineering background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "a2742131",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -7644,14 +7641,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4183997955",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Design Verification Engineer with 5 years of experience, fitting the target domain and experience level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (DDR memory controller, testbench development) which is outside Vineeth's domain.",
     "id": "8d6f2ea0",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-04-04",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_design_verification_engineer_8d6f2ea0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -7660,13 +7656,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-acl-digital-4262149351",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Analog Circuit Design Engineer, which does not match our focus on Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is for Analog Circuit Design, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "8cf5a8a3",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -7675,13 +7670,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-nvidia-4426686250",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level role which does not match the senior leadership experience target.",
+    "reason": "This role is primarily RTL/gate-level simulation which is outside Vineeth's domain of expertise in Power Integrity, CAD/Methodology and Advanced Packaging.",
     "id": "123c7345",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Layout Engineer",
@@ -7690,13 +7684,12 @@
     "url": "https://in.linkedin.com/jobs/view/memory-layout-engineer-at-capgemini-4427564565",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mid-level engineer position with less than 7 years of experience, which does not match the senior leadership roles we are looking for.",
+    "reason": "This role is for a general engineer with no specific focus on semiconductor/VLSI/EDA technologies or skills.",
     "id": "970593e9",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -7705,13 +7698,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-hcltech-4413698173",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level position at an IT services company, not a technical role in the VLSI/EDA domain.",
+    "reason": "The role is an entry/mid-level physical design engineer position, while Vineeth has over 15 years of experience in leadership positions like Technical Leader - Power Integrity & Advanced Packaging. This job does not match his profile.",
     "id": "c3b005dd",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -7719,14 +7711,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4183305778",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches Domain & Technical Area and Location criteria",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (C/C++, Perl/Shell script) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "08100bd9",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-02",
     "deadline": "N/A",
-    "description_file": "job_descriptions/acl_digital_design_verification_engineer_08100bd9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Specific Integrated Circuit Design Engineer",
@@ -7734,14 +7725,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/application-specific-integrated-circuit-design-engineer-at-acl-digital-4195683995",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key domain of Power Integrity (PI) / Signal Integrity (SI): 'Sign-off flow automation, EDA integration'",
+    "matches_requirements": "maybe",
+    "reason": "Matches technical domain with VLSI/ASIC, but role is for RTL design rather than Power Integrity/SI which candidate Vineeth specializes in.",
     "id": "b510f941",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-03-02",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_application_specific_integrate_b510f941.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
