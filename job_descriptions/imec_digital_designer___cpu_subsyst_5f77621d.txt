@@ -1,0 +1,263 @@
+Title: Digital Designer — CPU Subsystem (RTL & Verification) (Temporary Assignment)
+Company: imec
+Location: Leuven, Flemish Region, Belgium
+URL: https://be.linkedin.com/jobs/view/digital-designer-%E2%80%94-cpu-subsystem-rtl-verification-temporary-assignment-at-imec-4422699628
+Posted: 2023-06-08
+Deadline: Open until filled
+Reason: This role matches the Domain & Technical Area criteria for RTL design and verification of CPU subsystem blocks, which is part of VLSI/SoC Design domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Digital Designer — CPU Subsystem (RTL & Verification) (Temporary Assignment)
+imec  Leuven, Flemish Region, Belgium
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who imec has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Design and verify the CPU subsystem at the heart of imec's RISC-V compute prototypes.
+
+
+
+
+Compute System Architecture (CSA) is imec's center of excellence for hardware-software-technology co-design of future compute systems. We work in close collaboration with imec's expertise centers in applications, technology, circuits, and design to innovate and pathfind next-generation compute architectures across AI, HPC, automotive, space, and other domains. CSA operates across six imec centers — Belgium, the Netherlands, Germany, the UK, the USA, and Qatar. This position is based primarily in Leuven, Belgium.
+
+
+
+
+We are looking for a Digital Designer to join the Platform, Prototypes and Physical-Aware Design (P3D) group, with a focus on the CPU subsystem of imec's RISC-V-based compute platforms. You will own RTL design of CPU-side blocks — pipelines, caches, memory hierarchy, and the surrounding interconnect logic — and drive their verification from unit-level testing through subsystem-level integration.
+
+
+
+
+Your work directly feeds imec's prototype demonstrators, the silicon vehicles for imec's CMOS 2.0 vision: functionally partitioned, 3D-integrated compute systems that push well beyond what monolithic SoCs can deliver. You will work on technology beyond 2nm, alongside principal SoC and chiplet architects, in a fast-moving research environment with high industrial visibility.
+
+
+
+
+What you will do
+
+
+
+
+Translate microarchitectural specifications into clean, synthesizable RTL (SystemVerilog) for CPU subsystem blocks — front-end, execution pipeline, load/store unit, caches, and on-chip memory interfaces.
+Integrate RISC-V cores with surrounding subsystem components: cache hierarchies, coherency logic, AXI/CHI interconnects, and debug/trace infrastructure.
+Develop and execute functional verification environments for the modules you design — testbenches, UVM agents, SystemVerilog assertions, coverage models — and drive coverage closure to tape-out quality.
+Collaborate closely with SoC and chiplet architects to refine specifications, resolve ambiguities, and feed implementation insights back into the architecture loop.
+Anticipate PPA, timing, and floorplan implications in your RTL, supporting physical-aware design iterations through to prototype tape-out.
+Contribute to verification IP, regression infrastructure, and design/verification flow improvements used across the group.
+Document design and verification intent clearly enough that the next engineer — or the next prototype — can build on it.
+This is a temporary contract of two years, with the possibility to extend the contract.
+
+
+
+
+What we do for you
+
+
+
+
+We offer you the opportunity to join one of the world’s premier research centers in nanotechnology at its headquarters in Leuven, Belgium. With your talent, passion and expertise, you’ll become part of a team that makes the impossible possible. Together, we shape the technology that will determine the society of tomorrow.
+
+
+
+
+We are committed to being an inclusive employer and proud of our open, multicultural, and informal working environment with ample possibilities to take initiative and show responsibility. We commit to supporting and guiding you in this process; not only with words but also with tangible actions. Through imec.academy, 'our corporate university', we actively invest in your development to further your technical and personal growth.
+
+
+
+
+We are aware that your valuable contribution makes imec a top player in its field. Your energy and commitment are therefore appreciated by means of a market appropriate salary with many fringe benefits.
+
+
+
+
+Who you are
+
+
+
+
+At least 5 years of hands-on RTL design experience in SystemVerilog/Verilog for CPU, GPU, or similarly complex digital subsystems.
+Solid grasp of CPU microarchitecture — pipelines, hazards, branch prediction, caches, memory ordering — at a level that lets you read an architectural spec and turn it
+into RTL with sound design choices.
+Strong functional verification capability: UVM, SystemVerilog assertions (SVA), coverage-driven verification, constrained-random stimulus, and debug discipline.
+Familiarity with one or more standard interconnect protocols (AXI, ACE, CHI, TileLink) at both RTL and verification level.
+Hands-on experience with industry EDA flows (Synopsys, Cadence, Siemens) for simulation, lint, CDC, and synthesis.
+Comfort with scripting (Python, Tcl, Make) for verification automation, regressions, and design integration.
+Excellent written and spoken English, with the documentation habits to match.
+A structured, transparent way of working and a collaborative attitude in a multidisciplinary, multicultural team.
+
+Considered an asset:
+
+Experience with RISC-V cores (in-order or out-of-order) at RTL level.
+Exposure to formal verification methods and tools.
+Familiarity with High-Level Synthesis (HLS) flows and integrating HLS-generated RTL into a larger subsystem.
+Experience designing for advanced nodes (sub-5nm) or working knowledge of physical-aware RTL practices.
+Exposure to chiplet-based design and die-to-die interfaces (UCIe or similar).
+
+IMEC and its affiliates will not accept unsolicited resumes from any source other than directly from a candidate. IMEC will consider unsolicited referrals and/or resumes submitted by vendors such as search firms, staffing agencies, professional recruiters, fee-based referral services and recruiting agencies (hereafter “Agency”) to have been referred by the Agency free of charge. IMEC will not pay a fee to any Agency that does not have a prior written agreement with IMEC, validated by its HR department, in place regarding a specific job opening and allowing to submit resumes.
+
+Show more 
+Seniority level
+Associate
+Employment type
+Temporary
+Job function
+Engineering
+Industries
+Research Services, Semiconductor Manufacturing, and Nanotechnology Research
+  
+
+Referrals increase your chances of interviewing at imec by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Image Sensor Digital Design and Verification Engineer
+Image Sensor Digital Design and Verification Engineer
+eyeo
+Antwerp, Flemish Region, Belgium
+4 days ago
+Logical Design Engineer
+Logical Design Engineer
+Axelera AI
+Leuven, Flemish Region, Belgium
+5 months ago
+Sr. Digital Design Engineer
+Sr. Digital Design Engineer
+OMNIVISION
+Mechelen, Flemish Region, Belgium
+1 day ago
+Logical Design Engineer
+Logical Design Engineer
+Axelera AI
+Belgium
+5 months ago
+Senior Digital Design Engineer
+Senior Digital Design Engineer
+ICsense
+Flemish Region, Belgium
+1 month ago
+Digital Signal Processing ASIC R&D Engineer
+Digital Signal Processing ASIC R&D Engineer
+Keysight Technologies
+Leuven, Flemish Region, Belgium
+4 days ago
+Show more jobs like this 
+People also viewed
+ASIC Test Engineer
+ASIC Test Engineer
+
+Empiric
+
+Leuven, Flemish Region, Belgium
+5 days ago
+Hardware Engineer
+Hardware Engineer
+
+TMC
+
+Leuven, Flemish Region, Belgium
+1 week ago
+3D Chiplet Expert
+3D Chiplet Expert
+
+VerticalCompute
+
+Leuven, Flemish Region, Belgium
+2 weeks ago
+Hardware Design Engineer
+Hardware Design Engineer
+
+Vivid Resourcing
+
+Antwerp, Flemish Region, Belgium
+1 week ago
+Ingénieur Hardware (h/f)
+Ingénieur Hardware (h/f)
+
+MCA Belgium
+
+Brussels, Brussels Region, Belgium
+1 week ago
+System Engineer
+System Engineer
+
+Spectricity
+
+Mechelen, Flemish Region, Belgium
+2 weeks ago
+Hardware Engineer
+Hardware Engineer
+
+Vivid Resourcing
+
+Leuven, Flemish Region, Belgium
+1 week ago
+Software designer C/C
+Software designer C/C
+
+Médiane Système
+
+Brussels, Brussels Region, Belgium
+3 days ago
+ASIC Test Engineer
+ASIC Test Engineer
+
+ENGIBEX
+
+Leuven, Flemish Region, Belgium
+6 days ago
+ASIC Test & Qualification Engineer
+ASIC Test & Qualification Engineer
+
+Capgemini Engineering
+
+Diegem, Flemish Region, Belgium
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at imec
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
