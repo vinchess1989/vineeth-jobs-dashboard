@@ -30070,28 +30070,26 @@
     "url": "https://builtin.com/jobs/data-analytics/search/compliance-analyst",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Compliance Analyst, which is a non-technical role in Finance/HR, and does not match our target technical domains.",
+    "reason": "The role is for a non-technical Compliance Analyst position, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "1f13a5cc",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Content Creator Jobs",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Mindly",
+    "location": "Remote (Worldwide)",
     "url": "https://builtin.com/jobs/content/search/content-creator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for content creation roles, which do not match the semiconductor/VLSI/EDA technical positions we are searching for.",
+    "reason": "This is a remote content creation role at a software/healthtech company, which does not match the semiconductor/VLSI/EDA industry focus of Vineeth's expertise.",
     "id": "72d3dc11",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Content Jobs",
@@ -30099,29 +30097,27 @@
     "location": "San Francisco, CA, USA",
     "url": "https://builtin.com/jobs/content",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is a content marketing position, which does not match the semiconductor/VLSI/EDA industry focus of the original job requirements.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "38c47426",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Content Manager Jobs",
-    "company": "Extract from page",
+    "company": "RevenueCat",
     "location": "San Francisco, CA, USA",
     "url": "https://builtin.com/jobs/content/search/content-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a content management role, which does not match our target technical domains in semiconductor/VLSI/EDA.",
+    "reason": "This is a content marketing manager role, not an engineering/technical VLSI/EDA role.",
     "id": "2fb37d7e",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Content Writer Jobs",
@@ -30130,13 +30126,12 @@
     "url": "https://builtin.com/jobs/content/search/content-writer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a content writer position, not related to semiconductor/VLSI/EDA industry.",
+    "reason": "This is a content writer role, not an engineering/technical position for semiconductor/VLSI/EDA.",
     "id": "07c116fb",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-15",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Controller Jobs",
@@ -30145,13 +30140,12 @@
     "url": "https://builtin.com/jobs/finance/search/controller",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Controller role in Finance, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "This job is for a controller role, which is unrelated to semiconductor/VLSI/EDA and thus does not match the candidate's background.",
     "id": "1a6b38c6",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Copywriter Jobs",
@@ -30160,13 +30154,12 @@
     "url": "https://builtin.com/jobs/content/search/copywriter",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a copywriter, which does not match the technical domains of semiconductor/VLSI/EDA engineering.",
+    "reason": "The job is for copywriters, which does not match Vineeth's technical background and experience in semiconductor/VLSI/EDA.",
     "id": "dd0e6a94",
     "source": "builtin_semi",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Customer Service Representative Jobs",
@@ -30175,13 +30168,12 @@
     "url": "https://builtin.com/jobs/customer-success/search/customer-service-representative",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Customer Service Representative, which is a non-technical support role and does not match the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The job is for a non-technical customer service representative role, which does not match Vineeth's technical background in Power Integrity and VLSI/EDA.",
     "id": "90a8a62b",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Technician",
@@ -30189,14 +30181,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/manufacturing-technician-at-shapeways-4408763726",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for manufacturing technicians, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "324a54a9",
     "source": "linkedin_semi_eu",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assemblage Technieker",
@@ -30204,14 +30195,13 @@
     "location": "Lokeren, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/assemblage-technieker-at-movu-robotics-4410185187",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an assemblage technician role, which does not match the semiconductor/VLSI/EDA engineering positions we are looking to match.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "c75a95a5",
     "source": "linkedin_semi_eu",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Operations Manager",
