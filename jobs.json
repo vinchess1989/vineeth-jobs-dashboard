@@ -34032,13 +34032,12 @@
     "url": "https://www.glassdoor.com/job-listing/digital-design-verification-engineer-precision-adc-texas-instruments-JV_IC1133996_KO0,50_KE51,68.htm?jl=1010150648263",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a verification engineer for a precision ADC, which doesn't directly match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The job is for a verification engineer, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "76f4233a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "verification engineer jobs in Tucson, AZ",
@@ -34047,13 +34046,12 @@
     "url": "https://www.glassdoor.com/Job/tucson-verification-engineer-jobs-SRCH_IL.0,6_IC1133996_KO7,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is located in Tucson, AZ, which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "8579336b",
     "source": "glassdoor_semi",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Service Delivery HR Trainee - German Speaker (f/m/div)Porto (Maia) (Portugal)HRC1679922HybridHybrid",
@@ -34062,28 +34060,26 @@
     "url": "https://www.infineon.com/careers/job/563808971276394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role, which does not meet our engineering/technical position requirement.",
+    "reason": "The job is for a non-technical HR trainee role, not an engineering/technical position.",
     "id": "3f0fd84b",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Learning Developer Trainee (f/m/div)Porto (Maia) (Portugal)HRC1670127HybridHybrid",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Porto (Maia), Portugal",
     "url": "https://www.infineon.com/careers/job/563808971155628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Digital Learning Developer) which does not match our focus on engineering/technical positions in the semiconductor/VLSI/EDA industry.",
+    "reason": "The job posting does not match Vineeth's background and experience in semiconductor, VLSI, EDA domains. It is for a Digital Learning Developer Trainee role at Infineon Technologies.",
     "id": "88d93c5b",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Quantum Device Engineer",
@@ -34092,13 +34088,12 @@
     "url": "https://in.linkedin.com/jobs/view/quantum-device-engineer-at-scouto-ai-4429654034",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is not in semiconductor/VLSI/EDA domain but rather focuses on quantum device fabrication and characterization for AI systems.",
+    "reason": "The role is focused on device fabrication and characterization, which is not in Vineeth's power integrity/advanced packaging domain. It falls under VLSI design but does not match his expertise.",
     "id": "b59dc577",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Ecosystem Engineer",
@@ -34107,13 +34102,12 @@
     "url": "https://careers.arm.com/job/cambridge/technical-ecosystem-engineer/33099/96158948400",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering partnership position, not directly related to VLSI/EDA or power integrity.",
+    "reason": "The role is primarily software engineering focused on ecosystem partner collaborations, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "c2e0f3e5",
     "source": "arm_careers",
     "posted_date": "2026-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ausbildung zum Mechatroniker \u2013 2026 (w/m/d)",
@@ -34122,13 +34116,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16972&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an apprenticeship program, which does not fit the technical engineering role criteria.",
+    "reason": "This is an apprenticeship program for mechatronics training, not a technical engineering role.",
     "id": "240d9674",
     "source": "tsmc_careers",
     "posted_date": "2025-08-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -34137,13 +34130,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAusbildung-zum-Mechatroniker-2026-w-m-d%2F16972",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mechatronics trainee, which does not match the semiconductor/VLSI/EDA technical roles we are looking for.",
+    "reason": "The job is for a mechanical engineering trainee position, which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
     "id": "249274c9",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Specialty Engineer (Specialty)",
@@ -34152,13 +34144,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19035&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a senior technical role requiring 10+ years of experience with device simulation and process integration for specialty technology at TSMC, which does not fit the target job criteria.",
+    "reason": "The role is focused on process integration, device development and characterization, which does not directly match Vineeth's areas of expertise in Power Integrity, Advanced Packaging and EDA methodology.",
     "id": "2d37621b",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -34167,13 +34158,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Specialty-Engineer-Specialty%2F19035",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is incomplete and could not be accessed for further evaluation.",
+    "reason": "The job is not clearly in one of the defined technical domains, and there is no location specified.",
     "id": "b6656c13",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer, TPU",
