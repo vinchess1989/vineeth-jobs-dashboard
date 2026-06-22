@@ -5948,13 +5948,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42021273",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a technical role for Memory Design Group at Micron, which does not match our focus on semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily verification focused, which is outside Vineeth's domain.",
     "id": "d9ba533f",
     "source": "micron_careers",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "micron.com/careers/benefits",
@@ -5963,13 +5962,12 @@
     "url": "https://www.micron.com/careers/benefits",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided text appears to be an overview of benefits and compensation offered by Micron, rather than a job posting.",
+    "reason": "The posting is for compensation and benefits info, not a technical engineering role.",
     "id": "8bd86d85",
     "source": "micron_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OCT PCVD Mfg. Alignment (MA) Sr Engineer/Principal EngineerSingapore, SingaporePosted 8 days ago",
@@ -5977,14 +5975,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41899330",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches the target domain of Advanced Packaging and work location in Singapore.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with semiconductor experience, but unclear on specific technical focus.",
     "id": "2f10a8a9",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_oct_pcvd_mfg__alignment__ma__s_2f10a8a9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer, Memory CAD, GuadalajaraTlaquepaque, Jalisco, MexicoPosted 2 months ago",
@@ -5992,14 +5989,13 @@
     "location": "Guadalajara, Jalisco, Mexico",
     "url": "https://micron.eightfold.ai/careers/job/38974363",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role at a semiconductor company with CAD experience, but based in Mexico which is not a high priority location.",
+    "matches_requirements": "no",
+    "reason": "The role is more focused on CAD engineering for memory design than on Power Integrity, Advanced Packaging or EDA tools - a mismatch for Vineeth's background.",
     "id": "0906bffd",
     "source": "micron_careers",
     "posted_date": "2023-05-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR ENGINEER, FE GLOBAL MANUFACTURING ENGINEERINGSingapore, SingaporePosted 3 months ago",
@@ -6008,13 +6004,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40964827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical manufacturing engineering role, which does not match our focus on semiconductor/VLSI/EDA technical positions.",
+    "reason": "The role is primarily manufacturing engineering, not semiconductor VLSI/EDA related.",
     "id": "6207871b",
     "source": "micron_careers",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer",
@@ -6023,13 +6018,12 @@
     "url": "https://careers.arm.com/job/bengaluru/principal-engineer/33099/95385119712",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Meets domain & technical area requirements for Principal Engineer role with 15+ years experience in multimedia IP design and leadership.",
+    "reason": "Matches technical domain of Power Integrity, with strong VLSI background and 15+ years experience.",
     "id": "f401ddd1",
     "source": "arm_careers",
     "posted_date": "2026-05-21",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/arm_principal_engineer_f401ddd1.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/arm_principal_engineer_f401ddd1.txt"
   },
   {
     "title": "Senior Engineer",
@@ -6038,13 +6032,12 @@
     "url": "https://careers.arm.com/job/bengaluru/senior-engineer/33099/94953542800",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Engineer role with 5+ years Cadence APD & Allegro experience, aligns well with target domain of CAD/Methodology.",
+    "reason": "Matches technical domain of Power Integrity and leadership role, suitable for candidate's background",
     "id": "7f7acac0",
     "source": "arm_careers",
     "posted_date": "2026-05-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_senior_engineer_7f7acac0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_senior_engineer_7f7acac0.txt"
   },
   {
     "title": "Distinguished Engineer",
@@ -6053,13 +6046,12 @@
     "url": "https://careers.arm.com/job/cambridge/distinguished-engineer/33099/94519190352",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Distinguished Engineer position which does not fit our technical domain focus on Semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "94b59161",
     "source": "arm_careers",
     "posted_date": "2026-04-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Demo Content Engineer",
@@ -6068,13 +6060,12 @@
     "url": "https://careers.arm.com/job/taipei/demo-content-engineer/33099/93708551248",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Demo Content Engineer position at Arm, which does not align with our semiconductor/VLSI/EDA engineering focus.",
+    "reason": "The role is primarily software development (game engines, game systems) which is outside Vineeth's domain of power integrity, packaging and EDA.",
     "id": "13aae62a",
     "source": "arm_careers",
     "posted_date": "2026-04-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Software Engineer",
@@ -6083,13 +6074,12 @@
     "url": "https://careers.arm.com/job/bengaluru/staff-software-engineer/33099/90747571072",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job post does not provide a clear match to the specified requirements such as company details, location, and specific technical roles.",
+    "reason": "The role is a software engineering position focused on low-level development, test and debug of various platforms and features. This does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis or CAD Methodology.",
     "id": "b4f9b1db",
     "source": "arm_careers",
     "posted_date": "2026-01-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Verification Engineer",
