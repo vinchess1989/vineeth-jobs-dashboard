@@ -45875,14 +45875,13 @@
     "location": "Pessac, Nouvelle-Aquitaine, France",
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-d%E2%80%99int%C3%A9grit%C3%A9-des-signaux-f-h-aai-at-serma-ing%C3%A9nierie-4403754111",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on signal integrity simulations and optimization, which is outside Vineeth's core domain of power integrity and advanced packaging. It does not have enough overlap with Vineeth's key skills.",
     "id": "31fe478c",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Electronic / RF Engineer",
@@ -45890,14 +45889,13 @@
     "location": "Dublin, County Dublin, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/senior-electronic-rf-engineer-at-manna-air-delivery-4428861564",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a software engineering position focused on hardware and RF design rather than semiconductor/VLSI/EDA.",
     "id": "b543ee85",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "APPLICATION ENGINEER \u2013 CADENCE MSA SIGNAL & POWER INTEGRITY",
@@ -45905,14 +45903,13 @@
     "location": "Turin, Piedmont, Italy",
     "url": "https://it.linkedin.com/jobs/view/application-engineer-%E2%80%93-cadence-msa-signal-power-integrity-at-staff-agenzia-per-il-lavoro-4430737329",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain & technical area of Power Integrity (PI) and Signal Integrity (SI), with experience in Cadence tools.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on PCB design using Cadence tools, which does not match Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "2aecd125",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/staff_agenzia_per_il_application_engineer___cadence_2aecd125.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Country Operations Manager",
@@ -45921,13 +45918,12 @@
     "url": "https://es.linkedin.com/jobs/view/country-operations-manager-at-domes-resorts-4416244168",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical country operations management role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a general hotel management position, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "7ba434a5",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "1 maand geleden",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electronic Engineer",
@@ -45936,13 +45932,12 @@
     "url": "https://lu.linkedin.com/jobs/view/electronic-engineer-at-gts-group-ltd-4414567406",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a general electronic engineer rather than semiconductor/VLSI/EDA specialist",
+    "reason": "The role is a general electronic engineer position, focusing on spacecraft payload electronics design and lab work. It does not match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN sign-off, or CAD Methodology.",
     "id": "e2e9d271",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer",
@@ -45950,14 +45945,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/senior-hardware-engineer-at-krush-labs-4416626941",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on hardware design, which is outside Vineeth's area of Power Integrity and Advanced Packaging.",
     "id": "a0089a88",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Strategy & Operations - Senior Specialist",
@@ -45965,14 +45959,13 @@
     "location": "Lisbon Metropolitan Area",
     "url": "https://pt.linkedin.com/jobs/view/strategy-operations-senior-specialist-at-mastercard-4417655995",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job role is in product management strategy for data and analytics products, which falls outside Vineeth's expertise in power integrity, advanced packaging, and EDA tools.",
     "id": "6ccb995b",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Data Analyst (4 day workweek & remote)",
@@ -45981,13 +45974,12 @@
     "url": "https://pt.linkedin.com/jobs/view/data-analyst-4-day-workweek-remote-at-bizay-4425604653",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Data Analyst role, not related to semiconductor/VLSI/EDA.",
+    "reason": "This data analyst role is focused on marketing analytics and not related to semiconductor/VLSI/EDA domains.",
     "id": "89342a62",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -45995,14 +45987,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/physical-design-engineer-at-european-tech-recruit-4422404993",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a physical design engineer role, which doesn't directly align with Vineeth's power integrity and advanced packaging expertise.",
     "id": "5625f497",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Test Engineer (f/m/d)",
@@ -46011,13 +46002,12 @@
     "url": "https://at.linkedin.com/jobs/view/staff-test-engineer-f-m-d-at-renesas-electronics-4425470302",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior position, but the candidate has only 15 years of experience which does not match the senior-level requirement.",
+    "reason": "The role is primarily software test engineering, which is outside Vineeth's domain of expertise.",
     "id": "c7b8e19c",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Implementation",
