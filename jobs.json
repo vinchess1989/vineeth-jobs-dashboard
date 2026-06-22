@@ -22510,28 +22510,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19876&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The internship is only for 10 weeks, and requires full-time on-site work in Phoenix, Arizona. This does not match the target job criteria which requires a minimum of 6 months duration and flexibility to be fully remote or have a partial WFH option.",
+    "reason": "This is an internship role, Vineeth has over 15 years of experience so it's too junior.",
     "id": "e548863a",
     "source": "tsmc_careers",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSummer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles%2F19876",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Not a technical leadership role in Vineeth's domain",
     "id": "05c65541",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "[Summer 2027] TSMC AZ Internship Opportunities - Facility Roles",
@@ -22540,28 +22538,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22504&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship position which does not match the senior leadership roles we are looking for.",
+    "reason": "This is a non-technical facility role at a semiconductor company, outside Vineeth's domain.",
     "id": "80f07d25",
     "source": "tsmc_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "LinkedIn",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSummer-2027-TSMC-AZ-Internship-Opportunities-Facility-Roles%2F22504",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
-    "id": "2f147bd0",
-    "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Technician",
@@ -22570,13 +22552,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22257&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing technician position, not a technical or engineering role.",
+    "reason": "The role is a non-technical manufacturing position focused on equipment maintenance, not an engineering/technical semiconductor/VLSI/EDA role.",
     "id": "8063c0ef",
     "source": "tsmc_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -22585,13 +22566,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEquipment-Technician%2F22257",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Equipment Technician role at TSMC, which is a non-technical position.",
+    "reason": "The job is for an Equipment Technician, which falls under maintenance and manufacturing rather than semiconductor/VLSI/EDA engineering.",
     "id": "47b9642b",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Manager, Advanced Tool & Module Development (7733)",
@@ -22600,13 +22580,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22521&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Technical Manager focusing on Advanced Tool & Module Development, which falls under CAD/Methodology. However, it specifies needing a PhD and 'pre-alpha' hardware systems experience which is not part of the job requirements we're matching against.",
+    "reason": "This role focuses on co-developing semiconductor hardware with tool suppliers, which is software development rather than Vineeth's domain of power integrity, advanced packaging, and EDA tools.",
     "id": "9388a399",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-18",
     "deadline": "2026-07-15",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -22615,13 +22594,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTechnical-Manager-Advanced-Tool-Module-Development-7733%2F22521",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Senior leadership role with 15+ years experience in Power Integrity & Advanced Packaging matches well, but Taiwan location is a bit off our ideal regions.",
+    "reason": "Matches senior leadership experience, but unclear on specific technical domain due to generic role description.",
     "id": "51b98fae",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D AI & Intelligent Tool Development Engineer, Joint Development Modules (7735)",
@@ -22629,14 +22607,13 @@
     "location": "USA-California",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22520&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an AI & Intelligent Tool Development Engineer, which does not match the semiconductor/VLSI/EDA technical domains we are targeting.",
+    "matches_requirements": "maybe",
+    "reason": "The role is technical but doesn't strongly match Vineeth's exact background, though Power Integrity and EDA experience are relevant.",
     "id": "c3378826",
     "source": "tsmc_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Simulation Technical Manager, Joint Development Modules (7734)",
@@ -22645,13 +22622,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22519&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the target domain of 'EDA Tools' with technical leadership responsibilities.",
+    "reason": "The role aligns with Vineeth's technical background, focusing on power integrity and advanced packaging in a semiconductor company.",
     "id": "3456c687",
     "source": "tsmc_careers",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/tsmc_technology__inc_r_d_simulation_technical_manag_3456c687.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_technology__inc_r_d_simulation_technical_manag_3456c687.txt"
   },
   {
     "title": "Sr. EH&S Engineer",
