@@ -56277,14 +56277,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-nsemi-design-services-india-pvt-ltd-4411053502",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "0876952e",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -56292,14 +56291,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-hcltech-4427333074",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This RTL Design Engineer role is primarily verification focused (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "354e97be",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design(Camera) - Staff Engineer",
@@ -56307,14 +56305,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-camera-staff-engineer-at-qualcomm-4424216285",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (ASIC Design Engineer) - this is outside Vineeth's domain.",
     "id": "a5c5b87f",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -56323,13 +56320,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-hcltech-4424881956",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Design Engineer position at a services company (HCLTech), which does not match our focus on technical roles at semiconductor/VLSI/EDA companies.",
+    "reason": "This role is focused on RTL design for ASICs/SoCs which is a verification domain, while Vineeth has experience in Power Integrity and Packaging.",
     "id": "c9d21eba",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -56338,13 +56334,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-hcltech-4397560277",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Design Engineer position, which falls under VLSI/SoC design domain but does not match the key domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology and EDA Tools specified in the job search requirements.",
+    "reason": "The role is primarily focused on RTL design, verification and uses simulation tools like ModelSim, Cadence Incisive, Synopsys VCS which are outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "d12791da",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IP RTL Design Engineer",
@@ -56353,13 +56348,12 @@
     "url": "https://in.linkedin.com/jobs/view/ip-rtl-design-engineer-at-intel-4418824983",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an RTL design role focused on protocol bridges and IP components, which does not directly match the required Power Integrity (PI) / Advanced Packaging technical areas.",
+    "reason": "This role is primarily RTL design for protocol bridges, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "c0cb5d95",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -56368,13 +56362,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-larsen-toubro-4420904294",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Design Engineer role is for a Larsen & Toubro, which is an Indian conglomerate with divisions in manufacturing, engineering, construction, technology, and more. The job requirements are unrelated to semiconductor/VLSI/EDA, focusing on transmission line tower design, foundations, and civil/structural quantities.",
+    "reason": "The role is for a Design Engineer, which is not within Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "faf891a8",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer",
@@ -56383,13 +56376,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-rtl-design-engineer-at-l-t-technology-services-4033286729",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires less than 6 years of experience while target is looking for candidates with 10-15+ years in the field.",
+    "reason": "This role is focused on RTL design rather than Power Integrity, which is Vineeth's specialty.",
     "id": "a273e351",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2023-04-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CPU RTL Design - Sr Eng/Lead/Staff/Sr Staff",
@@ -56398,13 +56390,12 @@
     "url": "https://in.linkedin.com/jobs/view/cpu-rtl-design-sr-eng-lead-staff-sr-staff-at-qualcomm-4416584063",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the target domain of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus.",
+    "reason": "Matches Vineeth's background in Power Integrity (PI) and experience level, with a suitable role at Qualcomm.",
     "id": "06aed374",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_cpu_rtl_design___sr_eng_lead_s_06aed374.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/qualcomm_cpu_rtl_design___sr_eng_lead_s_06aed374.txt"
   },
   {
     "title": "CPU RTL Design Engineer - Staff / Sr Staff",
@@ -56412,14 +56403,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cpu-rtl-design-engineer-staff-sr-staff-at-qualcomm-4416181341",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior VLSI/SoC design with 6+ years experience, located in India",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "bf1c3fbc",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "2023-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_cpu_rtl_design_engineer___staf_bf1c3fbc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Telecom Design Engineer",
