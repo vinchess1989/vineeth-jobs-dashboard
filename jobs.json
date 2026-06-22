@@ -50734,13 +50734,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-soc-engineer-at-bylabs-4426236259",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The AI SOC Engineer role focuses on leveraging AI to automate security operations and detection rule generation, which does not fully match the key requirements in Domain & Technical Area for Power Integrity (PI), Advanced Packaging, CAD/Methodology, or Physical Design. Additionally, while it includes some VLSI/EDA tool familiarity (e.g., SIEM platforms), it does not emphasize direct experience with semiconductor/VLSI/EDA workflows.",
+    "reason": "The role is primarily software development (AI/ML-based alert triage, alert automation pipelines) and falls outside Vineeth's domain of Power Integrity and Packaging.",
     "id": "1e98c747",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Administrator (Global Support)",
@@ -50749,13 +50748,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-administrator-global-support-at-payrange-4387898850",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical IT Administrator role at a fintech company, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "This is a non-technical IT Administrator role at PayRange, which focuses on mobile payment solutions. It does not involve semiconductor, VLSI, EDA, CAD or hardware engineering.",
     "id": "44e27e8e",
     "source": "linkedin_ww_soc_design_p2",
     "posted_date": "2023-05-03",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Information Security Engineer, Senior",
@@ -50764,13 +50762,12 @@
     "url": "https://www.linkedin.com/jobs/view/information-security-engineer-senior-at-toyota-north-america-4422039793",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an IT security position, not a semiconductor/VLSI/EDA engineering job.",
+    "reason": "The role is focused on general cyber security engineering tasks rather than semiconductor-specific VLSI/EDA tasks. Vineeth's background is in power integrity, advanced packaging and SoC PDN sign-off.",
     "id": "bd73e5e3",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2023-06-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -50779,13 +50776,12 @@
     "url": "https://www.linkedin.com/jobs/view/security-engineer-at-air-apps-4407866357",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position, which does not fit our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily software development (application/backend/embedded software) and does not fit Vineeth's domain of expertise in VLSI/semiconductor/EDA.",
     "id": "8b119802",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Cybersecurity Program Manager",
@@ -50794,13 +50790,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-cybersecurity-program-manager-at-protingent-4429613100",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical cybersecurity program management role at a staffing agency, which does not match our semiconductor/VLSI/EDA technical position focus.",
+    "reason": "The role is non-technical (cybersecurity program management) and does not match Vineeth's domain of semiconductor/VLSI/EDA technical roles.",
     "id": "3bfe5a7e",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2026-06-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT & Cyber Security Consultant",
@@ -50809,13 +50804,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-cyber-security-consultant-at-ontrac-4428515127",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an IT & Cyber Security Consultant position at a logistics company, which does not match the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The role is primarily focused on IT and Cyber Security, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "465bec42",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2026-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Information Security Engineer - AI First",
@@ -50824,13 +50818,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-information-security-engineer-ai-first-at-rithum-4431321186",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI-first Information Security Engineer, which does not fit the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is primarily focused on AI-powered security engineering and tooling, which is a significant departure from Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "ce4ff7b7",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cloud Security Engineer",
@@ -50839,13 +50832,12 @@
     "url": "https://www.linkedin.com/jobs/view/cloud-security-engineer-at-proven-recruiting-4417321124",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cloud Security Engineer role, which does not match the semiconductor/VLSI/EDA domain technical focus required.",
+    "reason": "The role is primarily focused on security operations and tooling, not semiconductor, VLSI, EDA or power integrity.",
     "id": "fef84fee",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2023-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Drone Engineer - Intern",
@@ -50854,13 +50846,12 @@
     "url": "https://www.linkedin.com/jobs/view/drone-engineer-intern-at-xiotz-private-limited-4330243398",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an internship at a cybersecurity startup, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development focused on drone systems, outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "e1eb93d1",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Consultant",
@@ -50868,14 +50859,13 @@
     "location": "Portland, ME",
     "url": "https://www.linkedin.com/jobs/view/it-consultant-at-forerunner-4427694480",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role combines IT operations, security, customer enablement and AI tool use which matches some key domains. However it is a consultative contractor role rather than an engineering/technical one.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on IT operations, automation, and compliance, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "ed39be88",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information Security Officer ( CISO )",
