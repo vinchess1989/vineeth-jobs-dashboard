@@ -15720,13 +15720,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-product-engineer-at-maxlinear-4411008321",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Irvine, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia.",
+    "reason": "The role is primarily focused on SOC product engineering rather than Power Integrity, Packaging, or EDA tools.",
     "id": "77bbf287",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-04-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Methodology Engineer",
@@ -15735,13 +15734,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-methodology-engineer-at-intel-4427175797",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, which does not match our requirement for visa sponsorship.",
+    "reason": "The role is focused on methodology and flow development which does not align with Vineeth's key strengths in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
     "id": "d9657d25",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VLSI Sales Head",
@@ -15750,13 +15748,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-sales-head-at-tata-consultancy-services-4429019029",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This VLSI Sales Head role is for IT Services and does not match our technical domain requirements in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily sales focused, which is outside Vineeth's technical domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "bb735efa",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -15765,13 +15762,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4429095998",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level mechanical engineering role, not a match for our semiconductor/VLSI/EDA domain expertise focus.",
+    "reason": "This is a software development role focused on full-stack systems, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "594c03d9",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer \u2013 Value Engineering",
@@ -15780,13 +15776,12 @@
     "url": "https://www.glassdoor.com/job-listing/electrical-engineer-value-engineering-applied-materials-JV_IC1154574_KO0,37_KE38,55.htm?jl=1010168226941",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company.",
+    "reason": "The role is a software engineering position focused on value engineering, which does not match Vineeth's expertise in Power Integrity, Advanced Packaging, EDA tools or SoC design.",
     "id": "b2cd4b95",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "electrical engineer jobs in Gloucester, MA",
@@ -15795,43 +15790,40 @@
     "url": "https://www.glassdoor.com/Job/gloucester-electrical-engineer-jobs-SRCH_IL.0,10_IC1154574_KO11,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electrical Engineer role, not a VLSI/EDA/semiconductor related role.",
+    "reason": "Job requires electrical engineering, but Vineeth's background is in power integrity and advanced packaging.",
     "id": "971a9b57",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Gloucester, MA jobs",
-    "company": "Extract from page",
+    "company": "Glassdoor",
     "location": "Gloucester, MA, USA",
     "url": "https://www.glassdoor.com/Job/gloucester-jobs-SRCH_IL.0,10_IC1154574.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search is for all jobs in Gloucester, MA, and does not specify semiconductor/VLSI/EDA roles. The location is also in the US which usually requires explicit mention of visa sponsorship or relocation eligibility.",
+    "reason": "The job listing is for a Glassdoor support-related position, not a technical role at a semiconductor company.",
     "id": "c2deb832",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Applied Materials jobs in Gloucester, MA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Applied Materials",
+    "location": "Gloucester, MA, USA",
     "url": "https://www.glassdoor.com/Job/gloucester-applied-materials-jobs-SRCH_IL.0,10_IC1154574_KO11,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided is for a Glassdoor search results page, not a specific job listing. It does not contain enough information about a single job to evaluate against the given criteria.",
+    "reason": "The role is for a non-technical HR position, not engineering or technical.",
     "id": "d8b0cf1b",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Product Support (GPS) Engineer II (E2)",
@@ -15840,13 +15832,12 @@
     "url": "https://www.glassdoor.com/job-listing/global-product-support-gps-engineer-ii-e2-applied-materials-JV_IC1151603_KO0,41_KE42,59.htm?jl=1010157094177",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role as Global Product Support Engineer, which does not directly match the technical domains specified in the requirements.",
+    "reason": "The role is primarily software development focused (Python, Perl) and does not fit Vineeth's domain of Power Integrity, Advanced Packaging and EDA tools.",
     "id": "0c09927f",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-10-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "product support jobs in Hillsboro, OR",
@@ -15855,13 +15846,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-product-support-jobs-SRCH_IL.0,9_IC1151603_KO10,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in product support, which does not match the technical requirements of the job search criteria.",
+    "reason": "The job is for a non-technical role supporting products, which does not match Vineeth's technical background in Power Integrity and VLSI.",
     "id": "48c433de",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applied Materials jobs in Hillsboro, OR",
