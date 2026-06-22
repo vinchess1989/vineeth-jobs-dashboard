@@ -54486,13 +54486,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cad-engineer-at-go-fix-mechanical-drainage-services-4409195057",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical CAD Engineer, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a CAD Engineer in mechanical, electrical, and building services, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "8a529d17",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-05-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -54501,13 +54500,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-severn-trent-4415505034",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a water utility company, which does not match our focus on semiconductor/VLSI/EDA roles.",
+    "reason": "This role is for a wastewater infrastructure design engineer, which is outside Vineeth's semiconductor/EDA/VLSI domain.",
     "id": "07900e00",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship \u2013 FPGA Hardware Design Engineer",
@@ -54516,13 +54514,12 @@
     "url": "https://uk.linkedin.com/jobs/view/internship-%E2%80%93-fpga-hardware-design-engineer-at-targetjobs-uk-4384216155",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The internship position does not meet the specified years of experience and leadership roles.",
+    "reason": "The internship role is outside Vineeth's domain of 15+ years experience",
     "id": "ea7bb8fe",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Development Engineer",
@@ -54531,13 +54528,12 @@
     "url": "https://uk.linkedin.com/jobs/view/test-development-engineer-at-evera-recruitment-4429511950",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a battery module mechanical development engineer, which does not fit the semiconductor/VLSI/EDA technical areas of interest.",
+    "reason": "The role is a mechanical engineer focused on battery module development and assembly, which is not related to semiconductor/EDA/VLSI.",
     "id": "ba791167",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -54545,14 +54541,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-design-engineer-at-edison-smart%C2%AE-4425482775",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Digital Design Engineer role with strong background in FPGA or ASIC Design, Verilog/VHDL and testbench development. Based in UK.",
+    "matches_requirements": "yes",
+    "reason": "Senior Digital Design Engineer role with FPGA/ASIC experience matches Vineeth's key skills and domain in VLSI/EDA.",
     "id": "dc028812",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/edison_smart__senior_digital_design_engineer_dc028812.txt"
   },
   {
     "title": "Experienced AMS Digital Design Engineer",
@@ -54560,14 +54555,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/experienced-ams-digital-design-engineer-at-apple-4424546820",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The domain is related to digital design engineering, which does not match the Power Integrity/Advanced Packaging/CAD domains of interest.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves AMS digital design, which partially matches Vineeth's background in Power Integrity and SoC PDN sign-off. The location is a match.",
     "id": "cdd1341f",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Chassis Design Engineer",
@@ -54576,13 +54570,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-chassis-design-engineer-at-drvn-automotive-group-4429527044",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Chassis Design Engineer at an automotive company, which does not match our focus on semiconductor/VLSI/EDA roles.",
+    "reason": "The role is a chassis design engineer position focusing on automotive vehicle development, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
     "id": "4da9b1fb",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Physical Design Engineer",
@@ -54590,14 +54583,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-physical-design-engineer-at-apple-4414162500",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years of experience, Senior Leadership role with background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily GPU Top Level Physical Design Engineer, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging. It would require more experience with GPU-specific design challenges.",
     "id": "d59a6bb2",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-03-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_gpu_physical_design_engineer_d59a6bb2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Design Engineer",
@@ -54606,13 +54598,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-design-engineer-at-aion-silicon-4379198359",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior leadership role in semiconductor domain, matches key skills and experience requirements.",
+    "reason": "Principal Design Engineer role with 10+ years experience matches leadership and domain criteria.",
     "id": "fbd31c13",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-05-03",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/aion_silicon_principal_design_engineer_fbd31c13.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/aion_silicon_principal_design_engineer_fbd31c13.txt"
   },
   {
     "title": "Senior Design Engineer (B071239)",
@@ -54621,13 +54612,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-b071239-at-referment-4431156878",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a structural engineering role, not semiconductor/VLSI/EDA.",
+    "reason": "This is a construction/engineering design role focused on temporary works, not semiconductor/VLSI/EDA.",
     "id": "3311828a",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
