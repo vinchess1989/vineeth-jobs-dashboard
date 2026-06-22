@@ -47835,14 +47835,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430126160",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "maybe",
+    "reason": "The role strongly matches the Advanced Packaging sub-domain, but is missing specific mention of Power Integrity and PI/SI sign-off. This could still be a good fit based on leadership title.",
     "id": "50119e7d",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Senior Engineer",
@@ -47850,14 +47849,13 @@
     "location": "Bucharest, Bucharest, Romania",
     "url": "https://ro.linkedin.com/jobs/view/advanced-packaging-senior-engineer-at-marvell-technology-4411552194",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for Advanced Packaging Senior Engineer with a focus on package design and technology, not Power Integrity / CAD / EDA which are Vineeth's areas of expertise.",
     "id": "567763ac",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-14",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "3D Chiplet Expert",
@@ -47866,13 +47864,12 @@
     "url": "https://be.linkedin.com/jobs/view/3d-chiplet-expert-at-verticalcompute-4408816144",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches target domain of Advanced Packaging/Thermal and requires 5-10 years experience in 2.5D/3D integration.",
+    "reason": "This senior role is a technical leadership position in advanced packaging and integration, which closely matches Vineeth's background in power integrity and semiconductor design.",
     "id": "94f8334a",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/verticalcompute_3d_chiplet_expert_94f8334a.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/verticalcompute_3d_chiplet_expert_94f8334a.txt"
   },
   {
     "title": "Advanced 3D Packaging \u2013 Platform Integration Lead",
@@ -47880,14 +47877,13 @@
     "location": "Saint-Just-Malmont, Auvergne-Rh\u00f4ne-Alpes, France",
     "url": "https://fr.linkedin.com/jobs/view/advanced-3d-packaging-%E2%80%93-platform-integration-lead-at-imec-in-vlaanderen-4427306280",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role involves advanced packaging technology development which is a direct match to Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "f411e048",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/imec_in_vlaanderen_advanced_3d_packaging___platfo_f411e048.txt"
   },
   {
     "title": "Senior Team Leader Packaging - Fibre and Flexibles",
@@ -47896,13 +47892,12 @@
     "url": "https://nl.linkedin.com/jobs/view/senior-team-leader-packaging-fibre-and-flexibles-at-danone-4420414200",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a team leadership position for food packaging at Danone, which is unrelated to semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is focused on food packaging and doesn't match Vineeth's semiconductor/EDA background.",
     "id": "dc6dc76a",
     "source": "linkedin_eu_advanced_packaging_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "2026-06-25",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Packaging Expert",
@@ -47911,13 +47906,12 @@
     "url": "https://nl.linkedin.com/jobs/view/technical-packaging-expert-at-kraft-heinz-4425839951",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a Technical Packaging Expert at Kraft Heinz, which is a food company and not related to semiconductor/VLSI/EDA.",
+    "reason": "The role involves leading packaging technology, scouting new materials and translating consumer needs into technical concepts. This is a business-focused technical leadership position. It does NOT fit Vineeth's background in power integrity, advanced packaging, EDA tools or VLSI/SoC design.",
     "id": "f099adea",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "2023-05-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "D2P Project & Team Lead",
@@ -47926,13 +47920,12 @@
     "url": "https://nl.linkedin.com/jobs/view/d2p-project-team-lead-at-jde-peet-s-4428471883",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a marketing role with no technical requirements, so it does not match the semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is for a Design-to-Print Project & Team Lead at a food/beverage company, not semiconductor/VLSI/EDA.",
     "id": "9db6cc50",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Lead, Nordic Healthcare",
@@ -47941,13 +47934,12 @@
     "url": "https://se.linkedin.com/jobs/view/design-lead-nordic-healthcare-at-karo-healthcare-4423130580",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a marketing position, not an engineering/technical one.",
+    "reason": "The role is marketing focused, not technical VLSI/EDA design",
     "id": "0282e41e",
     "source": "linkedin_eu_advanced_packaging_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -47956,13 +47948,12 @@
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430127152",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with VLSI/EDA expertise, specifically focusing on advanced packaging and power delivery.",
+    "reason": "The role requires expertise in advanced packaging technologies, power delivery design and analysis which matches Vineeth's background.",
     "id": "adcc7e74",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_adcc7e74.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_adcc7e74.txt"
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -47971,13 +47962,12 @@
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430125171",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior-level role with 15 years experience matches, and location is within EU which is a high-priority region.",
+    "reason": "This senior role matches Vineeth's experience level in advanced packaging and power integrity for AI chip design at a European semiconductor startup.",
     "id": "1eee47b0",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_1eee47b0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_1eee47b0.txt"
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
