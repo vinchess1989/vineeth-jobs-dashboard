@@ -1085,13 +1085,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=7fc0c7de3b2d7d13",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the required domains of Power Integrity, Advanced Packaging, or CAD/Methodology. It is for a Systems Engineer role focusing on FPDLink technology.",
+    "reason": "The role is a mix of design and verification, primarily focusing on verification tasks like UVM, which falls outside Vineeth's domain.",
     "id": "9608a7cf",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Systems Engineer | FPDLink salaries in Santa Clara, CA",
@@ -1100,13 +1099,12 @@
     "url": "https://www.indeed.com/career/system-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=7fc0c7de3b2d7d13&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description is for salary information and does not contain a valid job posting with company, location, deadline, or role details.",
+    "reason": "The job is for a non-technical Systems Engineer role, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "90b6f652",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Design Engineer - Sensing (PS)",
@@ -1115,28 +1113,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=6cb244bea67c5c76",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Analog IC Design Engineer position does not match the key domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership that we are specifically targeting. It falls in a different technical domain.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "bd40b36c",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Design Engineer - Sensing (PS) salaries in Dallas, TX",
-    "company": "Extract from page",
+    "company": "N/A (extract from page)",
     "location": "Dallas, TX, USA",
     "url": "https://www.indeed.com/career/design-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=6cb244bea67c5c76&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Engineer, which does not match the VLSI/EDA roles in our target domains.",
+    "reason": "The role is primarily focused on analog IC design for sensing applications, which does not directly match Vineeth's areas of expertise in power integrity, advanced packaging, and CAD methodology.",
     "id": "77bc4076",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. ASIC Design Engineer, Cloud-Scale Machine Learning Acceleration team - Annapurna Labs",
@@ -1145,13 +1141,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=b40fb9f6eba38520",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an SDE position, which does not match our VLSI/EDA focus.",
+    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
     "id": "1cdde63d",
     "source": "indeed_vlsi_india",
     "posted_date": "2026-06-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT Design Engineer I, AWS Machine Learning Acceleration",
@@ -1160,13 +1155,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=35b3278e304d560f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This hardware engineering role at Amazon's Annapurna Labs subsidiary is focused on cloud acceleration hardware, not the VLSI/EDA semiconductor roles we're matching for.",
+    "reason": "This DFT Design Engineer role is primarily focused on verification and testing, which falls outside Vineeth's domain of power integrity, packaging, and methodology expertise.",
     "id": "88ace9d2",
     "source": "indeed_vlsi_india",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT Design Engineer I, AWS Machine Learning Acceleration salaries in Austin, TX",
@@ -1175,28 +1169,12 @@
     "url": "https://www.indeed.com/career/machine-learning-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=35b3278e304d560f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Machine Learning Engineer, not related to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily focused on software development and machine learning, which are outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "d4d1a9e5",
     "source": "indeed_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Sr. ASIC Design Engineer, Cloud-Scale Machine Learning Acceleration team",
-    "company": "Google",
-    "location": "Mountain View, CA, USA",
-    "url": "https://www.indeed.com/rc/clk?jk=0201d9e18e6e3e86",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires a Master's degree, which exceeds the candidate's experience level.",
-    "id": "357e94bd",
-    "source": "indeed_vlsi_india",
-    "posted_date": "2023-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. ASIC Design Engineer, Cloud-Scale Machine Learning Acceleration team salaries in Austin, TX",
@@ -1205,13 +1183,12 @@
     "url": "https://www.indeed.com/career/senior-design-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=0201d9e18e6e3e86&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for salary data research and does not list an actual job opening with a company, making it ineligible based on the criteria.",
+    "reason": "The role is primarily software development (Machine Learning Accelerator), which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA.",
     "id": "99a68f4b",
     "source": "indeed_vlsi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "HPC-EDA Technical GTM Specialist, WWSO HPC Team",
@@ -1220,13 +1197,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=b1e5a9201bcf04e6",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a security clearance that restricts to US citizens only, which is outside our criteria.",
+    "reason": "The role is primarily focused on business development, marketing, and technical sales which are outside Vineeth's domain of technical leadership in Power Integrity, Packaging, and CAD Methodology.",
     "id": "d2f3a5d0",
     "source": "indeed_vlsi_india",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HPC-EDA Technical GTM Specialist, WWSO HPC Team salaries in Boston, MA",
@@ -1235,28 +1211,26 @@
     "url": "https://www.indeed.com/career/technical-specialist/salaries/Boston--MA?campaignid=serp-more&fromjk=b1e5a9201bcf04e6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary search result page, not an actual job posting. It lists various job openings but does not have a detailed description matching the requirements.",
+    "reason": "This is a technical specialist role focused on HPC and cloud computing, not semiconductor VLSI EDA. It also does not match Vineeth's specific power integrity and packaging background.",
     "id": "cdc5007b",
     "source": "indeed_vlsi_india",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SRAM Compiler Engineer, AI Hardware",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A (Extracted from page)",
+    "location": "N/A (Extracted from page)",
     "url": "https://www.indeed.com/rc/clk?jk=78519268fa1671ca",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "The role is primarily focused on SRAM compiler development for AI hardware, which does not match Vineeth's areas of expertise in Power Integrity, Advanced Packaging, and EDA CAD methodology.",
     "id": "cf962034",
     "source": "indeed_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SRAM Compiler Engineer, AI Hardware salaries in Palo Alto, CA",
@@ -1265,13 +1239,12 @@
     "url": "https://www.indeed.com/career/hardware-engineer/salaries/94304--CA?campaignid=serp-more&fromjk=78519268fa1671ca&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a hardware-focused role with no clear connection to semiconductor/VLSI/EDA work described in the original job search requirements.",
+    "reason": "The role is for a software engineer position at Tesla, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "f18ebd55",
     "source": "indeed_vlsi_india",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff EM & IR Engineer, Power Integrity, AI Hardware",
@@ -1280,13 +1253,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=48e1f46f019760ab",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a Ph.D. in Electrical Engineering, which is beyond the candidate's experience level.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "baa44c74",
     "source": "indeed_vlsi_india",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff EM & IR Engineer, Power Integrity, AI Hardware salaries in Palo Alto, CA",
@@ -1295,13 +1267,12 @@
     "url": "https://www.indeed.com/career/hardware-architect/salaries/94304--CA?campaignid=serp-more&fromjk=48e1f46f019760ab&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Hardware Engineer role, not a VLSI/EDA-specific position.",
+    "reason": "The role is primarily software development (embedded software engineer) which is outside Vineeth's domain.",
     "id": "62f9cdb4",
     "source": "indeed_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Verification Engineer, AI Hardware",
