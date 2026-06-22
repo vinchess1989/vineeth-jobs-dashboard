@@ -49641,14 +49641,13 @@
     "location": "Bhubaneshwar, Odisha, India",
     "url": "https://in.linkedin.com/jobs/view/invitation-for-application-to-the-post-of-goalkeeper-coach-for-fifa-tid-aiff-academy-at-all-india-football-federation-4303972860",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for a football (soccer) goalkeeper coach, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "0bcf1a17",
     "source": "linkedin_india_physical_design_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Analog Circuit Design",
@@ -49657,13 +49656,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-analog-circuit-design-at-renesas-electronics-4358128046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Engineer, Analog Circuit Design position at Renesas Electronics in Bengaluru, India. It does not match the technical domains required for Power Integrity (PI), Advanced Packaging/Thermal, or CAD/Methodology in VLSI/EDA.",
+    "reason": "This role is focused on analog circuit design, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "98095591",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49671,14 +49669,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-ibm-4426350167",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is for a Hardware Developer generalist, which does not match Vineeth's Power Integrity, Advanced Packaging, and EDA expertise.",
     "id": "be3d649a",
     "source": "linkedin_india_physical_design_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -49686,14 +49683,13 @@
     "location": "Pune Division, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-nxp-semiconductors-4426751285",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is more focused on physical design rather than power integrity and advanced packaging, which are key areas for Vineeth.",
     "id": "7308d88a",
     "source": "linkedin_india_physical_design_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-23",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -49702,13 +49698,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418838612",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not directly match the Power Integrity, Advanced Packaging, SoC PDN sign-off areas that Vineeth Prathapachandra Kaimal's background and key skills are in. This job is for Analog Circuit Design at Intel in Bangalore.",
+    "reason": "This analog circuit design role is focused on IO interface PHYs and high-speed memory circuits, which is outside Vineeth's power integrity/advanced packaging domain.",
     "id": "27e09569",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Analog Circuit Design",
@@ -49717,13 +49712,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-analog-circuit-design-at-renesas-electronics-4358147299",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Analog Circuit Design Engineer role, which does not match the required technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, CAD Methodology, Physical Design or EDA Tools/VLSI/SoC Design.",
+    "reason": "The role is primarily analog circuit design for power delivery applications, which is outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "e7f67222",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer/Lead",
@@ -49732,13 +49726,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-lead-at-soctronics-4138572057",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches technical domain of Physical Design with experience required.",
+    "reason": "The role requires expertise in physical design, including block level P&R, and is located in Hyderabad which matches Vineeth's background and preferred location.",
     "id": "5956bfee",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-04-01",
     "deadline": "N/A",
-    "description_file": "job_descriptions/soctronics_physical_design_engineer_lead_5956bfee.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/soctronics_physical_design_engineer_lead_5956bfee.txt"
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -49746,14 +49739,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418837626",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with VLSI/EDA and semiconductor experience requirements, being a Senior Leadership position in Analog Circuit Design at Intel.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog circuit design for high-speed IO, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging. It doesn't match his key skills in ANSYS RedHawk, PI CAD Methodology.",
     "id": "efc86e4f",
     "source": "linkedin_india_physical_design_p3",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_analog_circuit_design_engineer_efc86e4f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49761,14 +49753,13 @@
     "location": "Catania, Sicily, Italy",
     "url": "https://it.linkedin.com/jobs/view/physical-design-engineer-at-renesas-electronics-4429533939",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on analog chip digital implementation, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "f194ed34",
     "source": "linkedin_eu_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49776,14 +49767,13 @@
     "location": "On, Walloon Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/physical-design-engineer-at-hrp-global-technologies-4412713373",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches background in Physical Design, with experience in CAD tools and specific domains like Synopsys ICC, FC, Cadence Tempus, Innovus & Encounter.",
+    "matches_requirements": "no",
+    "reason": "The role is a match for the required technical skills but does not involve Vineeth's areas of expertise in Power Integrity, Advanced Packaging, or CAD Methodology.",
     "id": "dc349d65",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/hrp_global_technolog_physical_design_engineer_dc349d65.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Engineer (f/m/d)",
