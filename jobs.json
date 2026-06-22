@@ -17400,13 +17400,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-spectra-defense-technologies-4429325293",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level FPGA Developer position which does not match the senior leadership and technical expertise required in the target domains of Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "This FPGA Engineer role is outside Vineeth's domain of expertise, which includes Power Integrity, Advanced Packaging, SoC PDN sign-off, CAD Methodology and EDA tools, but not hardware design with VHDL/Verilog for Xilinx FPGAs.",
     "id": "d5790271",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI / ML Application Engineer (IMC)",
@@ -17415,13 +17414,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4270&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on AI/ML application development for manufacturing, which does not directly match the semiconductor/VLSI/EDA domains.",
+    "reason": "The job is AI/ML focused, which is a mismatch for Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "c130c79e",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -17429,14 +17427,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-ML-Application-Engineer-IMC%2F4270",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires a security clearance that restricts to US citizens only, which violates our hard rejection criteria.",
+    "matches_requirements": "maybe",
+    "reason": "The role is close to Vineeth's expertise in Power Integrity and CAD/Methodology, with a strong overlap in skills. However, it doesn't specifically mention Power Integrity or EDA tools as the key focus.",
     "id": "86b11793",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intelligent Manufacturing Engineer (Tainan)",
@@ -17445,13 +17442,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=323&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in semiconductor manufacturing rather than VLSI/EDA design and tools.",
+    "reason": "This manufacturing engineering role is not a match for Vineeth's technical background in power integrity, advanced packaging and CAD/EDA.",
     "id": "9dd3885d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -17459,29 +17455,27 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-Tainan%2F323",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting URL is for a manufacturing engineer role, which does not fit our semiconductor/VLSI/EDA technical focus.",
+    "matches_requirements": "maybe",
+    "reason": "The role is for an Intelligent Manufacturing Engineer at TSMC, which matches the senior leadership experience level but does not strongly match Vineeth's technical background in Power Integrity, CAD/Methodology, etc. However, given his broad semiconductor industry experience, this could be a suitable stretch opportunity.",
     "id": "0985c4d2",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Jr Mechanical Engineer",
-    "company": "Extract from page",
+    "company": "Sensitron Semiconductor",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/jr-mechanical-engineer-sensitron-semiconductor-JV_IC1132272_KO0,22_KE23,46.htm?jl=1010151227359",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mechanical engineer, which does not align with the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical, not related to semiconductor/VLSI/EDA",
     "id": "9601dc0d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "mechanical engineer jobs in Hauppauge, NY",
@@ -17489,14 +17483,13 @@
     "location": "Hauppauge, NY, USA",
     "url": "https://www.glassdoor.com/Job/hauppauge-mechanical-engineer-jobs-SRCH_IL.0,9_IC1132272_KO10,29.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Engineer role, not related to semiconductor/VLSI/EDA domain.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "a6ebf74e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hauppauge, NY jobs",
@@ -17504,14 +17497,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/hauppauge-jobs-SRCH_IL.0,9_IC1132272.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The provided Glassdoor link does not contain an actual job posting, but rather appears to be a generic page about troubleshooting IP access issues.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "249acd15",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Advanced Packaging Technology and Service Engineer (APTS)",
@@ -17519,29 +17511,27 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19043&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target domains of Advanced Packaging and fits the location criteria of Taiwan.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on advanced packaging technology at TSMC, which does not directly match Vineeth's areas of expertise in power integrity and CAD methodology.",
     "id": "55d95e85",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor__2026_tsmc_campus_recruitment__55d95e85.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Advanced-Packaging-Technology-and-Service-Engineer-APTS%2F19043",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL was broken and did not load a valid job posting to evaluate.",
+    "reason": "The role is primarily software development (embedded firmware engineer), which is outside Vineeth's domain.",
     "id": "6cfce095",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC/RTL Design Engineer",
