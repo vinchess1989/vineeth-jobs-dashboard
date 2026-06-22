@@ -16419,14 +16419,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/technical-lead-power-analysis-and-optimization-at-cisco-4422359169",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in San Jose, CA which does not match the preferred regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions. It also exceeds Vineeth's experience level requirement of 15 years.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a technical lead in Power Analysis and Optimization, which fits Vineeth's background. However, it is located in San Jose, CA, USA.",
     "id": "907805f1",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-09-12",
     "deadline": "2026-09-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Micro-architect",
@@ -16435,13 +16434,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-micro-architect-at-samsung-semiconductor-4425423211",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires Arm ISA knowledge, which is a strong mismatch for the Semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily software architecture for CPUs, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "125f1f5e",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Circuit Design Engineer",
@@ -16450,13 +16448,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-circuit-design-engineer-at-microsoft-4417707905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Principal Circuit Design Engineer at Microsoft, which doesn't match the target domains of Power Integrity/Advanced Packaging/CAD in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily software development (working with technologists and design engineers) which is outside Vineeth's domain.",
     "id": "f51acae2",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -16465,13 +16462,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-cisco-4428194882",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 7+ years of ASIC Design experience, which exceeds the candidate's 15 years in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a direct match for Vineeth's background and skills, but it is in Austin, TX which is explicitly rejected due to lack of visa sponsorship.",
     "id": "c9592712",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-05",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineering Architect",
@@ -16480,13 +16476,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineering-architect-at-cadence-4414485819",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level design engineering architect position with no clear match to VLSI/EDA roles.",
+    "reason": "This is a senior RTL design and verification role, not a leadership position in Power Integrity or Advanced Packaging.",
     "id": "57dba737",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital IC Design Engineer",
@@ -16495,13 +16490,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-ic-design-engineer-at-texas-instruments-4409709097",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is entry-level and focuses on digital IC design, whereas the candidate profile targets senior leadership positions in power integrity, packaging, CAD methodology and SI/PI at a higher level.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "11174b65",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer III",
@@ -16510,13 +16504,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-iii-at-applied-materials-4425368858",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is based in Santa Clara, CA which does not match our target regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote with worldwide eligibility.",
+    "reason": "The role is primarily software development (embedded firmware), which is outside Vineeth's domain.",
     "id": "41bb7d3d",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automation Systems Integration Engineer (IMC)",
@@ -16525,13 +16518,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5304&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which doesn't match the priority regions of Finland/UK/Asia/North America with visa sponsorship/relocation mentioned. Also, it's a full-time role at a semiconductor fab rather than an EDA/CAD technical or leadership position.",
+    "reason": "This is an engineering role at a semiconductor fabrication company, but the key skills and experience are in automation systems integration rather than the candidate's areas of power integrity, advanced packaging and EDA tools.",
     "id": "7a8b3aba",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -16540,13 +16532,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAutomation-Systems-Integration-Engineer-IMC%2F5304",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Automation Systems Integration Engineer) at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The role is a software engineering position focused on automation systems integration, which does not match Vineeth's domain of power integrity, advanced packaging, CAD/EDA tools and methodologies.",
     "id": "3ee837f4",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011\u6280\u8853\u54e1 Technician",
@@ -16554,14 +16545,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19046&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a general technician at TSMC, which does not fit the specific technical domains we are targeting.",
+    "matches_requirements": "yes",
+    "reason": "Matches the technical domain of semiconductor manufacturing and packaging roles, with a strong preference for TSMC.",
     "id": "c8e917c1",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor__2026_tsmc_campus_recruitment__c8e917c1.txt"
   },
   {
     "title": "LinkedIn",
