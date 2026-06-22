@@ -11842,13 +11842,12 @@
     "url": "https://www.indeed.com/career/system-engineer/salaries/Phoenix--AZ?campaignid=serp-more&fromjk=f8d3e5226d9eb642&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary survey page, not an actual job posting. It lists average salaries for System Engineers in Phoenix, AZ and job openings from other companies.",
+    "reason": "The role is primarily software development (SW Engineer) which is outside Vineeth's domain.",
     "id": "8a27c9fb",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-22",
+    "description_file": null
   },
   {
     "title": "Sr Analog Physical Design Engineer | Kilby Labs",
@@ -11857,13 +11856,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=8e8f9576d4d95c58",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not specify a location, making it unsuitable for matching based on our criteria.",
+    "reason": "The job is for an Analog Physical Design Engineer, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging. Also, there is no location specified in the job description.",
     "id": "da07a7ea",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Analog Physical Design Engineer | Kilby Labs salaries in Dallas, TX",
@@ -11872,13 +11870,12 @@
     "url": "https://www.indeed.com/career/senior-design-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=8e8f9576d4d95c58&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a design engineer salary lookup rather than a specific hiring opening.",
+    "reason": "The role is primarily software development (firmware engineer, application software developer) which is outside Vineeth's domain.",
     "id": "9ee15887",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "systems engineer jobs in Santa Clara, CA",
@@ -11887,13 +11884,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-systems-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI/ML software engineering, not VLSI/EDA.",
+    "reason": "The job is a non-technical director role at a transportation authority, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "81bfdd8f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "System Engineer | DCC-PADC",
@@ -11902,28 +11898,26 @@
     "url": "https://www.glassdoor.com/job-listing/system-engineer-dcc-padc-texas-instruments-JV_IC1139977_KO0,24_KE25,42.htm?jl=1010167351925",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a system engineer focused on data center design rather than semiconductor VLSI EDA roles.",
+    "reason": "The role is primarily software development focused on embedded firmware, which is outside Vineeth's domain.",
     "id": "ec8dce32",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "systems engineer jobs in Dallas, TX",
-    "company": "Extract from page",
+    "company": "N/A (Extracted from page)",
     "location": "Dallas, TX, USA",
     "url": "https://www.glassdoor.com/Job/dallas-systems-engineer-jobs-SRCH_IL.0,6_IC1139977_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This systems engineer role is based in Dallas, TX, and does not fit the specified domains of Power Integrity, Advanced Packaging, CAD/Methodology for VLSI/EDA. It was immediately rejected.",
+    "reason": "The job is for a non-technical software engineering role, which does not match Vineeth's domain of expertise in semiconductor VLSI and EDA.",
     "id": "1e2c0aa0",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Design Engineer - Sensing (PS)",
@@ -11932,13 +11926,12 @@
     "url": "https://www.glassdoor.com/job-listing/analog-ic-design-engineer-sensing-ps-texas-instruments-JV_IC1139977_KO0,36_KE37,54.htm?jl=1010165713834",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Analog IC Design Engineer which does not match the target domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily analog IC design, which is outside Vineeth's domain of expertise in power integrity and VLSI.",
     "id": "b082f5eb",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Dallas, TX",
@@ -11947,13 +11940,12 @@
     "url": "https://www.glassdoor.com/Job/dallas-design-engineer-jobs-SRCH_IL.0,6_IC1139977_KO7,22.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company, which does not match the engineering/technical positions we are looking for.",
+    "reason": "Non-technical human resources role, not an engineering/technical position at a semiconductor company.",
     "id": "6bcedf74",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "MOCVD GaN Process Development Engineer",
@@ -11962,13 +11954,12 @@
     "url": "https://www.glassdoor.com/job-listing/mocvd-gan-process-development-engineer-texas-instruments-JV_IC1139977_KO0,38_KE39,56.htm?jl=1010157064988",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a MOCVD GaN Process Development Engineer, which does not match the target technical domains of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, and CAD Methodology.",
+    "reason": "This is a semiconductor process engineering role focused on GaN MOCVD, which is outside Vineeth's domains of expertise in Power Integrity, Advanced Packaging, and EDA CAD.",
     "id": "e591c6c9",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Dallas, TX",
@@ -11977,13 +11968,12 @@
     "url": "https://www.glassdoor.com/Job/dallas-process-engineer-jobs-SRCH_IL.0,6_IC1139977_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in human resources.",
+    "reason": "The job is for a Process Engineer, which does not match Vineeth's domain of Power Integrity and Advanced Packaging. Also, it is in Dallas, TX, USA while Vineeth prefers Finland, Europe; UK; India/Asia; or fully remote worldwide locations.",
     "id": "54d9f135",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT SOFTWARE ENGINEERSingapore, SingaporePosted 10 days ago",
