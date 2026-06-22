@@ -41620,13 +41620,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/manufacturing-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Manufacturing Engineer, which does not match the technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership targeted in the initial requirements.",
+    "reason": "This is a manufacturing engineering role, which is outside Vineeth's domain of Power Integrity, Packaging, and EDA. It does not match any of his key skills or areas of expertise.",
     "id": "1c5189a8",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marketing Assistant Jobs",
@@ -41635,13 +41634,12 @@
     "url": "https://builtin.com/jobs/marketing/search/marketing-assistant",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This marketing assistant role is not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a non-technical Marketing Assistant role, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "18bd35c9",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marketing Jobs",
@@ -41650,13 +41648,12 @@
     "url": "https://builtin.com/jobs/marketing",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not match the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The job is for a marketing role, which is outside Vineeth's technical domain.",
     "id": "0012b652",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineering Jobs",
@@ -41665,13 +41662,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/mechanical-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mechanical engineering role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a mechanical engineer position, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "6377e392",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-13",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Network Administrator Jobs",
@@ -41680,13 +41676,12 @@
     "url": "https://builtin.com/jobs/cybersecurity-it/search/network-administrator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Network Administrator, which is a non-technical role not matching the semiconductor/VLSI/EDA expertise.",
+    "reason": "The job is for a Network Administrator, which does not match Vineeth's technical background and experience in Power Integrity, Advanced Packaging, CAD Methodology, and EDA Tools.",
     "id": "0ce90472",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Network Engineer Jobs",
@@ -41695,13 +41690,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/network-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a network engineering position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is software engineering focused (Backend Developer, DevOps Engineer) and does not match Vineeth's VLSI/EDA background in Power Integrity, Advanced Packaging, SoC PDN sign-off etc.",
     "id": "2796465e",
     "source": "builtin_semi",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Office Administrator Jobs",
@@ -41710,13 +41704,12 @@
     "url": "https://builtin.com/jobs/operations/search/office-administrator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an office administrator role, which is non-technical and does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is an office administrator role, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and CAD.",
     "id": "7aff03bb",
     "source": "builtin_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Office Coordinator Jobs",
@@ -41725,13 +41718,12 @@
     "url": "https://builtin.com/jobs/operations/search/office-coordinator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an office coordinator, which is a non-technical administrative role and does not fit the technical engineering positions we are seeking.",
+    "reason": "The job is for an office coordinator role, which is a non-technical position and does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "601a78e2",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Operator (m/f/d)",
@@ -41740,13 +41732,12 @@
     "url": "https://de.linkedin.com/jobs/view/operator-m-f-d-at-renesas-electronics-4420929122",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role in semiconductor industry",
+    "reason": "The job is for an operator position at a semiconductor manufacturing facility, which does not match Vineeth's technical leadership background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
     "id": "028bebd2",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SPG SmartStart - Install Automation Engineer",
@@ -41755,13 +41746,12 @@
     "url": "https://www.glassdoor.com/job-listing/spg-smartstart-install-automation-engineer-applied-materials-JV_IC1139761_KO0,42_KE43,60.htm?jl=1010171816781",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Install Automation Engineer role which does not match the technical domains of Power Integrity, Advanced Packaging, VLSI/EDA/CAD.",
+    "reason": "The job is for an Install Automation Engineer at Applied Materials, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "fc397405",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "automation engineer jobs in Austin, TX",
