@@ -30868,13 +30868,12 @@
     "url": "https://www.infineon.com/careers/job/563808970824343",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job details link is broken or leads to a 404 error, making it impossible to assess the actual requirements and determine if it's a match.",
+    "reason": "The URL leads to a 404 error page, indicating the job posting does not exist.",
     "id": "bc1e398c",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Digital Design (f/m/div)Villach (Austria)HRC1635886",
@@ -30883,13 +30882,12 @@
     "url": "https://www.infineon.com/careers/job/563808970681071",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided leads to a 404 error, indicating the job posting is likely no longer active or valid.",
+    "reason": "The job posting has no relevant technical details to evaluate a match with Vineeth's profile and experience.",
     "id": "ce833513",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Engineer Digital Design (f/m/div)Bucharest (Romania)HRC1088433HybridHybrid",
@@ -30898,13 +30896,12 @@
     "url": "https://www.infineon.com/careers/job/563808956973731",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided in the job posting leads to a '404 ERROR' page, indicating the job is no longer available.",
+    "reason": "The job URL was broken and returned a 404 error, so it can't be evaluated.",
     "id": "92a9b5ef",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI & Data Analysis Engineer (Dept: AQSD, Div: IMC)",
@@ -30913,13 +30910,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5302&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI Engineer position focused on semiconductor manufacturing, which does not fit the VLSI/EDA technical domain.",
+    "reason": "The AI & Data Analysis Engineer role is focused on machine learning and AI systems for semiconductor manufacturing, which does not directly match Vineeth's background in power integrity, advanced packaging, EDA tools, or VLSI/SoC design.",
     "id": "f39de815",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research & Pathfinding Engineer",
@@ -30928,13 +30924,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6152&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a research engineer position with advanced degree requirements, fitting our target domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Research & Pathfinding Engineer at TSMC, which fits the domain of semiconductor R&D. It's in Taiwan and posted in the last 30 days.",
     "id": "dc348c77",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_research___pathfinding_enginee_dc348c77.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_research___pathfinding_enginee_dc348c77.txt"
   },
   {
     "title": "LinkedIn",
@@ -30942,14 +30937,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FResearch-Pathfinding-Engineer%2F6152",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's background in Power Integrity and Advanced Packaging, with specific mention of skills relevant to the job description.",
+    "matches_requirements": "maybe",
+    "reason": "Senior Technical Lead role at TSMC, covering multiple domains including Power Integrity and CAD Methodology, with a strong match for Vineeth's background. Location is remote worldwide.",
     "id": "2c630793",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_2c630793.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist - Supply Chain Business Data ScientistSingaporeHRC1430620",
@@ -30958,28 +30952,26 @@
     "url": "https://www.infineon.com/careers/job/563808968009053",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is missing, so I can't verify the company, location, posted date, or application deadline.",
+    "reason": "The job is for a non-technical role (Business Data Scientist) at a semiconductor company.",
     "id": "5703c34d",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Sales & Marketing Operations AnalystGuadalajara (Mexico) + 1 moreHRC1574950Hybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Guadalajara (Mexico) + 1 more",
     "url": "https://www.infineon.com/careers/job/563808970111286",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Sales & Marketing Operations Analyst position, which does not match the technical engineering positions we are looking for in semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical (HR) which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "805d860e",
     "source": "infineon_careers",
     "posted_date": "2023-04-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data AnalystShanghai + 1 moreHRC1661496",
@@ -30988,13 +30980,12 @@
     "url": "https://www.infineon.com/careers/job/563808971016968",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting with required details.",
+    "reason": "The URL provided does not lead to a valid job posting, it returns an error page.",
     "id": "0497583c",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist Master Data ManagementMelaka (Malaysia)130155",
@@ -31003,13 +30994,12 @@
     "url": "https://www.infineon.com/careers/job/563808970585645",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain enough information to determine if it matches the search criteria.",
+    "reason": "The job URL is broken/404, cannot evaluate further.",
     "id": "aead0bfe",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Specialist Business Analyst AIMelaka (Malaysia)HRC1665853",
