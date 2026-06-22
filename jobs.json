@@ -16280,13 +16280,12 @@
     "url": "https://www.glassdoor.com/Job/canandaigua-reliability-engineer-jobs-SRCH_IL.0,11_IC1132699_KO12,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is RF Test Engineering focused, while the target roles are primarily in Power Integrity (PI) / Advanced Packaging / CAD Methodology. Also, it's located in Canandaigua, NY which doesn't match the preferred regions.",
+    "reason": "This RF Test Engineer role is focused on testing high-frequency radio frequency (RF) filters for SpaceX's Starlink satellite internet, which does not directly match Vineeth's power integrity and advanced packaging domain expertise.",
     "id": "24065eb6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Canandaigua, NY jobs",
@@ -16295,13 +16294,12 @@
     "url": "https://www.glassdoor.com/Job/canandaigua-jobs-SRCH_IL.0,11_IC1132699.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search results for Canandaigua, NY are broad and do not match the technical specialization in semiconductor/VLSI/EDA that Vineeth Prathapachandra Kaimal is looking for.",
+    "reason": "The job is for non-technical HR roles at a semiconductor company, which is outside Vineeth's domain.",
     "id": "92810dd5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SpaceX jobs in Canandaigua, NY",
@@ -16310,13 +16308,12 @@
     "url": "https://www.glassdoor.com/Job/canandaigua-spacex-jobs-SRCH_IL.0,11_IC1132699_KO12,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for SpaceX in Canandaigua, NY, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is not in the semiconductor/VLSI/EDA industry, but rather a general IT/administrative role at SpaceX.",
     "id": "b26dc6e6",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer",
@@ -16325,13 +16322,12 @@
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-at-ampere-4428810550",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Durham, NC which does not match the location preferences.",
+    "reason": "This is an analog/mixed-signal circuit design role, outside Vineeth's primary domain of Power Integrity and Advanced Packaging. Also not a leadership position.",
     "id": "89a7162a",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -16340,13 +16336,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-broadcom-4376988302",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level Design Engineer position, not a senior technical leadership role in Power Integrity or Advanced Packaging that matches the candidate's background.",
+    "reason": "The role is focused on ASIC physical design, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "8a56e502",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Staff Engineer - Design",
@@ -16355,13 +16350,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-staff-engineer-design-at-microchip-technology-inc-4428658913",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, which rules out the candidate due to visa restrictions.",
+    "reason": "The role is primarily software development (embedded machine learning inference engines) which is outside Vineeth's domain.",
     "id": "0d46e903",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC design/verification engineer",
@@ -16370,13 +16364,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-verification-engineer-at-hewlett-packard-enterprise-4403140189",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an ASIC design/verification engineer position, which does not match the VLSI/EDA background of Vineeth Prathapachandra Kaimal.",
+    "reason": "This ASIC design/verification engineer role is outside Vineeth's domain of expertise, which is focused on Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "6a7b4b04",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Power-Management Design Engineer",
@@ -16385,13 +16378,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-power-management-design-engineer-at-sifive-4400919248",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency, which conflicts with our requirement for visa sponsorship or relocation.",
+    "reason": "The role is focused on CPU design, power management and clocking for RISC-V processors, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off. Also, the location is Austin, TX.",
     "id": "e899a401",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC verification engineer",
@@ -16400,13 +16392,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-verification-engineer-at-hewlett-packard-enterprise-4408964684",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an ASIC verification engineer, which does not match the target domains of VLSI/EDA.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) which falls outside Vineeth's domain.",
     "id": "b721e265",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Digital Design Engineering",
@@ -16415,13 +16406,12 @@
     "url": "https://www.linkedin.com/jobs/view/engineer-digital-design-engineering-at-analog-devices-4399798965",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a digital design engineering position at Analog Devices, which does not directly match the semiconductor/VLSI/EDA expertise required.",
+    "reason": "The role is primarily digital design, which is outside Vineeth's domain of expertise.",
     "id": "932488d9",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Lead, Power Analysis and Optimization",
