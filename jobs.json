@@ -29930,13 +29930,12 @@
     "url": "https://www.workatastartup.com/jobs/95576",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role at a startup, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is software development focused (AI, ML, agent building) which does not match Vineeth's semiconductor/VLSI/EDA background. It is also a founding engineering role at an AI startup, not a technical leadership position in the target domains.",
     "id": "a143dbfa",
     "source": "yc_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Founding Engineer (we are not going to ask how old you are)",
@@ -29945,13 +29944,12 @@
     "url": "https://www.workatastartup.com/jobs/96454",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for AI system development, unrelated to semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily software development with AI agents rather than semiconductor/VLSI/EDA focused.",
     "id": "ab99b23b",
     "source": "yc_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Forward-Deployed Engineer",
@@ -29960,13 +29958,12 @@
     "url": "https://www.workatastartup.com/jobs/96456",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role at a software startup, not related to VLSI/EDA.",
+    "reason": "This is a non-technical business/operations role, not an engineering position in semiconductor/VLSI/EDA.",
     "id": "bad7f689",
     "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "apply now",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Founding Software Engineer",
@@ -29975,13 +29972,12 @@
     "url": "https://www.workatastartup.com/jobs/92991",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a founding software engineer at a startup, which does not match the technical leadership roles in semiconductor/VLSI/EDA domain we are looking for.",
+    "reason": "The role is primarily software development (robotics, AI, deep learning) which is outside Vineeth's domain of expertise in Power Integrity and Packaging.",
     "id": "3e006d75",
     "source": "yc_semi",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "C++ Jobs",
@@ -29990,13 +29986,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/cpp",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a C++ Software Engineer role, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily software development (C++, C#, .NET) and does not fit Vineeth's domain of Power Integrity, Advanced Packaging, and EDA.",
     "id": "5f26e171",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cloud Architect Jobs",
@@ -30005,13 +30000,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/cloud-architect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a Cloud Architect, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "This position is for a Cloud Architect role at a consulting company specializing in cloud migrations and strategy, which does not match Vineeth's background and experience.",
     "id": "cb0df2e2",
     "source": "builtin_semi",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Cloud Engineer Jobs",
@@ -30020,13 +30014,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/cloud-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general cloud engineering job search page, not specific to semiconductor/VLSI/EDA roles.",
+    "reason": "The job is for a Cloud Engineer role, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "2347fd13",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cloud Security Engineer Jobs",
@@ -30035,28 +30028,26 @@
     "url": "https://builtin.com/jobs/cybersecurity-it/search/cloud-security-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cloud Security Engineer, which does not match the target technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership in the semiconductor/VLSI/EDA industry.",
+    "reason": "This is a software security engineer role, not a semiconductor/VLSI/EDA hardware engineering position.",
     "id": "bf415d00",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Communications Specialist Jobs",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Canonical",
+    "location": "Remote (Worldwide)",
     "url": "https://builtin.com/jobs/marketing/search/communications-specialist",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job listing is for Communications Specialist roles, which do not match the technical Semiconductor/VLSI/EDA roles required.",
+    "reason": "The role is non-technical marketing and does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "5d3a8483",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Community Manager Jobs",
@@ -30065,13 +30056,12 @@
     "url": "https://builtin.com/jobs/operations/search/community-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Community Manager role, which does not match our focus on semiconductor/VLSI/EDA engineering positions.",
+    "reason": "The job is a Community Manager role at Air Apps, which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
     "id": "58419fb0",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Compliance Analyst Jobs",
