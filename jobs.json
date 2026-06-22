@@ -16700,13 +16700,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-ic-design-engineer-at-neuralink-4416582694",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency, which is a hard rejection based on our search requirements.",
+    "reason": "Role is primarily software development (firmware engineers) which is outside Vineeth's domain.",
     "id": "72e6d3c8",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum ASIC Project Lead",
@@ -16715,13 +16714,12 @@
     "url": "https://www.linkedin.com/jobs/view/quantum-asic-project-lead-at-microsoft-4414600266",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Redmond, WA which does not match the highest priority regions of Finland, Europe (outside Finland), UK, India or Asia specified in the requirements.",
+    "reason": "The role is primarily focused on quantum hardware and ASIC development, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and VLSI.",
     "id": "5ffa2a21",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Power Engineer",
@@ -16730,13 +16728,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-power-engineer-at-sifive-4400243885",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency or a valid work visa which does not align with our job search criteria.",
+    "reason": "The role is located in Austin, TX which does not match Vineeth's preferred locations of Finland, UK, India or Asia.",
     "id": "cbe0e091",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Staff Engineer-Design Implementation",
@@ -16744,14 +16741,13 @@
     "location": "Chandler, AZ",
     "url": "https://www.linkedin.com/jobs/view/technical-staff-engineer-design-implementation-at-microchip-technology-inc-4426571223",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in Chandler, AZ, which does not match the preferred locations.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with technical domain overlap but less specific detail on PI/SI background.",
     "id": "d3a2806c",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Chip Design Engineer, Nitro Team",
@@ -16760,13 +16756,12 @@
     "url": "https://www.linkedin.com/jobs/view/chip-design-engineer-nitro-team-at-amazon-web-services-aws-4358371167",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Hardware Engineer at Amazon Web Services, focusing on the development of cutting-edge products in AWS's cloud infrastructure. This does not match the target job criteria which are focused on semiconductor/VLSI/EDA roles.",
+    "reason": "The role is primarily software development (cloud services, product innovations) and doesn't fit Vineeth's Power Integrity/Advanced Packaging/VLSI background.",
     "id": "1a610e97",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Research Engineer",
@@ -16775,13 +16770,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-research-engineer-at-american-honda-motor-company-inc-4396025651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Engineer at Honda, which is an automotive company, not semiconductor/VLSI/EDA related.",
+    "reason": "The role is primarily software development focused (firmware engineer), which is outside Vineeth's domain.",
     "id": "34fe30b2",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SMTS Digital Engineering",
@@ -16790,13 +16784,12 @@
     "url": "https://www.linkedin.com/jobs/view/smts-digital-engineering-at-rambus-4417668060",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical marketing/Sales role at a semiconductor company, so it does not match our target domain",
+    "reason": "The role is for digital IC design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "d16059fa",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Microarchitecture Engineer, DeepMind",
@@ -16805,13 +16798,12 @@
     "url": "https://www.linkedin.com/jobs/view/silicon-microarchitecture-engineer-deepmind-at-google-deepmind-4427735264",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Silicon Microarchitecture Engineer at Google DeepMind, which does not match the VLSI/EDA/Semiconductor industry focus.",
+    "reason": "This role is focused on custom silicon hardware for AI and Google products, which is different from semiconductor VLSI/EDA engineering.",
     "id": "6e5c8866",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Micro-architect/Logic Designer, Coherent Interconnect",
@@ -16820,13 +16812,12 @@
     "url": "https://www.linkedin.com/jobs/view/micro-architect-logic-designer-coherent-interconnect-at-samsung-semiconductor-4427673093",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role specifically requires US residency in Austin, TX, which is a hard rejection per instructions.",
+    "reason": "The role is primarily software development (focusing on operating system caches and directory snoop filter protocols), which is outside Vineeth's domain.",
     "id": "7efbd851",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Power Analysis and Optimization Engineer",
@@ -16835,13 +16826,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-power-analysis-and-optimization-engineer-at-amazon-web-services-aws-4359680073",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Will County, IL, which does not match our target regions of Finland, Europe (outside Finland), UK, India/Asia, or fully remote worldwide positions.",
+    "reason": "The role is primarily software development (cloud services, product innovations) rather than VLSI/EDA semiconductor technical roles.",
     "id": "69f4b5a6",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
