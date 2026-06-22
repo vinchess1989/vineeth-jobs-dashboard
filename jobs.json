@@ -55586,34 +55586,18 @@
     "description_file": null
   },
   {
-    "title": "FPGA Engineer",
-    "company": "agap2 Germany",
-    "location": "Constance, Baden-W\u00fcrttemberg, Germany",
-    "url": "https://de.linkedin.com/jobs/view/fpga-engineer-at-agap2-germany-4428472418",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position, which does not match the candidate's background in Power Integrity and Advanced Packaging.",
-    "id": "bdd15430",
-    "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "2026-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "FPGA Engineer (all gender) \u2013 High Speed Signal Processing xxx",
     "company": "ALTEN Germany",
     "location": "Greater Munich Metropolitan Area",
     "url": "https://de.linkedin.com/jobs/view/fpga-engineer-all-gender-%E2%80%93-high-speed-signal-processing-xxx-at-alten-germany-4417631136",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches VLSI/SoC Design domain, based in Munich region",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (embedded software engineer) and hence outside Vineeth's domain.",
     "id": "ce409471",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/alten_germany_fpga_engineer__all_gender____h_ce409471.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer - Ireland",
@@ -55621,14 +55605,13 @@
     "location": "Dublin, County Dublin, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/fpga-design-engineer-ireland-at-arista-networks-4428064452",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an FPGA design engineer role, which does not directly match the VLSI/EDA domain focus of our search.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves FPGA design with some overlap to VLSI/EDA, but the company is a networking firm rather than semiconductor/EDA.",
     "id": "75da83a4",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Design / FPGA Engineer",
@@ -55636,14 +55619,13 @@
     "location": "Gothenburg, V\u00e4stra G\u00f6taland County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/digital-design-fpga-engineer-at-antmicro-4240349466",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves digital design and FPGA engineering, which aligns with the candidate's background. The job is in Sweden, which is a match according to the location criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on FPGA programming rather than Power Integrity, Packaging, CAD or VLSI design.",
     "id": "6f7e8af9",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer \u2013 Quantum Computing (f/m/d)",
@@ -55652,13 +55634,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-engineer-%E2%80%93-quantum-computing-f-m-d-at-eleqtron-4424726740",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not focused on semiconductor, VLSI, EDA domains but rather in developing FPGA systems for quantum computing hardware.",
+    "reason": "Primarily software/firmware development role, not VLSI/EDA",
     "id": "efdef84c",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA/ASIC & SDR Engineer",
@@ -55667,13 +55648,12 @@
     "url": "https://lu.linkedin.com/jobs/view/fpga-asic-sdr-engineer-at-oq-technology-4426403949",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an FPGA/ASIC & SDR Engineer, which does not match the VLSI/EDA job focus.",
+    "reason": "The role is primarily SDR/telecommunications engineering rather than semiconductor/VLSI/EDA focused.",
     "id": "b5027ffe",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55682,13 +55662,12 @@
     "url": "https://nl.linkedin.com/jobs/view/fpga-engineer-at-fortaegis-technologies-4427198239",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer role which does not match the target VLSI/EDA technical domains.",
+    "reason": "The role is for an FPGA Engineer, which falls under hardware engineering rather than power integrity, advanced packaging, or EDA/CAD.",
     "id": "58522c79",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Systems & FPGA Engineer (all genders)",
@@ -55697,13 +55676,12 @@
     "url": "https://at.linkedin.com/jobs/view/embedded-systems-fpga-engineer-all-genders-at-zerothird-4414807367",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an Embedded Systems & FPGA Engineer role, not a VLSI/EDA/Semiconductor position.",
+    "reason": "The role is for embedded Linux and FPGA development on quantum communication hardware, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "f6206214",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA-SoC Engineer",
@@ -55712,13 +55690,12 @@
     "url": "https://gr.linkedin.com/jobs/view/fpga-soc-engineer-at-theon-international-4293697138",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA-SoC engineer position at a company focused on military and security applications, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is primarily focused on FPGA design and verification, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "70a41a8d",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Embedded Systems & FPGA Engineer (all genders)",
@@ -55727,13 +55704,12 @@
     "url": "https://at.linkedin.com/jobs/view/embedded-systems-fpga-engineer-all-genders-at-zerothird-4414092950",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Embedded Systems & FPGA Engineer role, which does not match the required Power Integrity / VLSI / EDA domains.",
+    "reason": "The role is for an Embedded Systems & FPGA Engineer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging expertise.",
     "id": "73b5a11e",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
