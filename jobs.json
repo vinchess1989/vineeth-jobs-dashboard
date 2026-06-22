@@ -73008,13 +73008,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-layout-engineer-at-chip-smart-technologies-pvt-ltd-4428929074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an analog layout engineer role which doesn't match the candidate's power integrity and advanced packaging focus.",
+    "reason": "The role is primarily focused on analog layout design, which does not closely match Vineeth's power integrity and advanced packaging background.",
     "id": "4ab03d10",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ingegnere progettazione layout",
@@ -73023,13 +73022,12 @@
     "url": "https://it.linkedin.com/jobs/view/ingegnere-progettazione-layout-at-move-silicon-4428918900",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Junior Analog IC Layout Engineer with focus on analog block layout, matching techniques and power delivery network. It does not match the required Power Integrity, Advanced Packaging or CAD Methodology experience.",
+    "reason": "The job is for an analog IC layout engineer position, which is outside Vineeth's domain of expertise in power integrity and advanced packaging.",
     "id": "90c63988",
     "source": "linkedin_eu_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HV Cable Design Engineer",
@@ -73038,13 +73036,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hv-cable-design-engineer-at-advance-trs-4428941024",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a HV Cable Design Engineer at an engineering consultancy, which doesn't match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for a HV Cable Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "8cc458fd",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Graduate Design Engineer",
@@ -73053,13 +73050,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-design-engineer-at-william-hare-group-4431677413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Graduate-level structural engineering position at a construction consulting firm, which does not match the senior leadership positions and technical domains in semiconductor/VLSI/EDA we are searching for.",
+    "reason": "The job is for a graduate structural design engineer at a construction company, outside Vineeth's semiconductor/VLSI/EDA background.",
     "id": "7b4dfca6",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Physical Design Engineer",
@@ -73068,13 +73064,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-physical-design-engineer-at-nxp-semiconductors-4391557770",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches technical domain of Physical Design with years of experience specified.",
+    "reason": "Matches leadership role exception with over 8 years of experience in physical design domain",
     "id": "671d43a6",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nxp_semiconductors_lead_physical_design_engineer_671d43a6.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nxp_semiconductors_lead_physical_design_engineer_671d43a6.txt"
   },
   {
     "title": "Principal Physical Design Engineer",
@@ -73083,13 +73078,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-physical-design-engineer-at-nxp-semiconductors-4382120927",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job is a Principal Physical Design Engineer role at NXP Semiconductors, which matches the senior leadership role type and semiconductor domain.",
+    "reason": "The role is for a Principal Physical Design Engineer, which closely matches Vineeth's background in Power Integrity and advanced packaging. The location is Pune Division, Maharashtra, India.",
     "id": "90c673e6",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nxp_semiconductors_principal_physical_design_engi_90c673e6.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nxp_semiconductors_principal_physical_design_engi_90c673e6.txt"
   },
   {
     "title": "Embedded Software Engineer - Southampton",
@@ -73098,13 +73092,12 @@
     "url": "https://uk.linkedin.com/jobs/view/embedded-software-engineer-southampton-at-mayflower-recruitment-ltd-4428905468",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Embedded Software Engineer, which doesn't match the VLSI/EDA/semiconductor domain focus required.",
+    "reason": "The role is primarily software development (C++ codebases, GUIs, unit testing) and does not fit Vineeth's VLSI/EDA background in Power Integrity, advanced packaging, SoC design. Also fully remote.",
     "id": "85fc6396",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead  Rendering  Development Engineer.",
@@ -73113,13 +73106,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/80456?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match domain requirements of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, nor Engineering Leadership roles.",
+    "reason": "The job is focused on graphics software engineering for game development, which does not align with Vineeth's background in power integrity and advanced packaging.",
     "id": "a017bcef",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Software Development Engineer.",
@@ -73128,13 +73120,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/80570?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on software development for graphics, not semiconductor/VLSI/EDA.",
+    "reason": "This is a software development role, not related to semiconductor/VLSI/EDA.",
     "id": "adca2e05",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Full Stack AI Software Development",
@@ -73143,13 +73134,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86604?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for software development rather than a position focused on semiconductor VLSI EDA technologies.",
+    "reason": "The role is primarily software development (AI, ML), which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "a464d905",
     "source": "amd_careers",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer Product Quality ManagementBangalore BTP (India)HRC1679096",
