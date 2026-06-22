@@ -51434,13 +51434,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-digital-engineer-at-renesas-electronics-4373985419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a digital design position for semiconductor solutions, but does not match the power integrity (PI), advanced packaging, or EDA domains specified in the requirements.",
+    "reason": "The role is primarily software development (firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "5150db9a",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer - System Performance",
@@ -51449,13 +51448,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-system-performance-at-qualcomm-4329569264",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Systems Engineering position at Qualcomm.",
+    "reason": "The role is primarily focused on system-level performance analysis and optimizations, not specifically on power integrity, advanced packaging, or EDA/CAD methodologies. It falls outside Vineeth's domain.",
     "id": "a58407f7",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-05-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Engineer, Design Verification",
@@ -51464,13 +51462,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-design-verification-at-renesas-electronics-4377196394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level Design Verification Engineer position which doesn't match the senior leadership roles we are looking for.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "876fd588",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Cyber Security Analyst",
@@ -51479,13 +51476,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-cyber-security-analyst-at-jobgether-4427706297",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a cybersecurity role, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily focused on cybersecurity, compliance, and GRC frameworks rather than semiconductor/VLSI/EDA technical domains that Vineeth Prathapachandra Kaimal specializes in.",
     "id": "c74bcfd4",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer, Floorplan, Google Cloud",
@@ -51494,13 +51490,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-floorplan-google-cloud-at-google-4427714709",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "15+ years of relevant experience, senior leadership role, matches domain & technical area requirements.",
+    "reason": "The job is located in Bengaluru, India and matches Vineeth's background in SoC PDN Sign-off and Physical Design.",
     "id": "64ddd27b",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/google_physical_design_engineer__floo_64ddd27b.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/google_physical_design_engineer__floo_64ddd27b.txt"
   },
   {
     "title": "Staff Digital Engineer",
@@ -51508,14 +51503,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-digital-engineer-at-renesas-electronics-4367101623",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires deep expertise in DDR and LPDDR memory technologies, which fits the candidate's background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "804c6f8a",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_staff_digital_engineer_804c6f8a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Engineer",
@@ -51524,13 +51518,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-engineer-at-intel-4418841436",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mid-level experienced hire, and does not meet our senior leadership target.",
+    "reason": "The role is focused on analog circuit design rather than Power Integrity, packaging, or EDA tool applications where Vineeth has expertise.",
     "id": "ab49635f",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - SOC Architect",
@@ -51539,13 +51532,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-soc-architect-at-renesas-electronics-4342354186",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level Principal Engineer position for SOC architecture with 15+ years of experience, matching the criteria.",
+    "reason": "The role requires a technical leader with 15+ years of experience in power integrity and advanced packaging.",
     "id": "d743310d",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_principal_engineer___soc_archi_d743310d.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/renesas_electronics_principal_engineer___soc_archi_d743310d.txt"
   },
   {
     "title": "Staff Engineer, System Design Verification ( NVME / PCIe/ MI ) SSD Validation ( 5- 8 Years) , Bangalore",
@@ -51553,14 +51545,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-system-design-verification-nvme-pcie-mi-ssd-validation-5-8-years-bangalore-at-sandisk-4403404255",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key criteria of system-level validation for SSD platforms with PCIe/NVMe experience, and is in the preferred range of 5-8 years experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (scripting, automation) rather than semiconductor/VLSI/EDA technical roles.",
     "id": "f358845e",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/sandisk_staff_engineer__system_design__f358845e.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer \u2014 Silicon Team",
@@ -51569,13 +51560,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-%E2%80%94-silicon-team-at-anthriq-4427715112",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level Associate role at an early-stage startup, which does not match our senior leadership focus for semiconductor/VLSI/EDA.",
+    "reason": "The job is for an RTL Design Engineer position at Anthriq, which falls under software/hardware design rather than Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "17b09030",
     "source": "linkedin_india_soc_design_p3",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer \u2014 Silicon Team",
