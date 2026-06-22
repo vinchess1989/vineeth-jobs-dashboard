@@ -37336,13 +37336,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19321&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Global Mobility Manager focusing on international assignments and does not fit the technical engineering roles we are looking for.",
+    "reason": "The role is a Global Mobility Manager focused on international assignment service delivery, which is unrelated to semiconductor/VLSI/EDA technical domains.",
     "id": "6fbc04ab",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -37351,13 +37350,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FGlobal-Mobility-Manager-International-Assignment-Service-Delivery%2F19321",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for an HR role, which does not match the technical engineering positions we are looking for.",
+    "reason": "Job posting URL does not directly specify a date to check against, and no dates are mentioned in the provided job description text.",
     "id": "8b0a2596",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -37366,13 +37364,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-chirp-robotics-corporation-4430034441",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Senior FPGA Engineer role, which doesn't match the semiconductor/VLSI/EDA focus areas required.",
+    "reason": "The role is primarily FPGA design with VHDL/Verilog, not Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, or thermal analysis which are Vineeth's key areas of expertise.",
     "id": "f16823fc",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Security Designer",
@@ -37381,13 +37378,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-security-designer-at-labella-associates-4405248577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role focused on physical security documentation rather than semiconductor, VLSI, EDA or related technical fields.",
+    "reason": "This is a physical security designer role focused on access control, CCTV, and duress systems - well outside Vineeth's power integrity/advanced packaging CAD domain.",
     "id": "84dc8da5",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ERC Shift  EngineerTainan City, Tainan City, TaiwanPosted 3 months ago",
@@ -37396,13 +37392,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40823719",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Safety Engineer focused on emergency response, not directly related to VLSI/EDA/Semiconductor technical domains.",
+    "reason": "The role is focused on emergency response, safety audits and inspections, and disaster prevention systems - it does not match Vineeth's background in power integrity, advanced packaging, EDA tools, or VLSI/SoC design.",
     "id": "27125f52",
     "source": "micron_careers",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HR Business Partner (Plant HR) \u2013 Manufacturing",
@@ -37411,13 +37406,12 @@
     "url": "https://in.linkedin.com/jobs/view/hr-business-partner-plant-hr-%E2%80%93-manufacturing-at-tata-electronics-4427825462",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an HR Business Partner in manufacturing, not a technical engineering position.",
+    "reason": "This role is an HR Business Partner for a manufacturing plant, and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or EDA.",
     "id": "338fda85",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Module Process Engineer IV - (E4) - Dielectric Deposition (CVD / ALD)",
@@ -37426,13 +37420,12 @@
     "url": "https://www.glassdoor.com/job-listing/module-process-engineer-iv-e4-dielectric-deposition-cvd-ald-applied-materials-JV_IC1151603_KO0,59_KE60,77.htm?jl=1010157632257",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Module Process Engineer specializing in Dielectric Deposition (CVD / ALD), which does not directly match the VLSI/EDA technical domains we are targeting.",
+    "reason": "The role is primarily focused on dielectric deposition processes, which falls under semiconductor manufacturing rather than design and EDA tools. Vineeth's background is in electronics design, power integrity, CAD tooling, not manufacturing process engineering.",
     "id": "8932cc53",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New Products Manufacturing Engineer (NPME)",
@@ -37441,13 +37434,12 @@
     "url": "https://www.glassdoor.com/job-listing/new-products-manufacturing-engineer-npme-applied-materials-JV_IC1147439_KO0,40_KE41,58.htm?jl=1010157094142",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical manufacturing engineering role at a semiconductor company, which does not match our criteria.",
+    "reason": "The role is primarily focused on manufacturing engineering for semiconductor equipment, which does not match Vineeth's domain in Power Integrity & Advanced Packaging.",
     "id": "5c78a911",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-23",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "manufacturing engineer jobs in Santa Clara, CA",
@@ -37456,13 +37448,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-manufacturing-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,34.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a manufacturing engineering role at an undisclosed company, which does not match the semiconductor/VLSI/EDA technical roles we are seeking.",
+    "reason": "The role is for a manufacturing engineer, not a technical engineering position in semiconductor/VLSI/EDA design.",
     "id": "be786094",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Data Protection Investigator",
@@ -37471,13 +37462,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=567&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Data Protection Investigator, which does not match any of our target technical domains in semiconductor/VLSI/EDA.",
+    "reason": "This role is for a non-technical Data Protection Investigator position, not an engineering/technical role in semiconductor/VLSI/EDA.",
     "id": "f32e2755",
     "source": "tsmc_careers",
     "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
