@@ -68765,14 +68765,13 @@
     "location": "Lucca, Tuscany, Italy",
     "url": "https://it.linkedin.com/jobs/view/digital-backend-engineer-%E2%80%93-physical-design-sign-off-lucca-at-move-silicon-4427977302",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Job is located in Lucca, Italy which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong skills overlap, but a bit below Vineeth's typical 10-15 year experience level.",
     "id": "27a74d0f",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical ASIC Design Implementation Engineer",
@@ -68780,14 +68779,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/physical-asic-design-implementation-engineer-at-engibex-4430459080",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior physical design engineering position that matches the candidate's background in ASIC/PD, with required skills in Cadence Innovus Place & Route.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily ASIC design implementation, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "fa2f082b",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/engibex_physical_asic_design_implement_fa2f082b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer",
@@ -68795,14 +68793,13 @@
     "location": "Barcelona, Catalonia, Spain",
     "url": "https://es.linkedin.com/jobs/view/asic-engineer-at-cisco-4404062895",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with 5+ years experience, but no specific mention of VLSI/EDA domains.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily physical design (RTL-to-GDS implementation, signoff flows), which is outside Vineeth's domain of power integrity, CAD methodology. It also does not match the leadership/management title exception.",
     "id": "294fa71a",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Implementation Engineer | Barcelona, Spain (Relocation Provided)",
@@ -68811,13 +68808,12 @@
     "url": "https://es.linkedin.com/jobs/view/physical-implementation-engineer-barcelona-spain-relocation-provided-at-autsorsa-hr-bpo-solutions-4419820624",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Barcelona, Spain which does not match our target regions of Finland, Europe (excluding Finland), UK, India, Asia, or fully remote worldwide.",
+    "reason": "The role is focused on AI hardware design rather than semiconductor power integrity or packaging which aligns with Vineeth's background.",
     "id": "5e64229d",
     "source": "linkedin_eu_physical_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Freelance: Digital Physical Design (& DFT Engineer) (Temp / Project-Based)",
@@ -68826,13 +68822,12 @@
     "url": "https://be.linkedin.com/jobs/view/freelance-digital-physical-design-dft-engineer-temp-project-based-at-swave-photonics-4428634328",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a minimum of 5 years' experience, which exceeds the priority match for roles with 10-15 years.",
+    "reason": "The role is for a consultant specifically in digital back-end layout design and verification, which does not directly match Vineeth's focus areas of Power Integrity/Advanced Packaging.",
     "id": "904a1941",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Backend Engineer \u2013 ASIC / Physical Design (all genders)",
@@ -68840,14 +68835,13 @@
     "location": "Erlangen, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%93-asic-physical-design-all-genders-at-fraunhofer-iis-4392593648",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Senior Backend Engineer in ASIC Physical Design, matching the target technical domains of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily backend software development (e.g. Cadence design flow, Siemens EDA) which is outside Vineeth's domain of VLSI/EDA",
     "id": "61fa588c",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/fraunhofer_iis_senior_backend_engineer___asic_61fa588c.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Backend Engineer (all genders) \u2013 ASIC / Physical Design",
@@ -68855,14 +68849,13 @@
     "location": "Erlangen, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-backend-engineer-all-genders-%E2%80%93-asic-physical-design-at-fraunhofer-iis-4390368508",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Backend Engineer role aligns with Target Job Criteria: Domain & Technical Area of Physical Design and matches 10-15 years experience.",
+    "matches_requirements": "no",
+    "reason": "The job is for a backend engineer, not a technical lead role in power integrity or physical design.",
     "id": "136136f0",
     "source": "linkedin_eu_physical_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/fraunhofer_iis_senior_backend_engineer__all_g_136136f0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital IC Backend Design Engineer",
@@ -68870,14 +68863,13 @@
     "location": "Paris, \u00cele-de-France, France",
     "url": "https://fr.linkedin.com/jobs/view/digital-ic-backend-design-engineer-at-arago-4345788070",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches domain criteria for Digital IC Backend Design Engineer, close to a senior leadership role.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on digital IC backend implementation, which does not match Vineeth's technical background in power integrity and advanced packaging.",
     "id": "f181a1a4",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CT TECH",
@@ -68886,13 +68878,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ct-tech-at-covenant-health-4412937152",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a healthcare provider position, not a technical or engineering role in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a CT Tech role in a hospital, which does not match Vineeth's semiconductor/VLSI/EDA background and expertise.",
     "id": "7718e1cf",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Engineer",
@@ -68901,13 +68892,12 @@
     "url": "https://uk.linkedin.com/jobs/view/project-engineer-at-prodrive-4423372043",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on automotive systems engineering, not semiconductor/EDA.",
+    "reason": "The job is for a non-technical project engineering role in vehicle and mechatronics projects, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "66529c6e",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer - Physical Products",
