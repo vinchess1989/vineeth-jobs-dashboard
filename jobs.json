@@ -43678,13 +43678,12 @@
     "url": "https://fi.linkedin.com/jobs/view/production-operator-at-varex-imaging-corporation-4427040378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Production Operator role at Varex Imaging Corporation, which is in the medical equipment manufacturing industry. The role does not match any of the specified technical domains.",
+    "reason": "The role is for a Production Operator in Varex Imaging Corporation's component manufacturing, which does not match Vineeth's technical domain expertise in Power Integrity/Signal Integrity (PI/SI), Advanced Packaging, CAD methodology or VLSI/SoC physical design.",
     "id": "9b3bd023",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer - Electronics",
@@ -43692,14 +43691,13 @@
     "location": "Joensuu, North Karelia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/r-d-engineer-electronics-at-assa-abloy-group-4382543577",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for an R&D Engineer position at ASSA ABLOY Group in Finland, which matches the target domain of Power Integrity/SI and is located in Joensuu, North Karelia, Finland.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on electronic design engineering, which doesn't strongly match Vineeth's semiconductor/EDA background in power integrity and advanced packaging.",
     "id": "2e6a754a",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/assa_abloy_group_r_d_engineer___electronics_2e6a754a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Sr.) Quality Assurance Engineer",
@@ -43708,13 +43706,12 @@
     "url": "https://fi.linkedin.com/jobs/view/sr-quality-assurance-engineer-at-murata-4428702262",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Quality Assurance Engineer focusing on customer reporting, quality system audits, and standard reviews rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is in Quality Assurance, which is a non-matching technical area for Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "d073a38a",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-03",
+    "description_file": null
   },
   {
     "title": "Electronic Engineer",
@@ -43723,13 +43720,12 @@
     "url": "https://fi.linkedin.com/jobs/view/electronic-engineer-at-integrify-4420942056",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not technical, it's for an Electronics Engineer in a production engineering position.",
+    "reason": "The job is for a general electronics engineer role, which does not match Vineeth's specialized background in Power Integrity, Advanced Packaging and related EDA tools.",
     "id": "b9921970",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wireless System Engineer - Espoo, Finland",
@@ -43738,13 +43734,12 @@
     "url": "https://fi.linkedin.com/jobs/view/wireless-system-engineer-espoo-finland-at-qualcomm-4403812970",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on wireless system engineering rather than semiconductor VLSI EDA.",
+    "reason": "The role is primarily wireless system engineering rather than power integrity, advanced packaging, or EDA/CAD.",
     "id": "72549777",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer (SW/HW)",
@@ -43752,14 +43747,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-hardware-engineer-sw-hw-at-verda-4427216654",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, and CAD / Methodology. It is in Finland which fits the location criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Linux/system-level troubleshooting, debugging issues across hardware and software) which falls outside Vineeth's domain.",
     "id": "d3bebc12",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/verda_senior_hardware_engineer__sw_h_d3bebc12.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCB Engineer",
@@ -43768,13 +43762,12 @@
     "url": "https://fi.linkedin.com/jobs/view/pcb-engineer-at-bittium-4422269717",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a PCB Engineer role, which does not fit the Semiconductor / VLSI / EDA domain focus.",
+    "reason": "The role is for a PCB Engineer position, which does not closely match Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "7d73ca45",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer, Digital",
@@ -43783,13 +43776,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-hardware-engineer-digital-at-keysight-technologies-4420739959",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on digital board designs rather than power integrity or VLSI/EDA areas.",
+    "reason": "The role is for a hardware engineer focused on digital board designs, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "3e55a935",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCB Engineer",
@@ -43798,13 +43790,12 @@
     "url": "https://fi.linkedin.com/jobs/view/pcb-engineer-at-bittium-4422272145",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a PCB Engineer position, which does not match with Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
+    "reason": "The role is for a PCB Engineer, which falls under general electronics design and manufacturing rather than the semiconductor/VLSI/EDA domains Vineeth specializes in.",
     "id": "ac1a118d",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Critical Environment Electrical Engineer",
@@ -43813,13 +43804,12 @@
     "url": "https://fi.linkedin.com/jobs/view/critical-environment-electrical-engineer-at-microsoft-4429299957",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Critical Environment Electrical Engineer at Microsoft, which does not match the Semiconductor/VLSI/EDA job search criteria.",
+    "reason": "The role is primarily focused on critical electrical infrastructure for data center environments, which does not directly match Vineeth's areas of Power Integrity and Advanced Packaging expertise.",
     "id": "69dc6701",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Development Engineer, MFG Tech",
