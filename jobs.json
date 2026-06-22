@@ -69185,14 +69185,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/performance-architect%E2%80%93-platform-architecture-at-apple-4419066186",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Performance Architect focused on platform architecture, not directly related to Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, and other key skills of Vineeth Prathapachandra Kaimal.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves platform architecture for Apple's next-generation GPUs and SoCs, which overlaps with power integrity and advanced packaging. However, it does not explicitly list Vineeth's key skills.",
     "id": "1f80b502",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Systems Security Engineer - Hardware / Firmware / SoC",
@@ -69200,14 +69199,13 @@
     "location": "Glasgow, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/embedded-systems-security-engineer-hardware-firmware-soc-at-european-tech-recruit-4430963068",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an Embedded Systems Security Engineer, which is not a match to the domain of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design that Vineeth Prathapachandra Kaimal specializes in.",
+    "matches_requirements": "maybe",
+    "reason": "The role is primarily hardware-focused with some overlap into firmware, but the candidate's background includes both hardware and software aspects.",
     "id": "9d7b3805",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Service Architect",
@@ -69216,13 +69214,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-service-architect-at-bae-systems-digital-intelligence-4428816816",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SOC Service Architect focusing on security operations rather than VLSI/EDA domains like Power Integrity, Advanced Packaging, or Physical Design.",
+    "reason": "The role is primarily focused on cybersecurity operations center design and architecture, which does not directly match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "b672a5e5",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Architect",
@@ -69231,13 +69228,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-architect-at-bae-systems-4429106109",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, not related to VLSI/EDA/semiconductor domain.",
+    "reason": "Requires a cybersecurity/security clearance, which is outside Vineeth's domain.",
     "id": "2269a56c",
     "source": "linkedin_uk_soc_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC 2 Staff Auditor- LATAM",
@@ -69246,13 +69242,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-2-staff-auditor-latam-at-insight-assurance-4405847952",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This SOC 2 Staff Auditor role is for a non-technical accounting/audit position, which does not match our technical semiconductor/VLSI/EDA job focus.",
+    "reason": "The role is primarily software development (IT audit engagements, GRC and compliance automation tools) which is outside Vineeth's domain.",
     "id": "ebe1dec4",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Security Architect",
@@ -69261,13 +69256,12 @@
     "url": "https://uk.linkedin.com/jobs/view/network-security-architect-at-io-associates-4429670337",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Network Security Architect, which does not match the target domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or SoC Design.",
+    "reason": "The role is a Network Security Architect focused on government and defense networks, which does not match Vineeth's background in Power Integrity, packaging, CAD tools and VLSI/SoC physical design.",
     "id": "d7b24d11",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Manager, Partner Portfolio and Partner Marketing - Asia OEMs",
@@ -69276,13 +69270,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87332?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a marketing position focused on AMD's CPU/GPU business, which does not directly match the VLSI/EDA technical job criteria.",
+    "reason": "The role is primarily focused on sales/marketing for AMD's CPU/GPU products, not technical work in semiconductor design/EDA. It doesn't fit Vineeth's domain.",
     "id": "5ae25e40",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Systems Design Engineer",
@@ -69290,14 +69283,13 @@
     "location": "Shanghai, China",
     "url": "https://careers.amd.com/careers-home/jobs/87364?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical requirements in Power Integrity/Signal Integrity, and Systems Design engineering.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily for a system design engineer focused on hardware bring-up and validation, rather than the technical leadership and CAD/EDA methodology roles Vineeth is best suited for.",
     "id": "050298c6",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_systems_design_engineer_050298c6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Product Engineer",
@@ -69305,14 +69297,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-product-engineer-at-graphcore-4416166474",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches Domain & Technical Area (Semiconductor Manufacturing) and Experience Level requirements for a Senior Leadership role.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "9a66c833",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/graphcore_principal_product_engineer_9a66c833.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -69321,13 +69312,12 @@
     "url": "https://uk.linkedin.com/jobs/view/product-engineer-at-microtech-global-ltd-4397607908",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Engineer, which does not match the target technical domains of Power Integrity, Advanced Packaging, or EDA/VLSI.",
+    "reason": "The role is primarily software development (embedded firmware) and is outside Vineeth's domain of expertise in Power Integrity, CAD Methodology, EDA tools for VLSI/semiconductor.",
     "id": "9e0580d7",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Applications Engineer Lead",
