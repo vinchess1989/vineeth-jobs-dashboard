@@ -12681,14 +12681,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/design-engineering-architect-at-cadence-4414498766",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior mid-level role at a semiconductor company using Cadence tools, fits VLSI domain but lacks specific Power Integrity focus. Closer match than fully remote worldwide roles.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (memory IP design) which is outside Vineeth's domain.",
     "id": "9edb9d50",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate III - VLSI",
@@ -12696,14 +12695,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/associate-iii-vlsi-at-ust-4399519303",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is an Associate III position with 3+ years experience in VLSI design and pre-silicon validation, matching the target entry-level role criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is an Associate III - VLSI, which matches less than 10 years of experience. Vineeth has over 15 years of experience and is looking for senior roles.",
     "id": "ab2543a5",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ust_associate_iii___vlsi_ab2543a5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineering, Staff Engineer",
@@ -12711,14 +12709,13 @@
     "location": "Bhubaneswar, Odisha, India",
     "url": "https://in.linkedin.com/jobs/view/r-d-engineering-staff-engineer-at-synopsys-inc-4424171898",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a Senior Engineering role with over 5 years of experience in RTL design for SoC and ASIC integration, which matches the target domains.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "69634fe9",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_r_d_engineering__staff_enginee_69634fe9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early/Mid-Career R&D Electronics Engineer - Integrated Circuit Test Engineer, Onsite",
@@ -12727,13 +12724,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=7348577222141fb2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for an HR position, which does not match our engineering/technical criteria.",
+    "reason": "The role is focused on integrated circuit testing and does not match Vineeth's areas of expertise in Power Integrity, Advanced Packaging, CAD methodology, etc.",
     "id": "0656f518",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineering Manager | SR WVB",
@@ -12742,13 +12738,12 @@
     "url": "https://www.glassdoor.com/job-listing/product-engineering-manager-sr-wvb-texas-instruments-JV_IC1133904_KO0,34_KE35,52.htm?jl=1010158095599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company.",
+    "reason": "The job is for a non-technical Product Engineering Manager role, which does not match Vineeth's technical background in Power Integrity and VLSI/EDA.",
     "id": "9fa32dd2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "product manager jobs in Phoenix, AZ",
@@ -12757,13 +12752,12 @@
     "url": "https://www.glassdoor.com/Job/phoenix-product-manager-jobs-SRCH_IL.0,7_IC1133904_KO8,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical product management role for a retail business, not a semiconductor/VLSI/EDA engineering position.",
+    "reason": "This is a non-technical product manager role at The Joint Chiropractic, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "e3383ecd",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Phoenix, AZ jobs",
@@ -12772,13 +12766,12 @@
     "url": "https://www.glassdoor.com/Job/phoenix-jobs-SRCH_IL.0,7_IC1133904.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "This is a general Phoenix, AZ jobs search result page on Glassdoor, not a specific engineering job posting matching Vineeth's background and requirements.",
     "id": "edd6adb9",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Texas Instruments jobs in Phoenix, AZ",
@@ -12787,43 +12780,40 @@
     "url": "https://www.glassdoor.com/Job/phoenix-texas-instruments-jobs-SRCH_IL.0,7_IC1133904_KO8,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for non-technical roles at Texas Instruments, so it doesn't match our target engineering/technical positions.",
+    "reason": "The job posting URL was for a Glassdoor listing and did not have a specific company, location, or application deadline. It appeared to be an error message about security blocking access, not an actual job.",
     "id": "e65729da",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industrial Engineer",
     "company": "Texas Instruments",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/industrial-engineer-texas-instruments-JV_IC1139977_KO0,19_KE20,37.htm?jl=1010149247348",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Industrial Engineer, which is a non-technical position not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is an Industrial Engineer position at Texas Instruments, which does not match Vineeth's technical background in VLSI/EDA. It is also a fully remote position.",
     "id": "4c27aa27",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "industrial engineer jobs in Dallas, TX",
-    "company": "Extract from page",
+    "company": "N/A (extract from page)",
     "location": "Dallas, TX, USA",
     "url": "https://www.glassdoor.com/Job/dallas-industrial-engineer-jobs-SRCH_IL.0,6_IC1139977_KO7,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an industrial engineer role, which does not match the technical domains required (Power Integrity/SI, Advanced Packaging/Thermal, CAD/Methodology, etc.).",
+    "reason": "This is a non-technical role for Industrial Engineering in Dallas, TX, USA. It does not match the semiconductor/VLSI/EDA technical domains required.",
     "id": "2095ef67",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer - Chelmsford, MA",
