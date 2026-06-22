@@ -57258,13 +57258,12 @@
     "url": "https://uk.linkedin.com/jobs/view/snr-digital-design-engineer-at-allegro-microsystems-4414643357",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role is a Senior Digital Design Engineer position at Allegro MicroSystems, which matches the target domain of Digital Design. It requires a PhD or Master's degree plus 6+ years' experience in digital design.",
+    "reason": "The role involves leading digital design for mixed-signal ICs, which aligns with Vineeth's CAD and methodology experience. However, there is no explicit mention of Power Integrity or Advanced Packaging.",
     "id": "8136a637",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-05-25",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff ASIC Design Engineer",
@@ -57272,14 +57271,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-asic-design-engineer-at-ic-resources-4428132644",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain technical area of ASIC Design with senior level and full-time role.",
+    "matches_requirements": "no",
+    "reason": "The job is a mid-senior level RTL design role, outside Vineeth's focus on power integrity and advanced packaging domains.",
     "id": "1f53cfe8",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ic_resources_staff_asic_design_engineer_1f53cfe8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Digital Design Engineer",
@@ -57287,14 +57285,13 @@
     "location": "Musselburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-digital-design-engineer-at-allegro-microsystems-4414646283",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior digital design position at an appropriate semiconductor company, located in Scotland.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with less than 15 years experience, but technical domain is relaxed for leadership roles.",
     "id": "a35c1958",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/allegro_microsystems_principal_digital_design_engin_a35c1958.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Digital IC Design Engineer",
@@ -57302,14 +57299,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-digital-ic-design-engineer-at-power-integrations-4425632239",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain (Power Integrity/Signal Integrity, VLSI), and location criteria (UK). Senior-level role with over 5 years' experience in digital IC design.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on digital IC design rather than power integrity, packaging or EDA/CAD methodology.",
     "id": "b4d59f3e",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/power_integrations_staff_digital_ic_design_engine_b4d59f3e.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -57317,14 +57313,13 @@
     "location": "Whiteley, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-microchip-technology-inc-4415774637",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with 5+ years experience, closely matches technical domains but lacks specifics on Power Integrity, CAD/Methodology. May match if additional skills are considered.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on digital design for touch controllers, which does not match Vineeth's core areas of power integrity and packaging. It leans more towards general IC/SOC design.",
     "id": "0eebaa3b",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff FPGA Engineer",
@@ -57333,13 +57328,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-fpga-engineer-at-oriole-4427512028",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA design for networking, which does not match the VLSI/EDA domain of Power Integrity and advanced packaging.",
+    "reason": "This role is primarily software-focused (host software interfaces, embedded systems) and does not match Vineeth's domain of Power Integrity/Signal Integrity, EDA tools, or VLSI physical design.",
     "id": "cb33b526",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -57348,13 +57342,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-drw-4424948553",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior FPGA Engineer, which does not match the required domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is software development focused rather than semiconductor/VLSI/EDA.",
     "id": "5e42020c",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-05-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff GPU Hardware Design Engineer",
@@ -57363,13 +57356,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-gpu-hardware-design-engineer-at-imagination-technologies-4384532887",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for GPU hardware design rather than VLSI/EDA/Packaging/PI domains targeted in the search criteria.",
+    "reason": "The role is for GPU hardware design, which does not match Vineeth's Power Integrity and Advanced Packaging focus.",
     "id": "50b938f9",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Designer",
@@ -57378,13 +57370,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-designer-at-mbda-4322229287",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA designer, which does not directly match the specified technical domains of Power Integrity (PI), Advanced Packaging / Thermal, and CAD / Methodology. The job requires experience with FPGA design, not the stated areas.",
+    "reason": "The role is primarily software engineering focused on C for FPGA test and integration with embedded systems, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or CAD Methodology.",
     "id": "226036d9",
     "source": "linkedin_uk_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff GPU Hardware Design Engineer",
@@ -57393,13 +57384,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-gpu-hardware-design-engineer-at-imagination-technologies-4384531893",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a GPU hardware design engineer, which does not match the VLSI/EDA job requirements.",
+    "reason": "This role is for GPU hardware design rather than Power Integrity, advanced packaging, or EDA tools.",
     "id": "977dc740",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Designer",
