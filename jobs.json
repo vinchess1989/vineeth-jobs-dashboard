@@ -1491,13 +1491,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=05826783a54bd3b4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Sr. EMIR Engineer role, which does not directly match the specified technical domains like Power Integrity (PI), Advanced Packaging, CAD/Methodology, or Physical Design.",
+    "reason": "The role is focused on machine learning hardware and software engineering, which does not directly match Vineeth's expertise in power integrity, advanced packaging, and VLSI/EDA.",
     "id": "4f0399d1",
     "source": "indeed_asic",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. EMIR Engineer, Annapurna Labs - Cloud Scale Machine Learning salaries in Austin, TX",
@@ -1506,13 +1505,12 @@
     "url": "https://www.indeed.com/career/machine-learning-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=05826783a54bd3b4&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Machine Learning Engineer, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "This position is for a software/ML engineer, which is outside Vineeth's primary technical domain of Power Integrity and Advanced Packaging.",
     "id": "362d1eb8",
     "source": "indeed_asic",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. EMIR Engineer, Annapurna Labs - Cloud Scale Machine Learning",
@@ -1521,28 +1519,26 @@
     "url": "https://www.indeed.com/viewjob?jk=789abcdef0123456",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Technical Program Manager, which is a non-technical leadership position. The job requirements do not fit the technical domains we are looking to match.",
+    "reason": "The role is for software development (cloud SDK, ML frameworks) and not focused on power integrity, packaging, or physical design.",
     "id": "a352965b",
     "source": "indeed_asic",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "For You",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A - Job Board Generic Listing",
+    "location": "N/A - Unknown Location",
     "url": "https://www.glassdoor.com/Job/index.htm?prevPage=serp",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job details are incomplete and do not match any specific criteria for a semiconductor/VLSI/EDA position.",
+    "reason": "The job posting does not match Vineeth's technical background and experience. It is a non-technical role focused on recruiting.",
     "id": "ec5d5efa",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Search",
@@ -1550,29 +1546,27 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/jobs-SRCH_IN1.htm",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The provided job description does not contain enough details to determine eligibility based on the specified criteria.",
     "id": "408bd406",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "industrial engineer jobs in Plantation, FL",
-    "company": "Extract from page",
+    "company": "Glassdoor",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/plantation-industrial-engineer-jobs-SRCH_IL.0,10_IC1166193_KO11,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an industrial engineer role, which does not match the semiconductor/VLSI/EDA technical domain.",
+    "reason": "Non-technical role at a semiconductor company",
     "id": "390ae9b4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Plantation, FL jobs",
@@ -1581,13 +1575,12 @@
     "url": "https://www.glassdoor.com/Job/plantation-jobs-SRCH_IL.0,10_IC1166193.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which we do not match.",
+    "reason": "The job posting is for a non-technical HR role, which does not match Vineeth's engineering background in Power Integrity and VLSI.",
     "id": "37d921ff",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Magic Leap jobs in Plantation, FL",
@@ -1596,13 +1589,12 @@
     "url": "https://www.glassdoor.com/Job/plantation-magic-leap-jobs-SRCH_IL.0,10_IC1166193_KO11,21.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided Glassdoor search link does not contain specific job postings matching the required domains and criteria. It is a general search result page for Magic Leap jobs in Plantation, FL.",
+    "reason": "The role is primarily software development focused on applications, which is outside Vineeth's domain.",
     "id": "35eb0374",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "industrial engineer jobs in Austin, TX",
@@ -1611,13 +1603,12 @@
     "url": "https://www.glassdoor.com/Job/austin-industrial-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an industrial engineer role, which does not match the semiconductor/VLSI/EDA technical domain.",
+    "reason": "The job is for an industrial engineer role at a non-technical level, which does not match Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "cfe50c79",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Austin, TX jobs",
@@ -1626,13 +1617,12 @@
     "url": "https://www.glassdoor.com/Job/austin-jobs-SRCH_IL.0,6_IC1139761.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search page for Austin jobs is too broad and does not specify a domain or technical area matching our target domains in Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership. It requires immediate rejection.",
+    "reason": "This is a broad search for Austin, TX jobs without specific details on the technical domain, experience level, or company type. It does not match Vineeth's profile.",
     "id": "21531170",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Magic Leap jobs in Austin, TX",
@@ -1641,28 +1631,26 @@
     "url": "https://www.glassdoor.com/Job/austin-magic-leap-jobs-SRCH_IL.0,6_IC1139761_KO7,17.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX, USA, which does not match the preferred locations of Finland, Europe (excluding Finland), UK, India, Asia, or fully remote positions.",
+    "reason": "The role is for a human resources position, which is outside Vineeth's technical domain.",
     "id": "e979b46c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Entry-Level Electronics Test Engineer",
-    "company": "Extract from page",
+    "company": "Odyssey Technical Solutions",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/entry-level-electronics-test-engineer-odyssey-technical-solutions-JV_IC1139794_KO0,37_KE38,65.htm?jl=1010168686169",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electronics Test Engineer, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "This is an entry-level electronics test engineer role, not a semiconductor/VLSI/EDA technical leadership position.",
     "id": "2fee4f0e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Round Rock, TX jobs",
@@ -1671,13 +1659,12 @@
     "url": "https://www.glassdoor.com/Job/round-rock-jobs-SRCH_IL.0,10_IC1139794.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Round Rock, TX, which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide positions.",
+    "reason": "The job is located in Round Rock, Texas, USA, which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote with worldwide eligibility. Additionally, it does not specify any technical domain relevant to Vineeth's background.",
     "id": "9a0f4e14",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Odyssey Technical Solutions jobs in Round Rock, TX",
@@ -1686,13 +1673,12 @@
     "url": "https://www.glassdoor.com/Job/round-rock-odyssey-technical-solutions-jobs-SRCH_IL.0,10_IC1139794_KO11,38.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Round Rock, TX, USA which does not match the preferred locations.",
+    "reason": "The job is located in Round Rock, TX which does not match the priority locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote with worldwide eligibility. The USA location combined with no mention of visa sponsorship or relocation makes this an explicit rejection.",
     "id": "0993c0f5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "technical support engineer jobs in Hillsboro, OR",
@@ -1701,13 +1687,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-technical-support-engineer-jobs-SRCH_IL.0,9_IC1151603_KO10,36.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role, not engineering/technical as required.",
+    "reason": "The job is for a technical support engineer, which is non-technical and does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "870d3630",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hillsboro, OR jobs",
