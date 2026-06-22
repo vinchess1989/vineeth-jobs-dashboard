@@ -65308,13 +65308,12 @@
     "url": "https://de.linkedin.com/jobs/view/mixed-signal-designer-m-f-d-at-keysight-technologies-3915430138",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for mixed-signal IC design for test and measurement equipment, which does not fully match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "This is a mixed-signal IC design role, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "26844dea",
     "source": "linkedin_eu_asic_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Working Student (all genders) - Shape Europe\u2019s Chip Future: Join the Virtual ASIC Team",
@@ -65323,13 +65322,12 @@
     "url": "https://de.linkedin.com/jobs/view/working-student-all-genders-shape-europe%E2%80%99s-chip-future-join-the-virtual-asic-team-at-fraunhofer-iis-4403434303",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a working student position with no leadership roles, and is focused on customer support rather than technical leadership in Power Integrity or Advanced Packaging domains.",
+    "reason": "The role is a general working student position with focus on customer support and design submission tasks, not matching Vineeth's technical leadership expertise in PI/SI/Advanced Packaging/CAD.",
     "id": "00b21a28",
     "source": "linkedin_eu_asic_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital FE Design Engineer",
@@ -65337,14 +65335,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/senior-digital-fe-design-engineer-at-imec-in-vlaanderen-4427318269",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits a Senior Engineer position with 5+ years experience in ASIC FE design, matching key skills and technologies mentioned.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on verification (RTL/gate-level simulation, testbench development) rather than PI/SI/physical design.",
     "id": "aadae183",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2026-06-07",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/imec_in_vlaanderen_senior_digital_fe_design_engin_aadae183.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Analog Designer & Data Scientist",
@@ -65353,13 +65350,12 @@
     "url": "https://it.linkedin.com/jobs/view/r-d-analog-designer-data-scientist-at-move-silicon-4427985280",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an R&D role with a mix of analog design and data science, which does not directly match the target semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development (AI, machine learning, data science) rather than semiconductor VLSI/EDA design.",
     "id": "8baf0195",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Concepteur FPGA F/H",
@@ -65368,13 +65364,12 @@
     "url": "https://fr.linkedin.com/jobs/view/concepteur-fpga-f-h-at-l-usine-nouvelle-4029009838",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Concepteur FPGA, focused on ASIC/FPGA design and integration with VHDL/Simulation tools. It does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for a Concepteur FPGA/ASIC position, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "effb4390",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD Engineer Interior parts | Automotive",
@@ -65383,13 +65378,12 @@
     "url": "https://es.linkedin.com/jobs/view/cad-engineer-interior-parts-automotive-at-itera-mobility-engineering-4429246137",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical CAD Engineer role for automotive interior design, not related to semiconductor/VLSI/EDA.",
+    "reason": "Not a technical engineering role, matches only CAD skills but not semiconductor/VLSI/EDA domain.",
     "id": "5acf1ea4",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2026-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog/Mixed-Signal IC Design Engineer - New College Graduate Hire",
@@ -65398,13 +65392,12 @@
     "url": "https://pt.linkedin.com/jobs/view/analog-mixed-signal-ic-design-engineer-new-college-graduate-hire-at-omni-design-technologies-inc-4408067194",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a new college graduate, which does not match the 15+ years of experience required in the candidate profile.",
+    "reason": "The job is for Analog/Mixed-Signal IC Design, which doesn't match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "e048e522",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2026-05-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application-Specific Integrated Circuit Designer",
@@ -65413,13 +65406,12 @@
     "url": "https://pt.linkedin.com/jobs/view/application-specific-integrated-circuit-designer-at-langham-recruitment-4420720626",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Application-Specific Integrated Circuit Designer, which does not match the VLSI/EDA domains of interest.",
+    "reason": "The role is primarily digital IC/ASIC design which does not match Vineeth's domain of Power Integrity, Advanced Packaging.",
     "id": "f22c0128",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Full Custom Analog Layout Engineer",
@@ -65427,14 +65419,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/full-custom-analog-layout-engineer-at-imec-4422258118",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an Associate level Analog Layout Engineer, which does not match the candidate's 15+ years of experience and leadership background.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "8ec80050",
     "source": "linkedin_eu_asic_design_p2",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Analog Designer Senior H/F",
@@ -65442,14 +65433,13 @@
     "location": "Meyreuil, Provence-Alpes-C\u00f4te d'Azur, France",
     "url": "https://fr.linkedin.com/jobs/view/analog-designer-senior-h-f-at-xdigit-4425308236",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an Analog Designer, which does not match with Vineeth's technical background in Power Integrity and VLSI.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "8b0da4b6",
     "source": "linkedin_eu_asic_design_p2",
-    "posted_date": "2023-06-01",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Technology Field Application Engineer \u2013 FPGA",
