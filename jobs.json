@@ -66568,13 +66568,12 @@
     "url": "https://uk.linkedin.com/jobs/view/founding-designer-design-engineer-at-well-funded-agentic-ai-startup-at-jack-jill-4430069232",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a multidisciplinary designer-engineer focused on AI/UX rather than semiconductor/VLSI/EDA domains.",
+    "reason": "The job is for a multidisciplinary designer-engineer role focused on product design and user experience, which does not match Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, or EDA tools.",
     "id": "078082aa",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Skilled Engineer",
@@ -66583,13 +66582,12 @@
     "url": "https://uk.linkedin.com/jobs/view/skilled-engineer-at-yeo-valley-production-ltd-4429250672",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Skilled Engineer position at Yeo Valley Production Ltd, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is for an engineering position at a dairy company, not semiconductor/VLSI/EDA.",
     "id": "56ec9528",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -66598,28 +66596,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-premier-group-4429590853",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical design engineer with CAD skills in SolidWorks, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is non-technical (Mechanical Design Engineer) and does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "d8314ff2",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Design Engineer",
-    "company": "Ingredient Batching Systems",
-    "location": "Wootton, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-ingredient-batching-systems-4429506989",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires mechanical design skills for handling powders and bulk solids, which does not match our target VLSI/EDA/semiconductor technical domains.",
-    "id": "692b1318",
-    "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "2026-05-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU RTL Design Engineer",
@@ -66628,13 +66610,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cpu-rtl-design-engineer-at-european-tech-recruit-4425985922",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an RTL Design Engineer position focused on CPU verification, not a role directly working in Power Integrity (PI) or Advanced Packaging as the candidate does.",
+    "reason": "This role is primarily RTL design and verification for CPU micro-architecture, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "fa41facd",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer (EU/UK Based - Remote)",
@@ -66643,13 +66624,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-eu-uk-based-remote-at-duvo-ai-4412957463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a design engineer role which involves both UI/UX design and frontend engineering, rather than focusing on semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is primarily software development focused on AI agents executing work, which falls outside Vineeth's main areas of Power Integrity and Advanced Packaging.",
     "id": "83e96387",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photonics Design Engineer",
@@ -66658,13 +66638,12 @@
     "url": "https://uk.linkedin.com/jobs/view/photonics-design-engineer-at-salience-labs-4417141968",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This photonics design role is focused on integrated photonic components for PICs and does not match the semiconductor/VLSI/EDA domains of Power Integrity, Advanced Packaging, CAD Methodology.",
+    "reason": "The role is focused on photonics design and does not match Vineeth's background in Power Integrity, CAD methodology, or VLSI/SoC physical design.",
     "id": "19cff5be",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior Design Engineer - On Site Only",
@@ -66673,13 +66652,12 @@
     "url": "https://uk.linkedin.com/jobs/view/junior-design-engineer-on-site-only-at-microspec-corporation-4426491135",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical mechanical design role at an extrusion tooling company, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is for mechanical extrusion tooling design, which does not match Vineeth's VLSI/EDA background in power integrity and advanced packaging.",
     "id": "b4dd397b",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-05-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -66687,14 +66665,13 @@
     "location": "Harwell, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-oxford-dynamics-4400556779",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Design Engineer position at Oxford Dynamics, which fits the target Domain & Technical Area of Physical Design and EDA Tools. The candidate has 15 years of experience in Power Integrity (PI) and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role requires eligibility for UK security clearance, which is a hard rejection per the requirements.",
     "id": "6c598fee",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-03-02",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/oxford_dynamics_design_engineer_6c598fee.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design And Development Engineer",
@@ -66703,13 +66680,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-and-development-engineer-at-listgrove-ltd-4426815470",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design & Development Engineer in the plastics industry, not related to VLSI/EDA/semiconductor.",
+    "reason": "The role is for a Design & Development Engineer in plastics manufacturing, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "78115e78",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
