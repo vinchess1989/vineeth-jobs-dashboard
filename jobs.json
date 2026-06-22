@@ -26863,14 +26863,13 @@
     "location": "Taichung City, Taiwan",
     "url": "https://micron.eightfold.ai/careers/job/30362803",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role is in semiconductor manufacturing, but doesn't specify exact technical domain matches for Vineeth's experience.",
     "id": "f3c05747",
     "source": "micron_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT UI/UX Designer",
@@ -26893,13 +26892,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-UI-UX-Designer%2F5400",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical UX designer role at TSMC, which does not fit the semiconductor/VLSI/EDA technical profile.",
+    "reason": "The role is a UI/UX Designer, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "dd48e034",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Solidworks Design Engineer",
@@ -26908,13 +26906,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-solidworks-design-engineer-at-invio-automation-4430735556",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "The job is for SolidWorks design of automotive tooling and automation equipment, well outside Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, thermal analysis and EDA tools.",
     "id": "9daaa67e",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process & Equipment EngineerSingapore, SingaporePosted 3 months ago",
@@ -26923,13 +26920,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40900169",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a process engineer role at Micron, which falls outside our technical focus on semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Process & Equipment Engineer in Micron's semiconductor manufacturing, which does not match Vineeth's background and skills in Power Integrity, CAD Methodology, EDA tools, etc.",
     "id": "9644c222",
     "source": "micron_careers",
     "posted_date": "2023-05-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff HBM Component Validation EngineerSingapore, SingaporePosted 3 months ago",
@@ -26938,13 +26934,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40904947",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Staff Engineer position in HBM component validation, which does not match the technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, or CAD/Methodology that are the priority areas for this job search.",
+    "reason": "The role is primarily focused on validating high bandwidth memory (HBM) components and developing test programs for HBM validation, which doesn't align with Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, and thermal analysis. Additionally, the job is located in Singapore.",
     "id": "74d36f31",
     "source": "micron_careers",
     "posted_date": "2023-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Package Device Product Engineer (PDPE) EngineerGujarat, IndiaPosted 7 days ago",
@@ -26953,13 +26948,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42281328",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Gujarat, India which does not match our target locations of Finland, Europe (excluding Finland), UK, England, Scotland, Ireland, India, Asia (e.g. Taiwan, South Korea, Singapore) or fully remote with worldwide eligibility.",
+    "reason": "This role is within Micron's Package Development Engineering (PDE) group, focusing on package and assembly-related tasks. It does not directly match Vineeth's areas of expertise in Power Integrity and Advanced Packaging for SoC design.",
     "id": "9ba60a41",
     "source": "micron_careers",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer / Senior Engineer, SSD ValidationHyderabad, Telangana, IndiaPosted 3 months ago",
@@ -26967,14 +26961,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://micron.eightfold.ai/careers/job/38846499",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is an SSD Validation Engineer position with 3+ years of validation experience required, matching the target job criteria.",
+    "matches_requirements": "no",
+    "reason": "This role is for SSD validation firmware engineering, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "85523a6a",
     "source": "micron_careers",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology__i_engineer___senior_engineer__ss_85523a6a.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "R&D Advanced Tool and Module Process Engineer",
@@ -26983,13 +26976,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=324&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an R&D Advanced Tool and Module Process Engineer, which does not match the specified domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
+    "reason": "The role is an R&D process engineer for IC fabrication, focused on module development and equipment research rather than Vineeth's domains of power integrity, advanced packaging, SoC PDN sign-off.",
     "id": "4f97c115",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-17",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -26998,13 +26990,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Advanced-Tool-and-Module-Process-Engineer%2F324",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which violates the hard rejection criteria.",
+    "reason": "The role is an engineering position focused on advanced tool and module process development, which does not directly match Vineeth's power integrity and packaging expertise. It also doesn't specify a location.",
     "id": "0c96e07b",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Test and Product Engineer",
@@ -27013,13 +27004,12 @@
     "url": "https://www.glassdoor.com/job-listing/electrical-test-and-product-engineer-heico-JV_IC1147442_KO0,36_KE37,42.htm?jl=1010164829697",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This electrical test and product engineering role is a non-technical position at a semiconductor company, which does not match our job search requirements.",
+    "reason": "The role is primarily focused on electrical test engineering for a company that manufactures aerospace parts, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "126decf1",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "product engineer jobs in Sunnyvale, CA",
