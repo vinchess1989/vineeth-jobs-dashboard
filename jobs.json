@@ -25380,13 +25380,12 @@
     "url": "https://uk.linkedin.com/jobs/view/kotra-london-global-high-tech-talent-connect-start-your-career-in-korea%21-at-kotra-global-talent-center-4356405322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role at a semiconductor company.",
+    "reason": "This is a general talent connect program for global high-tech industries, not a specific technical role in semiconductor/VLSI/EDA.",
     "id": "87df927e",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logistics Manager",
@@ -25395,13 +25394,12 @@
     "url": "https://uk.linkedin.com/jobs/view/logistics-manager-at-forefront-rf-4428816160",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a logistics manager position at a semiconductor company, but the focus is on manufacturing and operations rather than power integrity, VLSI/EDA, or CAD.",
+    "reason": "This logistics management role at Forefront RF is outside Vineeth's technical domain of power integrity, VLSI/EDA, and semiconductor manufacturing.",
     "id": "da062efe",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lighting Equipment Technician - Direct Digital London",
@@ -25410,13 +25408,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lighting-equipment-technician-direct-digital-london-at-panavision-4424853972",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Lighting Equipment Technician at Panavision, which does not fit the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for a Lighting Equipment Technician at a photographic equipment rental facility, which is outside Vineeth's semiconductor/VLSI/EDA technical domain.",
     "id": "afe18a13",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "New Product Introduction Project Manager",
@@ -25425,13 +25422,12 @@
     "url": "https://uk.linkedin.com/jobs/view/new-product-introduction-project-manager-at-scalian-4384317451",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a project manager for new product introduction, which does not match any of the technical domains in the candidate's background.",
+    "reason": "The role is primarily non-technical project management for NPI in Aerospace, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "0b345b5f",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Researcher",
@@ -25440,13 +25436,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-researcher-at-mediatek-4412977299",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Senior Researcher role is focused on AI research rather than semiconductor VLSI EDA engineering.",
+    "reason": "The role is focused on AI research for semiconductor design and optimization, which does not strongly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "2f040701",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NPI Engineer",
@@ -25454,14 +25449,13 @@
     "location": "Sedgefield, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/npi-engineer-at-filtronic-4384812137",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches target domain of Power Integrity (PI) / Signal Integrity (SI).",
+    "matches_requirements": "no",
+    "reason": "This role is for New Product Introduction (NPI) Engineer in RF and microwave product manufacturing, which falls outside Vineeth's primary domains of expertise in Power Integrity, Advanced Packaging, CAD Methodology.",
     "id": "4936b84f",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-03-24",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/filtronic_npi_engineer_4936b84f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Engineer",
@@ -25470,13 +25464,12 @@
     "url": "https://uk.linkedin.com/jobs/view/quality-engineer-at-isdi-limited-4417748555",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Quality Engineer, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The role is a Quality Engineer focused on manufacturing processes and quality control, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "2f55f81e",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-05-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer (f/m/d)",
@@ -25485,13 +25478,12 @@
     "url": "https://uk.linkedin.com/jobs/view/application-engineer-f-m-d-at-renesas-electronics-4420290711",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This position is for an Application Engineer at Renesas Electronics, a semiconductor company with relevant technical domains.",
+    "reason": "Matches the Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, EDA tools domain.",
     "id": "52676466",
     "source": "linkedin_semi_uk",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_application_engineer__f_m_d__52676466.txt",
-    "needs_re_review": true
+    "posted_date": "2023-06-19",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_application_engineer__f_m_d__52676466.txt"
   },
   {
     "title": "Nanofabrication Technician",
@@ -25500,13 +25492,12 @@
     "url": "https://uk.linkedin.com/jobs/view/nanofabrication-technician-at-oxford-quantum-circuits-oqc-4418160306",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Nanofabrication Technician, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "This is a hands-on technician role for nanofabrication, not related to semiconductor VLSI EDA.",
     "id": "232f938e",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Planner",
@@ -25515,13 +25506,12 @@
     "url": "https://uk.linkedin.com/jobs/view/production-planner-at-filtronic-4415288317",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Production Planner, which is an administrative/operations position rather than a technical engineering role in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Production Planner, not a technical engineering/technical leadership position in semiconductor/VLSI/EDA.",
     "id": "731db249",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applications Engineer UK",
