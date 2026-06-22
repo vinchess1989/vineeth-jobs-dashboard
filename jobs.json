@@ -66694,13 +66694,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-vvd-4386318007",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a design engineer role, which does not match the technical domains targeted in the candidate profile.",
+    "reason": "The role is primarily focused on design and implementation of features, but lacks specific technical requirements in Power Integrity, Advanced Packaging, or EDA tools.",
     "id": "8abd472d",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-03-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer | London, On-site",
@@ -66709,13 +66708,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-london-on-site-at-c-d-talent-advisory-academy-4422772635",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Engineer working on AI-powered software, not related to VLSI/EDA.",
+    "reason": "This is a product design role focused on AI-powered software, not semiconductor/VLSI/EDA.",
     "id": "3b13572f",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design & Development Engineer",
@@ -66724,13 +66722,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-development-engineer-at-national-gas-4429101886",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design & Development Engineer focused on infrastructure and utilities, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Design & Development Engineer at a utility company, which does not match the semiconductor/VLSI/EDA domain.",
     "id": "e8382365",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AV Design Engineer",
@@ -66739,13 +66736,12 @@
     "url": "https://uk.linkedin.com/jobs/view/av-design-engineer-at-auxo-talent-4425872594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AV design engineer focused on enterprise meeting rooms, not semiconductor/VLSI/EDA related.",
+    "reason": "The role is in AV systems design and engineering for meeting rooms, which does not match Vineeth's background in semiconductor Power Integrity, VLSI, EDA.",
     "id": "294ce5a7",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Design Engineer",
@@ -66753,14 +66749,13 @@
     "location": "Narborough, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/project-design-engineer-at-listgrove-ltd-4426815423",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves technical leadership and delivery of sealing projects, fitting the Project Design Engineer title.",
+    "matches_requirements": "no",
+    "reason": "The role is more focused on general design and project management, rather than the semiconductor/VLSI/EDA-specific domains Vineeth specializes in.",
     "id": "c0f946a7",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-11-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/listgrove_ltd_project_design_engineer_c0f946a7.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer, UK",
@@ -66769,13 +66764,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-uk-at-ashby-4427227339",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Senior leadership role with significant experience, but not a direct technical match for their background.",
+    "reason": "The role is a Senior Leadership position with a strong match on technical skills but unclear location",
     "id": "ebc92e55",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Design Engineer",
@@ -66783,14 +66777,13 @@
     "location": "Leatherhead, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/lead-design-engineer-at-esp-utilities-group-ltd-4429240239",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain (Power Integrity/SI, CAD/Methodology) and location (UK). Senior role with over 15 years experience.",
+    "matches_requirements": "no",
+    "reason": "The job is for an electric network design role at a utilities company, which does not match Vineeth's semiconductor/VLSI/EDA background. It also has no mention of power integrity, advanced packaging, or EDA tools.",
     "id": "7b1a44b4",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/esp_utilities_group__lead_design_engineer_7b1a44b4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Design Civil Engineer",
@@ -66799,13 +66792,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-design-civil-engineer-at-ferrovial-construction-4398506830",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a civil engineering graduate role, not semiconductor/VLSI/EDA related.",
+    "reason": "The role is a civil engineering design position, not related to semiconductor/VLSI/EDA domain.",
     "id": "b1ff164f",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Multi-Skilled Engineer",
@@ -66814,13 +66806,12 @@
     "url": "https://uk.linkedin.com/jobs/view/multi-skilled-engineer-at-the-bread-factory-4426804696",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical multi-skilled maintenance engineering role at a bakery, which does not match the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The role is a maintenance engineer position at a bakery company, which does not fit Vineeth's semiconductor/VLSI/EDA background and experience.",
     "id": "707d7b0a",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Suspension Design Engineer",
@@ -66829,13 +66820,12 @@
     "url": "https://uk.linkedin.com/jobs/view/suspension-design-engineer-at-multimatic-4429704211",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Design Engineer focused on suspension systems, and does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is for Mechanical Engineering design, not semiconductor/VLSI/EDA.",
     "id": "ba326b8e",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-05-25",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FOUNDING ENGINEER - DESIGN",
