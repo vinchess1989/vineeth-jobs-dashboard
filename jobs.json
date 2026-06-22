@@ -23741,14 +23741,13 @@
     "location": "Oulu, FIN",
     "url": "https://builtin.com/job/senior-embedded-software-engineer/9649871",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical leadership position at an AI semiconductor startup in Finland, matching key criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain of expertise.",
     "id": "8fd7fb9b",
     "source": "builtin_semi",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/alif_semiconductor__senior__embedded_software_eng_8fd7fb9b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Senior) Design Verification Engineer",
@@ -23756,29 +23755,27 @@
     "location": "Oulu, FIN",
     "url": "https://builtin.com/job/senior-design-verification-engineer/8781702",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain expertise in Design Verification, located in Finland as required.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "4903ed46",
     "source": "builtin_semi",
     "posted_date": "2023-05-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/alif_semiconductor__senior__design_verification_e_4903ed46.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hybrid Jobs",
-    "company": "Extract from page",
+    "company": "Zynga",
     "location": "Helsinki, Finland",
     "url": "https://builtin.com/jobs/hybrid",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job posting is for a variety of hybrid roles at companies across different industries, not specific to semiconductor/VLSI/EDA.",
+    "reason": "The role is a marketing position focusing on video artistry, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "a722487b",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Tech Jobs",
@@ -23787,13 +23784,12 @@
     "url": "https://builtin.com/jobs/remote",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job postings listed are for a wide variety of non-technical roles, primarily in marketing, sales, customer success, and business development. They do not match the semiconductor/VLSI/EDA industry focus required.",
+    "reason": "The role is for a .NET Developer, which is software development and outside Vineeth's domain of VLSI/EDA.",
     "id": "e89ae90a",
     "source": "builtin_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": ".NET Developer Jobs",
@@ -23802,13 +23798,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/net",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a .NET developer role, not related to semiconductor/VLSI/EDA",
+    "reason": "This is a .NET Developer role, which does not match Vineeth's background and skills in Power Integrity and VLSI/EDA.",
     "id": "8d010f55",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Account Executive (AE) Jobs",
@@ -23817,13 +23812,12 @@
     "url": "https://builtin.com/jobs/sales/account-executive",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Account Executive position at Spectrum, which does not align with the technical requirements in Power Integrity, Advanced Packaging, VLSI/EDA domains.",
+    "reason": "This is an Account Executive role in sales, not related to semiconductor/VLSI/EDA engineering.",
     "id": "16fe2cdc",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Account Manager (AM) Jobs",
@@ -23832,13 +23826,12 @@
     "url": "https://builtin.com/jobs/sales/account-management",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a sales role for account management, not a technical engineering position related to semiconductors/VLSI/EDA.",
+    "reason": "The role is primarily sales and customer-facing, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "e9539694",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Accounting Manager Jobs",
@@ -23847,13 +23840,12 @@
     "url": "https://builtin.com/jobs/finance/search/accounting-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Accounting Manager role, which does not match the technical positions in semiconductor/VLSI/EDA domain.",
+    "reason": "This is an accounting/finance management role, not a technical semiconductor/VLSI/EDA engineering position.",
     "id": "0cd1fcb0",
     "source": "builtin_semi",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Administrative Assistant Jobs",
@@ -23862,13 +23854,12 @@
     "url": "https://builtin.com/jobs/operations/search/administrative-assistant",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Administrative Assistant role, which does not match the semiconductor/VLSI/EDA technical profile.",
+    "reason": "The role is non-technical (Administrative Assistant) and outside Vineeth's domain.",
     "id": "002d5d2b",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Aerospace Thermal Engineering Jobs",
@@ -23877,13 +23868,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/thermal-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Aerospace Thermal Engineer, which does not match the specified technical domains of Power Integrity (PI), Advanced Packaging, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership in the semiconductor/VLSI/EDA industry.",
+    "reason": "The job is for an aerospace thermal engineer, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "d6071361",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Engineer Jobs",
