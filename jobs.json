@@ -49096,13 +49096,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-physical-design-feasibility-engineer-at-samsung-semiconductor-4358720978",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Austin, Texas which does not match the top priority regions of Finland, UK, India, Asia, or fully remote positions.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "cee67330",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49110,14 +49109,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-broadcom-4372860142",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves top level floor planning, partitioning, clocking and pin assignment, which matches the candidate profile. The experience required (12+ years for Bachelors or 10+ years for Masters) is within the target range of 10-15+ years.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (testbench development, formal verification) which falls outside Vineeth's domain.",
     "id": "6d1a92a5",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/broadcom_physical_design_engineer_6d1a92a5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical IC Design Engineer",
@@ -49126,13 +49124,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-ic-design-engineer-at-broadcom-4430038823",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires working in person at Broadcom's San Jose location, which does not match the preference for Finland, Europe, UK, India, Asia, or fully remote positions.",
+    "reason": "The job is an IC design engineer position, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "43a290f6",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PD - Principal, Physical Design",
@@ -49140,14 +49137,13 @@
     "location": "San Francisco, CA",
     "url": "https://www.linkedin.com/jobs/view/pd-principal-physical-design-at-eliyan-corporation-4427633621",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a senior physical design position at an ASIC startup, which does match some of the technical domains but doesn't fully align with the leadership focus we're looking for.",
+    "matches_requirements": "maybe",
+    "reason": "Seniority level matches 10-15 years of experience, and it's a Principal Engineer role at an early-stage semiconductor startup. However, no specific domain skills like PI/SI or physical design are mentioned in the job description.",
     "id": "53716ae6",
     "source": "linkedin_ww_physical_design_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Physical Security",
@@ -49156,13 +49152,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-physical-security-at-netflix-4412806987",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at an entertainment company, not engineering/technical in semiconductor/VLSI/EDA domain.",
+    "reason": "This role is for a Netflix Manager position, which is non-technical and therefore does not match Vineeth's domain.",
     "id": "4b9bee4b",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Engineer, Platform and Devices, University Graduate, 2026",
@@ -49171,13 +49166,12 @@
     "url": "https://in.linkedin.com/jobs/view/silicon-engineer-platform-and-devices-university-graduate-2026-at-google-4415651855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level university graduate position, not a senior technical leadership role.",
+    "reason": "This is an entry-level university graduate position, not a technical leadership role with 10+ years of relevant experience.",
     "id": "fcb677cc",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Document Controller",
@@ -49186,13 +49180,12 @@
     "url": "https://in.linkedin.com/jobs/view/document-controller-at-tata-housing-development-company-limited-4428221155",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Document Controller position in real estate, which does not match the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical real estate administrative role, not related to semiconductor/VLSI/EDA.",
     "id": "6d25ad7b",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer (Bengaluru) - T&D",
@@ -49200,14 +49193,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-bengaluru-t-d-at-burns-mcdonnell-india-4119832660",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a Physical Design Engineer position with experience in substation design, which fits the target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is for electrical substation primary design, which is unrelated to Vineeth's domain of semiconductor VLSI EDA physical design.",
     "id": "1bbc0779",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/burns___mcdonnell_in_physical_design_engineer__beng_1bbc0779.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design engineer",
@@ -49216,13 +49208,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-nxp-semiconductors-4430131092",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level position with less than 10 years experience, which does not match the senior leadership target.",
+    "reason": "The role is primarily focused on general design methodologies and tools, which does not strongly match Vineeth's deep domain expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off, etc. Also, it's a mid-senior level position in India rather than a senior leadership role.",
     "id": "367d96f4",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-05-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Function Lead",
@@ -49231,13 +49222,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-function-lead-at-aion-silicon-4413883192",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Physical Design role with relevant technical expertise and experience, at a semiconductor startup.",
+    "reason": "Senior leadership role with strong Physical Design focus matches candidate profile",
     "id": "f9b58415",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/aion_silicon_physical_design_function_lead_f9b58415.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/aion_silicon_physical_design_function_lead_f9b58415.txt"
   },
   {
     "title": "Physical design engineer",
