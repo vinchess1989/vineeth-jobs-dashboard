@@ -13228,28 +13228,26 @@
     "url": "https://www.glassdoor.com/job-listing/maintenance-engineer-x-bow-systems-JV_IC1139782_KO0,20_KE21,34.htm?jl=1010156439473",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Maintenance Engineer role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is for a Maintenance Engineer, which falls under non-technical roles and is not within Vineeth's domain.",
     "id": "ae83be6c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "maintenance engineer jobs in Luling, TX",
-    "company": "Extract from page",
+    "company": "Comfort Suites",
     "location": "Luling, TX, USA",
     "url": "https://www.glassdoor.com/Job/luling-maintenance-engineer-jobs-SRCH_IL.0,6_IC1139782_KO7,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a maintenance engineer position, not related to semiconductor/VLSI/EDA technical domains.",
+    "reason": "This is a Hotel Maintenance Engineer position at Comfort Suites, which is not semiconductor/VLSI/EDA related.",
     "id": "52f6d334",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Luling, TX jobs",
@@ -13258,13 +13256,12 @@
     "url": "https://www.glassdoor.com/Job/luling-jobs-SRCH_IL.0,6_IC1139782.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is not within the semiconductor/VLSI/EDA industry, and the location is in Texas, USA, which does not match the preferred locations.",
+    "reason": "The URL provided is for a Glassdoor search page, not a specific job posting. No actual job description or requirements are given.",
     "id": "06254b3b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "X-Bow Systems jobs in Luling, TX",
@@ -13273,13 +13270,12 @@
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=X-Bow+Systems&sc.locationSeoString=Luling&locId=1139782&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a Glassdoor error page with no actual job details, making it impossible to evaluate against the given criteria.",
+    "reason": "The job is a contract role at X-Bow Systems, which is a consultancy focused on semiconductor design services. It does not match Vineeth's background in Power Integrity and EDA.",
     "id": "cbef2e00",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electrical Component Engineer / Electrical Engineer (Level II)",
@@ -13288,13 +13284,12 @@
     "url": "https://www.glassdoor.com/job-listing/electrical-component-engineer-electrical-engineer-level-ii-lockheed-martin-JV_IC1148176_KO0,58_KE59,74.htm?jl=1010157907755",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Electrical Component Engineer) at a aerospace/defense company, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is non-technical and does not match Vineeth's expertise in semiconductor/VLSI/EDA.",
     "id": "ed1702fe",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "electrical engineer jobs in Englewood, CO",
@@ -13303,13 +13298,12 @@
     "url": "https://www.glassdoor.com/Job/englewood-electrical-engineer-jobs-SRCH_IL.0,9_IC1148176_KO10,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an electrical engineer role at a company located in Englewood, CO, USA. It requires residency within 50 miles of the office and does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for an electrical engineer role, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f8d09127",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Englewood, CO jobs",
@@ -13317,14 +13311,13 @@
     "location": "Englewood, CO, USA",
     "url": "https://www.glassdoor.com/Job/englewood-jobs-SRCH_IL.0,9_IC1148176.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job listing is for multiple positions at various companies in Englewood, CO area. It does not specify a particular company or technical role matching the target domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "9576a094",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Lead GPU Formal Verification Engineer",
@@ -13333,13 +13326,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87249?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a GPU Formal Verification Engineer, which does not directly match the semiconductor/VLSI/EDA job requirements listed.",
+    "reason": "The role is primarily verification (simulation, testbench development), which is outside Vineeth's domain.",
     "id": "ca013b8a",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Talent Incubation Specialist",
@@ -13348,13 +13340,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16822&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Talent Incubation Specialist role which does not fit into our semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is focused on talent engagement, marketing and HR initiatives rather than technical roles in semiconductor VLSI EDA.",
     "id": "2dbb4eda",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u9ad8\u96c4\u5ee0F22\u62db\u52df \u7b49\u4f60\u4e00\u8d77\u5927\u5c55\u8eab\u624b",
@@ -13363,13 +13354,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18770&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Taiwan which does not match the target regions of Finland, UK, India, Asia, Europe, US with visa sponsorship.",
+    "reason": "The job is in Taiwan, which doesn't match Vineeth's preferred locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia (e.g. Taiwan, South Korea, Singapore), or fully remote positions.",
     "id": "c422c434",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Quality & Reliability Engineer (Q&R)",
