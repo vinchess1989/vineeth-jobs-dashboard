@@ -63236,13 +63236,12 @@
     "url": "https://www.linkedin.com/jobs/view/deputy-chief-technology-officer-at-stealth-startup-4421153251",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The Deputy CTO role matches the domain of advanced packaging and engineering leadership, with experience in algorithmic trading infrastructure.",
+    "reason": "Senior leadership role with technology operations, platform consolidation and data strategy mentioned - matches relaxed domain criteria for a Deputy Chief Technology Officer.",
     "id": "794a2838",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/stealth_startup_deputy_chief_technology_office_794a2838.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/stealth_startup_deputy_chief_technology_office_794a2838.txt"
   },
   {
     "title": "System Architect",
@@ -63251,13 +63250,12 @@
     "url": "https://ie.linkedin.com/jobs/view/system-architect-at-software-placements-4419884193",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software architect position focused on SoC design and embedded systems, which does not align with the semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for a Systems Architect role, which involves computer architecture and system design for SoC products in smartphones, tablets, cameras, wearables, IoT, and automotive. It requires expertise in areas like digital SoC systems, CPU, DSP, GPU, machine learning, multimedia, compute performance and power. This does not match the semiconductor/VLSI/EDA job search requirements which focus on Power Integrity (PI), Advanced Packaging, CAD Methodology, EDA Tools, VLSI/SoC Design, or Engineering Leadership roles.",
     "id": "2f183d27",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63266,13 +63264,12 @@
     "url": "https://fr.linkedin.com/jobs/view/security-engineer-at-air-apps-4407859666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical security engineer role at a software company, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "This is a non-technical security role for an application planner, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "da6ea5fc",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63281,13 +63278,12 @@
     "url": "https://pt.linkedin.com/jobs/view/security-engineer-at-air-apps-4318299641",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Security Engineer focused on application and infrastructure security, rather than semiconductor/VLSI/EDA roles.",
+    "reason": "This is a non-technical role related to security, not semiconductor/VLSI/EDA engineering.",
     "id": "f2d5a92b",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63295,14 +63291,13 @@
     "location": "Poland",
     "url": "https://pl.linkedin.com/jobs/view/security-engineer-at-patrianna-4417119828",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Security Engineer which does not match the target domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology in VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "52aabc7e",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "2026-06-10",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63311,13 +63306,12 @@
     "url": "https://es.linkedin.com/jobs/view/security-engineer-at-air-apps-4407862730",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This security engineer role is focused on application security, cloud IAM and SIEM monitoring - which does not match our target VLSI/EDA Power Integrity/CAD domains.",
+    "reason": "The role is primarily software development (DevSecOps, automation) which falls outside Vineeth's domain expertise in semiconductor/VLSI/EDA",
     "id": "6f92e35c",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CyberSecurity Cloud Engineer",
@@ -63326,13 +63320,12 @@
     "url": "https://pt.linkedin.com/jobs/view/cybersecurity-cloud-engineer-at-kcs-it-4418590241",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cybersecurity Cloud Engineer role, which does not match the Semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for a CyberSecurity Cloud Engineer, which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
     "id": "79405b17",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IT Operational Security Administrator \u2013 CDI",
@@ -63341,13 +63334,12 @@
     "url": "https://lu.linkedin.com/jobs/view/senior-it-operational-security-administrator-%E2%80%93-cdi-at-nomura-4426978673",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an IT security position focused on administration and maintenance of security systems, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is focused on IT security operations and administration, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN Sign-off.",
     "id": "d42f4dc8",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Security Analyst",
@@ -63356,13 +63348,12 @@
     "url": "https://hu.linkedin.com/jobs/view/it-security-analyst-at-envision-pharma-group-4422698301",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an IT Security Analyst, not a technical position related to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily IT security focused, not semiconductor/VLSI/EDA. It's also in Hungary, outside Vineeth's domain regions.",
     "id": "86adcd8b",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-07",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOC Lead (Security Operations Center)",
@@ -63371,13 +63362,12 @@
     "url": "https://bg.linkedin.com/jobs/view/soc-lead-security-operations-center-at-crypto-com-4429029819",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Security Operations Center (SOC) Lead, which does not match the semiconductor/VLSI/EDA domain specified in the job search requirements.",
+    "reason": "This is a cybersecurity SOC lead role, not related to semiconductor/VLSI/EDA.",
     "id": "f9345297",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Cybersecurity Engineer - AI Automation",
