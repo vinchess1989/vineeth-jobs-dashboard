@@ -29524,13 +29524,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-cyient-4426853215",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The domain & technical area of FPGA engineering is a mismatch for this semiconductor/VLSI/EDA job search focus.",
+    "reason": "The role is primarily verification (UVM, static timing analysis) which is outside Vineeth's domain.",
     "id": "bddf8f06",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Design Engineer",
@@ -29539,13 +29538,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6156&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an IC Design Engineer position at TSMC, which does not match the technical domains we are looking for.",
+    "reason": "The role is primarily IC Design Engineering, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "7ec24919",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29553,14 +29551,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIC-Design-Engineer%2F6156",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a specific IC Design Engineer role at TSMC, which does not match the technical leadership and broader domain focus required.",
+    "matches_requirements": "maybe",
+    "reason": "Senior role with >10 years experience but no specific domain mentioned, so could potentially match based on technical skills overlap.",
     "id": "8124d969",
     "source": "tsmc_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SMTS Silicon Design Engineer",
@@ -29568,14 +29565,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/87283?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Lead role with 12+ years experience in RTL Design fits target domains of Data Fabric, Infinity Fabric design and Micro-Architecture at AMD India",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Data Fabric features and capabilities, cache design) which is outside Vineeth's domain.",
     "id": "08a7bbcb",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_smts_silicon_design_engineer_08a7bbcb.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging RD Etch Manager",
@@ -29583,14 +29579,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18766&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the target regions of Finland/UK/Asia/Remote/WORLDWIDE.",
+    "matches_requirements": "yes",
+    "reason": "Matches leadership role exception, with 10+ years experience in semiconductor advanced packaging R&D",
     "id": "97c03528",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc__taiwan_semicon_advanced_packaging_rd_etch_man_97c03528.txt"
   },
   {
     "title": "LinkedIn",
@@ -29599,13 +29594,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAdvanced-Packaging-RD-Etch-Manager%2F18766",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior role at TSMC, a top semiconductor company, matching candidate's power integrity and advanced packaging background.",
+    "reason": "Matches technical domain of Advanced Packaging, is a leadership role at a major semiconductor company in Taiwan.",
     "id": "a97f43f2",
     "source": "tsmc_careers",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_a97f43f2.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_a97f43f2.txt"
   },
   {
     "title": "Global Procurement and Supply Planning Professionals",
@@ -29614,13 +29608,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=13418&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a global procurement role at TSMC, which does not fit the semiconductor/VLSI/EDA technical focus of our search.",
+    "reason": "Discarded due to being a non-technical procurement role at a semiconductor company.",
     "id": "3ef097fa",
     "source": "tsmc_careers",
     "posted_date": "2026-05-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29629,13 +29622,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FGlobal-Procurement-and-Supply-Planning-Professionals%2F13418",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical procurement role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is for a non-technical procurement position, which does not match Vineeth's engineering background.",
     "id": "f4f17cd0",
     "source": "tsmc_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Integration and Debug Lead",
@@ -29644,13 +29636,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86776?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an SMTS Silicon Design Engineer role, which doesn't match the technical domains we are targeting.",
+    "reason": "The role is a general systems integration and debug lead, which does not match Vineeth's specific technical background in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "d2945933",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "YEP R&D Engineer",
@@ -29659,13 +29650,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=301&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a research & development engineer position, which does not fully match the technical domains and seniority level we are targeting.",
+    "reason": "The role is for R&D Integration Engineer focusing on physics-based simulation tool development and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or CAD Methodology.",
     "id": "636cf858",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
