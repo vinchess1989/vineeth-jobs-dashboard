@@ -35964,13 +35964,12 @@
     "url": "https://www.infineon.com/careers/job/563808959307102",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job page returned a 404 error, indicating the posting no longer exists.",
+    "reason": "Company name not found in job description",
     "id": "20d020f0",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ROCKET LOT ALPHA - Principal Engineer Digital DesignBangalore (India)HRC1669261HybridHybrid",
@@ -35979,28 +35978,26 @@
     "url": "https://www.infineon.com/careers/job/563808971195910",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL provided does not lead to a valid job posting. The page encountered an error and did not contain any details about the role.",
+    "reason": "The job posting does not fit into Vineeth's area of expertise, and is for a generic engineering role at Infineon Technologies.",
     "id": "7294e4d4",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Rocket Lot Alpha - Senior Staff Engineer VerificationBangalore BTP (India)HRC1668464Hybrid",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Bengaluru BTP (India)",
     "url": "https://www.infineon.com/careers/job/563808971219634",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided does not lead to a valid job description page, so it cannot be evaluated against the criteria.",
+    "reason": "The job posting is for a non-technical HR role and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, CAD methodology and EDA tool expertise.",
     "id": "afb66253",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Verification & ValidationSan Jose + 2 moreHRC1465073HybridHybrid",
@@ -36009,13 +36006,12 @@
     "url": "https://www.infineon.com/careers/job/563808968704046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title and description do not match the specified technical domains for Power Integrity, Advanced Packaging, CAD/Methodology, etc. The posting is for a Verification & Validation Senior Staff Engineer role at Infineon Technologies.",
+    "reason": "The role is a Verification & Validation Engineer, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f5de2e23",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer ApplicationsEl Segundo + 2 moreHRC1644929HybridHybrid",
@@ -36024,13 +36020,12 @@
     "url": "https://www.infineon.com/careers/job/563808970764537",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting did not contain a clear deadline date.",
+    "reason": "The job title Applications Engineer matches a target domain, but the URL is missing to check the details and application deadline.",
     "id": "66892938",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Robotics Systems",
@@ -36039,13 +36034,12 @@
     "url": "https://www.linkedin.com/jobs/view/head-of-robotics-systems-at-arm-4412161077",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical leadership role focused on robotics systems, which does not match the technical domains in the candidate profile.",
+    "reason": "This electronics hardware engineering role is focused on PCB design and board-level signal/power integrity, which does not match Vineeth's background in SoC PDN sign-off, power integrity, thermal analysis, and CAD methodology.",
     "id": "e986921b",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior FPGA Engineer",
@@ -36054,13 +36048,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-fpga-engineer-at-kbr-careers-4430907284",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer focused on digital signal processing and communications systems, which does not match the VLSI/EDA domains of Power Integrity, Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is for a Junior FPGA Engineer focused on embedded systems and DSP, which does not match Vineeth's background in power integrity, advanced packaging, and SoC design.",
     "id": "f06a9579",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Product Manager",
@@ -36069,13 +36062,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87033?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical product management position at a semiconductor company, which does not match our focus on engineering/technical roles.",
+    "reason": "The role is primarily software development (hardware product management), which is outside Vineeth's domain.",
     "id": "1a89a46c",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Performance Modelling Engineer - CPU",
@@ -36084,13 +36076,12 @@
     "url": "https://careers.arm.com/job/austin/performance-modelling-engineer-cpu/33099/78996735840",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Performance Modelling Engineer - CPU, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (CPU Performance Modeling) and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, etc.",
     "id": "cc8cf086",
     "source": "arm_careers",
     "posted_date": "2026-04-23",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SAP BI Lead",
@@ -36099,13 +36090,12 @@
     "url": "https://careers.arm.com/job/cambridge/sap-bi-lead/33099/96656334320",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an SAP BI Lead role, which does not match our semiconductor/VLSI/EDA technical roles.",
+    "reason": "The job is for an SAP BI Lead, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "c3523929",
     "source": "arm_careers",
     "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Verification Engineer - Media IP",
