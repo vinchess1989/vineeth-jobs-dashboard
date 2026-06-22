@@ -30629,14 +30629,13 @@
     "location": "Tampere, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4419440575",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a match for technical skills in power electronics but lacks specific years of experience requirement.",
+    "matches_requirements": "no",
+    "reason": "The role is a product management position focused on power electronics and electrification industry, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "12dc2836",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Senior) Embedded Software Engineer",
@@ -30644,14 +30643,13 @@
     "location": "Oulu, North Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-embedded-software-engineer-at-alif-semiconductor-4425935468",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job role is a match for an Embedded Software Engineer, with specialization towards secure enclave engineering. The location Oulu, Finland fits the priority regions.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "2676afe5",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -30660,13 +30658,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4340316399",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a senior-level physical design engineer position with the required expertise in ASIC Physical Design from RTL to GDS, fitting within the VLSI/SoC Design domain.",
+    "reason": "Senior/Staff Silicon Physical Design Engineer role matches the key skills of Vineeth in Power Integrity and Advanced Packaging domains.",
     "id": "0580abf0",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__0580abf0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__0580abf0.txt"
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -30675,13 +30672,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339299515",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior/Staff role with 10+ years of physical design experience, aligns well with target domains.",
+    "reason": "Matches technical domain, leadership role exception, and seniority level",
     "id": "0dffc894",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__0dffc894.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__0dffc894.txt"
   },
   {
     "title": "Senior Process Engineer - Advanced Packaging",
@@ -30689,14 +30685,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-process-engineer-advanced-packaging-at-asm-4366370143",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Senior Process Engineer - Advanced Packaging, which does not match the target domain of Power Integrity (PI) / Signal Integrity (SI), CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "matches_requirements": "yes",
+    "reason": "Senior Process Engineer role aligns with Advanced Packaging domain of interest, and is based in Helsinki Finland which is a match location.",
     "id": "64c3021a",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/asm_senior_process_engineer___adva_64c3021a.txt"
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
@@ -30705,13 +30700,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4419442554",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product management position focused on power electronics portfolio, while the candidate profile strongly matches power integrity and advanced packaging engineering.",
+    "reason": "The role is a portfolio management position for power electronics products, which does not directly align with Vineeth's technical expertise in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off. While it involves some aspects related to engineering, it is primarily focused on product lifecycle management.",
     "id": "c01987a0",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Development Manager, Marketing Technology",
@@ -30720,13 +30714,12 @@
     "url": "https://fi.linkedin.com/jobs/view/development-manager-marketing-technology-at-telenor-4418730996",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role, while we are looking for engineering/technical positions in semiconductor/VLSI/EDA.",
+    "reason": "Non-technical role at a semiconductor company",
     "id": "0a24d80c",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "2026-06-21",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer I, Process Engineering",
@@ -30735,43 +30728,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-engineer-i-process-engineering-at-asm-4339048673",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Process Engineering position at ASM, which does not fit the Power Integrity / VLSI / EDA technical domains specified in the job search requirements.",
+    "reason": "This is a process engineering role focused on ALD and thin film deposition, not VLSI/EDA semiconductor design or power integrity/signal integrity. It's also based in Finland, outside Vineeth's domain.",
     "id": "803e6bc8",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior Product Manager",
-    "company": "IQM Quantum Computers",
-    "location": "Espoo, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/senior-product-manager-at-iqm-quantum-computers-4427481349",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a product management position, not a technical engineering role focusing on power integrity, advanced packaging, or EDA.",
-    "id": "a68bccd4",
-    "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior ASIC Design Engineer",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4407970359",
-    "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain & technical area, years of experience, and location preferences.",
-    "id": "38ff2f5f",
-    "source": "linkedin_asic_ww",
-    "posted_date": "2023-06-04",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_asic_design_engineer_38ff2f5f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
