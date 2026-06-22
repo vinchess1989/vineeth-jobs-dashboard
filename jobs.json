@@ -59483,14 +59483,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-hw-validation-engineer-at-renesas-electronics-4401710668",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target domain of Hardware Validation Engineering with a good match for the required skills and experience level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily hardware validation focused (embedded products, platforms) which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, and EDA tools.",
     "id": "81dd5053",
     "source": "linkedin_india_power_integrity_p3",
     "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_senior_hw_validation_engineer_81dd5053.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Manager- Quality Assurance & Control",
@@ -59499,13 +59498,12 @@
     "url": "https://in.linkedin.com/jobs/view/deputy-manager-quality-assurance-control-at-adani-power-4405215343",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for quality assurance/control, which does not match the domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership targeted by the job search.",
+    "reason": "The role is primarily quality assurance/control for mechanical systems and components in a thermal power plant, which does not match Vineeth's background in VLSI/EDA/semiconductor power integrity and advanced packaging.",
     "id": "c6016ad8",
     "source": "linkedin_india_power_integrity_p3",
     "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Team Member - Finance & Accounts",
@@ -59514,13 +59512,12 @@
     "url": "https://in.linkedin.com/jobs/view/team-member-finance-accounts-at-adani-ports-and-sez-4428460770",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Finance & Accounts position, which does not match our technical engineering/leadership roles in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Finance & Accounts position, not a technical semiconductor/VLSI/EDA engineering job.",
     "id": "191bd629",
     "source": "linkedin_india_power_integrity_p3",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager",
@@ -59529,13 +59526,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-at-pwc-india-4384889651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a consulting role at PwC India, which does not match the technical engineering roles in semiconductor/VLSI/EDA we are targeting.",
+    "reason": "Non-technical leadership role with no mention of VLSI/EDA/semiconductor skills required.",
     "id": "fdc1f3e2",
     "source": "linkedin_india_power_integrity_p3",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power BI",
@@ -59544,13 +59540,12 @@
     "url": "https://in.linkedin.com/jobs/view/power-bi-at-bnp-paribas-4415371822",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Power BI Dashboard Support Analyst role at BNP Paribas, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "This role is for a Business Intelligence Dashboard Support Analyst position focusing on Power BI, Tagetik (PERSEUS platform), and DANAE ecosystem. It does not match Vineeth's background in semiconductor/VLSI/EDA domain or power integrity, advanced packaging, SoC PDN sign-off.",
     "id": "54a0de98",
     "source": "linkedin_india_power_integrity_p3",
     "posted_date": "2026-05-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power System Engineer",
@@ -59559,13 +59554,12 @@
     "url": "https://se.linkedin.com/jobs/view/power-system-engineer-at-hitachi-energy-4427916136",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is not within the semiconductor/VLSI/EDA domain. It's for a Power System Engineer role at an energy company.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain.",
     "id": "c3524fec",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Project Manager",
@@ -59574,13 +59568,12 @@
     "url": "https://ro.linkedin.com/jobs/view/senior-project-manager-at-goldwind-4418090403",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Project Manager at Goldwind, which does not fit our semiconductor/VLSI/EDA industry focus.",
+    "reason": "This is a project management role for wind energy projects, unrelated to semiconductor/VLSI/EDA.",
     "id": "06965b94",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power Integrity Engineer - Advanced Packaging",
@@ -59589,13 +59582,12 @@
     "url": "https://ro.linkedin.com/jobs/view/power-integrity-engineer-advanced-packaging-at-marvell-technology-4417233024",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Strong Power Integrity focus, good match for the candidate's background in both PI and Advanced Packaging.",
+    "reason": "Matches technical domain of Power Integrity with ANSYS tools, and leadership role",
     "id": "68374f06",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/marvell_technology_power_integrity_engineer___adv_68374f06.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/marvell_technology_power_integrity_engineer___adv_68374f06.txt"
   },
   {
     "title": "Senior Hardware Designer",
@@ -59603,14 +59595,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/senior-hardware-designer-at-krush-labs-4388379312",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Hardware Designer role with requirements matching key skills, but lacking clear technical domain alignment.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily hardware design, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "ec30b241",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-05-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Admin, Copyright & Workflow Specialist",
@@ -59619,13 +59610,12 @@
     "url": "https://it.linkedin.com/jobs/view/admin-copyright-workflow-specialist-at-warner-music-australia-4430975773",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an administrative position focused on copyright and workflow automation, not related to semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is an administrative role focused on copyright and workflow rather than a technical semiconductor/VLSI/EDA engineering position.",
     "id": "7907c8e9",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior PMO Lead - Carbon Data & Reporting",
