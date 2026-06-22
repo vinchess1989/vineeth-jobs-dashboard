@@ -53100,13 +53100,12 @@
     "url": "https://se.linkedin.com/jobs/view/hardware-engineer-at-zenovo-4429255312",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a hardware design engineer role, not semiconductor/VLSI/EDA related.",
+    "reason": "This hardware engineering role is focused on electronics components for automotive, which does not match Vineeth's power integrity, packaging, and EDA tool experience.",
     "id": "dcc6a0ba",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Design Engineer",
@@ -53115,13 +53114,12 @@
     "url": "https://es.linkedin.com/jobs/view/layout-design-engineer-at-celestica-4428487910",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a layout design role for consumer electronics manufacturing, not a VLSI/EDA semiconductor technical position.",
+    "reason": "The role is for a CAD engineer focusing on interior parts, not Power Integrity/semiconductor VLSI EDA.",
     "id": "f725115b",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-04-25",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOC Physical Design Engineer (M, F, D)",
@@ -53129,14 +53127,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/soc-physical-design-engineer-m-f-d-at-apple-4414156798",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns well with Vineeth's background and key skills, especially SoC physical design engineering.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily SoC Physical Design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "fd3749f6",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_soc_physical_design_engineer___fd3749f6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -53145,13 +53142,12 @@
     "url": "https://be.linkedin.com/jobs/view/digital-design-engineer-at-digital-talent-hunters-4426323905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not directly match our technical focus areas of Power Integrity, Advanced Packaging, CAD/Methodology, and Physical Design.",
+    "reason": "The role is for Digital Design Engineer (FPGA), which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA.",
     "id": "25363185",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Technical Intern",
@@ -53160,13 +53156,12 @@
     "url": "https://it.linkedin.com/jobs/view/graduate-technical-intern-at-intersystems-italia-4418944437",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship, which does not meet the candidate's experience level of 10-15 years.",
+    "reason": "The role is for a technical internship and does not match Vineeth's leadership-level experience in Power Integrity, Advanced Packaging, or CAD Methodology.",
     "id": "ee6a2b18",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-06-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDT - FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
@@ -53175,13 +53170,12 @@
     "url": "https://ie.linkedin.com/jobs/view/edt-fy27-intern-engineering-internship-2027-6-months-cork-at-qualcomm-4422510581",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general internship role, not specific to semiconductor/VLSI/EDA fields. The candidate should have electrical or computer engineering degrees and experience in design, coding, verification methodology etc but no specific PI/SI, CAD, EDA or VLSI skills are mentioned as required.",
+    "reason": "The role is an internship focused on digital, analog and embedded software design & verification for Snapdragon chipsets. This falls outside Vineeth's domain of expertise.",
     "id": "b36d9d7c",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -53189,14 +53183,13 @@
     "location": "Hamburg, Germany",
     "url": "https://de.linkedin.com/jobs/view/physical-design-engineer-at-whd-consulting-ltd-4428853872",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches candidate's background in physical design with experience in Cadence and Synopsys tools",
+    "matches_requirements": "maybe",
+    "reason": "The role is a mix of senior physical design and leadership responsibilities with a specified decade-plus years' requirement, but the exact domain overlaps are not clearly stated.",
     "id": "5ef1c5f2",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/whd_consulting_ltd__physical_design_engineer_5ef1c5f2.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -53205,13 +53198,12 @@
     "url": "https://de.linkedin.com/jobs/view/physical-design-engineer-at-microtech-global-ltd-4428875626",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contractor position, which doesn't meet the target criteria.",
+    "reason": "The role is a standard physical design engineer position, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "8fa66fa8",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -53219,14 +53211,13 @@
     "location": "Solna, Stockholm County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/fpga-engineer-at-essiq-ab-4392446928",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA Engineer role at ESSIQ AB in Solna, Sweden which does not match Vineeth's background and experience in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "a07790e5",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-25",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -53235,13 +53226,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-design-engineer-at-byd-europe-4372552455",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on mechanical design rather than semiconductor VLSI EDA work.",
+    "reason": "The role is primarily mechanical engineering (battery design, vehicle design) which does not match Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "67487086",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-04-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Physical Design Engineer (m/f/d)",
