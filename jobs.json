@@ -3315,14 +3315,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/hwstartups/comments/1u5pag7/need_advice_on_lowvolume_aluminum_part/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The post is about a manufacturing decision for hardware startup, not an engineering/technical role at a semiconductor company.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "5bd29de3",
     "source": "reddit_hwstartups",
-    "posted_date": "2026-06-14",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "The risk is not some components shortage, it was assuming there weren't be one",
@@ -3330,14 +3329,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/hwstartups/comments/1u3wj8r/the_risk_is_not_some_components_shortage_it_was/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "No clear job role, technical requirements or application deadline mentioned",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "26836be5",
     "source": "reddit_hwstartups",
-    "posted_date": "2026-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "First time in years making an FPC adapter board",
@@ -3345,14 +3343,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/hwstartups/comments/1u3m1uu/first_time_in_years_making_an_fpc_adapter_board/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in hardware startups, which we are rejecting per our guidelines.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "5521a68b",
     "source": "reddit_hwstartups",
-    "posted_date": "2026-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Dont waste your time on broke VCs.",
@@ -3361,13 +3358,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1u0tu1n/dont_waste_your_time_on_broke_vcs/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "No specific job title, location or application deadline mentioned",
+    "reason": "The job is not a technical position and does not fit Vineeth's background",
     "id": "ace9bf5b",
     "source": "reddit_hwstartups",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "How do experienced founders know which supplier is right",
@@ -3376,13 +3372,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1tzejhh/how_do_experienced_founders_know_which_supplier/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a discussion post on Reddit, not an actual job posting with requirements.",
+    "reason": "The posting is for a non-technical hardware design role, which does not match Vineeth's semiconductor VLSI EDA background.",
     "id": "c87336b4",
     "source": "reddit_hwstartups",
     "posted_date": "2026-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "North American buyers, do you actually use MFG.com or Alibaba to find custom injection molding suppliers?",
@@ -3391,13 +3386,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1tvl3nr/north_american_buyers_do_you_actually_use_mfgcom/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role at a semiconductor/EDA company, and posted on r/hwstartups rather than specialized job boards",
+    "reason": "Not a technical semiconductor/VLSI/EDA role, and does not specify location/city for job.",
     "id": "907b24ed",
     "source": "reddit_hwstartups",
     "posted_date": "2026-06-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Different types of prototypes for your product",
@@ -3406,13 +3400,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1tqaggu/different_types_of_prototypes_for_your_product/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general discussion post about different types of prototypes, not a specific job posting.",
+    "reason": "Not a hardware engineering role, focuses on product prototypes and discussion in a startup community forum.",
     "id": "5497f7d1",
     "source": "reddit_hwstartups",
     "posted_date": "2026-05-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Dogfooding to save time and resources...",
@@ -3421,13 +3414,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1to8aiy/dogfooding_to_save_time_and_resources/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a traditional engineering/technical role; also fully remote without specific location details",
+    "reason": "The job posting is about general software development practices to save time and resources, without specifying any technical domain related to semiconductor/VLSI/EDA. It does not match Vineeth's background and expertise.",
     "id": "12bfaaaa",
     "source": "reddit_hwstartups",
     "posted_date": "2026-05-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "The dangerous part was that i started feeling confident",
@@ -3436,13 +3428,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1to6nqr/the_dangerous_part_was_that_i_started_feeling/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job posting is for a non-technical role at a semiconductor company, so it does not meet our technical-only requirements.",
+    "reason": "The job posting URL is missing and no specific company name could be identified from the provided text.",
     "id": "a39557f1",
     "source": "reddit_hwstartups",
     "posted_date": "2026-05-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Notes from my latest trip to our manufacturer in Taiwan. Things I wish I knew before picking an overseas partner.",
@@ -3451,13 +3442,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1tmp26v/notes_from_my_latest_trip_to_our_manufacturer_in/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role at a semiconductor company.",
+    "reason": "The role is for a technical writing position, which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
     "id": "e7d4add3",
     "source": "reddit_hwstartups",
     "posted_date": "2026-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "I build embedded system (H/W & S/W) in Bangalore. I need a B2B sales partner who understands the journey to SOP.",
