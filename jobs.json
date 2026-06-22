@@ -43818,13 +43818,12 @@
     "url": "https://fi.linkedin.com/jobs/view/development-engineer-mfg-tech-at-eaton-4427828932",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is Electrical Engineering focused, not semiconductor/VLSI/EDA.",
+    "reason": "This is an electrical engineering role at a manufacturing company, which is outside Vineeth's domains of expertise in semiconductor/VLSI/EDA.",
     "id": "f337beeb",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analytics Engineer",
@@ -43833,13 +43832,12 @@
     "url": "https://fi.linkedin.com/jobs/view/analytics-engineer-at-silicon-labs-4420742055",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a data analytics position focused on delivering analytics solutions, which does not match the VLSI/EDA job requirements.",
+    "reason": "The role is for an Analytics Engineer, which is a software development role focusing on data analysis rather than semiconductor/EDA/VLSI engineering.",
     "id": "46fa3721",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead  Hardware Test Engineer",
@@ -43848,13 +43846,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-hardware-test-engineer-at-ge-vernova-4405264733",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a hardware testing engineering position, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is primarily focused on hardware testing, pre-commissioning and commissioning activities, which are outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "950c5246",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -43862,14 +43859,13 @@
     "location": "California, United States",
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-oho-group-4430319833",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior ASIC Design Engineer role at a California-based startup with an equity package and growth opportunities.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong preference for semiconductor startups, but this is not explicitly ruled out",
     "id": "2e3545de",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/oho_group_asic_design_engineer_2e3545de.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -43877,14 +43873,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTool-Install-Interconnect-ISEP-Managers%2F13722",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Technical Leader for Advanced Packaging at TSMC, which fits the target domain of Advanced Packaging/Thermal.",
+    "matches_requirements": "no",
+    "reason": "The job is a remote worldwide position with no specific domain matching Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "68b0d853",
     "source": "tsmc_careers",
     "posted_date": "2023-06-21",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/tsmc_linkedin_68b0d853.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff ASIC Designer",
@@ -43893,13 +43888,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-asic-designer-at-oho-group-4430337396",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Staff ASIC Designer position, slightly below the senior leadership level we are prioritizing.",
+    "reason": "The job URL returned a server error, preventing evaluation of company, location or application deadline.",
     "id": "8e3fb167",
     "source": "linkedin_asic_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced- R&D Thin Films Process Development Engineer Advanced DRAM (Evergreen)",
@@ -43908,13 +43902,12 @@
     "url": "https://www.glassdoor.com/job-listing/experienced-rd-thin-films-process-development-engineer-advanced-dram-evergreen-micron-technology-JV_IC1127927_KO0,78_KE79,96.htm?jl=1010169516042",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Thin Films Process Development Engineer in Advanced DRAM, which does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "This role is for Thin Films Process Development in DRAM manufacturing, which is unrelated to Power Integrity, Packaging, EDA/ CAD, and VLSI.",
     "id": "f6fd94b1",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "research engineer jobs in Boise, ID",
@@ -43923,13 +43916,12 @@
     "url": "https://www.glassdoor.com/Job/boise-research-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a research engineer at Micron, which falls outside our domain focus on PI/SI/EDA/VLSI.",
+    "reason": "The role is more focused on R&D engineering in the semiconductor industry, rather than directly involving power integrity and advanced packaging.",
     "id": "9d877bae",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "11d",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "VLSI LEAD L1",
@@ -43938,13 +43930,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4431355618",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a VLSI Lead at Wipro, which does not match the semiconductor/VLSI/EDA technical domains",
+    "reason": "The role is a VLSI development lead, which falls within Vineeth's background and key skills but doesn't have enough specific overlap in Power Integrity, Advanced Packaging. Also not a leadership level position.",
     "id": "ec9daf6f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Co-Op/ Intern",
@@ -43953,13 +43944,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87051?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an intern/co-op role, not a senior leadership position.",
+    "reason": "The role is an internship/co-op position which does not match Vineeth's senior experience level.",
     "id": "4726cb2c",
     "source": "amd_careers",
     "posted_date": "2026-05-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Founding Engineer",
