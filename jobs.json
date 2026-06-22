@@ -38596,28 +38596,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16528&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a facilities technician role, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "This is a facilities maintenance role focused on water systems, not semiconductor engineering/technical roles like Power Integrity, CAD, VLSI/SoC design which match Vineeth's background.",
     "id": "7470f96c",
     "source": "tsmc_careers",
     "posted_date": "2025-06-26",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFacilities-Technician-Betriebstechniker-Water-Systems-m-f-d%2F16528",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is incomplete and cannot be accessed to evaluate further.",
+    "reason": "The job is for a non-technical facilities technician role at a semiconductor company, which does not match Vineeth's background in power integrity and EDA.",
     "id": "953c5cff",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DRAM Device & Cell Technology Engineer",
@@ -38626,13 +38624,12 @@
     "url": "https://www.glassdoor.com/job-listing/dram-device-cell-technology-engineer-micron-technology-JV_IC1127927_KO0,36_KE37,54.htm?jl=1010170831327",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on DRAM Device & Cell Technology, which does not match the target technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, CAD Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "The job is for a DRAM Device & Cell Technology Engineer, which is not within Vineeth's domain of Power Integrity, Advanced Packaging, and CAD Methodology. It falls outside his area of expertise.",
     "id": "9e7cbaef",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "technology engineer jobs in Boise, ID",
@@ -38641,13 +38638,12 @@
     "url": "https://www.glassdoor.com/Job/boise-technology-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is non-technical, marketing position at a semiconductor company.",
+    "reason": "The role is primarily focused on automation for healthcare claims processing, which falls outside Vineeth's technical domains of Power Integrity, Advanced Packaging, and VLSI/EDA.",
     "id": "e35127f3",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-18",
+    "deadline": "2026-06-24",
+    "description_file": null
   },
   {
     "title": "Wafer Process Engineer",
@@ -38656,13 +38652,12 @@
     "url": "https://www.linkedin.com/jobs/view/wafer-process-engineer-at-raytheon-4429794378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a wafer process engineer in semiconductor manufacturing, which does not match our VLSI/EDA job requirements.",
+    "reason": "The role is primarily manufacturing/engineering focused on semiconductor wafer processing, which does not align with Vineeth's background in power integrity (PI), advanced packaging, and CAD/EDA methodologies. It also specifically requires U.S. citizenship.",
     "id": "3b8c7e9c",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer IV",
@@ -38671,13 +38666,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-iv-at-rochester-electronics-llc-4429356070",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Design Engineer IV position, which does not match the technical leadership and domain focus of Power Integrity, CAD Methodology etc. sought for.",
+    "reason": "The role is primarily software development (embedded firmware engineer) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and VLSI.",
     "id": "3a6723f2",
     "source": "linkedin_vlsi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Integrated Circuit Design Engineer",
@@ -38686,13 +38680,12 @@
     "url": "https://www.linkedin.com/jobs/view/integrated-circuit-design-engineer-at-senseeker-4394476046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US person status, restricting to only US citizens.",
+    "reason": "The role is primarily IC design for ROICs which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "5377c237",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -38701,13 +38694,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-etched-4413976763",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX which does not match the preferred locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia (e.g., Taiwan, South Korea, Singapore) or fully remote with worldwide eligibility. It also does not have explicit mention of visa sponsorship or relocation.",
+    "reason": "The role is software-focused on EDA tool development rather than semiconductor design and is therefore out of Vineeth's domain.",
     "id": "ad92ec0f",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronic Engineer",
@@ -38716,13 +38708,12 @@
     "url": "https://in.linkedin.com/jobs/view/electronic-engineer-at-ge-vernova-4384847144",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level Electronic Engineer position, not a match for a Technical Leader with 15 years of experience in Power Integrity and Advanced Packaging.",
+    "reason": "This is an electronics engineering role at a GE division, not semiconductor/VLSI/EDA.",
     "id": "d81fc75b",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer, Mid-Level",
@@ -38731,13 +38722,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-engineer-mid-level-at-simulation-technologies-inc-simtech-4431184852",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires U.S. Citizenship with Active Secret Security clearance, which does not match the target job criteria of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland).",
+    "reason": "The role is primarily FPGA design for aerospace/defense applications, which does not match Vineeth's domain of Power Integrity, Advanced Packaging and VLSI/EDA. Also, it is located in Huntsville, AL.",
     "id": "ca11e50b",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Construction Project Manager",
