@@ -30209,14 +30209,13 @@
     "location": "Reutlingen, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/manufacturing-operations-manager-at-european-tech-recruit-4422919258",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Manufacturing Operations Manager focused on semiconductor external manufacturing management and assembly/test, not matching the core VLSI/EDA/Semiconductor technical domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "55e1bbcc",
     "source": "linkedin_semi_eu",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Manufacturing Technician (m/w/x)",
@@ -30224,14 +30223,13 @@
     "location": "Bergkirchen, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/manufacturing-technician-m-w-x-at-thorlabs-4405234601",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The position is for a Manufacturing Technician, which does not match the required technical background in VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "bebe6165",
     "source": "linkedin_semi_eu",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Research And Development Scientist",
@@ -30240,13 +30238,12 @@
     "url": "https://nl.linkedin.com/jobs/view/research-and-development-scientist-at-veco-precision-4390749169",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for research and development of lithography processes, which does not directly match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is focused on R&D in lithography, which does not match Vineeth's areas of Power Integrity and Advanced Packaging expertise.",
     "id": "01de354b",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-25",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Business Development Manager \u2013 High Tech & Manufacturing",
@@ -30255,13 +30252,12 @@
     "url": "https://nl.linkedin.com/jobs/view/business-development-manager-%E2%80%93-high-tech-manufacturing-at-tata-consultancy-services-4424551852",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a business development manager at Tata Consultancy Services, which falls under the IT services and consultancy category, not semiconductor/VLSI/EDA. It also does not fit other key criteria like technical domain or years of experience.",
+    "reason": "The role is a Business Development Manager for IT services and consulting, not an engineering/technical position in semiconductor/VLSI/EDA as required.",
     "id": "31e10705",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Trader",
@@ -30270,13 +30266,12 @@
     "url": "https://nl.linkedin.com/jobs/view/sales-trader-at-cae-4429258193",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales trader position focused on international market trading, which doesn't match the VLSI/EDA semiconductor engineering job requirements.",
+    "reason": "The job is for a Sales Trader role at CAE, which is outside Vineeth's technical domains of Power Integrity, Advanced Packaging, and EDA.",
     "id": "b697b231",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u5236\u9020\u6280\u672f\u5c97",
@@ -30285,13 +30280,12 @@
     "url": "https://nl.linkedin.com/jobs/view/%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF%E5%B2%97-at-dongfang-electric-co-ltd-4421088483",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing technician position, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a manufacturing technician position at Dongfang Electric Co., Ltd., which does not fit Vineeth's background in semiconductor, VLSI, EDA and leadership roles.",
     "id": "fe50061f",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Service Engineer",
@@ -30300,13 +30294,12 @@
     "url": "https://de.linkedin.com/jobs/view/field-service-engineer-at-msr-fsr-llc-4416662981",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical field service role in electronics equipment maintenance, not a semiconductor/VLSI/EDA engineering or technical leadership position.",
+    "reason": "The role is a Field Service Engineer, which does not match Vineeth's domain of expertise in Power Integrity, Advanced Packaging, CAD Methodology etc. for semiconductor and EDA companies.",
     "id": "d3320d89",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principle Consultant- High Tech, Strategy & Operations",
@@ -30315,13 +30308,12 @@
     "url": "https://nl.linkedin.com/jobs/view/principle-consultant-high-tech-strategy-operations-at-infosys-consulting-4418099018",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business consulting position focused on high-tech and semiconductor industry growth strategies rather than an engineering/technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily consulting with a focus on high tech and strategy operations, not semiconductor/VLSI/EDA engineering.",
     "id": "d38fbeee",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech, Strategy & Operations - Principal level",
@@ -30330,13 +30322,12 @@
     "url": "https://nl.linkedin.com/jobs/view/high-tech-strategy-operations-principal-level-at-infosys-consulting-4418079795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business strategy role, not a semiconductor/VLSI/EDA technical engineering position.",
+    "reason": "The role is a consulting position with Infosys, which is an IT and management consulting company. This does not match the semiconductor/VLSI/EDA industry focus specified in the job requirements.",
     "id": "544b72c5",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-05-31",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "High Tech, Strategy & Operations - Senior Principal level",
@@ -30345,13 +30336,12 @@
     "url": "https://nl.linkedin.com/jobs/view/high-tech-strategy-operations-senior-principal-level-at-infosys-consulting-4418098204",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a High Tech, Strategy & Operations - Senior Principal level consultancy position with Infosys, which does not match the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "Non-technical business/strategy role, not semiconductor/VLSI/EDA engineering.",
     "id": "13497afe",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intern",
