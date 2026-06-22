@@ -14342,34 +14342,18 @@
     "description_file": null
   },
   {
-    "title": "Process Integration Device Engineer",
-    "company": "NXP Semiconductors",
-    "location": "Shanghai, VA",
-    "url": "https://www.linkedin.com/jobs/view/process-integration-device-engineer-at-nxp-semiconductors-4416470496",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires specific expertise in HV/BCD technology and process integration, which does not match the candidate's background in Power Integrity and Advanced Packaging.",
-    "id": "90337d3d",
-    "source": "linkedin_semi_ww",
-    "posted_date": "2026-06-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Senior Engineer, Product Engineering (Mfg.)",
     "company": "Analog Devices",
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-engineer-product-engineering-mfg-at-analog-devices-4412860067",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product engineering position focused on manufacturing rather than semiconductor VLSI EDA technical domains.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "d3dc6b87",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Product Engineer",
@@ -14378,13 +14362,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-product-engineer-at-renesas-electronics-4419950398",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on power semiconductor products, which doesn't directly map to the VLSI/EDA domain. It's also a full-time onsite role in Austin, TX without remote options.",
+    "reason": "The role explicitly requires US residency, making it a hard rejection based on the search criteria.",
     "id": "eb9ed575",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-05-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Test Engineer",
@@ -14393,13 +14376,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-test-engineer-at-microsoft-4422403502",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on test engineering for Microsoft's cloud hardware, which does not directly align with the semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is primarily software development (firmware engineer) rather than VLSI/EDA.",
     "id": "d3ec1dd3",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Yield Engineer",
@@ -14408,13 +14390,12 @@
     "url": "https://www.linkedin.com/jobs/view/yield-engineer-at-tower-semiconductor-4386461433",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a semiconductor manufacturing engineering position, which does not match the technical domains of Power Integrity (PI), Advanced Packaging, SoC Physical Design, or EDA tools.",
+    "reason": "The role is primarily focused on semiconductor manufacturing yield engineering and defect monitoring, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, CAD Methodology. It also requires a Bachelor's degree minimum, while Vineeth has 15 years of experience.",
     "id": "bfff61e5",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT AI/ML Engineer",
@@ -14423,13 +14404,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=462&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI/ML Engineer role at TSMC is in Taiwan and does not match the criteria for Power Integrity, Advanced Packaging, or EDA/VLSI domains.",
+    "reason": "The role is primarily software development focused on AI/ML platform implementation, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f469c0ad",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -14438,13 +14418,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-AI-ML-Engineer%2F462",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an AI/ML Engineer, which does not match the VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development (AI/ML Engineer), which falls outside Vineeth's domain.",
     "id": "a1caafa4",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u767b\u9304\u53f0\u7a4d\u8eab\u5fc3\u969c\u7919\u5c08\u696d\u4eba\u624d\u5eab",
@@ -14452,14 +14431,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4171&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting is for a special recruitment drive specifically for individuals with disabilities at TSMC, so it does not match the technical requirements we are seeking.",
+    "matches_requirements": "yes",
+    "reason": "The job explicitly targets individuals with physical disabilities, matching the criteria for TSMC's disability hiring initiative.",
     "id": "4135b964",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_______________4135b964.txt"
   },
   {
     "title": "LinkedIn",
@@ -14467,14 +14445,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F4171",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not meet our requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role without specific technical domain mentioned, but matches general semiconductor experience. Location is Finland.",
     "id": "f6a3f079",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-29",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Intelligent Manufacturing System Engineer (IMC)",
@@ -14483,13 +14460,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16026&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role focusing on AI integration, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "The role is a systems engineering position focused on developing intelligent manufacturing AI systems for TSMC's fabs, which does not match Vineeth's expertise in semiconductor power integrity, packaging and CAD methodology.",
     "id": "2f394b93",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
