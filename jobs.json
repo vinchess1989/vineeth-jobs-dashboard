@@ -10998,17 +10998,16 @@
   {
     "title": "LinkedIn",
     "company": "TSMC",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F15462",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a senior technical leadership role at TSMC, which does not fit the entry/mid-level roles criteria.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with broad semiconductor domain, but no specific technical skills listed",
     "id": "8cc85460",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "5+ Experience (196)",
@@ -11017,13 +11016,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/5+_experience",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is a non-technical role for a semiconductor company, not an engineering position",
+    "reason": "The role is for a Production Engineering Manager, which is an operational/management position not directly aligned with Vineeth's technical focus. Also, it is not explicitly stated to be at a semiconductor company.",
     "id": "949202c6",
     "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager and Executive (37)",
@@ -11032,13 +11030,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/manager_and_executive",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position at a semiconductor company, which we are rejecting based on our search criteria.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "b6061359",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sign up with Google",
@@ -11047,13 +11044,12 @@
     "url": "https://www.euroengineerjobs.com/job_alert/new/google",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires Google sign-up, which is not a semiconductor/VLSI/EDA position.",
+    "reason": "The job is for a non-technical marketing role, which is a hard rejection based on the provided requirements.",
     "id": "779373ad",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Process Engineer, Thin Film Deposition, Terafab",
@@ -11062,13 +11058,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-process-engineer-thin-film-deposition-terafab-at-tesla-4429989066",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical (Process Engineer) and does not match the VLSI/EDA industry requirements.",
+    "reason": "The job is primarily software engineering focused on deposition process tools and metrology, which is outside Vineeth's domain in Power Integrity and Advanced Packaging.",
     "id": "094599f4",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Program Manager, AI Hardware",
@@ -11077,13 +11072,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-program-manager-ai-hardware-at-tesla-4420213700",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI hardware initiative, not VLSI/EDA semiconductor work.",
+    "reason": "This technical program manager role is focused on AI hardware and chip design, which does not match Vineeth's core areas of expertise in power integrity, advanced packaging, and CAD methodology.",
     "id": "50432b64",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technical Program Manager \u2013 VLSI",
@@ -11092,13 +11086,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-technical-program-manager-%E2%80%93-vlsi-at-nvidia-ai-4414804118",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "15+ years of experience, senior technical program manager role at a semiconductor company",
+    "reason": "The role is a Senior Technical Program Manager for NVIDIA's VLSI Engineering, focusing on the Arch-to-Silicon lifecycle and alignment across all silicon product lines. It matches Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
     "id": "08dc1d02",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_ai_senior_technical_program_manag_08dc1d02.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_ai_senior_technical_program_manag_08dc1d02.txt"
   },
   {
     "title": "Design Verification Engineer, Silicon",
@@ -11107,13 +11100,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-silicon-at-google-4416121486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate has a background in Power Integrity, Advanced Packaging and is looking for leadership roles which do not match the technical requirements of this Design Verification Engineer position at Google.",
+    "reason": "This is a verification engineer role focused on digital logic, which does not match Vineeth's power integrity and advanced packaging domain expertise.",
     "id": "a8f9d680",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -11122,13 +11114,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-7rays-semiconductors-4420991020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a contract position, not a direct match for our target of semiconductor startups and specialized consultancies hiring for leadership roles.",
+    "reason": "The role is primarily software development focused (firmware engineer) which is outside Vineeth's domain.",
     "id": "15c1abbf",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Intern",
@@ -11137,13 +11128,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-intern-at-etched-4385383809",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship in RTL design, which does not match the candidate's experience and background in Power Integrity, Advanced Packaging, and SoC PDN Sign-off.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "fb17bb05",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Digital Design Intern",
