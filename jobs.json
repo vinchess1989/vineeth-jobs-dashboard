@@ -7180,13 +7180,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-workflow-optimization-engineer-at-nvidia-4395483514",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires C/C++ and Python programming experience, which is not a strong match for Vineeth's Perl, Tcl, Shell Scripting background.",
+    "reason": "The role is software development focused on improving engineering productivity, not semiconductor VLSI EDA.",
     "id": "956198ed",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-30",
     "deadline": "2026-06-26",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Workflow Optimization Engineer",
@@ -7195,13 +7194,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-workflow-optimization-engineer-at-nvidia-4395490209",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency which does not match our requirements.",
+    "reason": "The role is primarily software development (running GPU-based workloads) which is outside Vineeth's domain of expertise in Power Integrity, Packaging and EDA. It does not match the listed key skills.",
     "id": "1d0cba8d",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Workflow Optimization Engineer",
@@ -7210,13 +7208,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-workflow-optimization-engineer-at-nvidia-4395485277",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires US residency, which violates the no-US-residency rule",
+    "reason": "The role is primarily software development (implied by 'tool development, test, and deployment') which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "ce7a4cc7",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Applications Engineer IV - Fab Technology Co-Optimization",
@@ -7225,13 +7222,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-applications-engineer-iv-fab-technology-co-optimization-at-silvaco-inc-4419203909",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Field Applications Engineer focusing on Fab Technology Co-optimization, which does not directly align with the candidate's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on sales engineering for Silvaco's TCAD and EDA software products, which falls outside Vineeth's primary domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "58acab11",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Analog EDA Design Automation Engineer",
@@ -7239,14 +7235,13 @@
     "location": "Irvine, CA",
     "url": "https://www.linkedin.com/jobs/view/principal-analog-eda-design-automation-engineer-at-maxlinear-4388266177",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is more focused on EDA tool support and automation, rather than VLSI/EDA design or leadership roles. It does not match the target job criteria.",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's background in Power Integrity, Advanced Packaging and requires leadership experience.",
     "id": "f9b5ebfb",
     "source": "linkedin_eda_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/maxlinear_principal_analog_eda_design_au_f9b5ebfb.txt"
   },
   {
     "title": "RTL & Codesign Engineer",
@@ -7255,13 +7250,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-codesign-engineer-at-openai-4417180046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL & Codesign Engineer at OpenAI in San Francisco, which does not match the VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "5d8f62df",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer - Hardware",
@@ -7270,13 +7264,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-hardware-at-nvidia-4395469593",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided appears to be invalid, preventing further evaluation of this job posting.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
     "id": "1da78215",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -7285,13 +7278,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-digital-design-engineer-at-nvidia-4424337644",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Austin, TX which does not match the priority regions of Finland/UK/India/Asia/Remote worldwide.",
+    "reason": "This position is based in Austin, TX which does not match Vineeth's target locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions. Also, it's a Senior role but Vineeth has only 15 years of experience.",
     "id": "630df8db",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer \u2013 AI SoC Development",
@@ -7300,13 +7292,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-%E2%80%93-ai-soc-development-at-intel-4331586012",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior-level RTL Design Engineer position at Intel in California requires 4+ years of experience, which exceeds Vineeth's current job role with 15 years of Power Integrity and Advanced Packaging experience.",
+    "reason": "The role is primarily software development (AI SoC architecture) and does not fit Vineeth's Power Integrity, Advanced Packaging background.",
     "id": "0edb0642",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Chip Design Lead",
@@ -7315,13 +7306,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-chip-design-lead-at-eridu-4400546048",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Saratoga, CA, USA which does not match our target locations.",
+    "reason": "The role is primarily focused on ASIC chip design rather than Power Integrity, Advanced Packaging, or EDA tool applications which are Vineeth's key areas of expertise.",
     "id": "ab49e0bd",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineering Technical Leader",
