@@ -54360,13 +54360,12 @@
     "url": "https://se.linkedin.com/jobs/view/test-verification-engineer-automotive-at-wequel-4428085628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Test & Verification Engineer focused on automotive software, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "6df19ad3",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2026-06-05",
     "deadline": "2026-07-09",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -54374,14 +54373,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/digital-design-engineer-at-tsmc-4148830579",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves digital design for a semiconductor company, potentially matching VLSI/EDA experience.",
+    "matches_requirements": "no",
+    "reason": "The job is focused on non-volatile memory design which does not strongly match Vineeth's power integrity and packaging expertise.",
     "id": "514897e2",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Physical Design Engineer",
@@ -54389,29 +54387,13 @@
     "location": "Hamburg, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-digital-physical-design-engineer-at-optimus-search-4426866274",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior level role with physical design focus, matching key skills and experience requirements.",
+    "matches_requirements": "no",
+    "reason": "Requires verification domain expertise which Vineeth does not have.",
     "id": "328844c2",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/optimus_search_senior_digital_physical_design_328844c2.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "Principal Design Engineer",
-    "company": "ERSG Ltd",
-    "location": "Leeds, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/principal-design-engineer-at-ersg-ltd-4426868269",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is outside the semiconductor/VLSI/EDA domain, focusing on civil and infrastructure engineering rather than semiconductor design and EDA tools.",
-    "id": "7fd8a74b",
-    "source": "linkedin_uk_asic_design",
-    "posted_date": "2023-05-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Consultant",
@@ -54420,13 +54402,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-design-consultant-at-premier-group-4429535664",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a consulting role focused on FPGA design, which does not match the candidate's background in power integrity and semiconductor packaging.",
+    "reason": "The job is for an FPGA Design Consultant, which falls into the software development domain rather than semiconductor/VLSI/EDA.",
     "id": "fa77e473",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Digital Design Engineer",
@@ -54435,13 +54416,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-digital-design-engineer-at-targetjobs-uk-4430478240",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship level position focused on digital design, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for a Graduate Digital Design Engineer position which falls outside Vineeth's domain and years of experience.",
     "id": "1ed79be3",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate/Junior Electrical and CAD Engineer",
@@ -54450,13 +54430,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-junior-electrical-and-cad-engineer-at-prodrive-4411734072",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on motorsports electrical engineering, not semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on general electrical engineering and CAD, with no specific skills or experience in semiconductor/VLSI/EDA areas. It's also a junior/senior level position rather than a technical leadership role.",
     "id": "5bf75758",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer \u2014 Cambridge, UK",
@@ -54464,14 +54443,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-design-engineer-%E2%80%94-cambridge-uk-at-palma-ceia-semidesign-4366652148",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills and experience, seniority level, and UK location.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily digital design which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "b17814a4",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-03-04",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/palma_ceia_semidesig_senior_digital_design_engineer_b17814a4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -54479,14 +54457,13 @@
     "location": "England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/digital-design-engineer-at-microtech-global-ltd-4422903923",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Senior Staff position, which exceeds the 15 years of experience requirement for this job search.",
+    "matches_requirements": "maybe",
+    "reason": "Senior role with digital design expertise, but no specific mention of Power Integrity, CAD tools, or EDA software engineering.",
     "id": "02277c22",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -54494,14 +54471,13 @@
     "location": "Coventry, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-power-on-4421215699",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a Senior Design Engineer with competitive salary and benefits at Power On in Coventry, England which aligns with the semiconductor/VLSI/EDA industry expertise. It's not an exact match but worth considering for senior candidates.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily customer facing design and leadership, with no specific mention of power integrity, signal integrity, EDA tools, VLSI/SoC design or CAD methodology which form Vineeth's key technical domains.",
     "id": "5f62b917",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Engineer",
