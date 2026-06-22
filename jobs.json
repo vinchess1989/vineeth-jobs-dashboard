@@ -37895,14 +37895,13 @@
     "location": "Surat, Gujarat, India",
     "url": "https://in.linkedin.com/jobs/view/memory-design-asic-engineer-at-vicharak-4428520577",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches with Memory Design (ASIC) which falls under VLSI / SoC Design domain.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (RTL design, embedded firmware), which is outside Vineeth's domain.",
     "id": "6ee2b5f8",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-26",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/vicharak_memory_design__asic__engineer_6ee2b5f8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "manufacturing engineer jobs in Essex Junction, VT",
@@ -37911,13 +37910,12 @@
     "url": "https://www.glassdoor.com/Job/essex-junction-manufacturing-engineer-jobs-SRCH_IL.0,14_IC1141780_KO15,37.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Manufacturing Engineer role, non-technical position at a semiconductor company",
+    "reason": "The role is a manufacturing engineer position which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA.",
     "id": "bbcfb1a0",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Essex Junction, VT jobs",
@@ -37926,13 +37924,12 @@
     "url": "https://www.glassdoor.com/Job/essex-junction-jobs-SRCH_IL.0,14_IC1141780.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a generic Glassdoor search results page for jobs in Essex Junction, with no specific job postings matching the criteria.",
+    "reason": "The job posting is for a non-technical role at a semiconductor company, which is against the hard rejection criteria.",
     "id": "fed75b72",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GlobalFoundries jobs in Essex Junction, VT",
@@ -37941,13 +37938,12 @@
     "url": "https://www.glassdoor.com/Job/essex-junction-globalfoundries-jobs-SRCH_IL.0,14_IC1141780_KO15,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Essex Junction, VT, USA which requires US residency. It also does not match Vineeth's key skills and experience.",
+    "reason": "The role is an engineering position at a semiconductor company, but does not fit Vineeth's technical background in Power Integrity, Advanced Packaging, CAD Methodology. It requires experience with physical design and EDA tool sales.",
     "id": "78e0080e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Component Engineer",
@@ -37956,13 +37952,12 @@
     "url": "https://www.glassdoor.com/job-listing/component-engineer-schlumberger-germany-JV_IC1140225_KO0,18_KE19,39.htm?jl=1010173698209",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Offshore Support Engineer, which does not match the technical domains of Power Integrity, Advanced Packaging, or EDA.",
+    "reason": "The role is for a Component Engineer at Schlumberger, which is primarily software development and does not match Vineeth's domain of Power Integrity, Advanced Packaging, or EDA.",
     "id": "aec30537",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "reliability engineer jobs in Sugar Land, TX",
@@ -37971,13 +37966,12 @@
     "url": "https://www.glassdoor.com/Job/sugar-land-reliability-engineer-jobs-SRCH_IL.0,10_IC1140225_KO11,31.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Sugar Land, TX, USA, which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or fully remote worldwide.",
+    "reason": "The role is primarily verification (simulation, testbench development), which is outside Vineeth's domain.",
     "id": "4d8d9912",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sugar Land, TX jobs",
@@ -37986,13 +37980,12 @@
     "url": "https://www.glassdoor.com/Job/sugar-land-jobs-SRCH_IL.0,10_IC1140225.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic search for all jobs in Sugar Land, TX without specific technical details matching our requirements.",
+    "reason": "The job listing is for a general Sugar Land, TX location search on Glassdoor and does not specify a particular company, technical role, or requirements matching Vineeth's background.",
     "id": "6c326a20",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Schlumberger (Germany) jobs in Sugar Land, TX",
@@ -38001,28 +37994,26 @@
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=Schlumberger+%28Germany%29&sc.locationSeoString=Sugar+Land&locId=1140225&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Schlumberger position in Sugar Land, TX, not related to semiconductor/VLSI/EDA industry.",
+    "reason": "The job is not related to semiconductor/VLSI/EDA industry and does not match Vineeth's domain.",
     "id": "6fde538a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer 4'KAT",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Lam Research",
+    "location": "Fremont, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/process-engineer-4-kat-lam-research-JV_IC1147355_KO0,22_KE23,35.htm?jl=1010169378200",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This process engineering role focuses on semiconductor packaging, not directly related to Vineeth's background in Power Integrity and Advanced Packaging for SoC design.",
+    "reason": "The role is primarily focused on process engineering for a semiconductor fab, which does not match Vineeth's domain of power integrity, packaging, and EDA.",
     "id": "ca8df78a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Fremont, CA",
@@ -38031,13 +38022,12 @@
     "url": "https://www.glassdoor.com/Job/fremont-process-engineer-jobs-SRCH_IL.0,7_IC1147355_KO8,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Fremont, CA, USA which does not match the target locations of Finland, Europe (outside Finland), UK, India or Asia. Also, it's a process engineer role which doesn't directly align with the key technical domains.",
+    "reason": "The job is located in Fremont, CA which does not match the specified location criteria of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also doesn't match India, Asia, United States with visa sponsorship/relocation mentioned.",
     "id": "fa715e25",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Digital IC Design",
