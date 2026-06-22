@@ -4016,13 +4016,12 @@
     "url": "https://www.linkedin.com/jobs/view/r-d-engineer-ic-design-at-broadcom-4372842742",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at Broadcom's San Jose, CA offices and does not fit the remote/hybrid criteria.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "68b11df2",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Engineer (TC-64000979)",
@@ -4031,13 +4030,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-engineer-tc-64000979-at-cirrus-logic-4378891139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position at a semiconductor company.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain of expertise.",
     "id": "a447b056",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-15",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VLSI",
@@ -4046,13 +4044,12 @@
     "url": "https://www.linkedin.com/jobs/view/vlsi-at-maximatek-4429587452",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This US-based role requires US residency, which is a hard rejection based on our search criteria.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "3138bbaf",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CoDesign & NextGen - New College Grad",
@@ -4061,13 +4058,12 @@
     "url": "https://www.linkedin.com/jobs/view/codesign-nextgen-new-college-grad-at-cerebras-4371066215",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a new college grad entry-level position, which does not match the senior leadership experience level requirement.",
+    "reason": "The role is primarily software development (e.g. 'Python', 'C++') and is outside Vineeth's domain.",
     "id": "abdf9e56",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-05-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -4076,13 +4072,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-at-oho-group-4426979637",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires US residency which is a hard rejection criteria.",
+    "reason": "The role is primarily digital design for ASIC/SoC, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "17b52503",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Validation Engineer",
@@ -4091,13 +4086,12 @@
     "url": "https://www.linkedin.com/jobs/view/validation-engineer-at-sqa-solution-4428029845",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in a different domain (biotech/pharma validation engineering) and does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for a Validation Engineer in a regulated manufacturing environment, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "53aeebb0",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -4106,13 +4100,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-arm-group-4428079513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a Civil/Environmental Engineer role, which does not match VLSI/EDA semiconductor job criteria.",
+    "reason": "The role is software-focused, requiring firmware development skills which are out of Vineeth's domain.",
     "id": "e1010b9f",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design engineer",
@@ -4121,13 +4114,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-infotree-global-solutions-4427727252",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contract position, focuses on ASIC/SoC design and not on power integrity, packaging, or EDA tools. It does not match the key domains of interest.",
+    "reason": "This is a contract role focused on SoC architecture and ASIC design, which falls outside Vineeth's primary domain of Power Integrity and Advanced Packaging. It also doesn't mention leadership/management experience.",
     "id": "4abf1ef6",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer - Remote",
@@ -4136,13 +4128,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-remote-at-yo-it-consulting-4403082526",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in a non-technical role for a semiconductor company, which we do not consider.",
+    "reason": "This is an engineering-level contract role, which does not match the senior-level full-time position criteria.",
     "id": "bbb7ae17",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Intern",
@@ -4151,13 +4142,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-intern-at-sk-hynix-memory-solutions-america-inc-4423051865",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an intern position, which does not match the senior leadership experience required.",
+    "reason": "The role is an intern position which does not fit Vineeth's 15+ years of experience.",
     "id": "1f033ac6",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-03-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer - New College Grad 2026",
