@@ -44098,28 +44098,26 @@
     "url": "https://builtin.com/jobs/dev-engineering/scala",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role, not related to semiconductor/VLSI/EDA industry.",
+    "reason": "This is a software development role for Java and Scala developers, not related to semiconductor/VLSI/EDA domain.",
     "id": "470f5c91",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scrum Master Jobs",
-    "company": "Extract from page",
+    "company": "builtin.com/jobs",
     "location": "Extract from page",
     "url": "https://builtin.com/jobs/project-management/search/scrum-master",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical project management role, which does not match the semiconductor/VLSI/EDA technical roles we are looking for.",
+    "reason": "Not a technical engineering role, matches neither domain nor experience level criteria",
     "id": "9a6de040",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer Jobs",
@@ -44128,13 +44126,12 @@
     "url": "https://builtin.com/jobs/cybersecurity-it/search/security-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Security Engineer) at a semiconductor company, which we only want engineering/technical positions for.",
+    "reason": "This is a general cybersecurity engineer role, not specific to semiconductor/VLSI/EDA.",
     "id": "e9188866",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Device Engineer",
@@ -44143,13 +44140,12 @@
     "url": "https://uk.linkedin.com/jobs/view/device-engineer-at-ic-resources-4425961387",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on device design rather than power integrity, CAD, or advanced packaging.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "cc0e64c1",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Process Development Engineer",
@@ -44158,13 +44154,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-process-development-engineer-at-lumentum-4411186964",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Lithography & E-Beam Lithography development, which does not directly match the candidate's Power Integrity (PI), Advanced Packaging, and CAD/Methodology background.",
+    "reason": "The role is primarily lithography & e-beam lithography focused, which is outside Vineeth's domain of PI/SI and advanced packaging. He has experience with lithography but this job focuses on process development rather than PI/thermal.",
     "id": "9050d4d7",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New Product Introduction Engineer",
@@ -44173,13 +44168,12 @@
     "url": "https://uk.linkedin.com/jobs/view/new-product-introduction-engineer-at-axelera-ai-4426838720",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a New Product Introduction Engineer at Axelera AI, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development focused on test data analysis rather than semiconductor VLSI/EDA.",
     "id": "f3787c80",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Validation and Characterisation Engineer",
@@ -44188,13 +44182,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-validation-and-characterisation-engineer-at-pragmatic-semiconductor-4423345414",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a semiconductor validation & characterisation role, but does not match the required Power Integrity, Advanced Packaging, CAD/Methodology, VLSI/SoC Design or EDA Tools focus areas.",
+    "reason": "The role is focused on device validation, characterization, and electrical test methodologies for semiconductor devices, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "097204e9",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Photolithography",
@@ -44203,13 +44196,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-photolithography-at-huawei-technologies-research-development-uk-ltd-4405025419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Principal Engineer in Photolithography, which does not match the semiconductor/VLSI/EDA domains targeted.",
+    "reason": "The role is primarily focused on photolithography for optoelectronic device manufacturing, which is outside Vineeth's Power Integrity and Advanced Packaging domains.",
     "id": "8c873824",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer",
@@ -44218,13 +44210,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-engineer-at-leonardo-4429141809",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical manufacturing engineering position at Leonardo, which does not fit the semiconductor/VLSI/EDA technical focus of this job search.",
+    "reason": "The role is for a Manufacturing Engineer, which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD.",
     "id": "70ab2c95",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Product Design Engineer",
@@ -44232,14 +44223,13 @@
     "location": "Cambridgeshire, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-product-design-engineer-at-microtech-global-ltd-4428869529",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with 6+ years experience, good match for our Senior Leadership roles, but location is UK which isn't a top priority region.",
+    "matches_requirements": "no",
+    "reason": "The role is more focused on product design and development rather than semiconductor, power integrity, packaging or EDA domains that Vineeth Prathapachandra Kaimal specializes in.",
     "id": "f81f9a4d",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Opto-Electronics Device Engineer",
