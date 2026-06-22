@@ -33905,29 +33905,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/principal-mems-development-engineer-at-sitime-4344991411",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for MEMS development, which does not directly match the Power Integrity, Advanced Packaging, CAD/EDA domains of expertise.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong MEMS development focus but not deeply specific to Vineeth's areas of power integrity and advanced packaging.",
     "id": "288c9366",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Career Accelerator Program - Digital Design Engineer (Knoxville, TN)",
-    "company": "Texas Instruments",
-    "location": "Knoxville, TN",
-    "url": "https://www.linkedin.com/jobs/view/career-accelerator-program-digital-design-engineer-knoxville-tn-at-texas-instruments-4401803035",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an internship position, which does not fit the candidate's senior level experience and technical domain expertise.",
-    "id": "65246db1",
-    "source": "linkedin_vlsi_ww",
-    "posted_date": "2026-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Software Engineer - Accelerator Tools-Engineering",
@@ -33935,14 +33919,13 @@
     "location": "Cambridge, United Kingdom",
     "url": "https://careers.arm.com/job/cambridge/principal-software-engineer-accelerator-tools-engineering/33099/85244193712",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Principal Software Engineer - Accelerator Tools-Engineering, which does not directly match the semiconductor/VLSI/EDA domains specified.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 15+ years of experience, but no exact location mentioned",
     "id": "814a78d5",
     "source": "arm_careers",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality System Development Engineer (Dept: AQSD/ Div: IMC)",
@@ -33951,13 +33934,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5300&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Quality System Development Engineer, which does not match the technical domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, etc. that we are targeting.",
+    "reason": "The role is primarily software development with C#, Python, Web programming and frameworks like JavaScript, Angular/Vue mentioned. This is outside Vineeth's domain of Power Integrity, Advanced Packaging and EDA.",
     "id": "542c3f68",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -33966,13 +33948,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FQuality-System-Development-Engineer-Dept-AQSD-Div-IMC%2F5300",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is broken and doesn't lead to a proper job posting, so it can't be evaluated.",
+    "reason": "The job posting URL does not lead to a valid job description page, so it cannot be evaluated.",
     "id": "aeb7ffef",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Financial Specialist, Foreign Exchange Management Department",
@@ -33981,13 +33962,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19694&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a financial specialist position focused on foreign exchange management rather than semiconductor/VLSI/EDA technical roles.",
+    "reason": "This is a financial role at TSMC, which does not match Vineeth's technical background in semiconductor power integrity and advanced packaging.",
     "id": "436ea4ef",
     "source": "tsmc_careers",
     "posted_date": "2026-03-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -33996,13 +33976,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFinancial-Specialist-Foreign-Exchange-Management-Department%2F19694",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not lead to a valid page with necessary details for evaluation.",
+    "reason": "The job posting is for a non-technical Financial Specialist role at TSMC, which is outside Vineeth's engineering/technical domain.",
     "id": "588d5546",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ECE BOARD EXAM REVIEW SZN",
@@ -34011,13 +33990,12 @@
     "url": "https://old.reddit.com/r/ECE/comments/1u9xqzd/ece_board_exam_review_szn/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for ECE board exam preparation, not a technical engineering position related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for an engineering board exam review, which does not match Vineeth's technical experience in semiconductor/VLSI/EDA.",
     "id": "c13855fd",
     "source": "reddit_ece",
     "posted_date": "2026-06-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -34026,13 +34004,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-scouto-ai-4429660013",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for RTL Design Engineer at Scouto AI, which doesn't match the semiconductor/VLSI/EDA industry focus required.",
+    "reason": "This RTL Design Engineer role is focused on Quantum hardware design, which does not match Vineeth's background in Power Integrity and advanced packaging.",
     "id": "5d4e002c",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior EDA Tools Hardware Engineer",
@@ -34041,13 +34018,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-eda-tools-hardware-engineer-at-intel-4418843332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on hardware design tools development, whereas the candidate profile is suited for power integrity and advanced packaging roles.",
+    "reason": "The role is for an EDA Tools Hardware Engineer and thus falls outside Vineeth's primary domain of Power Integrity & Advanced Packaging.",
     "id": "a05ee785",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-08-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Verification Engineer | Precision ADC",
