@@ -24564,17 +24564,16 @@
   {
     "title": "Product Engineer I",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Rochester Electronics",
     "url": "https://www.glassdoor.com/job-listing/product-engineer-i-rochester-electronics-JV_IC1154635_KO0,18_KE19,40.htm?jl=1010172841730",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The Product Engineer I role does not match Vineeth's technical background and experience in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is a non-technical Product Engineer position at an electronics company, which does not match Vineeth's engineering background in Power Integrity and VLSI.",
     "id": "fd949aa2",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "product engineer jobs in Newburyport, MA",
@@ -24582,14 +24581,13 @@
     "location": "Newburyport, MA, USA",
     "url": "https://www.glassdoor.com/Job/newburyport-product-engineer-jobs-SRCH_IL.0,11_IC1154635_KO12,28.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a product engineer role in Newburyport, MA, which does not match the specified technical domains and locations for semiconductor/VLSI/EDA positions.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "d6943f62",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Newburyport, MA jobs",
@@ -24598,13 +24596,12 @@
     "url": "https://www.glassdoor.com/Job/newburyport-jobs-SRCH_IL.0,11_IC1154635.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the semiconductor/VLSI/EDA domain requirements.",
+    "reason": "This is a human-only search interface page, not an actual job posting.",
     "id": "c1cc8e31",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Rochester Electronics jobs in Newburyport, MA",
@@ -24613,13 +24610,12 @@
     "url": "https://www.glassdoor.com/Job/newburyport-rochester-electronics-jobs-SRCH_IL.0,11_IC1154635_KO12,33.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Newburyport, MA which does not match the target locations of Finland, Europe (outside Finland), UK, India or Asia, or fully remote with worldwide eligibility.",
+    "reason": "The job is for a non-technical role at Rochester Electronics, which only distributes electronic components and does not appear to be involved in semiconductor/VLSI/EDA design or engineering.",
     "id": "098b103c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC DFX Staff Engineer",
@@ -24627,14 +24623,13 @@
     "location": "MARKHAM, Canada",
     "url": "https://careers.amd.com/careers-home/jobs/81103?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for an SoC DFX Staff Engineer, matching the technical domain of VLSI/SoC Design and EDA Tools.",
+    "matches_requirements": "no",
+    "reason": "The role requires specific DFT/DFD expertise which is not covered in Vineeth's background.",
     "id": "dced67a5",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd__advanced_micro__soc_dfx_staff_engineer_dced67a5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff/Senior Engineer, Firmware Test, SSDSingapore, SingaporePosted 2 months ago",
@@ -24642,14 +24637,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41287367",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Firmware Test Engineer, which does not directly match the VLSI/EDA job requirements. It does not involve Power Integrity, CAD Methodology, or EDA tools.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ed52965c",
     "source": "micron_careers",
-    "posted_date": "2023-05-18",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5132\u5099\u6a21\u7d44\u526f\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
@@ -24657,14 +24651,13 @@
     "location": "\u65b0\u7af9, Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=414&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a specific technical role at TSMC, but it does not match the detailed criteria for an ideal semiconductor/VLSI/EDA job posted by my client.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "c9a83f92",
     "source": "tsmc_careers",
-    "posted_date": "2026-03-24",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -24673,13 +24666,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F414",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position does not match our target domains of Power Integrity, Advanced Packaging, CAD/Methodology, and Physical Design.",
+    "reason": "The role is a software engineering position, not a technical semiconductor/VLSI/EDA role.",
     "id": "accdc9b0",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Occupational Health Administrator (\u5065\u5eb7\u4fc3\u9032\u7ba1\u7406\u5e2b)",
@@ -24688,13 +24680,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19754&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on occupational health administration rather than semiconductor/VLSI/EDA technical work.",
+    "reason": "The role is non-technical, focused on health management and nursing staff operations, outside Vineeth's domain of semiconductor/VLSI/EDA engineering.",
     "id": "963bfd0a",
     "source": "tsmc_careers",
     "posted_date": "2026-04-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -24703,13 +24694,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FOccupational-Health-Administrator%2F19754",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Occupational Health Administrator, which is a non-technical role and does not fit our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "The job is a non-technical HR role, which does not match Vineeth's technical background in semiconductor VLSI EDA.",
     "id": "9bca0c42",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer (Taiwan)",
