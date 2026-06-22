@@ -34997,14 +34997,13 @@
     "location": "Tempe, AZ, USA",
     "url": "https://www.glassdoor.com/Job/tempe-process-engineer-jobs-SRCH_IL.0,5_IC1133917_KO6,22.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Tempe, AZ, USA which does not match the preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also does not mention visa sponsorship or relocation.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "444d5a92",
     "source": "glassdoor_semi",
-    "posted_date": "2026-06-19",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Systems Engineer E3",
@@ -35013,13 +35012,12 @@
     "url": "https://www.glassdoor.com/job-listing/systems-engineer-e3-applied-materials-JV_IC1154574_KO0,19_KE20,37.htm?jl=1010155243425",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The Systems Engineer role is a non-technical, generalist position that does not match the candidate's background in Power Integrity (PI), Advanced Packaging, and EDA tools.",
+    "reason": "The job is for a Systems Engineer position at Applied Materials, which does not fit Vineeth's background in Power Integrity, Advanced Packaging, EDA CAD Methodology, and SoC Physical Design.",
     "id": "8dafe2ae",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "systems engineer jobs in Gloucester, MA",
@@ -35028,13 +35026,12 @@
     "url": "https://www.glassdoor.com/Job/gloucester-systems-engineer-jobs-SRCH_IL.0,10_IC1154574_KO11,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Gloucester, MA, USA which does not match the target locations of Finland/UK/India/Asia/Remote (Worldwide). Also, it's a non-technical Systems Engineer role rather than a semiconductor/VLSI/EDA technical position.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "3695126b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Linux Kernel Development Engineer",
@@ -35043,13 +35040,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/81212?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires Linux experience with CPUs, GPUs, and NPUs on Android, Yocto, or Ubuntu. But it is explicitly located in Bangalore, India which does not match the priority regions of Finland, Europe (outside Finland), UK, India, Asia, Fully Remote, or US with visa sponsorship.",
+    "reason": "The job is software development focused, which doesn't match Vineeth's domain.",
     "id": "6c57e2ad",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI LEAD L1",
@@ -35058,13 +35054,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4430945553",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Bengaluru, India which does not match the target locations of Finland/UK/Asia/Remote Worldwide.",
+    "reason": "This role is for VLSI verification planning, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "348f597f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC Performance Modeling & Architecture Engineer",
@@ -35073,13 +35068,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84935?lang=en-us",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior SoC Architecture role matching power, thermal, and performance domains with 5+ years experience.",
+    "reason": "Matches Vineeth's background in Power Integrity, CAD methodology and his technical leadership skills.",
     "id": "61425fb0",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_soc_performance_modeling___arc_61425fb0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_soc_performance_modeling___arc_61425fb0.txt"
   },
   {
     "title": "GPU Performance Modeling & Optimization Engineer",
@@ -35087,14 +35081,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/84934?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires hands-on GPU Performance Modeling & Optimization experience which matches the candidate's background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (AI/ML workloads) and not focused on hardware-software co-design for GPU performance modeling.",
     "id": "d88e9d0c",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd__advanced_micro__gpu_performance_modeling___opt_d88e9d0c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -35102,14 +35095,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-intel-4429636441",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Physical Design Engineer position at Intel, matching the target domain of 'Physical Design'. It has over 6 years experience required which falls into the 10-15+ years priority range.",
+    "matches_requirements": "no",
+    "reason": "This is a mid-level Physical Design Engineer role, which does not match Vineeth's senior leadership level.",
     "id": "8c8aa4ff",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-23",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/intel_physical_design_engineer_8c8aa4ff.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Internship for Engineering Students (Resume Databank)Melaka (Malaysia)101479",
@@ -35118,13 +35110,12 @@
     "url": "https://www.infineon.com/careers/job/563808955939351",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical internship resume collection role at Infineon, which does not match our semiconductor/VLSI/EDA technical position criteria.",
+    "reason": "The URL provided is for a generic Infineon career page with no specific job opening details, so it cannot be evaluated.",
     "id": "c17342f5",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RF (radio frequency) Reliability Engineer",
@@ -35133,13 +35124,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4583&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RF Reliability Engineer role is not a direct match for our semiconductor/VLSI/EDA technical focus area.",
+    "reason": "The role is focused on RF device characterization and reliability, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "7bf24f0b",
     "source": "tsmc_careers",
     "posted_date": "2026-03-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
