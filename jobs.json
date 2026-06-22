@@ -6494,13 +6494,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tpau3p/doing_a_master_degree_but_with_low_grade/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is a general discussion post, not an actual job listing with requirements.",
+    "reason": "The job is not a specific technical role, but rather a discussion on pursuing higher education with low grades.",
     "id": "9d97e0db",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Job instead of grad school?",
@@ -6509,13 +6508,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tl7tic/job_instead_of_grad_school/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general discussion post, not an actual job listing.",
+    "reason": "Discarded due to network policy block - cannot access full job details.",
     "id": "e4d5a822",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Anyone who recently interviewed with the Acacia team at Cisco? I interviewed right before the layoff announcement",
@@ -6524,13 +6522,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tjv0uy/anyone_who_recently_interviewed_with_the_acacia/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The post discusses a specific interview experience and is not an actual job posting.",
+    "reason": "The job is for an interviewee who recently interviewed with Cisco's Acacia team, not a technical role at a semiconductor company.",
     "id": "f57da43e",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Where are RTL engineers in india",
@@ -6539,13 +6536,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tibpik/where_are_rtl_engineers_in_india/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a community discussion post, not an actual job posting with requirements and details to match.",
+    "reason": "The URL provided is blocked due to a network policy, and there is no job description available in the Reddit post.",
     "id": "44720c59",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hiring senior RTL engineers for a startup \u2014 founding team",
@@ -6554,13 +6550,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1thkp3h/hiring_senior_rtl_engineers_for_a_startup/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a startup hiring senior RTL engineers globally, but no specific domain, technical area match based on provided criteria.",
+    "reason": "The job is for RTL engineers, which falls under verification and is outside Vineeth's domain of expertise.",
     "id": "e4f37f98",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Google silicon design university hiring",
@@ -6568,14 +6563,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/chipdesign/comments/1tggtxq/google_silicon_design_university_hiring/",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The posting mentions 'global / remote' but no specific deadline or company name is given.",
+    "matches_requirements": "no",
+    "reason": "The job posting URL was blocked, preventing further evaluation of the actual job details.",
     "id": "776bc7b2",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Need realistic career guidance from people in the Analog IC design industry",
@@ -6583,14 +6577,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/chipdesign/comments/1tfrjry/need_realistic_career_guidance_from_people_in_the/",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The provided URL returns an error message and does not contain a valid job posting.",
     "id": "9eeb9ecc",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Bad time for grad school?",
@@ -6598,14 +6591,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/chipdesign/comments/1tc073c/bad_time_for_grad_school/",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The posting does not specify a technical role, but is in a relevant domain.",
+    "matches_requirements": "no",
+    "reason": "Not a valid job posting, just a Reddit discussion comment.",
     "id": "23a31eb1",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Would you recommend telecommunications or electronics as a specialty to me?",
@@ -6614,13 +6606,12 @@
     "url": "https://old.reddit.com/r/ECE/comments/1u90z11/would_you_recommend_telecommunications_or/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a discussion post, not a job posting.",
+    "reason": "The job is asking for a recommendation on specialties, not a technical role to be filled.",
     "id": "26ab5c32",
     "source": "reddit_ece",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote B2B PCB layout design",
@@ -6629,13 +6620,12 @@
     "url": "https://old.reddit.com/r/ECE/comments/1u7qj0q/remote_b2b_pcb_layout_design/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general discussion post about finding remote PCB design work, not a specific job posting.",
+    "reason": "Job posting URL is blocked, cannot access full details to evaluate match",
     "id": "1a5e06ae",
     "source": "reddit_ece",
     "posted_date": "2026-06-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Tired of Co-op/Internship and furutre doesn't seem hopeful either, Need Advice and considertaion",
