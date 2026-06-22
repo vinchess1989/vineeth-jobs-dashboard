@@ -28418,13 +28418,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1u9plmu/pilot_testers_wanted_for_product_development_tool/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job posting is on a general forum and does not mention specific technical domains, experience levels, location details.",
+    "reason": "The job post is blocked by a network policy and cannot be directly accessed for evaluation.",
     "id": "0445d2ed",
     "source": "reddit_hwstartups",
     "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MCT Operations Excellence Engineer/Snr EngineerSingapore, SingaporePosted 9 days ago",
@@ -28433,13 +28432,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41667394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on backend manufacturing processes, which does not directly align with the VLSI/EDA technical domains.",
+    "reason": "The role is primarily focused on backend manufacturing processes, not semiconductor design/EDA/CAD.",
     "id": "6144c497",
     "source": "micron_careers",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MTB IE Cost EngineerTaichung City, Taichung City, TaiwanPosted 22 days ago",
@@ -28448,13 +28446,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42076429",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Industrial Engineer in manufacturing, not related to semiconductor VLSI EDA domains.",
+    "reason": "This position is for an industrial engineer focused on cost analysis and optimization, which does not match Vineeth's background in power integrity, advanced packaging, and EDA.",
     "id": "b388d750",
     "source": "micron_careers",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Wet Etch Process Development Engineer",
@@ -28463,28 +28460,26 @@
     "url": "https://www.glassdoor.com/job-listing/sr-wet-etch-process-development-engineer-skywater-technology-foundry-JV_IC1154232_KO0,40_KE41,68.htm?jl=1010173096953",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a Wet Etch Process Development Engineer, which does not align with the technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership targeted in the job search requirements.",
+    "reason": "The role is focused on wet etch process development, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and CAD Methodology.",
     "id": "8e269ce6",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Kissimmee, FL",
     "company": "Security Solutions",
-    "location": "Extract from page",
+    "location": "Orlando, FL, USA",
     "url": "https://www.glassdoor.com/Job/kissimmee-process-engineer-jobs-SRCH_IL.0,9_IC1154232_KO10,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are not in semiconductor/VLSI/EDA domain but rather general manufacturing/engineering roles.",
+    "reason": "This is a general manufacturing process engineering role at an automotive company, which does not match Vineeth's semiconductor/VLSI/EDA background and technical requirements.",
     "id": "9f02c970",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Kissimmee, FL jobs",
@@ -28493,13 +28488,12 @@
     "url": "https://www.glassdoor.com/Job/kissimmee-jobs-SRCH_IL.0,9_IC1154232.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a semiconductor company.",
+    "reason": "The job search is for Kissimmee, FL jobs which does not match Vineeth's background and requirements in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "d56065e5",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SkyWater Technology Foundry jobs in Kissimmee, FL",
@@ -28507,14 +28501,13 @@
     "location": "Kissimmee, FL, USA",
     "url": "https://www.glassdoor.com/Job/kissimmee-skywater-technology-foundry-jobs-SRCH_IL.0,9_IC1154232_KO10,37.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This appears to be a search result page for SkyWater Technology Foundry jobs in Kissimmee, FL on Glassdoor. It does not contain details of specific job postings that match the criteria outlined.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "24ea3cb3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer IV",
@@ -28523,13 +28516,12 @@
     "url": "https://www.glassdoor.com/job-listing/optical-engineer-iv-applied-materials-JV_IC1147439_KO0,19_KE20,37.htm?jl=1010150762416",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Optical Engineer IV role, which does not match the required technical domains in Power Integrity/Signal Integrity, Advanced Packaging/Thermal, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership roles.",
+    "reason": "The role is for an Optical Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "86b21460",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "optical engineer jobs in Santa Clara, CA",
@@ -28538,13 +28530,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-optical-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Optical Engineer, which does not match the target domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The job is for an optical engineer, which is a software role focused on lasers and photonics - outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "d4c9da3a",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physicist/Scientist E4",
@@ -28553,13 +28544,12 @@
     "url": "https://www.glassdoor.com/job-listing/physicist-scientist-e4-applied-materials-JV_IC1147439_KO0,22_KE23,40.htm?jl=1010164664450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Physicist/Scientist which does not match the technical domains of Semiconductor/VLSI/EDA.",
+    "reason": "The role is a Physicist/Scientist position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "897dbc28",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "physicist jobs in Santa Clara, CA",
