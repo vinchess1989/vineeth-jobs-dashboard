@@ -19752,13 +19752,12 @@
     "url": "https://in.linkedin.com/jobs/view/phy-v-lead-at-amd-4424824693",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior leadership role with PHY-V expertise, good match for candidate profile.",
+    "reason": "Matches leadership role with technical overlap in physical design and verification sign-off.",
     "id": "e28a1291",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_phy__v_lead_e28a1291.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_phy__v_lead_e28a1291.txt"
   },
   {
     "title": "ASIC Design Verification Engineer",
@@ -19767,13 +19766,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84437?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a Bachelors or Masters degree, which exceeds Vineeth's experience level of 15 years.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "830d7469",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Test Automation Engineer",
@@ -19782,13 +19780,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87257?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a test automation engineer position at AMD, which does not fit the semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is software development (ML training workflows) rather than power integrity, packaging, physical design, or EDA tools.",
     "id": "b637c7f3",
     "source": "amd_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr System Design EngineerRichardson, Texas, United States of AmericaPosted a month ago",
@@ -19797,13 +19794,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40450403",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on memory design engineering for HBM, with a strong emphasis on bench-level characterization and testing. This does not match the key requirements in Power Integrity (PI), Advanced Packaging, CAD/Methodology, or SoC Physical Design.",
+    "reason": "This role is focused on electrical and thermal characterization of HBM memory modules, which doesn't match Vineeth's technical background in Power Integrity, Packaging, EDA tools and methodologies.",
     "id": "c5291908",
     "source": "micron_careers",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Product Manager of Enterprise Business Systems",
@@ -19812,28 +19808,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16064&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Manager of Enterprise Business Systems, which does not fit the technical domains we are targeting (Power Integrity/SI, Advanced Packaging/Thermal, CAD/Methodology).",
+    "reason": "The job is for an IT Product Manager role, which is a non-technical position in a semiconductor company.",
     "id": "d41f2d8f",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "TSMC",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Product-Manager-of-Enterprise-Business-Systems%2F16064",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Product Manager) at a semiconductor company, which does not match the desired engineering/technical positions.",
+    "reason": "The role is more focused on software product management rather than technical power integrity, packaging or VLSI work.",
     "id": "3ba716a9",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC/RTL Design Engineer",
@@ -19842,13 +19836,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-rtl-design-engineer-at-netpolarity-inc-saicon-consultants-inc-4429358073",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contract position and does not match the criteria of being a full-time, permanent position in the target domains.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which falls outside Vineeth's domain.",
     "id": "ab56128f",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Verification Engineer",
@@ -19857,13 +19850,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84448?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Design Verification Engineer, which does not directly match the target domains of Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "dc701462",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u53f0\u5357",
@@ -19872,28 +19864,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21847&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches semiconductor/VLSI/EDA candidate profile and is located in Taiwan, a key region for this job search.",
+    "reason": "The job is in power electronics and semiconductor manufacturing, which matches Vineeth's background in PI, packaging, and SoC design.",
     "id": "258bc072",
     "source": "tsmc_careers",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_____________258bc072.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_____________258bc072.txt"
   },
   {
     "title": "LinkedIn",
     "company": "TSMC (Taiwan Semiconductor Manufacturing Company)",
-    "location": "Extract from page",
+    "location": "LinkedIn",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21847",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not specify a clear location, making it ineligible based on the search criteria.",
+    "reason": "The role is a software development position, which is outside Vineeth's domain.",
     "id": "0b312b7a",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "More details",
