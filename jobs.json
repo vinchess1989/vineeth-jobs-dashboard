@@ -6223,18 +6223,17 @@
   },
   {
     "title": "Siemens Jobs Search Homepage",
-    "company": "Extract from page",
+    "company": "Siemens",
     "location": "Extract from page",
     "url": "https://jobs.siemens.com/en_US/externaljobs",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The page does not contain enough specific details to determine a match for our targeted semiconductor/VLSI/EDA job search criteria.",
+    "reason": "The URL provided is a general Siemens job search page without specific details for any open role, so it cannot be evaluated against the target criteria.",
     "id": "700046e0",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Review Accommodations for Disability",
@@ -6243,13 +6242,12 @@
     "url": "https://www.siemens.com/us/en/company/jobs/search-careers/accommodation-for-disability.html",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical HR role for accommodations, which does not match our semiconductor/VLSI/EDA technical position requirements.",
+    "reason": "This is not a technical engineering role, but rather for accommodation assistance related to disabilities within the hiring process.",
     "id": "4365de75",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hiring and careers",
@@ -6258,13 +6256,12 @@
     "url": "https://ic-resources.com/en/career-advice/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The page contains only general career advice articles with no specific job postings.",
+    "reason": "The job listing is for general career advice, not a specific technical engineering role at a semiconductor company.",
     "id": "7b151004",
     "source": "ic_resources",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Romania (11)",
@@ -6273,28 +6270,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/romania",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Technical Project Manager role which does not match the technical domains in the requirements.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "e0a37dc5",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Spain (16)",
-    "company": "Sweden (10)",
-    "location": "Extract from page",
-    "url": "https://www.euroengineerjobs.com/jobs/spain",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This posting does not fit our semiconductor/VLSI/EDA technical focus.",
-    "id": "8a90df0f",
-    "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sweden (10)",
@@ -6302,14 +6283,13 @@
     "location": "V\u00e5rg\u00e5rda, Sweden",
     "url": "https://www.euroengineerjobs.com/jobs/sweden",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role of Electronics Design Engineer at Autoliv in V\u00e5rg\u00e5rda, Sweden matches the target domains of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus and CAD / Methodology: CAD tool methodology, sign-off flow automation, EDA integration.",
+    "matches_requirements": "no",
+    "reason": "This is an electronics design engineering role focused on automotive safety systems, which doesn't match Vineeth's VLSI/EDA background in power integrity and packaging.",
     "id": "3654dd38",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/autoliv_sweden__10__3654dd38.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "United Kingdom (28)",
@@ -6317,14 +6297,13 @@
     "location": "Bristol, UK",
     "url": "https://www.euroengineerjobs.com/jobs/united_kingdom",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting URL was missing, so there's no way to verify location, company, or deadline.",
+    "matches_requirements": "yes",
+    "reason": "The job is for a Principal Instrumentation and Control Engineer at Wood Group, fitting Vineeth's technical leadership experience in Power Integrity, Advanced Packaging. It is in Bristol, UK.",
     "id": "64d452f7",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/principal_instrument_united_kingdom__28__64d452f7.txt"
   },
   {
     "title": "Multiple Countries (14)",
@@ -6332,14 +6311,13 @@
     "location": "Multiple Locations, Multiple Countries",
     "url": "https://www.euroengineerjobs.com/jobs/multiple_countries",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is not specific to any of the technical domains listed in the requirements.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domain (Power Integrity), leadership role, and location (Finland)",
     "id": "bdb2e050",
     "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/multiple_countries_multiple_countries__14__bdb2e050.txt"
   },
   {
     "title": "Automotive Engineer (68)",
@@ -6348,13 +6326,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/automotive_engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Marketing Specialist) at a semiconductor company, which violates one of the hard rejection criteria.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "fe981ae3",
     "source": "euro_engineer_jobs",
     "posted_date": "2023-06-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Biomedical Engineer (6)",
@@ -6363,13 +6340,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/biomedical_engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a biomedical engineering role, not semiconductor/VLSI/EDA.",
+    "reason": "This biomedical engineering role is outside Vineeth's semiconductor/VLSI/EDA domain and experience.",
     "id": "f118e94e",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-28",
+    "description_file": null
   },
   {
     "title": "Chemical Engineer (28)",
