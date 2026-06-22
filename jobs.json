@@ -53799,14 +53799,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-lead-at-l-t-technology-services-4416188851",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is an RTL design role, which does not match Vineeth's power integrity and advanced packaging focus.",
     "id": "2cb0482f",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IC Package layout designer - 4 to 8 Years - Bangalore",
@@ -53815,13 +53814,12 @@
     "url": "https://in.linkedin.com/jobs/view/ic-package-layout-designer-4-to-8-years-bangalore-at-cisco-4427508358",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match Domain & Technical Area criteria, specifically lacking Power Integrity (PI) and Signal Integrity (SI) expertise.",
+    "reason": "This is a mid-senior level IC package layout designer role with 4-8 years experience, which does not match Vineeth's 15+ years of technical leadership. It also does not clearly specify in the title or description that it is open until filled.",
     "id": "22bb5b3d",
     "source": "linkedin_india_asic_design",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Lead",
@@ -53829,14 +53827,13 @@
     "location": "Noida, Uttar Pradesh, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-lead-at-erbity-4422352365",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This role aligns with the target domains of RTL Design and ASIC/SoC projects, fitting the candidate profile's background.",
+    "matches_requirements": "no",
+    "reason": "Role is focused on RTL design rather than Power Integrity, Packaging or EDA tools - outside of Vineeth's core area of expertise.",
     "id": "8ddc6f1d",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/erbity_rtl_design_lead_8ddc6f1d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL design",
@@ -53845,13 +53842,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-at-silicon-patterns-4427518533",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RTL design role does not match the Power Integrity, Advanced Packaging, SoC PDN sign-off focus of the target job criteria.",
+    "reason": "The job is for an RTL Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "99bc8802",
     "source": "linkedin_india_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Layout Lead/Manager",
@@ -53859,14 +53855,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-layout-lead-manager-at-larsen-toubro-4378388030",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is focused on Analog Mixed Signal IP/IC methodology, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "200e5dd3",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC RTL Design Engineer",
@@ -53875,13 +53870,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-rtl-design-engineer-at-tesla-4420213866",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an RTL design engineer role focused on AI hardware for Tesla, which doesn't match the key domains of Power Integrity (PI), Advanced Packaging / Thermal, or CAD / Methodology in semiconductor/VLSI/EDA.",
+    "reason": "The role is software engineering focused (ASIC design for AI accelerators at Tesla) rather than semiconductor/VLSI/EDA.",
     "id": "ebdb2297",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Physical Design Engineer (Lead/Sr Lead/Staff)",
@@ -53889,14 +53883,13 @@
     "location": "Noida, Uttar Pradesh, India",
     "url": "https://in.linkedin.com/jobs/view/cpu-physical-design-engineer-lead-sr-lead-staff-at-qualcomm-4396309450",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily for CPU Physical Design, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging. Instead, look for senior roles in Power Integrity, CAD Methodology, or Physical Design.",
     "id": "3f6dafe5",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Events & Marketing Executive",
@@ -53904,14 +53897,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/global-events-marketing-executive-at-cyient-semiconductors-4416810021",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on marketing and events coordination, which does not match Vineeth's technical background in semiconductor design, EDA tools, and power integrity.",
     "id": "58f024de",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Digital Mask Design Engineer",
@@ -53919,14 +53911,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-digital-mask-design-engineer-at-nvidia-4428404978",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog IC design layout with focus on high-performance analog blocks such as Current mirrors, Sense Amps, bandgaps etc., which falls outside Vineeth's domain of Power Integrity (PI), Advanced Packaging / Thermal, CAD/Methodology, and Physical Design.",
     "id": "06b52c66",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Digital Mask Design Engineer",
@@ -53934,14 +53925,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-digital-mask-design-engineer-at-nvidia-ai-4426858596",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog design, which does not match Vineeth's power integrity and advanced packaging focus.",
     "id": "5816e761",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CMPC ENGINEER - SENIOR TEAM LEADER",
