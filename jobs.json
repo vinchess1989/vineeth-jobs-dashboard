@@ -25660,13 +25660,12 @@
     "url": "https://fi.linkedin.com/jobs/view/csa-project-manager-at-vallum-associates-4425622732",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a project management position focused on civil, structural and architectural works in construction projects, which does not directly align with the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The role is a CSA Project Manager, which does not match Vineeth's technical background in Power Integrity and VLSI.",
     "id": "8fce327b",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Document Controller",
@@ -25675,13 +25674,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-document-controller-at-thor-4427371081",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical document control position, not matching our semiconductor/VLSI/EDA technical roles.",
+    "reason": "The job is for a non-technical Lead Document Controller role at a construction company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "2af48c5e",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Senior) Embedded Software Engineer",
@@ -25689,14 +25687,13 @@
     "location": "Oulu, North Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-embedded-software-engineer-at-alif-semiconductor-4425932447",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior embedded software engineer role with wireless focus in Finland.",
+    "matches_requirements": "no",
+    "reason": "The role is for an embedded software engineer rather than a semiconductor VLSI/EDA position.",
     "id": "b049e1f5",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/alif_semiconductor__senior__embedded_software_eng_b049e1f5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineering Manager, Underground Drilling",
@@ -25705,13 +25702,12 @@
     "url": "https://fi.linkedin.com/jobs/view/application-engineering-manager-underground-drilling-at-sandvik-4423159308",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Application Engineering for Underground Drilling, not related to Semiconductor/VLSI/EDA domain.",
+    "reason": "This role is a leadership position for underground drilling solutions, which does not match Vineeth's power integrity and packaging focus.",
     "id": "26e11d4a",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "2026-06-23",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
@@ -25719,14 +25715,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4419434686",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is close to Power Integrity work, though more focused on portfolio management and market research in power electronics rather than technical engineering.",
+    "matches_requirements": "no",
+    "reason": "The role is in power electronics engineering, which while related to semiconductor/EDA/VLSI, has significant differences in technology and focus compared to Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology. Also not a leadership position.",
     "id": "d55c4b7e",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-15",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
@@ -25735,13 +25730,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4419448449",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Portfolio Management role at an electronics company, which does not match our focus on engineering/technical positions in semiconductor/VLSI/EDA.",
+    "reason": "The role is a product management position, not an engineering/technical role in semiconductor/VLSI/EDA.",
     "id": "c75a25ad",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Office Administrator",
@@ -25750,13 +25744,12 @@
     "url": "https://fi.linkedin.com/jobs/view/office-administrator-at-sitime-4421224020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical office administration position, which does not match the semiconductor/VLSI/EDA technical engineering job focus.",
+    "reason": "The job is for an office administrator, not a technical role related to semiconductor/VLSI/EDA.",
     "id": "f8e20352",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Application Engineer",
@@ -25765,13 +25758,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-staff-application-engineer-at-alif-semiconductor-4425919568",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior/Staff Application Engineer role matches the candidate's background in Power Integrity, Advanced Packaging, and technical leadership.",
+    "reason": "Matches technical domain of Power Integrity and SoC design, with a senior leadership role.",
     "id": "d4b466f6",
     "source": "linkedin_semi_finland",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/alif_semiconductor_senior_staff_application_engin_d4b466f6.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/alif_semiconductor_senior_staff_application_engin_d4b466f6.txt"
   },
   {
     "title": "Manufacturing Specialist",
@@ -25780,28 +25772,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=13572&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical manufacturing specialist role at TSMC, which we are rejecting as per requirements.",
+    "reason": "This is a manufacturing specialist role, not a technical engineering position.",
     "id": "eecd73f6",
     "source": "tsmc_careers",
     "posted_date": "2025-04-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "LinkedIn",
-    "company": "LinkedIn",
-    "location": "Extract from page",
-    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FManufacturing-Specialist%2F13572",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
-    "id": "a5eb4460",
-    "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Development Engineer, Alexa Connected Devices",
