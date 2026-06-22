@@ -63781,14 +63781,13 @@
     "location": "Tampere Metropolitan Area",
     "url": "https://fi.linkedin.com/jobs/view/lead-isp-algorithm-developer-camera-and-imaging-at-amazon-4402074326",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Lead ISP Algorithm Developer position at Amazon, which does not match the VLSI/EDA job requirements profiled.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "877425f1",
     "source": "linkedin_fi_soc_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SAR Engineer",
@@ -63796,14 +63795,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-sar-engineer-at-iceye-4407821325",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior role with 15 years of experience matches key target domain of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus",
+    "matches_requirements": "no",
+    "reason": "The role is for Senior SAR Engineer, which does not match Vineeth's key skills in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off.",
     "id": "ab3a5d1e",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/iceye_senior_sar_engineer_ab3a5d1e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Security Manager",
@@ -63812,13 +63810,12 @@
     "url": "https://fi.linkedin.com/jobs/view/data-center-security-manager-at-alibaba-cloud-4405693605",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a cloud computing company, outside our focus domain.",
+    "reason": "This Data Center Security Manager role is focused on security systems and incident response, which does not match Vineeth's technical background in Power Integrity, Packaging and CAD. It would require a different candidate with deep cybersecurity and large data center operations experience.",
     "id": "2f422bd5",
     "source": "linkedin_fi_soc_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Wireless Systems Engineer",
@@ -63827,13 +63824,12 @@
     "url": "https://fi.linkedin.com/jobs/view/staff-wireless-systems-engineer-at-skylo-4424986728",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior wireless systems engineering role at Skylo is more focused on AI/ML integration and RAN architecture for satellite-based communication, which doesn't fully align with the job search requirements in Power Integrity (PI), Advanced Packaging, CAD Methodology. It is also located in Finland rather than India or US.",
+    "reason": "The role is focused on AI-enhanced wireless systems engineering, which is outside Vineeth's main domain of Power Integrity and VLSI. It also requires a PhD or Master's degree.",
     "id": "a9c42756",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verkostoidu kanssamme",
@@ -63841,14 +63837,13 @@
     "location": "Tampere, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/verkostoidu-kanssamme-at-insta-4414745441",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job mentions 'verkostoidu kanssamme' which translates to 'network with us', but does not clearly define the role. It may be a networking opportunity for non-technical roles, or could involve networking as part of another technical position.",
+    "matches_requirements": "no",
+    "reason": "The role is a general networking position, not a technical engineering/EDA role that Vineeth's background qualifies him for.",
     "id": "d9461d2a",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DC Security Operations Manager - Finland",
@@ -63857,13 +63852,12 @@
     "url": "https://fi.linkedin.com/jobs/view/dc-security-operations-manager-finland-at-tiktok-4424614482",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (HR) and excludes semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a leadership position for data center security operations, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "2583bc62",
     "source": "linkedin_fi_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Researcher, Agentic Safety & Alignment",
@@ -63872,13 +63866,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-researcher-agentic-safety-alignment-at-huawei-4403947794",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for AI Safety & Alignment research, which is non-technical and does not fit our semiconductor/VLSI/EDA job search criteria.",
+    "reason": "The role is research-focused on AI safety, which does not directly align with Vineeth's background in Power Integrity and VLSI design.",
     "id": "30e9a14e",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Arkkitehti",
@@ -63886,14 +63879,13 @@
     "location": "Tampere, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/arkkitehti-at-61n-4426321325",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches technical domain of Power Integrity and CAD/Methodology, but role is Architect rather than VLSI/EDA engineer.",
+    "matches_requirements": "yes",
+    "reason": "The role is for an architect at a technology consultancy firm, which aligns with Vineeth's CAD/Methodology and EDA Tools background. The location is Finland.",
     "id": "09160de0",
     "source": "linkedin_fi_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/61n_arkkitehti_09160de0.txt"
   },
   {
     "title": "Lead Cyber Security Engineer",
@@ -63902,13 +63894,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-cyber-security-engineer-at-ge-vernova-4416699208",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, specifically for Cyber Security, not matching the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is focused on industrial cybersecurity for critical power and automation systems, which does not match Vineeth's domain of semiconductor/EDA/VLSI/Power Integrity & Advanced Packaging.",
     "id": "dd1d6ca9",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Engineer HW & SW",
@@ -63917,13 +63908,12 @@
     "url": "https://fi.linkedin.com/jobs/view/embedded-engineer-hw-sw-at-alten-4422912410",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Embedded Engineer HW & SW role, which does not match the specified technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "reason": "This role is primarily software development (sulautettujen j\u00e4rjestelmien kehitykseen) and does not match Vineeth's focus on Power Integrity, Advanced Packaging, SoC PDN sign-off.",
     "id": "cb3337c6",
     "source": "linkedin_fi_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Research/Standardization Specialist",
