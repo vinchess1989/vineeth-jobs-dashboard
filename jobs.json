@@ -64468,13 +64468,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-%E2%80%93-sistemi-digitali-ad-alte-prestazioni-at-kineton-4385932542",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer focusing on digital systems rather than VLSI/SoC design, power integrity, or advanced packaging.",
+    "reason": "The role is primarily focused on FPGA design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "3d4afd1f",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -64482,14 +64481,13 @@
     "location": "Guildford, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-advanced-resource-managers-4428814396",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role involves FPGA development, but does not match the Power Integrity (PI) / Advanced Packaging / CAD / Methodology domains that Vineeth Prathapachandra Kaimal specializes in.",
+    "matches_requirements": "yes",
+    "reason": "Domain & Technical Area matches Hardware Engineer with PCB design, FPGA experience in OrCAD.",
     "id": "7f1d494f",
     "source": "linkedin_uk_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/advanced_resource_ma_hardware_engineer_7f1d494f.txt"
   },
   {
     "title": "Hardware Engineer",
@@ -64498,13 +64496,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-advanced-resource-managers-4428826245",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an electronics hardware design role focused on PCBs, FPGAs, and OrCAD, which does not match the candidate's background in power integrity, advanced packaging, and semiconductor PDN.",
+    "reason": "The role is primarily hardware design and FPGA development, outside Vineeth's power integrity and advanced packaging focus.",
     "id": "595729a5",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-05-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Hardware Engineer",
@@ -64513,13 +64510,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electronics-hardware-engineer-at-carbon-4424841298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electronics Hardware Engineer rather than a semiconductor/VLSI/EDA specialist.",
+    "reason": "The role is for electronics hardware engineering, which does not match Vineeth's background in Power Integrity, Advanced Packaging and VLSI.",
     "id": "bdb560aa",
     "source": "linkedin_uk_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -64527,14 +64523,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-design-verification-engineer-at-baya-systems-4370333175",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a senior design verification engineer with expertise in UVM-based testbenches, suitable for the target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (testbench development, UVM), which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "a0fa42b9",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/baya_systems_senior_design_verification_eng_a0fa42b9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Design Verification Engineer",
@@ -64542,14 +64537,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-design-verification-engineer-at-apple-4414163512",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain criteria of GPU Design Verification, with Apple hiring for UK location and senior level role.",
+    "matches_requirements": "no",
+    "reason": "The job is primarily for RTL/gate-level verification rather than power integrity or physical design, which are Vineeth's areas of expertise.",
     "id": "5531b0df",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/apple_gpu_design_verification_engine_5531b0df.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -64558,13 +64552,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-opus-recruitment-solutions-4426098798",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match technical domains of Power Integrity, CAD/Methodology, Physical Design related to VLSI/EDA. Requires Cellular/Wireless/IoT design experience.",
+    "reason": "The role is primarily hardware design and development rather than semiconductor, VLSI, EDA.",
     "id": "e621b123",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Formal Verification Engineer",
@@ -64572,14 +64565,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/formal-verification-engineer-at-apple-4414159652",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the domain of Advanced Packaging / Thermal, with a strong background in thermal analysis and packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "4b52c844",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_formal_verification_engineer_4b52c844.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -64588,13 +64580,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-verification-engineer-at-platform-recruitment-4428237097",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Verification Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, SoC PDN sign-off, etc. specified in the candidate profile.",
+    "reason": "This role is primarily focused on traditional verification rather than power integrity or advanced packaging.",
     "id": "2c868c9b",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GPU Design Verification Engineer",
@@ -64602,14 +64593,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-design-verification-engineer-at-apple-4414171065",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain expertise in Power Integrity, SI, Advanced Packaging and VLSI/EDA tools with preference for UK location.",
+    "matches_requirements": "no",
+    "reason": "This GPU Design Verification Engineer role focuses on RTL verification of graphics cores, which is primarily a verification domain and outside Vineeth's power integrity and advanced packaging focus.",
     "id": "fc49306a",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-03-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_gpu_design_verification_engine_fc49306a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced AMS Design Verification Engineer",
