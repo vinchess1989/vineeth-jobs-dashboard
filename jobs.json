@@ -61164,13 +61164,12 @@
     "url": "https://uk.linkedin.com/jobs/view/advanced-manufacturing-lead-at-hdr-4395425131",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Advanced Manufacturing Lead in the Industrial sector, not a technical engineering position in Power Integrity/EDA/VLSI/semiconductor.",
+    "reason": "The role is not technical, and is focused on manufacturing systems for building projects, not semiconductor VLSI EDA.",
     "id": "5af01101",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-04-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Project Specialist, Clinical Supplies",
@@ -61179,13 +61178,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-project-specialist-clinical-supplies-at-moderna-4427406940",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and does not fit any of the specified technical domains for semiconductor/VLSI/EDA.",
+    "reason": "The role is a non-technical project management position focused on clinical supplies, which does not match Vineeth's semiconductor/EDA/VLSI technical background.",
     "id": "8642ead9",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chemical Process Operator",
@@ -61194,13 +61192,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chemical-process-operator-at-scantec-recruitment-4415281541",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Chemical Process Operator, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical chemical manufacturing, not a semiconductor/VLSI/EDA engineering position.",
     "id": "09a72051",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Test Engineer \u2013 Advanced Packaging",
@@ -61208,14 +61205,13 @@
     "location": "Caldicot, Wales, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-test-engineer-%E2%80%93-advanced-packaging-at-microchip-technology-inc-4414644702",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a test engineering position focused on product verification and validation, which does not directly align with the specified target domains of Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior test engineering position focused on advanced packaging and test strategy development, matching Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "acbdb11a",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/microchip_technology_principal_test_engineer___adva_acbdb11a.txt"
   },
   {
     "title": "Junior Product Engineer - Pump Lasers",
@@ -61224,13 +61220,12 @@
     "url": "https://uk.linkedin.com/jobs/view/junior-product-engineer-pump-lasers-at-coherent-corp-4406711581",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an engineering role in photonics product development at Coherent Corp, a semiconductor company. However it does not match our technical domain (Power Integrity/Signal Integrity, Advanced Packaging/Thermal, CAD/Methodology, Physical Design, VLSI/SoC Design or EDA Tools).",
+    "reason": "The role is for product development of optical communication lasers, not semiconductor power integrity, packaging, or EDA tool applications.",
     "id": "78667fe2",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Fitter / Assembly Technician",
@@ -61239,13 +61234,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mechanical-fitter-assembly-technician-at-bmr-solutions-ltd-4418771003",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Fitter / Assembly Technician, which does not fit the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is for a mechanical fitter/assembly technician position, which falls outside Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "e9b7978b",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "AI-Enabled Visual Designer",
@@ -61254,13 +61248,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ai-enabled-visual-designer-at-avon-4418848980",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a visual designer using AI for beauty and fashion campaigns, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is a combination of design expertise with AI prompting, which does not directly match Vineeth's background in semiconductor, VLSI, EDA and technical leadership roles.",
     "id": "a7acacfb",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Process Engineer",
@@ -61269,13 +61262,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-packaging-process-engineer-at-ic-resources-4426842073",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match Vineeth's key skills and experience in Power Integrity, Advanced Packaging, CAD methodology, or related EDA tools.",
+    "reason": "This role is for a packaging process engineer, which does not directly match Vineeth's background in power integrity and CAD methodology.",
     "id": "ea5225d7",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Manufacturing Lead",
@@ -61284,13 +61276,12 @@
     "url": "https://uk.linkedin.com/jobs/view/advanced-manufacturing-lead-at-hdr-4395423217",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical leadership position focused on business development and project management, not directly related to semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a general leadership position for advanced manufacturing, which does not strongly match Vineeth's technical background in Power Integrity and Advanced Packaging. Also, it is located in Glasgow, Scotland.",
     "id": "caff174f",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-04-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Key Account Manager",
@@ -61299,13 +61290,12 @@
     "url": "https://uk.linkedin.com/jobs/view/key-account-manager-at-ic-resources-4430933943",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Sales and Business Development position, not an engineering/technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is a sales/business development position focused on AI, data center infrastructure and power electronics markets rather than technical engineering/leadership in semiconductor/VLSI/EDA.",
     "id": "261faab2",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-05-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MLCC",
