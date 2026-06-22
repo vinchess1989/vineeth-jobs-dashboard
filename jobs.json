@@ -2082,13 +2082,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/engineering",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general engineering roles listing without specific technical domain matches to our VLSI/EDA focus.",
+    "reason": "The role is a general engineering position without specific mention of the required technical domains like Power Integrity, Advanced Packaging, or CAD Methodology. It does not fit Vineeth's background.",
     "id": "c2322b25",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing",
@@ -2097,13 +2096,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/manufacturing",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing position, which does not match the technical roles in Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership that we are targeting.",
+    "reason": "The job is for a non-technical manufacturing position, which is outside Vineeth's domain of technical expertise in semiconductor and EDA.",
     "id": "4206713c",
     "source": "ti_careers",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical sales & applications",
@@ -2112,13 +2110,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/technical-sales-applications",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical sales role, not a technical engineering position.",
+    "reason": "The role is a technical sales & applications engineering position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "9b080f93",
     "source": "ti_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Communications",
@@ -2127,13 +2124,12 @@
     "url": "https://careers.ti.com/en/sites/CX/pages/communications",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical marketing position at a semiconductor company.",
+    "reason": "The job is for non-technical communications role at a semiconductor company, which does not match Vineeth's engineering background.",
     "id": "4873ae70",
     "source": "ti_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "useful advice and tips",
@@ -2142,13 +2138,12 @@
     "url": "https://www.nxp.com/company/careers-at-nxp/getting-hired:GETTING-HIRED",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general NXP careers page, not a specific job posting.",
+    "reason": "The job is a general careers advice page, not a specific engineering or technical role.",
     "id": "33ded1c9",
     "source": "nxp_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "apply via our internal career page",
@@ -2157,13 +2152,12 @@
     "url": "https://nxp1.sharepoint.com/sites/HR_Online/SitePages/careers_internal_opportunities.aspx",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to an NXP internal portal login page, with no actual job listings visible without logging in. There is no specific company, location, or title information available from this link.",
+    "reason": "The job posting URL is incorrect - it links to NXP's general career portal rather than a specific job listing.",
     "id": "d7abfce9",
     "source": "nxp_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "My Activity",
@@ -2172,13 +2166,12 @@
     "url": "https://www.infineon.com/careers/dashboard",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting, making it impossible to evaluate against the given criteria.",
+    "reason": "The URL provided is not a valid job posting, it's just Infineon's main careers page.",
     "id": "71e364bb",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Profile",
@@ -2187,13 +2180,12 @@
     "url": "https://www.infineon.com/careers/profile",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job posting URL is missing from the provided description.",
+    "reason": "No technical role specified, no experience level mentioned",
     "id": "92150033",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Benefits",
@@ -2202,13 +2194,12 @@
     "url": "https://www.infineon.com/careers/global-career-development-and-benefits",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not list a specific position, company, location, or application deadline.",
+    "reason": "The posting is for an HR role at a semiconductor company, which we reject based on the non-technical job requirement.",
     "id": "78779675",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Join Talent Network",
@@ -2217,13 +2208,12 @@
     "url": "https://www.infineon.com/careers/join?domain=infineon.com",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title 'Join Talent Network' does not specify a clear technical role, so it cannot be matched to the requirements.",
+    "reason": "The job posting URL returned a '404 Not Found' error, indicating the page does not exist.",
     "id": "e4bfb477",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manage",
@@ -2232,13 +2222,12 @@
     "url": "https://www.infineon.com/careers/settings",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain enough details to determine whether it matches the specified requirements.",
+    "reason": "The URL provided is invalid or leads to an error page, making it impossible to evaluate the job posting details.",
     "id": "170d7ca9",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industriepraktikum - Datenanalyse Produktmessdaten (w/m/div)Villach (Austria)HRC1604390On-site",
@@ -2247,13 +2236,12 @@
     "url": "https://www.infineon.com/careers/job/563808970308855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description URL does not lead to a valid posting. The page contains general company information and links but no specific job details.",
+    "reason": "The job posting does not specify a date posted, deadline for applying, or the company name.",
     "id": "9c757cd1",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship - Supply Chain Management (f/m/div)Villach (Austria)HRC1628625On-site",
