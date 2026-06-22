@@ -7319,14 +7319,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineering-technical-leader-at-cisco-4404066888",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Job requires onsite work in San Jose, CA which does not match the domain and technical area criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "66c7eb60",
     "source": "linkedin_asic_ww",
-    "posted_date": "2023-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -7335,13 +7334,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-black-sesame-technologies-inc-4413824744",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job posting URL is invalid, could not extract necessary details.",
+    "reason": "The job is for an ASIC Design Engineer at a semiconductor company, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging. It would require RTL design expertise and knowledge of ASIC flow that are not part of his background.",
     "id": "54bed6df",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer, TPU Compute",
@@ -7350,13 +7348,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-tpu-compute-at-google-4421796656",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for Google's TPU technology, which does not align with the Power Integrity/Advanced Packaging focus of Vineeth's background.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "b227ec8b",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer - Staff",
@@ -7365,13 +7362,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-staff-at-celero-communications-4426392134",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior ASIC Design Engineer role at Celero Communications is located in Irvine, CA and does not match the target domains of Power Integrity (PI), Advanced Packaging, or CAD/Methodology roles. The job was rejected based on domain mismatch.",
+    "reason": "This ASIC Design Engineer role is outside Vineeth's primary domain of Power Integrity and Advanced Packaging, focusing more on general digital design.",
     "id": "f21b91cb",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer IC Design 4",
@@ -7380,13 +7376,12 @@
     "url": "https://www.linkedin.com/jobs/view/r-d-engineer-ic-design-4-at-broadcom-4372840805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a BS/MS degree and 8+ years of experience, which exceeds our target domain expertise range of 10-15 years.",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "d4fd7a12",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer, TPU Integration and Automation",
@@ -7395,13 +7390,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-tpu-integration-and-automation-at-google-4423958140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Design Engineer for TPU integration at Google, which does not match the semiconductor/VLSI/EDA job search requirements.",
+    "reason": "The role is primarily software development (firmware engineer) and thus outside Vineeth's domain.",
     "id": "98e3817d",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL/Logic Design Engineer",
@@ -7410,13 +7404,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-logic-design-engineer-at-amd-4422787625",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL/Logic Design Engineer position at AMD's headquarters in Santa Clara, CA, which does not match the required domains of Power Integrity (PI), Advanced Packaging, CAD Methodology, or other VLSI/EDA areas.",
+    "reason": "The role is primarily RTL/Logic Design for a specific GPU IP, which falls outside Vineeth's Power Integrity & Advanced Packaging focus areas.",
     "id": "33b66987",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design and Integration Engineer, TPU and ML",
@@ -7425,13 +7418,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-and-integration-engineer-tpu-and-ml-at-google-4415710424",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer focused on ASIC and AI/ML hardware acceleration, not directly related to semiconductor/VLSI/EDA fields like Power Integrity (PI), Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is primarily software development (RTL design, scripting languages) which is outside Vineeth's domain of Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "fcce52ef",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Production Manager",
@@ -7440,13 +7432,12 @@
     "url": "https://in.linkedin.com/jobs/view/production-manager-at-tata-electronics-4417647616",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for production management of a semiconductor manufacturing facility, but does not require technical expertise in VLSI/EDA fields.",
+    "reason": "The role is a production management position, which falls outside Vineeth's technical domain of expertise.",
     "id": "58ca2de3",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Engineer",
@@ -7455,13 +7446,12 @@
     "url": "https://in.linkedin.com/jobs/view/production-engineer-at-tata-electronics-4420736298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Production Engineer at Tata Electronics in India, which does not match the semiconductor/VLSI/EDA technical domains or locations we are targeting.",
+    "reason": "This production engineering role is at a semiconductor manufacturing facility, but it does not match Vineeth's specialized technical background in VLSI/EDA/Power Integrity.",
     "id": "f8442ac9",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-03-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Mgr, Sales",
