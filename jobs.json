@@ -10441,14 +10441,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/manufacturing-line-manager-motor-at-larsen-toubro-4425494855",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a manufacturing line manager for EV traction motors, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
     "id": "5ea1d0e3",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-15",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Program Execution Control",
@@ -10457,13 +10456,12 @@
     "url": "https://in.linkedin.com/jobs/view/program-execution-control-at-tata-electronics-4421922807",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a program execution control, which does not directly match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "This is a non-technical business role unrelated to Vineeth's semiconductor/VLSI/EDA engineering background.",
     "id": "d459e0d4",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industrial Engineering Lead",
@@ -10472,13 +10470,12 @@
     "url": "https://in.linkedin.com/jobs/view/industrial-engineering-lead-at-tata-electronics-4418731497",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Industrial Engineering, not semiconductor/VLSI/EDA-related.",
+    "reason": "The role is focused on manufacturing engineering and process optimization, which does not directly match Vineeth's semiconductor/EDA technical background in power integrity, CAD methodology, EDA tools.",
     "id": "542e92bc",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Sales Operations Analyst",
@@ -10487,13 +10484,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-sales-operations-analyst-at-renesas-electronics-4365294773",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales operations analyst, which does not match the technical domains of semiconductor/VLSI/EDA. It requires experience in Salesforce and CRM, not mentioned in the candidate profile.",
+    "reason": "The role is for a Sales Operations Analyst, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and VLSI/EDA.",
     "id": "a476abfc",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Business Head - Motor",
@@ -10502,13 +10498,12 @@
     "url": "https://in.linkedin.com/jobs/view/business-head-motor-at-larsen-toubro-4429925577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical leadership position for EV motor business strategy and P&L, not aligned with semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a general business leadership position focused on electric vehicle motor business strategy, P&L, product roadmap and partnerships. It does NOT require technical expertise in power integrity (PI), advanced packaging, or EDA tool knowledge.",
     "id": "9a5d510e",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Application Engineer (FAE) \u2013 India",
@@ -10516,14 +10511,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/field-application-engineer-fae-%E2%80%93-india-at-adlink-technology-4382853844",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Field Application Engineer at ADLINK, which fits within VLSI/EDA domain of embedded systems and industrial computing.",
+    "matches_requirements": "no",
+    "reason": "The role is Field Application Engineering, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "c455d86c",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-11",
     "deadline": "N/A",
-    "description_file": "job_descriptions/adlink_technology_field_application_engineer__fa_c455d86c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Owner - GenAI Manufacturing",
@@ -10532,13 +10526,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-owner-genai-manufacturing-at-tata-electronics-4416850476",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This product ownership role focuses on GenAI solutions for manufacturing, which does not directly align with the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is a product management position focused on GenAI manufacturing solutions, which does not match Vineeth's background in power integrity, advanced packaging, and EDA tools.",
     "id": "57208ef5",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager - Cell Production",
@@ -10547,13 +10540,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-cell-production-at-adani-solar-4389490453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in cell production, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on solar panel production, not semiconductor VLSI EDA.",
     "id": "25639ca6",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "BDA",
@@ -10562,13 +10554,12 @@
     "url": "https://in.linkedin.com/jobs/view/bda-at-tecquire-solutions-4428042863",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Development Account Executive focused on semiconductor and engineering services, not a technical position in VLSI/EDA domain.",
+    "reason": "The job is for a Business Development role, not related to Vineeth's technical expertise in Power Integrity, CAD, and VLSI.",
     "id": "dc87cdff",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI Developer / M.tech Fresher Jobs in Chennai",
@@ -10577,13 +10568,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-developer-m-tech-fresher-jobs-in-chennai-at-elk-education-consultants-pvt-ltd-4422777311",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level internship position for a Fresher M.tech, which doesn't match the 15+ years of experience required.",
+    "reason": "This is a non-technical education consulting role, not an engineering position in semiconductor/VLSI/EDA.",
     "id": "b9d715e5",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-03-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
