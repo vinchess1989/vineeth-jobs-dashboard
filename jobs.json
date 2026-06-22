@@ -55718,13 +55718,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-engineer-at-ct19-4423339915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer working on quantum computing, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The job is for an FPGA Engineer position, which does not match Vineeth's key skills in Power Integrity and Advanced Packaging. Also, it's located in Germany rather than preferred locations.",
     "id": "74935551",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -55733,13 +55732,12 @@
     "url": "https://bg.linkedin.com/jobs/view/fpga-design-engineer-at-endurosat-4423347465",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Design Engineer role, which does not match the semiconductor/VLSI/EDA industry focus of the candidate's background.",
+    "reason": "The role is primarily FPGA design, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "27eb3e2d",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -55748,13 +55746,12 @@
     "url": "https://nl.linkedin.com/jobs/view/fpga-design-engineer-at-qblox-4361321725",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Design Engineer role is more focused on hardware design and verification rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily FPGA design and development rather than Power Integrity, Advanced Packaging, CAD tools/Methodology which are Vineeth's areas of expertise.",
     "id": "f84cd30e",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-05-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Medior FPGA Engineer",
@@ -55763,13 +55760,12 @@
     "url": "https://nl.linkedin.com/jobs/view/medior-fpga-engineer-at-sentyron-4420735244",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position which does not match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "ac3ed9d2",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -55778,13 +55774,12 @@
     "url": "https://nl.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-s-t-4425078889",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an FPGA Engineer position, which does not match the semiconductor/VLSI/EDA domains sought in the job requirements.",
+    "reason": "The role is primarily focused on FPGA development, with no overlap to Vineeth's areas of expertise in Power Integrity and Advanced Packaging.",
     "id": "25f70b14",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer (all gender) \u2013 High Speed Signal Processing xxx",
@@ -55793,13 +55788,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-engineer-all-gender-%E2%80%93-high-speed-signal-processing-xxx-at-alten-germany-4417630157",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a semiconductor/VLSI/EDA role, focused on FPGA development for high-speed signal processing in Germany.",
+    "reason": "The job is for an FPGA Engineer with experience in High-Speed Signal Processing, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "0f8865dd",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design / FPGA Engineer",
@@ -55808,13 +55802,12 @@
     "url": "https://pl.linkedin.com/jobs/view/digital-design-fpga-engineer-at-antmicro-4413296297",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a software-focused FPGA developer position, not a VLSI/EDA related Power Integrity or CAD methodology engineering job.",
+    "reason": "The job is for an FPGA Engineer role at a company called Antmicro, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "8423afa7",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55822,14 +55815,13 @@
     "location": "Reading, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-oxford-quantum-circuits-oqc-4431396358",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on FPGA development for quantum computing, which does not directly match the semiconductor/VLSI/EDA job criteria.",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's background in advanced packaging and FPGA design for quantum computing applications.",
     "id": "8c218177",
     "source": "linkedin_uk_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/oxford_quantum_circu_fpga_engineer_8c218177.txt"
   },
   {
     "title": "FPGA Engineer",
@@ -55838,13 +55830,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-citadel-securities-4417970747",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer in a financial services company, focusing on ultra-low latency trading systems. This does not match the semiconductor/VLSI/EDA technical domains specified in the job search requirements.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "2611e2a6",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA/DSP Engineer",
@@ -55853,13 +55844,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-dsp-engineer-at-christy-media-solutions-4417669090",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA/DSP Engineer, which is not a match against the target domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "The role is primarily software engineering with a focus on firmware and low-level programming, outside Vineeth's domain of VLSI/EDA.",
     "id": "6dc10125",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer I",
