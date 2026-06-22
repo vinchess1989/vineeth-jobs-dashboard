@@ -20573,18 +20573,17 @@
   },
   {
     "title": "Irvine, CA jobs",
-    "company": "Extract from page",
+    "company": "The Home Depot",
     "location": "Irvine, CA, USA",
     "url": "https://www.glassdoor.com/Job/irvine-jobs-SRCH_IL.0,6_IC1146798.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a semiconductor company.",
+    "reason": "This is a non-technical retail role at The Home Depot, which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
     "id": "a9bfbe3e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MaxLinear jobs in Irvine, CA",
@@ -20593,13 +20592,12 @@
     "url": "https://www.glassdoor.com/Job/irvine-maxlinear-jobs-SRCH_IL.0,6_IC1146798_KO7,16.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for a non-technical HR role, which does not match the semiconductor/VLSI/EDA technical focus required.",
+    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which is outside Vineeth's domain.",
     "id": "3d4126a2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Materials AI",
@@ -20608,28 +20606,26 @@
     "url": "https://www.glassdoor.com/job-listing/head-of-materials-ai-merck-kgaa-JV_IC1147436_KO0,20_KE21,31.htm?jl=1010165967955",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for AI research and development in materials science, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The job is in Materials Science AI, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and EDA.",
     "id": "6317567f",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "machine learning engineer jobs in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA",
     "url": "https://www.glassdoor.com/Job/san-jose-machine-learning-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,34.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a marketing position for machine learning engineer roles, which does not fit our technical role criteria.",
+    "reason": "The job is for a software engineering role, which is outside Vineeth's domain of Power Integrity and Advanced Packaging in EDA.",
     "id": "12baee87",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "operations manager jobs in Manhattan Beach, CA",
@@ -20638,13 +20634,12 @@
     "url": "https://www.glassdoor.com/Job/manhattan-beach-operations-manager-jobs-SRCH_IL.0,15_IC1163714_KO16,34.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an operations manager position, which is non-technical and does not fit the semiconductor/VLSI/EDA technical focus required.",
+    "reason": "Non-technical role at a semiconductor company",
     "id": "ba17fcda",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Cores Validation Senior Staff Engineer",
@@ -20652,14 +20647,13 @@
     "location": "Fort Collins, Colorado, USA",
     "url": "https://careers.amd.com/careers-home/jobs/86839?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Staff Engineer role with 15+ years experience in validation of microprocessors/ASICs, fitting the technical domains and seniority level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "e4c5e757",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_cpu_cores_validation_senior_st_e4c5e757.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Layout LeadSingapore, SingaporePosted 2 months ago",
@@ -20667,14 +20661,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41687884",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is more focused on mechanical layout and tool movements, while the target job search requirements are for semiconductor power integrity, advanced packaging thermal analysis, or EDA CAD methodology roles.",
+    "matches_requirements": "yes",
+    "reason": "Matches senior leadership role with strong layout planning experience in semiconductors, meets Singapore location criteria",
     "id": "3d3c146b",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_senior_engineer__layout_leadsi_3d3c146b.txt"
   },
   {
     "title": "ASIC Engineering Technical Leader",
@@ -20682,14 +20675,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-engineering-technical-leader-at-cisco-4404062854",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong technical match for senior leadership in ASIC engineering with exact key skills listed.",
+    "matches_requirements": "no",
+    "reason": "The role is more focused on general ASIC design leadership rather than Vineeth's specific technical areas of expertise like Power Integrity, CAD/methodology, or physical design.",
     "id": "c33d7c4f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-29",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/cisco_asic_engineering_technical_lea_c33d7c4f.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Associate III - VLSI",
@@ -20697,14 +20689,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/associate-iii-vlsi-at-ust-4361756723",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a VLSI Engineer position with 4-8 years experience at UST in Bengaluru, which matches the job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on RTL Design/Verification/PD/DFT/Circuit Design/STA/Synthesis, which does not closely match Vineeth's key skills in Power Integrity and Advanced Packaging.",
     "id": "eaef4cfc",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ust_associate_iii___vlsi_eaef4cfc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Digital Design Engineering",
@@ -20712,14 +20703,13 @@
     "location": "Greater Kolkata Area",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-digital-design-engineering-at-analog-devices-4426417332",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's background in Power Integrity and Advanced Packaging, with requirements for strong technical skills including ANSYS RedHawk, Totem, Cadence Voltus and experience in CAD tool methodology.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on digital design engineering for ASICs/SoCs, which does not match Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "5797a748",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_staff_engineer__digital_design_5797a748.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Verification Engineer - 5 to 13 years - Bangalore",
