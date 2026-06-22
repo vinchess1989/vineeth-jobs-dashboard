@@ -56837,14 +56837,13 @@
     "location": "\u00cele-de-France, France",
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9lectronique-%E2%80%93-conception-de-cartes-ltd-at-serma-ing%C3%A9nierie-4425796718",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an electronics design engineering role focused on general PCB and electronic product development, not specialized in VLSI/EDA/semiconductor domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "c3a7c01a",
     "source": "linkedin_eu_rtl_design_engineer_p2",
-    "posted_date": "2023-06-08",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -56852,14 +56851,13 @@
     "location": "Gothenburg, V\u00e4stra G\u00f6taland County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/rtl-design-engineer-at-alnit-wireless-4427019710",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Requires Swedish citizenship which disqualifies this candidate based on their background.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "9d41461b",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "0726-178583 Contrato indefinido vinculado \u00e1 li\u00f1a de investigaci\u00f3n",
@@ -56867,14 +56865,13 @@
     "location": "Vigo, Galicia, Spain",
     "url": "https://es.linkedin.com/jobs/view/0726-178583-contrato-indefinido-vinculado-%C3%A1-li%C3%B1a-de-investigaci%C3%B3n-at-cintecx-4417506672",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Vigo, Spain, which does not match the priority regions of Finland, UK, India/Asia or US with visa sponsorship.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "7ef3666c",
     "source": "linkedin_eu_rtl_design_engineer_p2",
-    "posted_date": "2026-05-22",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -56882,14 +56879,13 @@
     "location": "Hamburg, Germany",
     "url": "https://de.linkedin.com/jobs/view/rtl-design-engineer-at-whd-consulting-ltd-4428838865",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a contract position focused on front-end RTL design, which doesn't directly align with the candidate's background in power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "8d3bf52e",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
@@ -56898,13 +56894,12 @@
     "url": "https://ro.linkedin.com/jobs/view/rtl-engineer-at-undelucram-ro-4388230775",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a non-technical marketing role at a semiconductor company.",
+    "reason": "The role is primarily verification (DFT Engineer) which is outside Vineeth's domain.",
     "id": "cc407fda",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
@@ -56913,13 +56908,12 @@
     "url": "https://ro.linkedin.com/jobs/view/rtl-engineer-at-undelucram-ro-4388245152",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Engineer, which does not match the candidate's background in Power Integrity and Advanced Packaging.",
+    "reason": "This RTL Engineer role explicitly requires 8+ years of VLSI design experience and strong Verilog/System Verilog skills. Vineeth's background is in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis and CAD Methodology, not general VLSI/RTL design.",
     "id": "f6dde500",
     "source": "linkedin_eu_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
@@ -56928,13 +56922,12 @@
     "url": "https://ro.linkedin.com/jobs/view/rtl-engineer-at-undelucram-ro-4388249093",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires Verilog/System Verilog or VHDL skills, which do not match the candidate's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, and Thermal Analysis.",
+    "reason": "This RTL Engineer role is primarily focused on digital design and coding, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "ba134d36",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "BIM Modeller",
@@ -56943,13 +56936,12 @@
     "url": "https://ie.linkedin.com/jobs/view/bim-modeller-at-mercury-4378278868",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a BIM Modeller, which does not match the specified technical domains of Power Integrity/SI, Advanced Packaging/Thermal, or EDA/CAD/Methodology.",
+    "reason": "The role is for a BIM Modeller position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "c13aa574",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "2026-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
@@ -56958,13 +56950,12 @@
     "url": "https://ro.linkedin.com/jobs/view/rtl-engineer-at-undelucram-ro-4388231741",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RTL Engineer role requires only 8 years of experience, which is below our target range of 10-15+ years.",
+    "reason": "The role is primarily software development (VLSI design) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "3ae20c2b",
     "source": "linkedin_eu_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-13",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -56973,13 +56964,12 @@
     "url": "https://ie.linkedin.com/jobs/view/design-engineer-at-mercury-4329936047",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mechanical design engineer focused on fire protection systems, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily focused on fire protection systems design and Revit/AutoCAD, which does not match Vineeth's expertise in Power Integrity and Advanced Packaging for SoC design.",
     "id": "76afd614",
     "source": "linkedin_eu_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
