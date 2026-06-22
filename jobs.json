@@ -72182,13 +72182,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4425983490",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match a Senior Leadership (Principal Engineer, Director, Manager) position in Power Integrity / Signal Integrity, Advanced Packaging, CAD/Methodology, or related technical domains.",
+    "reason": "This is an entry-level VLSI engineer role, which does not match Vineeth's senior technical leadership experience.",
     "id": "ac21c94b",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -72197,13 +72196,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4430388297",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This engineering role does not match the VLSI/EDA semiconductor domain requirements.",
+    "reason": "The role is primarily software development with a focus on full-stack systems using TypeScript, React and Node.js, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "a56db66e",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer",
@@ -72211,14 +72209,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-rtl-design-engineer-at-cspeedio-inc-4391389518",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match for the candidate's experience in Power Integrity and Advanced Packaging roles, with specific expertise in RedHawk and Voltus tools. The job is at an early-stage semiconductor startup, aligning with target company types.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design for SoC, networking and interconnect logic, which does not match Vineeth's domain of Power Integrity, Advanced Packaging, CAD methodology, physical design.",
     "id": "cf1b2209",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cspeedio__inc__senior_rtl_design_engineer_cf1b2209.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead RTL Design Engineer",
@@ -72227,13 +72224,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-rtl-design-engineer-at-larsen-toubro-4360672156",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL design engineer role rather than a technical leadership position in power integrity, advanced packaging, or EDA.",
+    "reason": "The role is RTL Design Engineer with 7+ years of experience, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "9b51a9e6",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Designer / Design Engineer at well-funded agentic AI startup",
@@ -72242,13 +72238,12 @@
     "url": "https://uk.linkedin.com/jobs/view/founding-designer-design-engineer-at-well-funded-agentic-ai-startup-at-jack-jill-4430388290",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role designing AI and user interfaces, not a semiconductor/VLSI/EDA engineering position.",
+    "reason": "The role is primarily focused on UI/UX design for an AI startup, which does not match Vineeth's VLSI/EDA background in Power Integrity and Advanced Packaging.",
     "id": "f6226010",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Suunnitteluinsin\u00f6\u00f6ri",
@@ -72256,14 +72251,13 @@
     "location": "Helsinki Metropolitan Area",
     "url": "https://fi.linkedin.com/jobs/view/suunnitteluinsin%C3%B6%C3%B6ri-at-kaupunkiliikenne-oy-4431660078",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a Design Engineer at a transportation company, which is outside Vineeth's domain in semiconductor/VLSI/EDA.",
     "id": "d7678a03",
     "source": "linkedin_fi_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Systems Engineer",
@@ -72272,13 +72266,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-systems-engineer-at-zadar-labs-4424464022",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an engineering position at a technology startup but does not specifically mention semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "20c5311e",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "UPS Engineer",
@@ -72287,13 +72280,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ups-engineer-at-astute-people-4430422776",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Electrical Engineer focused on UPS maintenance and repair, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a field service engineer working with UPS equipment, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "a4ac99ba",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Application Engineer UKI",
@@ -72302,13 +72294,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-application-engineer-uki-at-tektronix-4427574743",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Field Application Engineer position, which does not match the technical domains of Power Integrity, CAD/Methodology, or Physical Design.",
+    "reason": "This Field Application Engineer role is focused on technical consultation for Tektronix's measurement solutions in automotive, power, and semiconductor applications, but it does not involve specific expertise in semiconductor VLSI EDA domains like Power Integrity, Advanced Packaging or Physical Design that Vineeth has.",
     "id": "4d3879ff",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power BI Platform Administrator",
@@ -72317,13 +72308,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-bi-platform-administrator-at-cognizant-4426784497",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Power BI platform administrator, which does not match any of the specified technical domains in the job requirements.",
+    "reason": "The role is for a Business Intelligence Platform Administrator, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging and VLSI/EDA.",
     "id": "4a2b112b",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Physical Design Engineer",
