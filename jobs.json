@@ -52120,13 +52120,12 @@
     "url": "https://uk.linkedin.com/jobs/view/specialist-it-security-auditor-at-bdo-4404818821",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT Security Auditor role at BDO, which does not fit the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on IT security auditing, risk management and assurance methodologies across a global accounting network - this does not match Vineeth's key skills in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "10398167",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -52135,13 +52134,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-engineer-at-cyberone-4415065833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role, not an engineering/technical position at a semiconductor company.",
+    "reason": "The job is for a non-technical security role, while Vineeth has technical expertise in semiconductor/VLSI/EDA.",
     "id": "8bd81063",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC/ASIC Architect",
@@ -52149,14 +52147,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-asic-architect-at-ast-spacemobile-4402260494",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior leadership role with >10 years experience in SoC/ASIC domains, good match for candidate profile.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 10-15 years experience, close match for SoC/ASIC Architect domain",
     "id": "0f2889cf",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ast_spacemobile_soc_asic_architect_0f2889cf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Security Consultant - Cyber Defence",
@@ -52165,13 +52162,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-security-consultant-cyber-defence-at-riversafe-4430496679",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a semiconductor, VLSI, EDA or related technical role",
+    "reason": "The role is primarily software development (working with SIEM, cloud security) which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
     "id": "602cca33",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Internship - Platform Architecture",
@@ -52180,13 +52176,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gpu-internship-platform-architecture-at-apple-4414158716",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship focused on GPU architecture for Apple's silicon SoCs, which does not directly match the semiconductor/VLSI/EDA domain requirements.",
+    "reason": "This role is primarily software development (working on GPU APIs, compilers) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "698de5b9",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-10-06",
-    "deadline": "october",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "SoC Architect",
@@ -52194,14 +52189,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-architect-at-microchip-technology-inc-4416139916",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the SoC design expertise with 7+ years experience, fitting the target criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on SoC architecture, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "0ef105ea",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/microchip_technology_soc_architect_0ef105ea.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Architect",
@@ -52209,14 +52203,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-architect-at-graphcore-4387951401",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches SoC Architect role with 10+ years of experience in semiconductor domain",
+    "matches_requirements": "no",
+    "reason": "The role is focused on SoC architecture design rather than power integrity and advanced packaging.",
     "id": "47cc922d",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/graphcore_soc_architect_47cc922d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Architect",
@@ -52224,14 +52217,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-architect-at-sifive-4400911647",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Leadership position in SoC Architecture at SiFive, which fits the target job criteria.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a SoC Architect with experience in system IPs, platform security, and customer interaction. It doesn't explicitly match Vineeth's areas of Power Integrity and Advanced Packaging.",
     "id": "66d08bcc",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/sifive_soc_architect_66d08bcc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Design Lead / SOC Architect",
@@ -52240,13 +52232,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-design-lead-soc-architect-at-ic-resources-4416631652",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior SOC Design Lead role with 10-20 years experience required, matches key skills and seniority level.",
+    "reason": "Matches senior leadership role with 10-15 years of experience required, in SOC chip design and architecture.",
     "id": "72a11ac9",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ic_resources_soc_design_lead___soc_architec_72a11ac9.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/ic_resources_soc_design_lead___soc_architec_72a11ac9.txt"
   },
   {
     "title": "Senior Embedded Architect Manager",
@@ -52254,14 +52245,13 @@
     "location": "Reading, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-embedded-architect-manager-at-nvidia-4414768763",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior level Technical Leadership position at NVIDIA, a semiconductor company with strong matching in the Power Integrity and Advanced Packaging domains.",
+    "matches_requirements": "no",
+    "reason": "The role is an embedded architect position, which falls outside Vineeth's focus on Power Integrity and Advanced Packaging.",
     "id": "5638d59e",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_embedded_architect_mana_5638d59e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal SoC Architect",
