@@ -69844,13 +69844,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-aerospace-at-alten-italia-4426845414",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer in Aerospace, which does not match the VLSI/EDA technical domains. The job also specifies Milano, Italy as location.",
+    "reason": "The role is a FPGA Engineer focused on aerospace, which does not match Vineeth's expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, and CAD methodology.",
     "id": "a2904ec0",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Developer",
@@ -69858,14 +69857,13 @@
     "location": "Surrey, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/fpga-developer-at-bae-systems-4335496038",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of FPGA development with a UK location",
+    "matches_requirements": "no",
+    "reason": "This is an FPGA developer position, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging. It involves FPGA design using Xilinx devices.",
     "id": "3c120a62",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/bae_systems_fpga_developer_3c120a62.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead FPGA Engineer",
@@ -69874,13 +69872,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-fpga-engineer-at-collins-aerospace-4373810970",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer at Collins Aerospace in Luton, England, UK which does not match the VLSI/EDA semiconductor job requirements.",
+    "reason": "The role is for FPGA design engineer with VHDL/OSVVM/UVM/Verilog experience, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "e7ebb157",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -69888,14 +69885,13 @@
     "location": "Newbury, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-microtech-global-ltd-4427040252",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role at a UK company with Design Verification Engineer position, but lacking specific semiconductor/VLSI/EDA focus",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (testbenches, directed & constrained-random verification) which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "2b95290e",
     "source": "linkedin_uk_fpga_engineer_p2",
     "posted_date": "2023-05-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Design Engineer",
@@ -69903,14 +69899,13 @@
     "location": "Brussels, Brussels Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/product-design-engineer-at-cowboy-4422348761",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an Associate-level Product Design Engineer position, which does not meet the senior leadership experience requirement.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "1bf0cc1e",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Progettista tecnico",
@@ -69918,14 +69913,13 @@
     "location": "Borso del Grappa, Veneto, Italy",
     "url": "https://it.linkedin.com/jobs/view/progettista-tecnico-at-rhr-agency-4427823633",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The position is for a mechanical designer using SolidWorks, unrelated to semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "7361c9c5",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design (Engineer)",
@@ -69933,14 +69927,13 @@
     "location": "Berlin, Berlin, Germany",
     "url": "https://de.linkedin.com/jobs/view/founding-design-engineer-at-telli-4318298666",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a product designer/engineer focused on AI consumer-facing voice agents, which does not match the semiconductor/VLSI/EDA job criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "2c05983b",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2023-08-03",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Engenheiro Mec\u00e2nico (m/f) - Montijo",
@@ -69948,14 +69941,13 @@
     "location": "Lisboa, Lisbon, Portugal",
     "url": "https://pt.linkedin.com/jobs/view/engenheiro-mec%C3%A2nico-m-f-montijo-at-teixeira-duarte-engenharia-e-constru%C3%A7%C3%B5es-4429259348",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Engineer position at a construction engineering company, not related to semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "d2abfc64",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2026-06-05",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Alternant Ing\u00e9nieur bureau d'\u00e9tudes d\u00e9construction H/F",
@@ -69963,14 +69955,13 @@
     "location": "Corneville-sur-Risle, Normandy, France",
     "url": "https://fr.linkedin.com/jobs/view/alternant-ing%C3%A9nieur-bureau-d-%C3%A9tudes-d%C3%A9construction-h-f-at-spie-batignolles-4406054082",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an intern engineer position in civil engineering construction, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b4d036c1",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2023-06-01",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "A-Class Modeler, Exterior",
@@ -69978,14 +69969,13 @@
     "location": "Berlin, Germany",
     "url": "https://de.linkedin.com/jobs/view/a-class-modeler-exterior-at-bugatti-rimac-4410831136",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a design role for an automotive company, not relevant to semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "1f6cbdc0",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "2026-05-25",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Design System Engineer [F/M/X]",
