@@ -12958,32 +12958,16 @@
   {
     "title": "Working Student - AI Automation & Data Analytics (f/m/div) Munich (Germany)HRC1672716Hybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Munich (Germany)HRC1672716Hybrid",
     "url": "https://www.infineon.com/careers/job/563808971208714",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain enough information to determine a match based on the provided criteria.",
+    "reason": "The job posting URL is incorrect, it leads to a 404 error.",
     "id": "9e0a6de4",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Working Student - Finance Controlling Digitalization (f/m/div) Munich (Germany)HRC1628956On-site",
-    "company": "Infineon Technologies AG",
-    "location": "Munich, Germany",
-    "url": "https://www.infineon.com/careers/job/563808970594042",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical finance role, which does not match our engineering/technical position criteria.",
-    "id": "fd450b60",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Working Student - Product Marketing (f/m/div)Munich (Germany)HRC1641817HybridHybrid",
@@ -12992,13 +12976,12 @@
     "url": "https://www.infineon.com/careers/job/563808970736085",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title indicates a non-technical marketing role, which does not match our focus on engineering/technical positions.",
+    "reason": "The job is for a non-technical product marketing role, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and EDA.",
     "id": "0fd44b9f",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Working Student - Corporate Communications (f/m/div) Munich (Germany)HRC1594186On-site",
@@ -13007,13 +12990,12 @@
     "url": "https://www.infineon.com/careers/job/563808970203912",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Corporate Communications role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical corporate communications role at Infineon, so it does not match Vineeth's engineering background.",
     "id": "8951ab8e",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SENIOR ENGINEER HBM LAYOUTTlaquepaque, Jalisco, MexicoPosted 17 days ago",
@@ -13022,13 +13004,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40775409",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Engineer position, which does not match the senior-level leadership roles targeted in the requirements.",
+    "reason": "This is a design engineer position focused on HBM layout, which is more of an analog/physical design role rather than power integrity or advanced packaging.",
     "id": "61b71d1f",
     "source": "micron_careers",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior/ Staff Engineer, Firmware Test (SSD)Singapore, SingaporePosted 2 months ago",
@@ -13037,13 +13018,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40777793",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a firmware test engineering role, not a VLSI/EDA/semiconductor position.",
+    "reason": "This role is for Firmware Test Engineering on SSDs, which is software focused and not related to Power Integrity, Advanced Packaging, or VLSI/EDA. It is also in Singapore rather than a preferred location.",
     "id": "e21b8902",
     "source": "micron_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -13052,13 +13032,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FResearch-and-Development-Engineer-R-D%2F16359",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain.",
     "id": "27cea4e3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer (Hsinchu)",
@@ -13067,13 +13046,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=393&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a semiconductor fabrication role, not in our target domains of Power Integrity (PI), Advanced Packaging, or CAD/Methodology.",
+    "reason": "This process engineering role is focused on memory technologies like flash, which is outside Vineeth's core power integrity and advanced packaging domains.",
     "id": "3f983c68",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -13082,13 +13060,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProcess-Engineer-Hsinchu%2F393",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a senior leadership position with 15+ years of experience required, focusing on Power Integrity and Advanced Packaging which matches the candidate's background.",
+    "reason": "Matches high priority domain of Power Integrity and technical experience level, with a semiconductor company location in Taiwan.",
     "id": "dfa5f578",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_dfa5f578.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_dfa5f578.txt"
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Intelligent Manufacturing Engineer (IMC/MFG)",
@@ -13097,13 +13074,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19040&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the high priority regions of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia, or Fully Remote with worldwide eligibility.",
+    "reason": "The role is for an Intelligent Manufacturing Engineer at TSMC's manufacturing facilities, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "8f8ee8d0",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
