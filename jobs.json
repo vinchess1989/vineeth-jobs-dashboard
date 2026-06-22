@@ -3176,13 +3176,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1u5ajew/analog_ic_design_student_here_how_do_i_learn/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general question post, not an actual job opening with application details.",
+    "reason": "This is a student seeking advice, not a technical engineering role.",
     "id": "036e6551",
     "source": "reddit_chipdesign",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Design student here \u2014 how do I learn digital design/RTL in parallel without messing up my analog prep?",
@@ -3190,14 +3189,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/chipdesign/comments/1u4xlld/analog_ic_design_student_here_how_do_i_learn/",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The posting is for a technical role at a semiconductor company, and there's no mention of requiring security clearances restricted to specific country citizens only.",
+    "matches_requirements": "no",
+    "reason": "Not a technical engineering role, but a discussion thread on /r/chipdesign about learning digital design/RTL alongside analog prep.",
     "id": "f00f3ecf",
     "source": "reddit_chipdesign",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog/MS/ RF PhD",
@@ -3206,13 +3204,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1u10dn2/analogms_rf_phd/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a match based on domain & technical area, only analog/RF PhD and doesn't match target domains like Power Integrity/SI, Advanced Packaging, CAD/methodology etc.",
+    "reason": "The role is primarily software development (firmware engineer) which falls outside Vineeth's domain.",
     "id": "b9926128",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "interview with manager at amd - silicon design group, rtl design engineer for asic/soc ip.",
@@ -3221,13 +3218,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1u0zcez/interview_with_manager_at_amd_silicon_design/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an 'RTL Design Engineer for ASIC/SOC IP', which does not match the specified technical domains.",
+    "reason": "Not a technical engineering role, is non-technical discussion forum",
     "id": "cb3f60cb",
     "source": "reddit_chipdesign",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "For entry-level ASIC / RTL roles, do companies care more about novelty or execution?",
@@ -3236,13 +3232,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1u014r9/for_entrylevel_asic_rtl_roles_do_companies_care/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a discussion post on Reddit, not a specific job opening",
+    "reason": "The job posting is for a non-technical role (discussion) at a semiconductor company, which is against the requirements.",
     "id": "ddfabefb",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical interview at graphcore for design position.",
@@ -3251,13 +3246,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tzymqv/technical_interview_at_graphcore_for_design/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a technical discussion post on Reddit, not a formal job posting.",
+    "reason": "Job is for design position at a startup, not an EDA/CAD/semiconductor leadership role.",
     "id": "70f29068",
     "source": "reddit_chipdesign",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Is it realistic for a South Korean EE/CS student to get an IC design job in the US?",
@@ -3266,13 +3260,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tzwo91/is_it_realistic_for_a_south_korean_eecs_student/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general discussion post, not an actual job posting with specific requirements and criteria.",
+    "reason": "The discussion is about general feasibility for an EE/CS student, not a specific job posting matching Vineeth's profile and experience.",
     "id": "1b3f8b58",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RFIC Future",
@@ -3280,14 +3273,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/chipdesign/comments/1tzi1t4/rfic_future/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a discussion post on Reddit, not an actual job posting. It has no company name, location, date posted, or application deadline.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "fa9f25d9",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "The 'anti-hype' checklist: why im refusing to back any more dynamic chairs without seeing this first",
@@ -3296,13 +3288,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1u6ifw5/the_antihype_checklist_why_im_refusing_to_back/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (r/hwstartups) at a semiconductor company, and does not meet our engineering/technical position criteria.",
+    "reason": "This is a community discussion post, not an actual hardware startup job posting.",
     "id": "a1112c4b",
     "source": "reddit_hwstartups",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Need advice on low-volume aluminum part manufacturing (CNC vs casting)",
@@ -3310,14 +3301,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/hwstartups/comments/1u5pd8q/need_advice_on_lowvolume_aluminum_part/",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a manufacturing question about aluminum part production, not an engineering/technical role at a semiconductor company.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "75199baf",
     "source": "reddit_hwstartups",
-    "posted_date": "2026-06-15",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Need advice on low-volume aluminum part manufacturing (CNC vs casting)",
