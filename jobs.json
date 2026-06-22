@@ -4150,34 +4150,18 @@
     "description_file": null
   },
   {
-    "title": "Circuit Design Engineer - New College Grad 2026",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-new-college-grad-2026-at-nvidia-4427229959",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Requires 0-2 years of experience, while candidate has 15+ years.",
-    "id": "4571dde4",
-    "source": "linkedin_asic_ww",
-    "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Circuit Design Engineer",
     "company": "PlanIT Group, LLC",
     "location": "Grand Prairie, TX",
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-at-planit-group-llc-4424987277",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a contract position with PlanIT Group, LLC and does not fit the semiconductor/VLSI/EDA technical domains targeted for this job search.",
+    "reason": "The role is primarily circuit card design with EMI/EMC, connector selection and cable routing - outside Vineeth's power integrity and advanced packaging domain.",
     "id": "55477a65",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Design Verification Consultant",
@@ -4186,13 +4170,12 @@
     "url": "https://www.linkedin.com/jobs/view/lead-design-verification-consultant-at-united-pharma-technologies-inc-4428076658",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Lead role in pharmaceutical facilities construction and equipment design, which does not match the semiconductor/VLSI/EDA domains.",
+    "reason": "This is a pharmaceutical design verification role, not semiconductor/VLSI/EDA.",
     "id": "174db71c",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer, AI Hardware",
@@ -4201,13 +4184,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-ai-hardware-at-tesla-4419572554",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Palo Alto, CA, which doesn't match our target regions of Finland/Europe/UK/India/Asia/Remote (Worldwide).",
+    "reason": "The role is primarily software development rather than semiconductor/VLSI/EDA.",
     "id": "56411e42",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC / SoC RTL Design Engineer",
@@ -4216,13 +4198,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-soc-rtl-design-engineer-at-dexian-4427385795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Campbell, CA, which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or Fully Remote worldwide.",
+    "reason": "The role is primarily RTL coding/debugging for ASIC/SoC design, which falls outside Vineeth's core Power Integrity and Advanced Packaging expertise.",
     "id": "01bde454",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Designer",
@@ -4231,13 +4212,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-designer-at-tessolve-4425851232",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract role with Tessolve, a semiconductor service company, which does not match the target job criteria of working for a semiconductor startup or consultancy in a senior leadership position.",
+    "reason": "The role is for an IC Packaging Design Engineer which focuses on physical design and layout, rather than power integrity or advanced packaging.",
     "id": "9fc88269",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Head- Indirect Sourcing SCM",
@@ -4246,13 +4226,12 @@
     "url": "https://in.linkedin.com/jobs/view/head-indirect-sourcing-scm-at-tata-electronics-4420115699",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a non-technical procurement leadership position, not an engineering/technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Head of Indirect Sourcing in procurement, focusing on IT & technology sourcing, infrastructure sourcing, and indirect non-technology spend. It does not match Vineeth's background in semiconductor design, VLSI/EDA tools, or power integrity and packaging.",
     "id": "0b7e3e44",
     "source": "linkedin_semi_india",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Shift Manager",
@@ -4261,13 +4240,12 @@
     "url": "https://in.linkedin.com/jobs/view/production-shift-manager-at-tata-electronics-4420717977",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Production Shift Manager role at Tata Electronics, which does not fit the semiconductor/VLSI/EDA technical domain requirements.",
+    "reason": "The role is for production management at a semiconductor manufacturing facility. It does not match Vineeth's domain of power integrity, advanced packaging, and EDA.",
     "id": "683051ee",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Manager_Supply Chain Management",
@@ -4276,13 +4254,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-supply-chain-management-at-tata-electronics-4357523004",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Supply Chain Management, not semiconductor/VLSI/EDA engineering.",
+    "reason": "This is a non-technical supply chain management role at Tata Electronics, which is outside Vineeth's semiconductor/VLSI/EDA technical domain.",
     "id": "ae9f23ec",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Mgr, Sales",
@@ -4291,13 +4268,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-mgr-sales-at-renesas-electronics-4403758585",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a sales position rather than an engineering/technical role.",
+    "reason": "Non-technical sales role at a semiconductor company, outside Vineeth's domain of technical roles in power integrity, packaging, CAD, and VLSI.",
     "id": "f13a3cf5",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Mgr Procurement/Purchasing",
