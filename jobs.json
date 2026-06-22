@@ -21544,13 +21544,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-av-4416959871",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a non-technical position (HR) at a semiconductor company.",
+    "reason": "The role is primarily firmware design (embedded software) rather than digital hardware design with FPGA/ASIC.",
     "id": "f0f505c5",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-05-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -21559,13 +21558,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-scioteq-4423045290",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a US Person, which disqualifies it based on hard rejections.",
+    "reason": "The job is for an FPGA firmware engineer position which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
     "id": "24aaedfa",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -21574,13 +21572,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-saxon-global-4426875240",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role is mid-senior level and does not match the 15+ years of experience required for this job search profile.",
+    "reason": "The job is for an FPGA Engineer role, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "4a5b76df",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -21589,13 +21586,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-caci-international-inc-4413633774",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer at a company that does not match the semiconductor/VLSI/EDA industry focus. It also requires U.S. Citizenship.",
+    "reason": "The role is primarily software development with DSP programming, which is outside Vineeth's domain.",
     "id": "4269d30b",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Spacecraft Field Programmable Gate Array (FPGA) Engineer - Millennium Space Systems",
@@ -21604,13 +21600,12 @@
     "url": "https://www.linkedin.com/jobs/view/spacecraft-field-programmable-gate-array-fpga-engineer-millennium-space-systems-at-boeing-4422765608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA design for satellites, which does not match the target domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, CAD/Methodology.",
+    "reason": "Requires FPGA firmware design for space applications, which is not a match with Vineeth's VLSI/EDA background in power integrity and advanced packaging.",
     "id": "44a8480e",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Programmable Logic Design Engineer",
@@ -21619,13 +21614,12 @@
     "url": "https://www.linkedin.com/jobs/view/programmable-logic-design-engineer-at-viasat-4408714636",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Independence, OH which does not match our preferred locations of Finland, Europe (outside Finland), UK, India or Asia, and it is fully remote.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "a1d17419",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-05-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Developer",
@@ -21634,13 +21628,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-developer-at-quantiq-4408823925",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Hardware Developer, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development (C++, drivers) rather than semiconductor/VLSI/EDA technical domains.",
     "id": "d68d8d1b",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer II - FPGA Design - $10K Sign-On Bonus",
@@ -21649,13 +21642,12 @@
     "url": "https://www.linkedin.com/jobs/view/engineer-ii-fpga-design-%2410k-sign-on-bonus-at-bae-systems-inc-4421180692",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Design Engineer role, not matching the VLSI/EDA semiconductor domain.",
+    "reason": "The role is primarily software development (embedded firmware engineer) and not focused on semiconductor/VLSI/EDA",
     "id": "6d52b3bd",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCIe / CXL and HSIO Validation Engineer",
@@ -21663,14 +21655,13 @@
     "location": "Austin, Texas, USA",
     "url": "https://careers.amd.com/careers-home/jobs/87134?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the domain of Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off, with experience in ANSYS RedHawk and Cadence Voltus. The location is Austin, Texas, USA which fits the priority region.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused (C/C++, Python, Perl) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "bb736870",
     "source": "amd_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_pcie___cxl_and_hsio_validation_bb736870.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Facilities Technician / Betriebstechniker (Mechanical Systems) (m/f/d)",
@@ -21679,13 +21670,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16526&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Facilities Technician role, which does not match our semiconductor/VLSI/EDA engineering-focused job search criteria.",
+    "reason": "The role is non-technical facilities maintenance, outside Vineeth's domain of semiconductor/EDA/VLSI engineering expertise.",
     "id": "767eb40b",
     "source": "tsmc_careers",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
