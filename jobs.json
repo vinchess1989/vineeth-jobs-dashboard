@@ -4968,13 +4968,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-rtl-design-engineer-at-arm-4368575521",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Staff Engineer position at Arm, which does not match the Senior Leadership target roles we are looking for.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "53eadf27",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SerDes RTL Design Engineer",
@@ -4983,13 +4982,12 @@
     "url": "https://www.linkedin.com/jobs/view/serdes-rtl-design-engineer-at-amd-4393162048",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate needs to have SerDes PHY (PMA/PCS) and/or high-speed I/O protocol experience, which Vineeth does not have in his background.",
+    "reason": "The role is primarily RTL/SOC design, which is outside Vineeth's domain of expertise in Power Integrity and Packaging.",
     "id": "9281198e",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-05-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Micro-architect/RTL Designer (Multiple Locations)",
@@ -4998,13 +4996,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-micro-architect-rtl-designer-multiple-locations-at-qualcomm-4386891114",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL Design Engineer position at Qualcomm, which falls under the semiconductor/EDA domain but does not closely match Vineeth's key expertise areas of Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on CPU micro-architecture and RTL design, which falls under the VLSI/SoC Design domain. Vineeth's background in Power Integrity and Advanced Packaging does not directly align with this job.",
     "id": "68c59037",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Verification Engineer | Precision ADC",
@@ -5012,14 +5009,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=06352b42e0019f6f",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job posting does not mention a specific location, but the company 'Texas Instruments' is known to have a large presence in Texas (USA). The work model is also not clearly specified. More information would be needed to fully evaluate this for a match.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain. It also doesn't match any of his key skills.",
     "id": "a97a34d2",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Verification Engineer | Precision ADC salaries",
@@ -5028,28 +5024,26 @@
     "url": "https://www.indeed.com/career/salaries/Design%20Verification%20Engineer/Tucson,%20AZ?campaignid=serp-more&fromjk=06352b42e0019f6f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Engineer, which does not match the key domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership mentioned in the candidate requirements. Additionally, it's specifically located in Tucson, AZ, USA.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which falls outside Vineeth's domain.",
     "id": "3737be49",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MOCVD GaN Process Development Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A (Extract from page)",
+    "location": "N/A (Extract from page)",
     "url": "https://www.indeed.com/rc/clk?jk=9466e09e57d4e873",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a GaN MOCVD process development engineer, which does not match the VLSI/EDA technical domains.",
+    "reason": "The role is primarily focused on MOCVD GaN process development and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, and CAD Methodology.",
     "id": "d041bec9",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "MOCVD GaN Process Development Engineer salaries in Dallas, TX",
@@ -5058,13 +5052,12 @@
     "url": "https://www.indeed.com/career/process-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=9466e09e57d4e873&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an engineer specializing in MOCVD GaN Process Development, which does not match the target semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a software engineering position focused on developing MOCVD GaN processes, which is outside Vineeth's domain of expertise in power integrity, advanced packaging, and EDA tools.",
     "id": "3dc124ce",
     "source": "indeed_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer , Alexa Device Platform Team",
@@ -5073,13 +5066,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=9a286ccc029b8cfa",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role, which does not match our semiconductor/VLSI/EDA focus.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "eaa64188",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Development Engineer , Alexa Device Platform Team salaries in Austin, TX",
@@ -5088,13 +5080,12 @@
     "url": "https://www.indeed.com/career/software-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=9a286ccc029b8cfa&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed software engineer jobs are not related to semiconductor/VLSI/EDA roles.",
+    "reason": "The role is for software development, which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, and EDA CAD.",
     "id": "253b9504",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Software Engineer, Emerging Devices Software",
@@ -5103,13 +5094,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=940d77c0b1ce21bd",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Embedded Software Engineer role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "This role is primarily software development (embedded C/C++ firmware engineering) which falls outside Vineeth's domain of Power Integrity, Packaging, EDA CAD tools and methodologies.",
     "id": "baa1b7b2",
     "source": "indeed_semi_ww",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Software Engineer, Emerging Devices Software salaries in Sunnyvale, CA",
