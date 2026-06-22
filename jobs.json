@@ -45189,14 +45189,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-staff-staff-power-integrity-engineer-at-mediatek-4405128943",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Staff/Staff level Power Integrity Engineer position at MediaTek which fits Vineeth's background and experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on power integrity engineering for SoC design, which falls within Vineeth's domain of expertise. However, it specifically requires a MS or PhD in Electrical Engineering, which is more than Vineeth's 15 years of experience.",
     "id": "c37b7ca0",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/mediatek_senior_staff_staff_power_integ_c37b7ca0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Integrity Engineer",
@@ -45205,13 +45204,12 @@
     "url": "https://in.linkedin.com/jobs/view/power-integrity-engineer-at-lumilens-4374944823",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This role is for a Power Integrity Engineer at Lumilens, which fits the key domains of Power Integrity and matches Vineeth's background in PI.",
+    "reason": "The role involves power integrity for high-speed transceivers which is within Vineeth's domain.",
     "id": "cbe1f45f",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/lumilens_power_integrity_engineer_cbe1f45f.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/lumilens_power_integrity_engineer_cbe1f45f.txt"
   },
   {
     "title": "Power Integrity Senior Engineer",
@@ -45220,13 +45218,12 @@
     "url": "https://in.linkedin.com/jobs/view/power-integrity-senior-engineer-at-qualcomm-4422012161",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Power Integrity Engineer position at Qualcomm, which matches the domain and location criteria.",
+    "reason": "Matches VLSI/EDA domain, power integrity focus, and senior role",
     "id": "b26d9a7c",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_power_integrity_senior_enginee_b26d9a7c.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/qualcomm_power_integrity_senior_enginee_b26d9a7c.txt"
   },
   {
     "title": "POWER INTEGRITY STAFF ENGINEER",
@@ -45234,14 +45231,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/power-integrity-staff-engineer-at-te-connectivity-4413009875",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role requires 10+ years of experience in power conversion and distribution, with simulation and lab measurement skills, fitting Vineeth's background.",
     "id": "1cf0d112",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/te_connectivity_power_integrity_staff_engineer_1cf0d112.txt"
   },
   {
     "title": "SI/PI Technical Leader",
@@ -45249,14 +45245,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/si-pi-technical-leader-at-cisco-4426080333",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches target domain Power Integrity (PI) with 12+ years experience required",
+    "matches_requirements": "maybe",
+    "reason": "Senior SI/PI Technical role at Cisco Bengaluru India with 12+ years experience, matching key skills and domains. Leadership title is relaxed for this level of experience.",
     "id": "aa254a13",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cisco_si_pi_technical_leader_aa254a13.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Signal and Power Integrity Enginee",
@@ -45264,14 +45259,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-signal-and-power-integrity-enginee-at-cisco-4404071884",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "Senior leadership role in Power Integrity with 6+ years experience, a match for Vineeth's profile.",
     "id": "92c20cd7",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/cisco_senior_signal_and_power_integr_92c20cd7.txt"
   },
   {
     "title": "Senior/ Staff Signal and Power Integrity Engineer",
@@ -45279,14 +45273,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-staff-signal-and-power-integrity-engineer-at-renesas-electronics-4425478196",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "Candidate has strong background in Power Integrity, and the role directly matches this domain with experience needed in EM simulations, SI-Wave/Power-SI tools. Located in Bangalore.",
     "id": "5b0ceb89",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_senior__staff_signal_and_power_5b0ceb89.txt"
   },
   {
     "title": "Signal and Power integrity, Staff engineer",
@@ -45295,13 +45288,12 @@
     "url": "https://in.linkedin.com/jobs/view/signal-and-power-integrity-staff-engineer-at-synopsys-inc-4420283939",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role of Signal and Power Integrity Staff Engineer at Synopsys aligns well with Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off and Thermal Analysis. He has experience with relevant tools like ANSYS RedHawk, Cadence Voltus.",
+    "reason": "The role is a match for Vineeth's background in Power Integrity, with relevant skills like transmission line theory, time/frequency-domain analysis. It is at Synopsys Inc in Bengaluru.",
     "id": "720af5d3",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_signal_and_power_integrity__st_720af5d3.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/synopsys_inc_signal_and_power_integrity__st_720af5d3.txt"
   },
   {
     "title": "Senior ASIC Engineer, Power Integrity",
@@ -45310,13 +45302,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-asic-engineer-power-integrity-at-nvidia-4395472667",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior ASIC Engineer role with Power Integrity focus matches the candidate's technical background and leadership experience.",
+    "reason": "The role is a Senior ASIC Engineer position with specific expertise required in Power Integrity, matching Vineeth's background.",
     "id": "525f19ab",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_asic_engineer__power_in_525f19ab.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_senior_asic_engineer__power_in_525f19ab.txt"
   },
   {
     "title": "Principal Signal & Power Integrity Engineer",
@@ -45325,13 +45316,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-signal-power-integrity-engineer-at-maxlinear-4077086556",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role requires 14+ years of SI/PI experience, and the company is a semiconductor firm hiring for power integrity engineering.",
+    "reason": "Senior leadership role with strong match on semiconductor domain, SI/PI technical skills, and location.",
     "id": "ada37896",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/maxlinear_principal_signal___power_integ_ada37896.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/maxlinear_principal_signal___power_integ_ada37896.txt"
   },
   {
     "title": "Senior Electronics SI/PI Engineer",
