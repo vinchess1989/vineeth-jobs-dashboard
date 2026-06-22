@@ -46716,13 +46716,12 @@
     "url": "https://fi.linkedin.com/jobs/view/service-project-manager-at-hitachi-energy-4430483666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Service Project Manager, which does not fit the technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "reason": "The role is for a service-oriented project manager focused on sales and maintenance services related to power distribution, not a technical engineering/leadership role in semiconductor/VLSI/EDA.",
     "id": "74bec35b",
     "source": "linkedin_fi_power_integrity",
     "posted_date": "2026-06-18",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cluster Operations Manager",
@@ -46731,13 +46730,12 @@
     "url": "https://fi.linkedin.com/jobs/view/cluster-operations-manager-at-dayone-4418922395",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in data center operations, not semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is focused on data center operations management, which does not match Vineeth's expertise in semiconductor power integrity and packaging.",
     "id": "a8994594",
     "source": "linkedin_fi_power_integrity",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer, Lifecycle Solutions",
@@ -46746,13 +46744,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mechanical-engineer-lifecycle-solutions-at-kalmar-4422251011",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Engineer position in lifecycle solutions, which does not match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "Mechanical Engineer role does not match target domain of Power Integrity, Signal Integrity, CAD/EDA/VLSI/SoC design.",
     "id": "97a39a63",
     "source": "linkedin_fi_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Camera Module Hardware Engineer",
@@ -46760,14 +46757,13 @@
     "location": "Tampere, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/camera-module-hardware-engineer-at-huawei-4399684324",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches background in Power Integrity and experience with ANSYS RedHawk tools, along with a senior role in semiconductor industry.",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical hardware engineering role focused on camera modules, which does not match Vineeth's technical background in semiconductor power integrity and advanced packaging.",
     "id": "655de991",
     "source": "linkedin_fi_power_integrity",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/huawei_camera_module_hardware_enginee_655de991.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP, Packaging - Food & Beverage",
@@ -46776,13 +46772,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-packaging-food-beverage-at-danone-4370846781",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a VP-level role in food and beverage packaging at Danone, which does not match the semiconductor/VLSI/EDA domain specified.",
+    "reason": "The role is not technical - it's a VP level packaging leadership position at a food & beverage company, which doesn't match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "d43215df",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-19",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VP, Packaging - Food & Beverage",
@@ -46791,13 +46786,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-packaging-food-beverage-at-danone-4370846782",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for VP Packaging in Food & Beverage, which is a non-technical business leadership role at a consumer goods company Danone. This does not match our focus on semiconductor/VLSI/EDA technical engineering roles.",
+    "reason": "The VP Packaging role is in the food & beverage industry, not semiconductor/EDA/VLSI. Also not a technical leadership position.",
     "id": "7fe44a8f",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "1st Shift Packaging Set-Up Operator starting at 23.27, then 1 year 26.81",
@@ -46805,14 +46799,13 @@
     "location": "York, PA",
     "url": "https://www.linkedin.com/jobs/view/1st-shift-packaging-set-up-operator-starting-at-23-27-then-1-year-26-81-at-meiji-america-inc-d-f-stauffer-biscuit-co-inc-4426428351",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for a packaging operator role at a food manufacturing company, not related to semiconductor/VLSI/EDA.",
     "id": "63c050f3",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager, Packaging Innovation",
@@ -46820,14 +46813,13 @@
     "location": "Nashville, TN",
     "url": "https://www.linkedin.com/jobs/view/senior-manager-packaging-innovation-at-mars-4382862235",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is non-technical marketing/sales leadership, outside Vineeth's domain expertise.",
     "id": "773474f0",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technologist, Packaging Engineering",
@@ -46835,14 +46827,13 @@
     "location": "Milpitas, CA",
     "url": "https://www.linkedin.com/jobs/view/technologist-packaging-engineering-at-sandisk-4390664376",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily about packaging engineering, not power integrity.",
     "id": "92f6ccb9",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-25",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager, Packaging and Serialization",
@@ -46850,14 +46841,13 @@
     "location": "Princeton, NJ",
     "url": "https://www.linkedin.com/jobs/view/senior-manager-packaging-and-serialization-at-acadia-pharmaceuticals-4379452203",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is a non-technical packaging and serialization management role, not related to semiconductor VLSI EDA technical domains.",
     "id": "1e9d5559",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager, Packaging Innovation",
