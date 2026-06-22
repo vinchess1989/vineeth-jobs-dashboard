@@ -29244,13 +29244,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFab-Production-Control-Planner%2F18546",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Fab Production Control Planner, which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is for a Fab Production Control Planner, which does not match Vineeth's background in Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "8e30f227",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Project Manager \u2013 ALD New Product Transitions",
@@ -29259,13 +29258,12 @@
     "url": "https://www.glassdoor.com/job-listing/technical-project-manager-ald-new-product-transitions-applied-materials-JV_IC1139761_KO0,53_KE54,71.htm?jl=1010166020208",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical project manager for ALD new product transitions at Applied Materials, which does not fit the semiconductor/VLSI/EDA domain focus.",
+    "reason": "This is a project management role, not a technical engineering leadership position in semiconductor, EDA, chip design, or hardware engineering.",
     "id": "65b8c9a6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "technical project manager jobs in Austin, TX",
@@ -29273,29 +29271,27 @@
     "location": "Austin, TX, USA",
     "url": "https://www.glassdoor.com/Job/austin-technical-project-manager-jobs-SRCH_IL.0,6_IC1139761_KO7,32.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Technical Project Manager, which does not match the required technical domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "788cb126",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NPI Technical Program Manager (TPM) (E3)",
     "company": "Applied Materials",
-    "location": "Extract from page",
+    "location": "NPI Technical Program Manager (TPM) (E3)",
     "url": "https://www.glassdoor.com/job-listing/npi-technical-program-manager-tpm-e3-applied-materials-JV_IC1139761_KO0,36_KE37,54.htm?jl=1010166019592",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Non-Technical Program Manager role, which does not fit the semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "The job is for a Technical Program Manager, which falls under project management rather than technical engineering roles in semiconductor/VLSI/EDA.",
     "id": "3981a338",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "technical program manager jobs in Austin, TX",
@@ -29304,13 +29300,12 @@
     "url": "https://www.glassdoor.com/Job/austin-technical-program-manager-jobs-SRCH_IL.0,6_IC1139761_KO7,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical program manager role, which does not fit the specified domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, or VLSI / SoC Design. It also does not match the leadership experience level criteria.",
+    "reason": "This is a non-technical program manager role at a semiconductor company, which does not match Vineeth's engineering background.",
     "id": "22a699c3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Audio Senior EngineerHyderabad, Telangana, IndiaSystems EngineeringPosted 3 months ago",
@@ -29318,14 +29313,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://careers.qualcomm.com/careers/job/446717459484?sortBy=relevance",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an engineering role focused on audio systems design and embedded software development, not related to semiconductor/VLSI/EDA domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ef697681",
     "source": "qualcomm_careers",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Staff Engineer - HIG HBM - PE Design ValidationSingapore, SingaporePosted 4 months ago",
@@ -29333,14 +29327,13 @@
     "location": "Singapore",
     "url": "https://micron.eightfold.ai/careers/job/40380427",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This staff engineer position at Micron is a match for our target domains, including HBM design validation and verification in VLSI.",
+    "matches_requirements": "no",
+    "reason": "The role is in VLSI/SoC design and verification, which is out of Vineeth's domain.",
     "id": "13b845a0",
     "source": "micron_careers",
     "posted_date": "2023-04-06",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology__i_staff_engineer___hig_hbm___pe__13b845a0.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Interview at Texas Instruments",
@@ -29349,13 +29342,12 @@
     "url": "https://old.reddit.com/r/ECE/comments/1u9shii/interview_at_texas_instruments/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general discussion thread, not a specific job posting.",
+    "reason": "The job posting URL was blocked due to a network policy and could not be accessed for further evaluation.",
     "id": "a1c93871",
     "source": "reddit_ece",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Process Integration Engineer",
@@ -29364,13 +29356,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-process-integration-engineer-impinj-JV_IC1150505_KO0,31_KE32,38.htm?jl=1010161946680",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Integration Engineer, which does not match the key domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, or CAD/Methodology.",
+    "reason": "The role is focused on process integration for RFID tags and does not match Vineeth's background in power integrity, advanced packaging, or EDA tools.",
     "id": "e2c9db8e",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Seattle, WA",
@@ -29379,13 +29370,12 @@
     "url": "https://www.glassdoor.com/Job/seattle-process-engineer-jobs-SRCH_IL.0,7_IC1150505_KO8,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general Operations Engineer role at Amazon, not specific to Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "reason": "The role is not a technical position relevant to semiconductor, VLSI, EDA and Vineeth's background. It is an Amazon process engineering job in Seattle, WA, USA.",
     "id": "3dcc0f08",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Seattle, WA jobs",
