@@ -38736,13 +38736,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19465&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a construction project management position focused on physical data center facilities, rather than semiconductor VLSI EDA design and engineering. It does not match the technical domain requirements.",
+    "reason": "This is a construction project management role for data center builds, not an engineering position in semiconductor, VLSI, EDA.",
     "id": "ed964171",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -38750,14 +38749,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FData-Center-Construction-Project-Manager%2F19465",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting does not mention a specific technical domain or location details required for matching.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with no specific technical domain mentioned, but high priority for semiconductor startups.",
     "id": "f6e45788",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Materials Engineer, TEM, Terafab",
@@ -38766,13 +38764,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-materials-engineer-tem-terafab-tesla-JV_IC1139761_KO0,33_KE34,39.htm?jl=1010169780867",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Materials Engineer position, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The job is for a Materials Engineer position at Tesla, which falls under non-technical/non-VLSI/EDA roles based on the job title. It does not fit Vineeth's domain.",
     "id": "d096d7d4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Design Engineer, HBM",
@@ -38780,14 +38777,13 @@
     "location": "Richardson, Texas, United States of America",
     "url": "https://www.indeed.com/rc/clk?jk=e8289447d7f79bb0",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This memory design engineer role focuses on HBM, which aligns with the target domains of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus and Advanced Packaging / Thermal: Package thermal analysis, IC packaging, ballout optimization",
+    "matches_requirements": "no",
+    "reason": "The role is focused on memory design for HBM (High Bandwidth Memory), which does not match Vineeth's key technical background in Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "c4ad81ec",
     "source": "indeed_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_memory_design_engineer__hbm_c4ad81ec.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Design Engineer, HBM salaries in Richardson, TX",
@@ -38796,28 +38792,26 @@
     "url": "https://www.indeed.com/career/design-engineer/salaries/Richardson--TX?campaignid=serp-more&fromjk=e8289447d7f79bb0&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job postings on Indeed for 'Design Engineer' salary research do not match our targeted semiconductor/VLSI/EDA technical roles. These are general engineering salary listings, not actual job openings.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "36d33f51",
     "source": "indeed_vlsi_india",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Test Hardware Engineer",
     "company": "Renesas",
-    "location": "Extract from page",
+    "location": "Austin, TX, USA",
     "url": "https://www.glassdoor.com/job-listing/test-hardware-engineer-renesas-JV_IC1139761_KO0,22_KE23,30.htm?jl=1010170212014",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Test Hardware Engineer at Renesas, which does not fit the specified technical domains of Power Integrity, Advanced Packaging, or EDA.",
+    "reason": "The role is software development focused (e.g. PCB layout, debug/troubleshooting) rather than semiconductor/VLSI/EDA.",
     "id": "623e4bdd",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "hardware engineer jobs in Austin, TX",
@@ -38826,28 +38820,12 @@
     "url": "https://www.glassdoor.com/Job/austin-hardware-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a hardware engineer role at Amazon, focusing on manufacturing processes rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "9a5a468a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Renesas jobs in Austin, TX",
-    "company": "Renesas",
-    "location": "Austin, TX, USA",
-    "url": "https://www.glassdoor.com/Job/austin-renesas-jobs-SRCH_IL.0,6_IC1139761_KO7,14.htm",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, England, Scotland, Ireland, India, Asia, Taiwan, South Korea or Singapore.",
-    "id": "1b681382",
-    "source": "glassdoor_semi",
-    "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Test Engineer",
@@ -38856,13 +38834,12 @@
     "url": "https://www.glassdoor.com/job-listing/staff-test-engineer-renesas-JV_IC1139761_KO0,19_KE20,27.htm?jl=1010170301399",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a test engineering role, not directly related to VLSI/EDA fields of Power Integrity, CAD/Methodology, or Advanced Packaging.",
+    "reason": "The job is for a verification role (test engineer) which is outside Vineeth's domain.",
     "id": "8973dded",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "software development engineer in test jobs in Austin, TX",
@@ -38871,13 +38848,12 @@
     "url": "https://www.glassdoor.com/Job/austin-software-development-engineer-in-test-jobs-SRCH_IL.0,6_IC1139761_KO7,44.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software Development Engineer in Test role, which does not match the technical domains of Power Integrity/Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "The job is for a software development role, which is outside Vineeth's domain.",
     "id": "46c16d2f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Validation Engineer",
