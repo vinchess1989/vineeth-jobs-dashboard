@@ -28964,13 +28964,12 @@
     "url": "https://micron.eightfold.ai/careers/job/38901201",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role does not fit the specific technical domains of Power Integrity/SI, CAD/Methodology, nor Physical Design which are our top priority areas.",
+    "reason": "Not a technical role in semiconductor/VLSI/EDA domain",
     "id": "2984ffa1",
     "source": "micron_careers",
     "posted_date": "2023-04-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Manager",
@@ -28979,13 +28978,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5427&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an AI/ML engineering management role, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "This AI Manager role is primarily focused on applying machine learning for business use cases, rather than the semiconductor, EDA, VLSI/SoC design domains that Vineeth specializes in.",
     "id": "14628495",
     "source": "tsmc_careers",
     "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -28993,14 +28991,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Manager%2F5427",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is at TSMC, a semiconductor manufacturing company, which does not fit the EDA/CAD/semiconductor engineering roles we are looking for. We need jobs at companies like Synopsys, Cadence, Mentor Graphics, or semiconductor design services firms.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domain of Power Integrity and is a leadership position at TSMC, a major semiconductor foundry company.",
     "id": "efe43a2c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_efe43a2c.txt"
   },
   {
     "title": "AI Engineer (Artificial Intelligence for Business Intelligence, AI4BI)",
@@ -29009,13 +29006,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16819&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI Engineer role is for business intelligence applications, not semiconductor/VLSI/EDA technical positions.",
+    "reason": "The AI Engineer role is more focused on software development and analytics than semiconductor VLSI EDA engineering.",
     "id": "782aa7bb",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29024,13 +29020,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Engineer-Artificial-Intelligence-for-Business-Intelligence-AI4BI%2F16819",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical business intelligence AI role at a semiconductor company, which does not match our engineering/technical position focus.",
+    "reason": "The job is a software engineering position focused on AI and business intelligence applications, which does not match Vineeth's background in semiconductor power integrity, packaging, and EDA CAD methodology.",
     "id": "416e2fb7",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Failure Analysis Engineer",
@@ -29039,13 +29034,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-failure-analysis-engineer-nvidia-JV_IC1147439_KO0,32_KE33,39.htm?jl=1010167351141",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Failure Analysis Engineer, which does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily focused on failure analysis engineering, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "f50174fd",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Santa Clara, CA",
@@ -29054,13 +29048,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-process-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "This is a non-technical manufacturing role at an electronics manufacturer, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "6aeee9f1",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer \u2013 MCU Performance Analysis",
@@ -29069,13 +29062,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-hardware-engineer-mcu-performance-analysis-general-motors-gm-JV_IC1134741_KO0,49_KE50,67.htm?jl=1010159506881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a hardware engineering role focused on MCU performance analysis, which does not match the semiconductor/VLSI/EDA technical domains we are looking for.",
+    "reason": "The job is for an automotive hardware engineering role at GM, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
     "id": "dc13c5c3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff/Senior Photolithography Process Development EngineerSingapore, SingaporePosted 5 months ago",
@@ -29084,13 +29076,12 @@
     "url": "https://micron.eightfold.ai/careers/job/39527027",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role focused on photolithography, not VLSI/EDA/semiconductor design and tool development.",
+    "reason": "The role is a semiconductor manufacturing process development engineer for lithography, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "46c4c0e5",
     "source": "micron_careers",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ESMC General Security Manager (m/w/d)",
@@ -29099,13 +29090,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21842&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical management role, not an engineering/technical position.",
+    "reason": "The role is a general security management position, which does not directly match Vineeth's technical domains of power integrity, advanced packaging, or EDA/VLSI.",
     "id": "f81f2ce4",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
