@@ -51853,14 +51853,13 @@
     "location": "France",
     "url": "https://fr.linkedin.com/jobs/view/deputy-chief-technology-officer-at-stealth-4421558892",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an executive CTO position at a stealth mode startup, which does not match the technical leadership role focused on semiconductor/VLSI/EDA domains specified in the job search requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with a relaxed technical domain requirement matches Vineeth's profile, but specific semiconductor/EDA experience is not clearly stated.",
     "id": "a2bcffcd",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information Officer",
@@ -51869,13 +51868,12 @@
     "url": "https://pt.linkedin.com/jobs/view/chief-information-officer-at-confidential-4410507890",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical CIO role which does not match our semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is a C-level strategy leadership position with no specific technical requirements that match Vineeth's background.",
     "id": "bffdbb5b",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC Design Engineer - Intern",
@@ -51884,13 +51882,12 @@
     "url": "https://fr.linkedin.com/jobs/view/soc-design-engineer-intern-at-microchip-technology-inc-4417770357",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an internship for a SoC design engineer, which does not match the senior leadership and technical expertise required by the candidate.",
+    "reason": "This is an SoC design role, not a Power Integrity or Advanced Packaging position that Vineeth specializes in.",
     "id": "936087f4",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Analyst L2",
@@ -51899,13 +51896,12 @@
     "url": "https://gr.linkedin.com/jobs/view/cyber-security-analyst-l2-at-neurosoft-4422921413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cyber Security Analyst role, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is in cyber security analysis, not power integrity, packaging, VLSI design, EDA tools, or engineering leadership.",
     "id": "fd8b0e56",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Junior) Security Operations Engineering Consultant",
@@ -51914,28 +51910,12 @@
     "url": "https://be.linkedin.com/jobs/view/junior-security-operations-engineering-consultant-at-nviso-security-4416806633",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Security Operations Engineering Consultant role, which does not fit the semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is primarily focused on Security Operations Center (SOC) engineering, which is outside Vineeth's domain of Power Integrity and Advanced Packaging expertise.",
     "id": "7dbcee9a",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "CISO",
-    "company": "Criptan",
-    "location": "Spain",
-    "url": "https://es.linkedin.com/jobs/view/ciso-at-criptan-4430974352",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a non-technical CISO position, not matching the semiconductor/VLSI/EDA industry focus.",
-    "id": "fff5742d",
-    "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC 2 Project Manager",
@@ -51944,13 +51924,12 @@
     "url": "https://es.linkedin.com/jobs/view/soc-2-project-manager-at-miratech-4405543161",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a SOC 2 Project Manager, which involves IT and compliance projects but does not directly match the domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is for a project management position focused on SOC 2 compliance, which is unrelated to Vineeth's technical background in Power Integrity and EDA tools.",
     "id": "46e67799",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career \u2014 DFT Engineer (M, F, D)",
@@ -51959,13 +51938,12 @@
     "url": "https://de.linkedin.com/jobs/view/early-career-%E2%80%94-dft-engineer-m-f-d-at-apple-4421047596",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match job requirements, looking for Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology or Physical Design experience.",
+    "reason": "This DFT Engineer role is primarily verification focused on testbenches and simulations, which does not match Vineeth's Power Integrity and Advanced Packaging domain expertise.",
     "id": "cf55f00e",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Information Security Consultant",
@@ -51974,13 +51952,12 @@
     "url": "https://es.linkedin.com/jobs/view/information-security-consultant-at-fujitsu-4427339490",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Information Security Consultant role rather than any of the semiconductor/VLSI/EDA related technical domains.",
+    "reason": "This is an Information Security Consultant role, not a technical engineering or leadership position in semiconductor/VLSI/EDA.",
     "id": "6ad7e351",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Cyber Security",
@@ -51989,13 +51966,12 @@
     "url": "https://ie.linkedin.com/jobs/view/head-of-cyber-security-at-boyle-sports-4419976222",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Head of Cyber Security position, not within semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for a Cyber Security Head role, which requires security clearance and governance experience, unlike Vineeth's technical leadership background in Power Integrity and VLSI.",
     "id": "723a676b",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Chief Technology Officer",
