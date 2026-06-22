@@ -42026,13 +42026,12 @@
     "url": "https://mt.linkedin.com/jobs/view/senior-process-engineer-npi-at-stmicroelectronics-4389747197",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Senior Process Engineer role in semiconductor manufacturing, which does not match our VLSI/EDA technical focus.",
+    "reason": "This is a non-technical manufacturing engineering role at STMicroelectronics Malta, which is outside Vineeth's domain of semiconductor/VLSI/EDA engineering.",
     "id": "1343079d",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer New Technology Introduction and Tapeout Enablement (f/m/div)",
@@ -42040,14 +42039,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-engineer-new-technology-introduction-and-tapeout-enablement-f-m-div-at-infineon-technologies-4419422330",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Engineer role with New Technology Introduction and Tapeout Enablement aligns well with the candidate's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on new technology introduction and tapeouts, which falls outside Vineeth's primary domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology.",
     "id": "eecea77f",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": "job_descriptions/infineon_technologie_senior_engineer_new_technology_eecea77f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wafer Test Engineer MOSFET (m/w/d)",
@@ -42056,13 +42054,12 @@
     "url": "https://de.linkedin.com/jobs/view/wafer-test-engineer-mosfet-m-w-d-at-vishay-intertechnology-inc-4423969970",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Wafer Test Engineer MOSFET position, which does not match the specified technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging/Thermal, CAD/Methodology, or VLSI/SoC Design.",
+    "reason": "The role is a wafer test engineer position focused on MOSFET testing, which does not match Vineeth's background in Power Integrity and SoC PDN sign-off.",
     "id": "b0c0de33",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Cleanroom Process Engineer",
@@ -42071,13 +42068,12 @@
     "url": "https://nl.linkedin.com/jobs/view/cleanroom-process-engineer-at-delft-university-of-technology-4425604861",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is a non-technical role (cleanroom engineer) at a university, not in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily non-technical, not related to semiconductor/VLSI/EDA.",
     "id": "3e8c49f5",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-11",
     "deadline": "2026-07-06",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Defect/Integration Engineer",
@@ -42086,13 +42082,12 @@
     "url": "https://ie.linkedin.com/jobs/view/defect-integration-engineer-at-analog-devices-4416853890",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily defect management and inspection recipe maintenance, which does not match Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology.",
     "id": "76ca70cd",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer \u2013 Advanced Materials (all genders)",
@@ -42101,13 +42096,12 @@
     "url": "https://de.linkedin.com/jobs/view/process-engineer-%E2%80%93-advanced-materials-all-genders-at-aixtron-se-4386961820",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a process engineer in advanced materials, not related to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is for a semiconductor manufacturing process engineer, focusing on advanced materials deposition, which does not closely match Vineeth's background in Power Integrity and VLSI/EDA tools.",
     "id": "85bb4c1c",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur Process Micro\u00e9lectronique",
@@ -42116,13 +42110,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-process-micro%C3%A9lectronique-at-tmc-4427869039",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an engineering role in semiconductor manufacturing process development, but it explicitly requires a specific French residency requirement which conflicts with the job search requirements.",
+    "reason": "The role is primarily focused on process engineering in microelectronics manufacturing rather than power integrity, packaging, or EDA.",
     "id": "4f7f5b85",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Failure Analysis Engineer (m/f/d)",
@@ -42131,13 +42124,12 @@
     "url": "https://de.linkedin.com/jobs/view/failure-analysis-engineer-m-f-d-at-esmc-4330094089",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on semiconductor failure analysis rather than VLSI/EDA/CAD",
+    "reason": "The role is in Failure Analysis, which is a non-match for Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "38c3f32c",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Produktingenieur (m/w/d) Product Engineering",
@@ -42146,13 +42138,12 @@
     "url": "https://de.linkedin.com/jobs/view/produktingenieur-m-w-d-product-engineering-at-elmos-4425264335",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general Product Engineer position, not specializing in VLSI/EDA semiconductor domains like Power Integrity (PI) or Advanced Packaging.",
+    "reason": "The role is primarily in product engineering for general electronics manufacturing and does not directly match Vineeth's background in semiconductor power integrity, advanced packaging, or EDA tools.",
     "id": "3b4b703f",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Industrial Engineer",
@@ -42161,13 +42152,12 @@
     "url": "https://in.linkedin.com/jobs/view/industrial-engineer-at-tata-electronics-4428217805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Industrial Engineer position, which does not match the VLSI/EDA technical domains required.",
+    "reason": "The role is a Manufacturing Process Engineer with focus on EMS production environments like SMT, PCBA, and box build assembly. This is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, VLSI/EDA.",
     "id": "90a60631",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Panel Reliability Manager",
