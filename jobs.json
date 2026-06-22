@@ -2417,14 +2417,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41848166",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is focused on general process integration rather than specific technical areas like Power Integrity, Advanced Packaging, CAD/Methodology, or Physical Design.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong overlap on PI/Yield but not clearly in Power Integrity domain",
     "id": "4b8cdeaa",
     "source": "micron_careers",
     "posted_date": "2023-05-25",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "https://micron.eightfold.ai/careers",
@@ -2433,13 +2432,12 @@
     "url": "https://micron.eightfold.ai/\u2019https:/micron.eightfold.ai/careers\u2019",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Page Not Found - Could not determine if this is a valid technical role at Micron Technologies.",
+    "reason": "The job posting URL is invalid, leading to a 'Page Not Found' error. There are no details to evaluate a match against the specified requirements.",
     "id": "10bd56d2",
     "source": "micron_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer",
@@ -2448,13 +2446,12 @@
     "url": "https://careers.arm.com/job/bengaluru/engineer/33099/92870409072",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an intern position, which does not match the senior technical leadership roles we are looking for.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain.",
     "id": "0ca7c274",
     "source": "arm_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "HPC Engineer",
@@ -2463,13 +2460,12 @@
     "url": "https://careers.arm.com/job/austin/hpc-engineer/33099/94961820400",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Austin, Texas, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia. The job also requires a blend of HPC and EDA skills rather than focusing purely on VLSI/EDA.",
+    "reason": "The role is primarily HPC operations, not VLSI/EDA related.",
     "id": "da36463e",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Efficiency Engineer",
@@ -2478,13 +2474,12 @@
     "url": "https://careers.arm.com/job/cambridge/efficiency-engineer/33099/95251164880",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position at Arm, which does not fit the semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is for a non-technical Efficiency Engineer focused on data-driven optimization of engineering platforms rather than VLSI/EDA semiconductor technology.",
     "id": "b655e627",
     "source": "arm_careers",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer/ Senior Software Engineer",
@@ -2493,13 +2488,12 @@
     "url": "https://careers.arm.com/job/bengaluru/software-engineer-senior-software-engineer/33099/89611383968",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in software engineering, not specific to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (C/C++, Linux, Windows driver development) and not focused on power integrity, advanced packaging, or EDA tools.",
     "id": "c4bb0178",
     "source": "arm_careers",
     "posted_date": "2025-12-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -2508,13 +2502,12 @@
     "url": "https://careers.arm.com/job/bengaluru/staff-engineer/33099/95279996512",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Senior Hardware Engineering position at Arm's Bengaluru, India office with the required technical background in SoC Implementation and Physical design.",
+    "reason": "Matches candidate's background with senior experience in Power Integrity, Advanced Packaging and SoC PDN sign-off",
     "id": "c4e13f92",
     "source": "arm_careers",
     "posted_date": "2026-05-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_staff_engineer_c4e13f92.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff_engineer_c4e13f92.txt"
   },
   {
     "title": "Electronics Engineer",
@@ -2523,13 +2516,12 @@
     "url": "https://careers.arm.com/job/cambridge/electronics-engineer/33099/90634306128",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electronics Engineer, a non-technical role not matching our semiconductor/VLSI/EDA focus.",
+    "reason": "The role focuses on system, hardware and software architectures with a strong emphasis on reliability, cybersecurity and functional safety - outside Vineeth's primary domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology.",
     "id": "446c4c3b",
     "source": "arm_careers",
     "posted_date": "2026-01-15",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
@@ -2537,14 +2529,13 @@
     "location": "Bengaluru, India",
     "url": "https://careers.arm.com/job/bengaluru/senior-engineer/33099/94206086192",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job role matches the target domains of Power Integrity (PI), Advanced Packaging, and CAD/Methodology. The location is in Bengaluru, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily hardware/software engineering verification, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "1caefb95",
     "source": "arm_careers",
     "posted_date": "2026-04-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_senior_engineer_1caefb95.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -2553,13 +2544,12 @@
     "url": "https://careers.arm.com/job/manchester/hardware-engineer/33099/96458778000",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a hardware engineer role, which does not match the target technical domains of Power Integrity (PI), Advanced Packaging/Thermal, CAD/Methodology, and Physical Design in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily hardware engineering focused on Arm's DSTREAM debug probes, which falls outside Vineeth's primary areas of expertise in Power Integrity and Advanced Packaging.",
     "id": "8ffa8994",
     "source": "arm_careers",
     "posted_date": "2026-06-15",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Explore Your Career",
@@ -2568,13 +2558,12 @@
     "url": "https://www.tsmc.com/static/english/careers/index.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "No specific technical domain or location mentioned, only general links to various areas of work at TSMC.",
+    "reason": "The job is a generic overview of careers at TSMC, without specific details to determine Vineeth's qualifications.",
     "id": "feb027f3",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u767b\u9304\u53f0\u7a4d\u4eba\u624d\u5eab   Register your profile on TSMC Talent Pool",
@@ -2583,13 +2572,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=562&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not list a specific technical role, and appears to be for registering an applicant profile rather than listing an open position.",
+    "reason": "This is a general talent pool registration, not a specific job opening with application deadline and details. It's too vague for an evaluation.",
     "id": "593d36c9",
     "source": "tsmc_careers",
     "posted_date": "2023-09-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
