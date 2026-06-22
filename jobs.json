@@ -43258,13 +43258,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22246&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is non-technical HR, outside Vineeth's domain.",
     "id": "0b71f938",
     "source": "tsmc_careers",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -43273,13 +43272,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSenior-Talent-Sourcing-Specialist%2F22246",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical sales role, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "The role is primarily software development focused (recruiter/sourcing) which is outside Vineeth's domain of technical leadership in PI, packaging, physical design etc.",
     "id": "49d5d9f6",
     "source": "tsmc_careers",
     "posted_date": "2023-06-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Verification Engineer (BLR/ Pune)",
@@ -43287,14 +43285,13 @@
     "location": "Pune City, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/verification-engineer-blr-pune-at-scaleflux-4430314782",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits a mid-senior level VLSI/SoC design verification engineer position, with the required skills and experience in digital ASIC design, ARM cores, AMBA protocols, SOC interfaces. The location is also a match.",
+    "matches_requirements": "no",
+    "reason": "This Verification Engineer role is focused on IP and SoC level verification, which falls outside Vineeth's Power Integrity (PI) / Advanced Packaging / CAD Methodology areas of expertise.",
     "id": "94ab65d2",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/scaleflux_verification_engineer__blr__pu_94ab65d2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Specialty Technology R&D Engineer",
@@ -43302,14 +43299,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=6157&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This position is located in Taiwan, which does not match the priority locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "matches_requirements": "yes",
+    "reason": "Matches Domain & Technical Area for Power Integrity/SI and Advanced Packaging/Thermal, with strong leadership experience.",
     "id": "790e0afa",
     "source": "tsmc_careers",
     "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_specialty_technology_r_d_engin_790e0afa.txt"
   },
   {
     "title": "LinkedIn",
@@ -43318,13 +43314,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSpecialty-Technology-R-D-Engineer%2F6157",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a technical role at a semiconductor company, but it does not match the specific domains of Power Integrity, Advanced Packaging, CAD/Methodology, or Physical Design that Vineeth's background and skills align with. It also does not specify if visa sponsorship is available.",
+    "reason": "The role is for a Specialty Technology R&D Engineer, which falls under general software/hardware engineering and does not match Vineeth's specific areas of Power Integrity, Advanced Packaging or CAD Methodology.",
     "id": "66c66906",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Specialty Engineer -\u8eab\u5fc3\u969c\u7919\u4eba\u624d\u62db\u52df",
@@ -43333,13 +43328,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19391&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position requires a valid disability identification issued in Taiwan, limiting global eligibility.",
+    "reason": "This role requires a Master's degree, which is higher than Vineeth's background. Also, it needs valid disability identification in Taiwan.",
     "id": "efc5cd29",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -43348,13 +43342,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSpecialty-Engineer%2F19391",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior level technical leadership role at TSMC matching key skills and background.",
+    "reason": "The role is a Senior Engineering position at TSMC in Hsinchu, Taiwan, focusing on Advanced Packaging and Thermal Analysis. It matches Vineeth's background.",
     "id": "a5490fe2",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_a5490fe2.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_a5490fe2.txt"
   },
   {
     "title": "Project Coordinator Jobs",
@@ -43363,13 +43356,12 @@
     "url": "https://builtin.com/jobs/project-management/search/project-coordinator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a project coordinator position, which does not match the technical engineering roles we are looking for in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Project Coordinator, which is an entry-level to mid-level business/operations/project management position that does not fit Vineeth's senior technical background in semiconductor/VLSI/EDA.",
     "id": "4720f826",
     "source": "builtin_semi",
     "posted_date": "2026-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Engineer Jobs",
@@ -43378,13 +43370,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/project-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general Project Engineer role without specific focus on semiconductor/VLSI/EDA domains. The job listings also do not match Vineeth's background and experience.",
+    "reason": "The job is for a project engineer role in renewable energy, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "02bd9624",
     "source": "builtin_semi",
     "posted_date": "2026-06-13",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Project Manager Jobs",
@@ -43393,13 +43384,12 @@
     "url": "https://builtin.com/jobs/project-management",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general project management position with no relevant technical domain or experience requirements matching our semiconductor/VLSI/EDA job search criteria.",
+    "reason": "The job is for a project manager role which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "07e87bb3",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Prompt Engineering Jobs",
