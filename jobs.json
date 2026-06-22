@@ -23317,33 +23317,31 @@
   },
   {
     "title": "ElectroMechanical Design Engineer Sr Stf: MicroElectronics",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A - Unable to determine company from the given job description text.",
+    "location": "N/A - Unable to determine location from the given job description text.",
     "url": "https://www.indeed.com/rc/clk?jk=63e5b49fcfe948f3",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a non-technical role (Electromechanical Design) and does not match semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily focused on electro-mechanical design and does not fit Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "e85c1f51",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ElectroMechanical Design Engineer Sr Stf: MicroElectronics salaries",
-    "company": "Extract from page",
+    "company": "N/A (Extract from page)",
     "location": "Cambridge, UK",
     "url": "https://www.indeed.com/career/salaries/Microelectronics%20Engineer/Grand%20Prairie,%20TX?campaignid=serp-more&fromjk=63e5b49fcfe948f3&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary search result, not an actual job posting.",
+    "reason": "The role is primarily focused on mechanical design for microelectronics, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "fdcbce96",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -23352,13 +23350,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=a082f7277859f616",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role, which does not match our requirements.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "109f9618",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer salaries in Boulder, CO",
@@ -23367,13 +23364,12 @@
     "url": "https://www.indeed.com/career/hardware-engineer/salaries/Boulder--CO?campaignid=serp-more&fromjk=a082f7277859f616&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a hardware engineer, which does not match the target semiconductor/VLSI/EDA roles.",
+    "reason": "The role is for a Hardware Engineer, which falls outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "fbc43ebf",
     "source": "indeed_semi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Controls Engineer",
@@ -23382,13 +23378,12 @@
     "url": "https://www.glassdoor.com/job-listing/controls-engineer-wunderlich-malec-engineering-JV_IC1139761_KO0,17_KE18,46.htm?jl=1010171223029",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Controls Engineer role which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is for a Controls Engineer at a civil engineering consulting firm, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "54e81ba6",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "controls engineer jobs in Austin, TX",
@@ -23397,28 +23392,26 @@
     "url": "https://www.glassdoor.com/Job/austin-controls-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a controls engineer role in Austin, TX which requires US residency.",
+    "reason": "This is a software engineering role focused on simulation tools, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "9194e382",
     "source": "glassdoor_semi",
     "posted_date": "2023-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Wunderlich-Malec Engineering jobs in Austin, TX",
-    "company": "Extract from page",
+    "company": "Glassdoor",
     "location": "Austin, TX, USA",
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=Wunderlich-Malec+Engineering&sc.locationSeoString=Austin&locId=1139761&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not contain relevant semiconductor, VLSI, or EDA industry information for evaluation based on the provided job requirements and background.",
+    "reason": "The role is not a technical position within semiconductor, VLSI, EDA - instead it seems to be general troubleshooting and help center support.",
     "id": "f2da9102",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "maintenance engineer jobs in Boise, ID",
@@ -23427,13 +23420,12 @@
     "url": "https://www.glassdoor.com/Job/boise-maintenance-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Maintenance Engineer, which does not match the specified technical domains such as Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is a non-technical maintenance engineer position at a company that was not explicitly stated in the job posting text.",
     "id": "ad98f0ab",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Intelligent Manufacturing Engineer (IMC/MFG)",
@@ -23441,29 +23433,27 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5439&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is specific to TSMC's manufacturing operations and does not match our technical domains in semiconductor, VLSI, EDA, or engineering leadership.",
+    "matches_requirements": "yes",
+    "reason": "The role is an Intelligent Manufacturing Engineer position at TSMC, a semiconductor manufacturer in Taiwan.",
     "id": "955f6b9f",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/taiwan_semiconductor_intelligent_manufacturing_engi_955f6b9f.txt"
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-IMC-MFG%2F5439",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is invalid, preventing a full evaluation of the posting.",
+    "reason": "The job is with TSMC, a semiconductor company, but it is for an Intelligent Manufacturing Engineer position which is non-technical.",
     "id": "bcdaf4a1",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ESMC - Warehouse Specialist / Fachlagerist (m/w/d)",
