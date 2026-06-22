@@ -69046,13 +69046,12 @@
     "url": "https://ee.linkedin.com/jobs/view/detection-engineer-at-binalyze-4425621032",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mid-senior level Detection Engineer at Binalyze in Estonia, which does not match Vineeth's senior leadership background and focus on power integrity and advanced packaging.",
+    "reason": "The role is focused on cybersecurity detection engineering, which is not directly related to Vineeth's power integrity and advanced packaging domain expertise.",
     "id": "0d5879b8",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior DFT Engineer",
@@ -69061,13 +69060,12 @@
     "url": "https://es.linkedin.com/jobs/view/junior-dft-engineer-at-openchip-software-technologies-4297888510",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Junior DFT Engineer, which does not match the senior-level technical roles in semiconductor/VLSI/EDA domains we are looking to identify.",
+    "reason": "The role is primarily focused on digital design with DFT rather than Vineeth's areas of power integrity, packaging, and CAD.",
     "id": "1bd0cb1e",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Monitoring Engineer - a venture between Thales and Google",
@@ -69076,13 +69074,12 @@
     "url": "https://ro.linkedin.com/jobs/view/senior-monitoring-engineer-a-venture-between-thales-and-google-at-thales-4414956456",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Senior Monitoring Engineer focused on SIEM and ELK stack, which does not match the VLSI/EDA/semiconductor technical domains.",
+    "reason": "The role is primarily focused on SIEM and monitoring, which is outside Vineeth's domain of power integrity, advanced packaging, and EDA tools.",
     "id": "a696e985",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-03-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Firmware Engineer",
@@ -69091,13 +69088,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-firmware-engineer-at-mermec-4425772420",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a firmware engineer with expertise in hardware and FPGA design, VHDL, C/C++, while the job requires skills in PLC programming, system engineering, and IoT solutions. The requirements do not align.",
+    "reason": "The role is a junior firmware engineering position focused on hardware and digital design, which is outside Vineeth's domain of power integrity (PI), advanced packaging, SoC PDN sign-off, thermal analysis, and CAD methodology.",
     "id": "8fda5fe7",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SOC Architect",
@@ -69106,13 +69102,12 @@
     "url": "https://cz.linkedin.com/jobs/view/soc-architect-at-vodafone-4398457350",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a SOC Architect role which involves cybersecurity and Microsoft Sentinel SIEM system, but does not match the key domains of Power Integrity (PI), Advanced Packaging, or CAD/Methodology in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development focused on Microsoft Sentinel and other SIEM systems, which falls outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "58bc1d40",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "L3 Microsoft Sentinel & Defender Endpoint Platform Engineer",
@@ -69121,13 +69116,12 @@
     "url": "https://bg.linkedin.com/jobs/view/l3-microsoft-sentinel-defender-endpoint-platform-engineer-at-hcltech-4428701574",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Microsoft Sentinel & Defender Endpoint Platform Engineer, not related to VLSI/EDA/Semiconductor industry.",
+    "reason": "The role is for a Microsoft Sentinel & Defender Endpoint Platform Engineer, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "dd4439a2",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AMS Verification Engineer",
@@ -69135,14 +69129,13 @@
     "location": "Greater Toulouse Metropolitan Area",
     "url": "https://fr.linkedin.com/jobs/view/ams-verification-engineer-at-elsys-design-4395616379",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a potential match for the AMS Verification Engineer domain, but it could also be broader and involve other domains like digital verification. More information about the exact technical focus would help to provide a more definitive answer.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development, formal verification, DV Engineer) which is outside Vineeth's domain.",
     "id": "0a07d8d3",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Deployment Strategist, Cybersecurity - EMEA",
@@ -69151,13 +69144,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ai-deployment-strategist-cybersecurity-emea-at-mistral-4424776373",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business strategy position focused on AI and cybersecurity, not a technical engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on AI strategy for cybersecurity rather than semiconductor/VLSI/EDA.",
     "id": "68a9b6d1",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join the Growing Cyber Security Practice at Methods",
@@ -69166,13 +69158,12 @@
     "url": "https://uk.linkedin.com/jobs/view/join-the-growing-cyber-security-practice-at-methods-at-methods-4353560537",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cyber Security role at Methods, which does not match the target semiconductor/VLSI/EDA domains and experience.",
+    "reason": "The role is primarily cyber security, which does not match Vineeth's expertise in semiconductor/VLSI/EDA.",
     "id": "2dc718e2",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join the Growing Cyber Security Practice at Methods",
@@ -69181,13 +69172,12 @@
     "url": "https://uk.linkedin.com/jobs/view/join-the-growing-cyber-security-practice-at-methods-at-methods-4353650528",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Cybersecurity, not VLSI/EDA/semiconductor related technologies.",
+    "reason": "The role is primarily cyber security, not semiconductor/VLSI/EDA.",
     "id": "1886af14",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-05-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Performance Architect\u2013 Platform Architecture",
