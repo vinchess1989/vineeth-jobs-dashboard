@@ -50341,14 +50341,13 @@
     "location": "Dudley, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/global-network-engineer-12-month-contract-at-rentokil-initial-careers-4421804434",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Global Network Engineer in an IT-focused company, not semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "47115b36",
     "source": "linkedin_uk_physical_design_p2",
-    "posted_date": "2023-05-26",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Global Network Engineer (12 Month Contract)",
@@ -50356,14 +50355,13 @@
     "location": "Crawley, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/global-network-engineer-12-month-contract-at-rentokil-initial-careers-4421693473",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Not a semiconductor/VLSI/EDA related technical role",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "f8f3808d",
     "source": "linkedin_uk_physical_design_p2",
-    "posted_date": "2023-06-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Scientist - 3D Diffusion",
@@ -50372,13 +50370,12 @@
     "url": "https://uk.linkedin.com/jobs/view/research-scientist-3d-diffusion-at-spaitial-ai-4392355951",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a research scientist role focused on generative AI and computer vision, not semiconductor VLSI EDA.",
+    "reason": "This research scientist role is focused on 3D diffusion for generative AI, which does not match Vineeth's background in power integrity, advanced packaging, and EDA tools.",
     "id": "e4b3166b",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Early Career - GPU Physical Design Engineer",
@@ -50387,13 +50384,12 @@
     "url": "https://uk.linkedin.com/jobs/view/early-career-gpu-physical-design-engineer-at-apple-4414161579",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position, which does not match with the candidate's experience of 15 years in power integrity and advanced packaging.",
+    "reason": "The role is primarily software development focused (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "3f1cd486",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2026-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Design & Integration Manager Nordics",
@@ -50402,13 +50398,12 @@
     "url": "https://fi.linkedin.com/jobs/view/security-design-integration-manager-nordics-at-edgeconnex-4429251045",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical managerial role focused on physical security design and implementation for data centers, which does not fit the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily focused on physical security systems design and integration rather than semiconductor, VLSI, EDA, or power integrity.",
     "id": "2ce391b3",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Scientist CFD - Heat and Mass Transfer",
@@ -50417,13 +50412,12 @@
     "url": "https://fi.linkedin.com/jobs/view/sr-scientist-cfd-heat-and-mass-transfer-at-corning-incorporated-4395040337",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on CFD simulations for glass manufacturing and does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "This position is focused on CFD, heat transfer modeling for glass forming technology, which does not match Vineeth's areas of expertise in Power Integrity, Advanced Packaging and EDA.",
     "id": "2aa61197",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -50432,13 +50426,12 @@
     "url": "https://fi.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365290970",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Logical Design Engineer, which does not directly match the key domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or CAD Methodology.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain.",
     "id": "6b4fd44c",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Flood Data Scientist",
@@ -50447,13 +50440,12 @@
     "url": "https://fi.linkedin.com/jobs/view/flood-data-scientist-at-iceye-4402261382",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a flood data scientist role, not a VLSI/EDA-related technical position.",
+    "reason": "The role is primarily focused on flood data science with geospatial and environmental modeling, which is outside Vineeth's main domain of expertise in power integrity, packaging, VLSI/EDA tools.",
     "id": "58ae2280",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Quantum Engineer (all levels), Quantum Gates",
@@ -50462,13 +50454,12 @@
     "url": "https://fi.linkedin.com/jobs/view/quantum-engineer-all-levels-quantum-gates-at-iqm-quantum-computers-4428045057",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on quantum computing and not related to semiconductor/VLSI/EDA.",
+    "reason": "Quantum computing is outside Vineeth's domain of expertise in semiconductor, VLSI, EDA",
     "id": "b5cd8622",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Climate Adaptation Expert (transport infrastructure) - based in Luxembourg",
@@ -50477,13 +50468,12 @@
     "url": "https://fi.linkedin.com/jobs/view/climate-adaptation-expert-transport-infrastructure-based-in-luxembourg-at-european-investment-bank-eib-4429945782",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role unrelated to semiconductor/VLSI/EDA work, and it specifically requires proficiency in French which is not a requirement for the technical roles we are looking for.",
+    "reason": "The job is for a Climate Adaptation Expert, focused on transport infrastructure and based in Luxembourg. It does not match Vineeth's background in Power Integrity, Advanced Packaging, VLSI/EDA.",
     "id": "582a4e9e",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-17",
     "deadline": "2026-07-08",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center EHS Engineer - Finland",
