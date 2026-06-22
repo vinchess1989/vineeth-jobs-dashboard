@@ -21404,13 +21404,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87043?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This firmware engineering role is not focused on semiconductor VLSI/EDA areas like Power Integrity, Advanced Packaging, or EDA CAD tool methodology.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and CAD/Methodology.",
     "id": "e12b4463",
     "source": "amd_careers",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior/ Staff Engineer, Firmware Test (SSD)Singapore, SingaporePosted a month ago",
@@ -21419,13 +21418,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41806524",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a firmware test engineer position in SSD development, which does not match the VLSI/EDA technical domains targeted.",
+    "reason": "The role is focused on firmware test development for SSDs, which doesn't directly match Vineeth's domain of power integrity, advanced packaging, and EDA/ CAD tool integration.",
     "id": "e5fb750c",
     "source": "micron_careers",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -21434,28 +21432,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16488&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on non-volatile memory design, which does not directly match the target domains of Power Integrity, Advanced Packaging, or EDA CAD.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which falls outside Vineeth's domain.",
     "id": "7672cf94",
     "source": "tsmc_careers",
     "posted_date": "2026-05-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Samsung Electronics Co., Ltd",
+    "location": "Seoul, South Korea",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDigital-Design-Engineer%2F16488",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is a software engineer position, which is outside Vineeth's domain.",
     "id": "5524e1ef",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -21464,13 +21460,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-at-omnivision-4391217036",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position which does not match the required seniority and experience level.",
+    "reason": "This role focuses on digital design for image sensors and ISP integration, which is a software/verification role rather than power integrity/advanced packaging. It does not directly match Vineeth's area of expertise.",
     "id": "1a8a94f0",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "System Integration Engineer",
@@ -21479,13 +21474,12 @@
     "url": "https://in.linkedin.com/jobs/view/system-integration-engineer-at-applied-materials-india-4426867353",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a System Integration Engineer focused on R&D tools integration and maintenance, not directly in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
+    "reason": "The role is primarily focused on manufacturing engineering rather than power integrity, VLSI design, or EDA tools.",
     "id": "9ea9956d",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Supplier Technologist",
@@ -21493,14 +21487,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/supplier-technologist-at-applied-materials-4427850477",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical role with required experience range in semiconductor industry",
+    "matches_requirements": "no",
+    "reason": "The role is focused on supplier technology strategy, engagement and risk management rather than semiconductor/VLSI/EDA technical domains.",
     "id": "5d675ff9",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/applied_materials_supplier_technologist_5d675ff9.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -21508,14 +21501,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-nvidia-ai-4423616242",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target domain of ASIC Design which is a priority for Power Integrity / VLSI / EDA candidates.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on ASIC design, which falls outside Vineeth's main domain of Power Integrity & Advanced Packaging. While he has some VLSI and SoC design experience, it isn't a strong enough match for this senior-level role.",
     "id": "c533ed2f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_ai_asic_design_engineer_c533ed2f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -21523,14 +21515,13 @@
     "location": "Kochi, Kerala, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-hcltech-4427859613",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Candidate has experience in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology and relevant tool skills.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on Physical Design implementation, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "d0ac8c11",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-10",
     "deadline": "N/A",
-    "description_file": "job_descriptions/hcltech_physical_design_engineer_d0ac8c11.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IBM LOGIC DESIGN ENGINEER - CORE",
@@ -21539,13 +21530,12 @@
     "url": "https://in.linkedin.com/jobs/view/ibm-logic-design-engineer-core-at-ibm-4419231971",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The error message indicates that the job posting URL is incorrect or the page cannot be loaded.",
+    "reason": "The role is primarily focused on logic design for CPU cores, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "010c2321",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
