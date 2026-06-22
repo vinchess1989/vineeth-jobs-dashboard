@@ -17540,13 +17540,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-rtl-design-engineer-at-tpi-global-solutions-4418790965",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires W2 employment only, which excludes freelancers and contractors.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "7432970e",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Distinguished Silicon Architect",
@@ -17554,14 +17553,13 @@
     "location": "Redwood City, CA",
     "url": "https://www.linkedin.com/jobs/view/distinguished-silicon-architect-at-cognichip-4409147305",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Highly experienced technical leadership role with strong domain expertise matching our target areas of VLSI/SoC design, Power Integrity, and EDA tools. Located in a priority US region with explicit mention of visa sponsorship.",
+    "matches_requirements": "no",
+    "reason": "The role is software development-focused, not semiconductor/VLSI/EDA.",
     "id": "92d0477b",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cognichip_distinguished_silicon_architec_92d0477b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff GenAI Engineer - AMS Design and Optimization",
@@ -17570,13 +17568,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-genai-engineer-ams-design-and-optimization-at-micron-technology-4410852207",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI Engineer focusing on AMS design and optimization, which does not match the specified VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development focused (using Python, ML, automation) rather than semiconductor VLSI/EDA.",
     "id": "552262c8",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff R&D Engineer-17064",
@@ -17585,13 +17582,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-r-d-engineer-17064-at-synopsys-inc-4406636324",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is located in Marlborough, MA, USA, which does not match our target locations.",
+    "reason": "This is a software development role using C++, which does not match Vineeth's background in VLSI/EDA toolchain and hardware design.",
     "id": "9ab7fa0e",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ML Microarchitect",
@@ -17600,13 +17596,12 @@
     "url": "https://www.linkedin.com/jobs/view/ml-microarchitect-at-waymo-4426963691",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software-focused ML Microarchitect position, which does not directly match the specified VLSI/EDA technical areas.",
+    "reason": "The role is primarily software development (ML) with a focus on architecture and hardware interaction, which is outside Vineeth's domain expertise in semiconductor/VLSI/EDA.",
     "id": "c3ac5cf1",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff R&D Engineer, Accelerated Verification Tools-16955",
@@ -17615,13 +17610,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-r-d-engineer-accelerated-verification-tools-16955-at-synopsys-inc-4404843393",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in CA, USA which requires visa sponsorship/relocation, so it's a hard rejection based on location criteria.",
+    "reason": "The role is primarily focused on software development of GPU accelerated simulation solutions, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "f0d9812f",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -17630,13 +17624,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-cisco-4428195885",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in San Jose, CA which does not match one of the preferred regions.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "0069520c",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-31",
+    "description_file": null
   },
   {
     "title": "ML Accelerator Architect",
@@ -17645,13 +17638,12 @@
     "url": "https://www.linkedin.com/jobs/view/ml-accelerator-architect-at-waymo-4330380945",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on ML acceleration for autonomous vehicles, which does not fit into the semiconductor/VLSI/EDA domain. It's more related to automotive and machine learning.",
+    "reason": "The role is for ML Accelerator Architect, not related to semiconductor/VLSI/EDA.",
     "id": "9bdb3105",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Design Engineer",
@@ -17660,13 +17652,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-design-engineer-at-cirrus-logic-4425878306",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The years of experience required is less than our target at 7+ years, while we prefer roles in the 10-15+ year range.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "f50b1948",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff ASIC Design Engineer - Agentic Workflows",
@@ -17674,14 +17665,13 @@
     "location": "Redwood City, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-asic-design-engineer-agentic-workflows-at-cognichip-4421618139",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Power Integrity and experience level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on AI agent behaviors for chip design workflows, which doesn't directly match Vineeth's core expertise in PI/Advanced Packaging/CAD. However, it does leverage some VLSI and EDA tool experience.",
     "id": "7486d4b1",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cognichip_staff_asic_design_engineer___a_7486d4b1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Architect",
