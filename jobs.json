@@ -71230,13 +71230,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-at-capitole-4425792690",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position in Madrid, which does not match the candidate's background and skills in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "This FPGA engineer role is focused on defense projects, which falls outside Vineeth's main area of expertise in Power Integrity and Advanced Packaging. The job description does not fit Vineeth's technical background.",
     "id": "2e64a6f8",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scalable Design Solutions \u2013 Cloud Applications Engineer",
@@ -71244,14 +71243,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/scalable-design-solutions-%E2%80%93-cloud-applications-engineer-at-globalfoundries-4415615417",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a software development role focused on cloud applications and AWS deployment, rather than semiconductor/VLSI/EDA.",
     "id": "930207cf",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-17",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Insights & Analytics Manager, APAC Marketing Centre",
@@ -71259,14 +71257,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/insights-analytics-manager-apac-marketing-centre-at-3m-4385017324",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on marketing analytics for consumer products rather than semiconductor/VLSI/EDA technical domains.",
     "id": "615bf294",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer || System Integration || FEA with Ansys || APDL , 2.5D, 3D Packaging || Exp - 7 to 10 years",
@@ -71275,13 +71272,12 @@
     "url": "https://in.linkedin.com/jobs/view/mechanical-engineer-system-integration-fea-with-ansys-apdl-2-5d-3d-packaging-exp-7-to-10-years-at-cisco-4410994620",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Engineer with focus on system integration and package design using Ansys, which does not match the VLSI/EDA semiconductor background required.",
+    "reason": "The job is for a Mechanical Engineer focusing on hardware systems and packaging, not semiconductor VLSI/EDA.",
     "id": "b98c7bf1",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2023-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior/Staff Silicon Physical Design Engineer",
@@ -71289,29 +71285,27 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/senior-staff-silicon-physical-design-engineer-at-axelera-ai-4339309466",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "Senior/Staff leadership role with 10+ years of experience required matches Vineeth's profile in Power Integrity and Physical Design for SoCs",
     "id": "58766c19",
     "source": "linkedin_eu_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-23",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axelera_ai_senior_staff_silicon_physical__58766c19.txt"
   },
   {
     "title": "Optoelectronic Component Design Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "ITW",
+    "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/optoelectronic-component-design-engineer-itw-JV_IC1146973_KO0,40_KE41,44.htm?jl=1010173799837",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Optoelectronic Component Design Engineer, which does not fit the semiconductor/VLSI/EDA domain expertise of the candidate.",
+    "reason": "The role is primarily focused on optoelectronic component design, which is not within Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "875ea46c",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Camarillo, CA",
@@ -71320,28 +71314,26 @@
     "url": "https://www.glassdoor.com/Job/camarillo-design-engineer-jobs-SRCH_IL.0,9_IC1146973_KO10,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical marketing/Sales role at a semiconductor company, which does not meet our criteria for engineering/technical positions.",
+    "reason": "This is a non-technical role at a retail company, outside Vineeth's engineering domain.",
     "id": "cc6ebaeb",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Camarillo, CA jobs",
-    "company": "Extract from page",
+    "company": "Glassdoor",
     "location": "Camarillo, USA",
     "url": "https://www.glassdoor.com/Job/camarillo-jobs-SRCH_IL.0,9_IC1146973.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The IP blocking notice indicates this is a fake or malicious job posting, not a real job opportunity.",
+    "reason": "The job listing is for a human-focused role on Glassdoor, not a technical engineering position in semiconductor/VLSI/EDA.",
     "id": "54adec1c",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ITW jobs in Camarillo, CA",
@@ -71350,13 +71342,12 @@
     "url": "https://www.glassdoor.com/Job/camarillo-itw-jobs-SRCH_IL.0,9_IC1146973_KO10,13.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not go directly to a specific job but rather to a search results page for ITW jobs in Camarillo, CA. There is no specific job description provided to evaluate against our matching criteria.",
+    "reason": "The job is located in Camarillo, CA and does not match Vineeth's location preferences.",
     "id": "e892efc3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technician Test OperationIpoh (Malaysia)HRC1588008",
@@ -71365,13 +71356,12 @@
     "url": "https://www.infineon.com/careers/job/563808970309022",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting page, returning an error message.",
+    "reason": "The job posting URL was missing, making it impossible to determine if it fit the target criteria.",
     "id": "01d46b37",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technician Test Technology & Innovation (Contract)Melaka (Malaysia)130410",
