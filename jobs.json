@@ -20297,14 +20297,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-ic-design-at-semtech-4414926041",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Staff Engineer position focused on analog design at a semiconductor company in Hyderabad, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog design with some mixed-signal and power management, which doesn't directly match Vineeth's key background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis.",
     "id": "b3c35719",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/semtech_staff_engineer__ic_design_b3c35719.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Test Engineer",
@@ -20313,13 +20312,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-test-engineer-at-mythic-4410633419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Test Engineer position at Mythic, which does not fit the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a test engineering position focused on semiconductor hardware, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "46e5b442",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Chip Lead",
@@ -20327,14 +20325,13 @@
     "location": "Greater Kolkata Area",
     "url": "https://in.linkedin.com/jobs/view/soc-chip-lead-at-analog-devices-4423243116",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain expertise in Power Integrity, SoC design and leadership role with required years of experience",
+    "matches_requirements": "no",
+    "reason": "This role is more of a general SoC engineering leadership position rather than focusing on Vineeth's specific areas of expertise like Power Integrity, Advanced Packaging, CAD Methodology.",
     "id": "0dbc6f58",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_soc_chip_lead_0dbc6f58.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Design Engineer",
@@ -20342,14 +20339,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/cad-design-engineer-at-amd-4424899276",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This CAD Design Engineer role at AMD matches the target criteria of being a senior-level position in semiconductor VLSI/EDA with 8-10 years experience, focusing on advanced nodes like 3nm and 2nm.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 8-10 years experience, close match but slightly below Vineeth's typical 10-15 year range.",
     "id": "9b10274d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_cad_design_engineer_9b10274d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -20357,14 +20353,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-intel-4424561830",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain (Power Integrity/Signal Integrity) and experience level criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused on AI tool integration and SVA, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA.",
     "id": "495c6d03",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_design_engineer_495c6d03.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI Engineer II",
@@ -20373,13 +20368,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-ii-at-hewlett-packard-enterprise-4429263159",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain/technical area, experience level & role type criteria for VLSI Engineer with 2+ years' experience in VLSI design.",
+    "reason": "Matches Vineeth's background in VLSI design and leadership.",
     "id": "d77da4e3",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-31",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/hewlett_packard_ente_vlsi_engineer_ii_d77da4e3.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/hewlett_packard_ente_vlsi_engineer_ii_d77da4e3.txt"
   },
   {
     "title": "ASIC Design and STA Engineer",
@@ -20387,14 +20381,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/asic-design-and-sta-engineer-at-nvidia-4412609757",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior ASIC Design and STA Engineer position with experience in Synopsys Primetime which is a key requirement.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "138b6c6f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_asic_design_and_sta_engineer_138b6c6f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -20403,13 +20396,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-amd-4412840504",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level to mid-level RTL design role at AMD, which does not match the senior leadership experience level criteria.",
+    "reason": "The role is primarily RTL design focused, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "3e71f1fa",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Circuit Design Lead",
@@ -20417,14 +20409,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cpu-circuit-design-lead-at-intel-4418837633",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain/technical area of Power Integrity (PI) and has relevant years of experience.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves technical leadership in advanced CPU design at Intel, which is a strong match for Vineeth's background in power integrity and advanced packaging. The 'maybe' classification comes from the slightly lower years of experience required (8+ for masters or 10+ for bachelors) compared to his 15-year track record.",
     "id": "f82a6370",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-17",
     "deadline": "N/A",
-    "description_file": "job_descriptions/intel_cpu_circuit_design_lead_f82a6370.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer, PhD, Early Career",
@@ -20433,13 +20424,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-phd-early-career-at-google-4365582305",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on AI/ML hardware acceleration and TPU design, which does not strongly match the VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development and verification focused on ML accelerators, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "c1da0321",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Planning Systems Analyst",
