@@ -52819,14 +52819,13 @@
     "location": "Greater Kolkata Area",
     "url": "https://in.linkedin.com/jobs/view/engineer-digital-design-engineer-at-analog-devices-4397932516",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily digital design, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "75bf581e",
     "source": "linkedin_india_vlsi_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Experienced Engineer - ASIC Design",
@@ -52834,14 +52833,13 @@
     "location": "Chennai, Tamil Nadu, India",
     "url": "https://in.linkedin.com/jobs/view/experienced-engineer-asic-design-at-ericsson-4426621948",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role is an ASIC Design Engineer position at a semiconductor company, Ericsson, fitting Vineeth's background in Power Integrity and SoC design.",
     "id": "71787c5c",
     "source": "linkedin_india_vlsi_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-20",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/ericsson_experienced_engineer___asic_de_71787c5c.txt"
   },
   {
     "title": "IP Design Engineer \u2013 RTL | SoC | Embedded Processors",
@@ -52849,14 +52847,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ip-design-engineer-%E2%80%93-rtl-soc-embedded-processors-at-texas-instruments-4414138686",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design for embedded processors, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "12a145ee",
     "source": "linkedin_india_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -52864,14 +52861,13 @@
     "location": "Serilingampalli, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-altera-4421684801",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is an analog design role focused on circuit design and layout, which does not match Vineeth's power integrity (PI), advanced packaging, SoC PDN sign-off, thermal analysis, CAD methodology background.",
     "id": "600b6f55",
     "source": "linkedin_india_vlsi_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
@@ -52879,14 +52875,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-engineer-at-texas-instruments-india-4410800544",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is primarily an RTL design role focused on SoC development, which falls outside Vineeth's power integrity and advanced packaging expertise.",
     "id": "9a86816a",
     "source": "linkedin_india_vlsi_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer 2",
@@ -52895,13 +52890,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-2-at-tessolve-4342552160",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Design Engineer position, which does not match the senior leadership roles and technical domains we are targeting.",
+    "reason": "The role is primarily hardware design, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "5c49e784",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-05-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer II",
@@ -52910,13 +52904,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-ii-at-cadence-4426631215",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Engineer II role with 2-5 years of experience, which does not match the senior-level technical leadership roles we are targeting.",
+    "reason": "The job is an engineering role at Cadence, which specializes in EDA tools and methodologies. While it involves using some of the same CAD tools as Vineeth's background (Genus, Innovus, Tempus, Voltus), it is more focused on design implementation rather than power integrity, packaging, or methodology leadership.",
     "id": "ccecb772",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Experienced Engineer - ASIC Design",
@@ -52925,13 +52918,12 @@
     "url": "https://in.linkedin.com/jobs/view/experienced-engineer-asic-design-at-ericsson-4424554322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Design Engineer, which does not fit the technical domains of Power Integrity, Advanced Packaging, or CAD Methodology. The candidate profile also doesn't match.",
+    "reason": "Role is for ASIC Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "75596870",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Engineer/Lead",
@@ -52940,13 +52932,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-engineer-lead-at-soctronics-4138566862",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Engineer focused on SoC design, which does not match the key skills of Power Integrity and Advanced Packaging in the candidate's background.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "4cb7b729",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-03-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -52954,14 +52945,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/digital-design-engineer-at-syntiant-corp-4417314946",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches candidate profile in Semiconductor/VLSI/EDA domain and senior experience level, with good geographic fit for Vineeth's background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (building complex functional and behavioral models using Matlab/Simulink) which is outside Vineeth's domain of Power Integrity, CAD/Methodology.",
     "id": "784f083f",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-04-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/syntiant_corp__digital_design_engineer_784f083f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SRAM Circuit Design Engineer",
