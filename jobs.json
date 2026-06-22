@@ -18086,13 +18086,12 @@
     "url": "https://www.linkedin.com/jobs/view/r-d-engineering-architect-17332-at-synopsys-inc-4425101601",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches a senior CAD/EDA engineer position with over 15 years' experience in synthesis, place and route, sign-off, and is located in Sunnyvale, CA which qualifies for being considered.",
+    "reason": "The role is a technical leadership position in Power Integrity, which aligns well with Vineeth's background and experience.",
     "id": "911c5f6b",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/synopsys_inc_r_d_engineering__architect_173_911c5f6b.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/synopsys_inc_r_d_engineering__architect_173_911c5f6b.txt"
   },
   {
     "title": "Physical Design Engineer",
@@ -18101,13 +18100,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-cisco-4428304747",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Austin, TX which does not match the preferred regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide. It also has 7+ years of experience required vs. preferring 10-15 years.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "4eae07aa",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Tools Engineer",
@@ -18116,28 +18114,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-tools-engineer-at-openai-4417161421",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is at OpenAI, which does not fit the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily software engineering (tooling, compilers, IR) rather than hardware focused on semiconductor VLSI/EDA.",
     "id": "ddedf9cb",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "CPU Physical Design Engineer",
-    "company": "Intel",
-    "location": "Austin, TX",
-    "url": "https://www.linkedin.com/jobs/view/cpu-physical-design-engineer-at-intel-4419376253",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is based in Austin, TX which requires US residency.",
-    "id": "d53a4e09",
-    "source": "linkedin_eda_ww",
-    "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Implementation Engineer",
@@ -18146,13 +18128,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-implementation-engineer-at-arm-4423133391",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX, which does not match the high priority regions of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "reason": "The role is primarily software development focused on end-to-end flow and automation for highly complex compute SoCs, which does not match Vineeth's domain of Power Integrity/Advanced Packaging.",
     "id": "e9820fca",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Hardware Architecture",
@@ -18161,13 +18142,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-hardware-architecture-at-unconventional-ai-4420150419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on AI hardware architecture rather than semiconductor/VLSI/EDA roles.",
+    "reason": "The role is primarily focused on AI hardware architecture, which does not match Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
     "id": "9ba3ddaa",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -18176,13 +18156,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-physical-design-engineer-at-microsoft-4382380594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Raleigh, NC, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, Remote worldwide or US with explicit visa sponsorship/relocation.",
+    "reason": "The role is focused on physical design engineering, which falls outside Vineeth's core domain of Power Integrity and Advanced Packaging.",
     "id": "5e5f5458",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Engineer",
@@ -18191,13 +18170,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-automation-engineer-at-altera-4415508473",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is based in San Jose, CA which does not match the target locations.",
+    "reason": "The role is primarily software development focused on tool automation and scripting, which is outside Vineeth's domain.",
     "id": "2d20911a",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer",
@@ -18205,14 +18183,13 @@
     "location": "Fremont, CA",
     "url": "https://www.linkedin.com/jobs/view/principal-engineer-at-siemens-eda-siemens-digital-industries-software-4428735088",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Principal Engineer position at Siemens EDA, which does not directly fit the target of Semiconductor/VLSI/EDA Technical Leadership roles.",
+    "matches_requirements": "yes",
+    "reason": "Strong technical match with Power Integrity, CAD & EDA focus",
     "id": "acceb913",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/siemens_eda__siemens_principal_engineer_acceb913.txt"
   },
   {
     "title": "Backend EDA Compiler Engineer",
@@ -18221,13 +18198,12 @@
     "url": "https://www.linkedin.com/jobs/view/backend-eda-compiler-engineer-at-partcl-4331941741",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a Rust background for low-level systems work, while the candidate has experience in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily software development focused on AI compilers and infrastructure, which is outside Vineeth's domain of VLSI/EDA semiconductor technical roles.",
     "id": "af863a2e",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Development Tools Engineer",
