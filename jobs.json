@@ -22225,18 +22225,17 @@
   },
   {
     "title": "design engineer jobs in Santa Clara, CA",
-    "company": "Extract from page",
+    "company": "Power Electronics",
     "location": "Santa Clara, CA",
     "url": "https://www.glassdoor.com/Job/santa-clara-design-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "This is a general design engineer role, not specific to semiconductor, VLSI, EDA domains. Vineeth's background and skills are not relevant.",
     "id": "b6f19886",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Applied Materials jobs in Santa Clara, CA",
@@ -22245,13 +22244,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-applied-materials-jobs-SRCH_IL.0,11_IC1147439_KO12,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Santa Clara, CA, which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions worldwide.",
+    "reason": "The role is in the Applied Materials semiconductor manufacturing equipment company, not a pure EDA/VLSI/semiconductor software company. Vineeth's background is in power integrity, advanced packaging, and SoC design sign-off - this job is in their domain but does not match the key requirement of working at an EDA/VLSI firm.",
     "id": "dab878bf",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer (Early in Career)",
@@ -22260,28 +22258,26 @@
     "url": "https://www.glassdoor.com/job-listing/process-engineer-early-in-career-applied-materials-JV_IC1131650_KO0,32_KE33,50.htm?jl=1010163250804",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Process Engineer position, which does not match the senior leadership and technical expertise required for the target job criteria.",
+    "reason": "The role is for a Process Engineer, which is an entry-level manufacturing position focused on semiconductor wafer fabrication processes. It does not fit Vineeth's background in Power Integrity, Advanced Packaging, CAD Methodology, and EDA tools.",
     "id": "7a4ba246",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Albany, NY",
-    "company": "Extract from page",
+    "company": "N/A (Extract from page)",
     "location": "Albany, NY, USA",
     "url": "https://www.glassdoor.com/Job/albany-process-engineer-jobs-SRCH_IL.0,6_IC1131650_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Engineer role in Albany, NY which does not match the specified technical domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The job is for a Process Engineer role, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It also specifically requires US residency.",
     "id": "f008f4c3",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Albany, NY jobs",
@@ -22290,13 +22286,12 @@
     "url": "https://www.glassdoor.com/Job/albany-jobs-SRCH_IL.0,6_IC1131650.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search is for all Albany, NY jobs without specifying a semiconductor/VLSI/EDA role.",
+    "reason": "The job posting is for a non-technical role (general search results) and does not match Vineeth's technical background.",
     "id": "d84852cc",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applied Materials jobs in Albany, NY",
@@ -22305,13 +22300,12 @@
     "url": "https://www.glassdoor.com/Job/albany-applied-materials-jobs-SRCH_IL.0,6_IC1131650_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Albany, NY, which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote with worldwide eligibility.",
+    "reason": "The job is at Applied Materials, which is a non-EDA/semiconductor company (they make equipment used in semiconductor manufacturing). The domain does not match Vineeth's background.",
     "id": "8e4265fd",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Support Engineer I, New College Grad - Bachelor's (Austin, TX)",
@@ -22320,13 +22314,12 @@
     "url": "https://www.glassdoor.com/job-listing/process-support-engineer-i-new-college-grad-bachelor-s-austin-tx-applied-materials-JV_IC1139761_KO0,64_KE65,82.htm?jl=1010159068787",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Process Support Engineer role, not within the semiconductor/VLSI/EDA technical domain.",
+    "reason": "Non-technical role at a semiconductor company without specific mention of Power Integrity, Packaging, CAD, or EDA tools.",
     "id": "07ff3721",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "support engineer jobs in Austin, TX",
@@ -22335,13 +22328,12 @@
     "url": "https://www.glassdoor.com/Job/austin-support-engineer-jobs-SRCH_IL.0,6_IC1139761_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a general support role, not specific to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a general support engineer position, not specialized in semiconductor/VLSI/EDA domain.",
     "id": "5bed4284",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Applied Materials jobs in Austin, TX",
@@ -22350,13 +22342,12 @@
     "url": "https://www.glassdoor.com/Job/austin-applied-materials-jobs-SRCH_IL.0,6_IC1139761_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX which does not match the priority regions of Finland, Europe, UK, India/Asia, Remote (Worldwide).",
+    "reason": "The job is at Applied Materials, which is a semiconductor equipment manufacturer, not a semiconductor/VLSI/EDA company. This role would likely be in manufacturing, fab operations, or process engineering rather than design engineering.",
     "id": "cd65a04d",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Materials Engineer, DFT & MD, Terafab",
@@ -22365,13 +22356,12 @@
     "url": "https://www.glassdoor.com/job-listing/materials-engineer-dft-md-terafab-tesla-JV_IC1139761_KO0,33_KE34,39.htm?jl=1010169457217",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Materials Engineer role focuses on Design for Testability (DFT) and Manufacturing Defect (MD), indicating work with semiconductor test equipment rather than the EDA, VLSI, or semiconductor design roles we are targeting.",
+    "reason": "This is a Materials Engineer role focusing on DFT & MD, not related to Power Integrity, Advanced Packaging, CAD/Methodology or VLSI/EDA.",
     "id": "9d505d33",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "materials engineer jobs in Austin, TX",
