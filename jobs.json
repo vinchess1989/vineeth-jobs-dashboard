@@ -70124,13 +70124,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-design-engineer-at-westray-recruitment-group-4424205631",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a graduate entry-level engineering role, which does not fit the technical requirements of semiconductor/VLSI/EDA experience.",
+    "reason": "The role is for a structural design engineer specializing in finite element analysis and AutoCAD, which is outside Vineeth's domain of semiconductor/VLSI/EDA expertise.",
     "id": "11ec2f74",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Multi-Skilled Engineer",
@@ -70139,13 +70138,12 @@
     "url": "https://uk.linkedin.com/jobs/view/multi-skilled-engineer-at-albert-bartlett-4429534467",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Multi-Skilled Engineer in food manufacturing, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a multi-skilled engineer position in food manufacturing, with no mention of semiconductor, VLSI, EDA or relevant technical areas.",
     "id": "825bbc6f",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -70154,13 +70152,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-nicholas-associates-4429905024",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contract position focused on automotive electrical and battery pack design, using CAD tools like Catia V5. It does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a contract mechanical design position focused on CAD, electrical systems, and packaging studies for automotive applications - this does not match Vineeth's power integrity, advanced packaging, SoC PDN sign-off, thermal analysis technical background.",
     "id": "4c7e7c9b",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -70169,13 +70166,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-few-far-4412918490",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a design engineer focused on AI web experiences, using typescript, react, node, and highly interactive web technologies like Three.js/WebGL. It does not match the semiconductor/VLSI/EDA industry domain requirements.",
+    "reason": "The role is focused on web development (typescript, react, node) and design rather than semiconductor/VLSI/EDA engineering domains. It's also a startup with no explicit mention of technical leadership.",
     "id": "cc342ce1",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer, UK",
@@ -70183,14 +70179,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-uk-at-ashby-4427219420",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a design engineering role combining both UX/UI and software engineering, which does not match the technical domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, nor EDA Tools.",
+    "matches_requirements": "maybe",
+    "reason": "Design Engineer role combines design and coding, which partially overlaps with Vineeth's background in Power Integrity and VLSI. However, there is no clear mention of EDA tools or SoC PDN sign-off.",
     "id": "25209b7b",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analogue IC Design Engineer",
@@ -70199,13 +70194,12 @@
     "url": "https://uk.linkedin.com/jobs/view/analogue-ic-design-engineer-at-tiptopjob-4429179480",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level contract position focused on specific analogue IC design rather than power integrity, advanced packaging, or EDA tools.",
+    "reason": "Role is for an entry-level contract position focusing on TIA design, which does not match Vineeth's 15+ years of experience in Power Integrity and Advanced Packaging.",
     "id": "a6d343fc",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Multi Skilled Engineer- Fresh- 2 weeks dayshift, 1 week backshift",
@@ -70214,13 +70208,12 @@
     "url": "https://uk.linkedin.com/jobs/view/multi-skilled-engineer-fresh-2-weeks-dayshift-1-week-backshift-at-albert-bartlett-4429909440",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Multi-Skilled Engineer with no mention of semiconductor, VLSI, EDA, power integrity, advanced packaging or related technical domains. It's an entry-level engineering position in the food production sector.",
+    "reason": "This is a non-technical role for a fresh engineer in production machinery, not semiconductor/VLSI/EDA",
     "id": "273bce75",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer, UK",
@@ -70228,14 +70221,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-uk-at-ashby-4427231297",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Design Engineer with combined design and coding skills, matching the requirements.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily design-focused (UI/UX) rather than semiconductor/VLSI/EDA technical.",
     "id": "528edc2b",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/ashby_design_engineer__uk_528edc2b.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design and Development Engineers",
@@ -70244,13 +70236,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-and-development-engineers-at-carbon-threesixty-ltd-4200572250",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mechanical engineering role focused on composite materials, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "This role is a mechanical engineering position focused on composite materials and product design, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "50a034e9",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-05-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Support Design Engineer",
@@ -70259,13 +70250,12 @@
     "url": "https://uk.linkedin.com/jobs/view/support-design-engineer-at-brompton-bicycle-4426845667",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical design engineer supporting bicycle manufacturing, which does not match semiconductor/VLSI/EDA domains.",
+    "reason": "The role is for mechanical design engineering in bicycle production, which does not match Vineeth's background in semiconductor power integrity and advanced packaging.",
     "id": "73945be8",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ICT Design Engineer",
