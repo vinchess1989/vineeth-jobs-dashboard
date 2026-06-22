@@ -23462,13 +23462,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21832&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical warehouse specialist role, not an engineering/technical position.",
+    "reason": "This role is for a Warehouse Specialist position, which is non-technical and does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "da8e195a",
     "source": "tsmc_careers",
     "posted_date": "2026-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -23477,13 +23476,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FESMC-Warehouse-Specialist-Fachlagerist-m-w-d%2F21832",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL leads to a LinkedIn login screen without any actual job details, so cannot evaluate against the criteria.",
+    "reason": "The role is a non-technical Warehouse Specialist position which is outside Vineeth's engineering/technical domain.",
     "id": "5d7dbb1e",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer, GFac SAsia I&CSingapore, SingaporePosted 2 months ago",
@@ -23491,14 +23489,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41218773",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills and experience in Power Integrity, Advanced Packaging, SoC PDN Sign-off.",
+    "matches_requirements": "no",
+    "reason": "The role is in facilities engineering for Micron, which does not directly match Vineeth's power integrity and advanced packaging expertise.",
     "id": "4c3eb0f3",
     "source": "micron_careers",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_staff_engineer__gfac_sasia_i_c_4c3eb0f3.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI LEAD L1",
@@ -23507,13 +23504,12 @@
     "url": "https://www.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4429371098",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a VLSI Lead at Wipro in Austin, TX - it does not match our semiconductor/VLSI/EDA job search requirements.",
+    "reason": "The job requires 5-8 years of VLSI design experience and leads a team in an engineering role at Wipro, which is more focused on general software services and IT consulting rather than semiconductor VLSI/EDA.",
     "id": "56a395ff",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Design Engineer",
@@ -23522,13 +23518,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-design-engineer-at-micron-technology-4410833998",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is based in San Jose, CA which does not match the target locations of Finland/UK/India/remote worldwide.",
+    "reason": "The role is primarily software development (ASIC design, RTL, and verification) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging.",
     "id": "ee56a474",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer (eInfochips)",
@@ -23536,14 +23531,13 @@
     "location": "Mountain View, CA",
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-einfochips-at-arrow-components-4420231371",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires onsite work at an Arrow Client office, which does not match the candidate's preference for remote work.",
+    "matches_requirements": "yes",
+    "reason": "Strong match for ASIC/SOC design with Verilog, EDA tools like Fusion Compiler. Location is Mountain View which is a key location.",
     "id": "459d6acc",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-23",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/arrow_components_asic_design_engineer__einfochi_459d6acc.txt"
   },
   {
     "title": "ASIC Design Engr",
@@ -23552,13 +23546,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-design-engr-at-lattice-semiconductor-4429130389",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is entry-level and does not match the 10-15+ years of experience requirement.",
+    "reason": "The role is entry-level and does not match Vineeth's leadership experience level.",
     "id": "56eb665a",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Learning & Development Specialist",
@@ -23567,13 +23560,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16823&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an HR/People Ops role, not a technical engineering role in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Learning & Development Specialist, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "baff4b7c",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -23582,13 +23574,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FLearning-Development-Specialist%2F16823",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical marketing role, which does not match our engineering-focused criteria.",
+    "reason": "The job is for a non-technical marketing role and does not match Vineeth's engineering background.",
     "id": "c5289f98",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Failure Analysis Engineer (m/f/d)",
@@ -23597,13 +23588,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18773&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Failure Analysis Engineer position at ESMC, which does not match our focus on semiconductor/VLSI/EDA engineering roles.",
+    "reason": "This is a non-technical role for Failure Analysis Engineer at European Semiconductor Manufacturing Company (ESMC) in Germany, which does not match the semiconductor/VLSI/EDA technical focus of Vineeth's background.",
     "id": "ee5b23b1",
     "source": "tsmc_careers",
     "posted_date": "2026-01-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
