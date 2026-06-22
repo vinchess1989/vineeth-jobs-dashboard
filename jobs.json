@@ -20718,13 +20718,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-verification-engineer-5-to-13-years-bangalore-at-cisco-4404073921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level Verification Engineer position with less than 7 years of experience, which does not match the senior leadership roles we are prioritizing.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "e0807a7f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "2026 Campus Hire_ Sr.Engineer_ HW",
@@ -20733,13 +20732,12 @@
     "url": "https://in.linkedin.com/jobs/view/2026-campus-hire-sr-engineer-hw-at-qualcomm-4372873176",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a senior engineering role for HW at Qualcomm, which does not match the target domains of Power Integrity/Advanced Packaging.",
+    "reason": "The role is primarily software engineering, not hardware/semiconductor/VLSI.",
     "id": "25e3c4fb",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D \u2013 SRAM Engineer",
@@ -20748,13 +20746,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-%E2%80%93-sram-engineer-at-tata-electronics-4383652171",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Dholera, Gujarat, India which does not match our target regions of Finland/Europe, UK, India/Asia, fully remote worldwide or explicitly US with visa sponsorship.",
+    "reason": "The role is focused on developing SRAM technologies, which falls under Vineeth's VLSI/SoC design background rather than his Power Integrity & Advanced Packaging focus. This would be a stretch for him.",
     "id": "35b1f98f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -20763,13 +20760,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-samsung-india-4429775415",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The role is primarily RTL design with Verilog/SystemVerilog, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "74eaad09",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design",
@@ -20778,13 +20774,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-at-qualcomm-4403616677",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer which does not match the target domains of Power Integrity, Advanced Packaging, or EDA CAD.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) - this is outside Vineeth's domain.",
     "id": "daa2475c",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Design Engineer",
@@ -20793,13 +20788,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-design-engineer-at-aion-silicon-4379186961",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain (Power Integrity / Advanced Packaging) and senior level role with required years of experience",
+    "reason": "The role matches Vineeth's domain of digital design, SoC architecture and ASIC development with leadership elements.",
     "id": "90655466",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/aion_silicon_principal_design_engineer_90655466.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/aion_silicon_principal_design_engineer_90655466.txt"
   },
   {
     "title": "ASIC Design Engineer",
@@ -20807,14 +20801,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-axiado-corporation-4414294172",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior ASIC Design Engineer role with 8+ years experience, fits into target domains of Power Integrity / Signal Integrity and Physical Design.",
+    "matches_requirements": "no",
+    "reason": "The job is for an ASIC Design Engineer position, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "60d14de8",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-28",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axiado_corporation_asic_design_engineer_60d14de8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -20823,13 +20816,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-hewlett-packard-enterprise-4428822676",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role directly matches an ASIC Design Engineer position, with Verilog RTL coding and networking ASIC experience required.",
+    "reason": "The role involves ASIC design with networking focus, matching Vineeth's background in VLSI and SoC.",
     "id": "df5dc6cb",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/hewlett_packard_ente_asic_design_engineer_df5dc6cb.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/hewlett_packard_ente_asic_design_engineer_df5dc6cb.txt"
   },
   {
     "title": "VLSI LEAD L1",
@@ -20837,14 +20829,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4424945343",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a VLSI Lead at Wipro, focusing on end-to-end VLSI development and design. It involves technical leadership but does not appear to be a match for the target areas of Power Integrity, Advanced Packaging or EDA CAD Methodology.",
+    "matches_requirements": "yes",
+    "reason": "The role involves leading VLSI development and design, which matches Vineeth's domain of Power Integrity (PI), Advanced Packaging, CAD methodology.",
     "id": "bbd5804d",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/wipro_vlsi_lead_l1_bbd5804d.txt"
   },
   {
     "title": "Physical Design Engineer",
@@ -20852,14 +20843,13 @@
     "location": "Serilingampalli, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-altera-4426064444",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Candidate has relevant skills for physical design engineer role.",
+    "matches_requirements": "no",
+    "reason": "This is a mid-senior level physical design engineer role focused on RTL to GDS implementation, which falls outside Vineeth's area of power integrity and advanced packaging.",
     "id": "5e94155f",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/altera_physical_design_engineer_5e94155f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Standard Cell Characterization Engineer",
