@@ -62535,14 +62535,13 @@
     "location": "Vaasa, Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-abb-lle-vaasaan-at-abb-4419695252",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a mechanical design engineer at ABB's facility in Vaasa, Finland, which fits the target location and company type.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily mechanical design for electrical motors, not semiconductor VLSI/EDA.",
     "id": "481f4710",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2026-05-26",
     "deadline": "2026-07-08",
-    "description_file": "job_descriptions/abb_mekaniikkasuunnittelija_abb_ll_481f4710.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Simulation Engineer, Industrial Physics and Robotics",
@@ -62550,14 +62549,13 @@
     "location": "Finland",
     "url": "https://fi.linkedin.com/jobs/view/principal-simulation-engineer-industrial-physics-and-robotics-at-nvidia-4423991883",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a senior engineering role at NVIDIA, which is in the semiconductor industry and not a match for the VLSI/EDA job search criteria.",
+    "matches_requirements": "maybe",
+    "reason": "Matches high-level domain of simulation engineering, but may require deeper technical review to confirm a strong match with Vineeth's specialized power integrity background.",
     "id": "fc6eee6f",
     "source": "linkedin_fi_physical_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Security Engineer",
@@ -62566,13 +62564,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-security-engineer-at-chatgpt-jobs-4417978933",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for AI Security Engineering rather than semiconductor/VLSI/EDA.",
+    "reason": "The job is for an AI Security Engineer role at a tech startup, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "ed9e013b",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Information Technology Auditor",
@@ -62581,13 +62578,12 @@
     "url": "https://www.linkedin.com/jobs/view/information-technology-auditor-at-greenhat-assurance-4428062844",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an IT Auditor with a focus on assurance and audit workpapers, which does not match the technical engineering domains of semiconductor/VLSI/EDA.",
+    "reason": "Non-technical IT Auditor role, unrelated to VLSI/EDA/seminconductor engineering.",
     "id": "6186b4a1",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship, AI Hardware Design Engineer, AI Hardware (Fall 2026)",
@@ -62596,13 +62592,12 @@
     "url": "https://www.linkedin.com/jobs/view/internship-ai-hardware-design-engineer-ai-hardware-fall-2026-at-tesla-4422465118",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This internship is for AI hardware design in Tesla's Autopilot Silicon and Systems group, which does not directly fit my semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is an internship focused on AI hardware design and engineering, which is a software development/engineering rather than VLSI/EDA domain.",
     "id": "9e0df02e",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT & Cyber Security Consultant",
@@ -62611,13 +62606,12 @@
     "url": "https://www.linkedin.com/jobs/view/it-cyber-security-consultant-at-ontrac-4428509184",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on IT & Cyber Security Consulting and does not fit the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily software development (coding/scripting in Python, PowerShell, Bash for security tasks and integrations) rather than semiconductor/VLSI/EDA.",
     "id": "3c6fb8ab",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Azure Solutions and Security Architect",
@@ -62626,13 +62620,12 @@
     "url": "https://www.linkedin.com/jobs/view/azure-solutions-and-security-architect-at-switchfast-technologies-acquired-by-ascend-technologies-4429540136",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role focused on Azure solutions architecture and cloud security, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is a pure software security and cloud architecture position, with no overlap with Vineeth's technical areas of expertise in semiconductor VLSI EDA.",
     "id": "cef6edb1",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Information Security Engineer - AI First",
@@ -62641,13 +62634,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-information-security-engineer-ai-first-at-rithum-4430761967",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Information Security Engineer role with AI focus, which does not directly match the VLSI/EDA semiconductor technical domains targeted.",
+    "reason": "The role is primarily software development (LLM, AI agents) which is outside Vineeth's domain.",
     "id": "c698745b",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Jr. Embedded Systems Design Engineer",
@@ -62656,13 +62648,12 @@
     "url": "https://www.linkedin.com/jobs/view/jr-embedded-systems-design-engineer-at-owl-labs-4404108845",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Embedded Systems Design Engineer role, which does not match the VLSI/EDA semiconductor domains.",
+    "reason": "The role is for an Embedded Systems Design Engineer, which is primarily software and hardware development rather than semiconductor VLSI EDA.",
     "id": "507e1ec4",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-05-23",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-22",
+    "description_file": null
   },
   {
     "title": "DevOps Engineer II",
@@ -62671,13 +62662,12 @@
     "url": "https://www.linkedin.com/jobs/view/devops-engineer-ii-at-revspring-4429038828",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a DevOps engineer, which does not match our domain focus on semiconductor/VLSI/EDA.",
+    "reason": "The job is for a DevOps Engineer II at a software company, which is outside Vineeth's semiconductor/EDA domain.",
     "id": "81cdce91",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Architect",
