@@ -60464,13 +60464,12 @@
     "url": "https://in.linkedin.com/jobs/view/vp-data-engineering-at-searce-inc-4416899448",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a VP of Data Engineering role which does not match the semiconductor/VLSI/EDA domain focus required.",
+    "reason": "The role is for a Data Engineering VP position, which focuses on data infrastructure and strategy rather than semiconductor/VLSI/EDA.",
     "id": "1d83aea1",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Application Engineer III",
@@ -60479,13 +60478,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-application-engineer-iii-at-macdermid-alpha-electronics-solutions-4408646829",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on materials science and application engineering rather than semiconductor VLSI EDA domain expertise.",
+    "reason": "The role is primarily focused on semiconductor assembly materials application process development, which does not directly match Vineeth's power integrity and advanced packaging focus.",
     "id": "fb133f5a",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Application Engineer II",
@@ -60494,13 +60492,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-application-engineer-ii-at-macdermid-alpha-electronics-solutions-4408659760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Chemical Manufacturing, not the Semiconductor/VLSI/EDA domain.",
+    "reason": "Not a match - Chemical Manufacturing role, does not fit semiconductor/VLSI/EDA domain",
     "id": "0885f1e6",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2023-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Application Engineer II",
@@ -60509,13 +60506,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-application-engineer-ii-at-macdermid-alpha-electronics-solutions-4408646830",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for electronics assembly industry application engineering, not semiconductor VLSI EDA.",
+    "reason": "The role is focused on electronics assembly industry applications, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "dc900939",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Analog IC Design Lead \u2013 Custom PMIC & Mixed-Signal",
@@ -60524,13 +60520,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-analog-ic-design-lead-%E2%80%93-custom-pmic-mixed-signal-at-texas-instruments-4415457613",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior leadership role with 10-15 years experience required, matches key skills and technical area of Power Integrity/Advanced Packaging.",
+    "reason": "The role matches the target domain of Analog IC Design, with seniority level and required skills aligning well.",
     "id": "0727299b",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-05-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_principal_analog_ic_design_lea_0727299b.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/texas_instruments_principal_analog_ic_design_lea_0727299b.txt"
   },
   {
     "title": "Senior Executive - Supply Chain Planning",
@@ -60539,13 +60534,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-executive-supply-chain-planning-at-actylis-4427574239",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Supply Chain Planning role at a chemical manufacturing company, which does not match our focus on technical roles in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Supply Chain Planning Senior Executive role at Actylis, which is focused on chemical ingredient and raw material management for business partners in pharmaceuticals and chemicals. This is not a technical engineering or EDA/semiconductor/VLSI-related position.",
     "id": "2a651213",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Layout Senior Staff Engineer",
@@ -60553,14 +60547,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-layout-senior-staff-engineer-at-marvell-technology-4418388684",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Analog Layout Senior Staff Engineer role matches the VLSI/EDA technical leadership and layout design experience requirements.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "43cb7a3d",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/marvell_technology_analog_layout_senior_staff_eng_43cb7a3d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Thermal & Mechanical Engineer",
@@ -60568,14 +60561,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/principal-thermal-mechanical-engineer-at-tsavorite-scalable-intelligence-4430901381",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior thermal/mechanical engineering role at Tsavorite Scalable Intelligence matches the advanced packaging/thermal domain requirement.",
+    "matches_requirements": "maybe",
+    "reason": "The role matches Vineeth's background in advanced packaging and thermal analysis, though it is a senior-level principal position rather than a technical leadership role.",
     "id": "41039715",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-11-10",
     "deadline": "N/A",
-    "description_file": "job_descriptions/tsavorite_scalable_i_principal_thermal___mechanical_41039715.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Analog IC Design Lead \u2013 Audio ADC/DAC & Mixed-Signal Converters",
@@ -60583,14 +60575,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-analog-ic-design-lead-%E2%80%93-audio-adc-dac-mixed-signal-converters-at-texas-instruments-4415454622",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for analog audio IC design, which doesn't match the target domains of Power Integrity (PI), Advanced Packaging / Thermal, or CAD / Methodology in the semiconductor/VLSI/EDA industry.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role in analog IC design, with some overlap to Vineeth's power integrity and advanced packaging experience.",
     "id": "b68efdbf",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Engineer, Thermal Mechanical Simulation",
@@ -60599,13 +60590,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-thermal-mechanical-simulation-at-micron-technology-4410843251",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires thermal mechanical simulation experience, which is outside Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on thermal and mechanical simulation for advanced packaging, which aligns with Vineeth's background in power integrity and packaging. However, it does not fit his key skills such as ANSYS RedHawk, CAD tool methodology sign-off flow automation.",
     "id": "364e3505",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer II Mechanical Engineering X",
