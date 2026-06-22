@@ -11282,13 +11282,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-scalian-4403527118",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer, which does not match the candidate's background and skills in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, and EDA tools.",
+    "reason": "The role is primarily software development (C/C++, embedded Linux), which is outside Vineeth's domain.",
     "id": "3028efe2",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer - HFT",
@@ -11297,13 +11296,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-hft-at-cps-inc-4409717200",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role at CPS, Inc. does not match the semiconductor/VLSI/EDA job requirements for Power Integrity, Advanced Packaging, CAD Methodology roles.",
+    "reason": "The role is primarily software development (FPGA engineering) which is outside Vineeth's domain of Power Integrity, Packaging and EDA.",
     "id": "6cdcbc7b",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -11312,13 +11310,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-acron-aviation-4395728652",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA engineer role is unrelated to semiconductor/VLSI/EDA domains, focusing on avionics hardware for commercial and military aviation rather than SoC PDN sign-off, power integrity, advanced packaging or EDA tools.",
+    "reason": "The role is primarily FPGA/Firmware development for avionics systems, which is outside Vineeth's domain of Power Integrity and Advanced Packaging. The job mentions DO-254 standards related to airborne electronic hardware.",
     "id": "8ee92e0d",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer Engineer (eInfochips)",
@@ -11327,13 +11324,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-engineer-einfochips-at-arrow-components-4427981626",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires onsite work with travel which doesn't match the preference for remote work.",
+    "reason": "This role is primarily software development (embedded firmware) and does not fit Vineeth's background in power integrity, packaging and EDA tools.",
     "id": "0a92ce58",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-05-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -11342,13 +11338,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-general-atomics-4399423458",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role is at a defense contractor, which does not match our semiconductor/VLSI/EDA job search requirements.",
+    "reason": "The role is primarily software development (embedded software) which is outside Vineeth's domain of expertise.",
     "id": "0dd29dc1",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer with DSP Emphasis - Tucson, AZ",
@@ -11357,13 +11352,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-with-dsp-emphasis-tucson-az-at-icr-inc-4346374707",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer with DSP emphasis, which does not match the target domains of Power Integrity/Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "The role specifically requires a Top Secret with SCI security clearance which restricts to US citizens only.",
     "id": "d860ba96",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Texas Instruments jobs in Lehi, UT",
@@ -11372,28 +11366,26 @@
     "url": "https://www.glassdoor.com/Job/lehi-texas-instruments-jobs-SRCH_IL.0,4_IC1128238_KO5,22.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a technical role at Texas Instruments, which requires US residency or visa sponsorship for non-US citizens. The job posting does not specifically state that they will sponsor visas.",
+    "reason": "The role is primarily focused on semiconductor manufacturing process engineering, specifically wet processing, plating and CMP. Vineeth's technical background in Power Integrity, Advanced Packaging and SoC PDN Sign-off does not directly align with the requirements for this position.",
     "id": "519f2ff4",
     "source": "glassdoor_semi",
     "posted_date": "2026-03-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Systems Engineer | FPDLink",
     "company": "Texas Instruments",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/systems-engineer-fpdlink-texas-instruments-JV_IC1147439_KO0,24_KE25,42.htm?jl=1010167351143",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Systems Engineer role, which does not match the specified technical domains like Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership. The role also does not require 10+ years of experience.",
+    "reason": "The role is primarily software development (application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "6b811338",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Benefits Manager",
@@ -11402,13 +11394,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19372&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR management role, not suitable for our semiconductor/EDA technical position focus.",
+    "reason": "The role is a non-technical Global Benefits Manager position at TSMC, which does not match Vineeth's technical background in semiconductor VLSI EDA.",
     "id": "db2c6b63",
     "source": "tsmc_careers",
     "posted_date": "2026-04-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -11417,13 +11408,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FGlobal-Benefits-Manager%2F19372",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, which is a hard rejection based on the search criteria.",
+    "reason": "The role is a general HR position, not technical.",
     "id": "3d174a14",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u5132\u5099\u88fd\u7a0b\u526f\u5de5\u7a0b\u5e2b(\u65b0\u7af9\u3001\u53f0\u4e2d\u3001\u53f0\u5357)",
