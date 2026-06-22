@@ -57678,13 +57678,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-engineering-staff-engineer-at-synopsys-inc-4403487090",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Leadership role with 15 years experience, good technical fit for semiconductor/EDA industry, based in key location of Bengaluru, India.",
+    "reason": "Matches Vineeth's Power Integrity, CAD/Methodology and leadership domains with EDA software engineering overlap",
     "id": "f866afd5",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_r_d_engineering__staff_enginee_f866afd5.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/synopsys_inc_r_d_engineering__staff_enginee_f866afd5.txt"
   },
   {
     "title": "AI/ML driven ASIC Design and Implementation Principal Automation Engineer",
@@ -57692,14 +57691,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ai-ml-driven-asic-design-and-implementation-principal-automation-engineer-at-nxp-semiconductors-4366640544",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's background in Power Integrity, Advanced Packaging and is a Senior Leadership position with over 10 years of experience required.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 12+ years experience, focusing on AI/ML and automation in ASIC design.",
     "id": "ee4cb5d1",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nxp_semiconductors_ai_ml_driven_asic_design_and_i_ee4cb5d1.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -57707,14 +57705,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-nvidia-4395487436",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years of experience in Power Integrity, Advanced Packaging and SoC PDN sign-off; Expertise with ANSYS RedHawk/RedHawk-SC/Totem/Cadence Voltus/Grid Prototyping System (GPS); Strong matches the job requirements for a Technical Leader role in this domain",
+    "matches_requirements": "maybe",
+    "reason": "Senior Physical Design Engineer role with 3+ years experience, focusing on RTL2GDSII flow and synthesis, place & route. Matches some of Vineeth's key skills but not exactly a leadership/technical lead position.",
     "id": "84008e63",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-05-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_physical_design_enginee_84008e63.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer- CAD/EDA Tools & Design Automation Engineer",
@@ -57722,14 +57719,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-cad-eda-tools-design-automation-engineer-at-marvell-technology-4411535451",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role matches Vineeth's technical leadership experience and key skills in CAD/EDA tool development, automation, and design methodologies.",
     "id": "d588e637",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/marvell_technology_principal_engineer__cad_eda_to_d588e637.txt"
   },
   {
     "title": "Senior Member Technical Staff",
@@ -57737,14 +57733,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-member-technical-staff-at-siemens-eda-siemens-digital-industries-software-4397605142",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches requirements for a technical staff position with 1-5 years experience in software development, focusing on RTL synthesis technology and logic optimizations.",
+    "matches_requirements": "no",
+    "reason": "The role is software development focused on C++ and RTL synthesis rather than Vineeth's areas of Power Integrity, CAD/Methodology, or Physical Design.",
     "id": "3d95085d",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/siemens_eda__siemens_senior_member_technical_staff_3d95085d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Methodology & Application Engineer \u2013 Design Compiler",
@@ -57752,14 +57747,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/eda-methodology-application-engineer-%E2%80%93-design-compiler-at-ibm-4425301202",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical senior engineering position with experience matching the candidate's background, and it is located in Bangalore, India.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on Synopsys DC/DCNXT and is primarily development rather than leadership.",
     "id": "d85873e8",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/ibm_eda_methodology___application__d85873e8.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer",
@@ -57768,13 +57762,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-google-4401172463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Software Engineer role at Google, which does not fit the semiconductor/VLSI/EDA domain focus.",
+    "reason": "The job is for a Senior Software Engineer position, which falls outside Vineeth's domain of expertise in Power Integrity and VLSI/EDA.",
     "id": "0f546f51",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering, Principal Engineer",
@@ -57782,14 +57775,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/engineering-principal-engineer-at-synopsys-inc-4408287747",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role fits Vineeth's background with 15 years of experience in Power Integrity and matches the Physical Design domain requirement.",
     "id": "49b89f92",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/synopsys_inc_engineering__principal_enginee_49b89f92.txt"
   },
   {
     "title": "Staff engineer , Design",
@@ -57797,14 +57789,13 @@
     "location": "Bengaluru East, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-design-at-infineon-technologies-4415374425",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires only 5+ years of experience which is less than our target 10-15 years for a senior level technical leadership position.",
+    "matches_requirements": "maybe",
+    "reason": "Role involves SNPS CAD Flow & methodology solutions for Infineon products and R2G P&R flows, which is within Vineeth's domain of expertise. However, years of experience required (5+) is slightly lower than ideal range of 10-15+ years.",
     "id": "29966742",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Place and Route Design Automation Engineer",
@@ -57812,14 +57803,13 @@
     "location": "Serilingampalli, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/place-and-route-design-automation-engineer-at-altera-4416498250",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Place & Route (P&R) Design Automation Engineer, which does not exactly match Vineeth's key skills and background in Power Integrity (PI), Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domain of Physical Design, with P&R and CAD automation experience.",
     "id": "fda736c9",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/altera_place_and_route_design_automat_fda736c9.txt"
   },
   {
     "title": "AI Engineer \u2013 RTL Front-End Flow Optimization",
