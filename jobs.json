@@ -42166,28 +42166,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19538&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Silicon Panel Reliability Manager position at TSMC, which does not fit the technical leadership roles we are looking for in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on silicon panel packaging and reliability, which doesn't match Vineeth's power integrity and advanced packaging background in SoC design.",
     "id": "7ca02341",
     "source": "tsmc_careers",
     "posted_date": "2026-03-26",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSilicon-Panel-Reliability-Manager%2F19538",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a senior leadership role which does not match the candidate's profile and experience level.",
+    "reason": "The role is in IC Package Assembly, which is more manufacturing/production than EDA/CAD engineering. Vineeth's background is in EDA tools and methodologies for PI/SI and packaging design, not manufacturing assembly.",
     "id": "136e92dd",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Photonics Manager",
@@ -42196,13 +42194,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19873&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Silicon Photonics Manager with expertise in optical simulations and system-level design, which does not directly match the VLSI/EDA industry focus.",
+    "reason": "The job is for a Silicon Photonics Manager role, which does not fit Vineeth's background in Power Integrity, Advanced Packaging and EDA.",
     "id": "6bc35d84",
     "source": "tsmc_careers",
     "posted_date": "2026-05-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -42210,14 +42207,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSilicon-Photonics-Manager%2F19873",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Silicon Photonics Manager role which does not fit into the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership. The role focuses on Silicon Photonics technology and manufacturing which is not part of the target areas.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 10+ years experience, but sub-domain not clearly specified",
     "id": "ebae2684",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI LEAD L1",
@@ -42225,14 +42221,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4431349640",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This VLSI Lead L1 role matches the candidate profile's background and skills, particularly in leading VLSI development and design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily VLSI development with no mention of power integrity, advanced packaging, CAD tools, EDA software engineering, or leadership.",
     "id": "4a7aeff2",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-21",
     "deadline": "N/A",
-    "description_file": "job_descriptions/wipro_vlsi_lead_l1_4a7aeff2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer",
@@ -42240,14 +42235,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-at-arm-4409731133",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Principal Engineer position at Arm, which matches the target domain and experience level criteria for semiconductor/VLSI/EDA roles.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Software Engineer position, which does not match Vineeth's domain of Power Integrity and VLSI/EDA.",
     "id": "77e993fb",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_principal_engineer_77e993fb.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior PCVD Process Engineer",
@@ -42256,13 +42250,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-pcvd-process-engineer-micron-technology-JV_IC1127927_KO0,28_KE29,46.htm?jl=1010172510062",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical PCVD Process Engineer, not related to VLSI/EDA/Semiconductor domain.",
+    "reason": "The role is for a PCVD Process Engineer, which focuses on semiconductor manufacturing and processing rather than electronic design automation (EDA) or chip design.",
     "id": "d27834ca",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior AI/System/Full-Stack Web Developer",
@@ -42271,13 +42264,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18774&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a semiconductor company, which does not fit our engineering/technical position criteria.",
+    "reason": "The role is a software development position focused on AI and full-stack web development, which doesn't match Vineeth's expertise in power integrity and advanced packaging.",
     "id": "e2ae9568",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -42286,13 +42278,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSenior-AI-System-Full-Stack-Web-Developer%2F18774",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior AI System Full Stack Web Developer, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is a software developer position, which is outside Vineeth's domain.",
     "id": "2ae4cf0c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HRBP Manager",
@@ -42301,13 +42292,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18183&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a HR management position, not a technical engineering role.",
+    "reason": "The role is a HRBP Manager position, which is a non-technical leadership role focused on talent strategy and organizational effectiveness. It does not match Vineeth's technical background in Power Integrity, Packaging, SoC Design, CAD Methodology or Engineering Leadership.",
     "id": "a8d2180e",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
