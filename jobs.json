@@ -18352,13 +18352,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=15460&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is non-technical and focused on corporate sustainability strategy and engagement, not semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is focused on corporate sustainability engagement, strategy and communication rather than semiconductor, VLSI, EDA or engineering/technical roles in Vineeth's domain.",
     "id": "b7d9f95d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -18367,13 +18366,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCorporate-Sustainability-Engagement-Strategy-Specialist%2F15460",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not contain a valid date for 'posted_date' or 'deadline' extraction, and no other relevant details like company name or location could be extracted from the given page. More context is needed to make an evaluation.",
+    "reason": "The role is a corporate sustainability engagement strategy specialist, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN sign-off, and VLSI/EDA.",
     "id": "120145b1",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Equipment Engineer (Kaohsiung)",
@@ -18382,13 +18380,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=15464&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is too specialized for equipment engineering, does not fit the key domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design etc. which are top priorities for this job search.",
+    "reason": "This is an equipment engineer role focused on maintaining semiconductor manufacturing machinery, which does not match Vineeth's background in power integrity, advanced packaging, and EDA tools.",
     "id": "d43be6f9",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -18397,13 +18394,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEquipment-Engineer-Kaohsiung%2F15464",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for an Equipment Engineer at TSMC's Kaohsiung facility, which does not match the semiconductor/VLSI/EDA industry focus of the expert.",
+    "reason": "The role is for an Equipment Engineer, which falls under manufacturing and is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD methodology.",
     "id": "864336fa",
     "source": "tsmc_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Solutions Architect",
@@ -18411,14 +18407,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16508&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role of Solutions Architect closely matches the candidate profile's expertise in power integrity, advanced packaging, and CAD methodology.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily Solution Architecture for IT infrastructure, not focused on semiconductor design/EDA tools and methodologies.",
     "id": "79487111",
     "source": "tsmc_careers",
     "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_solutions_architect_79487111.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -18427,13 +18422,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSolutions-Architect%2F16508",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Technical Solutions Architect at TSMC, which does not directly match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design that are our primary focus.",
+    "reason": "The role is for a software solutions architect, which does not match Vineeth's background in semiconductor process technology and engineering.",
     "id": "76d0a14f",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IP Integration Engineer",
@@ -18442,13 +18436,12 @@
     "url": "https://www.linkedin.com/jobs/view/ip-integration-engineer-at-broadcom-4372849628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 5+ years of experience, which is below the 10-15 years required for a match.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which falls outside Vineeth's domain.",
     "id": "d9d24779",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -18457,13 +18450,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-broadcom-4396512183",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Design Engineer at Broadcom in Irvine, CA, which does not fit the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, and is not for a leadership position.",
+    "reason": "The role is primarily focused on ASIC design implementation, synthesis and place & route, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "d3c58e5b",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Integration Engineer",
@@ -18472,13 +18464,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-integration-engineer-at-intel-4424671452",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX, which doesn't match the priority regions of Finland, Europe (outside Finland), UK, India/Asia, or Fully Remote positions. It also does not have an explicit mention of visa sponsorship or relocation.",
+    "reason": "The role is primarily focused on SoC integration and development, which falls outside Vineeth's main area of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
     "id": "06595f6b",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Atom CPU Architecture Engineer",
@@ -18487,13 +18478,12 @@
     "url": "https://www.linkedin.com/jobs/view/atom-cpu-architecture-engineer-at-intel-4404290983",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specific to CPU architecture engineering rather than focusing on semiconductor/VLSI/EDA domains listed in the candidate profile.",
+    "reason": "The role is primarily CPU architecture and micro-architecture design, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "8b399b68",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Feasibility Engineer, AI/ML Processors",
