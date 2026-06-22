@@ -62676,13 +62676,12 @@
     "url": "https://www.linkedin.com/jobs/view/security-architect-at-interex-group-4426478622",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical Security Architect role at an IT staffing firm, which does not match the semiconductor/VLSI/EDA technical focus we're looking for.",
+    "reason": "This is a non-technical security architect role at a staffing/recruiting firm, not in semiconductor/VLSI/EDA. It also requires living in specific US states and does not have visa sponsorship.",
     "id": "3a0b8244",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-05-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Information Security Engineer - AI First",
@@ -62691,13 +62690,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-information-security-engineer-ai-first-at-rithum-4430759974",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an Information Security role focused on AI, which does not fit the VLSI/EDA domain requirements.",
+    "reason": "The role is primarily focused on AI-powered security engineering and tooling integration, which is outside Vineeth's main areas of power integrity, advanced packaging, and SoC design.",
     "id": "e0d9a4ba",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-06-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Security Engineer, Lead",
@@ -62706,13 +62704,12 @@
     "url": "https://www.linkedin.com/jobs/view/security-engineer-lead-at-toyota-north-america-4395484772",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a security-focused position at Toyota Financial Services, not a semiconductor/VLSI/EDA technical role.",
+    "reason": "The role is focused on software development (e.g., 'Leverage scripting languages such as Python and PowerShell'), which falls outside Vineeth's domain.",
     "id": "2b279bda",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Information Security Engineer",
@@ -62721,13 +62718,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-information-security-engineer-at-prodware-solutions-4430982828",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical information security consultant role, not an engineering/technical position in Power Integrity (PI), Advanced Packaging or EDA.",
+    "reason": "The role is for a Security Engineer with focus on ServiceNow GRC, which does not match Vineeth's domain of Power Integrity and VLSI.",
     "id": "7569465a",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Business Analyst \u2013 BI",
@@ -62736,13 +62732,12 @@
     "url": "https://in.linkedin.com/jobs/view/business-analyst-%E2%80%93-bi-at-calpion-inc-4414493134",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate background is focused on AI, ML, custom software development rather than semiconductor/VLSI/EDA",
+    "reason": "The role is a Business Analyst focusing on BI, not related to semiconductor/VLSI/EDA.",
     "id": "b76b689b",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC / System Validation Architect",
@@ -62750,14 +62745,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-system-validation-architect-at-amd-4375999549",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key technical domains of SoC validation, pre-silicon validation strategies, and post-silicon validation.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "f5a4f302",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_soc___system_validation_archit_f5a4f302.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Design Engineer - Networking Group",
@@ -62765,14 +62759,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-soc-design-engineer-networking-group-at-nvidia-4428422057",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior SOC Design Engineer with experience in networking chips which matches the candidate's background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on SoC design for networking chips, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "ef9b0b12",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-05-17",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_soc_design_engineer___n_ef9b0b12.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Platform and Chassis ASIC Architect, Silicon",
@@ -62780,14 +62773,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/platform-and-chassis-asic-architect-silicon-at-google-4416191543",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior technical leadership position in the semiconductor domain with 15+ years experience.",
+    "matches_requirements": "no",
+    "reason": "The role requires 15+ years of experience, but only asks for a Bachelor's degree - this is inconsistent with typical senior-level semiconductor/EDA technical leadership roles.",
     "id": "2c862082",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/google_platform_and_chassis_asic_arch_2c862082.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Architect",
@@ -62795,14 +62787,13 @@
     "location": "Chennai, Tamil Nadu, India",
     "url": "https://in.linkedin.com/jobs/view/system-architect-at-axiado-corporation-4414278973",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior System Architect role, 10+ years experience required, in semiconductor AI security company",
+    "matches_requirements": "no",
+    "reason": "The role is a system architect position focusing on AI infrastructure, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "8dc8bca9",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Design Engineer",
@@ -62810,14 +62801,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-soc-design-engineer-at-nvidia-4415721767",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior SOC Design Engineer role matches the VLSI/SoC design technical domain requirement.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on SOC RTL design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "447a13eb",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_soc_design_engineer_447a13eb.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Architect",
