@@ -62816,13 +62816,12 @@
     "url": "https://in.linkedin.com/jobs/view/system-architect-at-axiado-corporation-4414287625",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a software system architect, not a semiconductor/VLSI/EDA related technical position.",
+    "reason": "The role is a system architect position at an AI semiconductor startup, which does not match Vineeth's technical areas of expertise in power integrity and advanced packaging.",
     "id": "872ebbbb",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC/IP Architect",
@@ -62830,14 +62829,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-ip-architect-at-texas-instruments-india-4415682030",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for an SoC/IP Architect at Texas Instruments India, which matches the target domain of SoC architecture and IP design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain of expertise.",
     "id": "d5bfad46",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_in_soc_ip_architect_d5bfad46.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Systems Architect \u2013 Project Architecture Sr Staff Engineer",
@@ -62846,13 +62844,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-systems-architect-%E2%80%93-project-architecture-sr-staff-engineer-at-qualcomm-4422883825",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches a senior SoC architecture position with requirements for VLSI design and systems engineering.",
+    "reason": "The role matches Vineeth's background in Power Integrity and Advanced Packaging, with required skills in ANSYS RedHawk, Cadence Voltus, Python scripting, and EDA tool integration.",
     "id": "c749067f",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_soc_systems_architect___projec_c749067f.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/qualcomm_soc_systems_architect___projec_c749067f.txt"
   },
   {
     "title": "Senior Principal SoC Design Engineer",
@@ -62861,13 +62858,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-principal-soc-design-engineer-at-nxp-semiconductors-4391559753",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain and experience level requirements for Power Integrity / Signal Integrity, with 15+ years of experience.",
+    "reason": "The role is a Senior Leadership position with SoC design experience matching Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "55525b32",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-05-16",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nxp_semiconductors_senior_principal_soc_design_en_55525b32.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nxp_semiconductors_senior_principal_soc_design_en_55525b32.txt"
   },
   {
     "title": "Senior SoC Logic Design Engineer",
@@ -62876,13 +62872,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-soc-logic-design-engineer-at-ibm-4414341078",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position with less than 7 years of experience required, which does not match the senior leadership roles (10+ years) targeted in this job search.",
+    "reason": "The role is primarily RTL design/verification which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f3f74414",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Architect",
@@ -62890,14 +62885,13 @@
     "location": "Bengaluru East, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-architect-at-tylsemi-4409695648",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match in SoC architecture with 18+ years experience, and exact domain focus on AI infrastructure.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on SoC architecture for AI infrastructure, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "1477b41c",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tylsemi_soc_architect_1477b41c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Core Logic Design Lead",
@@ -62905,14 +62899,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/core-logic-design-lead-at-ibm-4352414461",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Candidate has relevant VLSI/SoC design and technical leadership experience required by this Core Logic Design Lead role at IBM in Bengaluru, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "dc5cc8d2",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ibm_core_logic_design_lead_dc5cc8d2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Architect",
@@ -62921,13 +62914,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-architect-at-tessolve-4418582547",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an Architect role at a semiconductor design service company, which does not fit the technical focus of Semiconductor / VLSI / EDA roles.",
+    "reason": "The role is primarily architectural rather than focused on power integrity, packaging or EDA tools which are Vineeth's areas of expertise.",
     "id": "969cb2c4",
     "source": "linkedin_india_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior SoC Architect",
@@ -62936,13 +62928,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-soc-architect-at-cortex-consultants-llc-4429768376",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Candidate has relevant years of experience and background in power integrity, advanced packaging, CAD methodology, and works with key tools. Job is for a Senior SoC Architect role at a specialized consultancy.",
+    "reason": "15+ years of experience, leadership position in SoC design/architecture",
     "id": "620fdc91",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-17",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/cortex_consultants_l_senior_soc_architect_620fdc91.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/cortex_consultants_l_senior_soc_architect_620fdc91.txt"
   },
   {
     "title": "SoC Hardware Architect",
@@ -62950,14 +62941,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-hardware-architect-at-nxp-semiconductors-4424180402",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with domain expertise in SoC hardware architecture.",
+    "matches_requirements": "no",
+    "reason": "The role is for an SoC Hardware Architect, which falls under SoC Design and does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "2c145724",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Logic Design Engineer",
