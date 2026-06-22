@@ -40780,13 +40780,12 @@
     "url": "https://www.linkedin.com/jobs/view/cmp-backlap-area-equipment-engineer-at-polar-semiconductor-4430774927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is based in Bloomington, MN, USA which doesn't match the priority regions of Finland/Europe, India/Asia or Fully Remote. Also, it does not directly fit the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology.",
+    "reason": "The role is primarily focused on equipment engineering and maintenance, not power integrity or packaging.",
     "id": "2609777e",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photo Process Technician - Days",
@@ -40795,13 +40794,12 @@
     "url": "https://www.linkedin.com/jobs/view/photo-process-technician-days-at-samsung-semiconductor-4410799304",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level manufacturing technician position at a Samsung semiconductor facility, which does not match the technical VLSI/EDA job requirements.",
+    "reason": "The role is a technical specialist position focused on manufacturing and quality control, not related to Vineeth's power integrity and advanced packaging expertise in semiconductor VLSI EDA.",
     "id": "ae77fe96",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wafer Manufacturing Technician I",
@@ -40810,13 +40808,12 @@
     "url": "https://www.linkedin.com/jobs/view/wafer-manufacturing-technician-i-at-merit-medical-systems-inc-4421962845",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a wafer manufacturing technician role at Merit Medical Systems, which is in medical devices, not semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical manufacturing, outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "381da610",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Technician (Idaho Fab 1)",
@@ -40825,13 +40822,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-technician-idaho-fab-1-at-micron-technology-4410853183",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical manufacturing position at a semiconductor company.",
+    "reason": "Job is a semiconductor manufacturing role, not in Vineeth's technical domains of VLSI/EDA/CAD.",
     "id": "13ef3303",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design/Verification Engineer: 148005",
@@ -40840,13 +40836,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-verification-engineer-148005-at-colorado-aviation-business-association-caba-4430061487",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Entry Level position for an FPGA Design/Verification Engineer, which does not match the senior technical leadership roles and domain expertise we are targeting.",
+    "reason": "The job is for an FPGA Design/Verification Engineer at a non-semiconductor, non-EDA company. It is outside Vineeth's domain.",
     "id": "0c0f1460",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design and Verification Engineer, Pathfinding",
@@ -40855,28 +40850,26 @@
     "url": "https://www.glassdoor.com/job-listing/design-and-verification-engineer-pathfinding-micron-technology-JV_IC1147188_KO0,44_KE45,62.htm?jl=1010171809479",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires a security clearance that restricts to US citizens only, which is against our hard rejection criteria.",
+    "reason": "The role is primarily verification (UVM, testbench development), which falls outside Vineeth's domain.",
     "id": "99c67e60",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "verification engineer jobs in Folsom, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Crowe LLP",
+    "location": "Folsom, CA, USA",
     "url": "https://www.glassdoor.com/Job/folsom-verification-engineer-jobs-SRCH_IL.0,6_IC1147188_KO7,28.htm",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is primarily software development (firmware engineer, embedded software developer) which is outside Vineeth's domain.",
     "id": "444fd47b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Folsom, CA jobs",
@@ -40885,13 +40878,12 @@
     "url": "https://www.glassdoor.com/Job/folsom-jobs-SRCH_IL.0,6_IC1147188.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for non-technical roles like HR, Sales and Marketing at a semiconductor company, which does not match the desired engineering/technical positions.",
+    "reason": "The URL is blocked by Glassdoor's security systems, so it cannot be accessed.",
     "id": "b03c8564",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Micron Technology jobs in Folsom, CA",
@@ -40900,13 +40892,12 @@
     "url": "https://www.glassdoor.com/Job/folsom-micron-technology-jobs-SRCH_IL.0,6_IC1147188_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Folsom, CA, USA which does not match the priority regions of Finland, Europe, UK, India, Asia, Remote worldwide or explicitly mentions visa sponsorship/relocation. Also, it's for a non-technical role at a semiconductor company.",
+    "reason": "The job is based in Folsom, CA, USA which does not match Vineeth's preferred locations of Finland, Europe, UK, India/Asia or fully remote worldwide positions.",
     "id": "5452d7d7",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -40915,13 +40906,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4430094422",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role, not a semiconductor/VLSI/EDA related position.",
+    "reason": "This is an entry-level product design engineering role, not a leadership position in semiconductor/VLSI/EDA as Vineeth's background is.",
     "id": "f7ac7900",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Technician",
