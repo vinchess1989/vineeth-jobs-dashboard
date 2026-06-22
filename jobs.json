@@ -6900,13 +6900,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1ssl2m5/we_made_a_modular_gaming_mouse_just_finished/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a hardware startup with a non-technical role (marketing) at a company that makes modular gaming mice. This does not match our criteria of looking only for engineering/technical positions at semiconductor/VLSI/EDA companies.",
+    "reason": "The posting is for a non-technical role - hardware startup marketing and sales representative, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "ec302a67",
     "source": "reddit_hwstartups",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Account Representative",
@@ -6915,13 +6914,12 @@
     "url": "https://www.linkedin.com/jobs/view/account-representative-at-smith-4428090368",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Account Representative position at a company named Smith, which does not match our semiconductor/VLSI/EDA focus.",
+    "reason": "This sales role is not a technical leadership position in semiconductor design, EDA tools, or power integrity.",
     "id": "d09869cf",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Investment Banking Associate (Tech)",
@@ -6930,13 +6928,12 @@
     "url": "https://www.linkedin.com/jobs/view/investment-banking-associate-tech-at-delmar-nord-4429588446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Investment Banking Associate position, not matching our semiconductor/VLSI/EDA industry focus.",
+    "reason": "This is a finance/tech investment banking role, outside Vineeth's VLSI/EDA domain.",
     "id": "ce5ccf52",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer (remote position)",
@@ -6945,13 +6942,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-remote-position-at-correct-designs-4225004666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing position, so it does not match our focus on engineering/technical roles at semiconductor companies.",
+    "reason": "The role is primarily software development (SystemVerilog, UVM) which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "616e0468",
     "source": "linkedin_vlsi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-01-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer - Early Career",
@@ -6960,13 +6956,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-early-career-at-marvell-technology-4403286972",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires only 1-3 years of experience, which is too junior for our target 10-15 year range.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "6ba9b9a7",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chip/EDA/Software Intern",
@@ -6975,13 +6970,12 @@
     "url": "https://www.linkedin.com/jobs/view/chip-eda-software-intern-at-silimate-yc-s23-4390786645",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The internship is full-time and on-site, which does not match the remote work preference.",
+    "reason": "The role is an internship focused on software development, which falls outside Vineeth's domain.",
     "id": "3f7247fa",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer - Early Career",
@@ -6990,13 +6984,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-early-career-at-marvell-technology-4403707017",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not fit the required Power Integrity, Advanced Packaging, or CAD/Methodology domains for senior-level roles. It is an early-career design verification engineer position.",
+    "reason": "This is a verification role focused on UVM and simulation, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "79a01910",
     "source": "linkedin_vlsi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-11",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Low Power ASIC Engineer - New College Grad 2026",
@@ -7005,13 +6998,12 @@
     "url": "https://www.linkedin.com/jobs/view/low-power-asic-engineer-new-college-grad-2026-at-nvidia-ai-4419670636",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level engineering position that does not fit a senior technical leadership role for which Vineeth Prathapachandra Kaimal is suited.",
+    "reason": "Role is primarily verification (testbench development, formal verification) which is outside Vineeth's domain.",
     "id": "f9b72edc",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Scientist, Electronic Design Automation - New College Grad 2026",
@@ -7020,13 +7012,12 @@
     "url": "https://www.linkedin.com/jobs/view/research-scientist-electronic-design-automation-new-college-grad-2026-at-nvidia-ai-4423325535",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a PhD-level research scientist focusing on AI/EDA, which does not match the experienced technical leader with deep domain expertise we are looking for.",
+    "reason": "The role is a research scientist focused on AI/ML & EDA, while Vineeth's background is in Power Integrity, Advanced Packaging and SoC PDN sign-off. This does not match his areas of expertise.",
     "id": "437011ef",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Silicon Design Verification Engineer",
@@ -7035,13 +7026,12 @@
     "url": "https://www.linkedin.com/jobs/view/silicon-design-verification-engineer-at-google-4417086045",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Silicon Design Verification Engineer role at Google is located in Mountain View, CA, USA, which does not match one of our target locations (Finland, Europe outside Finland, UK, India, Asia, or fully remote with worldwide eligibility). We specifically look for jobs in these regions.",
+    "reason": "This is a verification role, which is outside Vineeth's domain of PI/SI, packaging, CAD and physical design.",
     "id": "0f412e36",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
