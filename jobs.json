@@ -32114,13 +32114,12 @@
     "url": "https://www.glassdoor.com/Job/plano-national-louis-university-jobs-SRCH_IL.0,5_IC1140045_KO6,31.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role and does not fit the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The jobs are for National Louis University, which is a university, not a semiconductor/EDA company.",
     "id": "56be0484",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Post-Silicon Validation - Senior Engineer",
@@ -32129,13 +32128,12 @@
     "url": "https://www.glassdoor.com/job-listing/post-silicon-validation-senior-engineer-infineon-technologies-JV_IC1147436_KO0,39_KE40,61.htm?jl=1010164086531",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Post-Silicon Validation Senior Engineer, which does not match the key skill areas of Power Integrity, Advanced Packaging, CAD/Methodology, nor common EDA tool roles.",
+    "reason": "This role is for post-silicon validation, which is primarily verification work and not in Vineeth's power integrity / advanced packaging domain.",
     "id": "dca6b0d3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "engineer jobs in San Jose, CA",
@@ -32144,13 +32142,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,17.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for a general engineer position without specifying any of the technical domains that we are looking to match.",
+    "reason": "The job is for a non-technical HR role at a semiconductor company, which does not match Vineeth's technical background.",
     "id": "83304eaa",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photolithography Process Engineer",
@@ -32159,43 +32156,40 @@
     "url": "https://www.glassdoor.com/job-listing/photolithography-process-engineer-broadcom-JV_IC1148233_KO0,33_KE34,42.htm?jl=1010163082409",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This photolithography process engineering role at Broadcom is unrelated to semiconductor, VLSI, EDA domains and should be discarded.",
+    "reason": "The job is for a Photolithography Process Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "2cb73109",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Fort Collins, CO",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A - extract from page",
+    "location": "Fort Collins, CO, USA",
     "url": "https://www.glassdoor.com/Job/fort-collins-process-engineer-jobs-SRCH_IL.0,12_IC1148233_KO13,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical process engineer role, which does not match the technical focus of semiconductor/VLSI/EDA roles.",
+    "reason": "This is a non-technical process engineer role at an unspecified company, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "28f4a95d",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Fort Collins, CO jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Fort Collins, CO, USA",
     "url": "https://www.glassdoor.com/Job/fort-collins-jobs-SRCH_IL.0,12_IC1148233.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a specific job posting but rather to a generic search result page for Fort Collins jobs on Glassdoor. It does not contain enough information about the company, location, or application deadline to determine if it matches the specified requirements.",
+    "reason": "The job posting is for a non-technical role at a semiconductor company, which does not match Vineeth's engineering background.",
     "id": "6d94c808",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Product Engineer",
@@ -32204,13 +32198,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-product-engineer-renesas-JV_IC1147436_KO0,23_KE24,31.htm?jl=1010156707913",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job does not specify enough details about the technical domain or location to determine a match.",
+    "reason": "The job is for a non-technical product engineering role, which does not match Vineeth's technical background.",
     "id": "d822953e",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Renesas jobs in San Jose, CA",
@@ -32219,13 +32212,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-renesas-jobs-SRCH_IL.0,8_IC1147436_KO9,16.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in San Jose, CA, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India or Asia. It also explicitly requires US residency.",
+    "reason": "The job is based in San Jose, CA, USA which requires US residency. It also does not fit Vineeth's background and skills.",
     "id": "bc142ba7",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Package Design Engineer",
@@ -32233,14 +32225,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/staff-package-design-engineer-renesas-JV_IC1133917_KO0,29_KE30,37.htm?jl=1010159276965",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior technical leadership position in advanced packaging domain, aligning with candidate profile and target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The job is a software engineering position focused on developing and maintaining firmware for Renesas' power management ICs, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, and EDA methodology.",
     "id": "3da3e5b6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_staff_package_design_engineer_3da3e5b6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Tempe, AZ",
@@ -32249,13 +32240,12 @@
     "url": "https://www.glassdoor.com/Job/tempe-design-engineer-jobs-SRCH_IL.0,5_IC1133917_KO6,21.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Tempe, Arizona, which does not match the preferred locations of Finland, Europe (excluding Finland), UK, India, Asia, or fully remote positions.",
+    "reason": "The job is located in Tempe, AZ, USA which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland), India or Asia, fully remote worldwide, or United States with visa sponsorship.",
     "id": "d8a7171b",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CPU/Cores Post\u2011Silicon Validation (Virtualization)",
