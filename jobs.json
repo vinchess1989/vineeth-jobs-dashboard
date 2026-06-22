@@ -18632,13 +18632,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-design-engineer-at-drafted-4328485448",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a design/engineering role at a startup building generative architecture software, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (Next.js, Tailwind CSS) which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "a3d1b73f",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -18646,14 +18645,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-acl-digital-4260949682",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for our target domain of Physical Design and matches the experience level criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on physical design and RTL to GDSII implementation, which is outside Vineeth's core domain of Power Integrity and Advanced Packaging.",
     "id": "735df43b",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-04-26",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/acl_digital_physical_design_engineer_735df43b.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead Software Development Eng.",
@@ -18661,14 +18659,13 @@
     "location": "Hyderabad, India",
     "url": "https://careers.amd.com/careers-home/jobs/87124?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a software development engineer focused on product security, with a background in Java, .Net, C++, Python, SQL and UNIX/Linux. The location is specified as Hyderabad, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Java, .Net, C++, Python, SQL, UNIX/Linux) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "b862881b",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_lead_software_development_eng__b862881b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Metrology & Real Time Defects AnalysisSingapore, SingaporePosted 2 months ago",
@@ -18677,13 +18674,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41220073",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is focused on semiconductor manufacturing metrology and defect analysis rather than the power integrity/advanced packaging/CAD domains we are seeking.",
+    "reason": "The role is not directly related to Vineeth's areas of expertise (Power Integrity, Advanced Packaging). It focuses on metrology and defect analysis in semiconductor manufacturing.",
     "id": "c4e6dda8",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Design EngineerHyderabad, Telangana, IndiaPosted a month ago",
@@ -18692,13 +18688,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41234517",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Analog Design, which doesn't match the key skills of Power Integrity, Advanced Packaging and related tools.",
+    "reason": "The role is primarily Analog Design focused on DRAM product development, which does not match Vineeth's Power Integrity/Advanced Packaging background.",
     "id": "2f964cdd",
     "source": "micron_careers",
     "posted_date": "2023-05-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer (Onsite)",
@@ -18707,13 +18702,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-onsite-at-cisco-4404082012",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in San Jose, CA which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote positions.",
+    "reason": "The role is primarily RTL design/verification, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "464342b0",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -18722,13 +18716,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-broadcom-4406239478",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Staff Engineer position focused on networking ASIC design and does not match the VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain of expertise.",
     "id": "2842fe81",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC RTL/SoC Design Engineer",
@@ -18737,13 +18730,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-rtl-soc-design-engineer-at-tetramem-accelerate-the-world-4425250623",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is too senior for the candidate's experience level",
+    "reason": "The role is focused on RTL/SoC design, which is outside Vineeth's primary areas of Power Integrity and Advanced Packaging.",
     "id": "28315fb5",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Digital Design",
@@ -18751,14 +18743,13 @@
     "location": "Chandler, AZ",
     "url": "https://www.linkedin.com/jobs/view/principal-engineer-digital-design-at-microchip-technology-inc-4414643849",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires 10+ years of experience which exceeds the target range of 7-15 years.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with 10+ years experience, though domain is slightly out of Vineeth's exact areas.",
     "id": "58aabc2b",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Digital Design Architect - 15036",
@@ -18767,13 +18758,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-digital-design-architect-15036-at-synopsys-inc-4370178082",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a digital design architect specializing in protocols like DDR, PCIe, UAL, and UCIe, which aligns with the VLSI domain. However, it does not directly match Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "1ae47ba7",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer (Video Silicon IP) - Multimedia Lab",
