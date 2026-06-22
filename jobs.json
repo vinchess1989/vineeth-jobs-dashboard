@@ -39940,43 +39940,40 @@
     "url": "https://www.glassdoor.com/job-listing/engineering-planner-project-engineer-lockheed-martin-JV_IC1164304_KO0,36_KE37,52.htm?jl=1010156886467",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Engineering Planner/Project Engineer, which does not fit the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The role is non-technical (engineering planner/project engineer) and does not match Vineeth's background in power integrity, advanced packaging, and EDA.",
     "id": "60c13795",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "project engineer jobs in Highlands Ranch, CO",
-    "company": "Extract from page",
+    "company": "Town of Castle Rock",
     "location": "Highlands Ranch, CO, USA",
     "url": "https://www.glassdoor.com/Job/highlands-ranch-project-engineer-jobs-SRCH_IL.0,15_IC1164304_KO16,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Highlands Ranch, CO, which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "reason": "The job is for a Project Engineer position in Highlands Ranch, CO, USA which is in the software engineering domain. It does not match Vineeth's expertise in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "c176436b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Highlands Ranch, CO jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Highlands Ranch, CO, USA",
     "url": "https://www.glassdoor.com/Job/highlands-ranch-jobs-SRCH_IL.0,15_IC1164304.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL provided does not lead to a specific job posting but rather a search results page for 'highlands ranch jobs'. It is missing critical details like company, location and job description.",
+    "reason": "The URL provided is for a generic search page listing jobs in Highlands Ranch, Colorado - it does not specify a particular job posting that matches the candidate profile and requirements.",
     "id": "78758497",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SSD Hardware Architect",
@@ -39985,13 +39982,12 @@
     "url": "https://www.glassdoor.com/job-listing/ssd-hardware-architect-micron-technology-JV_IC1127927_KO0,22_KE23,40.htm?jl=1010170567777",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a hardware architect specializing in SSDs, which does not directly match the candidate's background in semiconductor power integrity, advanced packaging, and CAD methodology.",
+    "reason": "The role is software engineering focused on firmware for SSD controllers, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "2abd4b4f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "hardware engineer jobs in Boise, ID",
@@ -40000,13 +39996,12 @@
     "url": "https://www.glassdoor.com/Job/boise-hardware-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a hardware engineer position in Boise, Idaho, USA. It does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The job is located in Boise, ID, USA which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India or Asia. Also, it is for a hardware engineer role rather than focusing on Power Integrity/Advanced Packaging/CAD Methodology.",
     "id": "35f0b47a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "US Expansion Layout Engineer",
@@ -40015,13 +40010,12 @@
     "url": "https://www.glassdoor.com/job-listing/us-expansion-layout-engineer-micron-technology-JV_IC1127927_KO0,28_KE29,46.htm?jl=1010170030114",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role with requirements like 'providing strategic leadership for the US expansion of layout teams', which does not match the technical domains and key skills we are looking for.",
+    "reason": "The role is a general Layout Engineer position, which does not match Vineeth's specialized Power Integrity, Advanced Packaging and CAD expertise.",
     "id": "68fbd367",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal/MTS Wet Process Development Engineer, DRAM Wet Process (Evergreen)",
@@ -40030,13 +40024,12 @@
     "url": "https://www.glassdoor.com/job-listing/principal-mts-wet-process-development-engineer-dram-wet-process-evergreen-micron-technology-JV_IC1127927_KO0,73_KE74,91.htm?jl=1010169247806",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a wet process engineer in DRAM development, which does not match the semiconductor/VLSI/EDA technical domains we are targeting.",
+    "reason": "The role is primarily focused on wet process development for DRAM manufacturing, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, CAD/Methodology, and VLSI/SoC Design.",
     "id": "c24bbd75",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Thermal Simulation Engineer, HBM",
@@ -40044,14 +40037,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/sr-thermal-simulation-engineer-hbm-micron-technology-JV_IC1140053_KO0,34_KE35,52.htm?jl=1010170563941",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior level role with over 10 years experience, in thermal analysis which matches the candidate's background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on thermal simulation and testing, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "f220dcef",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Product Engineer",
@@ -40060,13 +40052,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-product-engineer-at-microsoft-4422933470",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency and is based in Austin, TX which does not match our preferred regions.",
+    "reason": "The job is for a Principal Product Engineer role at Microsoft, which does not match Vineeth's focus on semiconductor/VLSI/EDA technical domains.",
     "id": "19ca7858",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Employee Experience & Talent Officer",
@@ -40075,13 +40066,12 @@
     "url": "https://in.linkedin.com/jobs/view/employee-experience-talent-officer-at-tata-electronics-4428219426",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at an electronics manufacturing company, not within our engineering/technical focus.",
+    "reason": "The role is a non-technical HR position at a semiconductor company, which does not match Vineeth's domain.",
     "id": "2ee8ce12",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Signal & Power Integrity Engineer",
