@@ -36495,14 +36495,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-amd-4428249838",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong technical match with specific RTL design experience required, at a semiconductor company.",
+    "matches_requirements": "no",
+    "reason": "This is a mid-level RTL design position at AMD's SOC group, which does not match Vineeth's senior leadership background and technical focus on Power Integrity and Advanced Packaging.",
     "id": "67442280",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-05",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_rtl_design_engineer_67442280.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design / SoC design Lead",
@@ -36510,14 +36509,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-soc-design-lead-at-amd-4377762051",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior RTL Design / SoC design Lead role with 13+ years experience matches the target domain of VLSI / SoC Design and leadership level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design and verification, which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off and thermal analysis.",
     "id": "97702654",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/amd_rtl_design___soc_design_lead_97702654.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "DFX Design - Arch",
@@ -36525,14 +36523,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/dfx-design-arch-at-amd-4406041696",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits a senior level SoC architecture design position with DFX and test strategy focus.",
+    "matches_requirements": "no",
+    "reason": "The role is for a SoC architect designing DFX, which falls under general SoC architecture rather than Vineeth's areas of deep expertise in Power Integrity and Advanced Packaging.",
     "id": "ce9e6816",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_dfx_design___arch_ce9e6816.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Physical Design Engineer, Senior (with Python expertise)",
@@ -36540,14 +36537,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-physical-design-engineer-senior-with-python-expertise-at-qualcomm-4413575214",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role at Qualcomm, Bengaluru India matches target criteria for SoC Physical Design Engineers with 2+ years exp.",
+    "matches_requirements": "maybe",
+    "reason": "The role is primarily SoC physical design but also mentions Python expertise which matches Vineeth's background",
     "id": "0c03ac38",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_soc_physical_design_engineer___0c03ac38.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CPU Systems RTL Engineer",
@@ -36556,13 +36552,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-systems-rtl-engineer-at-qualcomm-4415088014",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a specific hardware design position, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "This is an RTL design role focused on CPU systems at Qualcomm, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "1bef5f4b",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-05-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI System Architect Manager",
@@ -36571,13 +36566,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16550&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an AI System Architect Manager role which does not match the technical engineering roles we are looking to find matches for.",
+    "reason": "The role is a high-level AI System Architect Manager position which does not match Vineeth's technical skills in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "0b9a57f3",
     "source": "tsmc_careers",
     "posted_date": "2026-05-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -36586,13 +36580,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-System-Architect-Manager%2F16550",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN Sign-off. It is a senior leadership position at TSMC, one of the world's leading semiconductor companies.",
+    "reason": "The role of AI System Architect Manager falls under VLSI/EDA, and the location is remote worldwide.",
     "id": "1a3cd637",
     "source": "tsmc_careers",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_1a3cd637.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_1a3cd637.txt"
   },
   {
     "title": "Senior Specialist Sales OperationsGuadalajara (Mexico)HRC1653433Hybrid",
@@ -36601,13 +36594,12 @@
     "url": "https://www.infineon.com/careers/job/563808970843008",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job posting details are missing, leading to an error on the Infineon website. Unable to determine key criteria for a match.",
+    "reason": "Job posting link leads to a 404 error, no actual job details found.",
     "id": "f3a128e6",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Specialist Sales OperationsPenang (Malaysia)HRC1672615",
@@ -36616,13 +36608,12 @@
     "url": "https://www.infineon.com/careers/job/563808971242358",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not match the semiconductor/VLSI/EDA industry requirements, and the location is not applicable.",
+    "reason": "The job posting does not contain a valid date, making it impossible to determine if the deadline has passed or is in the future.",
     "id": "504fde2b",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist Sales Ops AnalysisLivonia + 1 moreHRC1674138HybridHybrid",
@@ -36631,13 +36622,12 @@
     "url": "https://www.infineon.com/careers/job/563808971212838",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company, so it does not match our requirements.",
+    "reason": "The job posting is for a non-technical HR role at a semiconductor company.",
     "id": "94b2fa5c",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Specialist Learning OperationsPenang (Malaysia) + 3 moreHRC1574089Hybrid",
