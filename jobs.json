@@ -8832,28 +8832,12 @@
     "url": "https://www.linkedin.com/jobs/view/high-speed-package-design-engineer-at-nokia-4398863031",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a High-Speed Package Design Engineer, which does not match the specified technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "This role is focused on IC packaging design, not Power Integrity (PI) or SoC physical design which are Vineeth's expertise areas.",
     "id": "ffcd1f8d",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior VLSI CAD Software Engineer",
-    "company": "NVIDIA",
-    "location": "Austin, TX",
-    "url": "https://www.linkedin.com/jobs/view/senior-vlsi-cad-software-engineer-at-nvidia-4395481241",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Job is located in Austin, TX, USA which does not match our target locations.",
-    "id": "251a20fb",
-    "source": "linkedin_eda_ww",
-    "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Principal EDA Engineer, Electronic Design Automation, Texas Institute for Electronics",
@@ -8861,14 +8845,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/senior-principal-eda-engineer-electronic-design-automation-texas-institute-for-electronics-at-the-university-of-texas-at-austin-4343630873",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Job posting URL is incorrect, resulting in an error page.",
+    "matches_requirements": "yes",
+    "reason": "Senior/Principal EDA Engineer role matches with Vineeth's background in Power Integrity, CAD Methodology and experience with ANSYS RedHawk, Cadence Voltus tools.",
     "id": "26d49f90",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/the_university_of_te_senior_principal_eda_engineer__26d49f90.txt"
   },
   {
     "title": "Senior VLSI CAD Software Engineer",
@@ -8876,14 +8859,13 @@
     "location": "Durham, NC",
     "url": "https://www.linkedin.com/jobs/view/senior-vlsi-cad-software-engineer-at-nvidia-4395477268",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for a software engineer working on design tools, which does not directly match the VLSI/EDA expertise needed.",
+    "matches_requirements": "maybe",
+    "reason": "Senior VLSI CAD Software Engineer role with 10+ years experience and C++/Java skills matches the candidate profile in semiconductor/EDA industry.",
     "id": "ba5a1285",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "EDA Tools Hardware Engineer",
@@ -8892,13 +8874,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-tools-hardware-engineer-at-intel-4426996877",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 6+ years of experience which exceeds Vineeth's available time, and is in Hillsboro, OR rather than in a match location.",
+    "reason": "The job is for an EDA Tools Hardware Engineer at Intel, which requires expertise in transistor-level timing characterization flows and SPICE-based characterization. Vineeth's background is primarily in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and CAD Methodology using tools like ANSYS RedHawk, Cadence Voltus, Grid Prototyping System (GPS). His skills do not directly match the technical requirements of this EDA Tools Hardware Engineer role.",
     "id": "57949e2c",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Designer 5",
@@ -8907,13 +8888,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-designer-5-at-sunrise-systems-inc-4426131366",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a contract position with only 12 months duration, and requires over 10 years of experience, which exceeds the target range.",
+    "reason": "The role is primarily analog design with specific LDO design experience, which does not match Vineeth's power integrity and advanced packaging focus.",
     "id": "9f5d55a6",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Design Engineer",
@@ -8922,13 +8902,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-design-engineer-at-intel-4426023543",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires on-site work at Intel Hillsboro, OR facility with a minimum of 4 days per week, which does not fit the remote-first preference.",
+    "reason": "The role is primarily analog design, which falls outside Vineeth's domain of expertise.",
     "id": "9b7e9423",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -8937,13 +8916,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-at-xcelerium-4426462997",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a Digital Design Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "This is a non-technical Digital Design Engineer role at a semiconductor company, not an engineering/technical position as required.",
     "id": "25408da1",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Assistant Manager - Cell Production",
@@ -8952,13 +8930,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-cell-production-at-adani-group-4406523883",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical management role at a large industrial conglomerate, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "This is a production management role focused on solar manufacturing, unrelated to semiconductor/VLSI/EDA.",
     "id": "2a0be394",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -8966,14 +8943,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-intel-4418828850",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Design Verification Engineer with experience in IP logic verification, and is located in Bengaluru, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which falls outside Vineeth's domain.",
     "id": "7d36348e",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/intel_design_verification_engineer_7d36348e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Lead",
