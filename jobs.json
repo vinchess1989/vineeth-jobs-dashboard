@@ -63921,14 +63921,13 @@
     "location": "Oulu, North Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-staff-research-standardization-specialist-at-nokia-4418773485",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Staff Research/Standardization Specialist role, but years of experience only asked for a 'Master\u2019s degree or Ph.D.' - no numeric range given.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on research, standardization and driving innovation in wireless communications, not semiconductor design, VLSI, EDA tools or engineering leadership.",
     "id": "ae4e8c35",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Researcher, Multimodal Reasoning",
@@ -63937,13 +63936,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-researcher-multimodal-reasoning-at-huawei-4403969201",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Researcher in AI and machine learning, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily focused on AI research in multimodal data understanding and reasoning, which does not directly match Vineeth's background in semiconductor power integrity analysis, advanced packaging, and CAD tool integration.",
     "id": "ff95de84",
     "source": "linkedin_fi_soc_design",
     "posted_date": "N/A",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Avionics System Engineer",
@@ -63952,13 +63950,12 @@
     "url": "https://fi.linkedin.com/jobs/view/avionics-system-engineer-at-reorbit-4410181363",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Avionics System Engineer, which does not match any of the target technical domains in the requirements.",
+    "reason": "The role is for an avionics systems engineer focused on satellite projects, which does not match Vineeth's domain of power integrity, advanced packaging, and EDA tools.",
     "id": "6e16487c",
     "source": "linkedin_fi_soc_design",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Thermal & Mechanical Packaging Engineer, Annapurna Labs",
@@ -63967,13 +63964,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-thermal-mechanical-packaging-engineer-annapurna-labs-amazon-web-services-JV_IC1133917_KO0,55_KE56,75.htm?jl=1010174246256",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the Advanced Packaging / Thermal domain with years of experience in thermal analysis.",
+    "reason": "Matches Advanced Packaging / Thermal domain, and is a Sr. role at a semiconductor startup.",
     "id": "aa157992",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/annapurna_labs__amaz_sr__thermal___mechanical_packa_aa157992.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/annapurna_labs__amaz_sr__thermal___mechanical_packa_aa157992.txt"
   },
   {
     "title": "packaging engineer jobs in Tempe, AZ",
@@ -63982,13 +63978,12 @@
     "url": "https://www.glassdoor.com/Job/tempe-packaging-engineer-jobs-SRCH_IL.0,5_IC1133917_KO6,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (HR) at a semiconductor company.",
+    "reason": "The role is for a Thermal & Mechanical Packaging Engineer at Amazon Web Services, which is outside Vineeth's focus on Power Integrity and EDA tools.",
     "id": "af0c62d1",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Amazon Web Services jobs in Tempe, AZ",
@@ -63997,28 +63992,26 @@
     "url": "https://www.glassdoor.com/Job/tempe-amazon-web-services-jobs-SRCH_IL.0,5_IC1133917_KO6,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for Amazon Web Services (AWS) positions, which do not fit the semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is non-technical (IT Support Associate II, OTS) and falls outside Vineeth's domain.",
     "id": "da342351",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Unit Process DevelopmentMelaka (Malaysia)HRC1682270",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Melaka (Malaysia)",
     "url": "https://www.infineon.com/careers/job/563808971292920",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting with all necessary details.",
+    "reason": "The role is an engineering position at Infineon Technologies, which is a semiconductor company. However, it does not explicitly mention Vineeth's key skills in Power Integrity, Advanced Packaging, SoC PDN sign-off or his technical leadership experience.",
     "id": "70674c9b",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Project Manager Project ManagementMelaka (Malaysia)HRC1682188",
@@ -64027,13 +64020,12 @@
     "url": "https://www.infineon.com/careers/job/563808971292925",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role in human resources, which does not match the semiconductor/VLSI/EDA technical background required.",
+    "reason": "The job posting is for a non-technical HR role, which does not match Vineeth's engineering background.",
     "id": "5add830a",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer Industrial EngineeringMelaka (Malaysia)HRC1674573",
@@ -64042,13 +64034,12 @@
     "url": "https://www.infineon.com/careers/job/563808971292919",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided leads to a 404 error, indicating the job posting is either missing or no longer available.",
+    "reason": "The job posting title clearly states 'HRC1674573' which is not a valid technical job description. It appears to be an internal HR tracking code rather than actual job details.",
     "id": "ad34ca06",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Unit Process Development MetrologyMelaka (Malaysia)HRC1632031",
@@ -64057,13 +64048,12 @@
     "url": "https://www.infineon.com/careers/job/563808970651336",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job URL is missing, unable to extract relevant details for evaluation.",
+    "reason": "Company URL returned a 404 error, unable to verify details. No clear company, location or deadline information found in job description text.",
     "id": "e5e13d02",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Unit Process Development Die AttachMelaka (Malaysia)HRC1536618",
