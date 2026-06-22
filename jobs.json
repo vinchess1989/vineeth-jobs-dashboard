@@ -24427,14 +24427,13 @@
     "location": "Hamina, Kymenlaakso, Finland",
     "url": "https://fi.linkedin.com/jobs/view/ict-package-manager-at-clear-4423900358",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role of ICT Package Manager at Clear fits Vineeth's background in Power Integrity and Advanced Packaging, requiring expertise in Low Voltage and ICT infrastructure delivery.",
+    "matches_requirements": "no",
+    "reason": "The job is in data center technology infrastructure installation & coordination, which is outside Vineeth's VLSI/EDA/Semiconductor domain.",
     "id": "fd2bb4a0",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/clear__ict_package_manager_fd2bb4a0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Autonomous vehicle Test Operator",
@@ -24443,13 +24442,12 @@
     "url": "https://fi.linkedin.com/jobs/view/autonomous-vehicle-test-operator-at-tsmg-holding-4137765725",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for operating autonomous vehicles, not related to semiconductor/VLSI/EDA",
+    "reason": "The job is for an autonomous vehicle test operator, which falls under software development and not Vineeth's domain of power integrity and advanced packaging.",
     "id": "4229d58d",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Electrical Construction Manager",
@@ -24458,13 +24456,12 @@
     "url": "https://fi.linkedin.com/jobs/view/electrical-construction-manager-at-pe-global-4418090332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Electrical Construction Manager on a hyperscale Data Center project, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "This is an electrical construction management role for a hyperscale data center project, not semiconductor/VLSI/EDA related.",
     "id": "c31ce461",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Facility Expert (Data Center / IDC)",
@@ -24473,13 +24470,12 @@
     "url": "https://fi.linkedin.com/jobs/view/facility-expert-data-center-idc-at-titanicom-tech-limited-4425851962",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Facility Expert, focusing on data center operations and infrastructure management, which does not directly match the stated technical domains of Power Integrity (PI), Advanced Packaging, or VLSI/EDA in the job search requirements.",
+    "reason": "The role is for a Facility Expert, not an engineering/technical position in semiconductor, VLSI, EDA.",
     "id": "809b2538",
     "source": "linkedin_semi_finland",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Assurance Manager",
@@ -24488,13 +24484,12 @@
     "url": "https://fi.linkedin.com/jobs/view/quality-assurance-manager-at-gh-engage-4409789599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Quality Assurance Manager at GH Engage in Hamina, Finland. It does not match the semiconductor/VLSI/EDA industry technical skills required.",
+    "reason": "The role is for a Quality Assurance Manager, which does not match Vineeth's technical expertise in Power Integrity, Advanced Packaging, CAD/Methodology and SoC Physical Design.",
     "id": "6b8a09e2",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Artificial Intelligence Researcher",
@@ -24502,29 +24497,27 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/artificial-intelligence-researcher-at-microtech-global-ltd-4428816195",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role directly matches the AI research criteria specified, and the company is a semiconductor-focused entity.",
+    "matches_requirements": "no",
+    "reason": "This AI Researcher role is focused on developing safe and trustworthy AI systems, which is a software/ML focus rather than semiconductor/VLSI/EDA. The location also does not match.",
     "id": "190efb78",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/microtech_global_ltd_artificial_intelligence_resear_190efb78.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer IV",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Rochester Electronics",
+    "location": "Rochester, NH, USA",
     "url": "https://www.glassdoor.com/job-listing/design-engineer-iv-rochester-electronics-JV_IC1142501_KO0,18_KE19,40.htm?jl=1010172841731",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not fit the specified technical domains for a semiconductor/VLSI/EDA role.",
+    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
     "id": "24dc1eae",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Burnsville, MN",
@@ -24532,29 +24525,27 @@
     "location": "Bloomington, MN, USA",
     "url": "https://www.glassdoor.com/Job/burnsville-design-engineer-jobs-SRCH_IL.0,10_IC1142501_KO11,26.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This electrical project engineer position focuses on substation design and power electronics, but does not match the key domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, etc. that are the key focus areas for Vineeth.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "66f317a8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Burnsville, MN jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Burnsville, USA",
     "url": "https://www.glassdoor.com/Job/burnsville-jobs-SRCH_IL.0,10_IC1142501.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is for a generic Burnsville jobs search page, not a specific semiconductor/VLSI/EDA role. No relevant job description details are found.",
+    "reason": "The job is a broad search for jobs in Burnsville, MN with no specific company or role mentioned. It does not match Vineeth's technical background and experience.",
     "id": "9f4d736d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Rochester Electronics jobs in Burnsville, MN",
@@ -24563,13 +24554,12 @@
     "url": "https://www.glassdoor.com/Job/burnsville-rochester-electronics-jobs-SRCH_IL.0,10_IC1142501_KO11,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical HR role, which does not match the required engineering/technical positions.",
+    "reason": "The job is for Rochester Electronics, which is a distributor of electronic components, and does not fit the semiconductor/VLSI/EDA industry focus.",
     "id": "370352b0",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer I",
