@@ -21264,13 +21264,12 @@
     "url": "https://www.glassdoor.com/job-listing/fab-engineer-micron-technology-JV_IC1130381_KO0,12_KE13,30.htm?jl=1010150526276",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a FAB Engineer position which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership that are targeted.",
+    "reason": "The job is for a non-technical FAB Engineer role at Micron, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "3beac1d9",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "engineer jobs in Manassas, VA",
@@ -21279,13 +21278,12 @@
     "url": "https://www.glassdoor.com/Job/manassas-engineer-jobs-SRCH_IL.0,8_IC1130381_KO9,17.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Non-Destructive Testing Engineer in Manassas, VA which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is focused on water infrastructure planning, not semiconductor/EDA/VLSI technical domains.",
     "id": "71d40a24",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "QEAD Quality System Engineer",
@@ -21294,13 +21292,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22506&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Quality System Engineer focused on certifications, improvements and employee training in TSMC's quality systems. It does not match the semiconductor/VLSI/EDA technical domains we are targeting.",
+    "reason": "The role is focused on Quality Management Systems, not directly related to Power Integrity / Packaging / CAD Methodology.",
     "id": "382f4c8e",
     "source": "tsmc_careers",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -21308,14 +21305,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FQEAD-Quality-System-Engineer%2F22506",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is based at TSMC headquarters in Hsinchu, Taiwan, which does not match the high-priority regions of Finland, Europe, UK, India, Asia, or fully remote positions.",
+    "matches_requirements": "yes",
+    "reason": "The role is a match based on the candidate's background and skills, and falls within TSMC's semiconductor domain.",
     "id": "5222a4ef",
     "source": "tsmc_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_5222a4ef.txt"
   },
   {
     "title": "Manassas, VA jobs",
@@ -21324,13 +21320,12 @@
     "url": "https://www.glassdoor.com/Job/manassas-jobs-SRCH_IL.0,8_IC1130381.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a variety of warehouse, retail, and logistics roles that do not match the technical domains in the target job criteria.",
+    "reason": "The role is non-technical (HR) and does not fit Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "c957e82c",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Micron Technology jobs in Manassas, VA",
@@ -21339,13 +21334,12 @@
     "url": "https://www.glassdoor.com/Job/manassas-micron-technology-jobs-SRCH_IL.0,8_IC1130381_KO9,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a general Micron Technology search with no specific role matching Vineeth's technical background and experience level. The US location also rules it out based on visa policy.",
+    "reason": "The job is for a non-technical role at a semiconductor company, which does not match Vineeth's background and experience.",
     "id": "fc3f88db",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Diffusion Equipment Engineer",
@@ -21354,13 +21348,12 @@
     "url": "https://www.glassdoor.com/job-listing/diffusion-equipment-engineer-micron-technology-JV_IC1127927_KO0,28_KE29,46.htm?jl=1010165686970",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Diffusion Equipment Engineer, which does not match the key domains of Power Integrity (PI), Advanced Packaging / Thermal, or EDA/CAD Methodology.",
+    "reason": "The role is focused on equipment engineering for semiconductor fabrication, which is outside Vineeth's domain of expertise in EDA/semiconductor design and engineering leadership.",
     "id": "4f6d75f2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "engineering technician jobs in Boise, ID",
@@ -21369,13 +21362,12 @@
     "url": "https://www.glassdoor.com/Job/boise-engineering-technician-jobs-SRCH_IL.0,5_IC1127927_KO6,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an engineering technician, which is a non-technical role and does not match the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The role is non-technical (engineering technician) and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or CAD Methodology.",
     "id": "955395b4",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Richardson, TX",
@@ -21384,13 +21376,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-design-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in Richardson, TX which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is located in Richardson, TX, USA, which does not match the specified locations of Finland, Europe, UK, India/Asia, or fully remote positions.",
     "id": "543a2dd9",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Micron Technology jobs in Richardson, TX",
@@ -21399,13 +21390,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-micron-technology-jobs-SRCH_IL.0,10_IC1140053_KO11,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which does not meet the requirements.",
+    "reason": "The job is located in Richardson, TX, USA and requires US residency/citizenship which does not match Vineeth's background.",
     "id": "58b2f883",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Firmware Engineer (Embedded & RTOS)",
