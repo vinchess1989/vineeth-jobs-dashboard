@@ -42558,28 +42558,26 @@
     "url": "https://www.glassdoor.com/job-listing/power-integrity-engineer-silicon-lumilens-JV_IC1147436_KO0,32_KE33,41.htm?jl=1010171664598",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not fit into the target domains of Power Integrity, Advanced Packaging or CAD/Methodology as per the requirements.",
+    "reason": "The job title mentions 'Silicon', which suggests a primarily verification role focused on silicon-level issues rather than PI. Vineeth's expertise is in Power Integrity and Advanced Packaging, so this job does not match his domain.",
     "id": "bfc50b2b",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "integration engineer jobs in San Jose, CA",
-    "company": "Extract from page",
+    "company": "Information Systems",
     "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/Job/san-jose-integration-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in San Jose, CA which does not match the preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). It also does not specify visa sponsorship or relocation, making it ineligible under the given criteria.",
+    "reason": "The job is for an Integration Engineer, which doesn't match Vineeth's key skills in Power Integrity and Advanced Packaging.",
     "id": "f43e5a48",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lumilens jobs in San Jose, CA",
@@ -42588,13 +42586,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-lumilens-jobs-SRCH_IL.0,8_IC1147436_KO9,17.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role, which does not match our engineering/technical position requirement.",
+    "reason": "The job is on Glassdoor for a company named Lumilens, which does not match Vineeth's semiconductor/VLSI/EDA background. The job description text itself does not contain enough detail to determine the actual job title, location, or domain.",
     "id": "600357f6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer - Agent Capabilities",
@@ -42603,13 +42600,12 @@
     "url": "https://www.workatastartup.com/jobs/92952",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position at a startup focused on AI agents, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (backend, embedded) which is outside Vineeth's domain.",
     "id": "a6be702c",
     "source": "yc_semi",
     "posted_date": "N/A",
-    "deadline": "apply now",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Owner Jobs",
@@ -42617,14 +42613,13 @@
     "location": "Espoo, FIN",
     "url": "https://builtin.com/jobs/product/search/product-owner",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills of Power Integrity, Advanced Packaging, and experience level.",
+    "matches_requirements": "no",
+    "reason": "The role is a Product Owner for software products, not related to semiconductor/VLSI/EDA.",
     "id": "1dc69599",
     "source": "builtin_semi",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/kone_product_owner_jobs_1dc69599.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Program Coordinator Jobs",
@@ -42633,13 +42628,12 @@
     "url": "https://builtin.com/jobs/project-management/search/program-coordinator",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical Program Coordinator role, which does not fit the semiconductor/VLSI/EDA technical position requirement.",
+    "reason": "The job posting is for a non-technical role of Program Coordinator at a company, which does not match Vineeth's engineering background in semiconductor/VLSI/EDA.",
     "id": "d66824e9",
     "source": "builtin_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Program Manager Jobs",
@@ -42648,13 +42642,12 @@
     "url": "https://builtin.com/jobs/project-management/search/program-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are for various technical program management roles, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical program management, which is outside Vineeth's domain.",
     "id": "90858619",
     "source": "builtin_semi",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Integration Engineer",
@@ -42663,13 +42656,12 @@
     "url": "https://se.linkedin.com/jobs/view/product-integration-engineer-at-silex-microsystems-4392898997",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the Product Integration Engineer requirements, including technical skills in MEMS and production integration.",
+    "reason": "The role is a technical Product Integration Engineer position at a MEMS foundry, matching Vineeth's background in Power Integrity and Advanced Packaging domains.",
     "id": "860a043d",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/silex_microsystems_product_integration_engineer_860a043d.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/silex_microsystems_product_integration_engineer_860a043d.txt"
   },
   {
     "title": "Industrial Engineer",
@@ -42678,13 +42670,12 @@
     "url": "https://mt.linkedin.com/jobs/view/industrial-engineer-at-stmicroelectronics-4403213020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical and is for an Industrial Engineer role at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The job is for an Industrial Engineer at a semiconductor company, which is a non-technical role and therefore does not match Vineeth's profile.",
     "id": "110fb7bd",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Test Engineer",
@@ -42693,13 +42684,12 @@
     "url": "https://be.linkedin.com/jobs/view/asic-test-engineer-at-european-tech-recruit-4427504517",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the target domains of ASIC Test Engineering and semiconductor manufacturing.",
+    "reason": "Matches VLSI/EDA background, specific ASIC test engineering role in semiconductor domain",
     "id": "a6577bcd",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_asic_test_engineer_a6577bcd.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_asic_test_engineer_a6577bcd.txt"
   },
   {
     "title": "Staff NPI Product Engineer",
