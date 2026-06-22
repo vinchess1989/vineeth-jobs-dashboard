@@ -9364,13 +9364,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-at-mage-legal-4413945363",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a design engineer focused on UI/UX for a software product, not semiconductor/VLSI/EDA.",
+    "reason": "This role is a software developer/designer position focused on UI/UX, not semiconductor/VLSI/EDA.",
     "id": "45342ed7",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -9379,13 +9378,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-intel-4405362954",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level RTL Design Engineer position which does not match the senior leadership and technical leader roles specified in the candidate profile.",
+    "reason": "This role is focused on RTL design, which falls under verification rather than power integrity or packaging.",
     "id": "d074a8c5",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TPU RTL Design Engineer, Cloud",
@@ -9394,13 +9392,12 @@
     "url": "https://www.linkedin.com/jobs/view/tpu-rtl-design-engineer-cloud-at-google-4422011804",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This TPU RTL Design Engineer role at Google is focused on AI/ML hardware acceleration, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "This TPU RTL Design Engineer role at Google focuses on AI/ML hardware acceleration and does not match Vineeth's domain of Power Integrity, Advanced Packaging, EDA tools, or VLSI design.",
     "id": "a2084c21",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-05-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer - FPGA",
@@ -9409,13 +9406,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-fpga-at-l-t-technology-services-4426986783",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA/RTL design for general SoC applications, not specific semiconductor/VLSI/EDA domains targeted by the search.",
+    "reason": "The role is primarily RTL/Verilog design for FPGA, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, CAD Methodology, and Physical Design.",
     "id": "69d3b4ba",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA / RTL Design Engineer",
@@ -9424,13 +9420,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-lorven-technologies-inc-4428726374",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role at a semiconductor company.",
+    "reason": "This role is primarily RTL/FPGA design which is outside Vineeth's core domain of Power Integrity, Advanced Packaging and CAD.",
     "id": "578023b3",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-04",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design / Microarchitecture Engineer",
@@ -9439,13 +9434,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-microarchitecture-engineer-at-bolt-graphics-4403122777",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an on-site role requiring presence in Sunnyvale, California, which does not match the job search criteria.",
+    "reason": "This is an RTL design role focused on SoC architecture, which does not match Vineeth's background in Power Integrity, Packaging, and CAD methodology.",
     "id": "7bcb46f6",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC RTL Design Engineer",
@@ -9454,13 +9448,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-rtl-design-engineer-at-xcelerium-4426460946",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US work authorization, which does not match the job search requirements.",
+    "reason": "This is an entry-level ASIC RTL Design Engineer role at Xcelerium, which does not match Vineeth's 15+ years of experience in Power Integrity and Advanced Packaging.",
     "id": "d1824a13",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "automation engineer jobs in Santa Clara, CA",
@@ -9468,29 +9461,27 @@
     "location": "Cupertino, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-automation-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,31.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which we do not want.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "abb0c842",
     "source": "glassdoor_semi",
-    "posted_date": "2026-06-18",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Santa Clara, CA jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-jobs-SRCH_IL.0,11_IC1147439.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic Santa Clara jobs search page on Glassdoor without specific details about company, position, or location. It does not match the criteria of being in semiconductor/VLSI/EDA and having enough technical detail to evaluate.",
+    "reason": "The listing is for a generic Santa Clara, CA jobs search and does not match the specific technical criteria in the job description.",
     "id": "b819c4ee",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "K&K Global Talent Solutions jobs in Santa Clara, CA",
@@ -9499,13 +9490,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-k-and-k-global-talent-solutions-jobs-SRCH_IL.0,11_IC1147439_KO12,43.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical recruitment role, not an engineering/technical position.",
+    "reason": "The job is at a recruitment agency (K&K Global Talent Solutions) rather than an engineering role at an actual semiconductor/EDA company.",
     "id": "f2a2c995",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Controls Engineer, Amazon Leo Optical Inter-Satellite Link",
