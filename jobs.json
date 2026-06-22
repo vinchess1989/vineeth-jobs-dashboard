@@ -33360,28 +33360,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19700&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical leadership position focused on mask process tuning and optimization, which does not directly match the domain-specific technical roles we are targeting such as Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "reason": "The role is a Technical Manager for mask process, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "3ce96a41",
     "source": "tsmc_careers",
     "posted_date": "2026-03-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "LinkedIn",
-    "company": "Welcome Back",
-    "location": "Extract from page",
-    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTechnical-Manager-Mask-Process%2F19700",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job URL is broken and does not lead to a valid job posting for evaluation.",
-    "id": "1763d022",
-    "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer",
@@ -33390,13 +33374,12 @@
     "url": "https://in.linkedin.com/jobs/view/equipment-engineer-at-qpiai-4429644250",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This equipment engineer role is not related to semiconductor/VLSI/EDA, which are the focus areas for this job matching exercise.",
+    "reason": "The role is a fabrication process engineer focused on thin films and deposition, which does not match Vineeth's areas of Power Integrity (PI), Advanced Packaging, CAD Methodology.",
     "id": "09f9b222",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Design Enablement",
@@ -33405,13 +33388,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-design-enablement-at-renesas-electronics-4430918828",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL was invalid and could not be processed to evaluate against the given requirements.",
+    "reason": "The role is more focused on general physical design engineering rather than specialized power integrity (PI) or advanced packaging domains Vineeth brings expertise in.",
     "id": "dd039879",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -33420,13 +33402,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84990?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Hyderabad, India which does not match our target locations of Finland, Europe (outside Finland), UK, or fully remote with worldwide eligibility.",
+    "reason": "The role is primarily software development (ASIC RTL design engineer) which is outside Vineeth's domain of expertise.",
     "id": "7f9dae61",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer Warehouse & Logistics (m/f/d)",
@@ -33434,29 +33415,27 @@
     "location": "Dresden, Germany",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21843&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (warehouse & logistics) at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "10223872",
     "source": "tsmc_careers",
-    "posted_date": "2026-06-03",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "TSMC",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSenior-Process-Engineer-Warehouse-Logistics-m-f-d%2F21843",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Warehouse Logistics role at a semiconductor company, which does not match our engineering/technical position requirement.",
+    "reason": "The role is a general warehouse logistics position, not related to semiconductor design, VLSI, or EDA.",
     "id": "f8cabecb",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Platform Engineer",
@@ -33465,13 +33444,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16482&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a platform engineer, which does not directly match the VLSI/EDA engineering focus.",
+    "reason": "The role is for an IT Platform Engineer which does not match Vineeth's domain of Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "d6bc872c",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -33479,14 +33457,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Platform-Engineer%2F16482",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for an IT Platform Engineer, but Vineeth's background is highly relevant to semiconductor and VLSI roles in Power Integrity, Advanced Packaging, and CAD Methodology. The job location and company need to be extracted from the page.",
+    "matches_requirements": "no",
+    "reason": "The job is primarily software engineering focused on firmware and system software development, which is outside Vineeth's domain.",
     "id": "ff6efca9",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer Jobs in San Francisco",
@@ -33495,13 +33472,12 @@
     "url": "https://www.workatastartup.com/jobs/san-francisco/software-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a software engineering role at tech startups, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "This is a general listing for software engineer roles, not specific to semiconductor/VLSI/EDA. It's also located in Bengaluru, India, which doesn't match Vineeth's target locations.",
     "id": "4c44f5ab",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Manager Jobs in San Francisco",
