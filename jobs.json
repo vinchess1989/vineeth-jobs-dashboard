@@ -28557,14 +28557,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/santa-clara-physicist-jobs-SRCH_IL.0,11_IC1147439_KO12,21.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a physicist position which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "073dfe10",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager Test Equipment / Product Test EngineeringSingaporeHRC1572728",
@@ -28573,13 +28572,12 @@
     "url": "https://www.infineon.com/careers/job/563808969983377",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description is blank and does not contain enough information to evaluate against the given criteria.",
+    "reason": "Job URL points to a 404 error page, no actual job details available.",
     "id": "c0e1ebbd",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer / Senior / Staff Engineer Product Test EngineeringSingaporeHRC1618523",
@@ -28588,13 +28586,12 @@
     "url": "https://www.infineon.com/careers/job/563808970569726",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description contains a 404 error and no details about the company, location, posted date, or deadline could be extracted.",
+    "reason": "The job posting URL is missing, making it impossible to check for a future application deadline.",
     "id": "0fcb95d7",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff / Principal Engineer - Product & TestSingaporeHRC1669700",
@@ -28603,13 +28600,12 @@
     "url": "https://www.infineon.com/careers/job/563808971170494",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The page returned a 404 error indicating the job listing no longer exists.",
+    "reason": "The job URL was not found, so it cannot be evaluated.",
     "id": "a69cfc63",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Product Test EngineeringMelaka (Malaysia)HRC1652556",
@@ -28618,13 +28614,12 @@
     "url": "https://www.infineon.com/careers/job/563808970875491",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a 404 error page, so the actual job details and requirements cannot be evaluated.",
+    "reason": "The job title indicates it is a non-technical role focused on product test engineering, which does not match Vineeth's technical background in semiconductor power integrity and advanced packaging.",
     "id": "ac6aafe2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Test EngineeringBangalore (India)HRC1657999HybridHybrid",
@@ -28633,58 +28628,40 @@
     "url": "https://www.infineon.com/careers/job/563808971026669",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting returned a 404 error page, indicating it no longer exists.",
+    "reason": "The job is an HR role, not a technical engineering position.",
     "id": "66b6813e",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Staff Engineer Product Test EngineeringMelaka (Malaysia)HRC1672713",
-    "company": "Infineon Technologies AG",
-    "location": "Extract from page",
-    "url": "https://www.infineon.com/careers/job/563808971235103",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The URL provided leads to a 404 error page, indicating that the job posting is not accessible.",
-    "id": "188fabce",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer Product Test EngineeringMelaka (Malaysia)HRC1404709",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "N/A - The location was not stated in the provided job description text.",
     "url": "https://www.infineon.com/careers/job/563808967465476",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job title indicates it is an HR position, which does not match Vineeth's technical background.",
     "id": "302430dc",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-24",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Test EngineeringMelaka (Malaysia)HRC1670909",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Melaka (Malaysia)",
     "url": "https://www.infineon.com/careers/job/563808971229089",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL did not load, so I could not retrieve necessary details to determine a match.",
+    "reason": "The job title and description do not match Vineeth's technical background in Power Integrity, Advanced Packaging, CAD Methodology, etc. It appears to be a generic 'Test Engineering' role without specifying any relevant sub-domain or technology focus.",
     "id": "0eeed747",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship - Product Test EngineerSamut Prakan (Thailand)HRC1542729",
@@ -28693,13 +28670,12 @@
     "url": "https://www.infineon.com/careers/job/563808969416590",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role of Product Test Engineer, which does not match the semiconductor/VLSI/EDA technical positions we are seeking.",
+    "reason": "The job posting URL was missing or invalid, preventing a full evaluation of the position.",
     "id": "861e3c82",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer Test Technology Innovation (2 Years Contract)Singapore128451",
