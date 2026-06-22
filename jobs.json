@@ -9504,13 +9504,12 @@
     "url": "https://www.glassdoor.com/job-listing/controls-engineer-amazon-leo-optical-inter-satellite-link-amazon-JV_IC1150499_KO0,57_KE58,64.htm?jl=1010159598698",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is non-technical HR role, does not fit semiconductor/VLSI/EDA domain requirements.",
+    "reason": "The job is for a Controls Engineer at Amazon, not a semiconductor/VLSI/EDA role.",
     "id": "ac9739d0",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "controls engineer jobs in Redmond, WA",
@@ -9518,14 +9517,13 @@
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/redmond-controls-engineer-jobs-SRCH_IL.0,7_IC1150499_KO8,25.htm",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a controls engineer position, which does not fit the VLSI/EDA technical domains specified in the requirements.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "420d24fa",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Redmond, WA jobs",
@@ -9534,13 +9532,12 @@
     "url": "https://www.glassdoor.com/Job/redmond-jobs-SRCH_IL.0,7_IC1150499.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which does not match our engineering/technical positions requirement.",
+    "reason": "The job posting is for non-technical roles at a semiconductor company, which does not match Vineeth's background in Power Integrity and VLSI.",
     "id": "52142da6",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Amazon jobs in Redmond, WA",
@@ -9549,13 +9546,12 @@
     "url": "https://www.glassdoor.com/Job/redmond-amazon-jobs-SRCH_IL.0,7_IC1150499_KO8,14.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Redmond, Washington, USA, which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide positions.",
+    "reason": "The job is located in Redmond, WA, USA which does not match Vineeth's target locations of Finland, Europe (outside Finland), UK, India, Asia or fully remote with worldwide eligibility.",
     "id": "c37f7a65",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Applications Engineer | DCC CTS",
@@ -9563,29 +9559,27 @@
     "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/applications-engineer-dcc-cts-texas-instruments-JV_IC1147439_KO0,29_KE30,47.htm?jl=1010167351284",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Applications Engineer role with 10+ years experience, matches senior leadership criteria and technical domains.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a match for leadership experience in semiconductor engineering, but the specific technical domain is not clearly stated.",
     "id": "d87dce65",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/texas_instruments_applications_engineer___dcc_ct_d87dce65.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "applications engineer jobs in Santa Clara, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-applications-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,33.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is for a non-technical Applications Engineer role at an undisclosed company, which does not match our target semiconductor/VLSI/EDA engineering roles.",
+    "reason": "The job is a general applications engineer role without specific mention of Power Integrity, Advanced Packaging, or related technical domains that Vineeth specializes in.",
     "id": "15ee2447",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Texas Instruments jobs in Santa Clara, CA",
@@ -9594,13 +9588,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-texas-instruments-jobs-SRCH_IL.0,11_IC1147439_KO12,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for multiple positions at Texas Instruments' Santa Clara office, which does not specifically match Vineeth's profile or requirements.",
+    "reason": "The job posting URL is for a Glassdoor listing, not a specific technical engineering role at Texas Instruments in Santa Clara, CA. It appears to be a generic security notice and does not contain details of any actual job opening.",
     "id": "944745a6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RET Layout/Mask Engineer",
@@ -9609,13 +9602,12 @@
     "url": "https://www.glassdoor.com/job-listing/ret-layout-mask-engineer-texas-instruments-JV_IC1139977_KO0,24_KE25,42.htm?jl=1010169377522",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a RET Layout/Mask Engineer which does not directly match the target technical domains of Power Integrity, Advanced Packaging, CAD/Methodology or Physical Design specified in the job requirements.",
+    "reason": "The role is primarily focused on RET layout and mask engineering, which falls under the VLSI/SoC Design domain. Vineeth's background does not match this specific area.",
     "id": "f29d09eb",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "engineer jobs in Dallas, TX",
@@ -9624,13 +9616,12 @@
     "url": "https://www.glassdoor.com/Job/dallas-engineer-jobs-SRCH_IL.0,6_IC1139977_KO7,15.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a semiconductor company.",
+    "reason": "The job is located in Dallas, TX, USA which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote worldwide.",
     "id": "b7545300",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Dallas, TX jobs",
@@ -9639,13 +9630,12 @@
     "url": "https://www.glassdoor.com/Job/dallas-jobs-SRCH_IL.0,6_IC1139977.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for a broad search across all Dallas jobs, not specific to semiconductor/VLSI/EDA roles.",
+    "reason": "The job listing is for a non-technical HR role and does not match the engineering/technical positions Vineeth is qualified for.",
     "id": "c625f0fe",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Texas Instruments jobs in Dallas, TX",
