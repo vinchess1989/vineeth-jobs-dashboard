@@ -24708,28 +24708,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=248&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain and experience level requirements for Physical Design Engineer at TSMC Taiwan.",
+    "reason": "The role is a Physical Design Engineer at TSMC Taiwan, which falls under Vineeth's domain of CAD/Methodology and matches the location criteria.",
     "id": "8ba2449d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_physical_design_engineer__taiw_8ba2449d.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_physical_design_engineer__taiw_8ba2449d.txt"
   },
   {
     "title": "Project Engineer",
-    "company": "Extract from page",
+    "company": "Conti Electric",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/job-listing/project-engineer-conti-electric-JV_IC1153175_KO0,16_KE17,31.htm?jl=1010172849191",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical project engineer role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is a general Project Engineer position, which does not match Vineeth's specific technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "ce229b52",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "project engineer jobs in Reading, PA",
@@ -24738,13 +24736,12 @@
     "url": "https://www.glassdoor.com/Job/reading-project-engineer-jobs-SRCH_IL.0,7_IC1153175_KO8,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical project management role for construction projects, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily focused on construction project engineering, site/civil contractor work which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "5adc4f5b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Reading, PA jobs",
@@ -24753,13 +24750,12 @@
     "url": "https://www.glassdoor.com/Job/reading-jobs-SRCH_IL.0,7_IC1153175.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is for a Glassdoor search results page, not a specific job posting matching the criteria.",
+    "reason": "The job posting is for non-technical roles (HR, Finance) at a company. The review criteria are only for engineering/technical positions in semiconductor/VLSI/EDA.",
     "id": "bc385b3a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Conti Electric jobs in Reading, PA",
@@ -24768,13 +24764,12 @@
     "url": "https://www.glassdoor.com/Job/reading-conti-electric-jobs-SRCH_IL.0,7_IC1153175_KO8,22.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for non-technical HR roles at a semiconductor company, which is a hard rejection per instructions.",
+    "reason": "The job is a non-technical HR role at a semiconductor company, which does not match Vineeth's engineering/technical background.",
     "id": "c6fe65fb",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "qa engineer jobs in Manassas, VA",
@@ -24783,13 +24778,12 @@
     "url": "https://www.glassdoor.com/Job/manassas-qa-engineer-jobs-SRCH_IL.0,8_IC1130381_KO9,20.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a QA Engineer, which does not match the technical domains of Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership. It also explicitly requires US residency.",
+    "reason": "The job is for a software development/testing role at a semiconductor company, which is outside Vineeth's domain.",
     "id": "6b1b2f4d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Dry Etch Process Engineer",
@@ -24798,13 +24792,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-dry-etch-process-engineer-micron-technology-JV_IC1127927_KO0,32_KE33,50.htm?jl=1010167045904",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Dry Etch Process Engineer, which does not match the specified technical domains in Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The role is for a process engineer in semiconductor manufacturing, which is outside Vineeth's domain of VLSI/EDA.",
     "id": "ce58fecf",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "View/Edit Job Alerts",
@@ -24812,8 +24805,8 @@
     "location": "Extract from page",
     "url": "https://jobs.keysight.com/candidate-portal",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a specific job posting but rather directs to a generic job search portal for Keysight Technologies. Therefore, it cannot be evaluated against the given criteria.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "f7db6e36",
     "source": "keysight_careers",
     "posted_date": "N/A",
@@ -24828,28 +24821,26 @@
     "url": "https://jobs.keysight.com/culture",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical marketing role, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The posting is for a non-technical role at a semiconductor company.",
     "id": "dcfddf04",
     "source": "keysight_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Our Benefits",
     "company": "Keysight Technologies",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://jobs.keysight.com/benefits",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a general benefits overview for Keysight employees, not an active technical role in semiconductor/VLSI/EDA.",
+    "reason": "This page lists benefits but does not actually post a specific job opening. It is just information about Keysight Technologies' benefits.",
     "id": "06640bf2",
     "source": "keysight_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Employer Awards",
