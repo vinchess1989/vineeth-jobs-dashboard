@@ -31008,13 +31008,12 @@
     "url": "https://www.infineon.com/careers/job/563808971064941",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job URL led to a 404 error, indicating the job posting is no longer available.",
+    "reason": "The job is a non-technical HR role, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "d72c9f2b",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industrial Trainee - Supply ChainPenang (Malaysia)HRC1401465",
@@ -31023,13 +31022,12 @@
     "url": "https://www.infineon.com/careers/job/563808967424591",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description is incomplete and does not contain relevant details to determine a match.",
+    "reason": "The job is for a non-technical HR role, which does not match Vineeth's technical background in Power Integrity and VLSI.",
     "id": "f344e2d8",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Contract - Systems Analyst (12 months)Singapore126883",
@@ -31038,13 +31036,12 @@
     "url": "https://www.infineon.com/careers/job/563808969276935",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was missing, so I could not visit it to check the posted date, deadline, company name, and location.",
+    "reason": "The URL provided is for a 404 error page, and no actual job listing can be found.",
     "id": "d0f404c2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Development Software Engineer (IMC)",
@@ -31053,28 +31050,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5301&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software engineer focused on AI/ML and web development, rather than semiconductor/VLSI/EDA roles.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "3a5c8487",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProduct-Development-Software-Engineer-IMC%2F5301",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify a clear location, making it difficult to determine if it matches the target regions.",
+    "reason": "The job is for a non-technical software engineering role at TSMC's IT department, which does not match Vineeth's background in semiconductor power integrity and packaging.",
     "id": "a4887337",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT Security Engineer",
@@ -31083,13 +31078,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=250&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This IT Security Engineer role at TSMC is focused on cybersecurity operations and threat analysis, not in semiconductor VLSI EDA domains like Power Integrity, Advanced Packaging, CAD Methodology or Physical Design.",
+    "reason": "The role is IT Security for a semiconductor manufacturing company, which does not directly match Vineeth's technical domains of power integrity, advanced packaging, EDA/CAD methodology or physical design. However, it is in the semiconductor industry and a leadership role.",
     "id": "033d75b6",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -31098,13 +31092,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Security-Engineer%2F250",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL does not lead to a valid job posting page, as it is a LinkedIn login page.",
+    "reason": "The job is a non-technical role in HR, which does not match Vineeth's engineering background.",
     "id": "6f4f4e4a",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Design and Automation Engineer",
@@ -31112,14 +31105,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=532&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a fresh graduate level digital design and automation engineer role, which does not match the senior leadership technical roles we are seeking.",
+    "matches_requirements": "yes",
+    "reason": "Matches key skills in ANSYS RedHawk, Cadence Voltus and role is Digital Design and Automation Engineer.",
     "id": "f5829e1d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_digital_design_and_automation__f5829e1d.txt"
   },
   {
     "title": "LinkedIn",
@@ -31127,14 +31119,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FDigital-Design-and-Automation-Engineer%2F532",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Senior Design Engineer focused on digital design and automation, which matches the candidate's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is a Software Engineer position, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "6923baf6",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_6923baf6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Development Engineer (Data Center Farm)",
@@ -31143,13 +31134,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86945?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Development Engineer rather than a technical position focused on VLSI/EDA.",
+    "reason": "The role is primarily verification (testbench development, formal verification) which is outside Vineeth's domain.",
     "id": "2957bee5",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Infrastructure Security Operations Engineer",
