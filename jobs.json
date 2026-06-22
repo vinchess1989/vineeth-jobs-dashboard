@@ -29104,13 +29104,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FESMC-General-Security-Manager-m-w-d%2F21842",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL leads to a generic LinkedIn page without specific job details, so it cannot be evaluated against the provided criteria.",
+    "reason": "This role is not specific to Power Integrity, Advanced Packaging, EDA/CAD domains Vineeth specializes in.",
     "id": "600b61c3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Silicon Photonics Engineer",
@@ -29119,13 +29118,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=395&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Silicon Photonics Engineer role at TSMC is focused on photonic components and customization, which does not directly match the key domains of Power Integrity (PI), Advanced Packaging / Thermal, or related EDA/CAD/Methodology roles in the semiconductor/VLSI/EDA industry.",
+    "reason": "This silicon photonics engineering role is outside Vineeth's domain of expertise in power integrity, packaging and EDA.",
     "id": "055194e5",
     "source": "tsmc_careers",
     "posted_date": "2026-03-23",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29133,14 +29131,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSilicon-Photonics-Engineer%2F395",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Senior Silicon Photonics Engineer, which does not fit into the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership. Therefore, it does not meet the target job criteria.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domains of power integrity, thermal analysis, and EDA tools experience. Senior leadership role in semiconductor industry.",
     "id": "968ea27a",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_968ea27a.txt"
   },
   {
     "title": "Software Development Engineer 1",
@@ -29149,13 +29146,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87327?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Development Engineer 1, which does not fit the technical domains we are targeting like Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, etc.",
+    "reason": "The role is primarily software development (SW Engineer), which is outside Vineeth's domain.",
     "id": "b43fd54f",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ENGINEER - F15 MFG CMP Equipment EngineerHiroshima, JapanPosted 5 months ago",
@@ -29164,13 +29160,12 @@
     "url": "https://micron.eightfold.ai/careers/job/39553298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a manufacturing equipment engineer, not related to semiconductor VLSI EDA work.",
+    "reason": "The role is a manufacturing equipment engineer focused on CMP processes, not related to power integrity, EDA tools, or semiconductor design.",
     "id": "de9f5d07",
     "source": "micron_careers",
     "posted_date": "2023-05-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "3DIC flow engineer",
@@ -29179,28 +29174,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=451&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches domain (3DIC flow, IC Design Technology) and location (Taiwan)",
+    "reason": "Matches leadership role with strong preference for Power Integrity/SI and matches location to Taiwan",
     "id": "c90fe4ec",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_3dic_flow_engineer_c90fe4ec.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_3dic_flow_engineer_c90fe4ec.txt"
   },
   {
     "title": "LinkedIn",
     "company": "TSMC",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F3DIC-flow-engineer%2F451",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is not specifically in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership as required. It does not fit the target job criteria.",
+    "matches_requirements": "yes",
+    "reason": "Matches Vineeth's background, senior role at a major semiconductor company, and suitable location.",
     "id": "170e7096",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_170e7096.txt"
   },
   {
     "title": "R&D Power Grid Design and Sign-Off Engineer",
@@ -29209,13 +29202,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=475&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a technical engineering position at a semiconductor company in Taiwan.",
+    "reason": "Matches Vineeth's background in Power Integrity, SoC PDN sign-off and is in Taiwan which is a high-priority location",
     "id": "f6d6017f",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_r_d_power_grid_design_and_sign_f6d6017f.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_r_d_power_grid_design_and_sign_f6d6017f.txt"
   },
   {
     "title": "LinkedIn",
@@ -29224,13 +29216,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FR-D-Power-Grid-Design-and-Sign-Off-Engineer%2F475",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches requirements for Power Integrity engineering at a senior level, with 15 years of experience in related domains like PI, advanced packaging. TSMC is one of the top semiconductor companies.",
+    "reason": "The role matches Vineeth's background in Power Integrity and Advanced Packaging, with skills in ANSYS RedHawk and Cadence Voltus. The job is remote worldwide which aligns with his preferences.",
     "id": "1f762d76",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/tsmc_linkedin_1f762d76.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_1f762d76.txt"
   },
   {
     "title": "Fab Production Control Planner",
@@ -29238,14 +29229,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18546&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a production planning position focused on semiconductor Fab operations, not a technical role in Power Integrity/Advanced Packaging/CAD.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "57f997b7",
     "source": "tsmc_careers",
-    "posted_date": "2026-03-20",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
