@@ -40219,14 +40219,13 @@
     "location": "Kolar, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ic-technology-development-program-manager-at-tata-electronics-4407275210",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a technical leadership role at Tata Electronics, which matches our semiconductor/VLSI/EDA focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "cef15715",
     "source": "linkedin_semi_india",
-    "posted_date": "2026-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/tata_electronics_ic_technology_development_prog_cef15715.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Engineer 3",
@@ -40234,14 +40233,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/systems-engineer-3-at-lam-research-4377930763",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This systems engineering role at Lam Research is not a direct match for semiconductor/VLSI/EDA roles. The job is based in India and does not fit the senior leadership or technical domain requirements specified.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "c082738e",
     "source": "linkedin_semi_india",
-    "posted_date": "2026-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "ESD Lead",
@@ -40249,14 +40247,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/esd-lead-at-texas-instruments-india-4403605822",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior ESD design role matches the technical requirements for a semiconductor VLSI/EDA job.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily ESD design support rather than Power Integrity or physical design.",
     "id": "9a7556b1",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/texas_instruments_in_esd_lead_9a7556b1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Prober Engineer",
@@ -40265,13 +40262,12 @@
     "url": "https://in.linkedin.com/jobs/view/test-prober-engineer-at-tata-electronics-4427358929",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Test Prober Engineer which does not match the Power Integrity, CAD/Methodology, SoC Physical Design, and EDA Tools domains.",
+    "reason": "The role is a Test Prober Engineer focused on equipment maintenance and repair, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off.",
     "id": "67c1b083",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IC Senior Test Cell Development Manager",
@@ -40280,13 +40276,12 @@
     "url": "https://in.linkedin.com/jobs/view/ic-senior-test-cell-development-manager-at-tata-electronics-4406497000",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a test engineering position at Tata Electronics, which is focused on manufacturing semiconductor components. It does not fit our requirement for technical roles in VLSI/EDA.",
+    "reason": "The role is primarily focused on test cell development and ATE hardware rather than semiconductor design, PI/SI, or EDA tools. It does not match Vineeth's area of expertise.",
     "id": "67a529e9",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PDK Development Engineer",
@@ -40295,13 +40290,12 @@
     "url": "https://in.linkedin.com/jobs/view/pdk-development-engineer-at-texas-instruments-india-4426969234",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Bengaluru, India which does not match the required locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), fully remote worldwide, or US with visa sponsorship/relocation mentioned.",
+    "reason": "The role is primarily focused on developing TI PDK Kit capabilities and integrating it with design flows, which is outside Vineeth's domain of expertise in Power Integrity and advanced packaging.",
     "id": "d9c7ca05",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Service Engineer 3",
@@ -40310,13 +40304,12 @@
     "url": "https://in.linkedin.com/jobs/view/field-service-engineer-3-at-lam-research-4419157541",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Field Service Engineer, which does not match the VLSI/EDA job requirements.",
+    "reason": "The role is focused on customer service, repair, maintenance, and equipment installation - not Power Integrity, CAD methodology, EDA tools, or VLSI/SoC design.",
     "id": "29a03c9f",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Test Equipment Manager",
@@ -40325,13 +40318,12 @@
     "url": "https://in.linkedin.com/jobs/view/test-equipment-manager-at-tata-electronics-4390034584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a management position in manufacturing for Tata Electronics, which does not fit the VLSI/EDA industry focus.",
+    "reason": "Not a technical role, does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "93c0bdfb",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photolithography Engineer",
@@ -40340,13 +40332,12 @@
     "url": "https://in.linkedin.com/jobs/view/photolithography-engineer-at-micron-technology-4424562603",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Photolithography Engineer focusing on memory devices, which does not align with the VLSI/EDA background required.",
+    "reason": "This Photolithography Engineer role is focused on lithography scribe challenges, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging. It does not match any key skills or experience areas mentioned.",
     "id": "6dba2163",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Faliure Analysis and Reliability Engineer",
@@ -40355,13 +40346,12 @@
     "url": "https://in.linkedin.com/jobs/view/faliure-analysis-and-reliability-engineer-at-tata-electronics-4426853041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on failure analysis of PCBAs, ICs and electronic components, while the target job requires expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off and related technical domains.",
+    "reason": "The job is for Failure Analysis within electronics manufacturing, which is a different domain from Power Integrity, VLSI/EDA. It also lacks specific technical skills like PI/SI tools.",
     "id": "c00f2ccd",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Test Engineer",
