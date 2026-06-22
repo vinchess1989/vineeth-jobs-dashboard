@@ -8272,13 +8272,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21844&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a technical position at TSMC, which is only a semiconductor company and does not fit our focus on VLSI/EDA.",
+    "reason": "This is a manufacturing technician role at TSMC, which does not match Vineeth's VLSI/EDA background and senior leadership experience. It is an entry-level position without mention of technical domains like Power Integrity (PI), Advanced Packaging or CAD Methodology that align with Vineeth's strengths.",
     "id": "74642207",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -8287,13 +8286,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21844",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job URL is invalid and cannot be visited for further details.",
+    "reason": "Does not match specific technical domain requirements for Vineeth's background",
     "id": "094ff649",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5148\u9032\u5c01\u88dd\u5ee0 \u5ee0\u52d9\u5de5\u7a0b\u5e2b AP7(\u5609\u7fa9)",
@@ -8302,13 +8300,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19373&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is in Taiwan, which does not match the high priority regions of Finland, UK, India, Asia, Europe (outside Finland), or fully remote worldwide roles.",
+    "reason": "This is a facilities engineering role focused on water, power, gas, mechanical systems - it doesn't match Vineeth's expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off or CAD/Methodology. It also isn't a leadership position.",
     "id": "382daaef",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -8317,13 +8314,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAP7%2F19373",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical marketing role at a semiconductor company, which does not match the required engineering/technical positions.",
+    "reason": "The job is at TSMC, which is a semiconductor manufacturing company and not an EDA/semiconductor design company where Vineeth's experience would be most applicable. Also, no specific technical domain or location details are provided in the LinkedIn snippet.",
     "id": "c069ec1b",
     "source": "tsmc_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5132\u5099\u6a21\u7d44\u526f\u5de5\u7a0b\u5e2b",
@@ -8332,28 +8328,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5441&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an associate engineer role at TSMC, which does not match our focus on technical roles in the semiconductor/VLSI/EDA domain.",
+    "reason": "The role is focused on semiconductor manufacturing processes, equipment maintenance and repair, which does not closely match Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, and CAD methodology.",
     "id": "49259903",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "TSMC",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F5441",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job URL is incomplete and cannot be visited for further details.",
+    "matches_requirements": "maybe",
+    "reason": "Matches domain but leadership role makes exact technical domain unclear",
     "id": "7a18fdc9",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Next >>",
@@ -8362,13 +8356,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/SearchJobs/?jobSort=posting_date&jobRecordsPerPage=10&jobOffset=10",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match VLSI/EDA technical domains, is a manufacturing process engineer position.",
+    "reason": "This is a manufacturing technician role, not directly related to Vineeth's technical expertise in Power Integrity, Advanced Packaging, CAD/Methodology etc.",
     "id": "4b645d6e",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Privacy Notice",
@@ -8377,13 +8370,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/english_privacynotice/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which should be immediately discarded according to the hard rejection criteria.",
+    "reason": "This is a privacy notice for TSMC's job application and event registration processes, not a specific job listing. No actual engineering role details are provided.",
     "id": "e77c5cc4",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Drone Engineer (25)",
@@ -8392,13 +8384,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/drone_engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical marketing position and does not match our semiconductor/VLSI/EDA engineering focus.",
+    "reason": "The role is focused on drone engineering and does not match Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "6370d8ff",
     "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification to HFT. Is it a possible switch?",
@@ -8407,13 +8398,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1ta3bh3/design_verification_to_hft_is_it_a_possible_switch/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is asking about a career switch into HFT using hardware verification experience, not an actual open job posting.",
+    "reason": "Job posting URL blocked by Reddit's network policy, cannot extract details for evaluation.",
     "id": "08f70d26",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Looking for Physical Design opportunities.",
