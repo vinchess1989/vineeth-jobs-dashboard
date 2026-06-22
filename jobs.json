@@ -50873,14 +50873,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/chief-information-security-officer-ciso-at-mi-case-4399581253",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a Chief Information Security Officer (CISO) at a software company, which does not match Vineeth's technical domains of Power Integrity, Advanced Packaging, and EDA/CAD.",
     "id": "979feb3b",
     "source": "linkedin_ww_soc_design_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC Security Architect",
@@ -50889,13 +50888,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-security-architect-at-amd-4421958659",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role requires US residency, which is a hard rejection per our criteria.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "74569700",
     "source": "linkedin_ww_soc_design_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT & Cyber Security Consultant",
@@ -50903,14 +50901,13 @@
     "location": "Virginia, United States",
     "url": "https://www.linkedin.com/jobs/view/it-cyber-security-consultant-at-ontrac-4428524101",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for an IT & Cyber Security Consultant, which is a non-technical/non-engineering position.",
     "id": "570a6dde",
     "source": "linkedin_ww_soc_design_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-09",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Information Security Engineer - AI First",
@@ -50919,13 +50916,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-information-security-engineer-ai-first-at-rithum-4430769825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Information Security role at a tech company, which does not match our semiconductor/VLSI/EDA technical position criteria.",
+    "reason": "The role is primarily focused on AI, ML security depth and identity & access expertise rather than semiconductor/VLSI/EDA domains.",
     "id": "a3fec576",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Information Security Engineer - AI First",
@@ -50933,14 +50929,13 @@
     "location": "Greater Chicago Area",
     "url": "https://www.linkedin.com/jobs/view/staff-information-security-engineer-ai-first-at-rithum-4430777239",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "Non-technical role at a semiconductor company",
     "id": "e05a2216",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -50949,13 +50944,12 @@
     "url": "https://www.linkedin.com/jobs/view/security-engineer-at-rain-4359731272",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a fintech company, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "This role is for a software engineering position at Rain, which is outside of Vineeth's domain expertise in semiconductor/VLSI/EDA.",
     "id": "33b17a02",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC/SIEM Q1",
@@ -50964,13 +50958,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-siem-q1-at-infosys-4402336061",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IT services consulting role, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "This is a software development role, not related to semiconductor/VLSI/EDA.",
     "id": "cf360c28",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Designer",
@@ -50979,13 +50972,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-designer-at-larsen-toubro-4359974064",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL Designer, focusing on analog mixed-signal IP/IC design and not directly related to semiconductor VLSI/EDA.",
+    "reason": "This RTL Designer role at Larsen & Toubro is focused on analog mixed signal design and IP/IC integration, which does not match Vineeth's Power Integrity, Advanced Packaging, and CAD Methodology background.",
     "id": "4e1cfbaa",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Low Power Multimedia Systems Engineer",
@@ -50994,13 +50986,12 @@
     "url": "https://in.linkedin.com/jobs/view/low-power-multimedia-systems-engineer-at-qualcomm-4393873219",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role focused on multimedia systems, not directly related to semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (embedded systems engineer) and not within Vineeth's domain of VLSI/EDA.",
     "id": "44d65c78",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Experts",
@@ -51009,13 +51000,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-experts-at-infosys-4402110663",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for IT consulting on security operations, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "The job is for a technical consulting role focused on infrastructure security and SOC operations, not semiconductor/VLSI/EDA. It does not match Vineeth's background in power integrity, advanced packaging, SoC design, or EDA tools.",
     "id": "4e495bc9",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-06-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
