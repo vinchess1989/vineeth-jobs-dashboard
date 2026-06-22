@@ -53659,14 +53659,13 @@
     "location": "Warwick, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/graduate-analog-engineer-at-targetjobs-uk-4408369805",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a graduate level internship role rather than a senior-level engineering position.",
+    "matches_requirements": "maybe",
+    "reason": "Strong analog design skills and Cadence tools experience, but less than 10 years experience.",
     "id": "cef150a7",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Early Career - GPU Top Level Physical Design Engineer",
@@ -53674,14 +53673,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/early-career-gpu-top-level-physical-design-engineer-at-apple-4414171042",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches Domain & Technical Area (Physical Design) and Location (London, UK)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (GPU architecture, top-level design) which is outside Vineeth's domain of Power Integrity and Physical Design.",
     "id": "e1cb9a93",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_early_career___gpu_top_level_p_e1cb9a93.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career - GPU Top Level Physical Design Engineer",
@@ -53690,13 +53688,12 @@
     "url": "https://uk.linkedin.com/jobs/view/early-career-gpu-top-level-physical-design-engineer-at-apple-4414155764",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Early Career position, which does not match the senior-level candidate profile.",
+    "reason": "This role is for a GPU Physical Design Engineer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging. It does not match the target domains defined.",
     "id": "dd719dad",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career - GPU Top Level Physical Design Engineer",
@@ -53704,14 +53701,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/early-career-gpu-top-level-physical-design-engineer-at-apple-4414154719",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the Physical Design Engineer criteria, with experience required and located in a targeted region (Cambridge, England).",
+    "matches_requirements": "no",
+    "reason": "The role is primarily GPU Top Level Physical Design, which falls outside Vineeth's domain of expertise in Power Integrity/Signal Integrity.",
     "id": "60a830e8",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/apple_early_career___gpu_top_level_p_60a830e8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -53719,14 +53715,13 @@
     "location": "England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-dabster-4427704286",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Design Verification Engineer with experience in System Verilog and UVM, fitting the VLSI/EDA domain criteria.",
+    "matches_requirements": "no",
+    "reason": "This role is for a Design Verification Engineer, which falls under verification domain outside Vineeth's expertise.",
     "id": "c59ea76d",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/dabster_design_verification_engineer_c59ea76d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career - GPU Top Level Physical Design Engineer",
@@ -53734,14 +53729,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/early-career-gpu-top-level-physical-design-engineer-at-apple-4414165461",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This role fits well with the target domains of Physical Design, especially for large chip integration and GPU design.",
+    "matches_requirements": "no",
+    "reason": "The job is for an Early Career role which does not match Vineeth's senior level experience.",
     "id": "2bf6841a",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_early_career___gpu_top_level_p_2bf6841a.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CAD Physical Design Engineer",
@@ -53750,13 +53744,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cad-physical-design-engineer-at-apple-4426053199",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role involves CAD physical design work with 5+ years of experience, matching the criteria for a technical leadership role in this domain.",
+    "reason": "This CAD Physical Design Engineer role matches Vineeth's background in Power Integrity and Advanced Packaging, with requirements for SoC PDN sign-off, design automation, methodology development. It is at an Apple semiconductor startup.",
     "id": "7a251c87",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_cad_physical_design_engineer_7a251c87.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/apple_cad_physical_design_engineer_7a251c87.txt"
   },
   {
     "title": "Staff Design Verification Engineer",
@@ -53764,14 +53757,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-design-verification-engineer-at-renesas-electronics-4393523027",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior level VLSI/EDA role matching 10+ years of experience, with a strong technical profile in design verification.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain of expertise.",
     "id": "b94e9176",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_staff_design_verification_engi_b94e9176.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -53780,13 +53772,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-carv-4429947439",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate background does not match the technical requirements of hardware engineering for consumer sports technology products.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "f9fbebbb",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wireless DSP / PHY Firmware Engineer - Espoo, Finland",
@@ -53794,14 +53785,13 @@
     "location": "Finland",
     "url": "https://fi.linkedin.com/jobs/view/wireless-dsp-phy-firmware-engineer-espoo-finland-at-qualcomm-4403815938",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development which is outside Vineeth's domain.",
     "id": "e6620eb5",
     "source": "linkedin_fi_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-24",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Lead",
