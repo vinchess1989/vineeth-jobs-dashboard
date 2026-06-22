@@ -10862,13 +10862,12 @@
     "url": "https://micron.eightfold.ai/careers/job/39634776",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an IT Software Engineer, not a semiconductor/VLSI/EDA related technical position.",
+    "reason": "The role is software development focused, which is outside Vineeth's domain of expertise.",
     "id": "53973d5a",
     "source": "micron_careers",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5132\u5099\u6a21\u7d44\u526f\u5de5\u7a0b\u5e2b (\u53f0\u5357)",
@@ -10876,14 +10875,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=413&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a full-time role at a semiconductor manufacturing company located in Taiwan, which doesn't match the target regions of Finland/Europe/UK/India/Asia/US with visa sponsorship.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a senior leadership position at a semiconductor company, and matches Vineeth's 15 years of experience. However, it does not mention the specific domains of Power Integrity or Advanced Packaging in the job description.",
     "id": "dafb4b12",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -10891,14 +10889,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F413",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is at a semiconductor company, but it does not have detailed technical requirements matching the candidate profile.",
+    "matches_requirements": "yes",
+    "reason": "Senior Technical Leadership role at a top semiconductor foundry with >10 years relevant experience.",
     "id": "39eac6dc",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_linkedin_39eac6dc.txt"
   },
   {
     "title": "\u5ee0\u52d9\u88dd\u6a5f\u5de5\u7a0b\u5e2b",
@@ -10907,13 +10904,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21851&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a factory equipment installation engineer at TSMC, which does not fit the semiconductor/VLSI/EDA engineering roles being sought.",
+    "reason": "The job is a non-technical facility engineering role which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "b041d148",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -10921,14 +10917,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21851",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a technical leadership role at TSMC, which requires residency within Taiwan, China, South Korea, Singapore, and the United States. It does not match the priority locations of Finland, Europe (outside Finland), UK, India or Asia in the job requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Senior role with semiconductor experience, but specific domain not clearly mentioned.",
     "id": "1bfa9881",
     "source": "tsmc_careers",
     "posted_date": "2023-04-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer (EQ)",
@@ -10937,13 +10932,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5438&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is at a semiconductor fabrication plant in Taiwan, not matching the target domains of VLSI/EDA.",
+    "reason": "This equipment engineering role is focused on semiconductor fab maintenance and operations, not the technical domains of Power Integrity, EDA tool application engineering, or SoC physical design that Vineeth Prathapachandra Kaimal specializes in.",
     "id": "b425ad78",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Process Integration Engineer (PIE)",
@@ -10952,13 +10946,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19037&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Campus Recruitment position for graduates, which does not match the experienced professional criteria.",
+    "reason": "This role is focused on semiconductor manufacturing operations rather than power integrity, packaging, EDA tools or SoC design which are Vineeth's areas of expertise.",
     "id": "bcda503b",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -10966,14 +10959,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Process-Integration-Engineer-PIE%2F19037",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a campus recruitment process for integration engineers at TSMC, which does not match the experienced technical leadership positions we are looking for.",
+    "matches_requirements": "yes",
+    "reason": "Senior Technical Leadership role at TSMC, a semiconductor industry leader, with extensive Power Integrity and Advanced Packaging experience. Matches leadership exception criteria.",
     "id": "dbbdae06",
     "source": "tsmc_careers",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tsmc_linkedin_dbbdae06.txt"
   },
   {
     "title": "Facility Engineer (FAC)",
@@ -10982,13 +10974,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5440&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general facility engineering position at TSMC, which does not specifically match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, or VLSI / SoC Design. It also does not require 10-15+ years experience in those areas.",
+    "reason": "This is an engineering role at a semiconductor manufacturing company, but it is focused on facility maintenance (water treatment, electrical systems) rather than technical design or leadership roles in the key domains of Power Integrity, Advanced Packaging, Physical Design, EDA Tools or SoC Architecture.",
     "id": "f1342af6",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5132\u5099\u6a21\u7d44\u526f\u5de5\u7a0b\u5e2b (\u9ad8\u96c4)",
@@ -10997,13 +10988,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=15462&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Semiconductor Manufacturing Company Limited, which does not match our technical-only role requirement.",
+    "reason": "This is a specific leadership role within TSMC itself, which does not match Vineeth's background and skills in EDA/CAD tools.",
     "id": "a58def68",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-03-19",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
