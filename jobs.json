@@ -31974,13 +31974,12 @@
     "url": "https://www.infineon.com/careers/job/563808966936582",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is missing, making it impossible to check for a deadline and other relevant details.",
+    "reason": "The URL provided does not lead to a valid job posting, as it returns an error page saying '404 ERROR Sorry, we have landed on an empty space'. No further details about the job role or requirements could be found.",
     "id": "cb00b5d6",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Embedded Developer (f/m/div)Lviv (Ukraine)HRC1358105Hybrid",
@@ -31989,28 +31988,26 @@
     "url": "https://www.infineon.com/careers/job/563808967034008",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain enough details to make a determination based on the provided criteria.",
+    "reason": "The job is for a software development role, which is outside Vineeth's domain of expertise.",
     "id": "f62c4535",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Embedded Systems Engineer (f/m/div)Lviv (Ukraine)126088HybridHybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Lviv (Ukraine)",
     "url": "https://www.infineon.com/careers/job/563808969041376",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title does not match the target technical domains.",
+    "reason": "The job is for an Embedded Systems Engineer role at Infineon Technologies, which does not match Vineeth's technical leadership background in Power Integrity and Advanced Packaging.",
     "id": "1f335d6b",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Robotic Software Developer (f/m/div)Ilmenau (Germany)HRC1666485",
@@ -32019,13 +32016,12 @@
     "url": "https://www.infineon.com/careers/job/563808971242156",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is missing, making it difficult to assess further details and match against requirements.",
+    "reason": "The job is for a software developer role, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "df1dd305",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT Front-End Developer",
@@ -32034,13 +32030,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=449&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a full-time IT Front-End Developer role at TSMC's Taiwan headquarters, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is software development focused (React.js, Angular, frontend web dev), which doesn't match Vineeth's background in power integrity, thermal analysis, and EDA tool integration.",
     "id": "265c3db4",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -32049,13 +32044,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Front-End-Developer%2F449",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is invalid and cannot be accessed for further evaluation.",
+    "reason": "The URL provided does not lead to a valid job posting - it redirects to LinkedIn's generic login/registration page. Unable to extract relevant details.",
     "id": "56e3655c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "product engineer jobs in San Jose, CA",
@@ -32064,13 +32058,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-product-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Product Engineer role, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The job is a non-technical Product Design Engineer role at Amazon, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "b64a9517",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lumentum Operations jobs in San Jose, CA",
@@ -32079,13 +32072,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-lumentum-operations-jobs-SRCH_IL.0,8_IC1147436_KO9,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role at a semiconductor company, which doesn't match our requirements.",
+    "reason": "The job is for operations roles at Lumentum, which falls under non-technical/non-engineering positions and is outside Vineeth's domain.",
     "id": "297e6158",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer - DCDC Design Center",
@@ -32094,28 +32086,26 @@
     "url": "https://www.glassdoor.com/job-listing/senior-design-engineer-dcdc-design-center-national-louis-university-JV_IC1140045_KO0,41_KE42,67.htm?jl=1010149767405",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Engineering Program Manager) at a semiconductor company. It does not fit the specified requirements for an engineering/technical position.",
+    "reason": "The job is for a university teaching position, which is outside Vineeth's technical engineering domain.",
     "id": "b5bc68f2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Plano, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Plano, TX",
     "url": "https://www.glassdoor.com/Job/plano-design-engineer-jobs-SRCH_IL.0,5_IC1140045_KO6,21.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company, which does not match our engineering/technical position requirement.",
+    "reason": "The job is located in Plano, TX which does not match the specified location priorities.",
     "id": "83b374b6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "National Louis University jobs in Plano, TX",
