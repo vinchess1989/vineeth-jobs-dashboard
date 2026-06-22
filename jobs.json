@@ -62144,13 +62144,12 @@
     "url": "https://uk.linkedin.com/jobs/view/system-integration-senior-manager-at-oxford-ionics-4391568805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a senior manager role overseeing system integration, not related to semiconductor/VLSI/EDA engineering.",
+    "reason": "The job is for a System Integration Senior Manager role at a quantum computing company, which does not directly match Vineeth's VLSI/EDA background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
     "id": "bf07f43b",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Product Designer",
@@ -62159,13 +62158,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-product-designer-at-sava-4428080346",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical product design role, not an engineering/technical position at a semiconductor company.",
+    "reason": "The role is primarily focused on product design for wearables and consumer products, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "8e01b9b6",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Analog Engineer",
@@ -62173,14 +62171,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-analog-engineer-at-renesas-electronics-4387425122",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for Analog design, not the listed domains of Power Integrity/Signal Integrity, Advanced Packaging, or CAD/Methodology.",
+    "matches_requirements": "yes",
+    "reason": "Matches Domain & Technical Area (Analog Design) and Leadership Role Exception criteria.",
     "id": "ef9b4c5c",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_staff_analog_engineer_ef9b4c5c.txt"
   },
   {
     "title": "Silicon Physical Design Engineer",
@@ -62188,14 +62185,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/silicon-physical-design-engineer-at-graphcore-4361947520",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior-level physical design engineering position at a semiconductor startup company.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "093c6469",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-20",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/graphcore_silicon_physical_design_engine_093c6469.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead Physical Design Engineer",
@@ -62204,13 +62200,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-physical-design-engineer-at-fractile-4428117739",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role strongly matches with the candidate's background and skills, especially in power integrity, advanced packaging, SoC PDN sign-off, and thermal analysis. The location is also a high-priority region.",
+    "reason": "The role involves leading physical design of ASIC/SoC, which fits Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "df428916",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/fractile_lead_physical_design_engineer_df428916.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/fractile_lead_physical_design_engineer_df428916.txt"
   },
   {
     "title": "Sr. Physical Design Engineer",
@@ -62218,14 +62213,13 @@
     "location": "Farnborough, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/sr-physical-design-engineer-at-mda-space-4378103669",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires over 8 years of experience in physical design engineering with expertise in ASIC and SoC development which is a strong match for Vineeth's background.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily VLSI/SoC design rather than Power Integrity and Advanced Packaging which is Vineeth's domain expertise.",
     "id": "9d44f72f",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/mda_space_sr__physical_design_engineer_9d44f72f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -62233,14 +62227,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-physical-design-engineer-at-cirrus-logic-4416701564",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior physical design engineer role at Cirrus Logic matches our target criteria, including location in Edinburgh, UK and expertise in mixed-signal SOC physical implementation.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on physical design, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "6cfd3f01",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cirrus_logic_senior_physical_design_enginee_6cfd3f01.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Server Physical Design Timing Engineer - Cambridge, UK",
@@ -62249,13 +62242,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cpu-server-physical-design-timing-engineer-cambridge-uk-at-qualcomm-4324487517",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the domain of CPU Server Physical Design and the location is Cambridge, UK.",
+    "reason": "The role is a CPU physical design timing engineer position with Qualcomm, which falls within Vineeth's domain of expertise in Power Integrity and Advanced Packaging. The job location is Cambridge, England.",
     "id": "d63eff33",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-02",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_cpu_server_physical_design_tim_d63eff33.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/qualcomm_cpu_server_physical_design_tim_d63eff33.txt"
   },
   {
     "title": "Lead QPU Design Engineer",
@@ -62264,13 +62256,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-qpu-design-engineer-at-quantum-motion-4409267377",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a quantum computing design engineer, which does not match the semiconductor/VLSI/EDA domain focus of our search criteria.",
+    "reason": "The role is focused on quantum processor unit (QPU) design for a quantum computing company, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "eb34f003",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-05-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Implementation Engineer",
@@ -62278,14 +62269,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-implementation-engineer-at-arm-4424549602",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a senior-level implementation engineer role at Arm, which matches the target criteria for Power Integrity/Advanced Packaging/CAD/Methodology roles with over 10 years of experience.",
+    "matches_requirements": "no",
+    "reason": "The role is for a general SoC implementation engineer, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "ab53a448",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/arm_senior_implementation_engineer_ab53a448.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Implementation Engineer",
