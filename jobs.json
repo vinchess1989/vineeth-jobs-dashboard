@@ -49236,13 +49236,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-bay-mortgage-services-4088160619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title and content do not match a semiconductor/VLSI/EDA role.",
+    "reason": "The job is for a physical design engineer role at a mortgage services company, which does not fit Vineeth's semiconductor/VLSI/EDA background.",
     "id": "7424aedd",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Physical Design",
@@ -49250,14 +49249,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/engineer-physical-design-at-renesas-electronics-4422669938",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role involves physical design, place & route, STA, and timing closure which aligns with Vineeth's key skills in Power Integrity (PI) / Signal Integrity (SI), CAD/Methodology and overlaps with the listed requirements.",
     "id": "70c7bc60",
     "source": "linkedin_india_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_engineer__physical_design_70c7bc60.txt"
   },
   {
     "title": "Physical Design Engineer",
@@ -49265,14 +49263,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-nsemi-design-services-india-pvt-ltd-4411038746",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves physical design engineering with experience in place & route flow, and working on complex semiconductor chip designs which fits the job requirements.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on physical design and layout, which falls outside Vineeth's core domain of Power Integrity and Advanced Packaging.",
     "id": "e46f9523",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nsemi_design_service_physical_design_engineer_e46f9523.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wireless Systems Engineer \u2013 PHY & RF",
@@ -49280,14 +49277,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/wireless-systems-engineer-%E2%80%93-phy-rf-at-qualcomm-4409937330",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software and systems engineering focused on wireless modem design, which does not directly align with Vineeth's power integrity, advanced packaging, and EDA tool expertise.",
     "id": "56ca478f",
     "source": "linkedin_india_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design - Design Lead",
@@ -49295,14 +49291,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-design-lead-at-tessolve-4344421312",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain and years of experience requirements for a senior physical design role at a semiconductor company in India.",
+    "matches_requirements": "no",
+    "reason": "The role is at a services/consulting company (Tessolve) rather than a semiconductor/EDA company. It's also located in India, not in one of the preferred locations.",
     "id": "1e58820d",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/tessolve_physical_design___design_lead_1e58820d.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Brand Manager",
@@ -49311,13 +49306,12 @@
     "url": "https://in.linkedin.com/jobs/view/brand-manager-at-procter-gamble-4403723068",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Brand Manager at Procter & Gamble, which is a non-technical role at a consumer goods company, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a non-technical marketing role at a consumer goods company, which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
     "id": "150e051f",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-05-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Physical Design",
@@ -49326,13 +49320,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-physical-design-at-microchip-technology-inc-4429260352",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for a Senior Physical Design Engineer at Microchip Technology Inc., matching the target domain and experience criteria.",
+    "reason": "The role involves physical design responsibilities for microcontrollers and wireless solutions at Microchip, aligning with Vineeth's background.",
     "id": "5a6e56a1",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/microchip_technology_principal_engineer___physical__5a6e56a1.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/microchip_technology_principal_engineer___physical__5a6e56a1.txt"
   },
   {
     "title": "Physical Therapist / Rehab Specialist",
@@ -49341,13 +49334,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-therapist-rehab-specialist-at-fitness-goal-4u-4405083176",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical wellness position, unrelated to semiconductor/VLSI/EDA work.",
+    "reason": "The role is a physical therapist position at a fitness center, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
     "id": "c8171c2e",
     "source": "linkedin_india_physical_design",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -49355,14 +49347,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-texas-instruments-india-4382494869",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a Digital Design Engineer, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
     "id": "f9587388",
     "source": "linkedin_india_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-02",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physiotherapist",
@@ -49371,13 +49362,12 @@
     "url": "https://in.linkedin.com/jobs/view/physiotherapist-at-thanal-4417878300",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Physiotherapist, which does not match the VLSI/EDA semiconductor technical domains.",
+    "reason": "The role is for a healthcare provider (physiotherapist) at a hospital, which is outside Vineeth's semiconductor/VLSI/EDA industry expertise.",
     "id": "78bba7fd",
     "source": "linkedin_india_physical_design_p2",
     "posted_date": "2023-05-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer | ASIC Physical Design Engineer (PnR/STA)",
