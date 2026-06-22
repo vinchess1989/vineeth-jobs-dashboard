@@ -47556,13 +47556,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-packaging-technical-engineer-hardware-at-nvidia-4408932991",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Candidate has relevant experience in Power Integrity, Advanced Packaging and is located in India which matches the target criteria.",
+    "reason": "The role involves advanced packaging work which is directly within Vineeth's experience and expertise.",
     "id": "c91182a4",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_packaging_technical_eng_c91182a4.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/nvidia_senior_packaging_technical_eng_c91182a4.txt"
   },
   {
     "title": "Senior Packaging Technical Engineer - Hardware",
@@ -47570,14 +47569,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-packaging-technical-engineer-hardware-at-nvidia-ai-4417250263",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the target domain of Advanced Packaging / Thermal and is located in Bengaluru, India.",
+    "matches_requirements": "maybe",
+    "reason": "Senior Packaging Technical Engineer role with 8+ years experience fits senior role criteria, but does not list specific domain expertise in power integrity or advanced packaging. Leadership exception applies.",
     "id": "0c906173",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-05-23",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_ai_senior_packaging_technical_eng_0c906173.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Package Design Staff to Senior Staff Engineer",
@@ -47586,13 +47584,12 @@
     "url": "https://in.linkedin.com/jobs/view/package-design-staff-to-senior-staff-engineer-at-marvell-technology-4425792988",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Senior Staff Engineer position focusing on package design, which matches Vineeth's experience in Power Integrity and Advanced Packaging.",
+    "reason": "Matches senior staff engineer role in package design with required skills in SI/PI and experience developing netlists, ball maps.",
     "id": "cde5b02c",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/marvell_technology_package_design_staff_to_senior_cde5b02c.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/marvell_technology_package_design_staff_to_senior_cde5b02c.txt"
   },
   {
     "title": "Staff Package Design Engineer",
@@ -47601,13 +47598,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-package-design-engineer-at-renesas-electronics-4425480234",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a package design engineering position at Renesas Electronics, which matches the candidate's background in power integrity and advanced packaging.",
+    "reason": "Matches Vineeth's background in Advanced Packaging and works for a semiconductor company.",
     "id": "ef4ed32b",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_staff_package_design_engineer_ef4ed32b.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/renesas_electronics_staff_package_design_engineer_ef4ed32b.txt"
   },
   {
     "title": "ASIC - Signal and Power Integrity Technical Leader - 10 to 16 Years - Bangalore/Chennai",
@@ -47616,13 +47612,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-signal-and-power-integrity-technical-leader-10-to-16-years-bangalore-chennai-at-cisco-4407442519",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches technical domain (Signal and Power Integrity), experience range (10-16 years), and location (Bengaluru, India).",
+    "reason": "The role is a technical leadership position that aligns well with Vineeth's background in Power Integrity and Advanced Packaging, making it an appropriate fit.",
     "id": "b0f70138",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/cisco_asic___signal_and_power_integr_b0f70138.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/cisco_asic___signal_and_power_integr_b0f70138.txt"
   },
   {
     "title": "Hardware Engineer - IC Package design team leader (12+ years)",
@@ -47630,14 +47625,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/hardware-engineer-ic-package-design-team-leader-12%2B-years-at-cisco-4404069886",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits a technical leadership position with 12+ years experience, in IC package design domain which matches the candidate's background.",
+    "matches_requirements": "no",
+    "reason": "The role is a senior hardware engineering leadership position, which falls outside Vineeth's domain.",
     "id": "10031e16",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-10",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/cisco_hardware_engineer___ic_package_10031e16.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Section Manager Yield / Intergration Engineering",
@@ -47646,13 +47640,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-section-manager-yield-intergration-engineering-at-globalfoundries-4403792791",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a technical leadership position managing yield and integration engineering, which aligns with the candidate's background. However, it does not directly match the specific technical domains like Power Integrity, Signal Integrity, CAD/Methodology, Physical Design, EDA Tools or SoC design listed in the requirements.",
+    "reason": "This role is primarily focused on managing a team in semiconductor manufacturing, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "c55e99d5",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-05-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Manager",
@@ -47661,13 +47654,12 @@
     "url": "https://in.linkedin.com/jobs/view/project-manager-at-infineon-technologies-4261032138",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Project Manager focused on overall project management rather than semiconductor/VLSI/EDA technical positions.",
+    "reason": "The role is primarily project management, which is outside Vineeth's domain of technical expertise in power integrity and advanced packaging.",
     "id": "883db892",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "End-of-Line (EOL) Manager",
@@ -47676,13 +47668,12 @@
     "url": "https://in.linkedin.com/jobs/view/end-of-line-eol-manager-at-asip-technologies-4422768924",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Production Management position, which does not fit the technical roles we are targeting.",
+    "reason": "The role is primarily focused on production and manufacturing rather than power integrity, advanced packaging, or EDA.",
     "id": "23b4a5f0",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SiC Wafer & Package Technology Development Engineer",
@@ -47691,13 +47682,12 @@
     "url": "https://de.linkedin.com/jobs/view/sic-wafer-package-technology-development-engineer-at-onsemi-4409779742",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a semiconductor manufacturing process development engineer with knowledge of package design, assembly processes and interactions with device. It does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "This is a non-technical role focused on technical and customer support for SiC wafer & package technology, which is outside Vineeth's power integrity and advanced packaging expertise.",
     "id": "ff0cae06",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum Advanced Packaging Engineer",
