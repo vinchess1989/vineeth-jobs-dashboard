@@ -32254,13 +32254,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86683?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for AMD, which does not fit the VLSI/EDA industry criteria.",
+    "reason": "The role is primarily focused on virtualization-based post-silicon validation of CPU cores, which falls under the verification domain and not directly within Vineeth's power integrity and advanced packaging expertise.",
     "id": "2a3bfc65",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Chip Architect for IC Development (f/m/div)Bucharest (Romania)HRC1233405HybridHybrid",
@@ -32269,28 +32268,26 @@
     "url": "https://www.infineon.com/careers/job/563808959916514",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL leads to a 404 error page, indicating the job posting is missing or incorrect.",
+    "reason": "The job URL (https://www.infineon.com/careers/job/563808959916514) did not load properly and could not be evaluated.",
     "id": "c3739fa5",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Validation Engineer (f/m/div)Lviv (Ukraine)129541Hybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Lviv, Ukraine",
     "url": "https://www.infineon.com/careers/job/563808970388232",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided returned a 404 error, indicating the job posting is likely invalid or no longer active.",
+    "reason": "The role is primarily software development (embedded software engineer) which does not match Vineeth's background in Power Integrity and Advanced Packaging. Also, it's located in Lviv, Ukraine.",
     "id": "03694bb2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Facilities EngineerSingapore, SingaporePosted 16 days ago",
@@ -32299,13 +32296,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42210958",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Facilities Engineer role, which does not match Vineeth's background in Power Integrity & Advanced Packaging.",
+    "reason": "This is a facilities engineering role focused on construction, utilities and site operations - very different from Vineeth's power integrity and advanced packaging expertise in semiconductor design and manufacturing.",
     "id": "01f235c0",
     "source": "micron_careers",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Software Engineer - Infrastructure",
@@ -32314,13 +32310,12 @@
     "url": "https://www.workatastartup.com/jobs/92950",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software infrastructure engineering role at a startup building AI agents, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is software infrastructure engineering for a startup AI company, not semiconductor/VLSI/EDA related.",
     "id": "2f345191",
     "source": "yc_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Founding Engineer (Full Stack)",
@@ -32329,13 +32324,12 @@
     "url": "https://www.workatastartup.com/jobs/96453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software engineering role at an AI startup, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "This is a founding engineer role at an AI startup, which does not match Vineeth's expertise in semiconductor, VLSI, EDA.",
     "id": "4f6d7394",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "apply now",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Hardware Engineer",
@@ -32344,28 +32338,12 @@
     "url": "https://www.workatastartup.com/jobs/94035",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Founding Hardware Engineer at a startup, which does not match the semiconductor/VLSI/EDA industry job requirements.",
+    "reason": "The role is for a founding hardware engineer at a startup, which does not match Vineeth's job search criteria.",
     "id": "4b5d60e8",
     "source": "yc_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Software Engineering Intern",
-    "company": "Seeing Systems",
-    "location": "London, England, GB",
-    "url": "https://www.workatastartup.com/jobs/94623",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Software Engineering Intern focused on AI and Robotics, not related to Semiconductor/VLSI/EDA domains.",
-    "id": "d7431504",
-    "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer",
@@ -32374,13 +32352,12 @@
     "url": "https://www.workatastartup.com/jobs/95573",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Founding Design Engineer at a startup named Cardboard, which does not match the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is for a video editor/designer at a startup, which does not match Vineeth's semiconductor/EDA/VLSI technical background.",
     "id": "d6d6489c",
     "source": "yc_semi",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Full Stack AI Engineer",
@@ -32389,13 +32366,12 @@
     "url": "https://www.workatastartup.com/jobs/95289",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a full stack AI engineer at a life sciences company, which does not match our semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "The role is for a software engineer working on AI applications, which does not match Vineeth's semiconductor/VLSI/EDA background in power integrity and advanced packaging.",
     "id": "01b6822e",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Engineer",
