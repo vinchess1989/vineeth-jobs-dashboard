@@ -33486,13 +33486,12 @@
     "url": "https://www.workatastartup.com/jobs/san-francisco/product-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product management role at a startup, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is a product management position at Y Combinator, which is focused on startups and does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "f281737d",
     "source": "yc_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Engineer Jobs in New York",
@@ -33501,13 +33500,12 @@
     "url": "https://www.workatastartup.com/jobs/new-york/software-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job postings are for a wide variety of software engineering roles at Y Combinator startups, not specifically in semiconductor/VLSI/EDA domains.",
+    "reason": "The role is for a software engineer at startup companies, which is outside Vineeth's domain.",
     "id": "52fc5615",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Manager Jobs in New York",
@@ -33516,13 +33514,12 @@
     "url": "https://www.workatastartup.com/jobs/new-york/product-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is a marketing role rather than a technical semiconductor/VLSI/EDA engineering or leadership role.",
+    "reason": "The role is non-technical (Product Manager) and is at a startup, which does not match Vineeth's domain.",
     "id": "3f42ee08",
     "source": "yc_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer Jobs in Los Angeles",
@@ -33531,13 +33528,12 @@
     "url": "https://www.workatastartup.com/jobs/los-angeles/software-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic job aggregator page listing many different software engineer positions at various Y Combinator-backed startups, without specific details. It does not mention anything about semiconductor/VLSI/EDA industry.",
+    "reason": "The role is a software development position, which does not match Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "8b36ec9d",
     "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Manager Jobs in Los Angeles",
@@ -33546,13 +33542,12 @@
     "url": "https://www.workatastartup.com/jobs/los-angeles/product-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Product Manager role, which is non-technical per requirements.",
+    "reason": "The role is for a Product Manager at a startup job board, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "9f86bfea",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Software Engineer Jobs",
@@ -33561,13 +33556,12 @@
     "url": "https://www.workatastartup.com/jobs/r/software-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software engineer position at various startups, which does not match the required technical domain in semiconductor/VLSI/EDA.",
+    "reason": "This is a software engineering role at a startup, which does not match Vineeth's background in Power Integrity and VLSI.",
     "id": "ef8886c0",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Design & UI/UX Jobs",
@@ -33576,13 +33570,12 @@
     "url": "https://www.workatastartup.com/jobs/r/designer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The jobs listed are for design roles at various Y Combinator startup companies, but they do not directly match the technical domains specified in the job requirements.",
+    "reason": "The jobs are all for startup remote design roles, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "131a1180",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevSecOps Engineer Jobs",
@@ -33591,28 +33584,26 @@
     "url": "https://builtin.com/jobs/cybersecurity-it/search/devsecops-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a DevSecOps Engineer, which does not match the specified technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "This is a software engineering role focused on DevSecOps and security, not related to semiconductor/VLSI/EDA.",
     "id": "f3494980",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-14",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Editor Jobs",
-    "company": "Extract from page",
+    "company": "EverAI",
     "location": "Helsinki, Finland",
     "url": "https://builtin.com/jobs/content/search/editor",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job postings listed are for editors, which is a non-technical role. The job requirements state that we only want engineering/technical positions.",
+    "reason": "This is a software development role, not a semiconductor/VLSI/EDA technical position.",
     "id": "9eec3b74",
     "source": "builtin_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering Jobs",
@@ -33621,13 +33612,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/electrical-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general electrical engineering job listing that does not fit the specific semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is software engineering focused (embedded, Android) and does not match Vineeth's domain of power integrity, advanced packaging and EDA tools.",
     "id": "3b2f46fe",
     "source": "builtin_semi",
     "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Software Engineer Jobs",
