@@ -38035,29 +38035,27 @@
     "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/staff-engineer-digital-ic-design-marvell-technology-JV_IC1147439_KO0,32_KE33,51.htm?jl=1010163507010",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior leadership role with 15+ years of experience in digital IC design, matching key technical domains.",
+    "matches_requirements": "no",
+    "reason": "The job is for a digital IC design staff engineer role which does not directly match Vineeth's areas of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "a80a61b8",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/marvell_technology_staff_engineer__digital_ic_des_a80a61b8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "digital design engineer jobs in Santa Clara, CA",
-    "company": "Extract from page",
+    "company": "Amazon Devices-Hardware",
     "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-digital-design-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,35.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Santa Clara, CA which does not match one of the preferred locations.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which falls outside Vineeth's domain.",
     "id": "26cdf72c",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marvell Technology jobs in Santa Clara, CA",
@@ -38066,13 +38064,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-marvell-technology-jobs-SRCH_IL.0,11_IC1147439_KO12,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is for a search result page, not a specific job posting.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "c79023bf",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Mechatronics Systems Design Engineer (E)",
@@ -38081,13 +38078,12 @@
     "url": "https://www.glassdoor.com/job-listing/mechatronics-systems-design-engineer-e-kla-JV_IC1147428_KO0,38_KE39,42.htm?jl=1010167379260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechatronics Systems Design Engineer and does not match the VLSI/EDA job requirements.",
+    "reason": "The job is for a Mechatronics Systems Design Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "8b4e7394",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "systems engineer jobs in Milpitas, CA",
@@ -38096,13 +38092,12 @@
     "url": "https://www.glassdoor.com/Job/milpitas-systems-engineer-jobs-SRCH_IL.0,8_IC1147428_KO9,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role, which does not match the semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "This is a general systems engineer role at an unspecified company, which does not match Vineeth's specific background and skills in Power Integrity, Advanced Packaging, SoC PDN sign-off, CAD Methodology, or EDA tools.",
     "id": "3a37cafe",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -38111,13 +38106,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-tessera-labs-4430041218",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Design Engineer role at a semiconductor company, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "This is a front-end software engineering role, not semiconductor/VLSI/EDA.",
     "id": "f1762b39",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Early Career Design Engineer (0-3 years experience)",
@@ -38126,13 +38120,12 @@
     "url": "https://www.linkedin.com/jobs/view/early-career-design-engineer-0-3-years-experience-at-kpff-consulting-engineers-4431164296",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level civil engineering role with no match for semiconductor/VLSI/EDA experience.",
+    "reason": "The role is for a civil/structural engineering design position at a consulting firm, which is outside Vineeth's semiconductor/VLSI/EDA technical domain.",
     "id": "be207b48",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer III",
@@ -38141,13 +38134,12 @@
     "url": "https://www.glassdoor.com/job-listing/mechanical-engineer-iii-applied-materials-JV_IC1139761_KO0,23_KE24,41.htm?jl=1010155719090",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Mechanical Engineer role at Applied Materials, which does not match the semiconductor/VLSI/EDA technical requirements.",
+    "reason": "The role is for a Mechanical Engineer, which is unrelated to VLSI/EDA/semiconductor domains.",
     "id": "895eadce",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Software Engineer",
@@ -38156,28 +38148,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=508&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Principal Software Engineer position at TSMC in Taiwan, which does not match the specified technical domains.",
+    "reason": "This software engineer role at TSMC is more focused on cloud-native services development rather than Vineeth's areas of expertise in Power Integrity, Advanced Packaging and EDA.",
     "id": "2aba9071",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "TSMC",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FPrincipal-Software-Engineer%2F508",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Principal Software Engineer at TSMC, which falls outside the listed technical domains and does not match the candidate profile.",
+    "reason": "The job is for a software engineer position, which falls outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "537304dd",
     "source": "tsmc_careers",
     "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior AI Engineer (AI4BI)",
