@@ -12822,28 +12822,26 @@
     "url": "https://www.glassdoor.com/job-listing/manufacturing-engineer-chelmsford-ma-lockheed-martin-JV_IC1154550_KO0,36_KE37,52.htm?jl=1010154111092",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Manufacturing Engineer, which does not fit the technical domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is manufacturing-focused, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "fe5723ab",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "manufacturing engineer jobs in Chelmsford, MA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Deloitte",
+    "location": "Boston, MA, USA",
     "url": "https://www.glassdoor.com/Job/chelmsford-manufacturing-engineer-jobs-SRCH_IL.0,10_IC1154550_KO11,33.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a manufacturing engineer position, which does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership specified in the job search requirements.",
+    "reason": "The job is for a software engineering role focused on API management, EDI implementation and integration development - this is outside Vineeth's core areas of Power Integrity, Advanced Packaging and SoC PDN sign-off.",
     "id": "b2489fd3",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chelmsford, MA jobs",
@@ -12852,13 +12850,12 @@
     "url": "https://www.glassdoor.com/Job/chelmsford-jobs-SRCH_IL.0,10_IC1154550.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing on Glassdoor is for a general search of jobs in Chelmsford, MA and does not match the specific technical domains required for semiconductor/VLSI/EDA roles.",
+    "reason": "The job posting is for a non-technical HR role, which does not match Vineeth's engineering background.",
     "id": "fbb357d4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lockheed Martin jobs in Chelmsford, MA",
@@ -12867,13 +12864,12 @@
     "url": "https://www.glassdoor.com/Job/chelmsford-lockheed-martin-jobs-SRCH_IL.0,10_IC1154550_KO11,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical HR role, which does not match the specified criteria.",
+    "reason": "The job listing appears to be for a technical support role at Lockheed Martin, which is outside Vineeth's domain of expertise in semiconductor, VLSI, and EDA.",
     "id": "532447c4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "research engineer jobs in Goleta, CA",
@@ -12882,43 +12878,40 @@
     "url": "https://www.glassdoor.com/Job/goleta-research-engineer-jobs-SRCH_IL.0,6_IC1147467_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in research engineering at a company that was not explicitly stated.",
+    "reason": "This research engineer role at an unspecified company is a general software engineering position, not specific to semiconductor/VLSI/EDA technical domains. It does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "4962ab48",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Goleta, CA jobs",
     "company": "Glassdoor",
-    "location": "Extract from page",
+    "location": "Goleta, CA, USA",
     "url": "https://www.glassdoor.com/Job/goleta-jobs-SRCH_IL.0,6_IC1147467.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for non-technical roles such as HR, Finance and Marketing, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "This is a general Glassdoor search result for all jobs in Goleta, CA and does not match specific job requirements.",
     "id": "2741c8d5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lockheed Martin jobs in Goleta, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Lockheed Martin",
+    "location": "Goleta, CA, USA",
     "url": "https://www.glassdoor.com/Job/goleta-lockheed-martin-jobs-SRCH_IL.0,6_IC1147467_KO7,22.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided was blocked by Glassdoor's security systems and could not be accessed for evaluation.",
+    "reason": "The role is not within Vineeth's domain of expertise - it requires a US security clearance and does not match any of his key skills.",
     "id": "04ad5b2d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Goleta, CA",
@@ -12927,13 +12920,12 @@
     "url": "https://www.glassdoor.com/Job/goleta-process-engineer-jobs-SRCH_IL.0,6_IC1147467_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic job search results page, not a specific job posting.",
+    "reason": "The role is an entry-level process engineer position which does not match Vineeth's senior technical leadership background in Power Integrity, Advanced Packaging and SoC Design.",
     "id": "ff920e58",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Find out",
@@ -12942,13 +12934,12 @@
     "url": "https://www.infineon.com/cms/en/careers/application/application-students/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for general application instructions, not a specific technical role within semiconductor/VLSI/EDA.",
+    "reason": "This is a general application process for students, internships, and PhD positions at Infineon, but does not specify a particular job opening matching Vineeth's profile.",
     "id": "c98dce8e",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Discover",
@@ -12957,13 +12948,12 @@
     "url": "https://www.infineon.com/cms/en/careers/students/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general call for students, not specific job postings with requirements matching the target profile.",
+    "reason": "The job posting is for a non-technical student internship/employment role at Infineon, which does not match Vineeth's engineering background in semiconductor VLSI EDA.",
     "id": "553a3fc8",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Working Student - AI Automation & Data Analytics (f/m/div) Munich (Germany)HRC1672716Hybrid",
