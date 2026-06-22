@@ -32800,13 +32800,12 @@
     "url": "https://it.linkedin.com/jobs/view/pcb-pcba-designer-at-sii-group-italy-4426494383",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a PCB-PCBA Designer position, which does not match the specified technical domains like Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, or VLSI / SoC Design.",
+    "reason": "The role is for a PCB-PCBA Designer, which is electronic hardware design and falls outside Vineeth's VLSI/EDA semiconductor domain expertise.",
     "id": "187a5ad4",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Manager for PCB and Mechanical Engineering",
@@ -32815,13 +32814,12 @@
     "url": "https://de.linkedin.com/jobs/view/r-d-manager-for-pcb-and-mechanical-engineering-at-keysight-technologies-4413613950",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a R&D Manager focusing on PCB and Mechanical Engineering, which does not directly match the VLSI/EDA job requirements.",
+    "reason": "Not a semiconductor/VLSI/EDA role, but general PCB and mechanical engineering R&D management.",
     "id": "b3a4339f",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-04-06",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Manufacturing Technician - Soldering",
@@ -32830,13 +32828,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-technician-soldering-at-thales-4407893123",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing technician position focusing on soldering, not matching the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role requires SC clearance with no restrictions, which disqualifies it based on the candidate's profile.",
     "id": "d236daff",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Nanofabrication Engineer",
@@ -32845,13 +32842,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-nanofabrication-engineer-at-oxford-quantum-circuits-oqc-4419889459",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for quantum processor nanofabrication, not VLSI/EDA/semiconductor domains like PI/SI, advanced packaging, or CAD.",
+    "reason": "The role is primarily in nanofabrication engineering and device physics, not Power Integrity or EDA tool applications.",
     "id": "4d5ad749",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
@@ -32859,14 +32855,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4430902756",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Portfolio Manager role with Power Electronics focus, based in Finland. Lacks direct technical domain matches but has some leadership overlap.",
+    "matches_requirements": "no",
+    "reason": "This role is for a product management position focused on electrification engineering, which is a bit different from Vineeth's background in power integrity and advanced packaging.",
     "id": "0f735a61",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Portfolio Manager, Power Electronics",
@@ -32874,14 +32869,13 @@
     "location": "Tampere, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-portfolio-manager-power-electronics-at-danfoss-4430907700",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Portfolio Manager role focuses on power electronics product lifecycle and strategy, which partially matches target domains of Power Integrity/PI, Advanced Packaging, CAD Methodology.",
+    "matches_requirements": "no",
+    "reason": "The job is not in the semiconductor/VLSI/EDA domain, but in power electronics.",
     "id": "2c3bc696",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. MEMS Development Engineer",
@@ -32890,13 +32884,12 @@
     "url": "https://fi.linkedin.com/jobs/view/sr-mems-development-engineer-at-sitime-4344812674",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a non-technical Senior MEMS Development Engineer role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily MEMS development rather than semiconductor/VLSI/EDA.",
     "id": "624a86ff",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead New Product Introduction Engineer - Power Electronics",
@@ -32905,13 +32898,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-new-product-introduction-engineer-power-electronics-at-ge-vernova-4359693862",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is focused on FACTS (STATCOM, SVC) and power electronics valve technology rather than semiconductor VLSI/EDA.",
+    "reason": "Not a technical role related to semiconductor, VLSI, EDA; instead focused on power electronics product development.",
     "id": "b36f7f60",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Product Engineering",
@@ -32920,13 +32912,12 @@
     "url": "https://fi.linkedin.com/jobs/view/manager-product-engineering-at-fiskars-group-4420411015",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general product engineering management role, not specifically focused on semiconductor/EDA/VLSI technical domains.",
+    "reason": "The role is for a product engineering manager with experience in consumer products, and involves hands-on leadership of an engineering team. This is outside Vineeth's domain of semiconductor/VLSI/EDA technical expertise.",
     "id": "744291c4",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-16",
     "deadline": "2026-06-29",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Research Engineer",
@@ -32934,14 +32925,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-research-engineer-at-silicon-labs-4417616835",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Research Engineer role matches target domain of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on research and development of advanced wireless locationing algorithms, which does not directly align with Vineeth's expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, or CAD Methodology.",
     "id": "392fe2f6",
     "source": "linkedin_semi_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/silicon_labs_senior_research_engineer_392fe2f6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Product Engineering",
