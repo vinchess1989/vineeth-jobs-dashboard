@@ -21679,18 +21679,17 @@
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "TSMC",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFacilities-Technician-Betriebstechniker-Mechanical-Systems-m-f-d%2F16526",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical facilities role, not a semiconductor/VLSI/EDA engineering position.",
     "id": "e555ee2a",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Intelligent Manufacturing Engineer (Kaohsiung)",
@@ -21699,28 +21698,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=15465&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a manufacturing engineer role, not the VLSI/EDA technical roles we are targeting.",
+    "reason": "This is a manufacturing engineering role at TSMC, which is outside Vineeth's CAD/EDA technical background.",
     "id": "d8c7525d",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "TSMC",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIntelligent-Manufacturing-Engineer-Kaohsiung%2F15465",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is not within Vineeth's domain of expertise - it is primarily focused on manufacturing and does not involve technical aspects like Power Integrity, Advanced Packaging, or EDA tools.",
     "id": "88c6a355",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Programmable Logic (PL) Engineer",
@@ -21729,13 +21726,12 @@
     "url": "https://www.linkedin.com/jobs/view/programmable-logic-pl-engineer-at-viasat-4421309128",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Programmable Logic Engineer, which does not match the VLSI/EDA/semiconductor domain.",
+    "reason": "The role is primarily software development (embedded software, firmware engineer) which is outside Vineeth's domain.",
     "id": "d1d9cc43",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC/FPGA Engineer 2",
@@ -21744,13 +21740,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-fpga-engineer-2-at-nokia-4374510453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Westford, MA, USA which does not match the criteria.",
+    "reason": "The role is primarily FPGA design with networking products, which does not match Vineeth's background in Power Integrity and Advanced Packaging. Also, it's a US-based position without visa sponsorship.",
     "id": "03baf452",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Firmware Engineer",
@@ -21759,13 +21754,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-firmware-engineer-at-alten-technology-usa-4418007490",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Firmware Engineer, which does not match the key domains of Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis in Semiconductor / VLSI / EDA",
+    "reason": "The role is primarily software development (firmware engineer) which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA tooling.",
     "id": "1112835b",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -21774,13 +21768,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-leidos-4405185198",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an FPGA Engineer position which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "1df4631c",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-04-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -21789,13 +21782,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-engineer-at-draper-4414726753",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a non-technical role at a semiconductor company.",
+    "reason": "This role is focused on FPGA design rather than semiconductor process, packaging, or EDA CAD tools, which falls outside Vineeth's main area of expertise in Power Integrity and Advanced Packaging.",
     "id": "8c3ca10b",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer, Amazon LEO OISL",
@@ -21804,13 +21796,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-amazon-leo-oisl-at-amazon-4404518882",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Redmond, WA USA which requires US residency. It also explicitly states 'At Amazon you can expect to earn competitive pay, excellent benefits and opportunities for professional growth.' This does not fit our semiconductor/VLSI/EDA job search requirements.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain. Also, it requires experience with ASIC design and verification tools, which is not mentioned in his background.",
     "id": "22e12a5d",
     "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -21819,13 +21810,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-astranis-space-technologies-4427208931",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an FPGA role focused on software defined radios, avionics and ground systems for satellites, which does not match our semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily software development (DSP/radio algorithm designer, interface with embedded firmware and software engineers) rather than semiconductor/VLSI/EDA.",
     "id": "0eac02e2",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA/Firmware Engineer",
