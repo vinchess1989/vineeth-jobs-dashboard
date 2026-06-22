@@ -72055,14 +72055,13 @@
     "location": "Taichung City, Taichung City, Taiwan",
     "url": "https://tw.linkedin.com/jobs/view/product-yield-enhancement-pye-engineer-at-micron-technology-4424204167",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job requires semiconductor process failure analysis, but doesn't list specific power integrity skills. It's a maybe match in domain and experience level.",
+    "matches_requirements": "yes",
+    "reason": "The role involves semiconductor process and packaging analysis, with a strong overlap with Vineeth's power integrity and advanced packaging expertise.",
     "id": "2a829f5d",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology_product_yield_enhancement__pye_2a829f5d.txt"
   },
   {
     "title": "Design Verification Engineer- Tile",
@@ -72071,13 +72070,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-tile-at-cerebras-4371065280",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Design Verification Engineer role at Cerebras, which does not match Vineeth's key skills and experience in Power Integrity & Advanced Packaging.",
+    "reason": "The role is primarily software development (GPU-based hyperscale cloud inference services) which is outside Vineeth's domain.",
     "id": "4febfbc8",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-05-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -72086,13 +72084,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-r-d-engineer-vlsi-physical-design-new-college-grad-2026-at-nvidia-4424480486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role specifically requires a new college grad with 2026 graduation date, which does not match Vineeth's 15 years of experience. Also, it is in Austin, TX.",
+    "reason": "The role is software development focused, not VLSI/EDA.",
     "id": "7528bcaa",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2023-05-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Program - Ing\u00e9nieur Mat\u00e9riel",
@@ -72101,13 +72098,12 @@
     "url": "https://fr.linkedin.com/jobs/view/graduate-program-ing%C3%A9nieur-mat%C3%A9riel-at-vinci-construction-france-4430376332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a graduate program for mechanical engineering rather than a technical role in semiconductor/VLSI/EDA.",
+    "reason": "The job is for an engineering role in construction materials, unrelated to semiconductors/VLSI/EDA.",
     "id": "35d4a82f",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "GPU Top Level Physical Design Engineer",
@@ -72116,13 +72112,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gpu-top-level-physical-design-engineer-at-apple-4414165432",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job is a match for our target domain of Physical Design, with the right experience level and location.",
+    "reason": "Matches technical leadership role with strong physical design experience, good match for Vineeth's PI and packaging background.",
     "id": "6be616cf",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_gpu_top_level_physical_design__6be616cf.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/apple_gpu_top_level_physical_design__6be616cf.txt"
   },
   {
     "title": "Immediate hiring for PD Engineers ( Noida & BLR Location)",
@@ -72131,13 +72126,12 @@
     "url": "https://in.linkedin.com/jobs/view/immediate-hiring-for-pd-engineers-noida-blr-location-at-modernize-chip-solutions-mcs-4425978008",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches the PD Engineer role with required years of experience and skills in RedHawk/Voltus, CAD/Methodology domain",
+    "reason": "The role is for a Physical Design Engineer at a semiconductor company with requirements matching Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "0019f2a9",
     "source": "linkedin_india_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/modernize_chip_solut_immediate_hiring_for_pd_engine_0019f2a9.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/modernize_chip_solut_immediate_hiring_for_pd_engine_0019f2a9.txt"
   },
   {
     "title": "Analog layout Engineer",
@@ -72146,28 +72140,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-layout-engineer-at-acl-digital-4206443454",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match the target domains of Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "This analog layout engineer role does not match Vineeth's areas of expertise in Power Integrity, Advanced Packaging and CAD Methodology. It is outside his domain.",
     "id": "d0d7d2d6",
     "source": "linkedin_india_asic_design",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior ASIC Designer",
-    "company": "Professional Galaxy AB",
-    "location": "Stockholm, Stockholm County, Sweden",
-    "url": "https://se.linkedin.com/jobs/view/senior-asic-designer-at-professional-galaxy-ab-4321249513",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Requires on-site work in Stockholm, prioritizing candidates who can commute to office 3 days per week, which does not match the fully remote or flexible location criteria.",
-    "id": "265e2680",
-    "source": "linkedin_eu_asic_design",
-    "posted_date": "2026-01-15",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Analog / Mixed Signal IC Design, Brain-Computer Interfaces",
@@ -72175,14 +72153,13 @@
     "location": "Gr\u00e4felfing, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/head-of-analog-mixed-signal-ic-design-brain-computer-interfaces-at-futrue-4426865168",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a senior leadership position overseeing analog/mixed-signal IC design for Brain-Computer Interfaces, which does not match the technical domains specified in the job requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Leadership role with some overlap in analog/mixed signal IC design and semiconductor domain.",
     "id": "c55aafd6",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Design Engineer",
@@ -72191,13 +72168,12 @@
     "url": "https://uk.linkedin.com/jobs/view/layout-design-engineer-at-sp-electricity-north-west-4430955221",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electrical Layout Design Engineer focused on power network infrastructure, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily electrical engineering focused on utility networks, which does not match Vineeth's semiconductor/VLSI/EDA background in power integrity and advanced packaging.",
     "id": "b08cc305",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
