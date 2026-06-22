@@ -35278,13 +35278,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-specialist-talent-attraction-at-infineon-technologies-4430948839",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Talent Attraction Specialist focused on Embedded Systems/VLSI, which does not directly match the required technical domains of Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or SoC Design.",
+    "reason": "The role is a Talent Acquisition Specialist focusing on recruiting for Embedded Systems/VLSI, which does not match Vineeth's areas of expertise in Power Integrity and Advanced Packaging.",
     "id": "d0fba482",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Shift Left/UMC Lab Liaison",
@@ -35293,13 +35292,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87316?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Austin, Texas which does not match the preferred locations mentioned.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "cf102eb9",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU RTL Power Engineer",
@@ -35308,13 +35306,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-rtl-power-engineer-at-qualcomm-4429656887",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency, which conflicts with our preference for remote roles without location-specific restrictions.",
+    "reason": "The role is primarily RTL (Register Transfer Level) design and power estimation for CPU modules, which does not match Vineeth's domain of Power Integrity (PI), Advanced Packaging, CAD Methodology, etc.",
     "id": "27a5a8d6",
     "source": "linkedin_rtl_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Manager Software Development",
@@ -35323,13 +35320,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87132?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a management position focused on graphics research strategy and does not directly match the technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development focused on GPU architecture, rendering technologies and graphics algorithms - outside Vineeth's power integrity, advanced packaging domain.",
     "id": "c030ccbb",
     "source": "amd_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-23",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Silicon Design Engineer 1",
@@ -35337,14 +35333,13 @@
     "location": "New Dehli, India",
     "url": "https://careers.amd.com/careers-home/jobs/87062?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Silicon Design Engineer with experience in design verification and SoC architecture, fitting the target technical domains.",
+    "matches_requirements": "no",
+    "reason": "The job is located in New Dehli, India which does not match the high priority locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland).",
     "id": "797559c5",
     "source": "amd_careers",
     "posted_date": "2023-05-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_silicon_design_engineer_1_797559c5.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Strategic IT Buyer / Strategischer IT Eink\u00e4ufer (m/f/d)",
@@ -35353,13 +35348,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21841&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a strategic IT buyer, which does not match the technical roles in Power Integrity, Advanced Packaging, CAD/Methodology, etc. that we are looking to find.",
+    "reason": "The role is primarily focused on IT procurement for a semiconductor fab construction project, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and EDA tools.",
     "id": "8c9653c3",
     "source": "tsmc_careers",
     "posted_date": "2023-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -35367,14 +35361,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FStrategic-IT-Buyer-Strategischer-IT-Eink-ufer-m-f-d%2F21841",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a non-technical sales role, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "matches_requirements": "yes",
+    "reason": "Matches domain of Power Integrity, years of experience, and remote worldwide location.",
     "id": "cade10ec",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_cade10ec.txt"
   },
   {
     "title": "Testing and Electrical Failure Analysis (EFA) Engineer",
@@ -35383,13 +35376,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5294&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a non-technical role at a semiconductor company.",
+    "reason": "The role is primarily focused on testing, FA and debug which falls outside Vineeth's domain of power integrity, advanced packaging, and CAD methodology.",
     "id": "b4bc6643",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -35398,13 +35390,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTesting-and-Electrical-Failure-Analysis-EFA-Engineer%2F5294",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position in HR at a semiconductor company, which violates the hard rejection criteria.",
+    "reason": "The job is for a general software engineer position at LinkedIn, which does not fit Vineeth's technical background and experience.",
     "id": "6ba6e4f1",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Planning Modeling Engineer",
@@ -35413,13 +35404,12 @@
     "url": "https://www.glassdoor.com/job-listing/global-planning-modeling-engineer-micron-technology-JV_IC1127927_KO0,33_KE34,51.htm?jl=1010150526161",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires experience with physical design and advanced packaging, but the candidate profile does not match these areas of expertise.",
+    "reason": "The role is software engineering focused on modeling for Micron's global planning systems, which does not match Vineeth's power integrity, advanced packaging, and CAD expertise.",
     "id": "f790fd6d",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "reservoir engineer jobs in Boise, ID",
