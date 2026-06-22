@@ -53240,13 +53240,12 @@
     "url": "https://de.linkedin.com/jobs/view/cad-physical-design-engineer-m-f-d-at-apple-4423932196",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a physical design engineer position, which does not match the requirements of focusing on Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily PNR-CAD automation, which is outside Vineeth's power integrity and advanced packaging domains.",
     "id": "bace66d9",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-05-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardwareingenieur Typtest (all gender)",
@@ -53255,13 +53254,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardwareingenieur-typtest-all-gender-at-alten-germany-4425770026",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on hardware testing and does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a hardware testing engineer, which does not align with Vineeth's power integrity and advanced packaging focus.",
     "id": "369cdbb2",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital Design Verification Engineer",
@@ -53270,13 +53268,12 @@
     "url": "https://de.linkedin.com/jobs/view/digital-design-verification-engineer-at-ferroelectric-memory-company-4407198195",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Digital Design Verification Engineer specializing in ASIC and memory design verification, which does not match the job requirements in the profile.",
+    "reason": "The role is primarily focused on verification (SystemVerilog, UVM methodology) and is outside Vineeth's domain of Power Integrity & Advanced Packaging.",
     "id": "0c719726",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ingenieur (m/w/d) f\u00fcr PCB-Layout",
@@ -53285,13 +53282,12 @@
     "url": "https://de.linkedin.com/jobs/view/ingenieur-m-w-d-f%C3%BCr-pcb-layout-at-diehl-defence-4409687465",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an electrical engineering role at a defense company in Germany, which does not match semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for PCB layout engineering with focus on EMC, SI/PI and manufacturing standards rather than semiconductor VLSI/EDA.",
     "id": "49fcf473",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-05-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardwareingenieur Typtest (all gender)",
@@ -53299,14 +53295,13 @@
     "location": "Berlin, Germany",
     "url": "https://de.linkedin.com/jobs/view/hardwareingenieur-typtest-all-gender-at-alten-germany-4424885755",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a hardware test engineer position, focusing on EMC and safety testing of digital protection and field devices. This does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "081622bc",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "2023-06-20",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Intern (Application Specialists and Knowledge Team))",
@@ -53315,13 +53310,12 @@
     "url": "https://ie.linkedin.com/jobs/view/intern-application-specialists-and-knowledge-team-at-cadence-4414485837",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an intern in application specialists and knowledge team, which does not match the technical domains of VLSI/EDA.",
+    "reason": "The role is primarily focused on technical support and training, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and CAD/Methodology expertise.",
     "id": "3c903f6c",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PMU Design Verification Engineer (m/f/d)",
@@ -53330,13 +53324,12 @@
     "url": "https://de.linkedin.com/jobs/view/pmu-design-verification-engineer-m-f-d-at-apple-4414163499",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is non-technical, not related to semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is primarily verification (UVM, testbench development), which is outside Vineeth's domain.",
     "id": "280bbcdc",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -53344,14 +53337,13 @@
     "location": "Rijswijk, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/design-verification-engineer-at-ic-resources-4424186493",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a close match for a Senior Design Verification Engineer with mixed-signal experience, but lacks specific PI/SI skills. It could be expanded to fit.",
+    "matches_requirements": "no",
+    "reason": "This is a general Design Verification Engineer role, not specific to Power Integrity, Packaging or Physical Design which are Vineeth's key domains.",
     "id": "17dbc0be",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer Automotive (all gender)",
@@ -53360,13 +53352,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-engineer-automotive-all-gender-at-alten-germany-4413695459",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a hardware role focused on automotive electrical design and systems integration, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily hardware development focused on automotive applications, which does not closely match Vineeth's power integrity and advanced packaging expertise.",
     "id": "54da7fdc",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer, Amazon Camera ASIC Team",
@@ -53374,14 +53365,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/asic-design-engineer-amazon-camera-asic-team-at-amazon-4400320349",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior-level ASIC design role with 10+ years of experience, fits within priority technical domain and location preferences.",
+    "matches_requirements": "no",
+    "reason": "The job is primarily verification focused which is outside Vineeth's domain.",
     "id": "9166dc31",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amazon_asic_design_engineer__amazon_c_9166dc31.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer (AP)",
