@@ -66008,13 +66008,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-design-engineer-hardware-engineer-at-maven-securities-4409281066",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer in a trading firm, which is outside our semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is primarily software development (trading systems, financial market data) and does not match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "b368b1ae",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-02-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal FPGA Engineer",
@@ -66022,14 +66021,13 @@
     "location": "Hampshire, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-fpga-engineer-at-x4-technology-4420146673",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a FPGA engineering role focused on AI hardware acceleration, which does not directly match the VLSI/EDA/semiconductor technical domains we are targeting.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with FPGA experience, but domain is unclear as it doesn't mention semiconductor/EDA/VLSI",
     "id": "52c7c68b",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -66038,13 +66036,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-design-engineer-at-leonardo-4416907109",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an FPGA Design Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership.",
+    "reason": "The role is primarily FPGA design focused, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "6dfe4b0b",
     "source": "linkedin_uk_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Emulation Engineer",
@@ -66053,13 +66050,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-emulation-engineer-at-ic-resources-4427708364",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on FPGA prototyping, architecture evaluation and system-level testing, which does not match the key domains of Power Integrity (PI), Advanced Packaging, or CAD Methodology that Vineeth Prathapachandra Kaimal specializes in.",
+    "reason": "This FPGA Prototyping Engineer role focuses on early-stage proof-of-concept development and architectural evaluation using FPGA platforms, which does not match Vineeth's core domain of Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "bfbabed1",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-06",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Development Tools Engineer",
@@ -66068,13 +66064,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-development-tools-engineer-at-altera-4426061571",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an FPGA Development Tools Engineer, which does not fit the target domains of Power Integrity/SI, Advanced Packaging/Thermal, CAD/Methodology, etc.",
+    "reason": "The role is primarily focused on FPGA HLD tools development and digital hardware design, which is outside Vineeth's area of expertise in Power Integrity, Packaging, and CAD.",
     "id": "f8d100d6",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal FPGA Engineer",
@@ -66083,13 +66078,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-fpga-engineer-at-thales-4343651917",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer, which does not match the target domains of Power Integrity, Advanced Packaging, and EDA/VLSI/CAD.",
+    "reason": "The role is primarily software development/firmware engineering, which is outside Vineeth's domain.",
     "id": "1de29562",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Digital Electronics/FPGA Engineer",
@@ -66097,14 +66091,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-electronics-fpga-engineer-at-cambridge-consultants-4377887389",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior Digital Electronics/FPGA Engineer role at Cambridge Consultants is a close match to our target domains, especially FPGA Design and PCB layout. However, it does not strongly match Power Integrity / Signal Integrity roles.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on digital electronics and FPGA design, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "7d488d42",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineers",
@@ -66112,14 +66105,13 @@
     "location": "Luton, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/fpga-design-engineers-at-leonardo-4344729370",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "This FPGA Design Engineer role at Leonardo is based in Luton, England and matches the target region for job matching.",
+    "matches_requirements": "no",
+    "reason": "This role is focused on FPGA firmware design, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "23ddb924",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Design Engineer -  FPGA Academy",
@@ -66128,13 +66120,12 @@
     "url": "https://uk.linkedin.com/jobs/view/embedded-design-engineer-fpga-academy-at-leonardo-4419962903",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Academy Engineer training program, not a semiconductor/VLSI/EDA technical role.",
+    "reason": "The role is primarily training for FPGA/Firmware engineering rather than direct semiconductor/VLSI/EDA experience, which does not match Vineeth's technical domain.",
     "id": "35db1f6f",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Embedded Design Engineer -  FPGA Academy",
@@ -66143,13 +66134,12 @@
     "url": "https://uk.linkedin.com/jobs/view/embedded-design-engineer-fpga-academy-at-leonardo-4419977137",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship with no technical domain matching VLSI/EDA/semiconductor.",
+    "reason": "The role is focused on FPGA / Firmware engineering, which is a software development domain and outside Vineeth's VLSI/EDA expertise. It does not match the Power Integrity (PI) / Advanced Packaging / CAD Methodology domains that Vineeth specializes in.",
     "id": "f629e41f",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA and Embedded Software Engineer",
