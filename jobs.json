@@ -55451,14 +55451,13 @@
     "location": "Delft, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/fpga-engineer-at-the-vydar-group-4424756296",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This FPGA Engineer role is focused on developing navigation systems for defense applications, which is outside Vineeth's primary domain of power integrity and advanced packaging. While it involves some hardware design with FPGAs and MIPI interfaces that could be related to his expertise, the specific application in defense technologies does not align well with his background.",
     "id": "f05fec7e",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55467,13 +55466,12 @@
     "url": "https://hr.linkedin.com/jobs/view/fpga-engineer-at-eridan-4419436100",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The domain does not match our target VLSI/EDA/Power Integrity focus, and it's an FPGA role.",
+    "reason": "The role is primarily FPGA design and development, which falls outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "7a12ea2b",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55482,13 +55480,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-engineer-at-planqc-4423183046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an FPGA Engineer position, which does not directly match the specified target domains of Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The job is for an FPGA Engineer, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging. Vineeth has more than 15 years of experience in PI, packaging, SoC PDN sign-off, and thermal analysis using tools like ANSYS RedHawk, Totem, Cadence Voltus, and Python.",
     "id": "80a50107",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer (Vilnius, Lithuania)",
@@ -55497,13 +55494,12 @@
     "url": "https://lt.linkedin.com/jobs/view/fpga-engineer-vilnius-lithuania-at-vdl-sintecs-4145023530",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position, which does not match the target VLSI/EDA Semiconductor domains.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "5d2b5a83",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55512,13 +55508,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-at-iceye-4401725786",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA design and engineering, which does not fully match the required technical areas of Power Integrity/SI, Advanced Packaging/Thermal, CAD/Methodology, Physical Design or EDA Tools/Software Engineering.",
+    "reason": "Role is primarily FPGA design, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "d9bb6245",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer - Aerospace & Defence (Torino)",
@@ -55527,13 +55522,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-aerospace-defence-torino-at-kineton-4397267869",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role closely matches the candidate's background in Power Integrity, Advanced Packaging and SoC PDN sign-off. The job location of Turin, Italy is a strong match.",
+    "reason": "Matches technical domain of Power Integrity/SI, leadership role with strong skills overlap.",
     "id": "0d9ceade",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-05-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/kineton_fpga_engineer___aerospace___de_0d9ceade.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/kineton_fpga_engineer___aerospace___de_0d9ceade.txt"
   },
   {
     "title": "FPGA Engineer",
@@ -55542,13 +55536,12 @@
     "url": "https://pt.linkedin.com/jobs/view/fpga-engineer-at-advans-group-4406540585",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer position does not match the target domains of Power Integrity (PI), Advanced Packaging, CAD Methodology, and VLSI/SoC Physical Design. It is in Electronics Engineering rather than our focus areas.",
+    "reason": "The role is focused on FPGA architecture and development rather than Power Integrity, Advanced Packaging, or EDA tools.",
     "id": "c691f1a3",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-29",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer (VHDL/Verilog)",
@@ -55557,13 +55550,12 @@
     "url": "https://be.linkedin.com/jobs/view/senior-fpga-engineer-vhdl-verilog-at-agad-technology-4361173260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a FPGA engineer position, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily focused on FPGA design and programming with VHDL/Verilog, which is outside Vineeth's main area of Power Integrity and Advanced Packaging. It also requires a Master's degree, which would make it an entry-level position according to the seniority preference.",
     "id": "77dbb55d",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "5 maanden geleden",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -55572,13 +55564,12 @@
     "url": "https://nl.linkedin.com/jobs/view/fpga-engineer-at-vdl-sintecs-4145019773",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position which does not closely match Vineeth's key skills and background in Power Integrity, CAD Methodology, and leadership roles.",
+    "reason": "The job is for an FPGA Engineer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "51f8e353",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2025-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA engineer",
@@ -55586,14 +55577,13 @@
     "location": "Sant Cugat del Vall\u00e8s, Catalonia, Spain",
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-at-aistech-space-4424369823",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role requires experience with Xilinx FPGAs and high-speed I/O design which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "44191e3f",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
