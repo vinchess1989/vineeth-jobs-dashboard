@@ -63502,13 +63502,12 @@
     "url": "https://uk.linkedin.com/jobs/view/radio-systems-engineer-%E2%80%94-cambridge-uk-at-palma-ceia-semidesign-4366647297",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a Radio Systems Engineer, which does not directly match the Semiconductor/VLSI/EDA technical domain targets.",
+    "reason": "This Radio Systems Engineer role is for a different domain than Vineeth's focus on Power Integrity and Advanced Packaging.",
     "id": "07a9a750",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Digital RTL2GDSII Implementation Engineer\u2013 Cambridge, UK",
@@ -63516,14 +63515,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-rtl2gdsii-implementation-engineer%E2%80%93-cambridge-uk-at-palma-ceia-semidesign-4366640399",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior RTL2GDSII Implementation Engineer position with 10+ years of experience in digital implementation tools and methodologies.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design (front-end focused) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "11019196",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-04-03",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/palma_ceia_semidesig_senior_digital_rtl2gdsii_imple_11019196.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Operations Specialist",
@@ -63532,13 +63530,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-operations-specialist-at-hackajob-4403063855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Security Operations Specialist role at a tech company, which does not match our semiconductor/VLSI/EDA technical domain focus.",
+    "reason": "The role is focused on cybersecurity operations, incident response, and security enforcing technologies rather than semiconductor/VLSI/EDA domains. It's not a technical leadership position in power integrity, packaging, physical design or EDA.",
     "id": "d787447d",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IT Project/Program Manager (Governance, Risk, and Compliance)",
@@ -63547,13 +63544,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-it-project-program-manager-governance-risk-and-compliance-at-iron-mountain-4422740058",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical IT Project/Program Manager position focusing on Governance, Risk and Compliance, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is primarily non-technical (IT Project/Program Management) and does not match Vineeth's VLSI/EDA background.",
     "id": "b182243c",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC Validation Engineer",
@@ -63561,14 +63557,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-validation-engineer-at-ast-spacemobile-4402264975",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches with SoC validation and requires laboratory validation equipment, FPGA prototyping experience which fits the requirements.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily verification (testbench development, formal verification) and does not match Vineeth's power integrity and advanced packaging focus.",
     "id": "2f01be36",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ast_spacemobile_soc_validation_engineer_2f01be36.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Operations Analyst",
@@ -63577,13 +63572,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-operations-analyst-at-hackajob-4426971498",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Information Security Analyst, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is primarily cybersecurity focused on monitoring, incident response and automation rather than semiconductor/VLSI/EDA technical domains relevant to Vineeth's background.",
     "id": "6b0ae381",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information & Security Officer (CISO)",
@@ -63592,13 +63586,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-information-security-officer-ciso-at-rldatix-4420105674",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an executive position for a Chief Information Security Officer, which does not fit the technical VLSI/EDA roles we are looking to match.",
+    "reason": "The role is primarily focused on security, risk management and compliance for a healthcare software company rather than semiconductor, VLSI, EDA or related technical domains.",
     "id": "72a6379f",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "InfoSec Lead",
@@ -63607,13 +63600,12 @@
     "url": "https://uk.linkedin.com/jobs/view/infosec-lead-at-valarian-4429542905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on information security strategy and compliance, rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for a security leader focused on cloud infrastructure and SaaS, which does not match Vineeth's power integrity, advanced packaging, and CAD background.",
     "id": "5ff67c5d",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior SOC Engineer",
@@ -63622,13 +63614,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-engineer-at-fynity-4422262592",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Security Engineer with Splunk SIEM experience, which does not match the specified domains of Power Integrity (PI), Advanced Packaging, or VLSI/EDA.",
+    "reason": "The role is a Splunk SIEM engineer, which doesn't match Vineeth's Power Integrity and Advanced Packaging focus.",
     "id": "31d199c9",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2026-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Service Architect",
@@ -63636,14 +63627,13 @@
     "location": "Surrey, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-service-architect-at-bae-systems-4428898864",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior technical architect position for SOC services, aligning well with the target domain of Power Integrity/SI and VLSI/SoC design leadership.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software architecture for SOC services, which doesn't match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "c974f835",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": "job_descriptions/bae_systems_soc_service_architect_c974f835.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Detection Engineer",
