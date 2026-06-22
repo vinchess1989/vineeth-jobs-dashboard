@@ -46436,13 +46436,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-signal-integrity-engineer-at-general-dynamics-uk-limited-4420719001",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Senior Signal Integrity role, good match for candidate's PI and SI experience, but location in England may not be ideal.",
+    "reason": "The role is a close match for Vineeth's background, with expertise in signal integrity and proficiency in tools like Ansys HFSS. However, it does not explicitly mention leadership/management experience.",
     "id": "788e54f4",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2023-05-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power System Analysis Engineers",
@@ -46451,13 +46450,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-system-analysis-engineers-at-arup-4431140547",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Electrical Engineering / Power Systems analysis, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for electrical power system analysis, not semiconductor VLSI/EDA.",
     "id": "3a00092f",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-05-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Power System Analysis Engineers",
@@ -46466,13 +46464,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-system-analysis-engineers-at-arup-4431149240",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for power system analysis engineers, focusing on electrical grid and energy infrastructure. It does not match the required domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is for electrical engineering in renewable generation and power systems studies, not semiconductor/VLSI/EDA.",
     "id": "2b3b172f",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Power Electronics Engineer",
@@ -46481,13 +46478,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-power-electronics-engineer-at-ionate-4407885533",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on power electronics for grid-connected systems, not semiconductor VLSI/EDA.",
+    "reason": "The job is for a Principal Power Electronics Engineer, which is more focused on power electronics design rather than Vineeth's areas of expertise in power integrity and advanced packaging.",
     "id": "7c169dd5",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Consultant Engineer \u2013 Electrical Engineering (Power)",
@@ -46495,14 +46491,13 @@
     "location": "Cumbria, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/consultant-engineer-%E2%80%93-electrical-engineering-power-at-bae-systems-4396596177",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with the target domains of Power Integrity and Electrical Engineering, with a strong preference for UK locations.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily electrical engineering for submarine power systems, which does not match Vineeth's VLSI/EDA/Power Integrity background.",
     "id": "0b7ba417",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/bae_systems_consultant_engineer___electric_0b7ba417.txt",
-    "needs_re_review": true
+    "deadline": "2026-06-28",
+    "description_file": null
   },
   {
     "title": "Principal Hardware Engineer",
@@ -46511,13 +46506,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-hardware-engineer-at-raytheon-uk-4414569570",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Principal Hardware Engineer, which does not match the key skills of Power Integrity and VLSI/EDA tools mentioned in the candidate profile.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "6c2d4e5d",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-05-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -46525,14 +46519,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430134021",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior engineering position at Axelera AI, which fits Vineeth's technical background and experience.",
+    "matches_requirements": "maybe",
+    "reason": "Matches domain expertise in advanced packaging, but senior leadership role is not strongly required.",
     "id": "cadaeb14",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_cadaeb14.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Power Electronics Engineer",
@@ -46541,13 +46534,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-power-electronics-engineer-at-ge-vernova-4428858969",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Power Electronics Engineer focused on HVDC applications, which does not directly match the Semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is focused on power electronics for HVDC applications, which does not closely match Vineeth's background in semiconductor VLSI EDA.",
     "id": "fae2c6d5",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2026-06-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Supply Design Engineer",
@@ -46556,13 +46548,12 @@
     "url": "https://uk.linkedin.com/jobs/view/power-supply-design-engineer-at-redline-group-specialist-recruitment-for-technology-electronics-companies-4421101504",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a power supply design engineer focusing on SMPS solutions for rail applications, which does not match the VLSI/EDA/semiconductor domains.",
+    "reason": "The role is focused on power supply design for industrial and rail applications, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, and CAD Methodology using tools like ANSYS RedHawk, Cadence Voltus.",
     "id": "d4f58f6c",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
@@ -46571,13 +46562,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-engineer-at-advanced-energy-4288201651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Engineer, but focuses more on general power supply design rather than the specific VLSI/EDA domains like Power Integrity, Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is a Senior Engineer for Switch Mode Power supply design, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "a50feb57",
     "source": "linkedin_uk_power_integrity_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Power Electronics Engineer",
