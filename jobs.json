@@ -10717,18 +10717,17 @@
   },
   {
     "title": "Tucson, AZ jobs",
-    "company": "Extract from page",
+    "company": "Trader Joe's",
     "location": "Tucson, AZ, USA",
     "url": "https://www.glassdoor.com/Job/tucson-jobs-SRCH_IL.0,6_IC1133996.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search is for all Tucson jobs, which does not specify a technical role in semiconductor/VLSI/EDA and also does not list a specific location or company. The URL points to a general Glassdoor search result page rather than a specific job posting.",
+    "reason": "The job is for a retail cashier position at Trader Joe's, which does not match Vineeth's technical background and experience in semiconductor/VLSI/EDA.",
     "id": "a5f6e233",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Texas Instruments jobs in Tucson, AZ",
@@ -10737,13 +10736,12 @@
     "url": "https://www.glassdoor.com/Job/tucson-texas-instruments-jobs-SRCH_IL.0,6_IC1133996_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is blocked by security measures, preventing full evaluation of the role and requirements.",
+    "reason": "The job posting does not clearly specify a technical role, and there is no mention of relevant technical domains or requirements.",
     "id": "06336823",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Industrial Engineer - Capacity",
@@ -10752,13 +10750,12 @@
     "url": "https://www.glassdoor.com/job-listing/industrial-engineer-capacity-texas-instruments-JV_IC1140053_KO0,28_KE29,46.htm?jl=1010148898125",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in HR at a semiconductor company, which does not match our focus on engineering/technical positions.",
+    "reason": "The job is for an Industrial Engineer - Capacity role at Texas Instruments, which is a non-technical manufacturing/operations position. Vineeth's background is in technical roles related to semiconductor design, EDA tools and methodologies.",
     "id": "f93b6ab2",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "industrial engineer jobs in Richardson, TX",
@@ -10767,13 +10764,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-industrial-engineer-jobs-SRCH_IL.0,10_IC1140053_KO11,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role (Industrial Engineer) at a semiconductor company, which we have explicitly rejected as per the given criteria.",
+    "reason": "The job is for an industrial engineer role, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "056c23fa",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Texas Instruments jobs in Richardson, TX",
@@ -10782,13 +10778,12 @@
     "url": "https://www.glassdoor.com/Job/richardson-texas-instruments-jobs-SRCH_IL.0,10_IC1140053_KO11,28.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was blocked by Cloudflare, preventing full access to the job details needed for evaluation.",
+    "reason": "The role is at Texas Instruments, which is a semiconductor company but does not match Vineeth's specific expertise in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and CAD Methodology.",
     "id": "b8966070",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ion Implant Manufacturing Process Engineer",
@@ -10797,13 +10792,12 @@
     "url": "https://www.glassdoor.com/job-listing/ion-implant-manufacturing-process-engineer-texas-instruments-JV_IC1128238_KO0,42_KE43,60.htm?jl=1010169377496",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical manufacturing process engineer position, which does not fit the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is in manufacturing, not VLSI/EDA.",
     "id": "745bc1cc",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Lehi, UT",
@@ -10812,13 +10806,12 @@
     "url": "https://www.glassdoor.com/Job/lehi-process-engineer-jobs-SRCH_IL.0,4_IC1128238_KO5,21.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a process engineer role at a semiconductor company, but does not fit the technical domains we are targeting.",
+    "reason": "The role is a non-technical process engineer position at a semiconductor company, which does not match Vineeth's technical background in Power Integrity and VLSI/EDA.",
     "id": "ccbd4dd5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lehi, UT jobs",
@@ -10827,13 +10820,12 @@
     "url": "https://www.glassdoor.com/Job/lehi-jobs-SRCH_IL.0,4_IC1128238.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL is for a general search on Glassdoor and does not point to a specific job posting, so it cannot be evaluated based on the provided criteria.",
+    "reason": "The URL provided is for a generic Glassdoor search result page, not a specific job posting. It does not contain enough details to determine company, location, posted date, or application deadline.",
     "id": "f32b7d9b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industriepraktikum - Productivity Management Assistant (w/m/div)Villach (Austria)HRC1650059On-site",
@@ -10842,13 +10834,12 @@
     "url": "https://www.infineon.com/careers/job/563808970808419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job description page not found, unable to evaluate requirements.",
+    "reason": "The job posting URL was missing, so I could not check the deadline or other key criteria.",
     "id": "d1173ff2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer/Layout Engineer, Memory CAD, GuadalajaraTlaquepaque, Jalisco, MexicoPosted 22 days ago",
@@ -10856,14 +10847,13 @@
     "location": "Guadalajara, Mexico",
     "url": "https://micron.eightfold.ai/careers/job/42021314",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in Guadalajara, Mexico which does not match the priority locations of Finland/UK/Europe or Asia/Taiwan/South Korea. It's also a senior individual contributor position rather than a leadership role.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role without specific technical domain mentioned, but high match for Memory CAD and Guadalajara location.",
     "id": "c9f0b5be",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IT EngineerSingapore, SingaporePosted 5 months ago",
