@@ -58237,14 +58237,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/npu-ai-processor-synthesis-staff-engineer-at-qualcomm-4425258094",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role involves leading synthesis flows, optimizing for PPA (Performance, Power, Area), and collaborating with architecture, RTL, and physical design teams to ensure high-quality netlists for NPU IP and subsystems. This aligns with Vineeth's background in Power Integrity and experience leading SoC PDN sign-off.",
     "id": "0352e8e7",
     "source": "linkedin_india_eda_design_automation_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/qualcomm_npu_ai_processor_synthesis__st_0352e8e7.txt"
   },
   {
     "title": "Logical Design Engineer",
@@ -58253,13 +58252,12 @@
     "url": "https://lu.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365302517",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a Logical Design Engineer at Axelera AI, which does not strictly fall into our semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is primarily software development (RTL coding, verification, DFT) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "0f62ad5a",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58268,13 +58266,12 @@
     "url": "https://at.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365311087",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Logical Design Engineer position at Axelera AI, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "Role is primarily software development focused, outside Vineeth's domain.",
     "id": "5eeec7c2",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-05-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58282,14 +58279,13 @@
     "location": "Ireland",
     "url": "https://ie.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365301534",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a general SoC design with no specific focus on Power Integrity (PI) or Advanced Packaging that this candidate's background is tailored towards.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves silicon logical design, with RTL coding and SoC integration, which aligns with Vineeth's background. However, it is based in Ireland rather than India, Finland, Europe, UK or Asia.",
     "id": "34652620",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58298,13 +58294,12 @@
     "url": "https://ee.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365305472",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Logical Design Engineer focused on AI product design, which does not directly match the VLSI/EDA experience of the candidate profile.",
+    "reason": "This position is primarily focused on digital logic design, RTL coding, and SoC integration, which does not directly match Vineeth's background in Power Integrity (PI), Advanced Packaging, CAD Methodology, and EDA tools.",
     "id": "68364c22",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58312,14 +58307,13 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365305474",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This role is focused on AI product design rather than semiconductor VLSI/EDA.",
     "id": "2d4daa40",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Tech Graduate - E&RF Engineer",
@@ -58328,13 +58322,12 @@
     "url": "https://es.linkedin.com/jobs/view/tech-graduate-e-rf-engineer-at-verisure-4421150071",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a tech graduate junior hardware engineer position, not fitting the VLSI/EDA semiconductor domain focus.",
+    "reason": "The role is an entry-level Junior Hardware Engineer focused on basic electronics design and laboratory work, which does not match Vineeth's 15 years of experience in Power Integrity and Advanced Packaging.",
     "id": "d8761759",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58342,14 +58335,13 @@
     "location": "Germany",
     "url": "https://de.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365293707",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (AI platform) which does not match Vineeth's domain of Power Integrity, Packaging and VLSI/EDA.",
     "id": "d16bfa7b",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-24",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58358,13 +58350,12 @@
     "url": "https://be.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365305475",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in digital logic design and RTL coding, which does not strongly match Vineeth's background in power integrity and advanced packaging.",
+    "reason": "This role is focused on logical design for AI hardware, which is a software development and AI-specific domain rather than semiconductor/VLSI/EDA.",
     "id": "57f46ce5",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58373,13 +58364,12 @@
     "url": "https://dk.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365291806",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not specifically match the target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD/Methodology, Physical Design, EDA Tools, or VLSI / SoC Design.",
+    "reason": "The role is primarily focused on digital logic design, RTL coding, and SoC integration, which falls outside Vineeth's domain of power integrity, advanced packaging, and CAD methodology.",
     "id": "3c683976",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
