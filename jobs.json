@@ -63376,13 +63376,12 @@
     "url": "https://fr.linkedin.com/jobs/view/cybersecurity-engineer-ai-automation-at-strangebee-4391232752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for AI automation in cybersecurity incident response, which does not align with semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (AI, AI Agents, Python) with a small mention of cybersecurity incident response. This does not match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off.",
     "id": "5aba7a60",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63391,13 +63390,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-engineer-at-air-apps-4406399833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in security engineering, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "83d31341",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Consultant",
@@ -63406,13 +63404,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cyber-security-consultant-at-undisclosed-4421791463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires MOD SC clearance and being a UK sole national, which is a strong reject based on our focus domain.",
+    "reason": "The role is a Cyber Security Consultant position, which does not match Vineeth's background in Power Integrity and VLSI/EDA. The job explicitly requires MOD SC clearance, sole UK citizenship, and recent active SC security clearance.",
     "id": "fa0f57ab",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Security Technician",
@@ -63421,13 +63418,12 @@
     "url": "https://uk.linkedin.com/jobs/view/physical-security-technician-at-national-gas-4428848100",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Physical Security Technician role at a gas company, not a semiconductor/VLSI/EDA engineering position.",
+    "reason": "The job is for a non-technical role in physical security at a gas distribution company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "61dd458b",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Analyst",
@@ -63436,13 +63432,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-analyst-at-deloitte-4209741245",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SOC Analyst at Deloitte, which falls under Business Consulting and Services rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is for a SOC Analyst, which is not within Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "ed25da3f",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Azure Consultant",
@@ -63451,28 +63446,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-azure-consultant-at-experis-uk-4424413534",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a consultant for Azure networking migrations, not related to semiconductor/VLSI/EDA technical domains.",
+    "reason": "Not a semiconductor/VLSI/EDA technical role, and not in the UK or Europe.",
     "id": "7c8e222b",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "GPU Internship - Platform Architecture",
-    "company": "Apple",
-    "location": "St Albans, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/gpu-internship-platform-architecture-at-apple-4414169268",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for GPU Internship at Apple which does not match the semiconductor/VLSI/EDA domain.",
-    "id": "1448cef3",
-    "source": "linkedin_uk_soc_design",
-    "posted_date": "2023-09-25",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Information Security Officer",
@@ -63481,13 +63460,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-information-security-officer-at-definely-4411628544",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical HR, not an engineering/technical position at a semiconductor company.",
+    "reason": "The role is primarily focused on IT support and operations, rather than semiconductor/EDA technical domains like Power Integrity, CAD methodology, or physical design. It does not match Vineeth's areas of expertise.",
     "id": "fce9304c",
     "source": "linkedin_uk_soc_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Internship - Platform Architecture",
@@ -63496,13 +63474,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gpu-internship-platform-architecture-at-apple-4414154729",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a GPU Internship at Apple, which does not directly match the specified VLSI/EDA job requirements.",
+    "reason": "The role is primarily focused on GPU architecture and platform design, which falls outside Vineeth's core domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, and EDA Tools.",
     "id": "873c2973",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-09-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Analyst",
@@ -63511,13 +63488,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cyber-security-analyst-at-viasat-4404902074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Cyber Security Analyst rather than a technical engineering position in VLSI/EDA.",
+    "reason": "The role is primarily software development and cybersecurity focused, not semiconductor/VLSI/EDA related.",
     "id": "721e04e3",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Radio Systems Engineer \u2014 Cambridge, UK",
