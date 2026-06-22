@@ -4828,13 +4828,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-micro-architecture-and-rtl-design-engineer-risc-v-at-qualcomm-4374381917",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Austin, TX which doesn't match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia or Fully Remote with worldwide eligibility.",
+    "reason": "The job is located in Austin, Texas which does not match Vineeth's location preferences.",
     "id": "1391e112",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC/SoC Design Engineer, RTL design for SoC IPs",
@@ -4842,14 +4841,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/asic-soc-design-engineer-rtl-design-for-soc-ips-at-amd-4373192612",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires US residency, which violates the visa sponsorship requirement.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a good match for Vineeth's background, but lacks specific location details.",
     "id": "aee64bd1",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -4858,13 +4856,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-intel-4405370312",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based at Intel's Hillsboro, OR location which does not match the required locations in our criteria.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "8957d3cf",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Interconnect Micro-architect/RTL Design Engineer",
@@ -4872,14 +4869,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/interconnect-micro-architect-rtl-design-engineer-at-amd-4424804571",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is based in Austin, TX, USA which does not match our preferred locations of Finland, UK, Europe (outside Finland), India, Asia, Remote worldwide. Also, it does not exactly match any key technical domain we are looking for.",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
     "id": "a37aba5d",
     "source": "linkedin_rtl_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -4888,13 +4884,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-intel-4405368309",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level RTL Design Engineer position, not a senior leadership role that matches the candidate profile.",
+    "reason": "This RTL Design Engineer role is focused on digital design and verification, which is outside Vineeth's primary area of Power Integrity and Advanced Packaging. It would require strong Verilog/SystemVerilog experience rather than his ANSYS/RedHawk skill set.",
     "id": "080c1f7d",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU RTL Design Engineer",
@@ -4902,14 +4897,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/gpu-rtl-design-engineer-at-samsung-electronics-america-4388137570",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a GPU RTL Design Engineer at Samsung Electronics, which does not match the required Power Integrity and Advanced Packaging technical domains.",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
     "id": "de95ad76",
     "source": "linkedin_rtl_ww",
-    "posted_date": "2023-06-16",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer \u2013 AI SoC Development",
@@ -4918,13 +4912,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-%E2%80%93-ai-soc-development-at-intel-4332205948",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is based in Santa Clara, CA, USA which does not match the priority locations of Finland, Europe (outside Finland), UK, India/Asia or fully remote worldwide.",
+    "reason": "The role is primarily software development focused on AI SoC development, which is outside Vineeth's domain.",
     "id": "ad83bbad",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Design Engineer",
@@ -4933,13 +4926,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-design-engineer-at-amd-4409631006",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in San Jose, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or fully remote positions. Seniority level and role type do match, but location is a hard requirement.",
+    "reason": "The role is focused on FPGA development, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
     "id": "78ac7bca",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -4948,13 +4940,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-hewlett-packard-enterprise-4402931453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Sunnyvale, CA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote worldwide.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "82d91634",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Processor ASIC RTL Design Engineer",
@@ -4963,13 +4954,12 @@
     "url": "https://www.linkedin.com/jobs/view/processor-asic-rtl-design-engineer-at-qualcomm-4363403623",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role specifically requires 2+ years of experience, which exceeds Vineeth's stated 15 years of experience.",
+    "reason": "The job is primarily RTL design for microprocessors, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "71eb770c",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-53",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff RTL Design Engineer",
