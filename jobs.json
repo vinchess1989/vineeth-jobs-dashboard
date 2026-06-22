@@ -45049,14 +45049,13 @@
     "location": "Orlando, FL",
     "url": "https://www.linkedin.com/jobs/view/staff-electrical-engineer-at-arbejdstilsynet-4422710276",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a semiconductor startup hiring an electrical engineer, which does not fit the specified requirements of being in Power Integrity / VLSI / EDA domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "d01ca1d6",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "2026-05-30",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Engineer",
@@ -45064,14 +45063,13 @@
     "location": "Plano, TX",
     "url": "https://www.linkedin.com/jobs/view/system-engineer-at-renesas-electronics-4430102773",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in Texas, USA, which does not match the priority regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "034ca4e6",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior Analyst, Casualty Claims",
@@ -45085,8 +45083,7 @@
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Intelligence Analyst",
@@ -45095,13 +45092,12 @@
     "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-quanta-power-solutions-4429570401",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Intelligence Analyst position at Quanta Power Solutions, which does not match the technical domains of semiconductor/VLSI/EDA. The job requires skills in BI tools like Power BI and Databricks rather than any semiconductor or EDA tool expertise.",
+    "reason": "Non-technical role at a semiconductor company, outside Vineeth's domain",
     "id": "ad33f5af",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Overlay Operator",
@@ -45109,14 +45105,13 @@
     "location": "Tyler, TX",
     "url": "https://www.linkedin.com/jobs/view/overlay-operator-at-babcock-power-services-4429541244",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a machine operator in Tyler, TX, which does not match the specified technical domains of Power Integrity (PI), Advanced Packaging, CAD Methodology, etc. preferred by the candidate.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "666e092f",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer",
@@ -45124,14 +45119,13 @@
     "location": "Orlando, FL",
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-at-microvision%C2%AE-4429108328",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Senior Electrical Engineer position with focus on automotive LiDAR product development, which does not match the Semiconductor / VLSI / EDA technical domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "3d6c69ac",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "2023-06-08",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal SOC Power Architect",
@@ -45145,8 +45139,7 @@
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PLI Tech",
@@ -45155,13 +45148,12 @@
     "url": "https://www.linkedin.com/jobs/view/pli-tech-at-acuren-4426866927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role at a semiconductor company, which we are rejecting.",
+    "reason": "The role is technical (NDT, pipeline inspection) but not in the semiconductor/VLSI/EDA domain Vineeth works in. Also, fully remote.",
     "id": "96c37e03",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-06-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst (PowerBI, Excel)",
@@ -45170,13 +45162,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-analyst-powerbi-excel-at-ledgent-technology-4430011774",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Data Analyst position, which is non-technical and does not match our semiconductor/VLSI/EDA job search criteria.",
+    "reason": "Non-technical role in manufacturing industry, not semiconductor/VLSI/EDA",
     "id": "598b96b2",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Application Engineer",
@@ -45184,14 +45175,13 @@
     "location": "Orange County, CA",
     "url": "https://www.linkedin.com/jobs/view/field-application-engineer-at-renesas-electronics-4428839985",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires US residency even though it doesn't explicitly state visa sponsorship.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with semiconductor experience, but specific technical domain not mentioned.",
     "id": "70249296",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2023-06-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff/Staff Power Integrity Engineer",
