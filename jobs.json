@@ -63096,13 +63096,12 @@
     "url": "https://gr.linkedin.com/jobs/view/soar-engineer-at-nviso-security-4422797937",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a SOAR Engineer at NVISO Security and does not match semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is primarily software development (cyber security engineer) which is outside Vineeth's domain.",
     "id": "c2a03b02",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Cybersecurity GRC",
@@ -63111,13 +63110,12 @@
     "url": "https://fr.linkedin.com/jobs/view/senior-cybersecurity-grc-at-believe-4423900825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a cybersecurity-focused GRC position, not related to VLSI/semiconductor/EDA domains.",
+    "reason": "The role is a cybersecurity GRC position, outside Vineeth's power integrity and advanced packaging expertise.",
     "id": "db787427",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-05-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Engineer",
@@ -63125,14 +63123,13 @@
     "location": "Budapest, Budapest, Hungary",
     "url": "https://hu.linkedin.com/jobs/view/soc-design-engineer-at-arm-4426808819",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a good match for Vineeth's experience in SoC design and technical leadership.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (embedded SW engineer), which is outside Vineeth's domain.",
     "id": "deae6dfd",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2023-05-30",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/arm_soc_design_engineer_deae6dfd.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63140,14 +63137,13 @@
     "location": "Sliema, Sliema, Malta",
     "url": "https://mt.linkedin.com/jobs/view/security-engineer-at-patrianna-4417118845",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Security Engineer, not related to semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "155ade90",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "2026-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "RF Desing Engineer",
@@ -63155,14 +63151,13 @@
     "location": "Torrej\u00f3n de Ardoz, Community of Madrid, Spain",
     "url": "https://es.linkedin.com/jobs/view/rf-desing-engineer-at-indra-group-4402880555",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for RF Design Engineer, not matching semiconductor/VLSI/EDA expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "5381fa41",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "2023-06-08",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Cybersecurity Technical & Project Manager",
@@ -63170,14 +63165,13 @@
     "location": "Madrid, Community of Madrid, Spain",
     "url": "https://es.linkedin.com/jobs/view/cybersecurity-technical-project-manager-at-ntt-data-europe-latam-4416163849",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is a non-technical Cybersecurity Technical & Project Manager position, which does not match our focus on semiconductor/VLSI/EDA engineering roles.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ab7c87f9",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "2023-06-05",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63185,14 +63179,13 @@
     "location": "Greater Madrid Metropolitan Area",
     "url": "https://es.linkedin.com/jobs/view/security-engineer-at-air-apps-4406399832",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is non-technical and requires a security clearance that restricts to US citizens only, which are hard rejections for our focus area.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "6cff35b5",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "2023-06-22",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63201,13 +63194,12 @@
     "url": "https://bg.linkedin.com/jobs/view/security-engineer-at-patrianna-4417131720",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Security Engineer which does not match the desired technical positions in semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily software development (EDR solutions, CI/CD, cloud environments) and not focused on semiconductor/VLSI/EDA.",
     "id": "072b2d16",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63215,14 +63207,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/security-engineer-at-air-apps-4408018825",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a non-technical Security Engineer role at an apps company, which does not fit our semiconductor/VLSI/EDA focus.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "879f538b",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
@@ -63231,13 +63222,12 @@
     "url": "https://it.linkedin.com/jobs/view/security-engineer-at-air-apps-4407867187",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Security Engineer, which does not match the required domain of Power Integrity, SI/EDA/VLSI. The job is based in Rome, Italy, not Finland, Europe or India as preferred.",
+    "reason": "The role is primarily focused on application security, penetration testing, and secure coding practices. This does not match Vineeth's background in power integrity, advanced packaging, and SoC PDN sign-off.",
     "id": "37f63c80",
     "source": "linkedin_eu_soc_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Deputy Chief Technology Officer",
