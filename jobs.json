@@ -35418,13 +35418,12 @@
     "url": "https://www.glassdoor.com/Job/boise-reservoir-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Reservoir Engineer, which does not match the required technical domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, SoC Design, or Engineering Leadership in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Reservoir Engineer in water resources engineering, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and CAD Methodology.",
     "id": "755aa192",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "30d+",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Corporate Governance Affairs Administrator",
@@ -35433,13 +35432,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16252&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is an Administrator role, not a technical engineering/leadership role focused on semiconductor/VLSI/EDA.",
+    "reason": "Non-technical administrative role at a semiconductor company.",
     "id": "dc9424de",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -35447,14 +35445,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCorporate-Governance-Affairs-Administrator%2F16252",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical Corporate Governance Affairs Administrator role at TSMC, which does not align with semiconductor/VLSI/EDA engineering/technical positions.",
+    "matches_requirements": "maybe",
+    "reason": "The role matches Vineeth's technical background in Power Integrity and Advanced Packaging, but more specifics would be needed to confirm a strong match.",
     "id": "dfddfebe",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -35462,14 +35459,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-laiba-technology-4428074414",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role does not match the target domains of Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "matches_requirements": "yes",
+    "reason": "Matches candidate profile and domain requirements for Physical Design Engineer with MSEE, 6+ years experience in Cadence Innovus/Atop, Calibre LVS/DRC. Also matches key skills like TCL/Python scripting.",
     "id": "6ddaa33c",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/laiba_technology_physical_design_engineer_6ddaa33c.txt"
   },
   {
     "title": "Senior Staff Embedded Engineer (C language) (f/m/div)Lviv (Ukraine)117857HybridHybrid",
@@ -35478,13 +35474,12 @@
     "url": "https://www.infineon.com/careers/job/563808960660457",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description is incomplete and does not specify the company name.",
+    "reason": "The job posting URL is broken/missing, so the company and location cannot be extracted.",
     "id": "c5f039d4",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer (Entry Level) - Malta, NY",
@@ -35493,13 +35488,12 @@
     "url": "https://www.glassdoor.com/job-listing/mechanical-engineer-entry-level-malta-ny-hallam-ics-JV_IC1158877_KO0,40_KE41,51.htm?jl=1010160101486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Mechanical Engineer position, which does not match the Semiconductor / VLSI / EDA industry focus.",
+    "reason": "This is a non-technical mechanical engineering role, which does not match Vineeth's semiconductor/VLSI/EDA background and expertise.",
     "id": "5ab507d5",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "mechanical engineer jobs in Malta, NY",
@@ -35508,13 +35502,12 @@
     "url": "https://www.glassdoor.com/Job/malta-mechanical-engineer-jobs-SRCH_IL.0,5_IC1158877_KO6,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Mechanical engineer roles, no match with VLSI/EDA/Semiconductor domain",
+    "reason": "Mechanical engineering role, not semiconductor/VLSI/EDA related",
     "id": "45163523",
     "source": "glassdoor_semi",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Malta, NY jobs",
@@ -35523,13 +35516,12 @@
     "url": "https://www.glassdoor.com/Job/malta-jobs-SRCH_IL.0,5_IC1158877.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is for Malta, which does not match the specified locations of Finland, Europe, UK, India, Asia, or fully remote.",
+    "reason": "The URL is for a general search results page, not a specific job posting.",
     "id": "4816fcbc",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hallam-ICS jobs in Malta, NY",
@@ -35538,28 +35530,26 @@
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=Hallam-ICS&sc.locationSeoString=Malta&locId=1158877&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing URL is for a Glassdoor help page, not an actual job posting. It discusses troubleshooting steps for users mistakenly blocked due to security measures.",
+    "reason": "The job listing is for a non-technical Glassdoor admin support role, which is outside Vineeth's domain. The job title 'Hallam-ICS' doesn't provide enough context about the actual technical role.",
     "id": "774e8d1d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead Staff Engineer \u2013 ATE Process DIR",
     "company": "Micron Technology",
-    "location": "Extract from page",
+    "location": "N/A (missing from job description)",
     "url": "https://www.glassdoor.com/job-listing/lead-staff-engineer-ate-process-dir-micron-technology-JV_IC1130381_KO0,35_KE36,53.htm?jl=1010161788985",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not technical but a management position focusing on ATE Process and DIR.",
+    "reason": "The role is in Automated Test Equipment (ATE) process development for semiconductor manufacturing, which falls under non-technical (manufacturing/production) and does not match Vineeth's background in Power Integrity, CAD Methodology, and SoC Physical Design.",
     "id": "f5d2d1e9",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "manager jobs in Manassas, VA",
