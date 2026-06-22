@@ -41340,13 +41340,12 @@
     "url": "https://uk.linkedin.com/jobs/view/head-of-fp-a-at-infinitesima-4431324588",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a finance leadership position with no technical or engineering responsibilities, so it does not meet the job requirements for a semiconductor/VLSI/EDA industry expert.",
+    "reason": "The role is a non-technical finance leadership position, which is outside Vineeth's domain of semiconductor/VLSI/EDA engineering and technical leadership.",
     "id": "3a39d7f5",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Service Engineer UK",
@@ -41355,13 +41354,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-service-engineer-uk-at-infinitesima-4431345006",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Field Service Engineer, which does not match the Semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is primarily customer support, maintenance of electromechanical systems and global travel, which does not match Vineeth's domain of Power Integrity/Advanced Packaging/CAD.",
     "id": "2f149d8f",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EUV Mask Technology R&D Engineer",
@@ -41370,13 +41368,12 @@
     "url": "https://www.glassdoor.com/job-listing/euv-mask-technology-rd-engineer-micron-technology-JV_IC1127927_KO0,31_KE32,49.htm?jl=1010170563748",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is related to EUV Mask Technology, which does not match the VLSI/EDA domains required.",
+    "reason": "The job is for an EUV Mask Technology R&D Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "f074399c",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff Engineer, APTD Photolithography",
@@ -41385,28 +41382,26 @@
     "url": "https://www.glassdoor.com/job-listing/staff-engineer-aptd-photolithography-micron-technology-JV_IC1127927_KO0,36_KE37,54.htm?jl=1010161404681",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role for photolithography equipment engineering, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "The role is focused on photolithography process development for advanced packaging, which falls into Vineeth's domain of expertise. However, it does not match his specific areas of Power Integrity and CAD Methodology.",
     "id": "3f590e49",
     "source": "glassdoor_semi",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "[Fall 2025/Spring 2026] TSMC Engineering Career Opportunities (US Locations)",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "TSMC Arizona Corporation",
+    "location": "USA-Arizona",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16562&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for a US-based TSMC engineering career opportunity, which doesn't match Vineeth's criteria of Finland/Europe or India/Asia locations.",
     "id": "73967bf3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-27",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -41415,13 +41410,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFall-2025-Spring-2026-TSMC-Engineering-Career-Opportunities-US-Locations%2F16562",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in TSMC's US locations which requires visa sponsorship or relocation, and does not match Vineeth's criteria of being based in Finland, Europe, UK, India or Asia. Also, it's a general engineering role rather than focusing on Power Integrity.",
+    "reason": "The job is primarily software development (Engineering Career Opportunities) which is outside Vineeth's domain.",
     "id": "45eef695",
     "source": "tsmc_careers",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DRAM Device & Cell Technology Engineer",
@@ -41430,28 +41424,26 @@
     "url": "https://www.glassdoor.com/job-listing/dram-device-cell-technology-engineer-micron-technology-JV_IC1127927_KO0,36_KE37,54.htm?jl=1010171809398",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a DRAM Device & Cell Technology Engineer, which does not match the specified technical domains of Power Integrity (PI), Advanced Packaging / Thermal, and CAD / Methodology.",
+    "reason": "The role is focused on DRAM device & cell technology, which is different from Vineeth's power integrity and advanced packaging background.",
     "id": "33e65afb",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, SIG Electrical Design",
     "company": "Micron Technology",
-    "location": "Extract from page",
+    "location": "Boise, ID, USA",
     "url": "https://www.glassdoor.com/job-listing/engineer-sig-electrical-design-micron-technology-JV_IC1147436_KO0,30_KE31,48.htm?jl=1010171184782",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical SIG Electrical Design Engineer role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The job is for a Software Engineer, which falls outside Vineeth's domain.",
     "id": "c5493fb5",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-07-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer, HBM DFT",
@@ -41460,13 +41452,12 @@
     "url": "https://www.glassdoor.com/job-listing/design-engineer-hbm-dft-micron-technology-JV_IC1140053_KO0,23_KE24,41.htm?jl=1010171807278",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Engineer focusing on HBM DFT, which does not match the candidate's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
+    "reason": "The role is primarily focused on Hardware Bring-up & Memory Design, which falls outside Vineeth's area of Power Integrity and Advanced Packaging expertise.",
     "id": "cf3fa84f",
     "source": "glassdoor_semi",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ESMC System Engineer Cleanroom / Systemingenieur Reinraumtechnik (m/f/d)",
@@ -41474,14 +41465,13 @@
     "location": "Dresden, Germany",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22507&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches domain and work model, but years of experience is lower than expected for a senior leadership role.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on cleanroom system engineering rather than semiconductor VLSI/EDA technical domains.",
     "id": "68ecd08a",
     "source": "tsmc_careers",
     "posted_date": "2026-06-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal ASIC Design Engineer",
