@@ -35137,14 +35137,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FRF-radio-frequency-Reliability-Engineer%2F4583",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the high-priority locations of Finland, Europe (outside Finland), UK, India, or fully remote positions. Additionally, it is a mid-level role with 7+ years experience required, which does not match the senior leadership focus.",
+    "matches_requirements": "yes",
+    "reason": "Matches senior leadership role in semiconductor VLSI domain with 15+ years of experience required.",
     "id": "05bcbeb5",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-31",
+    "description_file": "job_descriptions/tsmc_linkedin_05bcbeb5.txt"
   },
   {
     "title": "Manhattan Beach, CA jobs",
@@ -35153,13 +35152,12 @@
     "url": "https://www.glassdoor.com/Job/manhattan-beach-jobs-SRCH_IL.0,15_IC1163714.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Warehouse Associate at SoFi Stadium, not a technical role related to semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical maintenance worker role at a city government agency, not an engineering position in semiconductor/VLSI/EDA.",
     "id": "1b0ea3bc",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Northrop Grumman jobs in Manhattan Beach, CA",
@@ -35168,13 +35166,12 @@
     "url": "https://www.glassdoor.com/Job/manhattan-beach-northrop-grumman-jobs-SRCH_IL.0,15_IC1163714_KO16,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an HR role, not a technical engineering position.",
+    "reason": "The job posting does not have a specific application deadline and is blocking access due to suspected misuse.",
     "id": "fd4c51ea",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in San Jose, CA",
@@ -35183,13 +35180,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-design-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a semiconductor company.",
+    "reason": "The job posting is for a non-technical role at a semiconductor company, which does not match Vineeth's background and experience.",
     "id": "6a5d288b",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "US Expansion Planning Engineer",
@@ -35198,13 +35194,12 @@
     "url": "https://www.glassdoor.com/job-listing/us-expansion-planning-engineer-micron-technology-JV_IC1127927_KO0,30_KE31,48.htm?jl=1010162162293",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an HR function (expansion planning) rather than a technical engineering position.",
+    "reason": "The role is not related to semiconductor/VLSI/EDA as it's an Expansion Planning Engineer position at Micron Technology.",
     "id": "2072fbb6",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -35213,28 +35208,26 @@
     "url": "https://www.glassdoor.com/job-listing/senior-design-verification-engineer-micron-technology-JV_IC1147436_KO0,35_KE36,53.htm?jl=1010160517030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Verification Engineer, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily verification, which falls outside Vineeth's domain of expertise.",
     "id": "f58b1fe8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "verification engineer jobs in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/Job/san-jose-verification-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic search results page, not an individual job posting. No specific details about years of experience, technical skills required, or company hiring are provided.",
+    "reason": "The job is for a verification engineer, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "8b584087",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Quality & Reliability Engineer (Q&R)-\u8eab\u5fc3\u969c\u7919\u4eba\u624d\u62db\u52df",
@@ -35243,13 +35236,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19407&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position specifically requires a valid disability identification issued in Taiwan, which does not match the target regions of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "reason": "The job is only open to individuals with a valid disability ID from Taiwan, significantly restricting its pool and scope.",
     "id": "16b90444",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -35258,13 +35250,12 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4429653768",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Founding Design Engineer for a creator economy startup, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily design-focused (mechatronics, product design) rather than semiconductor/VLSI/EDA.",
     "id": "a1edb5c5",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Dry Etch Principal Process Development Engineer",
@@ -35273,13 +35264,12 @@
     "url": "https://www.glassdoor.com/job-listing/dry-etch-principal-process-development-engineer-micron-technology-JV_IC1127927_KO0,47_KE48,65.htm?jl=1010160517034",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Dry Etch Principal Process Development Engineer, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "reason": "This dry etch process development role is for a semiconductor manufacturing engineering position, which does not match Vineeth's technical leadership background in power integrity, advanced packaging and EDA.",
     "id": "051f1439",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist Talent Attraction",
