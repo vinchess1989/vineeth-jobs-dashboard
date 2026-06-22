@@ -17680,13 +17680,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-architect-at-nxp-semiconductors-4416048524",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate requirements don't match the job description for a Software Architect position at NXP Semiconductors.",
+    "reason": "The role is primarily software development (focusing on architecture, system design, and engineering solutions in semiconductor, EDA, and high-tech environments), which falls outside Vineeth's domain.",
     "id": "6195e168",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design and Verification Engineer - AI",
@@ -17695,13 +17694,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-and-verification-engineer-ai-at-analog-devices-4361864702",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on AI acceleration for IC design, but the candidate profile is heavily focused on power integrity and advanced packaging.",
+    "reason": "The role is primarily ASIC design and verification, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "f7fa1c2d",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Performance Architect",
@@ -17710,13 +17708,12 @@
     "url": "https://www.linkedin.com/jobs/view/performance-architect-at-sandisk-4420438273",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires at least 7 years of experience, but only a bachelor's degree is mentioned as required.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "7e09c528",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-04-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Digital Design Engineering",
@@ -17725,13 +17722,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-digital-design-engineering-at-analog-devices-4400121459",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role heavily emphasizes AI/ML applications in digital design, which is outside Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role is primarily focused on digital design for ICs with application of AI/ML methodologies, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "caaa6413",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-05-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Platform Technologies Language & Frontend Design Engineer",
@@ -17740,13 +17736,12 @@
     "url": "https://www.linkedin.com/jobs/view/platform-technologies-language-frontend-design-engineer-at-sifive-4400903996",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role focused on language tooling for hardware design, whereas the target jobs are primarily in semiconductor VLSI/EDA.",
+    "reason": "The role is software development focused (Scala, Python programming, DSL design for hardware) rather than semiconductor/VLSI/EDA technical domains. It does not match Vineeth's background.",
     "id": "4e7a7ce1",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-03-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer, ASIC",
@@ -17755,13 +17750,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-asic-at-neuralink-4417197440",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL is returning an error, preventing evaluation of the posting.",
+    "reason": "The role is software engineering focused on EDA toolchain integration and infrastructure, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or CAD Methodology.",
     "id": "a11cce81",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT EngineerSingapore, SingaporePosted 8 days ago",
@@ -17770,13 +17764,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41140497",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an IT Engineer role, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is software engineering focused, while Vineeth's background is in Power Integrity, Advanced Packaging and SoC PDN sign-off. It does not match his technical domain.",
     "id": "e3afd3e0",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u30102026 TSMC Campus Recruitment\u3011Information Technology (IT)",
@@ -17785,13 +17778,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19047&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This IT role at TSMC is focused on factory automation, office automation and cloud computing systems development, which does not directly match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for an IT role at TSMC's manufacturing and info-tech department, which does not fit Vineeth's semiconductor VLSI EDA background in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
     "id": "62b790f6",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -17799,14 +17791,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Information-Technology-IT%2F19047",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical IT role, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Technical Leader position at TSMC, one of the world's leading semiconductor foundries, which fits within Vineeth's technical domain expertise and leadership background. The job posting mentions no specific security clearance requirements or restrictions to particular nationalities.",
     "id": "d76ca85c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_d76ca85c.txt"
   },
   {
     "title": "SAP ERP System Engineer",
@@ -17815,13 +17806,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=300&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an SAP ERP System Engineer role at TSMC, which is in Information Technology and Admin, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (SAP ERP system design and maintenance) which falls outside Vineeth's domain of VLSI/EDA.",
     "id": "30d328ae",
     "source": "tsmc_careers",
     "posted_date": "2026-03-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
