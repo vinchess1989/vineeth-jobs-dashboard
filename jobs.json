@@ -16139,14 +16139,13 @@
     "location": "Korea",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16685&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a business development manager position rather than an engineering or technical leadership role focused on VLSI/EDA.",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior Asia Account Manager based in Korea, fitting the EDA leadership role criteria.",
     "id": "5d00eb2b",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_korea_limited_asia_account_manager__korea_ba_5d00eb2b.txt"
   },
   {
     "title": "RD Process Engineer - Corporate Research",
@@ -16155,13 +16154,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16419&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is based in Taiwan which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia, or remote worldwide.",
+    "reason": "The role is primarily research-focused on new materials and processes, which doesn't strongly match Vineeth's power integrity and advanced packaging expertise.",
     "id": "c1e4ce8c",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Release Lead (Data Center GPU)",
@@ -16170,13 +16168,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87083?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Austin, Texas, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, or Asia.",
+    "reason": "The role is primarily software engineering (release management, bug triage) which is outside Vineeth's domain of Power Integrity, CAD methodology and SoC physical design.",
     "id": "1c8dc904",
     "source": "amd_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u8a9e\u8a00\u5c08\u624d",
@@ -16185,13 +16182,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21849&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position does not match the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology in the semiconductor/VLSI/EDA field. It is a general Technical role focused on language skills at TSMC's Taiwan HQ.",
+    "reason": "The job is for a non-technical role at a semiconductor company.",
     "id": "fdc150a0",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -16199,14 +16195,13 @@
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F21849",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job requires a US citizen with active security clearance, which is a hard rejection per requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with no specific technical domain mentioned, so could potentially match if it aligns with Vineeth's skills and experience.",
     "id": "07d7d0ce",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Digital IC Design & Firmware Engineer | Precision ADC",
@@ -16215,13 +16210,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=c87200f83faa0c69",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Digital IC Design & Firmware Engineer, which does not match our target domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "43ee65e9",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital IC Design & Firmware Engineer | Precision ADC salaries in Tucson, AZ",
@@ -16230,13 +16224,12 @@
     "url": "https://www.indeed.com/career/firmware-engineer/salaries/Tucson--AZ?campaignid=serp-more&fromjk=c87200f83faa0c69&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary overview page for Firmware Engineers in Tucson, AZ, not a specific job posting. It does not contain details of a particular job role and requirements.",
+    "reason": "This role is primarily software development (firmware engineer) and verification (ADC design), which are outside Vineeth's domain.",
     "id": "ef2b187c",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "NVM/RRAM Device-PI Engineer (R&D)",
@@ -16245,13 +16238,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=3405f6635ea503ca",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Engineering Manager role, which does not fit the technical engineering focus of the search criteria.",
+    "reason": "The job is a technical role for R&D of NVM/RRAM devices, which does not directly match Vineeth's Power Integrity and Advanced Packaging expertise. It may require knowledge of device physics and materials engineering rather than the EDA tools and methodologies Vineeth specializes in.",
     "id": "8bba372b",
     "source": "indeed_semi_ww",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NVM/RRAM Device-PI Engineer (R&D) salaries in Dallas, TX",
@@ -16260,13 +16252,12 @@
     "url": "https://www.indeed.com/career/r&d-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=3405f6635ea503ca&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an R&D Engineer position, which does not match the specified technical domains such as Power Integrity (PI), Signal Integrity (SI), Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "19337bf7",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Reliability Engineer (Starlink/Akoustis)",
@@ -16275,13 +16266,12 @@
     "url": "https://www.glassdoor.com/job-listing/equipment-reliability-engineer-starlink-akoustis-spacex-JV_IC1132699_KO0,48_KE49,55.htm?jl=1010156984259",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Equipment Reliability Engineer role, which does not fit the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "Job posting URL does not specify technical role in semiconductor/VLSI/EDA domain",
     "id": "7a0448d8",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "reliability engineer jobs in Canandaigua, NY",
