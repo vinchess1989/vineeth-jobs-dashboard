@@ -7040,13 +7040,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-physical-design-engineer-netlisting-new-college-grad-2026-at-nvidia-4410868529",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This entry level ASIC Physical Design Engineer role is for a new college grad, which does not match the senior-level technical leadership profile of Vineeth Prathapachandra Kaimal.",
+    "reason": "The role is entry-level with no leadership experience, and focuses on netlisting and equivalence checking which is outside Vineeth's domain of power integrity and advanced packaging. However, it does have a match in the 'ASIC design' domain.",
     "id": "6af9908d",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -7055,13 +7054,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-accord-technologies-inc-4373827041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract role, which does not match the full-time preference.",
+    "reason": "The role is a Physical Design Engineer, which does not match Vineeth's background of Power Integrity and Advanced Packaging. It falls under 'Hard Rejections' for being verification-focused.",
     "id": "dee0c1fd",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-04-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Mechanical Modeling Engineer, Texas Institute for Electronics",
@@ -7070,13 +7068,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-mechanical-modeling-engineer-texas-institute-for-electronics-at-the-university-of-texas-at-austin-4346324332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located at a university research institute, not a semiconductor company or EDA startup.",
+    "reason": "The role is a university research position with no mention of semiconductor, VLSI, or EDA technical work.",
     "id": "c96531a4",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer",
@@ -7085,13 +7082,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-rtl-design-engineer-at-mythic-4312756423",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL Design Engineer at a semiconductor company, but it requires 8+ years of experience which exceeds Vineeth's 15 years. It should be discarded.",
+    "reason": "This is a senior RTL Design Engineer role at Mythic, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "024d496b",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior EDA Tools Software Engineer",
@@ -7100,13 +7096,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-eda-tools-software-engineer-at-intel-4425558064",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical hands-on leadership position at Intel's Silicon Chassis team, requiring direct influence on next-generation SoC chassis architectures and delivery. This doesn't match the key skill areas of Power Integrity (PI) / Advanced Packaging / CAD Methodology.",
+    "reason": "The role is primarily software development (EDA Tools Software Engineer) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and Physical Design.",
     "id": "1c755cf2",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Design Flow Development Engineer",
@@ -7115,13 +7110,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-design-flow-development-engineer-at-intel-4427207764",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Hillsboro, OR which does not match the preferred regions of Finland/Europe (excluding Finland), India, Asia, UK, and fully remote worldwide options. It also does not meet the experience criteria of 10-15+ years.",
+    "reason": "The role is software development focused (scripting, automation) rather than semiconductor/VLSI/EDA",
     "id": "b1748cb1",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "EDA Design Flow Development Engineer",
@@ -7130,13 +7124,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-design-flow-development-engineer-at-intel-4427206783",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US-based residency, which is a hard rejection per criteria.",
+    "reason": "The role is primarily software development (embedded software engineer) which is outside Vineeth's domain.",
     "id": "ffd86f56",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer",
@@ -7145,13 +7138,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-hardware-engineer-at-omni-design-technologies-inc-4409119202",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior Hardware Engineer position, which does not fit the target domains of Power Integrity (PI), Advanced Packaging, or CAD/Methodology.",
+    "reason": "The role is primarily software development (FPGA development, Python scripting), which is outside Vineeth's domain.",
     "id": "f5ca8a13",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer",
@@ -7160,13 +7152,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-at-biotalent-4423526840",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a biotech company, not an engineering/technical position in the semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily focused on medical device hardware design and embedded systems, which are outside Vineeth's domain of semiconductor VLSI EDA.",
     "id": "2864f265",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Design Flow Development Engineer",
@@ -7175,13 +7166,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-design-flow-development-engineer-at-intel-4427207763",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency which does not match our criteria.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which does not match Vineeth's domain.",
     "id": "ef4fd053",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Workflow Optimization Engineer",
