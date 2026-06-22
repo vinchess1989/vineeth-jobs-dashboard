@@ -65448,13 +65448,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technology-field-application-engineer-%E2%80%93-fpga-at-arrow-components-4429535584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Technology Field Application Engineer - FPGA, which does not match the key domains of Power Integrity, Advanced Packaging, VLSI/SoC Physical Design, EDA Tools, or Engineering Leadership.",
+    "reason": "The role is primarily focused on sales and customer support rather than technical engineering.",
     "id": "82e3d14c",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Digital Verification Engineer",
@@ -65462,14 +65461,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-verification-engineer-at-ic-resources-4426822548",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Digital Verification Engineer role which does not match the target domains of Power Integrity, Advanced Packaging, or CAD/Methodology.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "293035a6",
     "source": "linkedin_uk_asic_design",
-    "posted_date": "2023-05-17",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior IP Design Engineer",
@@ -65478,13 +65476,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-ip-design-engineer-at-natobotics-4321540699",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior IP Design Engineer role with 5+ years experience matches the target domain of Power Integrity and Physical Design.",
+    "reason": "Senior IP Design Engineer role matches Vineeth's domain of Power Integrity and Advanced Packaging, with skills in SystemVerilog RTL design and familiarity with FPGA/Adaptive SoC design flow.",
     "id": "0e8dde81",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-03-04",
     "deadline": "N/A",
-    "description_file": "job_descriptions/natobotics_senior_ip_design_engineer_0e8dde81.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/natobotics_senior_ip_design_engineer_0e8dde81.txt"
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -65493,13 +65490,12 @@
     "url": "https://uk.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4418206393",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level, general 'Stay Connected' opportunity without a specific technical focus that matches Vineeth's background and experience. It does not fit into any of the target domains.",
+    "reason": "This is a general call for future applications, not a specific technical leadership role in semiconductor/VLSI/EDA. Vineeth's skills are not well aligned with generic 'Stay Connected' postings.",
     "id": "961b7cd2",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Design Lead",
@@ -65507,14 +65503,13 @@
     "location": "Worthing, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/technical-design-lead-at-advance-trs-4427393198",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior technical leadership role with 15+ years of experience aligning well with job requirements.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves engineering design leadership within a water sector context, which overlaps with semiconductor/EDA/VLSI by targeting broad hardware engineering skills. The location is in Worthing, England.",
     "id": "7cd41f41",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/advance_trs_technical_design_lead_7cd41f41.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -65522,14 +65517,13 @@
     "location": "Omagh, Northern Ireland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-terex-corporation-4419035382",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Senior Design Engineer focused on mobile tracked equipment, which does not match the target domains of semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b77b66bd",
     "source": "linkedin_uk_asic_design",
-    "posted_date": "2023-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Analogue IC Design Engineer",
@@ -65538,13 +65532,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-analogue-ic-design-engineer-at-rise-technical-4421107532",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior analogue IC design role with 7+ years of experience fits key domains. London location is a match.",
+    "reason": "Senior Analogue IC Design Engineer role with 7+ years experience, strong mixed-signal expertise in DAC and ADC design for semiconductor products.",
     "id": "e8dc13a1",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/rise_technical_senior_analogue_ic_design_engi_e8dc13a1.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/rise_technical_senior_analogue_ic_design_engi_e8dc13a1.txt"
   },
   {
     "title": "FPGA Design Engineer",
@@ -65553,13 +65546,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-design-engineer-at-epergne-solutions-4419277147",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mid-senior level FPGA Design Engineer position, which does not match the senior technical leadership roles we are looking to prioritize.",
+    "reason": "The role is an FPGA Design Engineer, which falls under hardware design and validation. This is outside Vineeth's domain of power integrity, advanced packaging, and EDA/CAD methodology.",
     "id": "88853e7e",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Opening for FPGA Design engineer with HAPS experience - Bangalore",
@@ -65568,13 +65560,12 @@
     "url": "https://in.linkedin.com/jobs/view/opening-for-fpga-design-engineer-with-haps-experience-bangalore-at-ust-4418288628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mid-senior level FPGA design engineer position with HAPS experience, which does not match the senior technical leadership role we are looking for.",
+    "reason": "This is an FPGA design role focused on HAPS emulation, which does not match Vineeth's domain of Power Integrity and Advanced Packaging. It also does not mention any leadership/management aspects.",
     "id": "e1fa1620",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
@@ -65583,13 +65574,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4425415831",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match the key skills mentioned for Power Integrity (PI) / Advanced Packaging / CAD / Methodology.",
+    "reason": "The role is primarily VLSI design and verification, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "13fe927e",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
