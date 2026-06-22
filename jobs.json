@@ -10582,13 +10582,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-hcltech-4399026456",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a Design Verification Engineer at an IT services company, HCLTech. The requirements state it must be within semiconductor/VLSI/EDA and senior leadership roles.",
+    "reason": "The role is primarily focused on Design Verification for ASICs/SoCs, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "b570d733",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Staff Manager - Physical Design",
@@ -10596,14 +10595,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/sr-staff-manager-physical-design-at-marvell-technology-4415290255",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid LinkedIn job listing and could not be processed.",
+    "matches_requirements": "yes",
+    "reason": "Matches senior physical design role at semiconductor firm with 15+ years exp, leadership title, and relevant skills",
     "id": "dcdfad42",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-28",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/marvell_technology_sr_staff_manager___physical_de_dcdfad42.txt"
   },
   {
     "title": "Physical Design Engineer",
@@ -10612,13 +10610,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-mediatek-4406555566",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided for the job listing appears to be invalid, so there is no way to determine if this job matches based on the given criteria.",
+    "reason": "The role is primarily ASIC/SoC Physical Design focused on Cadence Innovus, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "536d1b77",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Software Engineer, Emerging Devices Software",
@@ -10627,13 +10624,12 @@
     "url": "https://www.indeed.com/viewjob?jk=fedcba9876543210",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description page does not exist, so it cannot be evaluated against the given criteria.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "b342c27a",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Controls Engineer, Amazon Leo Optical Inter-Satellite Link",
@@ -10642,13 +10638,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=b41e038b986a8629",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for an Optical Inter-Satellite Link Controls Engineer, which does not match the VLSI/EDA semiconductor domain.",
+    "reason": "The role is primarily software development (embedded firmware engineer) which is outside Vineeth's domain.",
     "id": "a9692ca2",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Controls Engineer, Amazon Leo Optical Inter-Satellite Link salaries in Redmond, WA",
@@ -10657,13 +10652,12 @@
     "url": "https://www.indeed.com/career/controls-engineer/salaries/Redmond--WA?campaignid=serp-more&fromjk=b41e038b986a8629&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a controls engineer which does not match the VLSI/EDA semiconductor domain expertise required.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "500bb5ca",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Career Accelerator Program - Digital IC Design & DV Engineer",
@@ -10672,13 +10666,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=a22c8b6453d3fbfe",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in HR, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "e56f7b2e",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Career Accelerator Program - Digital IC Design & DV Engineer salaries in Tucson, AZ",
@@ -10687,13 +10680,12 @@
     "url": "https://www.indeed.com/career/digital-designer/salaries/Tucson--AZ?campaignid=serp-more&fromjk=a22c8b6453d3fbfe&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Digital Designer position, which does not match the technical domains specified in the requirements.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "67a5c70d",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Engineer | DCC-PADC salaries in Dallas, TX",
@@ -10702,28 +10694,26 @@
     "url": "https://www.indeed.com/career/system-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=9ff99b87866fcbcf&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a salary overview for System Engineers in Dallas, TX, and does not list an actual job posting.",
+    "reason": "The role is primarily software engineering focused (embedded, firmware) and requires a Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering or related field. This does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
     "id": "a3c7d415",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-25",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "digital design engineer jobs in Tucson, AZ",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Texas Instruments",
+    "location": "Tucson, AZ",
     "url": "https://www.glassdoor.com/Job/tucson-digital-design-engineer-jobs-SRCH_IL.0,6_IC1133996_KO7,30.htm",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a Digital IC Design Engineer role at Texas Instruments in Tucson, AZ which does not closely match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "2a1cc5be",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Tucson, AZ jobs",
