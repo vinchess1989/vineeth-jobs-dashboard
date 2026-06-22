@@ -37475,14 +37475,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FData-Protection-Investigator%2F567",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design, or Engineering Leadership roles.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a management position, which makes it potentially matchable based on leadership/management overlap without needing exact technical sub-domain. However, the description doesn't provide enough details to make a definitive yes or no.",
     "id": "5976be38",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -37490,14 +37489,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4425618467",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves advanced physical design of semiconductor IPs which is a direct match to the candidate profile.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Physical Design Engineer which does not match Vineeth's key skills in Power Integrity and Advanced Packaging.",
     "id": "56c4c08d",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-24",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/quest_global_physical_design_engineer_56c4c08d.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "AI HARDWARE ENGINEER",
@@ -37506,13 +37504,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-hardware-engineer-at-ekcel-technologies-inc-4427533244",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI Hardware Engineer role at Ekcel Technologies is focused on ML hardware design and integration, which does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is primarily software development (ML frameworks, cloud deployment) rather than semiconductor/VLSI/EDA.",
     "id": "6edf8508",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Design Verification Engineer",
@@ -37521,13 +37518,12 @@
     "url": "https://www.linkedin.com/jobs/view/silicon-design-verification-engineer-at-amd-4356641414",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located at AMD's headquarters in San Jose, California, USA.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "66402cf0",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -37536,13 +37532,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-tessera-labs-4430038238",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a design engineer at an AI software company, not semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development focused on AI for ERP systems, which is outside Vineeth's domain of expertise in semiconductor/EDA/VLSI. It does not match any of his key skills.",
     "id": "03f83f0b",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Manager - Compute Subsystems (Physical AI)",
@@ -37551,13 +37546,12 @@
     "url": "https://careers.arm.com/job/austin/senior-product-manager-compute-subsystems-physical-ai/33099/94526853472",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical product management role, which doesn't match our engineering/technical requirements.",
+    "reason": "The role is a senior product management position focused on Physical AI compute systems, which doesn't directly align with Vineeth's technical background in Power Integrity and Advanced Packaging. It requires a mix of technical and marketing experience.",
     "id": "355f0514",
     "source": "arm_careers",
     "posted_date": "2026-04-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Temporary Business Operations Specialist (6-Month Contract) (7710)",
@@ -37566,13 +37560,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22523&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business operations specialist role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is a non-technical business operations specialist position, not an engineering/technical semiconductor/VLSI/EDA role that Vineeth Prathapachandra Kaimal would be qualified for.",
     "id": "03c61dc9",
     "source": "tsmc_careers",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Outgoing Quality Assurance Specialist",
@@ -37581,13 +37574,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22522&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is an entry-level QA specialist, not a technical leadership position in semiconductor VLSI EDA.",
     "id": "1ae19e6f",
     "source": "tsmc_careers",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -37596,13 +37588,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FOutgoing-Quality-Assurance-Specialist%2F22522",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical quality assurance role at TSMC, which does not match the semiconductor/VLSI/EDA technical roles we are targeting.",
+    "reason": "The role is a Quality Assurance Specialist, which is outside Vineeth's domain of technical leadership in Power Integrity, Advanced Packaging and EDA.",
     "id": "1ec0cf47",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u53f0\u7a4d\u96fb\u6280\u8853\u54e1 - \u8eab\u5fc3\u969c\u7919\u62db\u52df",
@@ -37611,13 +37602,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=21850&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company.",
+    "reason": "This is a general recruitment announcement listing multiple specific technical roles, but none match Vineeth's exact background and experience. It does not link to individual job descriptions.",
     "id": "5a0ecc5c",
     "source": "tsmc_careers",
     "posted_date": "2026-06-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
