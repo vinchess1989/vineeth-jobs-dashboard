@@ -3035,14 +3035,13 @@
     "location": "Amsterdam, Netherlands",
     "url": "https://www.euroengineerjobs.com/jobs/netherlands",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This engineering role at Tesla is located in Amsterdam, Netherlands and fits several target domains.",
+    "matches_requirements": "maybe",
+    "reason": "Potential match for a technical leadership role, but needs more details to confirm exact domain and location.",
     "id": "f162bd73",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "Poland (12)",
@@ -3050,14 +3049,13 @@
     "location": "Warsaw or Rzeszow, Poland",
     "url": "https://www.euroengineerjobs.com/jobs/poland",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the Power Integrity and Advanced Packaging domains with 15+ years of relevant experience.",
+    "matches_requirements": "no",
+    "reason": "The role is for an aerospace engineer, not semiconductor/VLSI/EDA.",
     "id": "4603e801",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-06-17",
-    "deadline": "1 july",
-    "description_file": "job_descriptions/boeing_poland__12__4603e801.txt",
-    "needs_re_review": true
+    "deadline": "2026-07-01",
+    "description_file": null
   },
   {
     "title": "Portugal (10)",
@@ -3065,14 +3063,13 @@
     "location": "Braga, Portugal",
     "url": "https://www.euroengineerjobs.com/jobs/portugal",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role of Global Manufacturing Process Engineer at Aptiv in Braga, Portugal matches the required domain and location criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is a Project Manager focused on cross-functional teams and stakeholder management, which falls outside Vineeth's primary technical domains of Power Integrity, Advanced Packaging, EDA CAD methodology.",
     "id": "dfec25c8",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-05-15",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/aptiv_portugal__10__dfec25c8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Facebook",
@@ -3081,13 +3078,12 @@
     "url": "https://www.facebook.com/joblyfi",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a marketing role at a job search platform, which we are not looking to match.",
+    "reason": "The posting is for a non-technical Marketing role, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "72167a89",
     "source": "jobly_fi_engineer",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Instagram",
@@ -3095,14 +3091,13 @@
     "location": "Extract from page",
     "url": "https://instagram.com/jobly.fi",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting URL provided does not contain a valid company name or location details. It appears to be an Instagram page for job postings rather than a specific job listing.",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
     "id": "6cbf22da",
     "source": "jobly_fi_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Linkedin",
@@ -3111,13 +3106,12 @@
     "url": "https://linkedin.com/company/joblyfi",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain enough technical details to evaluate a match for the required semiconductor/VLSI/EDA industry experience.",
+    "reason": "The job posting is for a general staffing and recruiting company, not an engineering/technical role at a semiconductor company.",
     "id": "cb4a0d29",
     "source": "jobly_fi_engineer",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Quality Manager- AITELUS DigitalTampereGo to job site",
@@ -3126,13 +3120,12 @@
     "url": "https://jobs.telusdigital.com/jobs/17822922-senior-quality-manager-ai?bid=21001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is for a Quality Manager position which does not fit Vineeth's technical background in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "64161d5a",
     "source": "work_in_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Medical Transcriber (Polish)Inscripta OyFinlandGo to job site",
@@ -3140,14 +3133,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://thehub.fi/jobs/6a2bcf7637958933f3a8cd5d",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a good match based on the technical domains and regions specified.",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical medical transcription role, which does not match Vineeth's VLSI/EDA background and experience.",
     "id": "eca401f5",
     "source": "work_in_finland",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/inscripta_oy_medical_transcriber__polish_in_eca401f5.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Create your profile",
@@ -3156,13 +3148,12 @@
     "url": "https://tyomarkkinatori.fi/en/teemasivut/job-applicant-profile?mtm_campaign=wif-prof&mtm_kwd=web",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This appears to be an instruction page for creating a job applicant profile, not an actual job posting.",
+    "reason": "This is a generic profile creation page, not an actual job posting. It does not list any specific technical requirements.",
     "id": "86cb87d9",
     "source": "work_in_finland",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Career guide",
@@ -3171,13 +3162,12 @@
     "url": "https://www.workinfinland.com/en/career-guide/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a career guide webpage, not a specific job posting.",
+    "reason": "The job is a non-technical career guide role, not relevant to semiconductor/VLSI/EDA.",
     "id": "2af2a2c7",
     "source": "work_in_finland",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Design student here. How do I learn digital design/RTL in parallel without messing up my analog prep?",
