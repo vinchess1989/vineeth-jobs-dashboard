@@ -65588,13 +65588,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4427516079",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a VLSI Engineer L3 role at Wipro in Bengaluru, India, which does not match the target domains of Power Integrity (PI), Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is focused on VLSI verification and does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f6fdcbdb",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
@@ -65603,13 +65602,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4428601095",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VLSI Engineer Level 3 at Wipro in Bangalore, India which does not match the senior leadership and technical specialization preferences.",
+    "reason": "The role is primarily verification (RTL coding, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "3765dc81",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
@@ -65618,13 +65616,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4419560236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VLSI engineer with 3-5 years' experience, which does not match the senior technical leadership roles we are looking for.",
+    "reason": "The role is primarily focused on VLSI design and verification, which does not match Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
     "id": "620005f6",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
@@ -65633,13 +65630,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4429737804",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level VLSI Engineer position with only 3-5 years of experience required, whereas our target is for roles matching 10-15+ years of experience.",
+    "reason": "This is a VLSI Verification Engineer role, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging. It involves module/ IP verification rather than PI/SI/physical design.",
     "id": "8f70e0cb",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer (HPM510ST RM 4154)",
@@ -65647,14 +65643,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/fpga-design-engineer-hpm510st-rm-4154-at-source-right-4422939157",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches domain requirement, but seniority level is lower than ideal.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on FPGA design and validation, which falls outside Vineeth's power integrity and advanced packaging expertise.",
     "id": "a7440e6b",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65663,13 +65658,12 @@
     "url": "https://pt.linkedin.com/jobs/view/fpga-engineer-at-mobizy-4415991353",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer, which does not match the target domains of Power Integrity/SI/Advanced Packaging/CAD/VLSI/EDA in semiconductor.",
+    "reason": "The role is primarily FPGA development for communications systems, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
     "id": "286a0463",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65678,13 +65672,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-at-al%C3%A9n-space-4429556049",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role is focused on space technology applications, which does not match the semiconductor/VLSI/EDA domains targeted.",
+    "reason": "This FPGA design role is outside Vineeth's domain of expertise which is focused on Power Integrity, Advanced Packaging and EDA CAD Methodology.",
     "id": "3095ee60",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65693,13 +65686,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-at-capgemini-engineering-4379064187",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer, which does not match the target domains of Power Integrity (PI) / Advanced Packaging.",
+    "reason": "The role is primarily FPGA design and development, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "6c33ed69",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65708,13 +65700,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-at-ic-resources-4366170881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an FPGA Engineer focused on radar SoC platforms, which does not match our VLSI/EDA job requirements.",
+    "reason": "The role is primarily FPGA design for radar systems, which does not match Vineeth's power integrity and advanced packaging focus.",
     "id": "2fec8f4e",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65723,13 +65714,12 @@
     "url": "https://fr.linkedin.com/jobs/view/fpga-engineer-at-gts-group-ltd-4423357183",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer, which does not directly match Vineeth's background and experience in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily FPGA design for space applications, which does not match Vineeth's areas of expertise in Power Integrity & Advanced Packaging.",
     "id": "0232354a",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer (Rif. 2026-196)",
