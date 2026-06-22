@@ -64327,14 +64327,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/asic-physical-design-implementation-engineer-at-european-tech-recruit-4427034675",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches key skills, years of experience, and target technical domains",
+    "matches_requirements": "no",
+    "reason": "This is a freelance contract role, which doesn't match Vineeth's full-time employment preference.",
     "id": "d23b8b05",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_asic_physical_design_implement_d23b8b05.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical ASIC Design Implementation Engineer",
@@ -64343,13 +64342,12 @@
     "url": "https://be.linkedin.com/jobs/view/physical-asic-design-implementation-engineer-at-european-tech-recruit-4427549722",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Strong match for Physical Design Engineer with 10+ years exp, fits key skills and technologies like Cadence Innovus P&R. Located in Leuven, Belgium which is a priority location.",
+    "reason": "The role is for a Physical ASIC Design Implementation Engineer at a semiconductor company, matches the technical domains of physical design and EDA tools.",
     "id": "21a41feb",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_asic_design_implement_21a41feb.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_physical_asic_design_implement_21a41feb.txt"
   },
   {
     "title": "Hardware Engineer",
@@ -64358,13 +64356,12 @@
     "url": "https://nl.linkedin.com/jobs/view/hardware-engineer-at-next-handling-solutions-4425457818",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role in a semiconductor context",
+    "reason": "The role is in industrial automation hardware engineering, not semiconductor/VLSI/EDA.",
     "id": "fdc9b81c",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Hardware Engineer",
@@ -64372,14 +64369,13 @@
     "location": "Getafe, Community of Madrid, Spain",
     "url": "https://es.linkedin.com/jobs/view/principal-hardware-engineer-at-gts-group-ltd-4429227591",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is based in Spain, which doesn't match the target regions of Finland/UK/India/Asia/Remote worldwide.",
+    "matches_requirements": "yes",
+    "reason": "Matches technical domain of Power Integrity, leadership experience and key skills like ANSYS RedHawk",
     "id": "7fbafbe2",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/gts_group_ltd_principal_hardware_engineer_7fbafbe2.txt"
   },
   {
     "title": "Junior Hardware Engineer",
@@ -64388,13 +64384,12 @@
     "url": "https://nl.linkedin.com/jobs/view/junior-hardware-engineer-at-hoppenbrouwers-4267052697",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Junior Hardware Engineer role at Hoppenbrouwers, which does not match the senior technical leadership roles targeted for Power Integrity and VLSI/EDA domains.",
+    "reason": "The role is primarily hardware engineering for industrial automation, which does not match Vineeth's background in semiconductor power integrity and advanced packaging.",
     "id": "e9f7b270",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-03-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical ASIC Design Implementation Engineer - (Contract)",
@@ -64403,13 +64398,12 @@
     "url": "https://be.linkedin.com/jobs/view/physical-asic-design-implementation-engineer-contract-at-european-tech-recruit-4427039235",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This physical ASIC design implementation engineer role matches the required domain and technical area, with experience in Cadence Innovus Place & Route flow.",
+    "reason": "Matches key skills and experience in Physical Design and works for a semiconductor company.",
     "id": "bc3f3255",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_asic_design_implement_bc3f3255.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_physical_asic_design_implement_bc3f3255.txt"
   },
   {
     "title": "Analog ASIC Design Engineer",
@@ -64417,14 +64411,13 @@
     "location": "Nuremberg, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/analog-asic-design-engineer-at-ranovus-inc-4404956555",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for Analog ASIC Design Engineer with experience in analog/mixed-signal IC design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily analog and mixed-signal IC design with lab characterization, which is a mismatch for Vineeth's CAD/Methodology and Power Integrity background.",
     "id": "299188a6",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ranovus_inc__analog_asic_design_engineer_299188a6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Engineer",
@@ -64433,13 +64426,12 @@
     "url": "https://nl.linkedin.com/jobs/view/design-automation-engineer-at-alten-4427194359",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a mechanical design engineer focused on Tacton and SolidWorks, not semiconductor/VLSI/EDA.",
+    "reason": "The role is software development focused, not semiconductor/VLSI/EDA.",
     "id": "135bb393",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -64448,13 +64440,12 @@
     "url": "https://nl.linkedin.com/jobs/view/fpga-engineer-at-tmc-4421964819",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The FPGA Engineer role does not match the semiconductor/VLSI/EDA domain focus required.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "6223be50",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ingeniero FPGA",
@@ -64463,13 +64454,12 @@
     "url": "https://es.linkedin.com/jobs/view/ingeniero-fpga-at-intigia-4421115320",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a VHDL development engineer position, which does not match the target domains of Power Integrity (PI), Advanced Packaging, and CAD/Methodology in semiconductor/VLSI/EDA.",
+    "reason": "This FPGA development role is focused on VHDL design and implementation rather than the candidate's areas of Power Integrity, Advanced Packaging, SoC PDN sign-off, or CAD Methodology.",
     "id": "8b2d700b",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2023-06-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer \u2013 Sistemi Digitali ad Alte Prestazioni",
