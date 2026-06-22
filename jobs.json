@@ -55186,13 +55186,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-lead-engineer-at-tech-mahindra-4424883021",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an FPGA design role, not a match for VLSI/EDA.",
+    "reason": "The role is primarily FPGA design, which is outside Vineeth's domain of expertise in Power Integrity (PI) and Advanced Packaging.",
     "id": "3cd79ab2",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA HAPS Engineer",
@@ -55201,13 +55200,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-haps-engineer-at-hcltech-4430423268",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an FPGA engineer at HCLTech in Bengaluru, India, which does not match the required domains of Power Integrity (PI) / Advanced Packaging / CAD Methodology.",
+    "reason": "The role is primarily software development (FPGA Prototyping Engineer) which is outside Vineeth's domain.",
     "id": "26c638cf",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer (T&IC)",
@@ -55216,13 +55214,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-fpga-engineer-t-ic-at-larsen-toubro-4390382425",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer at a company in Mumbai, India. It does not match the domain (Power Integrity, Advanced Packaging) and location preferences for Finland, Europe, UK, India, Asia, or fully remote roles as specified in the requirements.",
+    "reason": "The job is for an FPGA RTL design engineer position, which does not match Vineeth's domain of power integrity, advanced packaging, or CAD/Methodology.",
     "id": "3bbdcab5",
     "source": "linkedin_india_fpga_engineer_p3",
     "posted_date": "2023-06-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -55231,13 +55228,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-design-engineer-at-acl-digital-4427487059",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA validation, which is not a direct match to VLSI/EDA roles we are seeking.",
+    "reason": "This is an FPGA validation engineer role, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "2e714cd5",
     "source": "linkedin_india_fpga_engineer_p3",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA RTL Design Engineer",
@@ -55246,13 +55242,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-epergne-solutions-4413283522",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a mid-level role (7+ years experience) and does not match senior leadership technical leadership requirements",
+    "reason": "The role is primarily FPGA RTL design focused on packet processing which does not match Vineeth's domain of Power Integrity, Advanced Packaging and CAD Methodology.",
     "id": "b11a9a64",
     "source": "linkedin_india_fpga_engineer_p3",
     "posted_date": "2023-04-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer/Lead",
@@ -55260,29 +55255,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-lead-at-soctronics-4138572054",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is an FPGA design role focused on hardware development, not Power Integrity/Advanced Packaging.",
     "id": "bc61e6ce",
     "source": "linkedin_india_fpga_engineer_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "FPGA RTL Design Engineer",
-    "company": "Epergne Solutions",
-    "location": "Hyderabad, Telangana, India",
-    "url": "https://in.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-epergne-solutions-4413293416",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a mid-level FPGA RTL Design Engineer role at an Indian company, which does not match the senior leadership and semiconductor/EDA industry criteria.",
-    "id": "c678e406",
-    "source": "linkedin_india_fpga_engineer_p3",
-    "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -55291,13 +55270,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-design-engineer-at-alten-india-4431160951",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is entry-level and focuses on FPGA design rather than Power Integrity/Advanced Packaging which is Vineeth's area of expertise.",
+    "reason": "The role is an FPGA Design Engineer focused on VHDL, Libero SoC, and simulation tools like ModelSim/QuestaSim. This does not match Vineeth's background in Power Integrity, Advanced Packaging, or CAD Methodology.",
     "id": "df0d99c5",
     "source": "linkedin_india_fpga_engineer_p3",
     "posted_date": "2023-06-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -55305,14 +55283,13 @@
     "location": "Pune Division, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-nxp-semiconductors-4375167241",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role at NXP, a semiconductor company, with verification experience. Needs more details on location/work model.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Design Verification Engineer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "f96841e6",
     "source": "linkedin_india_fpga_engineer_p3",
     "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer (DV)",
@@ -55321,13 +55298,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-dv-at-l-t-technology-services-4028016738",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in India, which is not a high priority location.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which falls outside Vineeth's domain of expertise.",
     "id": "decfdb4e",
     "source": "linkedin_india_fpga_engineer_p3",
     "posted_date": "2023-06-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA  engineer",
