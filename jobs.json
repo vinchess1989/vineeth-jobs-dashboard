@@ -9098,13 +9098,12 @@
     "url": "https://in.linkedin.com/jobs/view/formal-verification-engineer-at-l-t-technology-services-4327142862",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an entry-level to mid-senior level formal verification engineer position with 5+ years of experience, which does not match the senior leadership and technical leadership roles we are targeting.",
+    "reason": "The role is primarily software development (Verilog/VLSI design) rather than semiconductor/EDA/VLSI.",
     "id": "d77b3d45",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Functional Safety Engineer",
@@ -9113,13 +9112,12 @@
     "url": "https://in.linkedin.com/jobs/view/functional-safety-engineer-at-acl-digital-4184508280",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a Functional Safety Engineer at ACL Digital based in Bengaluru, India, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is an engineering position focused on ISO standards and automotive SoC design, which falls outside Vineeth's primary areas of expertise in Power Integrity and Advanced Packaging.",
     "id": "5feb2260",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Low Power ASIC Engineer - New College Grad 2026",
@@ -9128,28 +9126,12 @@
     "url": "https://www.linkedin.com/jobs/view/low-power-asic-engineer-new-college-grad-2026-at-nvidia-4424013202",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position for a new college grad, which does not match the 10-15+ years of experience required by the candidate profile.",
+    "reason": "The role is primarily software development (firmware engineer) which falls outside Vineeth's domain.",
     "id": "ce36da4a",
     "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "FPGA Engineer",
-    "company": "Innovative Solutions & Support",
-    "location": "Exton, PA",
-    "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-innovative-solutions-support-4413142579",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position at a company that does avionics hardware, which doesn't match the VLSI/EDA semiconductor domain focus.",
-    "id": "3f801d41",
-    "source": "linkedin_fpga_ww",
-    "posted_date": "2023-05-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design / Verification Engineer",
@@ -9158,13 +9140,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-verification-engineer-at-planit-group-llc-4345934748",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level contract position, focusing on FPGA development rather than the target domains of Power Integrity, Advanced Packaging, or EDA CAD.",
+    "reason": "The role is primarily focused on FPGA development rather than Power Integrity, Physical Design, EDA tools or Leadership positions which are Vineeth's domain.",
     "id": "b3c32c4b",
     "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer - New College Grad",
@@ -9173,13 +9154,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-new-college-grad-at-rambus-4417662134",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level role at a chip-making company, which does not match our target domain of Power Integrity (PI), Advanced Packaging or Senior Leadership roles.",
+    "reason": "The role is primarily software development (embedded software engineer) which is outside Vineeth's domain.",
     "id": "a025dbd6",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer - Tactical Photonic Datalinks",
@@ -9188,13 +9168,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-tactical-photonic-datalinks-at-flux-photonics-4418517829",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer specialized in tactical photonic datalinks, which does not match the VLSI/EDA domains specified in the target criteria.",
+    "reason": "The role is primarily software/hardware engineering with FPGA, not semiconductor/VLSI/EDA related design and verification work.",
     "id": "d3a85a69",
     "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-02",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -9203,13 +9182,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-vector-atomic-4407162394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA engineer, which does not match the target domains of Power Integrity (PI), Advanced Packaging, CAD Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The role is primarily focused on FPGA hardware design and prototyping, which is outside Vineeth's main domain of Power Integrity (PI), Advanced Packaging, and CAD/Methodology. While it involves some aspects of SoC PDN sign-off, the overall focus and experience required in FPGA engineering makes this an incorrect match.",
     "id": "54377f3c",
     "source": "linkedin_fpga_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. FPGA Engineer",
@@ -9218,13 +9196,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-fpga-engineer-at-accord-technologies-inc-4394693293",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an entry-level contractor role in Florida, USA which doesn't match the target domains of Power Integrity/Advanced Packaging/CAD Methodology.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain.",
     "id": "885576d8",
     "source": "linkedin_fpga_ww",
     "posted_date": "2023-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -9233,13 +9210,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-cybercoders-4424335535",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role is not a match for the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is in FPGA design for power grid applications, which is outside Vineeth's core domain of Power Integrity and Advanced Packaging. No specific match to his key skills.",
     "id": "385d72ab",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-05-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
