@@ -48116,13 +48116,12 @@
     "url": "https://uk.linkedin.com/jobs/view/packaging-designer-london-based-at-vilgain-4428831868",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Packaging Designer for a food company, which does not match our semiconductor/VLSI/EDA technical job requirements.",
+    "reason": "This role is for a packaging designer at a food company, well outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "2d9f941f",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -48130,14 +48129,13 @@
     "location": "England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430114337",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role is in Advanced Packaging and Power Delivery, with required expertise in both areas.",
     "id": "d44998ef",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_d44998ef.txt"
   },
   {
     "title": "Packaging Consultant",
@@ -48146,13 +48144,12 @@
     "url": "https://uk.linkedin.com/jobs/view/packaging-consultant-at-sun-chemical-4425598866",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Packaging Consultant at a packaging consultancy company (Aura Global), which doesn't fit the VLSI/EDA industry focus. It also mentions a fixed-term contract of 12 months.",
+    "reason": "The role is a packaging consultant focusing on sustainability, not semiconductor/VLSI/EDA technical roles in Power Integrity, CAD methodology, or SoC physical design.",
     "id": "4794b5c5",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -48160,14 +48157,13 @@
     "location": "Wales, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430128147",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "Matches advanced packaging, power delivery expertise with semiconductor startup Axelera AI.",
     "id": "37663e25",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-13",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_37663e25.txt"
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -48176,13 +48172,12 @@
     "url": "https://uk.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430113326",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior role with 10+ years experience required, directly matches key skills and technical domain.",
+    "reason": "The role is an advanced packaging and power delivery senior engineer position at Axelera AI in Scotland, UK, which matches Vineeth's domain.",
     "id": "078b9959",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-04",
     "deadline": "N/A",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_078b9959.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_078b9959.txt"
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -48191,13 +48186,12 @@
     "url": "https://uk.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430134024",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Advanced Packaging & Power Delivery role with 10+ years experience required",
+    "reason": "This role involves advanced packaging and power delivery engineering, which is a strong match for Vineeth's expertise in PI, SI, and packaging.",
     "id": "b9f0f195",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_b9f0f195.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_b9f0f195.txt"
   },
   {
     "title": "R&D Scientist - Sustainable Coatings & Packaging Technologies",
@@ -48206,13 +48200,12 @@
     "url": "https://uk.linkedin.com/jobs/view/r-d-scientist-sustainable-coatings-packaging-technologies-at-metalchemy-4430934420",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an R&D scientist focused on sustainable coatings and packaging technologies, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "The job is for a non-technical R&D Scientist role at a company developing sustainable coatings, not a semiconductor/VLSI/EDA engineering position.",
     "id": "a334dfd2",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-05-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photonics Technical Lead",
@@ -48220,14 +48213,13 @@
     "location": "Harwell, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/photonics-technical-lead-at-infleqtion-uk-4425629934",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on photonics technical lead and does not align with Vineeth's domain of VLSI/EDA/Semiconductor.",
     "id": "e490546b",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photonics Technical Lead",
@@ -48236,13 +48228,12 @@
     "url": "https://uk.linkedin.com/jobs/view/photonics-technical-lead-at-infleqtion-uk-4425638876",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is a Photonics Technical Lead focusing on quantum technologies and integrated photonics, which does not match the specified VLSI/EDA semiconductor job requirements.",
+    "reason": "The role is primarily focused on photonics and quantum technologies rather than semiconductor, VLSI, EDA.",
     "id": "14fb49bf",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead Mechanical Engineer \u00a370K-\u00a385K year",
@@ -48250,14 +48241,13 @@
     "location": "Oxford, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/lead-mechanical-engineer-%C2%A370k-%C2%A385k-year-at-inition-energy-4425621051",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is focused on mechanical engineering, production systems and integration, while Vineeth's background is in semiconductor VLSI/EDA - Power Integrity, Advanced Packaging.",
     "id": "216a997f",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Head of Creative",
