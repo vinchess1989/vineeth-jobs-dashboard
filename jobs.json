@@ -27298,13 +27298,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-kbr-careers-4430769446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer position at KBR Careers, which does not match the specified technical domains like Power Integrity (PI), Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, or VLSI/SoC Design.",
+    "reason": "Requires US security clearance which restricts to specific country's citizens only.",
     "id": "195eb412",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Logic Design Engineer",
@@ -27313,13 +27312,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-logic-design-engineer-at-rambus-4416853622",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior Leadership role with 10+ years experience required, matches domain of Logic Design Engineer",
+    "reason": "Strong match for both domain (Power Integrity/Signal Integrity) and leadership role, with 15+ years experience.",
     "id": "8f93a9b0",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/rambus_principal_logic_design_enginee_8f93a9b0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/rambus_principal_logic_design_enginee_8f93a9b0.txt"
   },
   {
     "title": "SR Layout Engineer, DEG",
@@ -27328,13 +27326,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-layout-engineer-deg-micron-technology-JV_IC1127927_KO0,22_KE23,40.htm?jl=1010159671156",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a non-technical HR position, which does not match the criteria for semiconductor/VLSI/EDA positions.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "6c85907d",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "rf engineer jobs in Boise, ID",
@@ -27343,13 +27340,12 @@
     "url": "https://www.glassdoor.com/Job/boise-rf-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,17.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general RF engineer role, not specific to semiconductor / VLSI / EDA domain.",
+    "reason": "This role is for an RF Engineer, which falls outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "8566c22a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Development Engineer",
@@ -27358,13 +27354,12 @@
     "url": "https://www.glassdoor.com/job-listing/product-development-engineer-micron-technology-JV_IC1127927_KO0,28_KE29,46.htm?jl=1010159670830",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Development Engineer, which does not match the specified technical domains in the job requirements.",
+    "reason": "This is a software engineering role focused on product development, not semiconductor VLSI EDA.",
     "id": "16e17bee",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "development engineer jobs in Boise, ID",
@@ -27373,13 +27368,12 @@
     "url": "https://www.glassdoor.com/Job/boise-development-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a US-based development engineer role, which requires US residency. It does not fit the job search criteria of focusing on semiconductor/VLSI/EDA roles in specific locations such as Finland, Europe, UK, India or Asia.",
+    "reason": "US-based role requiring US residency without mention of visa sponsorship - hard reject per instructions",
     "id": "b6b7c0c7",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, NAND Silicon Design ValidationSingapore, SingaporePosted 4 months ago",
@@ -27387,14 +27381,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/40595720",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves NAND design validation, which aligns with the candidate's background in Power Integrity and advanced packaging. However, it lacks specific mention of skills like ANSYS RedHawk, Cadence Voltus, or Python.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on NAND Flash memory product validation and engineering, which is outside Vineeth's core Power Integrity (PI) / Advanced Packaging domain.",
     "id": "5fad9311",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Advanced Packaging Integration EngineeringSingapore, SingaporePosted 5 months ago",
@@ -27403,13 +27396,12 @@
     "url": "https://micron.eightfold.ai/careers/job/38445018",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches the target domain of Advanced Packaging with direct mention and requirements related to advanced package technology development, integration and yield improvement.",
+    "reason": "Matches domain of advanced packaging and is a senior-level role at a semiconductor company.",
     "id": "8bcf6f43",
     "source": "micron_careers",
     "posted_date": "2023-05-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_senior_engineer__advanced_pack_8bcf6f43.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_senior_engineer__advanced_pack_8bcf6f43.txt"
   },
   {
     "title": "Hardware Validation Engineer",
@@ -27418,13 +27410,12 @@
     "url": "https://www.glassdoor.com/job-listing/hardware-validation-engineer-oracle-JV_IC1147439_KO0,28_KE29,35.htm?jl=1010149182879",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software Validation Engineer, which does not match the specified technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "This role is focused on hardware validation, which falls under software development and is outside Vineeth's domain of power integrity, advanced packaging, and EDA.",
     "id": "82b734f2",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "validation engineer jobs in Santa Clara, CA",
@@ -27433,13 +27424,12 @@
     "url": "https://www.glassdoor.com/Job/santa-clara-validation-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,31.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role in semiconductor/VLSI/EDA domain",
+    "reason": "The role is for a software developer position at Amazon Web Services, which falls outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "a5202bdb",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Oracle jobs in Santa Clara, CA",
