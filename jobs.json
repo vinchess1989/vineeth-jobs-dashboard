@@ -11561,14 +11561,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/substrate-advanced-package-engineer-7103-at-tsmc-4366441480",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The URL provided in the job listing appears to be invalid, preventing further analysis of the job's requirements.",
+    "matches_requirements": "yes",
+    "reason": "The role involves design, simulation, and modeling of complex substrate and packaging technologies to support next generation 3DIC applications.",
     "id": "7a57ca95",
     "source": "linkedin_eda_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_substrate___advanced_package_e_7a57ca95.txt"
   },
   {
     "title": "RTL & Co-design Engineer (junior)",
@@ -11577,13 +11576,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-co-design-engineer-junior-at-openai-4417160942",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RTL & Co-design Engineer at OpenAI, which does not match the semiconductor/VLSI/EDA industry focus. It is also in San Francisco, CA, not one of the priority locations.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain of expertise.",
     "id": "17eb7015",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA / RTL Design Engineer",
@@ -11592,13 +11590,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-pdssoft-inc-4426848888",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role requires a BS degree and 5+ years of experience, which is more than the 15 years of experience specified in the candidate's background. It also does not match with the key skills mentioned for Vineeth.",
+    "reason": "The role is primarily RTL development which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "5a9ce3ea",
     "source": "linkedin_rtl_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer | Remote",
@@ -11607,13 +11604,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-remote-at-codegeniusrecruit-4417560307",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Design Engineer which does not match the target domains of Power Integrity, Advanced Packaging, or CAD/Methodology in VLSI/EDA.",
+    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
     "id": "7a0fb7fb",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer - Remote",
@@ -11622,13 +11618,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-remote-at-yo-it-consulting-4403086513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an engineering position at a consulting firm, not a direct hire semiconductor role.",
+    "reason": "The role is a contract position for RTL design, which doesn't fit Vineeth's senior leadership experience in power integrity and advanced packaging.",
     "id": "d4d7c535",
     "source": "linkedin_rtl_ww",
     "posted_date": "2026-05-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior Engineer (Design)",
@@ -11637,13 +11632,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-engineer-design-at-city-of-new-york-4426856473",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Queens, NY, which does not match the target domains of Power Integrity/Advanced Packaging/VLSI/EDA. It is also a junior-level internship.",
+    "reason": "This is an engineering internship at a government agency, not a semiconductor/VLSI/EDA technical leadership role. The job has no overlap with Vineeth's experience.",
     "id": "d7ba3299",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -11652,13 +11646,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-einfochips-an-arrow-company-4414767084",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer with focus on Fusion Compiler and scripting, which does not match the job requirements in Domain & Technical Area.",
+    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
     "id": "acfc3702",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TPU RTL Design Engineer, Networking, Inter-Chip Interconnects",
@@ -11667,13 +11660,12 @@
     "url": "https://www.linkedin.com/jobs/view/tpu-rtl-design-engineer-networking-inter-chip-interconnects-at-google-4426023560",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is located in Sunnyvale, CA, which does not match the priority locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland), India or Asia, or Fully Remote with worldwide eligibility.",
+    "reason": "The role is primarily software development (AI/ML hardware acceleration) which is outside Vineeth's domain.",
     "id": "34b504af",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DESIGNER 1",
@@ -11682,13 +11674,12 @@
     "url": "https://www.linkedin.com/jobs/view/designer-1-at-hii-4427727584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical designer at a shipbuilding company, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is non-technical and involves product design, which does not match Vineeth's VLSI/EDA background.",
     "id": "bfd5a8f7",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-05-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -11697,13 +11688,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-etched-4385391559",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an engineering position at a semiconductor startup but does not fit our target domains of Power Integrity, Advanced Packaging, CAD/Methodology, etc.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "6e11aba4",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer, RTL Design",
