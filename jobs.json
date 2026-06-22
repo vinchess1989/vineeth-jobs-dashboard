@@ -53519,14 +53519,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-design-implementation-at-microchip-technology-inc-4424190197",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior leadership role with >10 years experience in MCU SoC design, matching key technical domains of Power Optimization and Synthesis/STA.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with a strong semiconductor focus, but slightly fewer years of experience than ideal.",
     "id": "c4638b0f",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/microchip_technology_principal_engineer__design_imp_c4638b0f.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -53535,13 +53534,12 @@
     "url": "https://uk.linkedin.com/jobs/view/asic-design-engineer-at-ic-resources-4430916365",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an entry-level position for an ASIC Design Engineer, which does not match the candidate's 15 years of experience in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
+    "reason": "This role is an entry-level ASIC design engineer position, which does not match Vineeth's senior leadership and domain experience.",
     "id": "fd853cb2",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Digital IP Design/Verification, Architect",
@@ -53549,14 +53547,13 @@
     "location": "Reading, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/asic-digital-ip-design-verification-architect-at-synopsys-inc-4374775186",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a good match for our target profile, requiring ASIC RTL design and verification experience with HBM/PCIe/CXL knowledge. The location in Reading, UK aligns.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily design/RTL rather than power integrity/signal integrity analysis.",
     "id": "7ae21152",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/synopsys_inc_asic_digital_ip_design_verific_7ae21152.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -53565,13 +53562,12 @@
     "url": "https://uk.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365289913",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Logical Design Engineer role in AI, which does not match the required domains of Power Integrity/Signal Integrity, Advanced Packaging, CAD Methodology, or Physical Design/VLSI/EDA. The company Axelera AI appears to be focused on AI hardware rather than traditional semiconductor design.",
+    "reason": "The role is primarily focused on RTL coding, design implementation and integration which falls under verification rather than physical design.",
     "id": "3b781873",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2023-05-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Graduate Digital Engineer",
@@ -53579,14 +53575,13 @@
     "location": "Swindon, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/graduate-digital-engineer-at-renesas-electronics-4402292559",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Digital Design Engineer with experience in VLSI digital design and requires strong skills in Verilog/SystemVerilog, so it matches the required background.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software engineering with HDL/Verilog experience, outside Vineeth's power integrity and advanced packaging focus.",
     "id": "1f30f733",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_graduate_digital_engineer_1f30f733.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Digital Engineer",
@@ -53595,13 +53590,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-digital-engineer-at-targetjobs-uk-4417819074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Graduate Digital Engineer, which does not match the technical domains we are looking to recruit for.",
+    "reason": "This is a graduate-level digital design role focused on RTL coding, CDC, Lint, STA, DFT. The job description does not match Vineeth's domain of power integrity and advanced packaging.",
     "id": "ee7a219b",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design & Verification Engineer",
@@ -53610,13 +53604,12 @@
     "url": "https://uk.linkedin.com/jobs/view/asic-design-verification-engineer-at-microtech-global-ltd-4431385807",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract role, which does not match the target criteria of full-time or part-time positions.",
+    "reason": "The role is primarily software development focused (VHDL/Verilog design and testbench development) which does not match Vineeth's domain.",
     "id": "0b6b487a",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -53625,13 +53618,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-rise-technical-4426495372",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Hardware Engineer developing test systems, which does not directly match the semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily hardware engineering focused on test systems, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "dc73f1c3",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware and FPGA Engineer",
@@ -53640,13 +53632,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-and-fpga-engineer-at-cosworth-4376433702",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an entry-level electronics engineer position focused on FPGA design, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "This role is for an Electronics Engineer, not a semiconductor/VLSI/EDA related position.",
     "id": "554f62b2",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-03-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career - GPU Physical Design Engineer",
@@ -53655,13 +53646,12 @@
     "url": "https://uk.linkedin.com/jobs/view/early-career-gpu-physical-design-engineer-at-apple-4414152842",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an entry-level role with only a BSc/MSEE/M Eng/BEng required, which does not fit the 10-15 years of experience requirement.",
+    "reason": "The role is for an Early Career GPU Physical Design Engineer, which is more junior and does not match Vineeth's senior leadership position or technical background.",
     "id": "71ca58fe",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate - Analog Engineer",
