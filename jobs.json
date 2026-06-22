@@ -4422,13 +4422,12 @@
     "url": "https://in.linkedin.com/jobs/view/mgr-sales-at-renesas-electronics-4403413393",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales management position rather than an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a non-technical sales role at a semiconductor company.",
     "id": "a6dfd8b5",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Verification Engineer",
@@ -4436,14 +4435,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-verification-engineer-at-acl-digital-4222488752",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Physical Verification Engineer with 5+ years of experience in the relevant technologies and tools, fitting the target domain. The location is also within India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (DRC/LVS/PERC/Antenna) and does not fit Vineeth's power integrity and advanced packaging background.",
     "id": "23a0a79e",
     "source": "linkedin_vlsi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-11",
     "deadline": "N/A",
-    "description_file": "job_descriptions/acl_digital_physical_verification_engineer_23a0a79e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer",
@@ -4452,13 +4450,12 @@
     "url": "https://in.linkedin.com/jobs/view/software-engineer-at-hcltech-4427331167",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Physical Design Engineer at an IT services company rather than a semiconductor/VLSI/EDA role.",
+    "reason": "This is a software development role at an IT services company, not a semiconductor/VLSI/EDA technical position.",
     "id": "a42439f4",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer, Physical Design",
@@ -4466,14 +4463,13 @@
     "location": "Noida, Uttar Pradesh, India",
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-physical-design-at-renesas-electronics-4382361841",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role focuses on physical design tasks matching the candidate's background in SoC PDN sign-off.",
+    "matches_requirements": "maybe",
+    "reason": "6+ years experience preferred, but 5+ years mentioned, making it a maybe match for Vineeth's 15+ years.",
     "id": "2dae46af",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_sr_engineer__physical_design_2dae46af.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -4482,13 +4478,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-l-t-technology-services-4021729764",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This entry is a clear match for our target VLSI/EDA role criteria, but it was immediately discarded due to the hard rejection criteria of only considering full-time roles in semiconductor companies. This position is at an IT services firm and not directly involved in engineering or technical work within a semiconductor setting.",
+    "reason": "The role is an entry-level physical design engineer position with less than 4.5 years experience required, which is below Vineeth's domain.",
     "id": "1bdb6c51",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer, Sr/Lead/Staff",
@@ -4496,29 +4491,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-sr-lead-staff-at-qualcomm-4289478189",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Sr/Lead/Staff level position at Qualcomm, a semiconductor company in Hyderabad, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on hardware engineering and ASIC design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "3bf39d16",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_physical_design_engineer__sr_l_3bf39d16.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "HR Recruitment & Office Administrator",
-    "company": "Terminus Circuits Pvt Ltd",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://in.linkedin.com/jobs/view/hr-recruitment-office-administrator-at-terminus-circuits-pvt-ltd-4409210886",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an HR/office admin position, which does not match the technical semiconductor/VLSI/EDA engineering positions we are seeking.",
-    "id": "fc99c627",
-    "source": "linkedin_vlsi_india",
-    "posted_date": "2023-04-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Layout Engineer",
@@ -4527,13 +4506,12 @@
     "url": "https://in.linkedin.com/jobs/view/electrical-layout-engineer-at-infosys-4398156843",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level Electrical Layout Engineer role at Infosys, which does not match the senior leadership and 10-15+ years of experience requirements for the target VLSI/EDA roles.",
+    "reason": "The role is for PCB layout design, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "c3b1c696",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -4542,13 +4520,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-tata-consultancy-services-4399137269",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is entry-level with 5+ years experience required, which does not match our target senior level.",
+    "reason": "This is a mid-senior level Physical Design Engineer role, which does not match Vineeth's senior leadership and Power Integrity/Advanced Packaging background.",
     "id": "c8e513f9",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer / Sr / Staff Engineer",
@@ -4556,14 +4533,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-sr-staff-engineer-at-qualcomm-4362660989",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Physical Design and senior-level experience requirements.",
+    "matches_requirements": "no",
+    "reason": "This role is for a Senior Physical Design Engineer, which matches Vineeth's background but does not explicitly state leadership responsibilities. The job description focuses on technical skills needed to manage CAD tools and teams, so it could be a stretch match.",
     "id": "968e6043",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_physical_design_engineer___sr__968e6043.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
