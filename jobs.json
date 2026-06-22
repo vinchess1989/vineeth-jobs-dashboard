@@ -6354,13 +6354,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/chemical_engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role at a semiconductor company.",
+    "reason": "The role is a chemical engineer focused on processing pharmaceutical products, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "0c87db26",
     "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Computer Engineer (38)",
@@ -6369,13 +6368,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/computer_engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not match the VLSI/EDA domain.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "68dfb3ee",
     "source": "euro_engineer_jobs",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Defence Engineer (31)",
@@ -6384,13 +6382,12 @@
     "url": "https://www.euroengineerjobs.com/jobs/defence_engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is located in Europe, which does not match the target locations.",
+    "reason": "The role is primarily verification which is outside Vineeth's domain.",
     "id": "1d6b0451",
     "source": "euro_engineer_jobs",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Please help evaluate my resume",
@@ -6399,13 +6396,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1txwpb8/please_help_evaluate_my_resume/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Reddit post asking for resume help, not an actual job posting.",
+    "reason": "The given URL is blocked by a network policy. Unable to fetch details for evaluation.",
     "id": "d6a08e28",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NIT Calicut 2025 EEE Graduate | Looking for Referral / Opportunities in Physical Design / ASIC Design",
@@ -6414,13 +6410,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1txnbxb/nit_calicut_2025_eee_graduate_looking_for/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a self-post by a student looking for referrals, not an actual job posting. No company name, location, or deadline are provided.",
+    "reason": "The job listing appears to be blocked, so there is no actual job description or details provided to evaluate against the requirements.",
     "id": "8fbe47c9",
     "source": "reddit_chipdesign",
     "posted_date": "2026-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Starting a DV internship next week. How do I guarantee a full-time return offer?",
@@ -6429,13 +6424,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tsdo9k/starting_a_dv_internship_next_week_how_do_i/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role (discussion forum moderation) at a semiconductor company. It should only cover engineering/technical positions.",
+    "reason": "The job is for an internship, not a full-time position.",
     "id": "6efb1773",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "2022 ECE Graduate, Career Stuck After VLSI Physical Design Training \u2013 Need Honest Guidance",
@@ -6444,13 +6438,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1ts0dj7/2022_ece_graduate_career_stuck_after_vlsi/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a self-post seeking career guidance, not an actual semiconductor/VLSI/EDA job opening.",
+    "reason": "This is a career advice post on a Reddit forum, not an actual job opening. The URL provided does not lead to a real job posting.",
     "id": "37d86498",
     "source": "reddit_chipdesign",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Offered a contract role at Qualcomm India after the initial test instead of direct payroll. Questions on headcount, conversions, and office perks? (M.E. VLSI Fresher)",
@@ -6459,13 +6452,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1try5zb/offered_a_contract_role_at_qualcomm_india_after/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role, only for M.E. VLSI fresher",
+    "reason": "The job is for a VLSI fresher position at Qualcomm India, which does not match the technical leadership role and experience level of Vineeth Prathapachandra Kaimal.",
     "id": "191b0f11",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Master's in IC Design in Germany: Is it possible to get hired as part-timer?",
@@ -6473,14 +6465,13 @@
     "location": "Global / Remote / See Post",
     "url": "https://old.reddit.com/r/chipdesign/comments/1tql5q5/masters_in_ic_design_in_germany_is_it_possible_to/",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job is global/remote, but also mentions 'Dresden is another city with lots of semiconductor companies'. This could potentially be a match.",
+    "matches_requirements": "no",
+    "reason": "The post is a question on Reddit about job prospects, not an actual job listing with details that match the search criteria.",
     "id": "9b82c673",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hiring: IC Physical Design Engineer",
@@ -6489,13 +6480,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1tpyu5l/hiring_ic_physical_design_engineer/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "No specific domain, technical area or experience level details provided",
+    "reason": "The job posting URL was blocked by network policy, so there is no way to visit it and check its details.",
     "id": "faf95858",
     "source": "reddit_chipdesign",
     "posted_date": "2026-05-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Doing a Master degree but with low grade",
