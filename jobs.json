@@ -36636,13 +36636,12 @@
     "url": "https://www.infineon.com/careers/job/563808970040487",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is for a non-technical HR role, outside Vineeth's domain.",
     "id": "fab17cd3",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Working Student - Sales Strategy and Operations (f/m/div)Munich (Germany)HRC1673492HybridHybrid",
@@ -36651,13 +36650,12 @@
     "url": "https://www.infineon.com/careers/job/563808971208718",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title and description do not match the specified semiconductor/VLSI/EDA technical roles.",
+    "reason": "The job is for a Sales Strategy and Operations role, which does not match Vineeth's technical background in Power Integrity and VLSI.",
     "id": "1f9a2899",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-08",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Specialist Tools & Platform OperationsMelaka (Malaysia) + 1 moreHRC1538505",
@@ -36666,13 +36664,12 @@
     "url": "https://www.infineon.com/careers/job/563808969358020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting, showing only an error message.",
+    "reason": "The job posting URL does not contain a valid date, making it impossible to determine if the deadline has passed.",
     "id": "03914442",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI/ML Lead Advanced Packaging Engineer",
@@ -36681,13 +36678,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-ml-lead-advanced-packaging-engineer-at-amd-4381767199",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires US residency, so it does not match our location criteria.",
+    "reason": "The role is primarily focused on AI/ML automation for Advanced Packaging design, which falls outside Vineeth's domain of Power Integrity and CAD methodology expertise. Though related to semiconductor engineering, it does not directly match his key areas of strength.",
     "id": "3688ce49",
     "source": "linkedin_eda_ww",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Design Engineer",
@@ -36696,13 +36692,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87030?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Analog Design Engineer position, which does not match the semiconductor/VLSI/EDA domains targeted.",
+    "reason": "The role is software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "ad501f79",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -36710,14 +36705,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FPhysical-Design-Engineer-Taiwan%2F248",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a fit for Physical Design but the years of experience required (8+) may be slightly lower than ideal for our target senior roles.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Physical Design Engineer at TSMC, matching the key skills and experience level. It is located in Hsinchu, Taiwan.",
     "id": "3fc98a58",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_3fc98a58.txt"
   },
   {
     "title": "APR BE Manager",
@@ -36726,13 +36720,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18148&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches senior leadership role with 6+ years' experience in physical design and signoff, at a semiconductor company located in Taiwan.",
+    "reason": "This senior role matches Vineeth's leadership experience and technical domain of Advanced Packaging.",
     "id": "95ff9d74",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/taiwan_semiconductor_apr_be_manager_95ff9d74.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/taiwan_semiconductor_apr_be_manager_95ff9d74.txt"
   },
   {
     "title": "LinkedIn",
@@ -36741,13 +36734,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAPR-BE-Manager%2F18148",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL is broken and does not lead to a valid job posting.",
+    "reason": "The job is with TSMC, which does semiconductor manufacturing and not EDA/VLSI design.",
     "id": "55791b9c",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FAB Engineer",
@@ -36756,28 +36748,26 @@
     "url": "https://www.glassdoor.com/job-listing/fab-engineer-micron-technology-JV_IC1127927_KO0,12_KE13,30.htm?jl=1010150527760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FAB Engineer role is a hands-on technical position focused on semiconductor manufacturing, which does not match the VLSI/EDA/semiconductor domain expertise of the candidate Vineeth Prathapachandra Kaimal.",
+    "reason": "This is a non-technical FAB Engineer role, while Vineeth's background is in Power Integrity and Advanced Packaging for SoC design.",
     "id": "a9f9fb36",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Operation Engineer",
     "company": "Samsung Electronics",
-    "location": "Extract from page",
+    "location": "Taylor, TX, USA",
     "url": "https://www.glassdoor.com/job-listing/product-operation-engineer-samsung-electronics-JV_IC1139799_KO0,26_KE27,46.htm?jl=1010155157191",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, related to product operations for a semiconductor company, which does not match the technical job requirements in VLSI/EDA/semiconductor domain.",
+    "reason": "The role is primarily focused on factory operations, logistics and cross-team coordination rather than semiconductor design or engineering.",
     "id": "96841afd",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Design Engineer",
