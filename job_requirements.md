@@ -11,6 +11,8 @@
 Immediately discard a job if ANY of the following are true:
 * The posting is for a non-technical role (e.g., HR, Finance, Marketing, Sales) at a semiconductor company — we only want engineering/technical positions.
 * The job explicitly requires a security clearance that restricts to a specific country's citizens only (e.g., "must be a US citizen with active security clearance").
+* The role is primarily **verification** (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) — this is outside Vineeth's domain.
+* The role is primarily **software development** (SW Engineer, firmware engineer, application/backend/embedded software developer) — this is outside Vineeth's domain.
 
 ## Target Job Criteria
 
@@ -25,6 +27,8 @@ Must be in at least ONE of the following technical domains, with a strong prefer
 * **EDA Tools:** Applications Engineer, Technical Account Manager, or EDA software engineering
 * **VLSI / SoC Design:** General SoC architecture, ASIC design
 * **Engineering Leadership:** CAD manager, PI/SI manager, or SoC physical design lead
+
+**Leadership Role Exception:** For roles with a leadership/management title (Manager, Director, VP, CTO, Head of, Principal) the domain requirement is relaxed — match if the role leads teams anywhere in semiconductor, EDA, chip design, or hardware engineering, even if the specific sub-domain (PI, packaging, physical design) is not mentioned. Technical skill overlap is a bonus but NOT required.
 
 **2. Location & Work Model:**
 * **Yes Match (Location):** 
@@ -55,4 +59,3 @@ When evaluating a job posting, you MUST use your web fetch tool to visit the URL
 
 
 ### Automatically Added Negative Constraints (from UI Rejections):
-- NEGATIVE CONSTRAINT: The user explicitly rejected a previous job because: 'Don’t match verification unless the job description mentions technical keywords in my requirements'. Do NOT match jobs that have this issue.
