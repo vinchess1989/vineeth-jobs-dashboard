@@ -15174,13 +15174,12 @@
     "url": "https://www.glassdoor.com/job-listing/yield-enhancement-fa-shift-lead-engineer-micron-technology-JV_IC1127927_KO0,40_KE41,58.htm?jl=1010166917692",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Yield Enhancement FA Shift Lead Engineer, which does not directly match the specified technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The job is for Yield Enhancement FA Shift Lead Engineer, which does not directly match Vineeth's areas of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "22623200",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "shift manager jobs in Boise, ID",
@@ -15189,13 +15188,12 @@
     "url": "https://www.glassdoor.com/Job/boise-shift-manager-jobs-SRCH_IL.0,5_IC1127927_KO6,19.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical shift manager role at a restaurant chain, so it does not match our semiconductor/VLSI/EDA job search criteria.",
+    "reason": "This is a restaurant shift management role, not semiconductor/VLSI/EDA technical leadership position.",
     "id": "844b0731",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "30d+",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Micron Technology jobs in Boise, ID",
@@ -15204,13 +15202,12 @@
     "url": "https://www.glassdoor.com/Job/boise-micron-technology-jobs-SRCH_IL.0,5_IC1127927_KO6,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Boise, ID, USA and does not mention visa sponsorship or relocation, which would be required for it to match.",
+    "reason": "The job posting URL redirects to a generic Glassdoor page about security issues and troubleshooting, without actual job listings. It does not contain enough information for an evaluation.",
     "id": "ebd86e96",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer staff Linux kernelBangalore, Karnataka, IndiaSoftware EngineeringPosted 7 months ago",
@@ -15219,13 +15216,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446715556302?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is specifically for Linux kernel development and does not match the VLSI/EDA/Power Integrity domains.",
+    "reason": "This role is for a software engineer specializing in Linux kernel development, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "f3c7e0f0",
     "source": "qualcomm_careers",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer - Design VerificationHyderabad, Telangana, IndiaPosted 2 months ago",
@@ -15233,14 +15229,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://micron.eightfold.ai/careers/job/41284363",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches requirements for a Senior Engineer role with experience in Design Verification at Micron in Hyderabad, India.",
+    "matches_requirements": "no",
+    "reason": "This is a Design Verification role focused on DRAM, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "43a4e38f",
     "source": "micron_careers",
     "posted_date": "2023-04-18",
     "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology__i_senior_engineer___design_verif_43a4e38f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ENGINEER - QEM Contamination ControlSingapore, SingaporePosted 2 months ago",
@@ -15249,13 +15244,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41579158",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a contamination control engineer position in a semiconductor manufacturing facility, which does not match the targeted technical domains of VLSI/EDA/semiconductor.",
+    "reason": "The role is for QEM Contamination Control Engineer and does not match Vineeth's power integrity, advanced packaging or EDA CAD expertise.",
     "id": "5a4fe0ff",
     "source": "micron_careers",
     "posted_date": "2023-05-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Dry Etch Process EngineerBoise, Idaho, United States of AmericaPosted 24 days ago",
@@ -15264,13 +15258,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41865792",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior dry etch process engineering role at Micron is focused on semiconductor manufacturing, which does not match the VLSI/EDA technical domains targeted by our job search criteria.",
+    "reason": "The role is a Dry Etch Process Engineer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "b2a82f66",
     "source": "micron_careers",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Photolithography Process EngineerBoise, Idaho, United States of AmericaPosted 16 days ago",
@@ -15279,13 +15272,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41880550",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role at a semiconductor company for a Senior Photolithography Process Engineer.",
+    "reason": "This is a non-technical role focused on manufacturing engineering, which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
     "id": "00750db1",
     "source": "micron_careers",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, TD Wet Process DevelopmentSingapore, SingaporePosted 6 months ago",
@@ -15294,13 +15286,12 @@
     "url": "https://micron.eightfold.ai/careers/job/39045549",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a different domain (Wet Process Development) and does not match the VLSI/EDA/Power Integrity focus of the candidate.",
+    "reason": "The job is for process development in semiconductor manufacturing, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "5c491e90",
     "source": "micron_careers",
     "posted_date": "2023-04-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer \u2013 Process Development, Photolithography, NANDSingapore, SingaporePosted a month ago",
@@ -15309,13 +15300,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41831041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on photolithography process development for memory technologies, which does not directly match the semiconductor/VLSI/EDA technical domains we're targeting.",
+    "reason": "The role is primarily focused on photolithography process development for advanced memory technologies, which does not directly align with Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "47a636da",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u5ee0\u52d9\u52a9\u7406\u5de5\u7a0b\u5e2b(\u88dd\u6a5f\u5de5\u7a0b)",
