@@ -52680,13 +52680,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-and-verification-engineer-%E2%80%93-2%2B-years-at-alpha-numero-4241204170",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design and Verification Engineer with only 2+ years experience, much less than the required 10-15 years. It does not match the senior leadership level specified in the requirements.",
+    "reason": "The role is primarily verification (UVM, testbench development) which does not match Vineeth's domain.",
     "id": "9a8edf1b",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2023-06-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52694,14 +52693,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4311630090",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches background in Design Verification with 1-3 years experience required.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on verification, which is outside Vineeth's domain.",
     "id": "927ffc4c",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_design_verification_engineer_927ffc4c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52710,13 +52708,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-hcltech-4414093493",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a Design Verification Engineer, which does not match the target domains of Power Integrity (PI), Advanced Packaging, or CAD Methodology.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "20374b5a",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52724,14 +52721,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-erbity-4396583421",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a Design Verification Engineer role at Erbity, matching the target domain of Power Integrity (PI) / Signal Integrity (SI), and the location is Bengaluru, India.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Design Verification Engineer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "b034a17e",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/erbity_design_verification_engineer_b034a17e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52740,13 +52736,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-acl-digital-4311612991",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a junior level Design Verification Engineer position, not a senior leadership role as preferred.",
+    "reason": "The role is primarily verification (UVM-based, IP-level) which is outside Vineeth's domain.",
     "id": "12ab68c7",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI - RTL/ASIC&SOC frontend Design",
@@ -52754,14 +52749,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/vlsi-rtl-asic-soc-frontend-design-at-hcltech-4424182521",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches requirements for VLSI/RTL ASIC/SOC frontend design with 7-10 years experience in Bengaluru, India",
+    "matches_requirements": "no",
+    "reason": "This role is primarily RTL/ASIC/SOC frontend design verification, which falls outside Vineeth's Power Integrity and Advanced Packaging focus areas.",
     "id": "e22dfa5f",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/hcltech_vlsi___rtl_asic_soc_frontend_d_e22dfa5f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer, BOOT, Functional Safety and Power Management",
@@ -52769,14 +52763,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-boot-functional-safety-and-power-management-at-nvidia-4402322660",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years experience, Power Integrity/Advanced Packaging/CAD Methodology background aligns well with job reqs",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with domain overlap but no specific PI/SI skills mentioned.",
     "id": "456ec0bf",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-05-29",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_asic_design_engineer__boot__fu_456ec0bf.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Digital Design Engineer II, Silicon Engineering",
@@ -52784,14 +52777,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-digital-design-engineer-ii-silicon-engineering-at-google-4425247761",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years of experience, Power Integrity background, leadership role at a major tech company like Google",
+    "matches_requirements": "maybe",
+    "reason": "The role involves ASIC digital design with SystemVerilog which is within Vineeth's domain, and the experience level matches his years of experience. The location in Bengaluru, India could work.",
     "id": "a191583a",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/google_asic_digital_design_engineer_i_a191583a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IBM LOGIC DESIGN ENGINEER",
@@ -52800,13 +52792,12 @@
     "url": "https://in.linkedin.com/jobs/view/ibm-logic-design-engineer-at-ibm-4419231974",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mid-senior level position, but the candidate profile specifies technical leadership roles with over 15 years experience. This mismatch disqualifies it.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
     "id": "5f9cfd77",
     "source": "linkedin_india_vlsi_design_p2",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -52814,14 +52805,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-design-engineer-at-acl-digital-4185428550",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role requires RTL coding using SystemVerilog/VHDL, which matches Vineeth's skills in digital design. However, it does not involve Power Integrity (PI), Advanced Packaging, or EDA tool automation - key areas of his background.",
     "id": "a6ad8f8c",
     "source": "linkedin_india_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer Digital Design Engineer",
