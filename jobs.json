@@ -63642,13 +63642,12 @@
     "url": "https://uk.linkedin.com/jobs/view/detection-engineer-at-binalyze-4425615704",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on detection engineering for cybersecurity, which does not directly match the semiconductor/VLSI/EDA domain requirements.",
+    "reason": "The role is primarily software development (Python, Sigma, YARA) focused on cybersecurity investigations and detection engineering rather than semiconductor VLSI EDA.",
     "id": "ed2b0e6d",
     "source": "linkedin_uk_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Security Analyst",
@@ -63657,13 +63656,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-security-analyst-at-peaple-talent-4426403323",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical security analyst position at an MSP, not a semiconductor/VLSI/EDA engineering job.",
+    "reason": "The role is primarily focused on cybersecurity incident response, threat detection and Microsoft security ecosystems (Sentinel, Defender XDR), which does not match Vineeth's background in Power Integrity, advanced packaging and EDA tools/cad methodologies.",
     "id": "d8ae8c12",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2026-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Software Engineer \u2013 Virtual Platforms - Qualcomm - Cambridge, UK",
@@ -63672,13 +63670,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-software-engineer-%E2%80%93-virtual-platforms-qualcomm-cambridge-uk-at-qualcomm-4384258608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical software engineering role at a semiconductor company, which doesn't match our technical-only criteria.",
+    "reason": "This is a graduate software engineering role at Qualcomm, which falls outside Vineeth's domain of power integrity and advanced packaging expertise.",
     "id": "5a7fd4c8",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Verification Engineer",
@@ -63686,14 +63683,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-verification-engineer-at-arm-4406249259",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a SoC Verification Engineer, which matches the candidate's technical background in SoC PDN sign-off.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "3deb1611",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_soc_verification_engineer_3deb1611.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join the Growing Cyber Security Practice at Methods",
@@ -63702,13 +63698,12 @@
     "url": "https://uk.linkedin.com/jobs/view/join-the-growing-cyber-security-practice-at-methods-at-methods-4353550583",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cyber Security Specialist role at Methods, which does not fit the semiconductor/VLSI/EDA domain technical area.",
+    "reason": "The role is a Cyber Security Consultant position, which does not match Vineeth's background in Power Integrity and VLSI/EDA.",
     "id": "117993db",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-05-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Security",
@@ -63717,13 +63712,12 @@
     "url": "https://uk.linkedin.com/jobs/view/devops-security-at-addition-4419026606",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a DevOps Security position, not related to semiconductor/VLSI/EDA work.",
+    "reason": "The role is non-technical (DevOps/IT) and does not fit Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "2495f227",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Join the Growing Cyber Security Practice at Methods",
@@ -63731,14 +63725,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/join-the-growing-cyber-security-practice-at-methods-at-methods-4353520536",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Cyber Security Specialist, which does not match the technical domains of Power Integrity (PI), Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "739e1543",
     "source": "linkedin_uk_soc_design_p2",
-    "posted_date": "2023-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Information Security Officer (\u00a365k-\u00a385k + Equity) at Definely",
@@ -63747,13 +63740,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-information-security-officer-%C2%A365k-%C2%A385k-%2B-equity-at-definely-at-jack-jill-4430366495",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical security officer position at a legaltech company, which does not match our focus on semiconductor/VLSI/EDA engineering roles.",
+    "reason": "The role is primarily focused on information security governance and compliance, which does not match Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design.",
     "id": "42cb4eb9",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Join the Growing Cyber Security Practice at Methods",
@@ -63762,13 +63754,12 @@
     "url": "https://uk.linkedin.com/jobs/view/join-the-growing-cyber-security-practice-at-methods-at-methods-4353650527",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Cyber Security Specialist role at Methods, which is non-technical and not related to VLSI/EDA/Semiconductor.",
+    "reason": "The role is primarily in Cybersecurity, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "ad9ae078",
     "source": "linkedin_uk_soc_design_p2",
     "posted_date": "2026-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Detection & Incident Response Engineer",
@@ -63777,13 +63768,12 @@
     "url": "https://fi.linkedin.com/jobs/view/detection-incident-response-engineer-at-relax-gaming-ltd-4400558613",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Detection & Incident Response Engineer in the cybersecurity field, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Cybersecurity Engineer role focused on SIEM, automation and incident response, which does not match Vineeth's background in Power Integrity, EDA tools, and SoC design.",
     "id": "39dafd28",
     "source": "linkedin_fi_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Lead ISP Algorithm Developer, Camera and Imaging",
