@@ -44909,14 +44909,13 @@
     "location": "Orlando, FL",
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-at-arbejdstilsynet-4429163662",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for hardware design engineering, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, and EDA.",
     "id": "86777da7",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Network Administrator",
@@ -44925,13 +44924,12 @@
     "url": "https://www.linkedin.com/jobs/view/network-administrator-at-new-orleans-pelicans-4421237995",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a sports team, not a semiconductor/VLSI/EDA company.",
+    "reason": "The job is for a Network Administrator position at a sports team organization, which does not fit Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "3ad78fa0",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-05-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -44940,13 +44938,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-analyst-at-winaxis-llc-4392975301",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a data analyst position, which does not match the semiconductor/VLSI/EDA technical focus of the candidate.",
+    "reason": "The role is for a Data Analyst, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "8e52f4eb",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer, Robotics",
@@ -44955,13 +44952,12 @@
     "url": "https://www.linkedin.com/jobs/view/electrical-engineer-robotics-at-ndimensions-labs-4426847643",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electrical Engineer specializing in robotics and does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The job is primarily focused on custom PCB design for robotics, which falls outside Vineeth's main domains of Power Integrity (PI), Advanced Packaging, and CAD/Methodology. While it touches on some overlapping technical skills like power electronics, it does not match the higher-priority VLSI/EDA/CAD areas.",
     "id": "c47c23da",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Migration Specialist",
@@ -44970,13 +44966,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-migration-specialist-at-curbwaste-4427142134",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Data Migration Specialist, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a non-technical data migration specialist role at a SaaS company, which does not match Vineeth's semiconductor/VLSI/EDA background and technical leadership experience.",
     "id": "0d37359f",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Systems Engineer",
@@ -44985,13 +44980,12 @@
     "url": "https://www.linkedin.com/jobs/view/power-systems-engineer-at-momentus-4420473955",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in San Jose, CA which does not match the priority regions of Finland/UK/India/remote worldwide.",
+    "reason": "This is a non-technical role, not engineering/technical at a semiconductor company.",
     "id": "ae8f2d8b",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Signal Integrity and Power Integrity Engineer",
@@ -44999,14 +44993,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/senior-signal-integrity-and-power-integrity-engineer-at-signal-edge-solutions-4427688033",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "Requires U.S. Citizenship which disqualifies this candidate based on their background.",
     "id": "cd853f47",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Signal Integrity Engineer",
@@ -45014,14 +45007,13 @@
     "location": "California, United States",
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-engineer-at-celestica-4418274617",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (hardware platform solutions) rather than semiconductor/VLSI/EDA.",
     "id": "72575fb5",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Electronics Engineer",
@@ -45029,14 +45021,13 @@
     "location": "Irvine, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-electronics-engineer-at-ascendion-4428068463",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical electronics manufacturing role, not a semiconductor/VLSI/EDA engineering position.",
     "id": "5e7395e4",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "VP of Engineering - Power Management",
@@ -45044,14 +45035,13 @@
     "location": "Dallas, TX",
     "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-power-management-at-integrated-power-services-4426015084",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a VP position focused on engineering leadership and management rather than direct technical work in VLSI/EDA. It also does not match the preferred job locations of Finland, UK, Asia or fully remote positions.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "0c8f85b4",
     "source": "linkedin_ww_power_integrity_p3",
-    "posted_date": "2023-06-12",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Staff Electrical Engineer",
