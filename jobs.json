@@ -52540,13 +52540,12 @@
     "url": "https://www.infineon.com/careers/job/563808970651312",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting link was broken and led to a 404 error page, so no information could be extracted about the company, location, posted date, or application deadline.",
+    "reason": "The job is for a manufacturing process development engineer position, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "33320a6b",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Staff Engineer Package Technology WBWuxi + 1 moreHRC1662701",
@@ -52555,28 +52554,26 @@
     "url": "https://www.infineon.com/careers/job/563808971112882",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "404 error page, no job details found",
+    "reason": "The job posting link leads to a 404 error, so it cannot be evaluated.",
     "id": "181d3e78",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Process Integration_6290Shanghai + 1 moreHRC1386290",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Shanghai, China",
     "url": "https://www.infineon.com/careers/job/563808967207684",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is incomplete, missing the full path to access the actual details.",
+    "reason": "The job is located in Shanghai, which doesn't match the preferred locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote with worldwide eligibility.",
     "id": "3eee0c5a",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Project Leader Project ManagementMelaka (Malaysia)HRC1636450",
@@ -52585,13 +52582,12 @@
     "url": "https://www.infineon.com/careers/job/563808970711040",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical project management role, which does not fit our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job is a non-technical HR role at a semiconductor company.",
     "id": "04f1aef7",
     "source": "infineon_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Optical Engineer - Freelance AI Trainer",
@@ -52600,13 +52596,12 @@
     "url": "https://de.linkedin.com/jobs/view/optical-engineer-freelance-ai-trainer-at-mindrift-4426756432",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a freelance AI training position for optical engineering problems, not related to VLSI/EDA/Semiconductor domains.",
+    "reason": "This is a freelance AI trainer position for physics-based problem design, not semiconductor/VLSI/EDA.",
     "id": "72f96b2f",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applied AI Engineer - VLSI Design",
@@ -52615,13 +52610,12 @@
     "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-vlsi-design-at-nvidia-ai-4419613608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires being based at NVIDIA's Santa Clara, CA location which explicitly mentions 'visa sponsorship or relocation'. This matches our criteria for considering US-based roles with explicit visa sponsorship eligibility.",
+    "reason": "The role is primarily software engineering focused on AI applications rather than VLSI/EDA.",
     "id": "1f9aa2b3",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2023-05-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior IC Layout Design Engineer",
@@ -52630,13 +52624,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-ic-layout-design-engineer-at-ic-enable-4428386592",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level IC Layout Design Engineer position in Richardson, TX with requirements for ITAR compliance and Cadence tools. The candidate profile specified in the job search requirements is much more senior with 15 years of experience in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "reason": "The role requires ITAR compliance, limiting it to U.S. citizens, which does not match Vineeth's background.",
     "id": "02a22cdd",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52645,13 +52638,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-voltai-4340027630",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Verification Engineer, which falls outside the technical domains specified.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain.",
     "id": "dae821fd",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Calibre DRC QA Engineer",
@@ -52660,13 +52652,12 @@
     "url": "https://www.linkedin.com/jobs/view/calibre-drc-qa-engineer-at-siemens-eda-siemens-digital-industries-software-4420013349",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is at Siemens EDA, which does not match the target of working directly for a semiconductor company.",
+    "reason": "Requires a degree in Electrical Engineering, Computer Engineering, or Computer Science which does not match Vineeth's background in Power Integrity and Advanced Packaging. Also requires direct experience with EDA verification tools like Calibre DRC.",
     "id": "ee292c3a",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -52675,13 +52666,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-verilab-4160910441",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Engineer role, which does not match the target domains of Power Integrity/Advanced Packaging/CAD Methodology specified in the candidate profile.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "3821ffa4",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design and Verification Engineer \u2013 2+ years",
