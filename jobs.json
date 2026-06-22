@@ -47416,13 +47416,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-advanced-packaging-design-enablement-engineering-apdee-at-micron-technology-4410834601",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches the domain of Advanced Packaging Design Enablement Engineering and requires over 10 years experience which is the target range.",
+    "reason": "The role is a die design & layout manager position at Micron Technology, which fits Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
     "id": "fcf93cc1",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_manager__advanced_packaging_de_fcf93cc1.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology_manager__advanced_packaging_de_fcf93cc1.txt"
   },
   {
     "title": "IC Technology Development Lead Frame/substrate design Manager",
@@ -47430,14 +47429,13 @@
     "location": "Kolar, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ic-technology-development-lead-frame-substrate-design-manager-at-tata-electronics-4401906838",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Mid-Senior level IC Technology Development Lead role with substrate design focus matches some criteria but lacks specific mention of key domains like Power Integrity, Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily design-focused, not leadership in a technical domain relevant to Vineeth's background.",
     "id": "5012c793",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-04-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Technical Lead Engineer",
@@ -47446,13 +47444,12 @@
     "url": "https://in.linkedin.com/jobs/view/mechanical-technical-lead-engineer-at-lam-research-4426088769",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Technical Lead Engineer, which does not match the required Semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is for a Mechanical Technical Lead Engineer, which does not match Vineeth's technical background in Power Integrity and VLSI.",
     "id": "d6e5b62a",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-04-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Manager, Engineering",
@@ -47460,14 +47457,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/sr-manager-engineering-at-skyworks-solutions-inc-4421811236",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior leadership role with 10+ years experience required, fits key domains of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is a general engineering management position at the MSB division without specific focus on Power Integrity, Advanced Packaging, or EDA tools mentioned.",
     "id": "afe2f221",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-05-04",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/skyworks_solutions___sr__manager__engineering_afe2f221.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Staff IC Package Characterization Engineer",
@@ -47475,14 +47471,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-ic-package-characterization-engineer-at-qualcomm-4330395737",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a package characterization engineering position rather than focusing on power integrity or advanced packaging.",
     "id": "e5b023a7",
     "source": "linkedin_india_advanced_packaging_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Flipchip Engineer",
@@ -47491,13 +47486,12 @@
     "url": "https://in.linkedin.com/jobs/view/flipchip-engineer-at-tata-electronics-4403216545",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Flipchip Engineer position, which does not directly match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, or Physical Design.",
+    "reason": "This Flipchip Engineer role focuses on manufacturing and process development, which is more aligned with backend semiconductor packaging rather than Vineeth's expertise in Power Integrity (PI) / Signal Integrity (SI), CAD/Methodology, or SoC physical design.",
     "id": "289ee78c",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Computer Aided Engineer (CAE)- Manager(M5)",
@@ -47505,14 +47499,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/computer-aided-engineer-cae-manager-m5-at-applied-materials-india-4411192745",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical leadership position with over 10 years of experience required, focusing on multi-physics modeling and simulation for semiconductor packaging technologies.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily CAD/CAE focused on thermal and multi-physics modeling for advanced packaging, which does not match Vineeth's power integrity and advanced packaging background.",
     "id": "c5fc4c94",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/applied_materials_in_computer_aided_engineer__cae___c5fc4c94.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Design Engineer - DFM SiP / PCBA NPI",
@@ -47520,14 +47513,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/product-design-engineer-dfm-sip-pcba-npi-at-apple-4414172026",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves PCB assembly process development which fits within broader packaging domain skills.",
+    "matches_requirements": "no",
+    "reason": "This is a Product Design Engineer role focused on PCB assembly and SiP packaging, which does not match Vineeth's Power Integrity and Advanced Packaging technical background.",
     "id": "73b3f44f",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer, Advanced Packaging Design Enablement Engineering (APDEE)",
@@ -47536,13 +47528,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-advanced-packaging-design-enablement-engineering-apdee-at-micron-technology-4410849252",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches in the Advanced Packaging domain with specific mention of HBM packaging programs.",
+    "reason": "Matches Vineeth's experience with power integrity, advanced packaging and leadership roles.",
     "id": "69b80574",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_sr_engineer__advanced_packagin_69b80574.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology_sr_engineer__advanced_packagin_69b80574.txt"
   },
   {
     "title": "Senior Engineer",
@@ -47551,13 +47542,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-at-arm-4412757677",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level position with 5+ years' experience, which does not match the senior-level roles targeted in our search criteria.",
+    "reason": "The role is focused on package design, layout and vendor coordination - it does not deeply match Vineeth's power integrity and advanced packaging technical areas. He likely could fill some aspects but is not a strong match overall.",
     "id": "b2817e92",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Packaging Technical Engineer - Hardware",
