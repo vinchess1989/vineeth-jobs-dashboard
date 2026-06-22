@@ -51154,13 +51154,12 @@
     "url": "https://in.linkedin.com/jobs/view/security-access-control-engineer-lead-at-qualcomm-4343832620",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical HR role, does not fit semiconductor/VLSI/EDA industry focus",
+    "reason": "This role is focused on security architecture for mobile platforms, which is a significant departure from Vineeth's PI/SI and packaging expertise.",
     "id": "b34d1d60",
     "source": "linkedin_india_soc_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Network Engineer",
@@ -51169,13 +51168,12 @@
     "url": "https://in.linkedin.com/jobs/view/junior-network-engineer-at-netrio-4410388166",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a junior network engineer with Fortinet, Cisco, and Palo Alto experience, while the target candidate profile specifies a senior-level technical leader in power integrity, advanced packaging, and SoC PDN sign-off with expertise in ANSYS RedHawk, Cadence Voltus, and related tools.",
+    "reason": "The role is a hands-on Network Engineer position focused on Fortinet technologies, routing, switching, and advanced troubleshooting. This does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or EDA tool automation.",
     "id": "17a1773e",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-05-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vulnerability Management Analyst",
@@ -51184,13 +51182,12 @@
     "url": "https://in.linkedin.com/jobs/view/vulnerability-management-analyst-at-persistent-systems-4417963194",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Vulnerability Management Analyst position at Persistent Systems, which does not fit our focus on semiconductor/VLSI/EDA engineering/technical positions.",
+    "reason": "The role is for a Vulnerability Management Analyst, which does not match Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "4c58a736",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cybersecurity Engineer",
@@ -51199,13 +51196,12 @@
     "url": "https://in.linkedin.com/jobs/view/cybersecurity-engineer-at-protera-4403885140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on cybersecurity engineering for enterprise clients, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is focused on cybersecurity, EDR, DLP and NDR engineering for enterprise clients, which does not match Vineeth's background in power integrity (PI), advanced packaging, SoC PDN sign-off flows, and CAD tool methodologies.",
     "id": "801c2e23",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-05-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IN_Manager_SOC_Cyber as a Service_ Advisory _Mumbai",
@@ -51214,13 +51210,12 @@
     "url": "https://in.linkedin.com/jobs/view/in-manager-soc-cyber-as-a-service-advisory-mumbai-at-pwc-india-4425476920",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Cybersecurity generalist at PwC India, which does not match the Power Integrity/Advanced Packaging VLSI/EDA domain focus.",
+    "reason": "The role is focused on cybersecurity consulting and operations, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "8859d5b5",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-04-27",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer - SOC Verification",
@@ -51229,13 +51224,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-soc-verification-at-larsen-toubro-4403434748",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level SoC Verification Engineer role at a company unrelated to semiconductor/VLSI/EDA, so it does not match the target job criteria.",
+    "reason": "This role is primarily in SOC verification, which falls outside Vineeth's domain of Power Integrity and Packaging.",
     "id": "aad0c617",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Verification",
@@ -51243,14 +51237,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-design-verification-at-l-t-technology-services-4025898706",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches target domain of 'Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus' and experience level is suitable for a mid to senior role.",
+    "matches_requirements": "no",
+    "reason": "This is a mid-senior level design verification engineer role, not within Vineeth's leadership domain.",
     "id": "7a6138ff",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/l_t_technology_servi_asic_design_verification_7a6138ff.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Incident Responder",
@@ -51259,13 +51252,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-incident-responder-at-securityhq-4428161804",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-senior level Cyber Security Specialist position, which does not match the specified technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily incident response and cybersecurity, outside Vineeth's power integrity and packaging domain.",
     "id": "4645bb6d",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Design Engineer - Networking Group",
@@ -51274,13 +51266,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-soc-design-engineer-networking-group-at-nvidia-ai-4426858601",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches technical domain and experience level for a senior SOC design engineer role.",
+    "reason": "The role is a Senior SOC Design Engineer position with specific expertise in networking chips, which matches Vineeth's background in Power Integrity and SoC PDN sign-off.",
     "id": "a7f2f0c7",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_ai_senior_soc_design_engineer___n_a7f2f0c7.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_ai_senior_soc_design_engineer___n_a7f2f0c7.txt"
   },
   {
     "title": "SoC Design and Integration Engineer, Google Cloud",
@@ -51288,14 +51279,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-design-and-integration-engineer-google-cloud-at-google-4416274089",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "15+ years of experience in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, and Thermal Analysis. Strong match in target domains.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (scripting languages like Perl and Python) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "3656e95e",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/google_soc_design_and_integration_eng_3656e95e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design(Turing-AI/ML)-Sr Engineer/Sr Lead",
