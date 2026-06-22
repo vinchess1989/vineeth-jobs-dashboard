@@ -28134,17 +28134,16 @@
   {
     "title": "manufacturing engineer jobs in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/Job/san-jose-manufacturing-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,31.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing engineer position, which does not match our technical domain requirements.",
+    "reason": "The job is for a manufacturing engineer role at a semiconductor company, which does not match Vineeth's background in Power Integrity and CAD.",
     "id": "bb576138",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer \u2014 Signal & Power Integrity",
@@ -28153,13 +28152,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-electrical-engineer-signal-power-integrity-lockheed-martin-JV_IC1154247_KO0,49_KE50,65.htm?jl=1010154112072",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Electrical Engineer focusing on Signal & Power Integrity, which does not match the domain expertise in Power Integrity, Advanced Packaging, and VLSI/EDA required.",
+    "reason": "The job is for a non-technical role in electrical engineering at a defense contractor, which does not match Vineeth's VLSI/EDA background.",
     "id": "eddfbb57",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "electrical engineer jobs in Orlando, FL",
@@ -28168,13 +28166,12 @@
     "url": "https://www.glassdoor.com/Job/orlando-electrical-engineer-jobs-SRCH_IL.0,7_IC1154247_KO8,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical electrical engineering role at a defense contractor, not a semiconductor/VLSI/EDA job.",
+    "reason": "The role is non-technical (electrical engineering) and does not fit Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "a6388382",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior DFX Power Methodology Engineer",
@@ -28183,13 +28180,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-dfx-power-methodology-engineer-nvidia-JV_IC1147439_KO0,37_KE38,44.htm?jl=1010156075434",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for an Application Engineer, which does not directly match Vineeth's key skills in Power Integrity and Advanced Packaging. The role requires expertise in Cadence tools like Voltus, rather than ANSYS RedHawk.",
+    "reason": "The role is primarily focused on DFX methodology for power integrity, which falls outside Vineeth's main domain of expertise in PI/Signal Integrity and advanced packaging.",
     "id": "5d8cb70b",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-21",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "\u8a62\u554f\u53f0\u79ae\u8cd3\u4eba\u54e1",
@@ -28198,13 +28194,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=557&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Associate Engineer/Admin position at TSMC, which does not fit the technical roles we are seeking.",
+    "reason": "The job is a non-technical HR role at a semiconductor company, which does not match the technical engineering/leadership roles we are looking for.",
     "id": "85383289",
     "source": "tsmc_careers",
     "posted_date": "2026-04-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -28212,14 +28207,13 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F557",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the target locations.",
+    "matches_requirements": "yes",
+    "reason": "The role is for a Technical Leader position in Power Integrity & Advanced Packaging, which aligns with Vineeth's background and key skills. The location is Hsinchu, Taiwan.",
     "id": "945ae0a6",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/tsmc_linkedin_945ae0a6.txt"
   },
   {
     "title": "reliability engineer jobs in Somerville, MA",
@@ -28228,13 +28222,12 @@
     "url": "https://www.glassdoor.com/Job/somerville-reliability-engineer-jobs-SRCH_IL.0,10_IC1154685_KO11,31.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software Development Engineer role at Amazon, which does not fit the Semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily focused on software development and reliability engineering, which is outside Vineeth's domain of expertise in semiconductor VLSI EDA.",
     "id": "0044d5d0",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sanmina jobs in San Jose, CA",
@@ -28243,13 +28236,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-sanmina-jobs-SRCH_IL.0,8_IC1147436_KO9,16.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for manufacturing and logistics roles, not technical engineering positions.",
+    "reason": "The job is for a non-technical manufacturing role at a semiconductor company, which does not match Vineeth's technical background.",
     "id": "2168a8fe",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Hardware Engineer",
@@ -28258,28 +28250,26 @@
     "url": "https://www.glassdoor.com/job-listing/principal-hardware-engineer-teradyne-JV_IC1151624_KO0,27_KE28,36.htm?jl=1010149353687",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Principal Hardware Engineer role, which does not match the specified technical domains in the candidate profile such as Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The job is for a Principal Hardware Engineer, which does not match Vineeth's key skills in Power Integrity and Advanced Packaging.",
     "id": "0fba5cd6",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "hardware engineer jobs in Tualatin, OR",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Tualatin, OR, USA",
     "url": "https://www.glassdoor.com/Job/tualatin-hardware-engineer-jobs-SRCH_IL.0,8_IC1151624_KO9,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a hardware engineer, which does not match the specified technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is a hardware engineer position in Tualatin, Oregon, which does not match Vineeth's background and domain expertise in Power Integrity, Advanced Packaging, CAD Methodology, etc.",
     "id": "ca7466ce",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Tualatin, OR jobs",
