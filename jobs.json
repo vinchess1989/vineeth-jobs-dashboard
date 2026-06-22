@@ -29379,18 +29379,17 @@
   },
   {
     "title": "Seattle, WA jobs",
-    "company": "Extract from page",
+    "company": "Costco Wholesale",
     "location": "Seattle, WA, USA",
     "url": "https://www.glassdoor.com/Job/seattle-jobs-SRCH_IL.0,7_IC1150505.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is for a general Seattle, WA jobs search on Glassdoor without specific company details and doesn't match the VLSI/EDA industry requirements.",
+    "reason": "The listed jobs are general retail sales, cashier, and warehouse worker positions which do not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "5056a2f6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "30d+",
+    "description_file": null
   },
   {
     "title": "Impinj jobs in Seattle, WA",
@@ -29399,13 +29398,12 @@
     "url": "https://www.glassdoor.com/Job/seattle-impinj-jobs-SRCH_IL.0,7_IC1150505_KO8,14.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Seattle, WA, USA which does not match the target regions of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "reason": "This job listing is for a non-technical role at Impinj, which does not match Vineeth's technical background in semiconductor VLSI EDA.",
     "id": "0e088c59",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -29413,14 +29411,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/product-engineer-elevate-semiconductor-JV_IC1147311_KO0,16_KE17,38.htm?jl=1010165615825",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Product Engineer role which does not match the technical leadership roles we are seeking.",
+    "matches_requirements": "yes",
+    "reason": "The role fits Vineeth's background in Power Integrity and is a Senior Leadership position",
     "id": "adfe4586",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/elevate_semiconducto_product_engineer_adfe4586.txt"
   },
   {
     "title": "product engineer jobs in San Diego, CA",
@@ -29429,28 +29426,26 @@
     "url": "https://www.glassdoor.com/Job/san-diego-product-engineer-jobs-SRCH_IL.0,9_IC1147311_KO10,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company",
+    "reason": "Glassdoor is a job aggregation site, not a semiconductor company. The role is non-technical marketing.",
     "id": "2ca37c24",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "San Diego, CA jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Diego, CA",
     "url": "https://www.glassdoor.com/Job/san-diego-jobs-SRCH_IL.0,9_IC1147311.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The IP has been blocked, so it's likely a security measure and not an actual job posting.",
+    "reason": "The job posting is for a San Diego, CA area search of all jobs, not a specific semiconductor/VLSI/EDA technical role. It also has no application deadline.",
     "id": "f559244e",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Plasma Sensing Systems Engineer",
@@ -29459,13 +29454,12 @@
     "url": "https://www.glassdoor.com/job-listing/plasma-sensing-systems-engineer-applied-materials-JV_IC1147439_KO0,31_KE32,49.htm?jl=1010154212189",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Plasma Sensing Systems Engineer at Applied Materials, which does not fit the Semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is focused on plasma sensing systems, which does not match Vineeth's background in power integrity, advanced packaging, and VLSI/EDA.",
     "id": "af3ca2d0",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Test Engineer - Multiple Levels",
@@ -29474,13 +29468,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-test-engineer-multiple-levels-at-qualcomm-4405346048",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is too junior (3-4 years) and does not fit the senior technical leadership experience of Vineeth.",
+    "reason": "This hardware engineering role at Qualcomm is focused on digital test solutions for SOCs, which does not closely match Vineeth's background in power integrity and advanced packaging.",
     "id": "77f0d4ed",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -29489,13 +29482,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=383&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on semiconductor manufacturing, not power integrity, signal integrity, advanced packaging or EDA/CAD tooling.",
+    "reason": "The role is primarily focused on product engineering and development of semiconductor devices, which falls outside Vineeth's domain expertise in Power Integrity, Advanced Packaging, CAD/Methodology.",
     "id": "3a991b37",
     "source": "tsmc_careers",
     "posted_date": "2026-03-23",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -29504,13 +29496,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProduct-Engineer%2F383",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical marketing position, which does not match our focus on engineering/technical positions at semiconductor companies.",
+    "reason": "The job is for a non-technical HR role, which is not within Vineeth's domain.",
     "id": "68225487",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -29518,14 +29509,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-acl-digital-4260948660",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a direct match for our Analog Design Engineer domain, with 2+ years of experience and strong expertise in Cadence tools.",
+    "matches_requirements": "no",
+    "reason": "The role is for an Analog Circuit Design Engineer, which is outside Vineeth's domain of Power Integrity, Advanced Packaging and CAD/Methodology expertise.",
     "id": "7685168e",
     "source": "linkedin_vlsi_india",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/acl_digital_analog_circuit_design_engineer_7685168e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
