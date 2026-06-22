@@ -61863,14 +61863,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/soc-physical-design-engineer-at-synopsys-inc-4413460900",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role focuses on SoC physical design, which aligns with key skills and experience mentioned.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain.",
     "id": "6337d82f",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -61879,13 +61878,12 @@
     "url": "https://ro.linkedin.com/jobs/view/physical-design-engineer-at-marvell-technology-4411560737",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Associate level position, which does not align with the candidate's senior experience.",
+    "reason": "The role is focused on physical design of chips, which is outside Vineeth's primary domain of power integrity and advanced packaging.",
     "id": "e0906c0b",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Physical Design",
@@ -61893,14 +61891,13 @@
     "location": "Nantes, Pays de la Loire, France",
     "url": "https://fr.linkedin.com/jobs/view/principal-engineer-physical-design-at-microchip-technology-inc-4414656462",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the Physical Design focus area.",
+    "matches_requirements": "no",
+    "reason": "The job is a Principal Engineer role with 10+ years of experience, fitting Vineeth's background and level. However, it specifically requires knowledge of Innovus or ICC/ICC2, which is not in his area of expertise in Power Integrity (PI) / Signal Integrity (SI). A direct match would need to have a strong overlap with PI/SI.",
     "id": "9ae3a106",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-05-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/microchip_technology_principal_engineer___physical__9ae3a106.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer I-Physical Design",
@@ -61908,14 +61905,13 @@
     "location": "Nantes, Pays de la Loire, France",
     "url": "https://fr.linkedin.com/jobs/view/senior-engineer-i-physical-design-at-microchip-technology-inc-4428117703",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain & technical area of Physical Design, with a Microchip location in Nantes, France.",
+    "matches_requirements": "no",
+    "reason": "This is an engineering role, but it does not match Vineeth's domain of verification or software development.",
     "id": "b4e02ddd",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/microchip_technology_senior_engineer_i_physical_des_b4e02ddd.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -61923,14 +61919,13 @@
     "location": "South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/senior-physical-design-engineer-at-ic-resources-4430314845",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the domain of Physical Design Engineer, with a requirement for experience across Cadence-based physical design flows and methodologies.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily design-focused, outside Vineeth's power integrity and advanced packaging domain.",
     "id": "5f6bb07f",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ic_resources_senior_physical_design_enginee_5f6bb07f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Physical Design Engineer",
@@ -61938,14 +61933,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/senior-principal-physical-design-engineer-at-nxp-semiconductors-4425498865",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches experience, technical domain of physical design for SoCs, and location criteria.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong preference for semiconductor startups and consultancies, despite 15+ years experience requirement.",
     "id": "9407d714",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nxp_semiconductors_senior_principal_physical_desi_9407d714.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "SoC Physical Design Engineer",
@@ -61954,13 +61948,12 @@
     "url": "https://it.linkedin.com/jobs/view/soc-physical-design-engineer-at-nokia-4395856629",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The job involves SoC physical design, which matches the candidate's background in VLSI and SoC design.",
+    "reason": "Matches Vineeth's background well, especially SoC PDN sign-off and physical design.",
     "id": "7620294f",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2026-05-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/nokia_soc_physical_design_engineer_7620294f.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/nokia_soc_physical_design_engineer_7620294f.txt"
   },
   {
     "title": "Staff Engineer, Physical Design",
@@ -61968,14 +61961,13 @@
     "location": "Valencia, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/staff-engineer-physical-design-at-analog-devices-4387521378",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical requirements of physical design engineering with 10+ years experience",
+    "matches_requirements": "no",
+    "reason": "The role is primarily digital implementation with a focus on Cadence tools, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "1dd5e3e8",
     "source": "linkedin_eu_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/analog_devices_staff_engineer__physical_desig_1dd5e3e8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate / Entry Level Mixed Signal IC Layout Designer",
@@ -61984,13 +61976,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-entry-level-mixed-signal-ic-layout-designer-at-cirrus-logic-4417880265",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level position with 0-2 years of experience, not matching the senior-level and leadership roles preferred.",
+    "reason": "The role is for a Graduate / Entry Level Mixed Signal IC Layout Designer which falls outside Vineeth's domain of expertise.",
     "id": "b00e4cf6",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-05-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Regional Marketing & Communications Controller",
@@ -61999,13 +61990,12 @@
     "url": "https://uk.linkedin.com/jobs/view/regional-marketing-communications-controller-at-cos-4427520068",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, marketing-focused, and does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The role is a marketing & communications controller position at a retail company, which is outside Vineeth's domain of semiconductor/VLSI/EDA engineering and technical leadership.",
     "id": "af462fb3",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "3D Designer",
