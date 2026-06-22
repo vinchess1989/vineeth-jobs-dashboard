@@ -2769,14 +2769,13 @@
     "location": "Extract from page",
     "url": "https://jobs.siemens.com/en_US/externaljobs/Home",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting does not match the specified criteria as it is for a general search and does not mention a specific technical role, location, or company.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b3d77bec",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "All Jobs",
@@ -2785,13 +2784,12 @@
     "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are not for semiconductor, VLSI, EDA roles. They cover AI, customer service, and design and development.",
+    "reason": "The role is a technical consultant position focused on public funding, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "c1b535d9",
     "source": "siemens_eda_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "AI Recommendations",
@@ -2800,13 +2798,12 @@
     "url": "https://jobs.siemens.com/en_US/externaljobs/AIRecommendations",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not specify the technical domain, years of experience, work model, location, or company details needed for an accurate match.",
+    "reason": "The job is for an FAQs & Support role, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "aa172478",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FAQs & Support",
@@ -2815,13 +2812,12 @@
     "url": "https://www.siemens.com/global/en/company/jobs/faq.html",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general FAQ page with no specific job details - it's not an actual job posting.",
+    "reason": "Non-technical HR role, not an engineering/technical position at a semiconductor company",
     "id": "a26cf7e0",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deutsch",
@@ -2830,13 +2826,12 @@
     "url": "https://jobs.siemens.com/de_DE/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL does not specify a company, location, or even a date, making it impossible to determine if this matches the target job criteria.",
+    "reason": "The job posting URL was not found, so it cannot be evaluated against the requirements.",
     "id": "7b1cf2a6",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "English",
@@ -2845,13 +2840,12 @@
     "url": "https://jobs.siemens.com/en_US/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is no longer active, indicating it may be expired.",
+    "reason": "The job posting URL does not have a specific job opening, only redirects to Siemens' main careers site.",
     "id": "96b7e190",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Espa\u00f1ol",
@@ -2860,13 +2854,12 @@
     "url": "https://jobs.siemens.com/es_ES/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company.",
+    "reason": "The job posting URL redirects to a generic Siemens careers page that does not list any specific open positions, so it cannot be evaluated against the criteria.",
     "id": "104aeb0d",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fran\u00e7ais",
@@ -2875,13 +2868,12 @@
     "url": "https://jobs.siemens.com/fr_FR/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting page, making it impossible to evaluate the details against the given criteria.",
+    "reason": "The URL provided does not lead to a valid job posting page, so no further evaluation is possible.",
     "id": "f4793e4b",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Nederlands",
@@ -2890,13 +2882,12 @@
     "url": "https://jobs.siemens.com/nl_NL/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "No domain-specific technical requirements mentioned in the job posting.",
+    "reason": "The job posting URL is broken, so it cannot be evaluated based on location, deadline, etc.",
     "id": "b60e0cc6",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Portuguese",
@@ -2905,13 +2896,12 @@
     "url": "https://jobs.siemens.com/pt_PT/externaljobs/redirect",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The page specifies that we have moved to a new portal and provides a link to the new Siemens Careers site, indicating this job posting is outdated or inactive.",
+    "reason": "The job posting is not for a technical engineering role at a semiconductor company.",
     "id": "9098fbdc",
     "source": "siemens_eda_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u010cestina",
