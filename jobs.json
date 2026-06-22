@@ -62283,14 +62283,13 @@
     "location": "Sheffield, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-implementation-engineer-at-arm-4424560547",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Physical Design, and location is Sheffield, England, UK",
+    "matches_requirements": "no",
+    "reason": "The role is for physical implementation of Arm SoCs, which does not match Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
     "id": "bcba6c6d",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_senior_implementation_engineer_bcba6c6d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Designer, Layout",
@@ -62299,13 +62298,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-designer-layout-at-analog-devices-4400862013",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior leadership technical role with 7+ years experience required, matching target domains and company type.",
+    "reason": "Matches leadership role with domain overlap into semiconductor, layout design, and IC packaging",
     "id": "5c17855c",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-19",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/analog_devices_lead_designer__layout_5c17855c.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/analog_devices_lead_designer__layout_5c17855c.txt"
   },
   {
     "title": "Colo Physical Security Architect, Colocation Regional Engineering",
@@ -62314,13 +62312,12 @@
     "url": "https://uk.linkedin.com/jobs/view/colo-physical-security-architect-colocation-regional-engineering-at-amazon-web-services-aws-4417079750",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Colo Physical Security Architect at Amazon Web Services, which is focused on data center physical security rather than semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is primarily focused on Colo physical security architecture for data centers, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "190e645b",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Digital Design Engineer",
@@ -62328,14 +62325,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-digital-design-engineer-at-amd-4412905085",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the Digital Design Engineer with expertise in DSP and Linear Algebra, which aligns closely with the job description.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (DSP IP solutions) which is outside Vineeth's domain of expertise in PI/Advanced Packaging/CAD.",
     "id": "382ff3ab",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_staff_digital_design_engineer_382ff3ab.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Nanophotonics Engineer",
@@ -62344,28 +62340,12 @@
     "url": "https://uk.linkedin.com/jobs/view/nanophotonics-engineer-at-snap-inc-4429926140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Nanophotonics Engineer role at Snap Inc., which is in the consumer tech industry focusing on AR glasses and cameras. This does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is for Nanophotonics Engineer, which is not within Vineeth's domains of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, and CAD Methodology.",
     "id": "74e57823",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Composite Designer",
-    "company": "Cadillac Formula 1\u00ae Team",
-    "location": "Silverstone, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/composite-designer-at-cadillac-formula-1%C2%AE-team-4429347005",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is in Formula 1 car design, which is outside the semiconductor/VLSI/EDA domain.",
-    "id": "2926fcf6",
-    "source": "linkedin_uk_physical_design_p2",
-    "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process/Design Engineer Amazon Logistics, EU Design Engineering",
@@ -62374,13 +62354,12 @@
     "url": "https://uk.linkedin.com/jobs/view/process-design-engineer-amazon-logistics-eu-design-engineering-at-amazon-4422248004",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical customer-focused process design engineer position at Amazon Logistics, not an engineering/technical position in semiconductor/VLSI/EDA industry.",
+    "reason": "The role is primarily focused on logistics delivery stations design and process engineering rather than semiconductor VLSI EDA.",
     "id": "8192d0ee",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process/Design Engineer Amazon Logistics, EU Design Engineering",
@@ -62389,13 +62368,12 @@
     "url": "https://uk.linkedin.com/jobs/view/process-design-engineer-amazon-logistics-eu-design-engineering-at-amazon-4412988871",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical HR rather than an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on logistics process engineering, not semiconductor VLSI EDA.",
     "id": "45fd5a85",
     "source": "linkedin_uk_physical_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Rakennesuunnittelija",
@@ -62403,14 +62381,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/rakennesuunnittelija-at-ramboll-4427976605",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is for a Senior Structural Designer at Ramboll, which matches the Domain & Technical Area criteria of the target job search.",
+    "matches_requirements": "no",
+    "reason": "The role is for a Construction Designer (rakennesuunnittelija) focused on building design and not in the semiconductor/VLSI/EDA industry.",
     "id": "91ae1575",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-05",
     "deadline": "2026-08-31",
-    "description_file": "job_descriptions/ramboll_rakennesuunnittelija_91ae1575.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Structural Designer",
@@ -62419,13 +62396,12 @@
     "url": "https://fi.linkedin.com/jobs/view/structural-designer-at-insin%C3%B6%C3%B6ritoimisto-savolainen-oy-4423662362",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a structural design role at a Finnish engineering consultancy, not a semiconductor/VLSI/EDA job.",
+    "reason": "Not a match for Vineeth's technical expertise or experience level.",
     "id": "e3ad0f2e",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Anfran suunnitteluteht\u00e4vien osaajaverkosto",
