@@ -44518,13 +44518,12 @@
     "url": "https://www.glassdoor.com/job-listing/manufacturing-industrial-engineer-mie-advanced-analytics-ai-enablement-micron-technology-JV_IC1127927_KO0,70_KE71,88.htm?jl=1010152367320",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This manufacturing engineering role is not related to semiconductor, VLSI, EDA or relevant technical domains.",
+    "reason": "The role is for a Manufacturing Industrial Engineer, which is a non-technical position and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "e3c54538",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design Engineer ($140k-$180k + Equity) at Nero",
@@ -44533,28 +44532,26 @@
     "url": "https://www.linkedin.com/jobs/view/founding-design-engineer-%24140k-%24180k-%2B-equity-at-nero-at-jack-jill-4430351040",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a founding design engineer at a startup, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is primarily software development focused (full-stack engineering, database architecture) and does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "618c44e8",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MTS, Analog Design Engineering",
     "company": "Micron Technology",
-    "location": "Extract from page",
+    "location": "Boise, ID, USA",
     "url": "https://www.glassdoor.com/job-listing/mts-analog-design-engineering-micron-technology-JV_IC1127927_KO0,29_KE30,47.htm?jl=1010172695022",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an MTS (Member of Technical Staff) position in Analog Design at Micron Technology, which does not directly match Vineeth's key skills and experience in Power Integrity, Advanced Packaging, and EDA tool integration.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "3c454582",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief of Staff to the COO",
@@ -44563,13 +44560,12 @@
     "url": "https://fi.linkedin.com/jobs/view/chief-of-staff-to-the-coo-at-verda-4409960625",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an executive Chief of Staff role for the COO, not a technical semiconductor/VLSI/EDA engineering position.",
+    "reason": "Non-technical role unrelated to semiconductor/VLSI/EDA domain",
     "id": "65cc9c89",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief of Staff to the COO",
@@ -44578,13 +44574,12 @@
     "url": "https://fi.linkedin.com/jobs/view/chief-of-staff-to-the-coo-at-verda-4418964318",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical Chief of Staff position to the COO, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily strategic and business operations focused, not technical semiconductor/VLSI/EDA.",
     "id": "83f18f1f",
     "source": "linkedin_semi_finland",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP Global Operations",
@@ -44593,13 +44588,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-global-operations-at-rambus-4417651801",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical VP Global Operations role at a semiconductor company, which does not match our target engineering/technical positions.",
+    "reason": "The role is a VP of Operations at a semiconductor company, which matches Vineeth's technical leadership experience but does not directly fit his deep domain expertise in Power Integrity and Advanced Packaging.",
     "id": "00e5a123",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP Corporate Development - 883",
@@ -44608,13 +44602,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-corporate-development-883-at-quantinuum-4429991969",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for VP Corporate Development at Quantinuum and does not match semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is a corporate development VP position focused on M&A and partnerships, which does not fit Vineeth's technical background in power integrity, advanced packaging, and EDA.",
     "id": "1349dc45",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP Corporate Strategy - 882",
@@ -44623,13 +44616,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-corporate-strategy-882-at-quantinuum-4430100914",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a corporate strategy position at the VP level, which does not match the technical VLSI/EDA roles we are seeking.",
+    "reason": "This is a corporate strategy role, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "c2c8ea48",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Job Search",
@@ -44638,13 +44630,12 @@
     "url": "https://www.glassdoor.com/Job/index.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role at a semiconductor company.",
+    "reason": "The job posting does not specify a technical role in semiconductor/VLSI/EDA. It is about general Glassdoor security and troubleshooting.",
     "id": "62049ae7",
     "source": "glassdoor_semi",
     "posted_date": "2023-05-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Signal and Power Integrity Engineer - Hardware",
@@ -44653,13 +44644,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-hardware-at-nvidia-4413839647",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate's background in Power Integrity and Advanced Packaging does not directly match the job requirements which are focused on signal integrity, PCB design, and modeling of system components. There is a mismatch between the technical areas.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "9e2cc3cf",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity / Power Integrity Engineer - Wearables",
