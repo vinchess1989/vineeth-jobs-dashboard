@@ -30741,14 +30741,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4395487193",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires US residency, which is a hard rejection based on our search requirements.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with strong technical match but slightly fewer years than ideal.",
     "id": "6b501510",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer, ML Processor & Digital IP",
@@ -30757,13 +30756,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-ml-processor-digital-ip-at-amd-4424815761",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency, which violates the job search requirements.",
+    "reason": "The role is primarily software development (SW Engineer) which is outside Vineeth's domain.",
     "id": "5b86c1ad",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
@@ -30772,13 +30770,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4395476308",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Santa Clara, CA which does not match the target regions of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "reason": "This senior ASIC design role at NVIDIA is focused on GPU design and architecture, which does not match Vineeth's background in power integrity, advanced packaging, and SoC PDN sign-off. It's a very specialized microarchitecture design position rather than the broader hardware engineering leadership role Vineeth has.",
     "id": "455d2a58",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-01-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Integration RTL Design Engineer",
@@ -30787,13 +30784,12 @@
     "url": "https://www.linkedin.com/jobs/view/integration-rtl-design-engineer-at-amd-4391945100",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an RTL Design Engineer position, which does not directly align with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification), which is outside Vineeth's domain.",
     "id": "a08aa95c",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-02",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal ASIC Design Engineer",
@@ -30802,13 +30798,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-asic-design-engineer-at-hewlett-packard-enterprise-4386301229",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Sunnyvale, CA which does not match the priority regions of Finland/UK/India/Remote.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "804acc60",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-03-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior CPU Design Engineer",
@@ -30817,13 +30812,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-cpu-design-engineer-at-nvidia-4395482548",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Hillsboro, OR, USA, which does not match the regions we are prioritizing.",
+    "reason": "This senior CPU design role at NVIDIA is focused on high-performance GPU and AI SoCs, not the power integrity and packaging domains Vineeth specializes in. It's a strong mismatch.",
     "id": "d6e66c16",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Principal Engineer Digital Design (f/m/div)Dublin (Ireland) + 1 moreHRC1184397HybridHybrid",
@@ -30832,28 +30826,12 @@
     "url": "https://www.infineon.com/careers/job/563808959178632",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL returned a 404 error, indicating the job posting is likely inactive.",
+    "reason": "This posting does not have an explicit job title, company name, or location mentioned.",
     "id": "05385049",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Werkstudent - HR People Services (w/m/div) Regensburg (Germany)HRC1678836On-site",
-    "company": "Infineon Technologies AG",
-    "location": "Regensburg, Germany",
-    "url": "https://www.infineon.com/careers/job/563808971260973",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at Infineon, which does not match our focus on engineering/technical positions.",
-    "id": "427c5ebb",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Specialist Talent AttractionBangalore (India)HRC1682655",
@@ -30862,13 +30840,12 @@
     "url": "https://www.infineon.com/careers/job/563808971298799",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description page is blank and cannot be evaluated for matching requirements.",
+    "reason": "The job posting URL is missing, so the company, location and application deadline cannot be checked.",
     "id": "457bbc13",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Digital Design (f/m/div)Cork (Ireland)HRC1630363HybridHybrid",
@@ -30877,13 +30854,12 @@
     "url": "https://www.infineon.com/careers/job/563808970749031",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting link returns a 404 error, making it impossible to evaluate further.",
+    "reason": "The job URL was returned a 404 error indicating that the posting is no longer active, so it does not match.",
     "id": "d95093b1",
     "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Engineer Digital Design (f/m/div)Zurich (Switzerland)HRC1648998HybridHybrid",
