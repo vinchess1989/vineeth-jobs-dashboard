@@ -64201,14 +64201,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/design-verification-engineer-for-cellular-soc-m-f-d-at-apple-4414157709",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Design Verification Engineer for Cellular SoC at Apple, which matches the domain and technical area requirements of Power Integrity, CAD/Methodology, EDA Tools, and VLSI/SoC Design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which falls outside Vineeth's domain.",
     "id": "9a8f12b4",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_design_verification_engineer_f_9a8f12b4.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "PMU Design Verification Engineer (m/f/d)",
@@ -64217,13 +64216,12 @@
     "url": "https://de.linkedin.com/jobs/view/pmu-design-verification-engineer-m-f-d-at-apple-4414162510",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Design Verification Engineer for mixed-signal PMU designs and does not fit the Power Integrity/Advanced Packaging/CAD domains of the target job search.",
+    "reason": "The role is primarily verification, which is outside Vineeth's domain.",
     "id": "ffc39122",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-05-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware PCB Layout Engineer (m/f/d)",
@@ -64232,13 +64230,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-pcb-layout-engineer-m-f-d-at-apple-4429600229",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a hardware PCB layout role at Apple, focusing on product design rather than semiconductor VLSI/EDA.",
+    "reason": "The role is primarily PCB layout design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "1703c2fa",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -64246,29 +64243,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/physical-design-engineer-at-european-tech-recruit-4421804260",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match for a Physical Design Engineer role with over 10 years experience, at mid-senior level.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on physical design implementation, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "5e3afce2",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-05-16",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_design_engineer_5e3afce2.txt",
-    "needs_re_review": true
-  },
-  {
-    "title": "PMU Design Verification Engineer (m/f/d)",
-    "company": "Apple",
-    "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
-    "url": "https://de.linkedin.com/jobs/view/pmu-design-verification-engineer-m-f-d-at-apple-4414157700",
-    "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves SoC design verification with SystemVerilog/UVM, but does not explicitly mention power integrity.",
-    "id": "edad5add",
-    "source": "linkedin_eu_vlsi_design",
-    "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -64277,13 +64258,12 @@
     "url": "https://it.linkedin.com/jobs/view/digital-design-engineer-at-sii-group-italy-4417957109",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Digital Design Engineer focusing on aerospace and defense projects, using FPGA design skills. It does not match the specified semiconductor/VLSI/EDA domains.",
+    "reason": "The role is specifically for FPGA design in aerospace & defence, outside Vineeth's primary Power Integrity and Packaging domains.",
     "id": "1ba1f1ed",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "System Hardware Engineer",
@@ -64291,14 +64271,13 @@
     "location": "Rome, Latium, Italy",
     "url": "https://it.linkedin.com/jobs/view/system-hardware-engineer-at-bluethink-4429541186",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is at a consulting company, not directly in semiconductor/VLSI/EDA.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves system engineering, hardware development and requirements management, closely aligning with Vineeth's background in Power Integrity. However, it is a slightly different domain from his focus on SoC PDN sign-off, thermal analysis, and advanced packaging.",
     "id": "76965bdb",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-05-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Junior E&I Hardware Engineer",
@@ -64307,13 +64286,12 @@
     "url": "https://be.linkedin.com/jobs/view/junior-e-i-hardware-engineer-at-imtech-4427740103",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an electrical engineering position, not a semiconductor/VLSI/EDA role.",
+    "reason": "The role is an E&I hardware engineer, which does not match Vineeth's domain of Power Integrity/Signal Integrity, Advanced Packaging, VLSI/EDA.",
     "id": "73f99aa1",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical ASIC Design Implementation Engineer (Contract)",
@@ -64321,14 +64299,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/physical-asic-design-implementation-engineer-contract-at-european-tech-recruit-4427026747",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior Physical ASIC Design Implementation Engineer role, with a year-long contract.",
+    "matches_requirements": "no",
+    "reason": "Not in target domains, leadership role is a Senior Principal Consultant which does not fit",
     "id": "81d8a98e",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_asic_design_implement_81d8a98e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer Traineeship",
@@ -64337,13 +64314,12 @@
     "url": "https://nl.linkedin.com/jobs/view/hardware-engineer-traineeship-at-hoppenbrouwers-4267052694",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship level hardware engineering role focused on electronics and automation, not VLSI/EDA/semiconductor.",
+    "reason": "The role is a technical traineeship for hardware engineering rather than a leadership position in semiconductor, VLSI or EDA.",
     "id": "f2736ab2",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2023-11-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Physical Design Implementation Engineer",
