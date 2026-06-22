@@ -19192,13 +19192,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTSMC-R-D%2F6158",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job does not specify enough details about the role, location, and technical requirements to make a match.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "18d368d3",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RTL Design Engineers (Train AI Models Part Time!)",
@@ -19207,13 +19206,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineers-train-ai-models-part-time%21-at-hackajob-4426974510",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is part-time, with a preferred full-time commitment, making it unsuitable for our technical leadership focused search.",
+    "reason": "The role is primarily verification (UVM, testbench development), which falls outside Vineeth's domain.",
     "id": "d760c3b8",
     "source": "linkedin_rtl_ww",
     "posted_date": "2023-04-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salaries for Hardware Engineer",
@@ -19222,13 +19220,12 @@
     "url": "https://www.indeed.com/career/hardware-engineer/salaries",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are for salaries and do not match a specific technical role posting.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "a59c4053",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salaries for Hardware Engineer, Santa Clara, CA",
@@ -19237,13 +19234,12 @@
     "url": "https://www.indeed.com/career/hardware-engineer/salaries/Santa Clara--CA",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a salary summary page, not a specific job posting with requirements and details needed for evaluation.",
+    "reason": "The job is for a hardware engineer role in Santa Clara, CA, which does not match Vineeth's background and key skills in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology, ANSYS RedHawk, Cadence Voltus, and team leadership.",
     "id": "c9596ca2",
     "source": "indeed_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "11 Child Care Worker Skills To Advance Your Career",
@@ -19252,13 +19248,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/child-care-worker-skills?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for child care services, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The job is for a non-technical child care worker role, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "402a813d",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "11 Liberal Arts Degree Jobs That Pay Well",
@@ -19267,13 +19262,12 @@
     "url": "https://www.indeed.com/career-advice/finding-a-job/liberal-arts-degree-jobs?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing and career guide role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "This is a general careers article about liberal arts degrees, not a specific job posting for semiconductor/VLSI/EDA roles.",
     "id": "c30eb278",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "14 Essential Airline Cabin Crew Skills for Career Success",
@@ -19282,13 +19276,12 @@
     "url": "https://www.indeed.com/career-advice/finding-a-job/airline-cabin-crew-skills?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at a semiconductor company.",
+    "reason": "The job is for a non-technical role of airline cabin crew, which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
     "id": "3deff999",
     "source": "indeed_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Guide: Calculating Share of Voice for Your Company",
@@ -19297,13 +19290,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/share-of-voice?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided URL does not lead to a valid job posting, making it impossible to extract relevant details like company, location, posted_date or deadline. The page appears to be an article on calculating Share of Voice rather than a job listing.",
+    "reason": "The job posting is for a career advice guide on calculating share of voice, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
     "id": "ba125a20",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "How To Be Happy at Work: 40 Tips To Improve Your Mindset",
@@ -19312,13 +19304,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/how-to-be-happy-at-work?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a generic career advice guide article, not a technical job posting.",
+    "reason": "The job is for a non-technical career advice article, not an engineering role at a semiconductor/EDA company.",
     "id": "2940a2da",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "How To Make a QR Code in 5 Helpful Steps (With Uses)",
@@ -19327,13 +19318,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/how-to-make-a-qr-code?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in content creation, not related to semiconductor/VLSI/EDA.",
+    "reason": "Not a technical engineering role, discarding per instructions.",
     "id": "93c36461",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "How To Recall an Email in Outlook (And Replace It Afterward)",
