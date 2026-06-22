@@ -23598,17 +23598,16 @@
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFailure-Analysis-Engineer-m-f-d%2F18773",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is incomplete, missing essential details like the company name and location to evaluate properly.",
+    "reason": "The role is at TSMC, a semiconductor manufacturing company, which does not fit Vineeth's EDA/semiconductor VLSI background.",
     "id": "842961e7",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Search open roles",
@@ -23617,13 +23616,12 @@
     "url": "https://tessolve.darwinbox.com/ms/candidatev2/main/careers/allJobs",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The jobs listed do not match the domain, experience level, or location requirements specified in the search criteria.",
+    "reason": "The roles are primarily software development positions, which is outside Vineeth's domain.",
     "id": "ce603c67",
     "source": "tessolve_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Job Notifications",
@@ -23632,13 +23630,12 @@
     "url": "https://bel-india.in/job-notifications/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical HR role at a semiconductor company, which does not match our engineering/technical position criteria.",
+    "reason": "This is a general job notification for multiple roles at various BEL locations, so does not match Vineeth's specific technical expertise and seniority level.",
     "id": "ed5e5d00",
     "source": "bel_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering",
@@ -23647,13 +23644,12 @@
     "url": "https://www.workatastartup.com/jobs/l/software-engineer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position at a startup, not a semiconductor/VLSI/EDA technical job.",
+    "reason": "This is a software engineering position at a startup, not a technical role in semiconductor/VLSI/EDA.",
     "id": "0426cfd1",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design",
@@ -23662,13 +23658,12 @@
     "url": "https://www.workatastartup.com/jobs/l/designer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "None of the listed jobs match the specific technical domains required for a semiconductor/VLSI/EDA expert.",
+    "reason": "The role is for a startup design position, which does not match Vineeth's semiconductor/EDA/VLSI background.",
     "id": "a91f112f",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Recruiting",
@@ -23677,13 +23672,12 @@
     "url": "https://www.workatastartup.com/jobs/l/recruiting",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for recruiting roles, which does not match the technical focus of semiconductor/VLSI/EDA jobs.",
+    "reason": "The job is non-technical Recruiting & HR role at a startup, not matching Vineeth's technical VLSI/EDA background and requirements.",
     "id": "06b52e8d",
     "source": "yc_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Science",
@@ -23692,13 +23686,12 @@
     "url": "https://www.workatastartup.com/jobs/l/science",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a scientific research position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a computational biologist role at a startup, which does not match Vineeth's VLSI/EDA background and skills.",
     "id": "2bbcde40",
     "source": "yc_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product",
@@ -23707,13 +23700,12 @@
     "url": "https://www.workatastartup.com/jobs/l/product-manager",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is a Product Manager role at Y Combinator startups, which falls under non-technical roles and does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "This is a general product manager role at Y Combinator, matching with multiple startups. It does not specify a technical domain relevant to Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off or CAD methodologies.",
     "id": "e61d6c88",
     "source": "yc_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Application Engineer",
@@ -23721,14 +23713,13 @@
     "location": "Oulu, Finland",
     "url": "https://builtin.com/job/senior-staff-application-engineer/9649897",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Power Integrity/Signal Integrity, and location is Finland",
+    "matches_requirements": "maybe",
+    "reason": "Senior/Staff level role without specific technical domain matching Vineeth's background, but located in Finland which is a high priority location.",
     "id": "c18dbf84",
     "source": "builtin_semi",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/alif_semiconductor_senior_staff_application_engin_c18dbf84.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Senior) Embedded Software Engineer",
@@ -23737,13 +23728,12 @@
     "url": "https://builtin.com/job/senior-embedded-software-engineer/9649881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a (Senior) Embedded Software Engineer specializing in wireless connectivity, which does not match the VLSI/EDA domain requirements.",
+    "reason": "The role is for an embedded software engineer, which falls outside Vineeth's domain of power integrity, advanced packaging, and EDA tools.",
     "id": "eeecaf47",
     "source": "builtin_semi",
     "posted_date": "2023-05-10",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "(Senior) Embedded Software Engineer",
