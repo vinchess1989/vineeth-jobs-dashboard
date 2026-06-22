@@ -38862,28 +38862,12 @@
     "url": "https://www.glassdoor.com/job-listing/hardware-validation-engineer-credo-JV_IC1147436_KO0,28_KE29,34.htm?jl=1009859111001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Hardware Validation Engineer, which does not match the specified technical domains.",
+    "reason": "The role is primarily focused on hardware validation rather than power integrity, VLSI design, or EDA tools.",
     "id": "c03e4835",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Credo jobs in San Jose, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://www.glassdoor.com/Job/san-jose-credo-jobs-SRCH_IL.0,8_IC1147436_KO9,14.htm",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job posting URL provided is for a search results page, not a specific job listing. It does not contain enough details to determine eligibility based on technical domain, experience level, and location requirements.",
-    "id": "26955a09",
-    "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Process Engineer",
@@ -38892,28 +38876,26 @@
     "url": "https://www.glassdoor.com/job-listing/sr-process-engineer-skyworks-solutions-JV_IC1146976_KO0,19_KE20,38.htm?jl=1010167413129",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Engineer role which does not fit the technical domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership we are looking to match.",
+    "reason": "The job is for a non-technical Process Engineer role, not within Vineeth's domain of expertise in semiconductor VLSI EDA.",
     "id": "aacc1d36",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "process engineer jobs in Newbury Park, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A (Extract from page)",
+    "location": "Newbury Park, CA, USA",
     "url": "https://www.glassdoor.com/Job/newbury-park-process-engineer-jobs-SRCH_IL.0,12_IC1146976_KO13,29.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for process engineering support, which does not match the semiconductor/VLSI/EDA technical domains we are targeting.",
+    "reason": "This is a general process engineer role, not specialized in semiconductor/VLSI/EDA domains that Vineeth works in.",
     "id": "f6e68b61",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Newbury Park, CA jobs",
@@ -38922,13 +38904,12 @@
     "url": "https://www.glassdoor.com/Job/newbury-park-jobs-SRCH_IL.0,12_IC1146976.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a specific job posting but rather a search results page for Newbury Park, CA jobs. It does not contain sufficient details to determine if it matches the required criteria.",
+    "reason": "The job posting is for a non-technical role at a semiconductor company, which does not match Vineeth's engineering/technical background.",
     "id": "903025ea",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Skyworks Solutions jobs in Newbury Park, CA",
@@ -38937,13 +38918,12 @@
     "url": "https://www.glassdoor.com/Job/newbury-park-skyworks-solutions-jobs-SRCH_IL.0,12_IC1146976_KO13,31.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Newbury Park, CA, USA which does not match the target locations of Finland, Europe (outside Finland), UK, India, Asia or fully remote worldwide.",
+    "reason": "The role is at a semiconductor company, but it's a non-technical HR position, so we only want engineering/technical roles.",
     "id": "95f811e5",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Digital ASIC Engineer",
@@ -38951,14 +38931,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://www.glassdoor.com/job-listing/sr-digital-asic-engineer-skyworks-solutions-JV_IC1151603_KO0,24_KE25,43.htm?jl=1010163464835",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a senior engineering role at Skyworks Solutions, which fits the semiconductor industry target and the candidate's background in digital ASIC design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused on embedded firmware, which is outside Vineeth's domain.",
     "id": "91524d48",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/skyworks_solutions_sr__digital_asic_engineer_91524d48.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "engineer jobs in Hillsboro, OR",
@@ -38967,13 +38946,12 @@
     "url": "https://www.glassdoor.com/Job/hillsboro-engineer-jobs-SRCH_IL.0,9_IC1151603_KO10,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL provided by Glassdoor does not contain specific details about a semiconductor/VLSI/EDA related engineer position in Hillsboro, OR, and appears to be blocked for security reasons.",
+    "reason": "The job posting is for engineer roles at a semiconductor company, but it does not match Vineeth's specific technical background in Power Integrity, Advanced Packaging, and CAD methodology.",
     "id": "88f87b98",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Game Designer Jobs",
@@ -38982,13 +38960,12 @@
     "url": "https://builtin.com/jobs/design-ux/search/game-designer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a job posting for game designers, not semiconductor/VLSI/EDA roles.",
+    "reason": "The role is primarily software development (mobile game development, game design) and not semiconductor/VLSI/EDA.",
     "id": "78b4b220",
     "source": "builtin_semi",
     "posted_date": "2023-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Game Developer Jobs",
@@ -38997,13 +38974,12 @@
     "url": "https://builtin.com/jobs/dev-engineering/search/game-developer",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role related to game development, which does not fit the semiconductor/VLSI/EDA technical requirements.",
+    "reason": "The job is for a game developer, which falls outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "2f78783f",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Manager Jobs",
