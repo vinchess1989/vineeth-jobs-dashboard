@@ -65868,13 +65868,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-design-engineer-m-f-d-at-ge-vernova-4362716473",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Design Engineer role at GE Vernova in Berlin, Germany. It does not fit the target domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD Methodology, or Physical Design.",
+    "reason": "The role is primarily FPGA design, not Power Integrity or Physical Design which Vineeth Prathapachandra Kaimal specializes in.",
     "id": "34259a3d",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ingenj\u00f6r VHDL/FPGA",
@@ -65882,14 +65881,13 @@
     "location": "Gothenburg, V\u00e4stra G\u00f6taland County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/ingenj%C3%B6r-vhdl-fpga-at-nexer-group-4390137123",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "15 years of experience required but job listing does not specify which technical area, and VHDL/FPGA role is a match.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (embedded systems engineer) which is outside Vineeth's domain.",
     "id": "0ad8c70c",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ingenj\u00f6r VHDL/FPGA",
@@ -65898,13 +65896,12 @@
     "url": "https://se.linkedin.com/jobs/view/ingenj%C3%B6r-vhdl-fpga-at-nexer-group-4268355381",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires VHDL/FPGA experience which does not directly match the target domains of Power Integrity, Advanced Packaging, and CAD/Methodology in VLSI/EDA.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "51aee8ed",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65913,13 +65910,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-at-capgemini-engineering-4405155783",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer role, which does not match the candidate's background in Power Integrity (PI) and Advanced Packaging.",
+    "reason": "The job is for an FPGA Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "0a4980f8",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer",
@@ -65928,13 +65924,12 @@
     "url": "https://gr.linkedin.com/jobs/view/fpga-design-engineer-at-intracom-defense-4416086257",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Koropi, Attika, Greece and requires digital design and FPGA experience, which does not match the target criteria of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions in semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily FPGA design, which does not match Vineeth's background and key skills in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off.",
     "id": "35bd1c79",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA & Firmware Engineer",
@@ -65943,13 +65938,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-firmware-engineer-at-sateliot-4415280955",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position requires a mix of FPGA design and embedded firmware, but does not fit directly into our targeted domains of Power Integrity, Advanced Packaging, VLSI, SoC Design, or EDA tools. The company is also based in Barcelona, Spain, which is outside our prioritized regions.",
+    "reason": "The job is for an FPGA & Firmware Engineer, not a technical leadership role.",
     "id": "a560d05b",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Software Engineer | Systematic Hedge Fund",
@@ -65958,13 +65952,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-software-engineer-systematic-hedge-fund-at-paragon-alpha-hedge-fund-talent-business-4413427161",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Software Engineer role at a hedge fund, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is in FPGA software development for a hedge fund, which does not match Vineeth's VLSI/EDA power integrity and packaging background.",
     "id": "8039e6fe",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-05-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Hardware Engineer",
@@ -65973,13 +65966,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-hardware-engineer-at-advanced-resource-managers-4364069795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Electronics Design Engineer position, not matching the VLSI/EDA job requirements.",
+    "reason": "Non-technical role, HR position at a semiconductor company",
     "id": "8ff0fff4",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -65988,13 +65980,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-mars-recruitment-4426862143",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA role, which does not match the VLSI/EDA semiconductor domains targeted by our search criteria.",
+    "reason": "The role is primarily FPGA engineering for wireless communications, outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "0e83bac3",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -66003,13 +65994,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-txm-recruit-4430444638",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA engineering, not VLSI/EDA/semiconductor work.",
+    "reason": "The job is for an FPGA Engineer, which does not match Vineeth's background in Power Integrity and VLSI/EDA.",
     "id": "cff98a97",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2023-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Design Engineer / Hardware Engineer",
