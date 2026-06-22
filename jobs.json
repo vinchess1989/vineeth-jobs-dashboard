@@ -25239,14 +25239,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/qpu-process-engineer-at-iqm-quantum-computers-4427014924",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role closely matches a senior process engineering position with experience in wafer fabrication and cleanroom environments, but the technical focus on quantum computing is different from typical semiconductor/VLSI/EDA roles.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on wafer fabrication and tool operation, which falls under Vineeth's semiconductor packaging background but does not directly match his power integrity and EDA CAD experience.",
     "id": "cdd8aa9b",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Validation Engineer",
@@ -25254,14 +25253,13 @@
     "location": "Lund, Sk\u00e5ne County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/silicon-validation-engineer-at-xenergic-4430468341",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits the Silicon Validation Engineer position at Xenergic in Lund, Sweden.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "c927c99a",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/xenergic_silicon_validation_engineer_c927c99a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Process Engineer (MDP)",
@@ -25270,13 +25268,12 @@
     "url": "https://ie.linkedin.com/jobs/view/module-process-engineer-mdp-at-applied-materials-4427846530",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a semiconductor manufacturing engineering position at the module level, focusing on PVD process tool optimization and integration challenges. However, it does not match the key skills or experience in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology, ANSYS RedHawk, Cadence Voltus, etc. that are required for the target roles.",
+    "reason": "The role is for Module Process Engineer (MDP) in PVD tool setup and process optimization rather than leadership or VLSI/EDA.",
     "id": "c2225967",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Post Silicon Verification/Validation Engineer",
@@ -25285,13 +25282,12 @@
     "url": "https://de.linkedin.com/jobs/view/post-silicon-verification-validation-engineer-at-ferroelectric-memory-company-4404677868",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in silicon validation and lab work, not the VLSI/EDA field of Power Integrity or CAD.",
+    "reason": "The role is primarily verification (post-silicon validation and debugging), which is outside Vineeth's domain.",
     "id": "897a5e24",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Senior) Process Development Engineer (m/f/d)",
@@ -25300,13 +25296,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-process-development-engineer-m-f-d-at-nexperia-4429022672",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position at a semiconductor company.",
+    "reason": "The role is a process development engineer position focused on wafer fabrication and manufacturing, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, or CAD Methodology.",
     "id": "cc862be3",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Test Engineer",
@@ -25315,13 +25310,12 @@
     "url": "https://de.linkedin.com/jobs/view/asic-test-engineer-at-imec-in-vlaanderen-4423608003",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Test Engineer, which does not match the target domains of Power Integrity/Advanced Packaging/CAD Methodology that Vineeth has experience in.",
+    "reason": "The role is primarily about setting up ASIC test solutions and organizing production, which is outside Vineeth's power integrity and advanced packaging domain. It also requires travel to test partners.",
     "id": "767f435b",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer - Quantum",
@@ -25330,13 +25324,12 @@
     "url": "https://dk.linkedin.com/jobs/view/senior-process-engineer-quantum-at-microsoft-4406869011",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Process Engineer - Quantum role at Microsoft, which does not match the target domains of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is in quantum device fabrication, which is outside Vineeth's PI/Advanced Packaging domain.",
     "id": "a0b26345",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Pool",
@@ -25345,13 +25338,12 @@
     "url": "https://de.linkedin.com/jobs/view/application-pool-at-ferroelectric-memory-company-4403725316",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position (Application Pool) at a semiconductor company.",
+    "reason": "The role is a general software application position, not related to semiconductor VLSI EDA domain.",
     "id": "54bbeee3",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Module Process Engineer (ALD)",
@@ -25360,13 +25352,12 @@
     "url": "https://ie.linkedin.com/jobs/view/module-process-engineer-ald-at-applied-materials-4427862339",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role focused on manufacturing and support, not engineering/technical work in semiconductor design, VLSI, EDA tools, or related fields.",
+    "reason": "The role is focused on hardware engineering of semiconductor manufacturing equipment, not VLSI/EDA design or technical leadership. It's a mismatch.",
     "id": "64bffcef",
     "source": "linkedin_semi_eu",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer II, Post-Silicon Validation",
@@ -25374,14 +25365,13 @@
     "location": "Rijswijk, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/engineer-ii-post-silicon-validation-at-sitime-4367447295",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain expertise in Power Integrity, Advanced Packaging, and VLSI/SoC Physical Design",
+    "matches_requirements": "no",
+    "reason": "The role is for a post-silicon validation engineer, focusing on productization of MEMS-based timing products. It involves mixed-signal validation and characterization, system algorithms, firmware development and more but does not directly align with Power Integrity/Advanced Packaging/CAD Methodology domains specified.",
     "id": "71cdfe8f",
     "source": "linkedin_semi_eu",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/sitime_engineer_ii__post_silicon_vali_71cdfe8f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "[KOTRA London] Global High-Tech Talent Connect: Start Your Career in Korea!",
