@@ -37051,18 +37051,17 @@
   },
   {
     "title": "Cambridge, MA jobs",
-    "company": "Extract from page",
+    "company": "Commonwealth of Massachusetts",
     "location": "Cambridge, UK",
     "url": "https://www.glassdoor.com/Job/cambridge-jobs-SRCH_IL.0,9_IC1154545.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for non-technical roles at a semiconductor company, which does not match the requirements of focusing on engineering/technical positions.",
+    "reason": "The job is for non-technical storekeeper roles at a government agency, which does not match Vineeth's semiconductor/EDA background and experience.",
     "id": "a744100b",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Draper jobs in Cambridge, MA",
@@ -37071,13 +37070,12 @@
     "url": "https://www.glassdoor.com/Job/cambridge-draper-jobs-SRCH_IL.0,9_IC1154545_KO10,16.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for non-technical roles like business development and HR, which does not match our semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job listing is for a non-technical role at Draper, which only focuses on engineering/technical positions.",
     "id": "761b6f31",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Silicon Design Verification Engineer",
@@ -37086,13 +37084,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/80200?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in Austin, TX or San Jose, CA or San Diego, CA or Longmont, CO - none match our target locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "1ca0d25d",
     "source": "amd_careers",
     "posted_date": "2026-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Enterprise Projects Lead",
@@ -37101,13 +37098,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22513&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position at a semiconductor company, which does not match the required engineering/technical roles.",
+    "reason": "The role is a non-technical HR position, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "a43feba2",
     "source": "tsmc_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -37116,13 +37112,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEnterprise-Projects-Lead%2F22513",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Senior role at a semiconductor giant like TSMC is likely to match, but would need to check details against target criteria.",
+    "reason": "The role is a technical lead for projects at TSMC, which matches the background and experience level of Vineeth. However, the exact domain (Power Integrity/Advanced Packaging/CAD Methodology) is not explicitly mentioned in this remote position listing.",
     "id": "d1bb0043",
     "source": "tsmc_careers",
     "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -37131,13 +37126,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87212?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Santa Clara, CA, USA which doesn't match the priority locations mentioned.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which does not match Vineeth's power integrity and advanced packaging domain expertise.",
     "id": "7410f774",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-22",
+    "description_file": null
   },
   {
     "title": "IOT Video SW Engineer/StaffChengdu, Sichuan, ChinaSoftware EngineeringPosted 7 months ago",
@@ -37146,13 +37140,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446715678426?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This software engineering role is focused on IoT video development for Qualcomm's Snapdragon chipsets, which does not match the VLSI/EDA domain requirements.",
+    "reason": "The job is for software development on Qualcomm's IoT video products, focusing on multimedia frameworks and codecs. This is outside Vineeth's primary domain of Power Integrity/Advanced Packaging/VLSI design and EDA tool integration.",
     "id": "ca14df33",
     "source": "qualcomm_careers",
     "posted_date": "2023-04-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FE CPIE CPI Senior Engineer/EngineerSingapore, SingaporePosted 3 months ago",
@@ -37160,14 +37153,13 @@
     "location": "Singapore",
     "url": "https://micron.eightfold.ai/careers/job/39190635",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Engineer role matches key skills of PI/PI Loop, global project management in a semiconductor company location Singapore.",
+    "matches_requirements": "no",
+    "reason": "This is a process engineering role focused on DRAM HPM, BEOL integration, and advanced packaging rather than Power Integrity, CAD/Methodology or EDA tools.",
     "id": "4b044541",
     "source": "micron_careers",
     "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology__i_fe_cpie_cpi_senior_engineer_en_4b044541.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Facility Construction MechanicalTainan City, Tainan City, TaiwanPosted 6 months ago",
@@ -37176,13 +37168,12 @@
     "url": "https://micron.eightfold.ai/careers/job/39209075",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for Facility Construction Mechanical Engineering support, not relevant to semiconductor/VLSI/EDA domain.",
+    "reason": "This is a Facilities Construction Mechanical Engineer role, which involves construction and building operations. The job requirements match neither Vineeth's technical background nor his experience in semiconductor/VLSI/EDA engineering leadership.",
     "id": "8cd922bd",
     "source": "micron_careers",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graphics Power Performance Modelling Engineer",
@@ -37190,14 +37181,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/graphics-power-performance-modelling-engineer-at-qualcomm-4296073115",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job role and domain match the candidate's background in Power Integrity (PI) and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (GPU driver and compiler development) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging.",
     "id": "61bb6e86",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_graphics_power_performance_mod_61bb6e86.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer",
