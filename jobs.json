@@ -27433,18 +27433,17 @@
   },
   {
     "title": "Oracle jobs in Santa Clara, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Oracle",
+    "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-oracle-jobs-SRCH_IL.0,11_IC1147439_KO12,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for Oracle software development positions, which does not match the semiconductor/VLSI/EDA technical domain.",
+    "reason": "This is a non-technical Oracle corporate role, not an engineering/semiconductor/VLSI/EDA position.",
     "id": "a9eb4591",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Reliability Engineer",
@@ -27453,28 +27452,26 @@
     "url": "https://www.glassdoor.com/job-listing/senior-reliability-engineer-nvidia-JV_IC1147439_KO0,27_KE28,34.htm?jl=1010165070763",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level position with less than 8 years of experience, and does not fit the senior leadership roles we are targeting.",
+    "reason": "The role is for a Senior Reliability Engineer, which falls under hardware reliability and validation - outside Vineeth's main domains of Power Integrity, Advanced Packaging, CAD/Methodology, Physical Design and EDA Tools.",
     "id": "cb071479",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "reliability engineer jobs in Santa Clara, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A - extracted from Glassdoor listing",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.glassdoor.com/Job/santa-clara-reliability-engineer-jobs-SRCH_IL.0,11_IC1147439_KO12,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in a semiconductor company, which we are not matching.",
+    "reason": "The role is a general reliability engineer position, not specific to semiconductor/VLSI/EDA technical areas.",
     "id": "603186d8",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer - ECU Requirements & Specifications",
@@ -27483,28 +27480,26 @@
     "url": "https://www.glassdoor.com/job-listing/hardware-engineer-ecu-requirements-specifications-general-motors-gm-JV_IC1134741_KO0,49_KE50,67.htm?jl=1010156783935",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company, which does not match our engineering/technical position requirement.",
+    "reason": "This role is in automotive hardware engineering for an automobile manufacturer, which does not match the semiconductor/VLSI/EDA industry focus.",
     "id": "f1abae72",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "hardware engineer jobs in Warren, MI",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Warren, MI, USA",
     "url": "https://www.glassdoor.com/Job/warren-hardware-engineer-jobs-SRCH_IL.0,6_IC1134741_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a hardware engineer, which does not match the specified technical domains of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design or Engineering Leadership.",
+    "reason": "The job is located in Warren, MI, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India/Asia, or fully remote worldwide. Additionally, it does not mention any of the key technical skills (Power Integrity, Advanced Packaging, CAD Methodology) that Vineeth possesses.",
     "id": "e58c21c9",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Warren, MI jobs",
@@ -27513,13 +27508,12 @@
     "url": "https://www.glassdoor.com/Job/warren-jobs-SRCH_IL.0,6_IC1134741.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for multiple roles at a semiconductor company, but it does not fit the technical domain criteria specified.",
+    "reason": "The job search URL provided is for a generic Warren, MI area job search on Glassdoor without specific company details. It does not match the semiconductor/VLSI/EDA industry focus.",
     "id": "375bdf65",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "General Motors (GM) jobs in Warren, MI",
@@ -27528,13 +27522,12 @@
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=General+Motors+%28GM%29&sc.locationSeoString=Warren&locId=1134741&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job listing is for GM positions in Warren, MI, which does not match the specified location requirements of Finland, Europe (outside Finland), UK, India, Asia, or fully remote worldwide.",
+    "reason": "GM jobs are not in semiconductor/VLSI/EDA - they are automotive manufacturing roles",
     "id": "3b2f494d",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Release Engineer",
@@ -27543,28 +27536,26 @@
     "url": "https://www.glassdoor.com/job-listing/senior-design-release-engineer-general-motors-gm-JV_IC1134741_KO0,30_KE31,48.htm?jl=1010153950628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Design Release Engineer position at General Motors, which does not fit the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is for a Release Engineer at an automotive company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "5bcceb1a",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "release engineer jobs in Warren, MI",
-    "company": "Extract from page",
+    "company": "N/A (extracted from page)",
     "location": "Warren, MI, USA",
     "url": "https://www.glassdoor.com/Job/warren-release-engineer-jobs-SRCH_IL.0,6_IC1134741_KO7,23.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Release Engineer role, which does not match the semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is for a non-technical release engineer, which is outside Vineeth's domain of power integrity, advanced packaging, and EDA.",
     "id": "95987b27",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital IC Design Engineer | DCC DAC",
@@ -27573,13 +27564,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-ic-design-engineer-dcc-dac-at-texas-instruments-4429374216",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Tucson, AZ which does not match the preferred locations in Finland, UK, India or fully remote worldwide.",
+    "reason": "The role is primarily focused on digital IC design, which falls outside Vineeth's power integrity and advanced packaging expertise.",
     "id": "6235ca44",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-04-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer - CMP Process DevelopmentSingapore, SingaporePosted 2 months ago",
