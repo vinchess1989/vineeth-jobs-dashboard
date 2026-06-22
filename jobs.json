@@ -60604,13 +60604,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-ii-mechanical-engineering-x-at-vertiv-4420917501",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Engineer, while we are looking for candidates with expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools or VLSI / SoC Design.",
+    "reason": "The role is a Mechanical Engineer position focused on packaging, which does not closely match Vineeth's Power Integrity and Advanced Packaging domain expertise.",
     "id": "11404be2",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Engineer II Mechanical Engineering X",
@@ -60619,13 +60618,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-ii-mechanical-engineering-x-at-vertiv-4428877605",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Mechanical Engineer position, not related to semiconductor/VLSI/EDA.",
+    "reason": "This is a mechanical engineering role at an equipment manufacturing company, not semiconductor/VLSI/EDA.",
     "id": "80948f99",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Praxis Global Alliance \u2013 Manager\u2013 Next Gen Industrials",
@@ -60634,13 +60632,12 @@
     "url": "https://in.linkedin.com/jobs/view/praxis-global-alliance-%E2%80%93-manager%E2%80%93-next-gen-industrials-at-praxis-global-alliance-4288219667",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a management consulting role, not an engineering/technical position at a semiconductor company.",
+    "reason": "The role is for a consulting position, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "8eead88a",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Operations Research Engineer",
@@ -60649,13 +60646,12 @@
     "url": "https://in.linkedin.com/jobs/view/operations-research-engineer-at-intel-4429094881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Operations Research Engineer focused on manufacturing and supply chain optimization, not directly related to semiconductor VLSI EDA fields of Power Integrity (PI) / Advanced Packaging / CAD Methodology.",
+    "reason": "The role is a general Operations Research Engineer position focused on manufacturing and supply chain optimization, not specific to semiconductor/VLSI/EDA. It's an incorrect match for Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and CAD Methodology.",
     "id": "e4a0e620",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Front-of-Line (FOL) Manager",
@@ -60663,14 +60659,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/front-of-line-fol-manager-at-asip-technologies-4422775362",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on production management, quality assurance, and equipment maintenance for semiconductor OSAT FOL operations, which does not directly match the key VLSI/EDA domains of power integrity, CAD methodology, or physical design.",
+    "matches_requirements": "yes",
+    "reason": "Matches job search criteria for an advanced packaging manager role with semiconductor manufacturing experience.",
     "id": "5806c909",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/asip_technologies_front_of_line__fol__manager_5806c909.txt"
   },
   {
     "title": "Validation/Characterization Engineer",
@@ -60678,14 +60673,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/validation-characterization-engineer-at-texas-instruments-india-4407010344",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level Validation Engineer position with 5+ years experience required, directly matching the target profile.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily validation/characterization of analog products, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "0a373f7d",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/texas_instruments_in_validation_characterization_en_0a373f7d.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog Layout Engineer",
@@ -60693,14 +60687,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-layout-engineer-at-acl-digital-4185433416",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role requires analog layout design with TSMC process nodes, while the target domains are power integrity, advanced packaging and thermal analysis. The company is based in India.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: Expecting property name enclosed in double quotes: line 8 column 1 (char 386)",
     "id": "25426d3e",
     "source": "linkedin_india_advanced_packaging_p2",
-    "posted_date": "2023-06-12",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Sales Engineer",
@@ -60709,13 +60702,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-sales-engineer-at-multi-recruit-4430418082",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This sales role is not technical, does not match the semiconductor/VLSI/EDA domain focus, and is not a leadership position.",
+    "reason": "The role is a sales position focused on semiconductor manufacturing equipment and solutions, which falls outside Vineeth's technical domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, and VLSI/SoC Design.",
     "id": "5a5ea836",
     "source": "linkedin_india_advanced_packaging_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -60724,13 +60716,12 @@
     "url": "https://si.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430114335",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The senior role matches the technical domain with 10+ years of experience, and the location is within Axelera AI's listed locations.",
+    "reason": "The role involves advanced packaging and power delivery engineering, which is a strong match for Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
     "id": "03502606",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2023-04-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_03502606.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_03502606.txt"
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -60739,13 +60730,12 @@
     "url": "https://lv.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430123203",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches technical domain of advanced packaging and power delivery.",
+    "reason": "This senior engineer role at Axelera AI closely matches Vineeth's background in Power Integrity and Advanced Packaging, with direct ownership over key aspects like power-delivery design, advanced packaging architecture, SI/PI verification.",
     "id": "27ae70ff",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_27ae70ff.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_27ae70ff.txt"
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
