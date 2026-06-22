@@ -65728,13 +65728,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-rif-2026-196-at-aizoon-technology-consulting-4412287926",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "FPGA Engineer role does not match primary semiconductor/VLSI/EDA domains of Power Integrity, Advanced Packaging, Physical Design, CAD Methodology.",
+    "reason": "This FPGA Engineer role is a direct technical match for Vineeth's background, but it is in Rome Italy which isn't one of his top priority locations. Vineeth prefers roles in Finland/UK/Europe or India/Asia.",
     "id": "4ab90392",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2023-06-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Embedded Systems & FPGA Engineer (all genders)",
@@ -65743,13 +65742,12 @@
     "url": "https://at.linkedin.com/jobs/view/embedded-systems-fpga-engineer-all-genders-at-qtlabs-quantum-technology-laboratories-gmbh-4422328664",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an Embedded Systems & FPGA Engineer role, which doesn't match the target VLSI/EDA job requirements.",
+    "reason": "Not within target domains of VLSI, EDA, semiconductor, or hardware engineering leadership.",
     "id": "06fb2ae4",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer (m/w/d)",
@@ -65758,13 +65756,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-design-engineer-m-w-d-at-aes-technology-gmbh-4423883825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Design Engineer position, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The role is FPGA design focused, while the candidate has significant experience in Power Integrity and Packaging domains which are a closer fit to the target job criteria.",
     "id": "e66b6533",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65773,13 +65770,12 @@
     "url": "https://nl.linkedin.com/jobs/view/fpga-engineer-at-optiver-4423659550",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an FPGA engineer role, not a semiconductor/VLSI/EDA position focusing on Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, or CAD Methodology.",
+    "reason": "The job is for an FPGA Engineer role, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and CAD/EDA. It falls outside his domain.",
     "id": "5642b39a",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Developer (f/m/x)",
@@ -65787,14 +65783,13 @@
     "location": "Wiener Neustadt, Lower Austria, Austria",
     "url": "https://at.linkedin.com/jobs/view/fpga-developer-f-m-x-at-medaustron-4416648447",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The FPGA Developer role at MedAustron is not a match for Vineeth's domain expertise in semiconductor, VLSI, EDA, power integrity, advanced packaging, and CAD tools. The job involves FPGA development (VHDL, Xilinx, software) and analogue/digital hardware design but does not directly align with Vineeth's technical background.",
     "id": "5d10631e",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Development Engineer FPGA (f/m/d)",
@@ -65802,14 +65797,13 @@
     "location": "Kelheim, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/development-engineer-fpga-f-m-d-at-excelitas-technologies-corp-4429640778",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for an FPGA embedded systems developer, not VLSI/EDA/semiconductor focused.",
     "id": "37980dec",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65817,14 +65811,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/fpga-engineer-at-the-exploration-company-4423916293",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a non-technical marketing/sales role, so it does not match our semiconductor/VLSI/EDA job requirements.",
+    "matches_requirements": "maybe",
+    "reason": "The role is an FPGA engineer, which matches Vineeth's CAD and methodology background to some extent.",
     "id": "ec1c00df",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-10",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65833,13 +65826,12 @@
     "url": "https://es.linkedin.com/jobs/view/fpga-engineer-at-keysight-technologies-4416833696",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Engineer, which does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "The FPGA Engineer role is focused on FPGA design, implementation and verification which falls within Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging. However, it does not match his key skills with ANSYS RedHawk tools.",
     "id": "a9a4dd27",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-03",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -65848,13 +65840,12 @@
     "url": "https://pl.linkedin.com/jobs/view/fpga-engineer-at-xy-sensing-4421922646",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Developer position which focuses on Verilog/VHDL coding and FPGA platform execution, not directly matching the Power Integrity/Advanced Packaging/CAD domains targeted.",
+    "reason": "The job is for an FPGA Engineer position, which falls outside Vineeth's Power Integrity and Advanced Packaging focus.",
     "id": "9896de96",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA / Electronics Engineer",
@@ -65863,13 +65854,12 @@
     "url": "https://nl.linkedin.com/jobs/view/fpga-electronics-engineer-at-quix-quantum-4425602781",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA/Electronics Engineer focused on quantum computing hardware, which does not match the Semiconductor/VLSI/EDA technical domains we are targeting.",
+    "reason": "This FPGA/Electronics Engineer role focuses on quantum computing hardware, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
     "id": "c58b07dc",
     "source": "linkedin_eu_fpga_engineer_p2",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer (m/f/d)",
