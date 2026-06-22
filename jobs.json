@@ -72867,14 +72867,13 @@
     "location": "Taipei, Taiwan",
     "url": "https://careers.amd.com/careers-home/jobs/87474?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves power and performance optimization for AMD's EPYC server platforms, which matches the target domains of Power Integrity (PI) / Signal Integrity (SI) and VLSI / SoC Design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused on BIOS, OS, and system configuration layers which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "3e8f84a8",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_product_development_engineer_3e8f84a8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Test Engineer",
@@ -72883,13 +72882,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87060?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not specifically match the Power Integrity/Advanced Packaging domains targeted, even though it is in Taipei.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "9acfd47a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer Product & TestSingaporeHRC1678529",
@@ -72898,13 +72896,12 @@
     "url": "https://www.infineon.com/careers/job/563808971282046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title and description do not match any of the specified technical domains.",
+    "reason": "The provided URL led to a 404 error page, indicating that the job posting is likely outdated or no longer available.",
     "id": "6a0db27f",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer Local Change ManagementMelaka (Malaysia)HRC1678697",
@@ -72913,13 +72910,12 @@
     "url": "https://www.infineon.com/careers/job/563808971279689",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical HR role at a semiconductor company, which does not match the requirements.",
+    "reason": "The job title indicates a non-technical HR role, not engineering/technical.",
     "id": "5033a669",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer - ATE Test DevelopmentAndover + 2 moreHRC1523004On-site",
@@ -72928,13 +72924,12 @@
     "url": "https://www.infineon.com/careers/job/563808969259066",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain technical keywords related to Power Integrity, Advanced Packaging, VLSI/EDA domains as required.",
+    "reason": "The job is for an AtE Test Development Engineer, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "6f64808c",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer Product & Test EngineeringWuxi + 1 moreHRC1579830",
@@ -72943,13 +72938,12 @@
     "url": "https://www.infineon.com/careers/job/563808970057136",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job description does not specify any technical domain, experience level or location details needed to match.",
+    "reason": "The job posting URL is missing, so the company, location and other details needed to evaluate this job against Vineeth's requirements cannot be retrieved.",
     "id": "5ef9d32d",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Principal Engineer - AI Domain ExpertSingaporeHRC1596342",
@@ -72958,13 +72952,12 @@
     "url": "https://www.infineon.com/careers/job/563808970281505",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description text does not contain enough information to determine a match based on the given criteria.",
+    "reason": "The job posting URL was missing, so I couldn't verify the location, deadline, and other key details to determine a match.",
     "id": "0ecc349f",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Development Manager",
@@ -72973,13 +72966,12 @@
     "url": "https://uk.linkedin.com/jobs/view/business-development-manager-at-banner-lane-4406614514",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Business Development Manager role at an electronics company, which does not meet our focus on engineering/technical positions in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Business Development Manager at an electronics company, which does not fit Vineeth's technical background in Power Integrity and Advanced Packaging.",
     "id": "f99f754a",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer",
@@ -72988,13 +72980,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-engineer-at-cisco-4431672472",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an ASIC Engineer role at Cisco which does not match the required technical domains of Power Integrity, Advanced Packaging and CAD Methodology as specified in the requirements.",
+    "reason": "The job is for a specific ASIC engineer role with no leadership aspects, which doesn't match Vineeth's background in Power Integrity and advanced packaging.",
     "id": "ea62c433",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer",
@@ -73003,13 +72994,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-engineer-at-cisco-4431661554",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The candidate's background is primarily focused on analog/mixed-signal design and validation, which does not match the job requirements in ASIC/Physical Design.",
+    "reason": "This is a software development role, not VLSI/EDA.",
     "id": "ca00a503",
     "source": "linkedin_india_asic_design",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Layout Engineer",
