@@ -13087,14 +13087,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-Campus-Recruitment-Intelligent-Manufacturing-Engineer-IMC-MFG%2F19040",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical manufacturing engineering role, which does not match our focus on semiconductor/EDA/VLSI technical roles.",
+    "matches_requirements": "maybe",
+    "reason": "Strong match for Vineeth's background, but needs more details on years of experience and specific technical domains.",
     "id": "1987165d",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "More details",
@@ -13103,13 +13102,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=558&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Human Resources position at TSMC, which does not fit our focus on engineering/technical roles in semiconductor/VLSI/EDA.",
+    "reason": "The role is for an admin position at TSMC, which does not match Vineeth's technical background in Power Integrity and VLSI.",
     "id": "278039af",
     "source": "tsmc_careers",
     "posted_date": "2026-04-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -13118,13 +13116,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F558",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role at a semiconductor company, which does not match the requirements of focusing on engineering/technical positions.",
+    "reason": "The role is a senior software engineer position, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "d8a8d4f8",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer - New College Grad 2026",
@@ -13133,13 +13130,12 @@
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-new-college-grad-2026-at-nvidia-ai-4419597836",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a new college graduate position, which does not match the candidate's background and experience level.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "385cb6e8",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -13148,13 +13144,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-design-engineer-at-emt-groupe-llc-4430406697",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Engineer with HTML/CSS skills, not related to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "28edba54",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Architect",
@@ -13163,13 +13158,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-design-architect-at-oho-group-4428480179",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is in San Jose, CA, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India, Asia or Remote worldwide.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "16e5c983",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. RTL Designer",
@@ -13178,13 +13172,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-rtl-designer-at-workgenius-group-4417532943",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires 5+ years of experience, which is less than the target 10-15 years for senior leadership positions.",
+    "reason": "The role is primarily software development (RTL design, SoC architecture) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "f80e1a23",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "design engineer jobs in Mansfield, MA",
@@ -13193,13 +13186,12 @@
     "url": "https://www.glassdoor.com/Job/mansfield-design-engineer-jobs-SRCH_IL.0,9_IC1154780_KO10,25.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed jobs are for Design Engineers, which is a different specialization than Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus that the candidate has experience in.",
+    "reason": "Role is non-technical HR position, not a semiconductor/EDA engineering role",
     "id": "c4b51b74",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mansfield, MA jobs",
@@ -13208,28 +13200,26 @@
     "url": "https://www.glassdoor.com/Job/mansfield-jobs-SRCH_IL.0,9_IC1154780.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general Mansfield, MA job search query on Glassdoor with no specific company, location, or technical requirements matching our target domains.",
+    "reason": "The job posting is for non-technical roles at a semiconductor company, which does not match Vineeth's engineering background.",
     "id": "5bb70f10",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hallam-ICS jobs in Mansfield, MA",
-    "company": "Extract from page",
+    "company": "Hallam-ICS",
     "location": "Extract from page",
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=Hallam-ICS&sc.locationSeoString=Mansfield&locId=1154780&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is for a Glassdoor search result page, not a specific job posting. It does not contain enough information to evaluate against the target criteria.",
+    "reason": "The job posting URL was blocked by Cloudflare security, preventing full review of the job details to determine a match.",
     "id": "50e5d9a8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Maintenance Engineer",
