@@ -36911,33 +36911,31 @@
   },
   {
     "title": "Newark, CA jobs",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Trader Joe's",
+    "location": "Fremont, CA, USA",
     "url": "https://www.glassdoor.com/Job/newark-jobs-SRCH_IL.0,6_IC1147377.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general Glassdoor search page for Newark jobs and does not contain an actual job posting with specific details to evaluate.",
+    "reason": "The job is a retail cashier position at Trader Joe's, which is outside Vineeth's technical domain of semiconductor/VLSI/EDA.",
     "id": "a8526f8f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Unigen (WA) jobs in Newark, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Unigen (WA)",
+    "location": "Newark, CA, USA",
     "url": "https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=Unigen+%28WA%29&sc.locationSeoString=Newark&locId=1147377&locT=C",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job description does not contain sufficient details to assess a match against the given requirements.",
+    "reason": "The job posting URL was blocked by Cloudflare, and could not be accessed for further evaluation.",
     "id": "355e3141",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer",
@@ -36946,28 +36944,26 @@
     "url": "https://www.glassdoor.com/job-listing/manufacturing-engineer-standard-nuclear-inc-JV_IC1144404_KO0,22_KE23,43.htm?jl=1010160489794",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Manufacturing Engineer, which does not match the technical domains required such as Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership.",
+    "reason": "The role is focused on manufacturing engineering for a nuclear power company, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "de0f75cc",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "manufacturing engineer jobs in Oak Ridge, TN",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Oak Ridge, TN, USA",
     "url": "https://www.glassdoor.com/Job/oak-ridge-manufacturing-engineer-jobs-SRCH_IL.0,9_IC1144404_KO10,32.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role, not related to semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a manufacturing engineer, which does not match Vineeth's background in power integrity, packaging, and EDA.",
     "id": "3855d887",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer-Customer Tools",
@@ -36975,14 +36971,13 @@
     "location": "Austin, Texas, USA",
     "url": "https://careers.amd.com/careers-home/jobs/87081?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior engineering position with specific technical expertise required, matching the target domain and level.",
+    "matches_requirements": "no",
+    "reason": "The role is a Senior Engineering position, which is outside Vineeth's domain of technical leadership in Power Integrity and Advanced Packaging.",
     "id": "4fc3241a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_senior_engineer_customer_tools_4fc3241a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EPC Project Executive",
@@ -36991,13 +36986,12 @@
     "url": "https://www.linkedin.com/jobs/view/epc-project-executive-at-saulsbury-4428295657",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Project Executive in construction, which does not match the semiconductor/VLSI/EDA domain and technical skills.",
+    "reason": "This is a non-technical business development role, not an engineering/technical position like Power Integrity, VLSI design roles Vineeth is specialized in.",
     "id": "d20c4492",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Layout Engineer",
@@ -37006,13 +37000,12 @@
     "url": "https://www.linkedin.com/jobs/view/layout-engineer-at-concrete-strategies-llc-4430032186",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a layout engineer position in the construction industry, not semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Layout Engineer at a construction firm, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "5aebb1eb",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Engineer, FPGA",
@@ -37021,13 +37014,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-engineer-fpga-at-niksun-4430030176",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA design engineer, which does not match the target domains of Power Integrity/SI, Advanced Packaging/Thermal, or CAD/VLSI/EDA.",
+    "reason": "The role is primarily software development (firmware engineer) and verification (testbench development), which are outside Vineeth's domain.",
     "id": "ca9ffd21",
     "source": "linkedin_fpga_ww",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MES Engineer",
@@ -37036,13 +37028,12 @@
     "url": "https://www.glassdoor.com/job-listing/mes-engineer-draper-JV_IC1154545_KO0,12_KE13,19.htm?jl=1010170531643",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is a non-technical role (Manufacturing Engineering) at a semiconductor company and does not fit our technical engineering positions criteria.",
+    "reason": "This is a manufacturing engineering role, not semiconductor/VLSI/EDA.",
     "id": "807de5a8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "applications engineer jobs in Cambridge, MA",
@@ -37050,14 +37041,13 @@
     "location": "Cambridge, UK",
     "url": "https://www.glassdoor.com/Job/cambridge-applications-engineer-jobs-SRCH_IL.0,9_IC1154545_KO10,31.htm",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for an Applications Engineer, but does not specifically mention VLSI/EDA. It could potentially be a match if the role involves EDA tool applications engineering.",
+    "matches_requirements": "no",
+    "reason": "The job is for an Applications Engineer, which falls under software development and is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "767b23a0",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cambridge, MA jobs",
