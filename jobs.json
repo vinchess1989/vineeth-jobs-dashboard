@@ -15034,13 +15034,12 @@
     "url": "https://www.linkedin.com/jobs/view/yield-and-integration-engineer-at-teledyne-technologies-incorporated-4411515287",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is non-technical, working with data mining and analysis rather than semiconductor VLSI EDA engineering.",
+    "reason": "This role is focused on semiconductor wafer processing, data mining and analysis, and failure analysis. It does not match Vineeth's technical areas of expertise in Power Integrity (PI), Advanced Packaging, CAD Methodology or SoC Physical Design.",
     "id": "05c82017",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer",
@@ -15049,13 +15048,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-atomica-4364628210",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Process Integration Engineer with semiconductor/MEMS fabrication experience, while the target roles should be in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology or Physical Design.",
+    "reason": "The role is for process integration rather than power integrity, signal integrity, CAD methodology, physical design, EDA tools, or VLSI/SoC design.",
     "id": "70c31bb7",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -15064,13 +15062,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-engineer-at-axiro-semiconductor-4423669531",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general product engineering position rather than specializing in Power Integrity, Advanced Packaging, or related technical domains for VLSI/EDA.",
+    "reason": "This role is focused on product management and NPI process, not power integrity or advanced packaging.",
     "id": "eb2caade",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer 3",
@@ -15079,13 +15076,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-engineer-3-at-lam-research-4424258595",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Fremont, CA, USA which does not match any of the preferred locations specified.",
+    "reason": "The role is primarily hardware engineering for semiconductor equipment, while Vineeth's background is software and electronics engineering for chip design and EDA tools.",
     "id": "0783920d",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MicroDisplay Failure Analysis and Return Material Authorization Engineer, Raxium",
@@ -15094,13 +15090,12 @@
     "url": "https://www.linkedin.com/jobs/view/microdisplay-failure-analysis-and-return-material-authorization-engineer-raxium-at-google-4430443018",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a specialized hardware engineering position at Google's Raxium display group, which does not fit our semiconductor/VLSI/EDA job search criteria.",
+    "reason": "The role is focused on manufacturing, reliability engineering of display products - outside Vineeth's domains of expertise in power integrity, EDA tools, CAD.",
     "id": "9e994330",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Development and Analytic Technical Lead",
@@ -15109,13 +15104,12 @@
     "url": "https://www.linkedin.com/jobs/view/product-development-and-analytic-technical-lead-at-amd-4393131824",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires direct experience with AMD's products which is a hard rejection based on the requirements.",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
     "id": "a368bd2d",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer",
@@ -15124,13 +15118,12 @@
     "url": "https://www.linkedin.com/jobs/view/manufacturing-engineer-at-asml-4430149943",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical manufacturing engineering position, while our expertise focuses on semiconductor/VLSI/EDA technical roles.",
+    "reason": "The role is primarily focused on manufacturing engineering, not semiconductor VLSI EDA.",
     "id": "17cda82b",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-14",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Engineer, DEG LayoutBengaluru, Karnataka, IndiaPosted a month ago",
@@ -15138,14 +15131,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://micron.eightfold.ai/careers/job/41282959",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a layout design role focused on DEG (Die-to-Die) layouts, which does not match the Power Integrity / Advanced Packaging / CAD Methodology focus of the target job criteria.",
+    "matches_requirements": "yes",
+    "reason": "The role is for a DEG Layout Engineer at Micron Technology, which fits Vineeth's CAD/Methodology and Physical Design domains. It also matches the India location criteria.",
     "id": "ea3062a6",
     "source": "micron_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology__i_engineer__deg_layoutbengaluru__ea3062a6.txt"
   },
   {
     "title": "IT Software Engineer",
@@ -15154,13 +15146,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=461&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an IT Software Engineer position at TSMC's headquarters in Taiwan, which doesn't match the target domains of Power Integrity/SI/Advanced Packaging/CAD/VLSI/SoC Design/EDA Tools/VLSI/SoC Design/Engineering Leadership.",
+    "reason": "The role is software development focused on cloud infrastructure, not semiconductor/VLSI/EDA technical domains.",
     "id": "6a3616d3",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -15169,13 +15160,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Software-Engineer%2F461",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an intern position which does not meet the senior leadership experience requirement.",
+    "reason": "The role is software engineering, which falls outside Vineeth's domain.",
     "id": "f5fe91b9",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Yield Enhancement FA Shift Lead Engineer",
