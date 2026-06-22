@@ -12121,14 +12121,13 @@
     "location": "Boston, MA",
     "url": "https://www.linkedin.com/jobs/view/staff-physical-design-engineer-at-lightmatter-4427309524",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Physical Design Engineer role, 8+ years exp, Lightmatter is a semiconductor startup in Boston",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Physical Design Engineer, which is a technical role but outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "e20ff43e",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-01-03",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/lightmatter_staff_physical_design_engineer_e20ff43e.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Graduate - Analog Engineer",
@@ -12137,13 +12136,12 @@
     "url": "https://www.linkedin.com/jobs/view/graduate-analog-engineer-at-infineon-technologies-4426830450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an analog engineer position, which does not match the target technical domains of Power Integrity/SI, Advanced Packaging/Thermal, CAD Methodology, Physical Design or EDA Tools roles.",
+    "reason": "This is an entry-level graduate role focused on analog design at a semiconductor company, which does not match Vineeth's experience level in power integrity and advanced packaging.",
     "id": "4d232c1e",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Substation Designer",
@@ -12152,13 +12150,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-substation-designer-at-progressive-4429533230",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a substation designer, which falls under electrical engineering and utilities domain, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a physical drafting position for electrical substations, unrelated to semiconductor/VLSI/EDA.",
     "id": "f275dde5",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-05-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Assistant Graphic Designer, Product Development",
@@ -12167,13 +12164,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-assistant-graphic-designer-product-development-at-spencer-s-4395866884",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a graphic designer position at a retail company, not relevant to semiconductor/VLSI/EDA.",
+    "reason": "The role is a creative/graphic design position at a retail company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "228861ab",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Engineer",
@@ -12182,13 +12178,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-engineer-at-apera-4426837639",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical CAD Engineer focusing on electric aircraft, not VLSI/EDA/Semiconductor roles.",
+    "reason": "The role is a CAD Engineer for eVTOL aircraft structures, outside Vineeth's power integrity and advanced packaging domain.",
     "id": "670b9a18",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer - New College Grad 2026",
@@ -12197,13 +12192,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-new-college-grad-2026-at-nvidia-ai-4412446271",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level position for a new college grad, far below the experience level of the candidate Vineeth Prathapachandra Kaimal. The job also does not match any of the specified technical domains.",
+    "reason": "The role is for an entry-level ASIC Design Engineer, which does not match Vineeth's experience level and domain expertise.",
     "id": "d46acc1b",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -12212,13 +12206,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-cerebras-4427026768",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position requires US residency or relocation, which does not match our criteria for work model.",
+    "reason": "The role is primarily ASIC/SoC physical design which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
     "id": "8d776d6a",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Head of Wealth Management Compliance",
@@ -12227,13 +12220,12 @@
     "url": "https://www.linkedin.com/jobs/view/global-head-of-wealth-management-compliance-at-acca-careers-4429508171",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a compliance position for wealth management, which does not match the VLSI/EDA/semiconductor technical domains.",
+    "reason": "The role is a senior compliance leadership position focused on wealth management regulation, which does not match Vineeth's technical background in power integrity, advanced packaging, and EDA tools.",
     "id": "e3a7fce4",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer - New College Grad 2026",
@@ -12242,13 +12234,12 @@
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-new-college-grad-2026-at-nvidia-4418539107",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level college graduate position, but the candidate profile specifies 15 years of experience in power integrity and advanced packaging.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
     "id": "91073321",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "Hardware Design Engineer (Remote)",
@@ -12256,14 +12247,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/hardware-design-engineer-remote-at-fortifyiq-4405645690",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role matches several key domains like ASIC/FPGA design and scripting but lacks explicit mention of power integrity, thermal analysis or specific EDA tool expertise. The 'Seniority level' tag suggests a senior role.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on hardware design, but there's no specific mention of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, thermal analysis, CAD methodology which are key to Vineeth's background.",
     "id": "44c42df7",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
