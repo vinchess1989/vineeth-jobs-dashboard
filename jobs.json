@@ -33220,28 +33220,26 @@
     "url": "https://www.glassdoor.com/job-listing/graduate-validation-engineer-infineon-technologies-JV_KO0,28_KE29,50.htm?jl=1010157855468",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a graduate and does not match the technical leadership experience of the candidate.",
+    "reason": "The role is focused on validation engineering, which falls under verification and is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "c0333b96",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "validation engineer jobs in California",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Amazon Web Services",
+    "location": "Cupertino, CA, USA",
     "url": "https://www.glassdoor.com/Job/california-validation-engineer-jobs-SRCH_IL.0,10_IS2280_KO11,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical validation engineer role, not related to semiconductor/VLSI/EDA.",
+    "reason": "This validation engineer role at Amazon Web Services is focused on networking hardware and does not match Vineeth's background in power integrity, advanced packaging, and EDA tools.",
     "id": "2757ca11",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer Engineer (eInfochips)",
@@ -33250,13 +33248,12 @@
     "url": "https://www.glassdoor.com/job-listing/fpga-engineer-engineer-einfochips-arrow-electronics-JV_IC1147436_KO0,33_KE34,51.htm?jl=1010166015965",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role does not match the Power Integrity, Advanced Packaging, or CAD/Methodology domains required for VLSI and EDA expertise.",
+    "reason": "The job is for an FPGA Engineer, which is more focused on hardware and software development for Field Programmable Gate Arrays. This does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or CAD Methodology.",
     "id": "6ee5cb0c",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2023-08-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Arrow Electronics jobs in San Jose, CA",
@@ -33265,13 +33262,12 @@
     "url": "https://www.glassdoor.com/Job/san-jose-arrow-electronics-jobs-SRCH_IL.0,8_IC1147436_KO9,26.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role at an electronics distributor, not a semiconductor/EDA company.",
+    "reason": "Non-technical Arrow Electronics retail sales/support role, not an engineering/technical position at a semiconductor company.",
     "id": "2193091f",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASM jobs in Phoenix, AZ",
@@ -33280,13 +33276,12 @@
     "url": "https://www.glassdoor.com/Job/phoenix-asm-jobs-SRCH_IL.0,7_IC1133904_KO8,11.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an ASM role which does not match the target domains of Power Integrity, Advanced Packaging, CAD/Methodology, etc. specified in the requirements.",
+    "reason": "The job posting is for an ASM (assembly) role at a manufacturing facility, which does not fit the semiconductor/VLSI/EDA technical position requirements.",
     "id": "fea9aff1",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Sys/Test Validation Engineer",
@@ -33295,13 +33290,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87143?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on manufacturing test solutions and automation, which doesn't directly match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is focused on manufacturing test solutions and automation for AI/ML/HPC GPU hardware, which is outside Vineeth's core Power Integrity and Advanced Packaging domains.",
     "id": "84515f9c",
     "source": "amd_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-12",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager Sys/Test Validation Engineer",
@@ -33310,13 +33304,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87142?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Sys/Test Validation Engineer, which doesn't directly match our key target domains of Power Integrity (PI), Advanced Packaging/Thermal, CAD/Methodology, Physical Design, EDA Tools, VLSI/SoC Design or Engineering Leadership.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "caf24745",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Customer Engineering Customer Co\u2011Validation Lead",
@@ -33324,14 +33317,13 @@
     "location": "Penang, Malaysia",
     "url": "https://careers.amd.com/careers-home/jobs/87116?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Candidate has background in Power Integrity and Advanced Packaging, which partially matches the target domains. Role is located in Penang, Malaysia, which does not directly match but is in Asia.",
+    "matches_requirements": "no",
+    "reason": "The role is customer-facing engagement with a focus on AI and GPU validation strategy, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "2332c56c",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Product Manager (Engineer Role)",
@@ -33340,28 +33332,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=4981&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical product management position, which does not match our semiconductor/VLSI/EDA engineering focus.",
+    "reason": "The role is for an IT Product Manager, which falls under a non-technical position. Vineeth's background and skills are in Power Integrity, Advanced Packaging, CAD Methodology etc., making him unsuitable for this job.",
     "id": "de781210",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-06-30",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Taiwan",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FIT-Product-Manager-Engineer-Role%2F4981",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL is broken and leads to a LinkedIn error page, so I can't extract necessary details like location, company name, or application deadline.",
+    "reason": "The job is at a semiconductor manufacturing company, which we do not have experience with.",
     "id": "0c6695f5",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Manager, Mask Process",
