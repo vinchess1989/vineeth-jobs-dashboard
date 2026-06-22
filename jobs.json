@@ -24022,13 +24022,12 @@
     "url": "https://de.linkedin.com/jobs/view/r-d-engineer-test-engineering-wafer-test-final-module-test-characterization-at-broadcom-4405967897",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Development Engineer for test hardware/software, which does not directly match the VLSI/EDA domains.",
+    "reason": "The role is primarily focused on device testing across various levels, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "13daeed1",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Process Engineer 3",
@@ -24037,13 +24036,12 @@
     "url": "https://nl.linkedin.com/jobs/view/process-engineer-3-at-lam-research-4422050713",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is clearly non-technical (Customer Support Business Group) and does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The role is for a non-technical Process Engineer position at a semiconductor equipment company, which does not match Vineeth's domain.",
     "id": "0769fd2b",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Engineer Transfer/New Products (m/w/d)",
@@ -24051,14 +24049,13 @@
     "location": "Itzehoe, Schleswig-Holstein, Germany",
     "url": "https://de.linkedin.com/jobs/view/engineer-transfer-new-products-m-w-d-at-vishay-siliconix-itzehoe-gmbh-4427022297",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an engineering position at a semiconductor company, but it does not fit the exact technical domains required.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: Expecting property name enclosed in double quotes: line 8 column 1 (char 485)",
     "id": "7a6affcb",
     "source": "linkedin_semi_eu",
-    "posted_date": "2023-06-08",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Process Integration Engineer",
@@ -24066,14 +24063,13 @@
     "location": "Stockholm, Stockholm County, Sweden",
     "url": "https://se.linkedin.com/jobs/view/process-integration-engineer-at-coherent-corp-4403773773",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a technical engineering position at Coherent Corp., fitting our semiconductor/VLSI/EDA focus.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on wafer process ownership and integration rather than power integrity, packaging, or EDA tools.",
     "id": "5464f3fd",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/coherent_corp__process_integration_engineer_5464f3fd.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Process Engineer - Stepper-based Lithography (all genders)",
@@ -24082,13 +24078,12 @@
     "url": "https://at.linkedin.com/jobs/view/r-d-process-engineer-stepper-based-lithography-all-genders-at-silicon-austria-labs-sal-4416503150",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a stepper-based lithography process engineer, which does not match the semiconductor/VLSI/EDA technical domains required.",
+    "reason": "The role is focused on lithography equipment and process engineering, which does not directly match Vineeth's background in Power Integrity (PI) / Advanced Packaging. Although it touches on some VLSI/EDA aspects like tool maintenance and compatibility, it is not a strong enough technical overlap to consider this a good job fit.",
     "id": "4938fefc",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-06",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Process Engineer Lithography",
@@ -24097,13 +24092,12 @@
     "url": "https://nl.linkedin.com/jobs/view/senior-process-engineer-lithography-at-nxp-semiconductors-4421841542",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical manufacturing engineering role, not a fit for our semiconductor/VLSI/EDA technical focus.",
+    "reason": "The role is a Senior Process Engineer focusing on lithography rather than semiconductor power integrity and packaging which is Vineeth's domain.",
     "id": "2b3af3d5",
     "source": "linkedin_semi_eu",
     "posted_date": "2026-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Test Engineer (all genders)",
@@ -24112,13 +24106,12 @@
     "url": "https://at.linkedin.com/jobs/view/test-engineer-all-genders-at-lam-research-4419148898",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a test engineering position focused on electrical/mechanical aspects, not semiconductor/VLSI/EDA.",
+    "reason": "The job is for a non-technical HR role at a semiconductor company, which is outside Vineeth's domain.",
     "id": "6e08e98b",
     "source": "linkedin_semi_eu",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Section Manager",
@@ -24127,13 +24120,12 @@
     "url": "https://uk.linkedin.com/jobs/view/section-manager-at-zara-4425751120",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for retail management, not technical semiconductor/VLSI/EDA work.",
+    "reason": "This is a retail management position for ZARA clothing stores, which does not match Vineeth's semiconductor/VLSI/EDA technical background and expertise.",
     "id": "2627838c",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Optics Manager",
@@ -24142,13 +24134,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-optics-manager-at-infinitesima-4406614172",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Optics Manager, which does not match the semiconductor/VLSI/EDA domain required for this job search.",
+    "reason": "The role is for a Senior Optics Manager, which does not directly match Vineeth's domains of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "05855f10",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Research Engineer",
@@ -24157,13 +24148,12 @@
     "url": "https://uk.linkedin.com/jobs/view/research-engineer-at-mediatek-4405136863",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Research Engineer position applying AI to design and optimize semiconductors, which does not match the target semiconductor/VLSI/EDA domains.",
+    "reason": "This role is for AI research on machine learning systems and optimization, not semiconductor power integrity or advanced packaging.",
     "id": "fa1ecbd0",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
     "deadline": "2026-07-06",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Strategic Partnerships & Business Development Lead, UK",
