@@ -64608,13 +64608,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-ams-design-verification-engineer-at-apple-4414154721",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Design Verification of mixed-signal systems, which does not match the key domains (Power Integrity, CAD/Methodology, Physical Design) we are targeting.",
+    "reason": "This role is focused on AMS Design Verification, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "19da124f",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Formal Verification Engineer",
@@ -64622,14 +64621,13 @@
     "location": "St Albans, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/formal-verification-engineer-at-apple-4414156795",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior formal verification engineer position with experience in SoC design and Apple Silicon, fitting the target job criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "404ea11d",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/apple_formal_verification_engineer_404ea11d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCB Layout Engineer",
@@ -64638,13 +64636,12 @@
     "url": "https://uk.linkedin.com/jobs/view/pcb-layout-engineer-at-ic-resources-4427426237",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a PCB Layout Engineer, which does not match the target VLSI/EDA domains of Power Integrity, Advanced Packaging, CAD, Physical Design, or EDA Tools.",
+    "reason": "The role is for a PCB Layout Engineer focusing on electronic system design, which falls outside Vineeth's primary domains of Power Integrity/Advanced Packaging/CAD/VLSI.",
     "id": "3404be64",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Tools Optimisation Engineer (Design Verification)",
@@ -64653,13 +64650,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cad-tools-optimisation-engineer-design-verification-at-apple-4414165436",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Design Verification, which doesn't match the target domains of Power Integrity (PI) / Advanced Packaging / CAD Methodology that the candidate Vineeth specializes in.",
+    "reason": "The role is primarily focused on simulation tools and RTL, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "81d8beae",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Verification \u2013 Application Engineer",
@@ -64667,14 +64663,13 @@
     "location": "Reading, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/digital-design-verification-%E2%80%93-application-engineer-at-synopsys-inc-4369778158",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for the target domains of Digital Design Verification and EDA Tools, at Synopsys - a key player in this field.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM testbench development) which is outside Vineeth's domain.",
     "id": "33d08085",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_digital_design_verification____33d08085.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Top Level Physical Design Engineer",
@@ -64682,14 +64677,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/gpu-top-level-physical-design-engineer-at-apple-4414172042",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior physical design role at Apple in London matches the key skills and experience level required for our search.",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on GPU physical design, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "2ef77092",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-05-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/apple_gpu_top_level_physical_design__2ef77092.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Design Verification Engineer (Senior level) - Cambridge, UK",
@@ -64697,14 +64691,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/cpu-design-verification-engineer-senior-level-cambridge-uk-at-qualcomm-4325645242",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior-level CPU Design Verification Engineer position at Qualcomm's Cambridge office.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain of strength.",
     "id": "4ddd3768",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_cpu_design_verification_engine_4ddd3768.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -64712,14 +64705,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-ic-resources-4429663456",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Design Verification Engineer role with semiconductor experience, based in Edinburgh.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
     "id": "eb310445",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ic_resources_design_verification_engineer_eb310445.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Automation Design Engineer",
@@ -64728,13 +64720,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-automation-design-engineer-at-ceto-talent-4429642765",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an automation engineer, not a semiconductor/VLSI/EDA technical specialist.",
+    "reason": "The role is a Senior Automation Design Engineer, focusing on robotics and machinery automation design, not semiconductor VLSI/EDA.",
     "id": "1c79d3ce",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-06-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer - CPU / SoC",
@@ -64742,14 +64733,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-design-verification-engineer-cpu-soc-at-european-tech-recruit-4431601631",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches Domain & Technical Area of Power Integrity, Signal Integrity, and CAD/Methodology with 15+ years experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "bbbf4cdf",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-06-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/european_tech_recrui_senior_design_verification_eng_bbbf4cdf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Designer",
