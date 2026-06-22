@@ -24162,13 +24162,12 @@
     "url": "https://uk.linkedin.com/jobs/view/strategic-partnerships-business-development-lead-uk-at-mesa-quantum-4425977098",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on business development and partnerships for a quantum sensing company, which does not match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "This role is a business development position focusing on partnerships and not a technical engineering role focused on power integrity, advanced packaging, or VLSI/EDA.",
     "id": "37b22dbd",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Institutional Sales",
@@ -24177,13 +24176,12 @@
     "url": "https://uk.linkedin.com/jobs/view/institutional-sales-at-funda-4426772041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Institutional Sales rather than semiconductor/VLSI/EDA technical positions.",
+    "reason": "This is a sales role focused on AI-driven investment research, which does not match Vineeth's semiconductor/VLSI/EDA technical background in Power Integrity and Advanced Packaging.",
     "id": "681da145",
     "source": "linkedin_semi_uk",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Manager",
@@ -24192,13 +24190,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electronics-manager-at-infinitesima-4414583292",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Electronics Manager role, not an engineering/technical position as required.",
+    "reason": "The role is primarily a technical leadership position for an electronics team rather than focusing on semiconductor, VLSI, EDA, or power integrity.",
     "id": "50d19949",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer",
@@ -24206,14 +24203,13 @@
     "location": "Sedgefield, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/process-engineer-at-filtronic-4377820958",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a semiconductor manufacturing process engineering role focused on die attach and bonding processes, fitting our VLSI/EDA candidate profile.",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical role, not related to semiconductor/VLSI/EDA.",
     "id": "1bb497a2",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-03-03",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/filtronic_process_engineer_1bb497a2.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Research Associate",
@@ -24222,13 +24218,12 @@
     "url": "https://uk.linkedin.com/jobs/view/research-associate-at-trine-energy-4417701379",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a research role focused on modeling and simulations, which does not match the key requirements in Power Integrity, Signal Integrity, CAD/Methodology, etc.",
+    "reason": "The role is for a Research Associate focusing on power over fiber technology, which does not match Vineeth's VLSI/EDA background and key skills in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off.",
     "id": "be4546bf",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-04-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Manufacturing Technician",
@@ -24237,13 +24232,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-technician-at-lex-diagnostics-4412106324",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing technician position, which does not match the semiconductor/VLSI/EDA technical domains targeted.",
+    "reason": "The role is for a manufacturing technician, not technical leadership in semiconductor/VLSI/EDA domains.",
     "id": "80f715ec",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Technician",
@@ -24252,13 +24246,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-technician-at-infinitesima-4420941153",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing technician role at Infinitesima, focusing on building and testing complex sub-assemblies rather than semiconductor-related technical domains like Power Integrity, Advanced Packaging, CAD/Methodology, etc. specified in the target job criteria.",
+    "reason": "The role is a manufacturing technician position which involves building and testing complex high technology products, wiring/soldering to IPC standards, etc. This is outside Vineeth's domain of expertise in semiconductor design, VLSI, EDA tools, and leadership roles.",
     "id": "ef2d56ef",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MEMS Process Engineer",
@@ -24267,28 +24260,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mems-process-engineer-at-spt-labtech-4420966639",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a MEMS process engineer working on Cryo-EM consumables, which does not match the semiconductor/VLSI/EDA domains required.",
+    "reason": "The role is focused on MEMS process engineering for scientific labtech products, which does not match Vineeth's VLSI/EDA/semiconductor background in power integrity, advanced packaging, and SoC design.",
     "id": "a19ef38d",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Research Engineer",
-    "company": "MediaTek",
-    "location": "Cambourne, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/research-engineer-at-mediatek-4405128950",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for an AI research engineer focused on machine learning and AI systems, not semiconductor/VLSI/EDA.",
-    "id": "dc5d97ce",
-    "source": "linkedin_semi_uk",
-    "posted_date": "2023-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New Product Introduction Project Manager",
@@ -24297,13 +24274,12 @@
     "url": "https://uk.linkedin.com/jobs/view/new-product-introduction-project-manager-at-cbsbutler-4418143967",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product management position focused on new product introduction, not an engineering/technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is a non-technical product management position, not engineering or technical leadership.",
     "id": "ee068688",
     "source": "linkedin_semi_uk",
     "posted_date": "2023-05-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanics Manager",
