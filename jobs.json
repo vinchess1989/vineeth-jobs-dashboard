@@ -71370,28 +71370,26 @@
     "url": "https://www.infineon.com/careers/job/563808970665034",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job URL provided leads to a 404 error page, indicating the job posting is likely invalid or no longer available.",
+    "reason": "The job posting URL is missing, making it impossible to determine if this position matches Vineeth's background and experience.",
     "id": "816617cf",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technician Test Technology & Innovation (Contract)Melaka (Malaysia)130411",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Melaka (Malaysia)",
     "url": "https://www.infineon.com/careers/job/563808970665833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The provided job link does not lead to a valid job posting, but instead returns an error message indicating the page cannot be found. Cannot evaluate based on this.",
+    "reason": "The job title specifically mentions 'Contract' which is a hard rejection based on the criteria.",
     "id": "6aaf5d0e",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Investment Analyst, Equities",
@@ -71400,13 +71398,12 @@
     "url": "https://www.linkedin.com/jobs/view/associate-investment-analyst-equities-at-fm-4429920247",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an investment analyst role in finance, which does not match the semiconductor/VLSI/EDA technical engineering roles we are targeting.",
+    "reason": "This is a non-technical finance role at a mutual insurance company, outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "7c58b587",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-06-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer - Freelance AI Trainer",
@@ -71415,13 +71412,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-freelance-ai-trainer-at-mindrift-4426766157",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a freelance AI trainer role at a tech company focused on connecting specialists with project-based AI opportunities. It does not match the VLSI/EDA industry focus.",
+    "reason": "The job is for a part-time freelance role, not a full-time position.",
     "id": "d587bf62",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Support Specialist  (Control Systems)",
@@ -71430,13 +71426,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-support-specialist-control-systems-at-infinitesima-4416244081",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Technical Support Specialist role is non-technical, focused on customer support rather than semiconductor/VLSI/EDA engineering. It does not require a technical background.",
+    "reason": "The role is primarily technical support for control systems in microscopy instrumentation, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "eb840290",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer with Python - Freelance AI Trainer",
@@ -71445,13 +71440,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-with-python-freelance-ai-trainer-at-mindrift-4426334946",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Optical Engineer with Python AI Trainer, unrelated to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is for an optical engineer with Python AI training, which is unrelated to Vineeth's semiconductor/VLSI/EDA background.",
     "id": "1dd586da",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Manager - Digital Imaging",
@@ -71460,13 +71454,12 @@
     "url": "https://uk.linkedin.com/jobs/view/product-manager-digital-imaging-at-sony-4427393026",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a product management position for Sony's digital imaging products, which does not match the semiconductor/VLSI/EDA domain technical requirements.",
+    "reason": "The role is focused on digital imaging product management for Sony, which falls outside Vineeth's technical domains of Power Integrity (PI), Advanced Packaging, and EDA.",
     "id": "cd334768",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2023-04-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -71475,13 +71468,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-hcltech-4427339035",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level Design Verification Engineer position with 5-10 years of experience, not matching the senior technical leadership level we are targeting.",
+    "reason": "This role is primarily focused on design verification for ASICs and SoCs, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "ce9465cb",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-06-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Analog and RF Layout Engineer",
@@ -71490,13 +71482,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-and-rf-layout-engineer-at-capgemini-engineering-4431642538",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is located in San Francisco, CA which does not match the high priority regions of Finland, Europe (outside Finland), UK (England, Scotland, Ireland), India, Asia (e.g. Taiwan, South Korea, Singapore) or Fully Remote with worldwide eligibility.",
+    "reason": "The role is primarily analog/RF design, which falls outside Vineeth's expertise in Power Integrity and Packaging.",
     "id": "0db196e2",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Systems Engineer - Security / Cryptography",
@@ -71505,13 +71496,12 @@
     "url": "https://uk.linkedin.com/jobs/view/embedded-systems-engineer-security-cryptography-at-european-tech-recruit-4431386865",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Embedded Systems Security Engineer, which does not match the required domains of Power Integrity, Advanced Packaging, and VLSI/EDA.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "c7539072",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2023-11-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer EDA",
