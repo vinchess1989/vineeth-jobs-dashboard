@@ -59358,13 +59358,12 @@
     "url": "https://in.linkedin.com/jobs/view/executive-record-to-report-latam-at-godrej-industries-group-4402998872",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for finance and accounting, not technical roles in VLSI/EDA/semiconductor.",
+    "reason": "The role is finance/accounting focused, not technical semiconductor/VLSI/EDA.",
     "id": "d27c3dc2",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-05-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PE Design Engineer-Power Converter",
@@ -59373,28 +59372,12 @@
     "url": "https://in.linkedin.com/jobs/view/pe-design-engineer-power-converter-at-larsen-toubro-4419599978",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Power Electronics Design Engineer, which does not match the target domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, or CAD/VLSI/EDA.",
+    "reason": "This is a power electronics design role with no direct overlap with Vineeth's PI/Advanced Packaging/CAD specialties. Also, it is located in Bengaluru, India.",
     "id": "047d3fda",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-05-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Assistant Manager -Projects-Chemistry Commissioning Support",
-    "company": "Adani Power",
-    "location": "Singrauli, Madhya Pradesh, India",
-    "url": "https://in.linkedin.com/jobs/view/assistant-manager-projects-chemistry-commissioning-support-at-adani-power-4419473838",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for non-technical project management in power plant chemistry commissioning, not an engineering/technical position in semiconductor/VLSI/EDA.",
-    "id": "45cab894",
-    "source": "linkedin_india_power_integrity_p2",
-    "posted_date": "2023-05-04",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager -Projects-Chemistry Commissioning Support",
@@ -59403,13 +59386,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-projects-chemistry-commissioning-support-at-adani-power-4419481531",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Chemistry Commissioning Support, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "This chemistry commissioning role is not related to semiconductor, VLSI, EDA domains that Vineeth works in.",
     "id": "abfbd194",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager Finance & Accounts",
@@ -59418,13 +59400,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-finance-accounts-at-tata-steel-foundation-4426802502",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Finance & Accounts Manager at Tata Steel Foundation, which does not match the semiconductor/VLSI/EDA industry requirements.",
+    "reason": "The role is focused on finance and accounting for a social impact organization, which is outside Vineeth's technical domains in semiconductor/VLSI/EDA.",
     "id": "363b7340",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-06-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\ud83d\ude80 HCL Technologies | Walk-In Hiring | MIS",
@@ -59433,13 +59414,12 @@
     "url": "https://in.linkedin.com/jobs/view/%F0%9F%9A%80-hcl-technologies-walk-in-hiring-mis-at-hcltech-4427177435",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a junior MIS position focused on Power BI and Excel, with no relevant VLSI/EDA/semiconductor experience.",
+    "reason": "The job is for an MIS role at a technology company, which does not match the semiconductor/VLSI/EDA technical background required.",
     "id": "d1f5b34b",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager -Projects-Chemistry Commissioning Support",
@@ -59448,13 +59428,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-projects-chemistry-commissioning-support-at-adani-power-4419480755",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for Chemistry Commissioning Support in the power industry, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical, focusing on chemical commissioning and management for a power plant, which is outside Vineeth's domain of semiconductor, VLSI, EDA.",
     "id": "9824c837",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Applications Engineer, EDA",
@@ -59462,14 +59441,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/field-applications-engineer-eda-at-renesas-electronics-4401579845",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on technical content creation, demonstrations, and presentations rather than power integrity, advanced packaging, or EDA tool integration.",
     "id": "f267e51e",
     "source": "linkedin_india_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-04-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive - Record to Report (LATAM)",
@@ -59477,14 +59455,13 @@
     "location": "Mumbai, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/executive-record-to-report-latam-at-godrej-industries-group-4403104644",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical finance/accounting role at a consumer products conglomerate, well outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "3dc1c875",
     "source": "linkedin_india_power_integrity_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive - Record to Report",
@@ -59492,14 +59469,13 @@
     "location": "Mumbai, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/executive-record-to-report-at-godrej-industries-group-4412776114",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a non-technical Record to Report Finance Executive position, outside Vineeth's semiconductor/VLSI/EDA technical domain.",
     "id": "349b168c",
     "source": "linkedin_india_power_integrity_p3",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior HW Validation Engineer",
