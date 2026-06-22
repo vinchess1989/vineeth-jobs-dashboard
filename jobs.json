@@ -20157,14 +20157,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5436&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is located in Taiwan, which does not match the priority regions of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
+    "matches_requirements": "yes",
+    "reason": "Matches key skills in Power Integrity, Signal Integrity and specific EDA tools like RedHawk/Voltus. Good leadership role for someone with 15+ years experience.",
     "id": "136a9e47",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/taiwan_semiconductor_process_integration_engineer___136a9e47.txt"
   },
   {
     "title": "Circuit Design Engineer",
@@ -20173,13 +20172,12 @@
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-at-lancesoft-inc-4426975932",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a contract position with only 12 months duration, and requires relocation to Austin, TX, which does not match the target domains.",
+    "reason": "The role is primarily focused on GPIO integration and electrical analysis, which is outside Vineeth's power integrity and advanced packaging domain.",
     "id": "5b3361dd",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer - New College Grad 2026",
@@ -20188,13 +20186,12 @@
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-new-college-grad-2026-at-nvidia-4418521923",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This entry level position at NVIDIA does not match the experienced technical leader profile sought.",
+    "reason": "Not a match for Vineeth's background, looks like an entry-level circuit design role at NVIDIA rather than leadership in semiconductor EDA/VLSI.",
     "id": "e05e4ccf",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Financial Specialist, Financial Planning Department",
@@ -20203,13 +20200,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=319&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a financial specialist position, which does not fit the semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is primarily finance/accounting, not semiconductor/VLSI/EDA technical roles Vineeth has expertise in.",
     "id": "3aa3bbf8",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -20218,13 +20214,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FFinancial-Specialist-Financial-Planning-Department%2F319",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (Financial Specialist) at a semiconductor company, which does not meet our engineering/technical requirements.",
+    "reason": "The role is for a Financial Planning Specialist, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
     "id": "be0ad3a7",
     "source": "tsmc_careers",
     "posted_date": "2023-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Non-Volatile Memory IP Platform Lead",
@@ -20232,14 +20227,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/non-volatile-memory-ip-platform-lead-at-nxp-semiconductors-4371729571",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for an NVM IP Platform Lead which does not directly match the target technical domains of Power Integrity, Advanced Packaging, or EDA/CAD Methodology.",
+    "matches_requirements": "yes",
+    "reason": "Matches the candidate's technical background in Power Integrity, Advanced Packaging, and SoC PDN sign-off. Located in Bangalore which matches the job location.",
     "id": "e3bfb9ff",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/nxp_semiconductors_non_volatile_memory_ip_platfor_e3bfb9ff.txt"
   },
   {
     "title": "NPU AI/Processor Synthesis - Sr Lead",
@@ -20248,13 +20242,12 @@
     "url": "https://in.linkedin.com/jobs/view/npu-ai-processor-synthesis-sr-lead-at-qualcomm-4425271001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a hardware engineering role at Qualcomm, which does not match the semiconductor/VLSI/EDA domain focus.",
+    "reason": "The role is primarily software development (ML Modeling Engineer) which is outside Vineeth's domain.",
     "id": "92b4186f",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Emulation Engineer",
@@ -20262,14 +20255,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/emulation-engineer-at-intel-4402395792",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the candidate's technical expertise in emulation, FPGA models, and pre-silicon validation.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (developing scripts and flows to enhance emulation utilization and productivity) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging.",
     "id": "96d0606f",
     "source": "linkedin_semi_india",
     "posted_date": "2023-03-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_emulation_engineer_96d0606f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Reliability Engineering",
@@ -20278,13 +20270,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-reliability-engineering-at-sandisk-4385386386",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a reliability engineering role at Sandisk, which doesn't directly match the semiconductor/VLSI/EDA technical domains we're filtering for.",
+    "reason": "The role is focused on product reliability rather than power integrity, packaging, SoC design or EDA tools",
     "id": "27c09f02",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager \u2013 Manufacturing Test Operations",
@@ -20292,14 +20283,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-manager-%E2%80%93-manufacturing-test-operations-at-arm-4417132987",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Strong match for experienced semiconductor test engineering with relevant tools and domain experience",
+    "matches_requirements": "no",
+    "reason": "The role is focused on semiconductor manufacturing test operations, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "7a596d43",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_senior_manager___manufacturing_7a596d43.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer- IC Design",
