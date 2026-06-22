@@ -67365,14 +67365,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cpu-physical-design-cad-engineer-staff-sr-staff-at-qualcomm-4398123941",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of CPU Physical Design CAD Engineer with 10+ years experience at a semiconductor company in Bengaluru, India.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "a2b9e4b4",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_cpu_physical_design_cad_engine_a2b9e4b4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Architect, SoC Modelling",
@@ -67380,14 +67379,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-architect-soc-modelling-at-nvidia-4395471695",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior Architect role with SoC Modelling focus aligns well with key skill areas of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which falls outside Vineeth's domain.",
     "id": "524df7be",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-05-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/nvidia_senior_architect__soc_modellin_524df7be.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Architect",
@@ -67396,13 +67394,12 @@
     "url": "https://in.linkedin.com/jobs/view/gpu-architect-at-nvidia-4416329940",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This GPU Architect role does not directly match Vineeth's specific Power Integrity & Advanced Packaging expertise.",
+    "reason": "This GPU Architect role at NVIDIA is focused on GPU SM architecture, compilers and testing infrastructure for AI and graphics - it's primarily software development which is outside Vineeth's domain in Power Integrity & Packaging.",
     "id": "79c6030c",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CPU Performance Modelling - Cores",
@@ -67410,14 +67407,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cpu-performance-modelling-cores-at-amd-4345030454",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a match for our target domain of Power Integrity / Signal Integrity and the candidate's location (Bengaluru, India) aligns with our key locations.",
+    "matches_requirements": "no",
+    "reason": "The role is a CPU Microarchitecture and Performance Modeling Engineer, which does not directly match Vineeth's key focus areas of Power Integrity (PI) and Advanced Packaging. While it involves SoC design and engineering leadership, the PI/Advanced Packaging areas are higher priority for matching.",
     "id": "ce943f51",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-06-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/amd_cpu_performance_modelling___co_ce943f51.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Static Timing Methodology Development for Gate Level Timing Sign off",
@@ -67426,13 +67422,12 @@
     "url": "https://in.linkedin.com/jobs/view/static-timing-methodology-development-for-gate-level-timing-sign-off-at-ibm-4421938220",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is for a Senior Engineer position with 8+ years experience in VLSI/EDA, fitting our target domains and seniority level.",
+    "reason": "The role involves gate-level timing sign-off, which aligns with Vineeth's domain of Power Integrity and CAD Methodology.",
     "id": "c0565e93",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ibm_static_timing_methodology_deve_c0565e93.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/ibm_static_timing_methodology_deve_c0565e93.txt"
   },
   {
     "title": "SoC Physical Design Engineer",
@@ -67441,13 +67436,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-physical-design-engineer-at-intel-4385915707",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches senior role with 10+ years of physical design experience in target domains.",
+    "reason": "This SoC Physical Design Engineer role at Intel aligns closely with Vineeth's key skills in Power Integrity and Advanced Packaging, working on next-gen Client SoCs. It matches the Semiconductor / VLSI / EDA job search criteria.",
     "id": "a3363ddb",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_soc_physical_design_engineer_a3363ddb.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/intel_soc_physical_design_engineer_a3363ddb.txt"
   },
   {
     "title": "Senior ASIC Verification Engineer",
@@ -67456,13 +67450,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-asic-verification-engineer-at-nvidia-4395476598",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an ASIC Verification Engineer, not a role focusing on Power Integrity (PI) or Advanced Packaging.",
+    "reason": "This is a Senior ASIC Verification Engineer role, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "ce9f7659",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -67471,13 +67464,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-leadsoc-technologies-pvt-ltd-4428020037",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches target domain of Physical Design with 5+ years experience, located in India.",
+    "reason": "Matches Vineeth's background in physical design and years of experience",
     "id": "e2017630",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2023-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/leadsoc_technologies_senior_physical_design_enginee_e2017630.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/leadsoc_technologies_senior_physical_design_enginee_e2017630.txt"
   },
   {
     "title": "Principal Engineer, ASIC Development Engineering (Front End CAD -RTL Integration, Lint, CDC)",
@@ -67486,13 +67478,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-asic-development-engineering-front-end-cad-rtl-integration-lint-cdc-at-sandisk-4416093252",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Strong match for VLSI/EDA domain, senior leadership role with 10+ years experience required.",
+    "reason": "The role is a Principal Engineer position in ASIC development with specific requirements around RTL integration, linting, CDC verification, which fits Vineeth's background and skills.",
     "id": "02783f88",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2026-05-18",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/sandisk_principal_engineer__asic_devel_02783f88.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/sandisk_principal_engineer__asic_devel_02783f88.txt"
   },
   {
     "title": "Staff Electronics SI/PI Engineer",
@@ -67501,13 +67492,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-electronics-si-pi-engineer-at-arm-4412161077",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches Domain & Technical Area of Power Integrity (PI) / Signal Integrity (SI)",
+    "reason": "The role is a match for Vineeth's background in Power Integrity and fits into Arm's semiconductor company context.",
     "id": "4ec9370b",
     "source": "linkedin_india_eda_design_automation_p2",
     "posted_date": "2026-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_staff_electronics_si_pi_engine_4ec9370b.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff_electronics_si_pi_engine_4ec9370b.txt"
   },
   {
     "title": "EDA Infrastructure - Staff Engineer",
