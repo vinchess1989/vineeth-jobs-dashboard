@@ -58097,14 +58097,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418829820",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role strongly matches the candidate profile, with deep analog design experience relevant to semiconductor technology.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on analog circuit design for high-speed SerDes, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "fc6d494f",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/intel_analog_circuit_design_engineer_fc6d494f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, CAD",
@@ -58112,14 +58111,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-cad-at-micron-technology-4414104245",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior CAD engineer position at Micron Technology, a semiconductor company, with the required technical skills and experience in layout automation.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a senior match for Vineeth's background but doesn't specify the exact technical domain. However, Micron is a top semiconductor company.",
     "id": "e63e396f",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2026-03-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_senior_engineer__cad_e63e396f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -58128,13 +58126,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-semifive-4422836410",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches VLSI/SoC physical design",
+    "reason": "Matches Vineeth's background in VLSI/SoC design and physical implementation.",
     "id": "12d39a50",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/semifive_senior_physical_design_enginee_12d39a50.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/semifive_senior_physical_design_enginee_12d39a50.txt"
   },
   {
     "title": "R&D Engineer 3, Software",
@@ -58143,13 +58140,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-engineer-3-software-at-keysight-technologies-4412250735",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role, not focused on PI, SI, EDA tools, CAD methodologies or physical design which are our primary focus areas.",
+    "reason": "The role is software development focused (R&D Engineer, writing clean efficient code) which is outside Vineeth's domain of Power Integrity/Advanced Packaging/CAD.",
     "id": "201c868b",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, CAD",
@@ -58157,14 +58153,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-cad-at-micron-technology-4414107233",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a mid-senior level CAD engineer position at Micron Technology in Hyderabad, India which matches the target criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on production support of EDA tools rather than power integrity, packaging, or CAD methodology.",
     "id": "aa649756",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_senior_engineer__cad_aa649756.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -58172,14 +58167,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-leadsoc-technologies-pvt-ltd-4389537232",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job is a match based on the key skills and years of experience in physical design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on physical implementation, RTL to GDSII, and does not fit Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, or CAD/Methodology.",
     "id": "806cd7ec",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2026-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/leadsoc_technologies_physical_design_engineer_806cd7ec.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, CAD",
@@ -58187,14 +58181,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-cad-at-micron-technology-4414587431",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for senior CAD roles, with experience in EDA tools and methodologies.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on CAD applications engineering for design verification, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "5bef9028",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2026-06-08",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/micron_technology_senior_engineer__cad_5bef9028.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer, CAD",
@@ -58202,14 +58195,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-cad-at-micron-technology-4414111083",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires CAD automation, AI-assisted methodologies and strong skills with EDA tools like Cadence Virtuoso, Synopsys Custom Compiler, which aligns well with the target domain of Physical Design/EDA.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily CAD Engineer focused on automation, layout design, and EDA tool evaluation rather than directly in Power Integrity (PI) / Advanced Packaging which are Vineeth's key areas.",
     "id": "b0235e62",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-04-10",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_senior_engineer__cad_b0235e62.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Staff Physical Verification CAD engineer",
@@ -58217,14 +58209,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/sr-staff-physical-verification-cad-engineer-at-marvell-technology-4411578113",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "Strong match for Vineeth's background in Power Integrity, advanced packaging and leadership roles",
     "id": "a0d5f0b3",
     "source": "linkedin_india_eda_design_automation_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-08",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/marvell_technology_sr__staff_physical_verificatio_a0d5f0b3.txt"
   },
   {
     "title": "CAD Software Engineer - IC design",
@@ -58232,14 +58223,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/cad-software-engineer-ic-design-at-globalfoundries-4403792752",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches a senior level EDA CAD automation engineer position with experience in IC design at a semiconductor firm.",
+    "matches_requirements": "no",
+    "reason": "The job is an EDA CAD Software Engineer role, which does not match Vineeth's Power Integrity and Advanced Packaging technical focus.",
     "id": "e36a0246",
     "source": "linkedin_india_eda_design_automation_p3",
     "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/globalfoundries_cad_software_engineer___ic_des_e36a0246.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NPU/AI Processor Synthesis -Staff Engineer",
