@@ -47695,14 +47695,13 @@
     "location": "Delft, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/quantum-advanced-packaging-engineer-at-quantware-4363731102",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role is for an Advanced Packaging Engineer at QuantWare and fits Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
     "id": "6c652636",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-09",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/quantware_quantum_advanced_packaging_eng_6c652636.txt"
   },
   {
     "title": "Advanced 3D Packaging \u2013 Platform Integration Lead",
@@ -47710,14 +47709,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/advanced-3d-packaging-%E2%80%93-platform-integration-lead-at-imec-4429788782",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is in the target domain of Advanced Packaging, and the location is a good match for our preference for Europe (outside Finland). However, it does not explicitly state 10+ years of experience as required.",
+    "matches_requirements": "yes",
+    "reason": "The role involves leading the development of IMEC's 3D Packaging Integration platform, which falls within Vineeth's Power Integrity and Advanced Packaging domain. The location is in Leuven, Belgium.",
     "id": "c289db43",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/imec_advanced_3d_packaging___platfo_c289db43.txt"
   },
   {
     "title": "Process Development Engineer, Backend Die Packaging",
@@ -47725,14 +47723,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/process-development-engineer-backend-die-packaging-at-iqm-quantum-computers-4429961563",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match based on the technical domains of power integrity, advanced packaging, and thermal analysis.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Backend Process Development Engineer focused on die packaging and backend processes for cryogenic environments, which does not match Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
     "id": "db2d3fe3",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2023-06-19",
     "deadline": "N/A",
-    "description_file": "job_descriptions/iqm_quantum_computer_process_development_engineer___db2d3fe3.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Application Engineer \u2013 Process Integration Expert",
@@ -47740,14 +47737,13 @@
     "location": "Rotterdam, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/senior-application-engineer-%E2%80%93-process-integration-expert-at-nearfield-instruments-4420700206",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is for an Application Engineer with strong process background, but focuses on metrology solutions rather than direct semiconductor design or EDA tooling.",
+    "matches_requirements": "no",
+    "reason": "The job is for a process integration expert in metrology machines, which doesn't match Vineeth's background in Power Integrity (PI) and advanced packaging.",
     "id": "0339ff23",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Engineer",
@@ -47756,13 +47752,12 @@
     "url": "https://nl.linkedin.com/jobs/view/advanced-packaging-engineer-at-ic-resources-4366935670",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role does not match the required background in Power Integrity, CAD/Methodology, or SoC Physical Design.",
+    "reason": "The role is more focused on R&D leadership for advanced packaging rather than hands-on technical work in power integrity, physical design, or EDA tools.",
     "id": "e1cb245e",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-12",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Packaging Engineer",
@@ -47770,14 +47765,13 @@
     "location": "Paris, \u00cele-de-France, France",
     "url": "https://fr.linkedin.com/jobs/view/senior-packaging-engineer-at-arago-4429538403",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior packaging role with expertise in heterogeneous integration and advanced packaging techniques, but location is not specified.",
+    "matches_requirements": "no",
+    "reason": "This is a Senior Packaging Engineer role, which focuses more on process engineering and manufacturing rather than power integrity and advanced packaging.",
     "id": "6f4069aa",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "2026-06-25",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer R&D Prototyping",
@@ -47786,13 +47780,12 @@
     "url": "https://at.linkedin.com/jobs/view/engineer-r-d-prototyping-at-at-s-4401643696",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a semiconductor/VLSI/EDA role, more towards advanced manufacturing processes and equipment setup.",
+    "reason": "The job is for R&D Prototyping Engineer, which does not match Vineeth's Power Integrity and Advanced Packaging focus. Also, it is in Austria.",
     "id": "34374fd5",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2023-06-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Research Engineer - Wafer Bond (all genders)",
@@ -47801,13 +47794,12 @@
     "url": "https://at.linkedin.com/jobs/view/senior-research-engineer-wafer-bond-all-genders-at-silicon-austria-labs-sal-4416397638",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a research position focused on wafer bonding technologies, which does not match the semiconductor VLSI EDA technical domains specified in the job search requirements.",
+    "reason": "The role is primarily focused on wafer bonding process development and operation, which does not directly match Vineeth's expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
     "id": "cdbf84ae",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-22",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
@@ -47815,14 +47807,13 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/advanced-packaging-power-delivery-senior-engineer-at-axelera-ai-4430117264",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Engineer position in Advanced Packaging & Power Delivery, directly matching Vineeth's domain and experience.",
     "id": "0a091bac",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-04-18",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/axelera_ai_advanced_packaging___power_del_0a091bac.txt"
   },
   {
     "title": "Package Development Engineer",
@@ -47830,14 +47821,13 @@
     "location": "Heilbronn, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/package-development-engineer-at-imec-4422916427",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The job role is a close match for VLSI/EDA engineering, focusing on package design and electrical performance optimization.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on IC packaging design and analysis, which does not directly match Vineeth's focus areas of Power Integrity (PI) and Advanced Packaging. The job description emphasizes selection, optimization, manufacturability, and cost aspects for IC packages.",
     "id": "7d27641d",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2023-06-09",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/imec_package_development_engineer_7d27641d.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging & Power Delivery Senior Engineer",
