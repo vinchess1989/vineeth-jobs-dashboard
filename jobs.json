@@ -27153,33 +27153,31 @@
   },
   {
     "title": "verification engineer jobs in Plano, TX",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture",
+    "location": "Irving, USA",
     "url": "https://www.glassdoor.com/Job/plano-verification-engineer-jobs-SRCH_IL.0,5_IC1140045_KO6,27.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a verification engineer, which does not match Vineeth's background and key skills in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) - this is outside Vineeth's domain.",
     "id": "b1f991be",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Plano, TX jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Plano, TX, USA",
     "url": "https://www.glassdoor.com/Job/plano-jobs-SRCH_IL.0,5_IC1140045.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job search results page is for a wide range of roles and does not directly match the specified domain, technical area or location requirements.",
+    "reason": "The job listing is for a general search of Plano, TX jobs on Glassdoor and does not specify a particular company or role matching Vineeth's profile.",
     "id": "ed608504",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer 4",
@@ -27188,13 +27186,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-engineer-4-at-lam-research-4423288074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Engineering) and does not fit semiconductor/VLSI/EDA experience.",
+    "reason": "The role is primarily process engineering on semiconductor equipment, not power integrity or EDA tools. It's also US-based without visa sponsorship mentioned.",
     "id": "54e163ce",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Engineer IV",
@@ -27203,13 +27200,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-iv-at-rochester-electronics-llc-4427865628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Design Engineer IV role at Rochester Electronics is for semiconductor design rather than VLSI/EDA.",
+    "reason": "The role is primarily focused on custom silicon design, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "88d0c14d",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Staff|6314  Engineer, Staff|6314",
@@ -27218,13 +27214,12 @@
     "url": "https://www.linkedin.com/jobs/view/engineer-staff-6314-engineer-staff-6314-at-alten-4410306288",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires Traditional PnR design experience, which is not a match for the target domains of Power Integrity, CAD/Methodology, Advanced Packaging or Physical Design.",
+    "reason": "The role requires traditional Place and Route (PnR) design experience, which is outside Vineeth's domain.",
     "id": "5d88d2d9",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-05-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Micro Architect / Logic Designer",
@@ -27233,13 +27228,12 @@
     "url": "https://www.linkedin.com/jobs/view/cpu-micro-architect-logic-designer-at-ventana-micro-systems-3670480921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a CPU microarchitecture/logic design role at a company building high-performance RISC-V CPUs. This does not match our target domains of Power Integrity, Advanced Packaging, SoC Physical Design or EDA Tools.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "b2d7e1ad",
     "source": "linkedin_vlsi_ww",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -27248,13 +27242,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-amazon-web-services-aws-4345191298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This job is for a Physical Design Engineer role at Amazon Web Services, which does not fit the semiconductor/VLSI/EDA domain focus we're matching.",
+    "reason": "This is a non-technical role focused on utility computing and cloud services, outside Vineeth's domain of semiconductor/VLSI/EDA.",
     "id": "f4f9a175",
     "source": "linkedin_eda_ww",
     "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC (Front-End) Design Engineer",
@@ -27262,14 +27255,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-asic-front-end-design-engineer-at-ethernovia-4136519052",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior ASIC Front-End Design Engineer role with 10+ years experience, located in San Jose CA",
+    "matches_requirements": "no",
+    "reason": "The role is primarily ASIC design focused, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
     "id": "b00fa239",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ethernovia_senior_asic__front_end__design_b00fa239.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer Staff",
@@ -27278,13 +27270,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-engineer-staff-at-hewlett-packard-enterprise-4430752455",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role of ASIC Engineer Staff at HPE matches the target domain of VLSI/SoC Design, and the location is in Bengaluru, India which is within one of our priority regions.",
+    "reason": "Matches target domain of VLSI design, close to Vineeth's background",
     "id": "14c10058",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/hewlett_packard_ente_asic_engineer_staff_14c10058.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/hewlett_packard_ente_asic_engineer_staff_14c10058.txt"
   },
   {
     "title": "Senior Engineer - STA",
@@ -27293,13 +27284,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-sta-at-quest-global-4415036199",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level physical design role with less than 11 years experience, while we are looking for senior roles in that domain.",
+    "reason": "The role is primarily focused on physical design and verification, which is outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "5763b040",
     "source": "linkedin_vlsi_india",
     "posted_date": "2023-05-16",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
