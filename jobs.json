@@ -26486,28 +26486,26 @@
     "url": "https://www.glassdoor.com/Job/roseville-engineer-jobs-SRCH_IL.0,9_IC1147226_KO10,18.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job requires specific experience with Amazon's systems and terminology, which does not match the criteria for semiconductor/VLSI/EDA roles.",
+    "reason": "The role is a civil engineer position at a water agency and does not match Vineeth's VLSI/EDA background.",
     "id": "07f7b5fd",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Roseville, CA jobs",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Roseville, CA, USA",
     "url": "https://www.glassdoor.com/Job/roseville-jobs-SRCH_IL.0,9_IC1147226.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (HR) at an unspecified semiconductor company, which does not match our engineering/technical position requirement.",
+    "reason": "The provided URL leads to a generic Glassdoor search page for Roseville jobs, which does not contain specific job postings with relevant details like domain/technical area, years of experience required, and application deadlines. It would be necessary to review individual job listings from this search result to determine if any match the specified criteria.",
     "id": "7b619fe8",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Bosch jobs in Roseville, CA",
@@ -26516,13 +26514,12 @@
     "url": "https://www.glassdoor.com/Job/roseville-bosch-jobs-SRCH_IL.0,9_IC1147226_KO10,15.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Discarded due to US-based role without visa sponsorship options mentioned.",
+    "reason": "The job is located in Roseville, CA, USA which does not match the specified locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote positions.",
     "id": "fec65ef6",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Commissioning Field Engineer, HVAC",
@@ -26531,13 +26528,12 @@
     "url": "https://www.glassdoor.com/job-listing/sr-commissioning-field-engineer-hvac-tesla-JV_IC1147355_KO0,36_KE37,42.htm?jl=1010157187330",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an HVAC Commissioning Field Engineer, which does not match the target technical domains of semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Sr. Commissioning Field Engineer in HVAC, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
     "id": "a25928ce",
     "source": "glassdoor_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "field service engineer jobs in Fremont, CA",
@@ -26546,13 +26542,12 @@
     "url": "https://www.glassdoor.com/Job/fremont-field-service-engineer-jobs-SRCH_IL.0,7_IC1147355_KO8,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Field Service Engineer, which is a non-technical role.",
+    "reason": "This is a non-technical field service engineer role, which does not match Vineeth's background in semiconductor VLSI EDA.",
     "id": "93e8d0ac",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fremont, CA jobs",
@@ -26561,13 +26556,12 @@
     "url": "https://www.glassdoor.com/Job/fremont-jobs-SRCH_IL.0,7_IC1147355.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is for a generic Fremont, CA jobs search on Glassdoor and does not contain specific job postings matching the required semiconductor/VLSI/EDA industry and experience levels. No individual company or location details are given to make an evaluation against our target criteria.",
+    "reason": "This is a generic Glassdoor search URL for Fremont jobs, not a specific job posting matching Vineeth's profile and requirements.",
     "id": "d4be5013",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Tesla jobs in Fremont, CA",
@@ -26576,13 +26570,12 @@
     "url": "https://www.glassdoor.com/Job/fremont-tesla-jobs-SRCH_IL.0,7_IC1147355_KO8,13.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located at Tesla's Fremont, CA facility and does not match the specified locations in India, Asia, Finland, Europe, UK, or remote roles. It also requires US residency.",
+    "reason": "The job is located in Fremont, CA which does not match any of the specified locations for Vineeth.",
     "id": "6ee37cac",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Scanner Metrology Engineer",
@@ -26591,13 +26584,12 @@
     "url": "https://www.glassdoor.com/job-listing/senior-scanner-metrology-engineer-micron-technology-JV_IC1127927_KO0,33_KE34,51.htm?jl=1010165719760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a Senior Scanner Metrology Engineer, which does not match the technical domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, Physical Design, EDA Tools, VLSI / SoC Design, or Engineering Leadership specified in the job search requirements.",
+    "reason": "Job is for a scanner metrology engineer position, which involves semiconductor wafer inspection and testing - outside Vineeth's power integrity/advanced packaging/CAD domain.",
     "id": "f42e89ec",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "engineer jobs in Boise, ID",
@@ -26606,13 +26598,12 @@
     "url": "https://www.glassdoor.com/Job/boise-engineer-jobs-SRCH_IL.0,5_IC1127927_KO6,14.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Boise, ID, USA, which does not match the preferred locations of Finland, Europe (outside Finland), or UK (England, Scotland, Ireland), India, Asia, Fully Remote with worldwide eligibility, or United States with explicit visa sponsorship or relocation mentioned.",
+    "reason": "The job posting is for a general engineer role in Boise, ID, USA without specifying the technical domains of Power Integrity/SI, Advanced Packaging, CAD/Methodology, etc. that match Vineeth's background.",
     "id": "7dca1fa3",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HVM Area Manufacturing Engineer - PVD and CVD",
@@ -26621,13 +26612,12 @@
     "url": "https://www.glassdoor.com/job-listing/hvm-area-manufacturing-engineer-pvd-and-cvd-micron-technology-JV_IC1127927_KO0,43_KE44,61.htm?jl=1010166903825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role focused on PVD and CVD processes, which does not match the semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is primarily manufacturing engineering for PVD and CVD processes, not semiconductor design or EDA tools.",
     "id": "ee529d4b",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software R&D Engineer (IMC)",
