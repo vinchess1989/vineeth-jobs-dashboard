@@ -45329,14 +45329,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-electronics-si-pi-engineer-at-arm-4412146637",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches domain (Electronics SI/PI Engineer) and location (Bengaluru, India)",
+    "matches_requirements": "no",
+    "reason": "The job requires specific SI/PI experience with PCB and system-level design using Cadence Allegro and OrCAD, which does not directly match Vineeth's background in Power Integrity (PI) and Advanced Packaging. While it's related, his key skills may need further transferable learning to be effective.",
     "id": "9cd02b77",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_senior_electronics_si_pi_engin_9cd02b77.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity Engineer",
@@ -45344,14 +45343,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/signal-integrity-engineer-at-amd-4392672258",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development focused (firmware engineer) which is outside Vineeth's domain.",
     "id": "9c1a6dfb",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-07",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Signal Integrity (SI) and Power Integrity (PI) Engineers",
@@ -45359,14 +45357,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/signal-integrity-si-and-power-integrity-pi-engineers-at-tessolve-4415513073",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role is for a mid-senior level Signal Integrity Engineer with experience in high-speed interfaces, matching Vineeth's background in Power Integrity and packaging.",
     "id": "b8568c07",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-12",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/tessolve_signal_integrity__si__and_powe_b8568c07.txt"
   },
   {
     "title": "Power Delivery Engineer",
@@ -45374,29 +45371,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/power-delivery-engineer-at-intel-4423872694",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "The role is a technical power delivery design engineer position with expertise in power conversion, modeling, and PCB layout which fits Vineeth's background.",
     "id": "7d1bae55",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Signal Integrity Engineer",
-    "company": "Hewlett Packard Enterprise",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://in.linkedin.com/jobs/view/signal-integrity-engineer-at-hewlett-packard-enterprise-4411204904",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
-    "id": "e5a6cb9f",
-    "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/intel_power_delivery_engineer_7d1bae55.txt"
   },
   {
     "title": "Physical Design Engineer- Power",
@@ -45404,14 +45385,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-power-at-ibm-4428219727",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This job is a match for the Physical Design domain with required skills like Perl, Python, and power delivery network analysis.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on physical design, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "8ce4e342",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-05-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ibm_physical_design_engineer__powe_8ce4e342.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MTS-Signal/Power Integrity Engineer",
@@ -45419,14 +45399,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/mts-signal-power-integrity-engineer-at-tsavorite-scalable-intelligence-4429795065",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with >10 years experience required, matching key skills",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (AI, machine learning) which is outside Vineeth's domain.",
     "id": "db8ce663",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-06-13",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "PMTS-Signal/Power Integrity Engineer",
@@ -45434,14 +45413,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/pmts-signal-power-integrity-engineer-at-tsavorite-scalable-intelligence-4429908025",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior PMTS-SI/PI Engineer role matches the candidate's background and key skills, with a strong preference for semiconductor startups in Bengaluru, India.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with overlapping domains, but some specific skills like PCIe, IEEE802.3 are missing from Vineeth's background.",
     "id": "2f874b22",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2026-06-13",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/tsavorite_scalable_i_pmts_signal_power_integrity_en_2f874b22.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Systems and Hardware Enabling Engineer",
@@ -45450,13 +45428,12 @@
     "url": "https://in.linkedin.com/jobs/view/systems-and-hardware-enabling-engineer-at-intel-4418847030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Customer Facing Hardware Design Enabling Engineer, which is non-technical and does not match our semiconductor/VLSI/EDA focus.",
+    "reason": "The role is focused on customer-facing hardware design enablement and SI/PI, which is outside Vineeth's main areas of power integrity and advanced packaging. It also specifies a location in India rather than preferred locations like Finland or UK.",
     "id": "d4535785",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-05-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Methodology \u2013 Senior / Staff DRAM Power Integrity Engineer",
@@ -45465,13 +45442,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-methodology-%E2%80%93-senior-staff-dram-power-integrity-engineer-at-micron-technology-4410848281",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches the candidate's background in Power Integrity and senior experience level.",
+    "reason": "Matches technical domain of Power Integrity (PI) / Signal Integrity (SI) with specific mention of ANSYS RedHawk, and is a leadership role in semiconductor industry.",
     "id": "55fb757e",
     "source": "linkedin_india_power_integrity_p2",
     "posted_date": "2023-06-21",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/micron_technology_design_methodology___senior____55fb757e.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/micron_technology_design_methodology___senior____55fb757e.txt"
   },
   {
     "title": "Design Methodology \u2013 Principal DRAM Power Integrity Engineer",
