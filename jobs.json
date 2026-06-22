@@ -9644,13 +9644,12 @@
     "url": "https://www.glassdoor.com/Job/dallas-texas-instruments-jobs-SRCH_IL.0,6_IC1139977_KO7,24.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located in Dallas, TX, USA which does not match the preferred locations of Finland, Europe (outside Finland), UK, India/Asia, or fully remote with worldwide eligibility.",
+    "reason": "The role is primarily operations/research focused, outside Vineeth's domain of EDA/VLSI.",
     "id": "db250769",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Career Accelerator Program - Digital IC Design & DV Engineer",
@@ -9659,13 +9658,12 @@
     "url": "https://www.glassdoor.com/job-listing/career-accelerator-program-digital-ic-design-dv-engineer-texas-instruments-JV_IC1133996_KO0,56_KE57,74.htm?jl=1010155449910",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a general IC design engineer with no specific focus on power integrity, advanced packaging, or EDA tools.",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
     "id": "8f49bb3b",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industriepratikum - UPD FUR (w/m/div)Villach (Austria)HRC1635436On-site",
@@ -9674,58 +9672,40 @@
     "url": "https://www.infineon.com/careers/job/563808970673414",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role and does not fit our engineering/technical position criteria.",
+    "reason": "The URL provided does not lead to a valid job posting page, making it impossible to assess the requirements against the given criteria.",
     "id": "b0339610",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Industriepraktikum - Support Team Assistenz (w/m/div)Villach (Austria)HRC1673460",
-    "company": "Infineon Technologies AG",
-    "location": "Extract from page",
-    "url": "https://www.infineon.com/careers/job/563808971196329",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting, it returns a 404 error.",
-    "id": "78c5b949",
-    "source": "infineon_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industriepraktikum: Reliability Testing (f/m/div)Villach (Austria)HRC1182585HybridHybrid",
     "company": "Infineon Technologies",
-    "location": "Extract from page",
+    "location": "Villach (Austria)",
     "url": "https://www.infineon.com/careers/job/563808958852494",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided does not lead to a valid job posting with enough details for evaluation.",
+    "reason": "This is an internship position, which does not match the candidate's 15+ years of experience.",
     "id": "dd450b99",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Industriepraktikum - Messtechnik (w/m/div)Villach (Austria)HRC1199337HybridHybrid",
     "company": "Infineon Technologies AG",
-    "location": "Extract from page",
+    "location": "Villach (Austria)",
     "url": "https://www.infineon.com/careers/job/563808959159451",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is for a 404 error page on Infineon's website, indicating no actual job posting exists at this location.",
+    "reason": "The job is an internship position in Austria, which does not match the candidate's experience level and technical expertise.",
     "id": "1c0c4d5a",
     "source": "infineon_careers",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer Systemexperte (w/m/div)Villach (Austria)129545On-site",
@@ -9734,13 +9714,12 @@
     "url": "https://www.infineon.com/careers/job/563808970388198",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting led to a 404 error page, indicating the job likely no longer exists.",
+    "reason": "The provided URL leads to a 404 error, and no details about the job posting could be found.",
     "id": "ec922f04",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Werkstudent - Automatisierung (w/m/div) Regensburg (Germany)HRC1671815On-site",
@@ -9749,13 +9728,12 @@
     "url": "https://www.infineon.com/careers/job/563808971171116",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role of 'Automatisierung' at a semiconductor company, which does not match our engineering/technical position criteria.",
+    "reason": "The role is non-technical HR.",
     "id": "d7ae78a2",
     "source": "infineon_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR ENGINEER - DEMQRA COMPUTETaichung City, Taichung City, TaiwanPosted 2 months ago",
@@ -9764,13 +9742,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41422315",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a semiconductor manufacturing role focused on DRAM quality and reliability, which does not match the VLSI/EDA job requirements.",
+    "reason": "The role is focused on DRAM and Emerging Memory Quality & Reliability Assurance, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, CAD/Methodology.",
     "id": "e32bdb9c",
     "source": "micron_careers",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AMHS Installation Engineer",
@@ -9779,13 +9756,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16660&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for AMHS installation engineer at TSMC Taiwan fab, which does not match the semiconductor/VLSI/EDA industry focus of the job search requirements.",
+    "reason": "The role is for AMHS equipment installation, which does not match Vineeth's domain of Power Integrity and Advanced Packaging in semiconductor/EDA.",
     "id": "8705419a",
     "source": "tsmc_careers",
     "posted_date": "2026-03-19",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
