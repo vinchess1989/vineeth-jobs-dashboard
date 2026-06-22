@@ -18911,14 +18911,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-product-engineer-at-renesas-electronics-4429773864",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires semiconductor engineering experience with NPI processes, which aligns well with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "Matches semiconductor domain but location is ambiguous, need to verify if it is fully remote.",
     "id": "c6aa4e2c",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-01",
     "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_senior_product_engineer_c6aa4e2c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Technology Development Engineering (Device Physics and reliability)",
@@ -18926,14 +18925,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-technology-development-engineering-device-physics-and-reliability-at-sandisk-4392527408",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an engineering position at a semiconductor company (Sandisk), but does not directly match the specified technical domains of Power Integrity, Advanced Packaging, or CAD/Methodology for VLSI/EDA.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with device physics and reliability focus matches target domains for Vineeth, even without specific mention of Power Integrity or Advanced Packaging",
     "id": "8f1f3bb9",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Techincal Manager",
@@ -18942,13 +18940,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-techincal-manager-at-quest-global-4428076040",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical managerial role focused on business rather than technical engineering and leadership in semiconductor, VLSI/EDA domains.",
+    "reason": "This is a general senior technical management role without specific domain focus in semiconductor/VLSI/EDA, so does not match Vineeth's area of expertise.",
     "id": "b0429b6a",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-17",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Product Engineer \u2013  GaN & AC/DC Controllers",
@@ -18957,13 +18954,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-engineer-%E2%80%93-gan-ac-dc-controllers-at-texas-instruments-4414157519",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches with the domain of Power Integrity, and the company is Texas Instruments which is a semiconductor firm.",
+    "reason": "The role involves product engineering, qualification, characterization of ICs and GaN technology which aligns with Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "030210d3",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/texas_instruments_product_engineer____gan___ac_d_030210d3.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/texas_instruments_product_engineer____gan___ac_d_030210d3.txt"
   },
   {
     "title": "Sr Engineer - DEMQRA WLR",
@@ -18972,13 +18968,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-demqra-wlr-at-micron-technology-4410834632",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Wafer Level Reliability Engineer role, which does not match the required domains of Power Integrity (PI), Advanced Packaging, CAD/Methodology, or VLSI/SoC Design.",
+    "reason": "This is a non-technical role focused on reliability testing and analysis for semiconductor manufacturing, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "3fb73312",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Standard Cell Design Reliability Verification Engineer",
@@ -18986,14 +18981,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/standard-cell-design-reliability-verification-engineer-at-intel-4394492205",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Fits technical domain (Power Integrity / Signal Integrity: SoC PDN sign-off, IR Drop, EM, EDA Tools Engineer), location in India, and experience level of 5+ years with a PhD.",
+    "matches_requirements": "no",
+    "reason": "Primarily a Verification Engineer role focusing on IR and EM flows for standard cells, which is outside Vineeth's Power Integrity & Advanced Packaging domain.",
     "id": "2b19eadf",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/intel_standard_cell_design_reliabili_2b19eadf.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Solutions Engineering, Staff Engineer",
@@ -19002,13 +18996,12 @@
     "url": "https://in.linkedin.com/jobs/view/solutions-engineering-staff-engineer-at-synopsys-inc-4387810693",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This is a technical solutions engineering role at Synopsys, which specializes in EDA software.",
+    "reason": "The role is a senior engineering position at Synopsys, which works on EDA tool development and semiconductor IP. It fits Vineeth's background in Power Integrity and CAD.",
     "id": "c9799ef3",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-05",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/synopsys_inc_solutions_engineering__staff_e_c9799ef3.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/synopsys_inc_solutions_engineering__staff_e_c9799ef3.txt"
   },
   {
     "title": "Manufacturing Bring-up Engineer L2",
@@ -19016,14 +19009,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/manufacturing-bring-up-engineer-l2-at-cerebras-4379987856",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches the Target Job Criteria for Domain & Technical Area (Manufacturing Bring-up) and Location (Bangalore, India).",
+    "matches_requirements": "no",
+    "reason": "Role is not a technical leadership position in semiconductor, VLSI/EDA domains. It's an engineering role for manufacturing system bring-up at Cerebras.",
     "id": "bfa24534",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": "job_descriptions/cerebras_manufacturing_bring_up_enginee_bfa24534.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum Device Engineer",
@@ -19031,14 +19023,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/quantum-device-engineer-at-qpiai-4417130717",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of Power Integrity, leadership role, and location criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on semiconductor device fabrication and characterization, which does not align closely with Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, thermal analysis, or EDA tool methodology.",
     "id": "b370360b",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-22",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qpiai_quantum_device_engineer_b370360b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineering Manager \u2013 Power",
@@ -19046,14 +19037,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/product-engineering-manager-%E2%80%93-power-at-cyient-semiconductors-4419298832",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for a senior power semiconductor engineering leadership position with 8-12 years experience.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily product engineering for power semiconductors and does not match Vineeth's CAD/EDA technical leadership background.",
     "id": "eba90432",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": "job_descriptions/cyient_semiconductor_product_engineering_manager____eba90432.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Yield / Integration Engineering",
