@@ -39407,14 +39407,13 @@
     "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/job-listing/principal-physical-design-engineer-celero-communications-inc-JV_IC1147436_KO0,34_KE35,60.htm?jl=1010167045044",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior-level physical design role with 10+ years' experience, matching the candidate profile.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role with a match on domain (Physical Design) and location (San Jose, CA). Needs further review for exact technical alignment.",
     "id": "c74f2b17",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/celero_communication_principal_physical_design_engi_c74f2b17.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "physical design engineer jobs in San Jose, CA",
@@ -39423,28 +39422,26 @@
     "url": "https://www.glassdoor.com/Job/san-jose-physical-design-engineer-jobs-SRCH_IL.0,8_IC1147436_KO9,33.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a physical design engineer in San Jose, CA, which does not match the target domains of Power Integrity (PI), Advanced Packaging / Thermal, CAD / Methodology, etc. specified by the requirements.",
+    "reason": "The role is a general engineer position, not specialized in semiconductor VLSI EDA areas like Power Integrity, Advanced Packaging, Physical Design, etc.",
     "id": "b9a03583",
     "source": "glassdoor_semi",
     "posted_date": "2026-06-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Celero communications jobs in San Jose, CA",
-    "company": "Extract from page",
+    "company": "Not explicitly stated in the given text",
     "location": "San Jose, CA, USA",
     "url": "https://www.glassdoor.com/Job/san-jose-celero-communications-jobs-SRCH_IL.0,8_IC1147436_KO9,30.htm",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general search results page for Celero communications jobs in San Jose, CA and does not match the specific job posting criteria.",
+    "reason": "The job is a non-technical communications role at a semiconductor company, which does not match Vineeth's technical background in VLSI/EDA.",
     "id": "959bd64a",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer - Staff",
@@ -39453,13 +39450,12 @@
     "url": "https://www.glassdoor.com/job-listing/asic-design-engineer-staff-celero-communications-inc-JV_IC1146798_KO0,26_KE27,52.htm?jl=1010167419034",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing position at a semiconductor company.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "b61cedb4",
     "source": "glassdoor_semi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "More details",
@@ -39468,28 +39464,26 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=17914&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI Product Manager role is focused on semiconductor equipment and does not directly match our target domains of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, etc. in VLSI/EDA.",
+    "reason": "The role is primarily software development (AI Product Manager) and does not match Vineeth's power integrity, advanced packaging, EDA tools expertise.",
     "id": "e62665f8",
     "source": "tsmc_careers",
     "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Welcome Back",
-    "location": "Extract from page",
+    "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-Product-Manager-Semiconductor%2F17914",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing role at a semiconductor company, which does not match the requirements.",
+    "reason": "This is a non-technical marketing role at a semiconductor company, outside Vineeth's engineering/technical domain.",
     "id": "9990f9fc",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer - APS",
@@ -39498,13 +39492,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=4ec3ff8a31bfe4df",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Power Integrity (PI) / Signal Integrity (SI), which does not match the key target domain of Power Integrity (PI) / Advanced Packaging / Thermal for this job search.",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "e40386ed",
     "source": "indeed_semi_ww",
     "posted_date": "2026-05-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer - APS salaries in Dallas, TX",
@@ -39513,28 +39506,12 @@
     "url": "https://www.indeed.com/career/design-verification-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=4ec3ff8a31bfe4df&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Engineer position at a company like Texas Instruments or Analog Devices, which falls under general engineering/technical roles and is not specific to Semiconductor/VLSI/EDA domains as required.",
+    "reason": "This is a verification role focused on simulation and testbench development, which falls outside Vineeth's domain of power integrity, advanced packaging, and CAD methodology.",
     "id": "bfa50cf1",
     "source": "indeed_semi_ww",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Career Accelerator Program - Digital Design Engineer",
-    "company": "Texas Instruments",
-    "location": "Dallas, TX",
-    "url": "https://www.linkedin.com/jobs/view/career-accelerator-program-digital-design-engineer-at-texas-instruments-4422083523",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an internship, which does not meet the experience level criteria.",
-    "id": "c791e768",
-    "source": "linkedin_vlsi_ww",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Ocotillo Technology Fabrication Process Integration and Yield Engineer",
@@ -39543,13 +39520,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=e9d43a5617604639",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical engineering role at an Intel semiconductor manufacturing facility, which does not match our target technical roles at semiconductor/VLSI/EDA companies.",
+    "reason": "This role is for a Process Integration and Yield Engineer, which focuses more on process engineering and wafer-level yield optimization. It does not explicitly mention the technical domains of Power Integrity (PI), Advanced Packaging/Thermal, CAD Methodology or related leadership roles that Vineeth has expertise in.",
     "id": "f0573640",
     "source": "indeed_semi_ww",
     "posted_date": "2023-06-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Dry Etch Process Development Engineer",
