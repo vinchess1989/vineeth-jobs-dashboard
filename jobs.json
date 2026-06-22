@@ -48536,13 +48536,12 @@
     "url": "https://www.linkedin.com/jobs/view/freelance-physical-technologist-at-future-colossal-4425640322",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a freelance Physical Technologist, which doesn't match the semiconductor/VLSI/EDA job requirements.",
+    "reason": "The role is for a freelance contract position in physical technology, not a technical leadership role in semiconductor/VLSI/EDA.",
     "id": "fb3b6216",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical AI Architect",
@@ -48550,14 +48549,13 @@
     "location": "Boston, MA",
     "url": "https://www.linkedin.com/jobs/view/physical-ai-architect-at-pickle-robot-company-4401498178",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on AI for robotics, not semiconductor/VLSI/EDA.",
     "id": "9d697174",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Performance - FC Dallas Performance Center",
@@ -48565,14 +48563,13 @@
     "location": "Frisco, TX",
     "url": "https://www.linkedin.com/jobs/view/head-of-performance-fc-dallas-performance-center-at-fc-dallas-4405232046",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a Strength Coach / Head of Performance, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "698df213",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Team Operations - Head of Sports Science",
@@ -48580,14 +48577,13 @@
     "location": "Kissimmee, FL",
     "url": "https://www.linkedin.com/jobs/view/team-operations-head-of-sports-science-at-orlando-city-sc-4429382480",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for sports science and coaching roles, unrelated to semiconductor/VLSI/EDA.",
     "id": "5c857a79",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Designer - Brand Creative Studio",
@@ -48595,14 +48591,13 @@
     "location": "Los Angeles, CA",
     "url": "https://www.linkedin.com/jobs/view/production-designer-brand-creative-studio-at-netflix-4419226869",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for a production designer in brand creative studio, focusing on marketing and design for Netflix. It does not match the semiconductor/VLSI/EDA technical domain.",
     "id": "e26db622",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-18",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Program Manager, Netflix House",
@@ -48610,14 +48605,13 @@
     "location": "Los Angeles, CA",
     "url": "https://www.linkedin.com/jobs/view/program-manager-netflix-house-at-netflix-4409210617",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is a Program Manager focused on experiential operations and design for Netflix House locations, which does not fit Vineeth's semiconductor/VLSI/EDA background in Power Integrity, Advanced Packaging, CAD Methodology.",
     "id": "6d8709f5",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Physical Design",
@@ -48625,14 +48619,13 @@
     "location": "San Diego, CA",
     "url": "https://www.linkedin.com/jobs/view/principal-engineer-physical-design-at-innophase-iot-4231014270",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "yes",
+    "reason": "Senior leadership role with 10+ years experience in physical design for SoC implementation",
     "id": "ac25cdbc",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-31",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/innophase_iot_principal_engineer__physical_d_ac25cdbc.txt"
   },
   {
     "title": "Physical Security (PHYSEC) Analyst",
@@ -48641,13 +48634,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-security-physec-analyst-at-watermark-risk-management-international-llc-4428704434",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Physical Security Analyst position at Watermark Risk Management International, LLC and does not match the Semiconductor / VLSI / EDA job requirements.",
+    "reason": "The role is a Physical Security Analyst position with Watermark Risk Management International, focused on USCG security program support. It does not match Vineeth's background in Power Integrity, Advanced Packaging and semiconductor design/EDA.",
     "id": "3f4e3b87",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2023-05-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Security Designer / Project Manager",
@@ -48656,13 +48648,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-security-designer-project-manager-at-crux-technology-and-security-solutions-4418436311",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Physical Security Designer / Project Manager, which doesn't match the required technical domains of Power Integrity, Advanced Packaging, CAD, and VLSI/SoC.",
+    "reason": "The job is for a physical security design and project management role in a consulting firm, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "d0666f2b",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Technology Specialist-",
@@ -48670,14 +48661,13 @@
     "location": "Burlington, VT",
     "url": "https://www.linkedin.com/jobs/view/field-technology-specialist-at-sentrillion-4424736067",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on low voltage systems installation and troubleshooting, which does not match Vineeth's Power Integrity, Advanced Packaging, CAD/Methodology background in semiconductor/VLSI/EDA domain.",
     "id": "370a98ba",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineering Associate",
