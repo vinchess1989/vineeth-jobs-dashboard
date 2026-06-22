@@ -58377,14 +58377,13 @@
     "location": "Sweden",
     "url": "https://se.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365300555",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This role is a senior technical position for logical design at Axelera AI, which fits the VLSI/EDA job matching criteria.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (RTL coding, verification) and does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "29a9e288",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-05-31",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/axelera_ai_logical_design_engineer_29a9e288.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58392,14 +58391,13 @@
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365300554",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Logical Design Engineer at Axelera AI, which matches the target domains of RTL coding and SoC design.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on digital logic design for AI chips, which does not closely match Vineeth's expertise in Power Integrity and advanced packaging. Additionally, it is a more junior level position (5+ years experience) rather than the senior leadership roles Vineeth has.",
     "id": "99f84c2b",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/axelera_ai_logical_design_engineer_99f84c2b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58408,13 +58406,12 @@
     "url": "https://nl.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365301535",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI platform development and does not match Vineeth's background in power integrity and advanced packaging for SoC design.",
+    "reason": "The role is primarily software development (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
     "id": "52ff4713",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58423,13 +58420,12 @@
     "url": "https://fr.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365307486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Digital IC/ASIC Design Engineer, which does not directly match Vineeth's focus on Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily software development (AI platform) and does not fit Vineeth's VLSI/EDA background.",
     "id": "84eee989",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2023-06-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58437,14 +58433,13 @@
     "location": "Spain",
     "url": "https://es.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365297646",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Logical Design Engineer at Axelera AI which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role is primarily digital logic design with SoC integration, which partially matches Vineeth's Power Integrity and Advanced Packaging background. The location is in Spain.",
     "id": "208f0732",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-02",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58453,13 +58448,12 @@
     "url": "https://lv.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365303530",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The key skills mentioned don't match the required technical domains for this Logical Design Engineer role at Axelera AI in Latvia.",
+    "reason": "The role is primarily software development (C++, Python, shell scripting for automation) rather than focusing on hardware VLSI/EDA.",
     "id": "d0e810e8",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2023-05-04",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58467,14 +58461,13 @@
     "location": "France",
     "url": "https://fr.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365311090",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches domain expertise but seniority is < 8 years. Role type is ambiguous.",
+    "matches_requirements": "no",
+    "reason": "This is a logical design position at Axelera AI, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "e4df2885",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2023-05-18",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58483,13 +58476,12 @@
     "url": "https://sk.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365298599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Logical Design Engineer position at Axelera AI, which does not directly match the Power Integrity / VLSI / EDA focus of the candidate profile.",
+    "reason": "The job is for a 'Senior Staff Design Engineer' role which requires expertise in silicon logical design, RTL coding, and integration of IPs. Vineeth's background is in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology, making it not an ideal match.",
     "id": "550df87b",
     "source": "linkedin_eu_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58498,13 +58490,12 @@
     "url": "https://cz.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365293701",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI product design rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (AI Architect/Engineer) which is outside Vineeth's domain.",
     "id": "e9ccd931",
     "source": "linkedin_eu_eda_design_automation_p2",
-    "posted_date": "N/A",
+    "posted_date": "2023-05-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
@@ -58513,13 +58504,12 @@
     "url": "https://hu.linkedin.com/jobs/view/logical-design-engineer-at-axelera-ai-4365298601",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a senior engineering role at an AI startup, which doesn't fit the semiconductor/VLSI/EDA job search criteria.",
+    "reason": "The job is for a Senior/Staff Logical Design Engineer role, which does not match Vineeth's focus on Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or CAD Methodology.",
     "id": "371d679a",
     "source": "linkedin_eu_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-06-05",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Logical Design Engineer",
