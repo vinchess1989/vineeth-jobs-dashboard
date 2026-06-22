@@ -1759,6 +1759,84 @@ def print_job_summary():
         print(f"Error reading jobs file for status display: {e}")
 
 
+FIRESTORE_BASE = "https://firestore.googleapis.com/v1/projects/vineeth-jobs-dashboard/databases/(default)/documents"
+
+
+def poll_re_review_request():
+    """Check Firebase for a user-triggered re-review request and run it synchronously."""
+    doc_url = f"{FIRESTORE_BASE}/shared_state/re_review_request"
+    try:
+        response = requests.get(doc_url, timeout=10)
+        if response.status_code != 200:
+            print(f"INFO: poll_re_review: Firestore GET returned {response.status_code} — skipping.")
+            return
+        data = response.json()
+        fields = data.get("fields", {})
+        status = fields.get("status", {}).get("stringValue", "")
+        print(f"INFO: poll_re_review: status='{status}'")
+        if status != "requested":
+            return
+
+        print("INFO: " + "=" * 60)
+        print("INFO: RE-REVIEW TRIGGERED BY USER (dashboard button)")
+        requests.patch(
+            f"{doc_url}?updateMask.fieldPaths=status",
+            json={"fields": {"status": {"stringValue": "in_progress"}}},
+            timeout=10
+        )
+
+        by_status = {}
+        skip_done = 0
+        skip_applied = 0
+        eligible = {'yes', 'maybe', 'pending', 'error'}
+
+        if os.path.exists(JOBS_FILE):
+            with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+                jobs = json.load(f)
+            for job in jobs:
+                if job.get('user_review') == 'done':
+                    skip_done += 1
+                    continue
+                if job.get('applied') == 'yes':
+                    skip_applied += 1
+                    continue
+                s = job.get('matches_requirements', '')
+                if s in eligible:
+                    job['needs_re_review'] = True
+                    by_status[s] = by_status.get(s, 0) + 1
+            with open(JOBS_FILE, 'w', encoding='utf-8') as f:
+                json.dump(jobs, f, indent=2)
+
+        total = sum(by_status.values())
+        scope_parts = [f"{s}={n}" for s, n in sorted(by_status.items())]
+        print(f"INFO: Scope     : {' | '.join(scope_parts) if scope_parts else 'nothing to review'} → {total} job(s) queued")
+        print(f"INFO: Skipping  : user_review=done ({skip_done})  applied=yes ({skip_applied})")
+        print("INFO: " + "=" * 60)
+
+        while not stop_event.is_set():
+            with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+                jobs = json.load(f)
+            batch = [j for j in jobs if j.get('needs_re_review') == True]
+            if not batch:
+                break
+            review_pending_jobs(specific_urls={j['url'] for j in batch[:15]})
+
+        completed_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        requests.patch(
+            f"{doc_url}?updateMask.fieldPaths=status&updateMask.fieldPaths=completedAt",
+            json={"fields": {
+                "status": {"stringValue": "completed"},
+                "completedAt": {"stringValue": completed_at}
+            }},
+            timeout=10
+        )
+        print("INFO: " + "=" * 60)
+        print(f"INFO: RE-REVIEW COMPLETE at {completed_at}  ({total} job(s) reviewed)")
+        print("INFO: " + "=" * 60)
+    except Exception as e:
+        print(f"Error handling re-review request: {e}")
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # MAIN ENTRY POINT
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1873,6 +1951,11 @@ def main():
             poll_firebase_feedback()
         except Exception as e:
             print(f"Error polling firebase: {e}")
+
+        try:
+            poll_re_review_request()
+        except Exception as e:
+            print(f"Error handling re-review request: {e}")
 
         try:
             check_requirements_update()

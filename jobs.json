@@ -370,13 +370,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-mythic-4306963139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer at a semiconductor company, which does not fit our focus on technical roles.",
+    "reason": "The role is focused on RTL design for AI processors, outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "24b9bb8e",
     "source": "linkedin_asic_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Digital IC Design",
@@ -385,13 +384,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-digital-ic-design-at-marvell-technology-4423107817",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior staff engineering role at Marvell in Santa Clara, CA specifically requires 3+ years of experience, which is outside the target range of 10-15+ years for our search.",
+    "reason": "The role is primarily software development (embedded, firmware) which is outside Vineeth's domain.",
     "id": "78c6b16b",
     "source": "linkedin_asic_ww",
     "posted_date": "2026-06-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -400,13 +398,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-at-axonne-4422208332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was invalid, preventing a full review of the position.",
+    "reason": "The role is focused on ASIC design, which does not closely match Vineeth's power integrity and advanced packaging expertise.",
     "id": "d132bb79",
     "source": "linkedin_asic_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Capex & Equipment Coordination",
@@ -415,13 +412,12 @@
     "url": "https://in.linkedin.com/jobs/view/capex-equipment-coordination-at-tata-electronics-4421932695",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Capex & Equipment Coordination in manufacturing, which does not match our technical domains of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, CAD/Methodology, Physical Design, or EDA Tools.",
+    "reason": "The role is a manufacturing coordination position, not directly related to semiconductor VLSI EDA engineering.",
     "id": "8ace9a8c",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EXIM Staff",
@@ -430,13 +426,12 @@
     "url": "https://in.linkedin.com/jobs/view/exim-staff-at-larsen-toubro-4416225476",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The URL provided is invalid and could not be processed.",
+    "reason": "The role is a non-technical logistics and warehousing position, not related to semiconductor/VLSI/EDA.",
     "id": "2b0fe1eb",
     "source": "linkedin_semi_india",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Indirects Sourcing Supply Chain",
@@ -445,13 +440,12 @@
     "url": "https://in.linkedin.com/jobs/view/indirects-sourcing-supply-chain-at-tata-electronics-4419282298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for indirect sourcing and supply chain, not related to semiconductor/VLSI/EDA",
+    "reason": "Not a semiconductor/EDA/VLSI technical role, instead sourcing supply chain and vendor management for electronics manufacturing.",
     "id": "5f957986",
     "source": "linkedin_semi_india",
     "posted_date": "2023-05-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer",
@@ -460,13 +454,12 @@
     "url": "https://in.linkedin.com/jobs/view/equipment-engineer-at-tata-electronics-4399780138",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Equipment Engineer role is in Semiconductor Manufacturing, but the candidate has power integrity and advanced packaging expertise. There's a mismatch between the job requirements and Vineeth's background.",
+    "reason": "The role is primarily focused on equipment installation, maintenance and troubleshooting for a semiconductor fab, which is outside Vineeth's domain of expertise in Power Integrity, CAD tools, and physical design.",
     "id": "1d258ad6",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager",
@@ -475,13 +468,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-manager-at-tata-electronics-4423619145",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is a Senior Manager role, much more senior than what this candidate's experience and background align with.",
+    "reason": "The role is primarily supply chain/procurement focused on electronic components and EMS, which is a mismatch for Vineeth's domain of power integrity, advanced packaging, and EDA.",
     "id": "9c524094",
     "source": "linkedin_semi_india",
     "posted_date": "2026-06-11",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Jr. EXIM Staff",
@@ -490,13 +482,12 @@
     "url": "https://in.linkedin.com/jobs/view/jr-exim-staff-at-larsen-toubro-4416217553",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for ExIm documentation, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is non-technical logistics/exports, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "6bbca049",
     "source": "linkedin_semi_india",
     "posted_date": "2023-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer",
