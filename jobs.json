@@ -26205,14 +26205,13 @@
     "location": "San Jose, California, USA",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19314&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Internship at TSMC with PhD specialization required, fits domain expertise criteria for circuit design research.",
+    "matches_requirements": "no",
+    "reason": "The role is a summer/fall intern position focused on R&D and circuit design at TSMC, which doesn't match Vineeth's experience in Power Integrity, Advanced Packaging, CAD Methodology.",
     "id": "40cc3bce",
     "source": "tsmc_careers",
     "posted_date": "2026-03-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -26220,14 +26219,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSummer-Fall-2026-Circuit-Design-Research-Intern-7339%2F19314",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is an internship focused on circuit design research, which does not match the technical domains of power integrity, advanced packaging, or EDA/CAD methodology.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves circuit design research, which overlaps with VLSI/SoC Design. However, it's an internship and doesn't match Vineeth's leadership experience.",
     "id": "446fb2b0",
     "source": "tsmc_careers",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Program Manager, Silicon IP * 16577",
@@ -26235,14 +26233,13 @@
     "location": "San Diego, CA",
     "url": "https://www.linkedin.com/jobs/view/program-manager-silicon-ip-16577-at-synopsys-inc-4390358225",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a program management position, not a technical engineering leadership role which is the focus of this job search.",
+    "matches_requirements": "maybe",
+    "reason": "Senior leadership role without specific technical domain mentioned, but has strong semiconductor focus and overlap with Vineeth's skills",
     "id": "21797273",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-05-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Program Manager, Silicon IP",
@@ -26251,13 +26248,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-program-manager-silicon-ip-at-synopsys-inc-4388505751",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Program Manager at Synopsys, which does not fit the Technical Leadership roles we are searching.",
+    "reason": "The role is a senior program management position for SoC IP at Synopsys, focused on customer-facing work rather than technical leadership in areas like Power Integrity, Advanced Packaging, or CAD Methodology which are Vineeth's key strengths.",
     "id": "22c87246",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "MSIP Program Manager",
@@ -26266,13 +26262,12 @@
     "url": "https://www.linkedin.com/jobs/view/msip-program-manager-at-qualcomm-4429315578",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a Program Manager role at Qualcomm, which does not directly match the key technical domains of Power Integrity, Advanced Packaging, and VLSI/EDA tools.",
+    "reason": "The role is non-technical program management focused on IP product portfolios, outside Vineeth's domain of power integrity, packaging, and EDA tools.",
     "id": "5da86e5d",
     "source": "linkedin_semi_ww",
-    "posted_date": "N/A",
+    "posted_date": "2023-06-04",
     "deadline": "2026-06-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Specialist (Day Shift)",
@@ -26281,13 +26276,12 @@
     "url": "https://www.linkedin.com/jobs/view/production-specialist-day-shift-at-microchip-technology-inc-4414651555",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role at a semiconductor company.",
+    "reason": "This production specialist role at Microchip is an entry-level manufacturing position with no overlap to Vineeth's technical background in Power Integrity, Advanced Packaging and VLSI/EDA CAD tools.",
     "id": "a1474ff6",
     "source": "linkedin_semi_ww",
     "posted_date": "2023-06-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wafer Fab Operator (D2 Shift Only) $2,000 Sign On Bonus",
@@ -26296,13 +26290,12 @@
     "url": "https://www.linkedin.com/jobs/view/wafer-fab-operator-d2-shift-only-%242-000-sign-on-bonus-at-analog-devices-4357565261",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company",
+    "reason": "The role is a manufacturing operator position in a semiconductor wafer fab facility, which falls outside Vineeth's domain of expertise in power integrity, advanced packaging, and EDA.",
     "id": "f70b1f72",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Specialist (Night Shift)",
@@ -26311,13 +26304,12 @@
     "url": "https://www.linkedin.com/jobs/view/production-specialist-night-shift-at-microchip-technology-inc-4414654453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level manufacturing position at a semiconductor company, which does not fit our technical focus.",
+    "reason": "This is a non-technical manufacturing role at a semiconductor company, which does not match Vineeth's engineering background.",
     "id": "a7dc54e8",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CMP Equipment Maintenance Technician",
@@ -26326,13 +26318,12 @@
     "url": "https://www.linkedin.com/jobs/view/cmp-equipment-maintenance-technician-at-analog-devices-4425334404",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role as CMP Equipment Maintenance Technician, which does not match our target domain of Power Integrity/Signal Integrity, Advanced Packaging, CAD/Methodology, etc.",
+    "reason": "The role is non-technical maintenance and repair, which is outside Vineeth's domain of semiconductor/VLSI/EDA technical roles.",
     "id": "0024ac66",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Post Fab Technician Night Shift",
@@ -26341,13 +26332,12 @@
     "url": "https://www.linkedin.com/jobs/view/post-fab-technician-night-shift-at-onsemi-4409621428",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical manufacturing technician position, not related to semiconductor/VLSI/EDA engineering.",
+    "reason": "This is a semiconductor manufacturing technician role, which does not match Vineeth's background and expertise in VLSI/EDA.",
     "id": "1c41eab3",
     "source": "linkedin_semi_ww",
     "posted_date": "2026-06-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Post Fab Manufacturing Operator",
