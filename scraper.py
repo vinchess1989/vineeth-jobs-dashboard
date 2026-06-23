@@ -440,6 +440,11 @@ def parse_generic(soup, base_url):
             href_lower = href.lower()
             path_part = href_lower
 
+        # Skip documents and static HTML info pages.
+        # Real job detail URLs (Workday, Greenhouse, Lever, etc.) never end with a file extension.
+        if any(href_lower.split('?')[0].endswith(ext) for ext in ('.pdf', '.html', '.htm', '.doc', '.docx')):
+            continue
+
         # Skip search/list filter queries, sorting options, base list pages, non-job pages
         if any(skip in href_lower for skip in [
             '?search=', '?q=', '?sort=', '?query=',
@@ -1485,10 +1490,12 @@ def update_git():
             return
 
         # Add updated files
-        subprocess.run(["git", "add", "jobs.json", "seen_urls.json", "checkpoint.json", "job_descriptions", "jobs_history.json"], cwd=repo_dir, check=True, env=env)
-        # Check if there are changes to commit
-        status = subprocess.run(["git", "status", "--porcelain"], cwd=repo_dir, capture_output=True, text=True, env=env)
-        if status.stdout.strip():
+        subprocess.run(["git", "add", "jobs.json", "seen_urls.json", "checkpoint.json",
+                        "job_descriptions", "jobs_history.json", "deleted.json"], cwd=repo_dir, check=True, env=env)
+        # Only commit if something was actually staged (git diff --cached avoids false positives
+        # from unstaged working-tree changes like .firebase cache or other untracked files)
+        staged = subprocess.run(["git", "diff", "--cached", "--name-only"], cwd=repo_dir, capture_output=True, text=True, env=env)
+        if staged.stdout.strip():
             timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             commit_message = f"Auto-update scraped jobs: {timestamp}"
             subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_dir, check=True, env=env)
@@ -1767,13 +1774,14 @@ def poll_re_review_request():
     doc_url = f"{FIRESTORE_BASE}/shared_state/re_review_request"
     try:
         response = requests.get(doc_url, timeout=10)
+        if response.status_code == 404:
+            return  # document not created yet — no re-review requested
         if response.status_code != 200:
             print(f"INFO: poll_re_review: Firestore GET returned {response.status_code} — skipping.")
             return
         data = response.json()
         fields = data.get("fields", {})
         status = fields.get("status", {}).get("stringValue", "")
-        print(f"INFO: poll_re_review: status='{status}'")
         if status != "requested":
             return
 
