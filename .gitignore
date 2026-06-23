@@ -27,3 +27,7 @@ node_modules/
 
 # Scratch
 scratch/
+
+# Firebase local cache (not part of the project, changes on every deploy)
+firebase_app/.firebase/
+logs/
