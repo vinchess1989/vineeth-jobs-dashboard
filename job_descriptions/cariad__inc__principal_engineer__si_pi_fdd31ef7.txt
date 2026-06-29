@@ -1,0 +1,309 @@
+Title: Principal Engineer, SI-PI
+Company: CARIAD, Inc.
+Location: Mountain View, CA
+URL: https://www.linkedin.com/jobs/view/principal-engineer-si-pi-at-cariad-inc-4403637273
+Posted: 2023-06-20
+Deadline: Open until filled
+Reason: The role is a technical leadership position with extensive experience requirements in signal and power integrity for automotive compute platforms, matching Vineeth's background and key skills.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Principal Engineer, SI-PI
+CARIAD, Inc.  Mountain View, CA
+4 days ago   Be among the first 25 applicants
+  
+
+See who CARIAD, Inc. has hired for this role
+
+Apply 
+Save
+We are CARIAD, an automotive software development team with the Volkswagen Group. Our mission is to make the automotive experience safer, more sustainable, more comfortable, more digital, and more fun. To achieve that we are building the leading tech stack for the automotive industry and creating a unified software platform for over 10 million new vehicles per year. We’re looking for talented, digital minds like you to help us create code that moves the world. Together with you, we’ll build outstanding digital experiences and products for all Volkswagen Group brands that will transform mobility. Join us as we shape the future of the car and everyone around it.
+
+Role Summary
+
+The Principal Engineer, SI/PI (Signal Integrity / Power Integrity) is the electrical performance expert for CARIADs high-speed automotive compute platforms (infotainment, ADAS ECUs). Scope spans compute modules and carrier boards, high-speed connectors/cables, and return-path/grounding considerations from concept through EVT/DVT/PVT. This role ensures clean high-speed signaling and robust power delivery across PCB, package, and system interconnects to prevent noise, jitter, data errors, EMI failures, and system instability. The engineer influences schematic and layout decisions early, builds predictive models and simulations, and validates designs in the lab—partnering closely with SoC vendors, hardware/layout, EMC, and system validation teams to meet performance, EMC, and reliability targets.
+
+Role Responsibilities
+
+
+Own channel budgets and SI sign-off reports per interface/program (margin targets, assumptions, and waiver rationale).
+Analyze and optimize high-speed channels (PCIe, DDRx, Ethernet, MIPI/SerDes) for loss, crosstalk, reflections, jitter, and margin.
+Define routing/topology guidelines (impedance, spacing, length matching, reference planes) and review PCB layouts for compliance.
+Partner with architecture and board teams to drive interface trade-offs and risk reductions early in design.
+Signal Integrity Analysis & Design Enablement
+Define PDN target-impedance specifications and PI sign-off reports per rail/domain (including transient/noise budgets).
+Design and validate PDN across VRMs, planes, vias, and decoupling to meet target impedance and transient response goals.
+Assess rail noise, droop/spike behavior, and coupling between power domains; recommend mitigation (placement, decaps, filters, sequencing).
+Support power-up and load-step planning with system/SoC teams to ensure robust operation across use cases.
+Maintain reusable SI/PI model library and simulation-to-measurement correlation reports; publish updated design rules/guard-bands.
+Build and maintain SI/PI models (S-parameters, IBIS/IBIS-AMI, SPICE) and run what-if studies to predict risk before hardware build.
+Use EM and circuit simulation tools (HFSS/SIwave/Sigrity/ADS or equivalents) to evaluate interconnects, packages, and planes.
+Correlate simulation results to lab measurements and update models/rules to improve prediction accuracy.
+Simulation, Modeling & Correlation
+Produce lab measurement and correlation reports (eye/jitter/BER, PDN impedance/noise) and support pre-compliance EMI/EMC debug as needed.
+Perform characterization using oscilloscopes, TDR, VNA, high-speed probing, and automated margining where applicable.
+Debug electrical issues during bring-up and validation, including intermittent errors, eye closure, power noise-induced faults, and pre-compliance EMI/EMC issues.
+Document root cause, corrective actions, and verification evidence to support release readiness.
+Lab Validation, Bring-up & Debug
+Own SI/PI sign-off checklist, waiver process, and 'golden' design-rule set; drive adoption across multiple boards/programs.
+Lead design reviews and provide clear, actionable SI/PI sign-off criteria aligned with performance, EMC, and reliability targets.
+Collaborate with EMC engineers to address emissions/susceptibility drivers tied to layout, grounding, shielding, and PDN behavior.
+Mentor engineers and contribute to reusable design rules, checklists, and best-practice documentation across programs.
+Cross-Functional Leadership & Standards
+
+
+General Skills
+
+
+Technical leadership and systems-level thinking; able to influence design decisions across teams without direct authority.
+Strong analytical and structured problem-solving skills; ability to diagnose complex electrical issues and drive closure.
+Excellent communication skills (written, verbal, presentation) with ability to translate SI/PI findings into actionable design guidance.
+Collaboration across global, cross-functional teams and suppliers; comfortable working across time zones.
+High attention to detail and quality mindset; able to balance technical trade-offs across performance, cost, schedule, and manufacturability.
+
+
+Required Specialized Skills
+
+
+Deep experience with high-speed interfaces (e.g., PCIe, DDRx, Automotive Ethernet, MIPI/SerDes) and associated channel/receiver requirements.
+Expertise in PCB stack-up, controlled-impedance routing, return-path design, via/connector modeling, and crosstalk/reflection mitigation.
+Power delivery network (PDN) design and analysis including target impedance, decoupling strategy, VRM selection, and noise/droop control.
+Hands-on simulation/modeling using SI/PI tools (e.g., Cadence Sigrity/SIwave, Keysight ADS, Ansys HFSS) and model types (S-parameters, IBIS-AMI, SPICE).
+Lab proficiency with high-bandwidth oscilloscopes, TDR, VNA, probes/fixtures, and correlation of measurement to simulation.
+Working knowledge of EMC/EMI principles as they relate to high-speed signaling, grounding, shielding, and power integrity in automotive ECUs.
+
+
+Desired Skills
+
+
+Experience bringing high-speed compute boards/ECUs through EVT/DVT/PVT and into production, including design rule governance and supplier reviews.
+Experience with advanced packaging or module integration (SoC package escape, connector/cable assemblies, harness considerations).
+Familiarity with automotive development and compliance constraints (e.g., EMC test cycles, reliability validation, AEC-Q component considerations).
+Experience working with SoC vendors (e.g., Qualcomm, NVIDIA) on interface tuning, margining, and bring-up debug.
+Background with scripting/automation for data analysis (Python, MATLAB) and reporting of SI/PI metrics.
+
+
+Workplace Flexibility
+
+
+Hybrid work arrangement; on-site lab work required for bring-up, validation, and debug activities.
+Occasional domestic and international travel (up to ~15%) to support supplier/SoC partner engagements, build events, and test labs as needed.
+Meetings overlapping with European business hours as required for global coordination.
+
+
+Years Of Relevant Experience
+
+12+ years of relevant experience in signal integrity/power integrity for high-speed digital systems (automotive, consumer electronics, or compute platforms).
+
+Required Education
+
+Bachelor’s degree in Electrical Engineering, Computer Engineering, Physics, or related field (or equivalent practical experience).
+
+Desired Education
+
+Master’s degree or PhD in Electrical Engineering or a related discipline.
+
+Compensation
+
+Salary range is dependent on factors such as geographical differentials, credentials or certifications, industry-based experience, qualification and training. In the city of Mountain View, CA, the salary range for this position is $200,510.00 - $291,217.00.
+
+CARIAD, Inc. provides performance based merits and annual bonus along with a competitive benefits package. Benefits include medical, dental, vision, 401k with employer match and defined contribution plan, short and long term disability, basic life and AD&D insurance, employee assistance program, tuition reimbursement and student loan repayment plans, maternity and non-primary caregiver leave, adoption assistance, employee referral program and vacation and paid holidays. We also offer a unique vehicle lease program that covers registration and insurance fees.
+
+CARIAD is an Equal Opportunity Employer.  We welcome and encourage applicants from all backgrounds, and do not discriminate based on race, sex, age, disability, sexual orientation, national origin, religion, color, gender identity/expression, marital status, veteran status, or any other characteristics protected by applicable laws.
+
+Employment with Cariad Inc. is contingent upon the successful completion of this screening process. We emphasize the importance of compliance with export control and sanctions laws as a fundamental aspect of our operations. Our company is dedicated to adhering to these regulations to ensure the lawful and ethical conduct of our business activities. Employment with our company is contingent on either verifying U.S. citizenship or U.S. lawful permanent resident status or obtaining any necessary license or confirming the availability of an applicable exemption or license exception. You, the applicant, will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. Cariad Inc. may choose not to apply for a license or use an applicable license exception (if available) for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.
+
+By submitting your application, you acknowledge and agree to participate in the export control and sanctions compliance screening process. Your cooperation in this matter is essential to our shared success and the integrity of our operations. Thank you for your understanding and commitment to upholding these important standards.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at CARIAD, Inc. by 2x
+
+See who you know
+
+Get notified about new Principal Engineer jobs in Mountain View, CA.
+
+Sign in to create job alert
+Similar jobs
+Principal Signal and Power Integrity Engineer
+Principal Signal and Power Integrity Engineer
+Astera Labs
+San Jose, CA
+1 week ago
+Signal and Power Integrity Engineer
+Signal and Power Integrity Engineer
+Delos Data
+Palo Alto, CA
+2 weeks ago
+Signal Integrity / Power Integrity Engineer - Wearables
+Signal Integrity / Power Integrity Engineer - Wearables
+Meta
+Sunnyvale, CA
+$173,000 - $245,000
+2 weeks ago
+Senior Principal Engineer - Signal Integrity
+Senior Principal Engineer - Signal Integrity
+Celestica
+San Jose, CA
+7 hours ago
+Senior Signal and Power Integrity Engineer
+Senior Signal and Power Integrity Engineer
+NVIDIA
+Santa Clara, CA
+2 weeks ago
+Signal Integrity/Power Integrity Principal Engineer
+Signal Integrity/Power Integrity Principal Engineer
+Marvell Technology
+Santa Clara, CA
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Principle Hardware Design Engineer - Systems Engineering
+Principle Hardware Design Engineer - Systems Engineering
+
+MDAEdge
+
+Santa Clara, CA
+$170,000 - $225,000
+4 weeks ago
+Senior Technical Staff-Design (Signal and Power Integrity)
+Senior Technical Staff-Design (Signal and Power Integrity)
+
+Microchip Technology Inc.
+
+San Jose, CA
+2 weeks ago
+Sr. Signal and Power Integrity Engineer, Satellites (Starlink)
+Sr. Signal and Power Integrity Engineer, Satellites (Starlink)
+
+SpaceX
+
+Sunnyvale, CA
+1 week ago
+Senior Signal Integrity Engineer, Platform
+Senior Signal Integrity Engineer, Platform
+
+Google
+
+Sunnyvale, CA
+2 weeks ago
+Signal Integrity Engineer - MTS
+Signal Integrity Engineer - MTS
+
+Micron Technology
+
+San Jose, CA
+2 weeks ago
+Signal Integrity Design Engineer
+Signal Integrity Design Engineer
+
+Nokia
+
+Sunnyvale, CA
+1 week ago
+High Speed SR Signal and Power Integrity Engineer
+High Speed SR Signal and Power Integrity Engineer
+
+AMD
+
+Santa Clara, CA
+$189,600 - $284,400
+1 week ago
+Sr. Signal Integrity Engineer – High-Speed Digital / RF
+Sr. Signal Integrity Engineer – High-Speed Digital / RF
+
+Blue Origin
+
+San Francisco Bay Area
+2 weeks ago
+Staff Engineer Verification
+Staff Engineer Verification
+
+Infineon Technologies
+
+San Jose, CA
+1 day ago
+Hardware Applications Principal Engineer
+Hardware Applications Principal Engineer
+
+MDAEdge
+
+Santa Clara, CA
+$137,510 - $206,000
+4 weeks ago
+Similar Searches
+Principal Civil Engineer jobs
+12,394 open jobs
+Principal Infrastructure Engineer jobs
+7,502 open jobs
+Principal Software Engineer jobs
+73,845 open jobs
+Principal Structural Engineer jobs
+3,980 open jobs
+Distinguished Engineer jobs
+1,216 open jobs
+Senior Principal Engineer jobs
+62,506 open jobs
+Senior Staff Engineer jobs
+45,658 open jobs
+Principal Research Engineer jobs
+1,425 open jobs
+Senior Principal Software Engineer jobs
+54,974 open jobs
+Senior Staff Software Engineer jobs
+54,422 open jobs
+Principal Design Engineer jobs
+3,528 open jobs
+Principal Mechanical Engineer jobs
+5,071 open jobs
+Show more 
+Explore top content on LinkedIn
+
+Find curated posts and insights for relevant topics all in one place.
+
+View top content
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at CARIAD, Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

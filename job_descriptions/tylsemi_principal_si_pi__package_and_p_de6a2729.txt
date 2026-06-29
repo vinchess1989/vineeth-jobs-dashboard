@@ -1,0 +1,348 @@
+Title: Principal SI/PI, Package and Power Delivery Engineer
+Company: TYLsemi
+Location: Bengaluru East, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/principal-si-pi-package-and-power-delivery-engineer-at-tylsemi-4432221646
+Posted: 2023-06-12
+Deadline: Open until filled
+Reason: Matches leadership role with strong PI/PD expertise, located in India
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Principal SI/PI, Package and Power Delivery Engineer
+TYLsemi  Bengaluru East, Karnataka, India
+2 days ago   Be among the first 25 applicants
+  
+
+See who TYLsemi has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Role Overview
+
+As an SI/PI, Package and Power Delivery Engineer at Tylsemi, you will own signal integrity, power integrity, and package/PDN co-design across chip, package, and board interfaces. You will work closely with SoC, physical design, analog, package, board, and validation teams to ensure robust high-speed links, stable power delivery, and predictable signoff from early architecture through tapeout and bring-up. This role is ideal for engineers who enjoy cross-domain problem solving and turning complex electrical constraints into clean, manufacturable solutions.
+
+What You’ll Do
+
+
+Drive SI/PI methodology and execution from early planning through signoff for high-speed interfaces and power delivery networks
+Perform package/board/chip co-design: define stackups, routing constraints, via strategies, reference planes, and return-path integrity
+Model and analyze high-speed channels (e.g., SerDes, DDR, PCIe, USB, Ethernet) including insertion/return loss, crosstalk, jitter, eye margins, and equalization tradeoffs
+Build and validate electrical models (IBIS/IBIS-AMI, S-parameters, SPICE) and ensure model correlation and version control hygiene
+Own PDN design and analysis across die/package/board: impedance targets, decap strategy, anti-resonance mitigation, and rail stability
+Run PI signoff including DC/AC IR drop, EM, dynamic droop/noise, and power/ground bounce; drive fixes with clear, reviewable action plans
+Partner with physical design and signoff teams on power grid architecture, bump/ball planning, current density limits, and rail partitioning
+Collaborate with package engineering on substrate routing, escape, ballout, and manufacturability constraints; review and approve package design deliverables
+Define and enforce design rules/constraints for routing, spacing, shielding, length matching, and reference plane transitions
+Support lab bring-up and correlation: translate silicon/package/board measurements into model updates and design improvements
+Create and maintain automation, checks, and reporting (Python/Tcl or equivalent) to improve predictability, repeatability, and execution speed
+Contribute to tapeout readiness: documentation, checklists, design reviews, and root-cause analysis to prevent recurrence
+
+
+What We’re Looking For
+
+
+10+ years of hands-on experience delivering SI/PI and package/PDN solutions for complex SoCs (scope aligned to level of experience)
+Strong fundamentals in transmission lines, S-parameters, impedance, return paths, coupling/crosstalk, and power delivery behavior across frequency
+Ability to translate system requirements into actionable constraints and to drive closure across multiple teams and design stages
+Methodical debug skills: clear problem statements, data-driven root cause, and practical mitigation plans
+Strong communication and engineering hygiene: reproducible analyses, clean documentation, and review-friendly deliverables
+
+
+Required Skills
+
+
+Signal Integrity (SI) analysis for high-speed interfaces
+Power Integrity (PI) / PDN design and analysis (chip-package-board)
+Package and power delivery co-design (substrate/ballout/bumps, stackup and routing constraints)
+Electrical modeling (S-parameters, SPICE, IBIS/IBIS-AMI) and correlation mindset
+Cross-functional execution with SoC/PD/analog/package/board/validation teams
+
+
+Nice to Have
+
+
+Experience with industry tools for SI/PI and package analysis (e.g., HFSS, SIwave, ADS, HSPICE/Spectre, PowerSI, Clarity, Ansys RedHawk/Voltus or equivalents)
+DDR/LPDDR and SerDes compliance experience (channel budgets, jitter/noise decomposition, margining)
+Advanced packaging exposure (2.5D/3D, interposers, chiplets, HBM, CoWoS/EMIB-like concepts) and related SI/PI challenges
+Thermal-awareness in PDN/package decisions and collaboration with thermal/mechanical teams
+Experience defining signoff criteria, templates, and reusable flows across programs
+
+
+Success in This Role Looks Like
+
+
+Predictable SI/PI closure with clear milestones, risk tracking, and minimal late-stage surprises
+Robust package/PDN solutions that meet impedance/noise/jitter targets and scale cleanly to production
+Fast, high-quality debug and mitigation of SI/PI issues with strong cross-team alignment
+Well-documented, reproducible analyses and signoff artifacts that improve team velocity and tapeout readiness
+
+
+About TYLsemi, Inc.
+
+The Opportunity
+
+The AI infrastructure market is exploding. Every hyperscaler, every cloud provider, every AI company is building custom silicon. But they all face the same problem: how do you connect hundreds of chips, deliver clean power at scale, and move terabits of data without melting the package?
+
+That's what we solve. TYLsemi builds the chiplet infrastructure IP — the IO, power delivery, and interconnect building blocks — that makes AI/HPC systems actually work at scale.
+
+This isn't a nice-to-have. It's the critical path.
+
+Why Now
+
+The Market Window
+
+The semiconductor industry is going through its biggest architectural shift in 40 years:
+
+
+Moore's Law is dead. 2nm and beyond delivers marginal performance gains. The future is chiplets, not monolithic dies.
+Custom silicon is now mainstream. Google, Microsoft, Amazon, Meta, OpenAI — they're all designing their own ASICs. The $50B custom silicon market is growing 30% annually.
+IO and power are the bottleneck. Solve hard problems and provide something which is a category in itself.
+
+
+Translation: We're entering the market at exactly the moment when every major AI/HPC player needs what we're building, and their alternatives are disappearing.
+
+Culture & Team: How We Work
+
+No Politics, No Bureaucracy
+
+There are no layers, no approval chains, no corporate theater.
+
+
+If you have an idea, we test it. If it works, we ship it.
+No endless meetings, no PowerPoint presentations to convince middle management.
+
+
+Remote-Friendly, Global Team
+
+
+US team: Bay Area preferred, but we hire the best people regardless of location
+India team: Building a world-class design center in Bangalore
+
+
+Move Fast, Ship Real Products
+
+We're not a research project. We have paying customers, committed capital, and aggressive timelines.
+
+This is a company, not a lifestyle business. We're building to win.
+
+What We Value
+
+
+Ownership mindset. You're not here to execute someone else's roadmap. You're here to define it.
+Bias for action. We move fast. Analysis paralysis doesn't fly here.
+Deep technical expertise. This is hard engineering. We need people who've shipped real silicon and debugged real hardware.
+Low ego, high standards. We don't care about titles or politics. We care about results.
+
+
+The Ask
+
+If you're reading this, you're probably comfortable. You have a good job at a stable company with all the benefits.
+
+We're asking you to walk away from that and bet on us.
+
+Here's Why You Should
+
+
+The market is real. AI infrastructure spending is $200B+ annually and growing 40% YoY. Every hyperscaler needs what we're building.
+The team has done this before. We've built and exited semiconductor companies at scale. This isn't our first rodeo.
+The traction is de-risked. We have LOIs, strategic investors, and a clear path to revenue.
+The work is consequential. You're not optimizing someone's ad click-through rate. You're building the silicon infrastructure that powers AI.
+
+
+This is the bet. Join us and build something that matters.
+
+Or stay comfortable. No judgment.
+
+But if you're the kind of person who wants to take the shot, we'd love to talk.
+
+READY TO JOIN?
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Design, Art/Creative, and Information Technology
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at TYLsemi by 2x
+
+See who you know
+
+Get notified about new Package Engineer jobs in Bengaluru East, Karnataka, India.
+
+Sign in to create job alert
+Similar jobs
+Hardware SI/PI Engineering Senior Technical Leader | SI/PI, PCB, Package, VNA, TDR, HFSS, ADS, Allegro, PAM4 SERDES | 12+ years, Bangalore
+Hardware SI/PI Engineering Senior Technical Leader | SI/PI, PCB, Package, VNA, TDR, HFSS, ADS, Allegro, PAM4 SERDES | 12+ years, Bangalore
+Cisco
+Bengaluru, Karnataka, India
+1 day ago
+SI/PI Technical Leader
+SI/PI Technical Leader
+Cisco
+Bengaluru, Karnataka, India
+2 weeks ago
+Principal Signal & Power Integrity Engineer
+Principal Signal & Power Integrity Engineer
+MaxLinear
+Bengaluru, Karnataka, India
+1 year ago
+Principal Signal Power Integrity /HW Design Architect
+Principal Signal Power Integrity /HW Design Architect
+MaxLinear
+Bengaluru, Karnataka, India
+4 months ago
+Package Development, Signal Integrity and Power Integrity Staff to Senior Staff Engineer
+Package Development, Signal Integrity and Power Integrity Staff to Senior Staff Engineer
+Marvell Technology
+Bengaluru, Karnataka, India
+1 week ago
+Senior/ Staff Signal and Power Integrity Engineer
+Senior/ Staff Signal and Power Integrity Engineer
+Renesas Electronics
+Bengaluru, Karnataka, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior ASIC Engineer, Power Integrity
+Senior ASIC Engineer, Power Integrity
+
+NVIDIA
+
+Bengaluru, Karnataka, India
+2 weeks ago
+MTS- Electrical Engineer- E4
+MTS- Electrical Engineer- E4
+
+Applied Materials India
+
+Bengaluru, Karnataka, India
+2 days ago
+MTS-Signal/Power Integrity Engineer
+MTS-Signal/Power Integrity Engineer
+
+Tsavorite Scalable Intelligence
+
+Greater Bengaluru Area
+5 hours ago
+Package Design Senior Staff Engineer
+Package Design Senior Staff Engineer
+
+Marvell Technology
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Sr Staff Hardware Engineer
+Sr Staff Hardware Engineer
+
+Renesas Electronics
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior Lead Engineer - System Hardware - 8-15 Years
+Senior Lead Engineer - System Hardware - 8-15 Years
+
+MosChip®
+
+Bengaluru, Karnataka, India
+1 month ago
+Hardware Engineering Technical Leader
+Hardware Engineering Technical Leader
+
+Cisco
+
+Bengaluru, Karnataka, India
+2 weeks ago
+ASIC - Signal and Power Integrity Technical Leader - 10 to 16 Years - Bangalore/Chennai
+ASIC - Signal and Power Integrity Technical Leader - 10 to 16 Years - Bangalore/Chennai
+
+Cisco
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Signal and Power Integrity Enginee
+Senior Signal and Power Integrity Enginee
+
+Cisco
+
+Bengaluru, Karnataka, India
+2 days ago
+Hardware Engineer - IC Package design team leader (12+ years)
+Hardware Engineer - IC Package design team leader (12+ years)
+
+Cisco
+
+Bengaluru, Karnataka, India
+1 day ago
+Similar Searches
+Mechanical Piping Engineer jobs
+93 open jobs
+Studio Engineer jobs
+1,030 open jobs
+Packaging Engineer jobs
+336 open jobs
+Principal Design Engineer jobs
+535 open jobs
+Piping Design Engineer jobs
+955 open jobs
+Lead Mechanical Engineer jobs
+1,540 open jobs
+Lead Electrical Engineer jobs
+2,022 open jobs
+Piping Engineer jobs
+2,897 open jobs
+Principal Mechanical Engineer jobs
+266 open jobs
+Project Development Officer jobs
+13 open jobs
+Equipment Engineer jobs
+3,198 open jobs
+Analysis Engineer jobs
+1,641 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at TYLsemi
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
