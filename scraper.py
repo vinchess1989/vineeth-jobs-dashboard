@@ -1511,29 +1511,38 @@ def update_git():
             except OSError:
                 pass
 
+        # Common kwargs: capture output to prevent pipe deadlocks when run via orchestrator,
+        # and close stdin so git never blocks waiting for input.
+        git_kw = dict(cwd=repo_dir, env=env, capture_output=True, text=True,
+                      stdin=subprocess.DEVNULL)
+
         # Add updated files
         subprocess.run(["git", "add", "jobs.json", "seen_urls.json", "checkpoint.json",
-                        "job_descriptions", "jobs_history.json", "deleted.json"], cwd=repo_dir, check=True, env=env, timeout=120)
+                        "job_descriptions", "jobs_history.json", "deleted.json"],
+                       check=True, timeout=120, **git_kw)
         # Only commit if something was actually staged (git diff --cached avoids false positives
         # from unstaged working-tree changes like .firebase cache or other untracked files)
-        staged = subprocess.run(["git", "diff", "--cached", "--name-only"], cwd=repo_dir, capture_output=True, text=True, env=env, timeout=30)
+        staged = subprocess.run(["git", "diff", "--cached", "--name-only"],
+                                timeout=30, **git_kw)
         if staged.stdout.strip():
             timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             commit_message = f"Auto-update scraped jobs: {timestamp}"
-            subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_dir, check=True, env=env, timeout=60)
+            subprocess.run(["git", "commit", "-m", commit_message],
+                           check=True, timeout=60, **git_kw)
 
             # Check for GitHub token in environment variables
             push_cmd = ["git", "push"]
             github_token = os.environ.get("GITHUB_TOKEN")
             if github_token:
-                remote_result = subprocess.run(["git", "config", "--get", "remote.origin.url"], cwd=repo_dir, capture_output=True, text=True, timeout=15)
+                remote_result = subprocess.run(["git", "config", "--get", "remote.origin.url"],
+                                               timeout=15, **git_kw)
                 remote_url = remote_result.stdout.strip()
                 if remote_url.startswith("https://"):
                     auth_url = remote_url.replace("https://", f"https://{github_token}@")
                     push_cmd = ["git", "push", auth_url]
 
             try:
-                subprocess.run(push_cmd, cwd=repo_dir, check=True, env=env, timeout=120)
+                subprocess.run(push_cmd, check=True, timeout=120, **git_kw)
                 print("Successfully pushed updates to GitHub!")
             except subprocess.CalledProcessError:
                 print("Failed to push to GitHub (Check your GITHUB_TOKEN or internet connection).")
