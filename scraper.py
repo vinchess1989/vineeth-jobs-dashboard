@@ -94,8 +94,7 @@ def _checkpoint_reached_end() -> bool:
 # BLOCKED KEYWORDS — jobs with these keywords in the title are auto-deleted
 # ─────────────────────────────────────────────────────────────────────────────
 BLOCKED_TITLE_KEYWORDS = [
-    # C-suite / pure-executive (non-technical)
-    'director', 'vice president', 'cto', 'ceo', 'cfo',
+    # C-suite / pure-executive (non-technical) - Removed per user request
     # Non-technical: HR & Recruiting
     'talent acquisition', 'recruiter', 'human resources',
     # Non-technical: Finance
@@ -127,6 +126,18 @@ _KEYWORD_TERMS = [
     {"en": "advanced packaging"},
     {"en": "physical design"},
     {"en": "SoC design"},
+    {"en": "PDN"},
+    {"en": "PI"},
+    {"en": "EMIR"},
+    {"en": "IR Drop"},
+    {"en": "System power integrity"},
+    {"en": "SI/PI"},
+    {"en": "Thermal"},
+    {"en": "semiconductor director"},
+    {"en": "semiconductor CTO"},
+    {"en": "semiconductor technical leader"},
+    {"en": "semiconductor principal engineer"},
+    {"en": "semiconductor architect"},
 ]
 
 # ── Sites that accept a keyword injected into the URL ─────────────────────
@@ -442,7 +453,8 @@ def parse_generic(soup, base_url):
 
         # Skip documents and static HTML info pages.
         # Real job detail URLs (Workday, Greenhouse, Lever, etc.) never end with a file extension.
-        if any(href_lower.split('?')[0].endswith(ext) for ext in ('.pdf', '.html', '.htm', '.doc', '.docx')):
+        path_only = href_lower.split('?')[0].split('#')[0]
+        if any(path_only.endswith(ext) for ext in ('.pdf', '.html', '.htm', '.doc', '.docx')):
             continue
 
         # Skip search/list filter queries, sorting options, base list pages, non-job pages
@@ -1450,6 +1462,7 @@ Do not include any conversational intro/outro or explanations outside the JSON o
                 job['posted_date'] = "N/A"
                 job['deadline'] = "N/A"
                 job['description_file'] = None
+                job.pop('needs_re_review', None)
 
             # Save aggressively after each evaluation
             with open(JOBS_FILE, 'w', encoding='utf-8') as f:
@@ -1489,35 +1502,44 @@ def update_git():
             print("INFO: Directory is not a Git repository. Skipping Git update.")
             return
 
+        # Remove stale index.lock if present (can occur after a timeout or crash)
+        lock_file = os.path.join(repo_dir, ".git", "index.lock")
+        if os.path.exists(lock_file):
+            try:
+                os.remove(lock_file)
+                print("INFO: Removed stale .git/index.lock")
+            except OSError:
+                pass
+
         # Add updated files
         subprocess.run(["git", "add", "jobs.json", "seen_urls.json", "checkpoint.json",
-                        "job_descriptions", "jobs_history.json", "deleted.json"], cwd=repo_dir, check=True, env=env)
+                        "job_descriptions", "jobs_history.json", "deleted.json"], cwd=repo_dir, check=True, env=env, timeout=120)
         # Only commit if something was actually staged (git diff --cached avoids false positives
         # from unstaged working-tree changes like .firebase cache or other untracked files)
-        staged = subprocess.run(["git", "diff", "--cached", "--name-only"], cwd=repo_dir, capture_output=True, text=True, env=env)
+        staged = subprocess.run(["git", "diff", "--cached", "--name-only"], cwd=repo_dir, capture_output=True, text=True, env=env, timeout=30)
         if staged.stdout.strip():
             timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             commit_message = f"Auto-update scraped jobs: {timestamp}"
-            subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_dir, check=True, env=env)
+            subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_dir, check=True, env=env, timeout=60)
 
             # Check for GitHub token in environment variables
             push_cmd = ["git", "push"]
             github_token = os.environ.get("GITHUB_TOKEN")
             if github_token:
-                remote_result = subprocess.run(["git", "config", "--get", "remote.origin.url"], cwd=repo_dir, capture_output=True, text=True)
+                remote_result = subprocess.run(["git", "config", "--get", "remote.origin.url"], cwd=repo_dir, capture_output=True, text=True, timeout=15)
                 remote_url = remote_result.stdout.strip()
                 if remote_url.startswith("https://"):
                     auth_url = remote_url.replace("https://", f"https://{github_token}@")
                     push_cmd = ["git", "push", auth_url]
 
             try:
-                subprocess.run(push_cmd, cwd=repo_dir, check=True, env=env)
+                subprocess.run(push_cmd, cwd=repo_dir, check=True, env=env, timeout=120)
                 print("Successfully pushed updates to GitHub!")
             except subprocess.CalledProcessError:
                 print("Failed to push to GitHub (Check your GITHUB_TOKEN or internet connection).")
         else:
             print("No changes to commit. GitHub is already up to date.")
-    except subprocess.CalledProcessError as e:
+    except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
         print(f"Failed to update Git: {e}")
 
 
@@ -2047,7 +2069,7 @@ def main():
 
         # Determine wait time
         wait_time = 5
-        if not new_jobs:
+        if not new_jobs and len(pending_jobs) <= 15:
             wait_time = 600
             print(f"\nINFO: No new unseen jobs found in this iteration. Increasing wait time to {wait_time} seconds (10 mins).")
 
