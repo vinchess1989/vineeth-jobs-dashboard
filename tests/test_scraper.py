@@ -188,9 +188,9 @@ class TestCheckRequirementsUpdate:
 # ---------------------------------------------------------------------------
 
 class TestCleanBlockedJobs:
-    def test_director_title_moved_to_deleted(self, tmp_path):
+    def test_blocked_title_moved_to_deleted(self, tmp_path):
         jobs = [
-            {"url": "https://example.com/1", "title": "Director of VLSI Design",
+            {"url": "https://example.com/1", "title": "Talent Acquisition Manager",
              "matches_requirements": "yes", "user_review": "pending", "deadline": "N/A"},
             {"url": "https://example.com/2", "title": "ASIC Engineer",
              "matches_requirements": "yes", "user_review": "pending", "deadline": "N/A"},
@@ -212,7 +212,7 @@ class TestCleanBlockedJobs:
         assert len(remaining) == 1
         assert remaining[0]["title"] == "ASIC Engineer"
         assert len(deleted) == 1
-        assert "director" in deleted[0]["deletion_reason"].lower()
+        assert "talent acquisition" in deleted[0]["deletion_reason"].lower()
 
     def test_done_jobs_not_deleted_for_expired_deadline(self, tmp_path):
         jobs = [
