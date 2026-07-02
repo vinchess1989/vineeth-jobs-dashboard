@@ -1344,7 +1344,7 @@ URL: {job['url']}
 Return a JSON object with exactly six keys:
 - "match": a string, either "yes", "maybe", or "no".
 - "reason": a short 1-sentence explanation of your decision.
-- "posted_date": a string, the date the job was posted formatted strictly as YYYY-MM-DD (e.g. '2026-06-12'). If a relative date like '3 days ago' is mentioned, calculate it relative to today's date ({today_str}). If not found, return 'N/A'.
+- "posted_date": a string, the exact date string as it appears in the text (e.g. '3 weeks ago', '12.6.2026', '2026-06-12'). Do NOT calculate relative dates yourself; simply return the raw string. If not found, return 'N/A'.
 - "deadline": a string, the deadline for applying formatted strictly as YYYY-MM-DD (e.g. '2026-06-30'). If it is open-ended or 'open until filled', return 'Open until filled'. If not found, return 'N/A'.
 - "company": a string, the name of the hiring company as stated in the job posting (e.g. 'Intel' or 'N/A' if not found). Do NOT use the job board name (e.g. do NOT return 'Indeed' or 'LinkedIn' or 'Naukri').
 - "location": a string, the city and country of the job. For Indian cities, use the format 'City, India' (e.g. 'Bengaluru, India'). For the Delhi-NCR metro area (Noida, Gurgaon, Greater Noida), return 'Delhi NCR, India'. For US cities, include the state (e.g. 'San Jose, CA, USA'). Return 'N/A' only if truly unknown. If fully remote worldwide, return 'Remote (Worldwide)'.
