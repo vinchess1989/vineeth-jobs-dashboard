@@ -567,8 +567,13 @@ def clean_old_backups(backup_dir):
         print(f"INFO: Cleaned up {deleted_count} old backups (kept {len(keepers)}).")
 
 
-def save_history_snapshot(jobs):
-    """Append a count snapshot to jobs_history.json for trend tracking."""
+def save_history_snapshot(jobs, added=0, deleted=0):
+    """Append a count snapshot to jobs_history.json for trend tracking.
+
+    added/deleted capture this run's gross churn (new jobs discovered vs. jobs
+    removed by clean_blocked_jobs) so the dashboard can chart them as separate
+    bars instead of only the net total delta.
+    """
     snapshot = {
         "timestamp": datetime.now().isoformat(timespec='seconds'),
         "total": len(jobs),
@@ -577,6 +582,8 @@ def save_history_snapshot(jobs):
         "maybe": sum(1 for j in jobs if j.get('matches_requirements') == 'maybe'),
         "pending": sum(1 for j in jobs if j.get('matches_requirements') == 'pending'),
         "applied": sum(1 for j in jobs if j.get('applied') == 'yes'),
+        "added": added,
+        "deleted": deleted,
     }
     history = []
     if os.path.exists(HISTORY_FILE):
@@ -627,14 +634,14 @@ def generate_history_from_backups():
 def clean_blocked_jobs():
     """Finds and moves hard-rejected jobs from jobs.json to deleted.json based on job_requirements.md criteria."""
     if not os.path.exists(JOBS_FILE):
-        return
+        return 0
 
     try:
         with open(JOBS_FILE, 'r', encoding='utf-8') as f:
             jobs = json.load(f)
     except Exception as e:
         print(f"Error reading {JOBS_FILE} during cleanup: {e}")
-        return
+        return 0
 
     deleted_jobs = []
     if os.path.exists(DELETED_FILE):
@@ -710,6 +717,8 @@ def clean_blocked_jobs():
                 json.dump(deleted_jobs, f, indent=2)
         except Exception as e:
             print(f"Error saving files during cleanup: {e}")
+
+    return moved_count
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -837,7 +846,7 @@ def scrape_all_jobs(max_jobs=200):
     print(f"Backup saved to: {backup_file}\n")
 
     # Append to history for trend chart
-    save_history_snapshot(combined_jobs)
+    save_history_snapshot(combined_jobs, added=len(deduped_new))
 
     # Run smart cleanup
     clean_old_backups(backup_dir)
@@ -2021,7 +2030,10 @@ def main():
                 print(f"An error occurred during reviewing: {e}")
 
             try:
-                clean_blocked_jobs()
+                moved_count = clean_blocked_jobs()
+                with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+                    latest_jobs = json.load(f)
+                save_history_snapshot(latest_jobs, deleted=moved_count)
                 update_git()
             except Exception as e:
                 print(f"An error occurred during Git update: {e}")
@@ -2069,7 +2081,10 @@ def main():
             print("INFO: No jobs found to review in this iteration.")
 
         try:
-            clean_blocked_jobs()
+            moved_count = clean_blocked_jobs()
+            with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+                latest_jobs = json.load(f)
+            save_history_snapshot(latest_jobs, deleted=moved_count)
             update_git()
         except Exception as e:
             print(f"An error occurred during Git update: {e}")
