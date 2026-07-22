@@ -4064,5 +4064,27 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-22T21:28:10",
+    "total": 6365,
+    "yes": 436,
+    "no": 5461,
+    "maybe": 234,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-22T21:32:20",
+    "total": 6364,
+    "yes": 437,
+    "no": 5471,
+    "maybe": 234,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 1
   }
 ]
