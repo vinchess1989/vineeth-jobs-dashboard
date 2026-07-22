@@ -578,43 +578,55 @@
     "company": "Hermes Semiconductors",
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-hermes-semiconductors-4442644338",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "d0aaa3ab",
-    "source": "linkedin_india_vlsi_design_p2"
+    "source": "linkedin_india_vlsi_design_p2",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer/SoC Designer",
     "company": "Antmicro",
     "location": "Gdansk Metropolitan Area",
     "url": "https://pl.linkedin.com/jobs/view/asic-design-engineer-soc-designer-at-antmicro-4072308021",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This ASIC Design Engineer role is for digital logic/RTL design and SoC architecture, which falls outside Vineeth's core domain of Power Integrity (PI) and Advanced Packaging.",
     "id": "b6dc8409",
-    "source": "linkedin_eu_vlsi_design"
+    "source": "linkedin_eu_vlsi_design",
+    "posted_date": "2026-07-02",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Silicon Design Engineer",
     "company": "AMD",
     "location": "Ia\u015fi, Ia\u015fi, Romania",
     "url": "https://ro.linkedin.com/jobs/view/silicon-design-engineer-at-amd-4441012202",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Role is primarily RTL design and verification rather than power integrity, packaging, or physical design",
     "id": "550fa376",
-    "source": "linkedin_eu_vlsi_design"
+    "source": "linkedin_eu_vlsi_design",
+    "posted_date": "2026-07-22",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Mixed-Signal Digital Design Engineer\u202f- Cork, Ireland",
     "company": "Qualcomm",
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/mixed-signal-digital-design-engineer%E2%80%AF-cork-ireland-at-qualcomm-4428704489",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "755ceed9",
-    "source": "linkedin_eu_vlsi_design"
+    "source": "linkedin_eu_vlsi_design",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
