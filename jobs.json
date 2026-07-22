@@ -1656,10 +1656,13 @@
     "company": "Lockheed Martin",
     "location": "Littleton, CO",
     "url": "https://www.linkedin.com/jobs/view/circuit-design-engineer-iv-avionics-secret-clearance-at-lockheed-martin-4443010046",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Requires US security clearance, which restricts to specific citizens only.",
     "id": "9d64e358",
-    "source": "linkedin_ww_asic_design"
+    "source": "linkedin_ww_asic_design",
+    "posted_date": "2026-07-21",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
