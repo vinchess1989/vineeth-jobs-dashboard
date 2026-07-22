@@ -3253,11 +3253,11 @@
     "location": "Indianapolis, IN",
     "url": "https://www.linkedin.com/jobs/view/principal-engineer-fpga-asic-design-at-rolls-royce-4443500313",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: Expecting value: line 5 column 15 (char 216)",
+    "matches_requirements": "no",
+    "reason": "The role explicitly requires U.S. Citizenship, which excludes Vineeth.",
     "id": "262724e0",
     "source": "linkedin_ww_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "21 jul 2026; 00:07",
     "deadline": "N/A",
     "description_file": null
   },
@@ -3268,11 +3268,11 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-prototyping-and-emulation-engineer-at-nvidia-4435010104",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on FPGA prototyping and emulation, which does not align with Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on FPGA design and prototyping, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "4abef51e",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-09",
-    "deadline": "Open until filled",
+    "deadline": "N/A",
     "description_file": null
   }
 ]
