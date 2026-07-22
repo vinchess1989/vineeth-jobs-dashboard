@@ -6973,5 +6973,50 @@
     "deadline": "2023-06-06",
     "description_file": null,
     "deletion_reason": "Deadline (2023-06-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Lead Consulting Engineer, Energy, Industry",
+    "company": "Elomatic",
+    "location": "Turku, Southwest Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/lead-consulting-engineer-energy-industry-at-elomatic-4431077399",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a consulting role for energy and industry projects, unrelated to semiconductor/EDA/VLSI. The candidate profile does not match.",
+    "id": "75c25386",
+    "source": "linkedin_fi_thermal_p2",
+    "posted_date": "N/A",
+    "deadline": "2023-07-26",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-07-26) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior R&D Engineer",
+    "company": "Kempower",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/senior-r-d-engineer-at-kempower-4440010807",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior R&D Engineer position in power conversion and EV charging technologies, matching Vineeth's background in Power Integrity and Advanced Packaging.",
+    "id": "73fc47fe",
+    "source": "linkedin_fi_thermal_p2",
+    "posted_date": "2026-07-15",
+    "deadline": "2023-08-09",
+    "description_file": "job_descriptions/kempower_senior_r_d_engineer_73fc47fe.txt",
+    "deletion_reason": "Deadline (2023-08-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior R&D Engineer",
+    "company": "Kempower",
+    "location": "Greater Lahti Area",
+    "url": "https://fi.linkedin.com/jobs/view/senior-r-d-engineer-at-kempower-4440018548",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on power conversion product development, which aligns with Vineeth's expertise in Power Integrity and Advanced Packaging. However, it does not fit directly into his core domain of VLSI/EDA.",
+    "id": "bb4491e7",
+    "source": "linkedin_fi_thermal_p2",
+    "posted_date": "2026-07-15",
+    "deadline": "2023-08-09",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-08-09) passed by more than 2 days and unreviewed"
   }
 ]
