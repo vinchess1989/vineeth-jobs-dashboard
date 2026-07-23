@@ -8158,5 +8158,50 @@
     "deadline": "2025-09-23",
     "description_file": null,
     "deletion_reason": "Deadline (2025-09-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Advanced Packaging SI/PI Senior Staff Engineer salaries in Burlington, VT",
+    "company": "Extract from page",
+    "location": "Burlington, VT",
+    "url": "https://www.indeed.com/career/senior-staff-engineer/salaries/Burlington--VT?campaignid=serp-more&fromjk=3eeda5c02cf0dfd4&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This position is based in Burlington, VT, USA which does not match Vineeth's location preferences for Finland, Europe (outside Finland), or UK (England, Scotland, Ireland). Additionally, it specifies 'No visa sponsorship' which is a hard rejection per the requirements.",
+    "id": "b44c7828",
+    "source": "indeed_ww_si_pi",
+    "posted_date": "2026-07-20",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior SI/PI Engineer",
+    "company": "Teradyne",
+    "location": "North Reading, MA, US",
+    "url": "https://www.indeed.com/rc/clk?jk=39126012fa508b93",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on signal integrity (SI) and power integrity (PI) engineering for PCBs, which falls within Vineeth's expertise domain. However, the job posting explicitly mentions that 'US residency' or 'US Citizenship' is required, which does not match the global eligibility mentioned in Vineeth's profile.",
+    "id": "b9512d56",
+    "source": "indeed_ww_si_pi",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Optical Signal Integrity / Power Integrity (SI/PI) Engineer",
+    "company": "Arista Networks",
+    "location": "Santa Clara, CA, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=6c4ff51b7f14cd7e",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on hardware design and validation of high-speed optical interconnects, which does not directly match Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off.",
+    "id": "5304c8e7",
+    "source": "indeed_ww_si_pi",
+    "posted_date": "2026-07-02",
+    "deadline": "2023-06-30",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
