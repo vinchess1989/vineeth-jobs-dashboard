@@ -11877,12 +11877,12 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-power-device-engineer-at-cambridge-gan-devices-ltd-4417482579",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on developing GaN power devices, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging. The job description does not clearly match with any of the specified technical domains.",
+    "matches_requirements": "yes",
+    "reason": "Matches both Domain & Technical Area (Power Integrity / SI, and Advanced Packaging / Thermal) and Location (Cambridge, UK).",
     "id": "68a07b90",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-05-24",
     "deadline": "Open until filled",
-    "description_file": null
+    "description_file": "job_descriptions/cambridge_gan_device_senior_power_device_engineer_68a07b90.txt"
   }
 ]
