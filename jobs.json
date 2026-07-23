@@ -200,10 +200,13 @@
     "company": "Synopsys Inc",
     "location": "Moreira, Porto, Portugal",
     "url": "https://pt.linkedin.com/jobs/view/program-engineering-management-staff-engineer-at-synopsys-inc-4442457158",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b2bf0d53",
-    "source": "linkedin_eu_semiconductor_technical_leader"
+    "source": "linkedin_eu_semiconductor_technical_leader",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
