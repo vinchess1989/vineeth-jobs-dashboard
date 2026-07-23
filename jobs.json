@@ -8432,21 +8432,27 @@
     "company": "McDonald's",
     "location": "L'Alfas del Pi, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/%C2%A1%C3%BAnete-a-nuestro-equipo%21-alfaz-del-pi-at-mcdonald-s-4416708902",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Non-technical, McDonald's restaurant role unrelated to semiconductor/VLSI/EDA.",
     "id": "b678c3da",
-    "source": "linkedin_eu_pi"
+    "source": "linkedin_eu_pi",
+    "posted_date": "2026-05-24",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "GTM Engineer, AI Solutions",
     "company": "Pi School",
     "location": "Rome, Latium, Italy",
     "url": "https://it.linkedin.com/jobs/view/gtm-engineer-ai-solutions-at-pi-school-4419427642",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily GTM (growth, product) and AI marketing which is outside Vineeth's domain of Power Integrity, Packaging, EDA tools and VLSI/SoC physical design.",
     "id": "f0bf62f0",
-    "source": "linkedin_eu_pi"
+    "source": "linkedin_eu_pi",
+    "posted_date": "2026-06-23",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
