@@ -3056,32 +3056,41 @@
     "company": "Stark Future SL",
     "location": "Barcelona, Catalonia, Spain",
     "url": "https://es.linkedin.com/jobs/view/analytical-calculations-engineer-at-stark-future-sl-4435649658",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on electric motorcycle development and requires experience with vehicle dynamics, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
     "id": "c8946b2f",
-    "source": "linkedin_eu_thermal_p2"
+    "source": "linkedin_eu_thermal_p2",
+    "posted_date": "2026-07-09",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior Modelling Engineer (m/w/d)",
     "company": "Carrier",
     "location": "Hesse, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-modelling-engineer-m-w-d-%C2%A0-at-carrier-4435829669",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Senior Modelling Engineer position, which does not exactly match Vineeth's background in Power Integrity and Advanced Packaging. Although it is related to VLSI/EDA, the specific sub-domain of modelling/simulation is outside Vineeth's primary area of expertise.",
     "id": "d2d85a5d",
-    "source": "linkedin_eu_thermal_p2"
+    "source": "linkedin_eu_thermal_p2",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Research Engineer (m/w/d)*",
     "company": "GUENTNER'S GARDENS, INC.",
     "location": "F\u00fcrstenfeldbruck, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/research-engineer-m-w-d-at-guentner-s-gardens-inc-4417937128",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is research-focused on thermal dynamics and heat exchangers, not semiconductor VLSI/EDA.",
     "id": "07af1f8f",
-    "source": "linkedin_eu_thermal_p2"
+    "source": "linkedin_eu_thermal_p2",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
