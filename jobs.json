@@ -410,10 +410,13 @@
     "company": "Positiv Cohort Ltd",
     "location": "Stevenage, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/system-engineer-mechanical-bias-defence-at-positiv-cohort-ltd-4412468210",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is in mechanical engineering/systems design for missiles, which does not match Vineeth's background and skills in power integrity, advanced packaging, and EDA.",
     "id": "c5343482",
-    "source": "linkedin_uk_thermal"
+    "source": "linkedin_uk_thermal",
+    "posted_date": "2026-04-24",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
