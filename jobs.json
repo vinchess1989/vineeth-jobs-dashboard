@@ -368,32 +368,41 @@
     "company": "HID",
     "location": "Reading, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-program-manager-at-hid-4432773391",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is non-technical (HR) and does not match Vineeth's engineering background in semiconductor/VLSI/EDA.",
     "id": "4c1becbf",
-    "source": "linkedin_uk_pi_p2"
+    "source": "linkedin_uk_pi_p2",
+    "posted_date": "2026-07-23",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "SAP Technical Architect",
     "company": "Infinity Quest",
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/sap-technical-architect-at-infinity-quest-4437773009",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an SAP technical architect, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, and related CAD Methodology.",
     "id": "ddfc74d3",
-    "source": "linkedin_uk_pi_p2"
+    "source": "linkedin_uk_pi_p2",
+    "posted_date": "2026-07-09",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Scrum Master",
     "company": "Barclays",
     "location": "Northampton, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/scrum-master-at-barclays-4434582608",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development and business analysis, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
     "id": "e653c43d",
-    "source": "linkedin_uk_pi_p2"
+    "source": "linkedin_uk_pi_p2",
+    "posted_date": "2026-07-09",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
