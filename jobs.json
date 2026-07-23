@@ -1810,21 +1810,27 @@
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/analog-layout-designer/salaries/San-Diego--CA?campaignid=serp-more&fromjk=29909f8d278e71c1&from=serp-more",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is an entry-level to senior analog layout designer position which does not match the advanced technical roles and experience level of Vineeth Prathapachandra Kaimal.",
     "id": "3f2116b0",
-    "source": "indeed_ww_emir"
+    "source": "indeed_ww_emir",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Engineer I - Physical Design",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Microchip Technology Inc",
+    "location": "AZ - Chandler, USA",
     "url": "https://www.indeed.com/rc/clk?jk=bb7d7c8e47ee4d88",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Engineer I - Physical Design role at Microchip, which is focused on microcontroller and wireless chip design. It does not match Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
     "id": "f4edb662",
-    "source": "indeed_ww_emir"
+    "source": "indeed_ww_emir",
+    "posted_date": "30+ days ago",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
