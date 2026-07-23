@@ -8474,10 +8474,13 @@
     "company": "NEURONES",
     "location": "Toulouse, Occitanie, France",
     "url": "https://fr.linkedin.com/jobs/view/consultant-sap-business-int%C3%A9gration-pi-po-cpi-h-f-at-neurones-4435060153",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for SAP Business Integration Consultancy, which is not related to Power Integrity, VLSI/EDA, or semiconductor domains that Vineeth Prathapachandra Kaimal specializes in.",
     "id": "d7774605",
-    "source": "linkedin_eu_pi"
+    "source": "linkedin_eu_pi",
+    "posted_date": "2026-06-24",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
