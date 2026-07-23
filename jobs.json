@@ -1208,10 +1208,13 @@
     "company": "CONCAPE | connecting candidates \u221e perspectives",
     "location": "Ulm, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/head-of-global-test-metrology-semiconductor-industry-100%25-location-switzerland-at-concape-connecting-candidates-%E2%88%9E-perspectives-4437323848",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical leadership role for test and metrology labs in the special machinery sector, not semiconductor VLSI EDA.",
     "id": "f564b538",
-    "source": "linkedin_eu_semiconductor_director"
+    "source": "linkedin_eu_semiconductor_director",
+    "posted_date": "2026-07-09",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
