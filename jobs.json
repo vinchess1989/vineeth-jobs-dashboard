@@ -8404,10 +8404,13 @@
     "company": "Arm",
     "location": "Chandler, AZ",
     "url": "https://www.linkedin.com/jobs/view/staff-power-integrity-engineer-at-arm-4415978680",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on Signal Integrity (SI) rather than Power Integrity (PI), which is not Vineeth's domain.",
     "id": "c22ac507",
-    "source": "linkedin_ww_power_integrity_p2"
+    "source": "linkedin_ww_power_integrity_p2",
+    "posted_date": "2026-07-09",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
