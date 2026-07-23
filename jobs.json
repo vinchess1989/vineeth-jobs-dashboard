@@ -4736,10 +4736,13 @@
     "company": "Aalto University",
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/doctoral-researcher-in-digital-integrated-circuits-at-aalto-university-4443832352",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily research-focused (RTL to silicon design, PhD studies) and does not fit Vineeth's domain of Power Integrity, Signal Integrity, EDA tools, or semiconductor engineering leadership. It would require a strong background in digital hardware design and analog circuits but lacks specific expertise in the areas he has worked.",
     "id": "e6b6be9b",
-    "source": "linkedin_fi_semiconductor"
+    "source": "linkedin_fi_semiconductor",
+    "posted_date": "2026-07-23",
+    "deadline": "2026-08-07",
+    "description_file": null
   }
 ]
