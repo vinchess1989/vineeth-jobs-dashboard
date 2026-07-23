@@ -10301,5 +10301,38 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T08:08:00",
+    "total": 1677,
+    "yes": 95,
+    "no": 1470,
+    "maybe": 44,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T08:08:03",
+    "total": 1677,
+    "yes": 95,
+    "no": 1470,
+    "maybe": 44,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T08:11:12",
+    "total": 1676,
+    "yes": 95,
+    "no": 1484,
+    "maybe": 44,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 1
   }
 ]
