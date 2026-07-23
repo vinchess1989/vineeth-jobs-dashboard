@@ -13934,10 +13934,13 @@
     "company": "Boomeranger Boats",
     "location": "Loviisa, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/suunnitteluinsin%C3%B6%C3%B6ri-rhib-viranomaisveneet-at-boomeranger-boats-4432190564",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a ship design engineering role, not semiconductor/VLSI/EDA related.",
     "id": "b21e85af",
-    "source": "linkedin_fi_physical_design"
+    "source": "linkedin_fi_physical_design",
+    "posted_date": "2026-07-02",
+    "deadline": "2026-08-23",
+    "description_file": null
   }
 ]
