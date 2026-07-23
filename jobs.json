@@ -9678,43 +9678,55 @@
     "company": "A2MAC1 - Decode the future",
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/high-voltage-battery-costing-expert-m-f-d-at-a2mac1-decode-the-future-4383764298",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is focused on cost analysis for high-voltage batteries and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
     "id": "23425d82",
-    "source": "linkedin_eu_thermal"
+    "source": "linkedin_eu_thermal",
+    "posted_date": "2026-03-26",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "CFD Engineer",
     "company": "Abylsen",
     "location": "Sesto San Giovanni, Lombardy, Italy",
     "url": "https://it.linkedin.com/jobs/view/cfd-engineer-at-abylsen-4426412389",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a CFD engineer focused on ANSYS Fluent simulations and thermal-fluid models, which is unrelated to Power Integrity/SI/EDA domains of Vineeth's background.",
     "id": "eb092304",
-    "source": "linkedin_eu_thermal"
+    "source": "linkedin_eu_thermal",
+    "posted_date": "2026-07-17",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer",
     "company": "Jit Team",
     "location": "Cracow, Ma\u0142opolskie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/mechanical-engineer-at-jit-team-4435564637",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a mechanical engineer focused on vehicle technology rather than semiconductor, VLSI, EDA domains.",
     "id": "6e4beba5",
-    "source": "linkedin_eu_thermal"
+    "source": "linkedin_eu_thermal",
+    "posted_date": "2026-07-03",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Word \u2018Salesmanager Smart Thermal Grid \u2019 bij \u2018De Warmte Maatschappij\u2019 en versnel samen met ons de warmtetransitie!",
     "company": "De Warmte Maatschappij",
     "location": "Oldenzaal, Overijssel, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/word-%E2%80%98salesmanager-smart-thermal-grid-%E2%80%99-bij-%E2%80%98de-warmte-maatschappij%E2%80%99-en-versnel-samen-met-ons-de-warmtetransitie%21-at-de-warmte-maatschappij-4444437388",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a sales and business development position focused on smart thermal grids, renewable energy and real estate, which does not match Vineeth's background in power integrity, advanced packaging, and EDA.",
     "id": "849f25ad",
-    "source": "linkedin_eu_thermal"
+    "source": "linkedin_eu_thermal",
+    "posted_date": "2026-07-24",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
