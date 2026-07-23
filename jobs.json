@@ -11778,10 +11778,13 @@
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/principal-software-engineer/salaries/95054--CA?campaignid=serp-more&fromjk=bb9fc8118bd540d8&from=serp-more",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Software Engineer) and is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, CAD/Methodology for VLSI/EDA.",
     "id": "840abb03",
-    "source": "indeed_ww_semiconductor_principal_engineer"
+    "source": "indeed_ww_semiconductor_principal_engineer",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
