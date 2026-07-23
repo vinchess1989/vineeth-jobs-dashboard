@@ -537,5 +537,38 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T09:40:44",
+    "total": 15,
+    "yes": 0,
+    "no": 0,
+    "maybe": 0,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T09:40:54",
+    "total": 2045,
+    "yes": 108,
+    "no": 1794,
+    "maybe": 52,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T09:43:26",
+    "total": 2045,
+    "yes": 108,
+    "no": 1807,
+    "maybe": 52,
+    "pending": 2,
+    "applied": 0,
+    "added": 0,
+    "deleted": 0
   }
 ]
