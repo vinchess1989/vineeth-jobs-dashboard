@@ -3100,5 +3100,38 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T23:27:57",
+    "total": 444,
+    "yes": 10,
+    "no": 411,
+    "maybe": 7,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T23:28:21",
+    "total": 503,
+    "yes": 11,
+    "no": 466,
+    "maybe": 10,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-23T23:29:53",
+    "total": 443,
+    "yes": 11,
+    "no": 424,
+    "maybe": 7,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 1
   }
 ]
