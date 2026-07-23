@@ -774,43 +774,55 @@
     "company": "Renesas Electronics",
     "location": "Catania, Sicily, Italy",
     "url": "https://it.linkedin.com/jobs/view/sr-staff-strategic-power-conversion-technologist-at-renesas-electronics-4432272019",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "ae23280e",
-    "source": "linkedin_eu_pdn"
+    "source": "linkedin_eu_pdn",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Spezialist Obsoleszenzmanagement (m/w/d)",
     "company": "Rohde & Schwarz",
     "location": "Memmingen, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/spezialist-obsoleszenzmanagement-m-w-d-at-rohde-schwarz-4436068378",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "dac7db0b",
-    "source": "linkedin_eu_pdn"
+    "source": "linkedin_eu_pdn",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Technical Support Engineer \u2013 IoT Connectivity & Debugging",
     "company": "Onomondo",
     "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
     "url": "https://dk.linkedin.com/jobs/view/technical-support-engineer-%E2%80%93-iot-connectivity-debugging-at-onomondo-4404108173",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "b60259d7",
-    "source": "linkedin_eu_pdn"
+    "source": "linkedin_eu_pdn",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur Obsolescences Senior  H/F",
     "company": "CTS Consulting & Technical Support",
     "location": "La Rochelle, Nouvelle-Aquitaine, France",
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-obsolescences-senior-h-f-at-cts-consulting-technical-support-4442081047",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "75817f48",
-    "source": "linkedin_eu_pdn"
+    "source": "linkedin_eu_pdn",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
