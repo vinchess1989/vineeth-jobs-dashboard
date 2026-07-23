@@ -12282,10 +12282,13 @@
     "company": "Intel",
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/senior-cpu-physical-design-engineer-at-intel-4443147318",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
     "id": "97ec372b",
-    "source": "linkedin_ww_physical_design"
+    "source": "linkedin_ww_physical_design",
+    "posted_date": "2026-07-23",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
