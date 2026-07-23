@@ -7558,5 +7558,35 @@
     "deadline": "2026-06-13",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Signal and Power Integrity Engineer - Hardware",
+    "company": "NVIDIA AI",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-hardware-at-nvidia-ai-4439204117",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Signal & Power Integrity Engineer at NVIDIA AI, which matches Vineeth's key skills in Power Integrity (PI) and falls under the Domain & Technical Area of 'Power Integrity (PI)/Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus'. It is also located in Santa Clara, CA.",
+    "id": "531ccde0",
+    "source": "linkedin_ww_power_integrity",
+    "posted_date": "2026-07-18",
+    "deadline": "2026-06-20",
+    "description_file": "job_descriptions/nvidia_ai_senior_signal_and_power_integr_531ccde0.txt",
+    "deletion_reason": "Deadline (2026-06-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sr. Signal Integrity and Power Integrity Engineer, Amazon Leo",
+    "company": "Amazon",
+    "location": "Redmond, WA",
+    "url": "https://www.linkedin.com/jobs/view/sr-signal-integrity-and-power-integrity-engineer-amazon-leo-at-amazon-4443037355",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires US citizenship or residency, which violates our non-US citizen exclusion.",
+    "id": "df698604",
+    "source": "linkedin_ww_power_integrity",
+    "posted_date": "2026-07-21",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
