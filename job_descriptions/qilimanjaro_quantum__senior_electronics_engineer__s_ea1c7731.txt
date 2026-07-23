@@ -1,0 +1,374 @@
+Title: Senior Electronics Engineer (Signal Integrity & Instrumentation)
+Company: Qilimanjaro Quantum Tech
+Location: Barcelona, Catalonia, Spain
+URL: https://es.linkedin.com/jobs/view/senior-electronics-engineer-signal-integrity-instrumentation-at-qilimanjaro-quantum-tech-4437608178
+Posted: vor 1 woche
+Deadline: N/A
+Reason: The role is for a senior electronics engineer with experience in signal integrity and instrumentation, matching Vineeth's CAD/Methodology background. It is at a quantum tech company in Barcelona.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn nimmt den Schutz Ihrer Privatsphäre sehr ernst
+
+LinkedIn und Drittanbieter setzen essenzielle und nicht zwingend erforderliche Cookies ein, um die LinkedIn Dienste bereitzustellen, zu schützen, zu analysieren und zu verbessern und um auf LinkedIn und außerhalb von LinkedIn relevante Anzeigen zu präsentieren (einschließlich zielgruppenspezifischer Anzeigen und Stellenanzeigen). Weitere Informationen finden Sie in unserer Cookie-Richtlinie.
+
+Wählen Sie „Akzeptieren“, um dieser Nutzung zuzustimmen, oder wählen Sie „Ablehnen“, um die nicht zwingend erforderlichen Cookies abzulehnen. Sie können Ihre Auswahl jederzeit in den Einstellungen aktualisieren.
+
+Akzeptieren Ablehnen
+Weiter zum Hauptinhalt
+LinkedIn
+Jobs
+Text löschen
+Text löschen
+Einloggen
+Mitglied werden
+Senior Electronics Engineer (Signal Integrity & Instrumentation)
+Qilimanjaro Quantum Tech  Barcelona, Cataluña, Spanien
+Vor 1 Woche   Gehören Sie zu den ersten 25 Bewerber:innen.
+  
+
+Sehen Sie, wen Qilimanjaro Quantum Tech für diese Position eingestellt hat
+
+Bewerben 
+Speichern
+
+Den Jobinserenten von Qilimanjaro Quantum Tech direkt kontaktieren
+
+Ivana De la Calle León
+Ivana De la Calle León
+Human Resources Specialist
+
+About Qilimanjaro
+
+Qilimanjaro is building full-stack superconducting quantum computers, from QPUs and cryogenic infrastructure to control electronics, racks, cabling, instrumentation and deployment software. Our Systems & Engineering division is what turns a quantum processor into a complete, reliable, scalable machine.
+
+We are a small, hands-on team. Every hire shapes what we become.
+
+
+
+
+Why this role exists
+
+The electronics layer of a quantum system (signal chains, grounding, shielding, filtering, low-noise analog, power integrity, PCB design) is one of the main determinants of qubit performance and system reliability. As we scale toward 50-qubit systems and beyond, this layer has to be designed from first principles, not grown from lab habit.
+
+Today our junior engineers are learning fast and carrying real work. What we are missing is a seasoned electronics engineer who designs the signal chain right before it reaches the bench, who simulates signal integrity before a board is fabricated, architects grounding instead of guessing it, anticipates the scaling problem we haven't hit yet, and raises the technical floor of the whole team.
+
+You will become the technical authority for the electronics layer: the person the team turns to for "is this signal chain correct, quiet, and scalable?" and the person who makes sure the answer is documented, not tribal. You will set the standards and review others' designs, and directly mentor one to two junior engineers, with a clear path to lead the department as the team grows.
+
+
+
+
+🫡Key Responsibilities:
+
+Signal-chain architecture: Define and document how signals are generated, conditioned, filtered, routed and shielded from the electronics rack to the QPU, both the DC / flux-bias path (DC to a few hundred MHz) and the RF / readout path (a few GHz). Architecture first, validation second.
+Grounding and shielding by design: Define the grounding topology, return paths, chassis isolation and rack-level shielding for each system, documented, justified and repeatable, not resolved ad hoc or outsourced to a consultant.
+Filtering and low-noise design: Specify and design filters from requirements (bandwidth, attenuation, impedance, thermal and noise constraints) and drive the electrical-noise budget of the setup, supplies, references, line-by-line.
+Simulation as a standard design step: Run signal-integrity and power-integrity simulations (LTspice / ADS / Sigrity / HyperLynx or equivalent) routinely, during design, before hardware is ordered, not after problems appear.
+PCB design review: Work with our PCB engineer to catch signal-integrity, power- integrity and grounding problems in layout review, before fabrication.
+Instrument integration & validation: Integrate and validate commercial control electronics and lab instrumentation (Qblox, QDAC-class sources, VNAs, spectrum analyzers, digitizers, RF sources, power supplies) and build the test plans that qualify a signal chain before it is handed to measurements.
+Turning problems into design rules: When a hardware problem is found and fixed, convert the lesson into a design rule, acceptance criterion or validation procedure so it cannot recur in the next system.
+Mentoring: Be the senior technical reference for junior engineers on noise debugging, grounding, signal characterization and instrument validation. Explain the why. Raise the team's ability to do this independently over time, without becoming a bottleneck.
+
+
+
+
+We're looking for an autonomous, results-oriented profile who thrives in dynamic environments. We value the ability to make sound decisions, take ownership of one's own work, and adapt with agility to the company's shifting priorities.
+
+
+
+
+You do not need a quantum background.
+
+You will work alongside physicists and measurement specialists who operate the qubits; the physics will be explained to you. The qubit is, in the end, your most sensitive measuring instrument, but your job is to read what its behaviour tells you about the electrical chain and fix the root cause there. The electronics principles we need are universal. The challenge is applying rigorous electronics engineering discipline to a domain where that discipline is not yet fully established.
+
+
+
+
+Who we are looking for:
+
+A seasoned analog / mixed-signal electronics engineer who combines strong electronics intuition with structured engineering discipline, and who would rather build something that lasts than firefight what breaks. You have worked where design discipline is not optional, scientific or precision instrumentation, big-science facilities (synchrotron, particle physics, space, radio-astronomy), aerospace / defence, metrology, medical or other high-reliability electronics, and where signal integrity is simulated before fabrication and grounding is architected, not guessed. You enjoy being the senior technical voice among motivated, less experienced engineers. You like making the next setup easier to build and validate than the last.
+
+
+
+
+
+
+
+📝Minimum requirements:
+
+
+
+
+8+ years of hands-on analog / mixed-signal and/or high-speed electronics design (we care more about depth and judgement than the exact number).
+Low-noise and signal-integrity design from first principles: not catalogue-part selection.
+Grounding and shielding architecture: you can design a grounding topology and explain every return path.
+Filter design from specification: derive a topology from bandwidth, attenuation and impedance requirements.
+SI/PI simulation as a routine part of your workflow (LTspice, ADS, Sigrity, HyperLynx, or equivalent) — used on real designs, not as an occasional exercise.
+PCB design-review depth: you catch layout problems before fabrication.
+Structured hardware diagnosis: you can systematically separate a grounding issue from a filter-response issue from an instrument artifact from a software/configuration effect, and document it.
+Hands-on by nature: comfortable at the bench (probing, soldering, measuring) and willing to travel to our lab site to debug real hardware. This is not a desk-only architecture role.
+Fluent with bench instrumentation: oscilloscopes, VNAs, spectrum analyzers, signal generators, digitizers, power supplies — and structured test plans.
+Strong communication in English (Spanish a plus, or a willingness to learn)
+
+
+
+
+🤹Preferred Skills:
+
+
+
+
+Superconducting quantum, cryogenic or low-temperature measurement experience.
+Familiarity with Qblox, Quantum Machines / QDAC, Zurich Instruments, Keysight, Rohde & Schwarz, Signal Hound or similar.
+Low-noise DC biasing, microwave engineering, attenuators, filtering, twisted-pair / coaxial signal delivery, cryogenic cabling.
+Designing analog front-ends, custom instrumentation PCBs or test fixtures.
+Python for measurement automation, data analysis and hardware validation.
+Deep-tech / hardware startup experience where priorities move fast but engineering standards still matter.
+
+
+
+
+
+
+
+What success looks like after 6 months
+
+The signal-chain and grounding architecture is documented, simulation-backed and enforced as a design standard — not tribal knowledge held by one or two people.
+SI/PI simulation happens before hardware is ordered, not after it fails.
+Major noise and grounding issues have a structured diagnosis path and are no longer ad hoc investigations.
+New instruments and custom PCBs pass a defined validation checklist before lab integration.
+Junior engineers can run standard noise, grounding and signal-chain validation independently.
+The number of hardware problems traced back to avoidable design decisions is visibly falling.
+
+Growth path: This is the founding senior role of our electronics function. As Systems & Engineering splits into dedicated electronics and cryomechanics pillars, there is a clear path from technical authority to leading the department.
+
+
+
+
+❤️ Diversity and Inclusion:
+
+At Qilimanjaro, inclusion and equal opportunities are part of our people-centric value. We are committed to creating a workplace where everyone feels valued and empowered to contribute, learn, and belong.
+
+
+
+
+Why don’t you join us? 🥇
+
+
+
+
+We offer:
+
+A technically demanding role with real scope from day one, you help define the system, you don't inherit a finished one.
+Direct collaboration with physicists, cryogenic engineers, PCB engineers and software developers.
+A small team where your decisions are visible and your influence is immediate.
+Competitive salary, discussed openly and based on experience.
+
+
+
+
+
+
+
+Benefits:
+
+🏥 Private health insurance
+💳 Cobee flexible compensation (transportation, meals, and childcare support)
+⏰ Flexible working hours
+🏡 Hybrid work model
+
+
+
+
+You will:
+
+
+
+
+🚀 Get the opportunity to build something amazing and unique, something that hasn't been done before
+
+🌍 Work on ground-breaking projects and possibly solve massive challenges on a global scale
+
+💻 Be at the intersection of research and industry, where biggest innovations happen
+
+🎯 Make an enormous impact in a dynamic scale-up rather than being a small cog in a big machine
+
+💫 Work with super smart, knowledgeable and yet, very friendly people in Barcelona, one of the best cities in the world (picture a lot of sun, amazing food and friendly locals)
+
+😊 Get to be part of a start-up where growth on a company and individual level is the default
+
+
+
+
+GDPR (General Data Protection Regulation):
+
+DATA CONTROLLER: QILIMANJARO QUANTUM TECH S.L., B67429670, Carrer de Veneçuela, 74, 08019 Barcelona (BARCELONA), Data Protection Officer: qilimanjaro@delegado- datos.com.PURPOSES: Participation in recruitment processes and reference verification.LEGAL BASIS: Implementation of pre-contractual measures.DISCLOSURES: None are an ticipated.DATA RETENTION: For the duration of the selection process.RIGHTS: You may exercise your rights of access, rectification, erasure, restriction, and data portability with the data controller. In case of any disputes, you may contact the AEPD (www.aepd.es).
+
+Show more 
+Karrierestufe
+Management
+Beschäftigungsverhältnis
+Vollzeit
+Tätigkeitsbereich
+Ingenieurwesen und IT
+Branchen
+IT und Services
+  
+
+Mit einer Empfehlung lassen sich Ihre Chancen auf ein Vorstellungsgespräch bei Qilimanjaro Quantum Tech verdoppeln.
+
+Wen kennen Sie bereits?
+Lassen Sie sich benachrichtigen, wenn ein neuer Job veröffentlicht wird.
+Benachrichtigung einstellen
+Ähnliche Jobs
+High Speed Systems Engineer Lead
+High Speed Systems Engineer Lead
+AST SpaceMobile
+Barcelona, Cataluña, Spanien
+Vor 2 Wochen
+EMC Hardware Engineer
+EMC Hardware Engineer
+Stark Future SL
+Barcelona, Cataluña, Spanien
+Vor 2 Wochen
+Validation Engineer Hardware (Ingeniero Electrónico/QA)
+Validation Engineer Hardware (Ingeniero Electrónico/QA)
+beside Talent
+Barcelona, Cataluña, Spanien
+Vor 1 Tag
+High Speed Systems Engineer
+High Speed Systems Engineer
+AST SpaceMobile
+Barcelona, Cataluña, Spanien
+Vor 2 Wochen
+Instrumentation Engineer – Position in IFAE
+Instrumentation Engineer – Position in IFAE
+IFAE
+Cerdanyola del Vallès, Cataluña, Spanien
+Vor 2 Monaten
+Ingeniero/a de Electrónica EGSE
+Ingeniero/a de Electrónica EGSE
+Sener
+Cerdanyola del Vallès, Cataluña, Spanien
+Vor 2 Monaten
+Weitere ähnliche Jobs anzeigen 
+Ebenfalls angesehen
+TESTING & COMMISSIONING INTERNACIONAL (Sector ferroviario)
+TESTING & COMMISSIONING INTERNACIONAL (Sector ferroviario)
+
+SEGULA Technologies
+
+Cornellà de Llobregat, Cataluña, Spanien
+Vor 2 Tagen
+(Hybrid) Control Systems Engineer
+(Hybrid) Control Systems Engineer
+
+GTD
+
+Barcelona, Cataluña, Spanien
+Vor 3 Wochen
+Hardware Engineer
+Hardware Engineer
+
+Volpak, a Coesia company
+
+Santa Perpètua de Mogoda, Cataluña, Spanien
+Vor 3 Wochen
+Train Control Engineer
+Train Control Engineer
+
+Alstom
+
+Barcelona, Cataluña, Spanien
+Vor 1 Monat
+Production Test/Process Engineer
+Production Test/Process Engineer
+
+Technica Electronics
+
+Sant Cugat del Vallès, Cataluña, Spanien
+Vor 1 Monat
+Principal DFT Engineer
+Principal DFT Engineer
+
+Aion Silicon
+
+Barcelona, Cataluña, Spanien
+Vor 4 Monaten
+Ingeniero/a de desarrollo de electrónica de ADAS - Automoción (H/M/N)
+Ingeniero/a de desarrollo de electrónica de ADAS - Automoción (H/M/N)
+
+Bertrandt Group
+
+Castellví de Rosanes, Cataluña, Spanien
+Vor 3 Wochen
+Schematics & Apparatus Leader
+Schematics & Apparatus Leader
+
+Alstom
+
+Barcelona, Cataluña, Spanien
+Vor 1 Monat
+Pitch and Yaw Electrical Engineer
+Pitch and Yaw Electrical Engineer
+
+GE Vernova
+
+Barcelona, Cataluña, Spanien
+Vor 2 Wochen
+PhD Engineer or Industrial PhD Candidate - IoT and Energy Harvesting Specialist
+PhD Engineer or Industrial PhD Candidate - IoT and Energy Harvesting Specialist
+
+Energiot
+
+Cerdanyola del Vallès, Cataluña, Spanien
+Vor 22 Stunden
+Ähnliche Suchen
+Telekommunikationsingenieur-Jobs
+697 freie Stellen
+Webtexter-Jobs
+13 freie Stellen
+Test Engineer-Jobs
+5.600 freie Stellen
+Ingenieur-Jobs
+4.207 freie Stellen
+System Engineer-Jobs
+1.077 freie Stellen
+Netzwerkingenieur-Jobs
+635 freie Stellen
+Anwendungsingenieur:in-Jobs
+6.111 freie Stellen
+Verkehrstingenieur-Jobs
+307 freie Stellen
+Produktingenieur-Jobs
+404 freie Stellen
+Softwareingenieur:in-Jobs
+5.901 freie Stellen
+Projektingenieur-Jobs
+1.133 freie Stellen
+Wirtschaftsingenieur-Jobs
+1.048 freie Stellen
+Mehr anzeigen 
+Weitere Suchen 
+LinkedIn
+© 2026
+Info
+Barrierefreiheit
+Nutzervereinbarung
+Datenschutzrichtlinie
+Cookie-Richtlinie
+Copyright-Richtlinie
+Markenrichtlinine
+Einstellungen für Nichtmitglieder
+Community-Richtlinien
+Sprache
+Einloggen, um zu sehen, wen Sie bei Qilimanjaro Quantum Tech bereits kennen
+Mit E-Mail einloggen
+
+oder
+
+Neu bei LinkedIn? Mitglied werden
+
+Wenn Sie auf „Weiter“ klicken, um Mitglied zu werden oder sich einzuloggen, stimmen Sie der Nutzervereinbarung, der Datenschutzrichtlinie und der Cookie-Richtlinie von LinkedIn zu.
