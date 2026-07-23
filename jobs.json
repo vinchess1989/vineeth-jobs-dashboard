@@ -26352,10 +26352,13 @@
     "company": "Keysight Technologies",
     "location": "Ghent Metropolitan Area",
     "url": "https://be.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-python-at-keysight-technologies-4362225744",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is software development focused on C++, Python, and SIPro/PIPro tools - outside Vineeth's main power integrity & advanced packaging domain.",
     "id": "197cb990",
-    "source": "linkedin_eu_si_pi"
+    "source": "linkedin_eu_si_pi",
+    "posted_date": "2026-02-23",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
