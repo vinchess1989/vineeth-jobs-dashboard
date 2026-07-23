@@ -2272,10 +2272,13 @@
     "company": "imec",
     "location": "Leuven, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/memory-sub-system-r-d-engineer-at-imec-4438596297",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily in hardware-software-technology co-design for future compute systems, which does not directly match Vineeth's Power Integrity and Advanced Packaging focus.",
     "id": "c0414b5e",
-    "source": "linkedin_eu_semiconductor_architect"
+    "source": "linkedin_eu_semiconductor_architect",
+    "posted_date": "2 weken geleden",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
