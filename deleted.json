@@ -8773,5 +8773,50 @@
     "deadline": "2026-06-30",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Service Project Manager",
+    "company": "Hitachi Energy",
+    "location": "Vantaa, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/service-project-manager-at-hitachi-energy-4441454210",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a Service Project Manager focused on power distribution and maintenance services, which does not match Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis or CAD Methodology. It also has no specific mention of EDA tools, VLSI, semiconductor design.",
+    "id": "11c104eb",
+    "source": "linkedin_fi_power_integrity_p2",
+    "posted_date": "2023-07-10",
+    "deadline": "2023-07-31",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-07-31) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Signal and Power Integrity Engineer, Staff salaries in San Diego, CA",
+    "company": "Broadcom Inc",
+    "location": "Irvine, CA, USA",
+    "url": "https://www.indeed.com/career/integrity-engineer/salaries/San-Diego--CA?campaignid=serp-more&fromjk=2037ec006a834d31&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a mid-level role, does not fit Power Integrity domain, and has no application deadline.",
+    "id": "c037d409",
+    "source": "indeed_ww_power_integrity",
+    "posted_date": "N/A",
+    "deadline": "2023-10-01",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Signal and Power Integrity Engineer (SI/PI) - Apple Vision Pro salaries in San Jose, CA",
+    "company": "Qualcomm",
+    "location": "San Diego, CA, USA",
+    "url": "https://www.indeed.com/career/integrity-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=a7cdc0769a2f6333&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
+    "id": "7aa52298",
+    "source": "indeed_ww_power_integrity",
+    "posted_date": "N/A",
+    "deadline": "2023-08-15",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-08-15) passed by more than 2 days and unreviewed"
   }
 ]
