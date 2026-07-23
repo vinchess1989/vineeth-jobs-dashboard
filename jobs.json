@@ -7398,7 +7398,7 @@
     "url": "https://www.indeed.com/career/satcom-engineer/salaries/Newport--RI?campaignid=serp-more&fromjk=2db4f8a8a832cf76&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (modem design, firmware) which is outside Vineeth's domain of PI/SI, packaging, physical design and CAD.",
+    "reason": "This senior systems engineer role is focused on satellite communications modem development, which does not match Vineeth's power integrity, advanced packaging, and EDA tool expertise. It is also a very specific niche area of engineering that is unlikely to have direct relevance or overlap with semiconductor VLSI EDA.",
     "id": "b7140675",
     "source": "indeed_ww_soc_design",
     "posted_date": "N/A",
@@ -7412,11 +7412,11 @@
     "url": "https://www.indeed.com/rc/clk?jk=0eb316ea09402da3",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering position focused on SoC/ASIC verification, not power integrity or packaging.",
+    "reason": "The role is primarily verification (SystemVerilog, UVM) which is outside Vineeth's domain of PI and packaging.",
     "id": "96b21385",
     "source": "indeed_ww_soc_design",
-    "posted_date": "2026-07-02",
-    "deadline": "N/A",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   }
 ]
