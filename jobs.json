@@ -23664,10 +23664,13 @@
     "company": "PierSight",
     "location": "Ahmedabad, Gujarat, India",
     "url": "https://in.linkedin.com/jobs/view/lead-embedded-hardware-at-piersight-4440153720",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for embedded hardware design for satellite payloads, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "69b7193a",
-    "source": "linkedin_india_system_power_integrity"
+    "source": "linkedin_india_system_power_integrity",
+    "posted_date": "2026-07-21",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
