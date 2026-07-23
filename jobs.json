@@ -1642,21 +1642,27 @@
     "company": "X4 Technology",
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/fpga-dsp-engineer-at-x4-technology-4432798263",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily FPGA development for wireless instrumentation, outside Vineeth's domain.",
     "id": "bbecaccd",
-    "source": "linkedin_uk_fpga_engineer"
+    "source": "linkedin_uk_fpga_engineer",
+    "posted_date": "2026-07-09",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
     "company": "Enterprise Recruitment Ltd",
     "location": "Stevenage, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-enterprise-recruitment-ltd-4440126694",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an FPGA Engineer, which falls outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "c563288a",
-    "source": "linkedin_uk_fpga_engineer"
+    "source": "linkedin_uk_fpga_engineer",
+    "posted_date": "2026-07-21",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
