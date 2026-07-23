@@ -7798,5 +7798,20 @@
     "deadline": "2023-08-19",
     "description_file": null,
     "deletion_reason": "Deadline (2023-08-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "SOC Architect",
+    "company": "SiFive",
+    "location": "Oregon, United States",
+    "url": "https://www.linkedin.com/jobs/view/soc-architect-at-sifive-4400918343",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an SoC architect focused on hardware system IPs and platform security, which aligns with VLSI/SoC design but does not explicitly match Vineeth's power integrity and advanced packaging expertise.",
+    "id": "2248d802",
+    "source": "linkedin_ww_soc_design",
+    "posted_date": "2026-04-24",
+    "deadline": "2023-06-30",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
