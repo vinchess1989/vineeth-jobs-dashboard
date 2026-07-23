@@ -25932,10 +25932,13 @@
     "company": "9NEXUS",
     "location": "India",
     "url": "https://in.linkedin.com/jobs/view/aveva-pi-engineer-at-9nexus-4439077427",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is primarily focused on AVEVA PI (OSIsoft PI System) data historian systems and integration, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "7dd08a10",
-    "source": "linkedin_india_si_pi_p2"
+    "source": "linkedin_india_si_pi_p2",
+    "posted_date": "2026-07-16",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
