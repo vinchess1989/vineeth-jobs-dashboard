@@ -158,43 +158,55 @@
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/cad-technician/salaries/Chandler--AZ?campaignid=serp-more&fromjk=10cfb1913357ce52&from=serp-more",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a CAD Technician, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and SoC PDN sign-off. It is a non-technical position.",
     "id": "9056b20d",
-    "source": "indeed_ww_eda_design_automation"
+    "source": "indeed_ww_eda_design_automation",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior SOC Design Engineer",
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=0edd711c7fd85b00",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "e27b9aba",
-    "source": "indeed_ww_eda_design_automation"
+    "source": "indeed_ww_eda_design_automation",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior SOC Design Engineer salaries in Santa Clara, CA",
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/senior-design-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=0edd711c7fd85b00&from=serp-more",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "a206f3cc",
-    "source": "indeed_ww_eda_design_automation"
+    "source": "indeed_ww_eda_design_automation",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior Physical Design and Timing Engineer",
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=555088b310efdcda",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
     "id": "9ec822fd",
-    "source": "indeed_ww_eda_design_automation"
+    "source": "indeed_ww_eda_design_automation",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
