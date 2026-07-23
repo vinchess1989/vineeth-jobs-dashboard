@@ -9103,5 +9103,50 @@
     "deadline": "N/A",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Signal and Power Integrity Engineer salaries in Santa Clara, CA",
+    "company": "Extract from page",
+    "location": "Santa Clara, CA, USA",
+    "url": "https://www.indeed.com/career/senior-signalling-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=c07b9f3acbde9a80&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Senior Signal and Power Integrity Engineer role aligns with Vineeth's technical background in Power Integrity (PI) / Signal Integrity (SI), SoC PDN sign-off, and tools like ANSYS RedHawk.",
+    "id": "b1c8d709",
+    "source": "indeed_ww_si_pi_p2",
+    "posted_date": "2026-07-02",
+    "deadline": "2026-06-12",
+    "description_file": "job_descriptions/extract_from_page_senior_signal_and_power_integr_b1c8d709.txt",
+    "deletion_reason": "Deadline (2026-06-12) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Power Integrity Engineer - LPU Packaging",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=51d9b58d0ccfb8ee",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on LPU Packaging, which does not align with Vineeth's main areas of expertise in Power Integrity and SoC PDN sign-off.",
+    "id": "8cf905f4",
+    "source": "indeed_ww_si_pi_p2",
+    "posted_date": "2026-07-20",
+    "deadline": "2023-06-08",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-08) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sr. PCB Designer (Starship) salaries in Hawthorne, CA",
+    "company": "Extract from page",
+    "location": "Hawthorne, CA, USA",
+    "url": "https://www.indeed.com/career/senior-designer/salaries/Hawthorne--CA?campaignid=serp-more&fromjk=385b5422ea1d0ca2&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a PCB Designer, which does not fit Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "id": "5262d0d0",
+    "source": "indeed_ww_si_pi_p2",
+    "posted_date": "2026-07-20",
+    "deadline": "2023-04-03",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-04-03) passed by more than 2 days and unreviewed"
   }
 ]
