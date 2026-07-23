@@ -7828,5 +7828,20 @@
     "deadline": "Open until filled",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior SOC Design Engineer",
+    "company": "NVIDIA AI",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-soc-design-engineer-at-nvidia-ai-4403786461",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily SOC design rather than power integrity, packaging or EDA tools.",
+    "id": "cd128519",
+    "source": "linkedin_ww_soc_design_p3",
+    "posted_date": "2026-05-24",
+    "deadline": "2026-06-30",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
