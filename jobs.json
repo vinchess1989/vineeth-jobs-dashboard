@@ -11526,54 +11526,55 @@
     "company": "Marvell Technology",
     "location": "Morrisville, NC",
     "url": "https://www.linkedin.com/jobs/view/senior-principal-engineer-digital-ic-design-at-marvell-technology-4423114809",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Expects 25+ years of experience, exceeds Vineeth's range of 15 years.",
     "id": "f6dee8ce",
-    "source": "linkedin_ww_semiconductor_principal_engineer"
-  },
-  {
-    "title": "Principal Engineer - Global Tapeout and Mask Organization",
-    "company": "GlobalFoundries",
-    "location": "Malta, NY",
-    "url": "https://www.linkedin.com/jobs/view/principal-engineer-global-tapeout-and-mask-organization-at-globalfoundries-4404107319",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
-    "id": "4087cb7f",
-    "source": "linkedin_ww_semiconductor_principal_engineer"
+    "source": "linkedin_ww_semiconductor_principal_engineer",
+    "posted_date": "2026-07-03",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Principal Product Application Engineer - Leo",
     "company": "Astera Labs",
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/principal-product-application-engineer-leo-at-astera-labs-4407089226",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Matches key technical skills, senior leadership experience level, and semiconductor company type",
     "id": "0d513c02",
-    "source": "linkedin_ww_semiconductor_principal_engineer"
+    "source": "linkedin_ww_semiconductor_principal_engineer",
+    "posted_date": "2026-05-25",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/astera_labs_principal_product_application__0d513c02.txt"
   },
   {
     "title": "Quantum Topological Qubit Integration",
     "company": "GlobalFoundries",
     "location": "Essex Junction, VT",
     "url": "https://www.linkedin.com/jobs/view/quantum-topological-qubit-integration-at-globalfoundries-4424611766",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on quantum topological qubit integration, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "90fcc7ff",
-    "source": "linkedin_ww_semiconductor_principal_engineer"
+    "source": "linkedin_ww_semiconductor_principal_engineer",
+    "posted_date": "2026-06-24",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer",
     "company": "EnCharge AI",
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/principal-physical-design-engineer-at-encharge-ai-4444415709",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "Strong match for Vineeth's experience in Physical Design, with 14-20 years required and focus on sub-5nm nodes. Company is a semiconductor startup.",
     "id": "0eb56659",
-    "source": "linkedin_india_semiconductor_principal_engineer"
+    "source": "linkedin_india_semiconductor_principal_engineer",
+    "posted_date": "2026-07-24",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/encharge_ai_principal_physical_design_engi_0eb56659.txt"
   }
 ]
