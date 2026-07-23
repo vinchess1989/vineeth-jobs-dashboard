@@ -8248,5 +8248,50 @@
     "deadline": "2023-06-30",
     "description_file": null,
     "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "LVI-suunnittelija / HVAC Project Engineer",
+    "company": "AFRY",
+    "location": "Kotka, Kymenlaakso, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/lvi-suunnittelija-hvac-project-engineer-at-afry-4435817255",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an HVAC Project Engineer at a consulting company, which does not match Vineeth's semiconductor/VLSI/EDA background and expertise.",
+    "id": "fdbd8bd7",
+    "source": "linkedin_fi_thermal_p2",
+    "posted_date": "3 viikkoa sitten",
+    "deadline": "2026-06-03",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-03) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Automation Engineer",
+    "company": "Koja",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/automation-engineer-at-koja-4432392093",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily automation engineering with no specific expertise required in power integrity, packaging, VLSI/EDA domains that Vineeth specializes in.",
+    "id": "e6ec7046",
+    "source": "linkedin_fi_thermal_p2",
+    "posted_date": "2026-07-09",
+    "deadline": "2023-08-09",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-08-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "LVI-suunnittelija",
+    "company": "A-Insin\u00f6\u00f6rit",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/lvi-suunnittelija-at-a-insin%C3%B6%C3%B6rit-4411635165",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior LVI Design Engineer position at A-Insin\u00f6\u00f6rit, which matches Vineeth's background in Power Integrity and Advanced Packaging. It requires Revit and MagiCAD skills.",
+    "id": "6ee1009f",
+    "source": "linkedin_fi_thermal_p2",
+    "posted_date": "N/A",
+    "deadline": "2023-07-31",
+    "description_file": "job_descriptions/a_insin__rit_lvi_suunnittelija_6ee1009f.txt",
+    "deletion_reason": "Deadline (2023-07-31) passed by more than 2 days and unreviewed"
   }
 ]
