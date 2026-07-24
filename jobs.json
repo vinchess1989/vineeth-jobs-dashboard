@@ -10204,5 +10204,61 @@
     "posted_date": "2 p\u00e4iv\u00e4\u00e4 sitten",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "AI Validation and Test Engineer",
+    "company": "AMD",
+    "location": "Secaucus, New Jersey, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/88567?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is focused on AI hardware validation, which is a software development/verification role and not related to Vineeth's background in EDA/VLSI.",
+    "id": "4d9366ed",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Java Engineer - REST APIs & Database Systems",
+    "company": "Broadcom",
+    "location": "USA-IL Lisle Warrenville Road",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Java-Engineer---REST-APIs---Database-Systems_R025498",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This Java Engineer role is for REST APIs & Database systems, well outside Vineeth's Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and CAD Methodology expertise.",
+    "id": "231ef524",
+    "source": "broadcom_careers",
+    "posted_date": "2026-07-04",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Electrical Concept Engineer (Naval Architecture)Helsinki ShipyardHelsinkiGo to job site",
+    "company": "Helsinki Shipyard",
+    "location": "Helsinki, Finland",
+    "url": "https://www.jobly.fi/en/job/electrical-concept-engineer-naval-architecture-2720962",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is in naval architecture, not semiconductor/VLSI/EDA.",
+    "id": "f104a9f6",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2026-08-23",
+    "description_file": null
+  },
+  {
+    "title": "3PL/Fufillment for Hardware company with customization",
+    "company": "r/hwstartups",
+    "location": "Global / Remote / See Post",
+    "url": "https://old.reddit.com/r/hwstartups/comments/1v5qcqo/3plfufillment_for_hardware_company_with/",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for fulfillment and logistics, which does not directly match Vineeth's power integrity, advanced packaging domain expertise. It also mentions hardware customization but no specific VLSI/EDA skills.",
+    "id": "832abed7",
+    "source": "reddit_hwstartups",
+    "posted_date": "an hour ago",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
