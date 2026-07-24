@@ -16479,15 +16479,15 @@
   },
   {
     "title": "Director, Supplier Account Manager (M6) salaries in Santa Clara, CA",
-    "company": "N/A (Extract from page)",
-    "location": "Santa Clara, CA",
+    "company": "Extract from page",
+    "location": "Extract from page",
     "url": "https://www.indeed.com/career/supplier-manager/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=5bae520f096ab010&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on supplier management rather than technical semiconductor/VLSI/EDA roles.",
+    "reason": "The job is for a non-technical Supplier Manager role, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "c7a3c9d7",
     "source": "indeed_ww_semiconductor_director",
-    "posted_date": "2026-07-03",
+    "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
   },
@@ -16497,12 +16497,26 @@
     "location": "Sunnyvale, California, USA",
     "url": "https://www.indeed.com/rc/clk?jk=3af8c6e43a00b2a1",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with relaxed domain requirements, good match for Vineeth's experience.",
+    "matches_requirements": "yes",
+    "reason": "This role matches the domain of semiconductor packaging with a strong senior leadership component, which is consistent with Vineeth's background and experience.",
     "id": "d5cc8230",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "2026",
     "deadline": "N/A",
+    "description_file": "job_descriptions/synopsys_r_d_engineering__director_d5cc8230.txt"
+  },
+  {
+    "title": "R&D Engineering, Director salaries in Sunnyvale, CA",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://www.indeed.com/career/r&d-engineer/salaries/94085--CA?campaignid=serp-more&fromjk=3af8c6e43a00b2a1&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is non-technical, HR role at a semiconductor company which should be discarded.",
+    "id": "ec349658",
+    "source": "indeed_ww_semiconductor_director",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -16512,11 +16526,11 @@
     "url": "https://www.indeed.com/rc/clk?jk=5e6d9bfc93124a7c",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification focused, which is outside Vineeth's domain.",
+    "reason": "The role is focused on ASIC design verification rather than the power integrity, advanced packaging, or CAD areas that match Vineeth's background.",
     "id": "348c659c",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "30+ days ago",
-    "deadline": "Open until filled",
+    "deadline": "N/A",
     "description_file": null
   }
 ]
