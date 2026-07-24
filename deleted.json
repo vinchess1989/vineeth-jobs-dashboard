@@ -10243,5 +10243,35 @@
     "deadline": "2023-06-30",
     "description_file": null,
     "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "CPU Design Methodology Engineer",
+    "company": "NVIDIA",
+    "location": "Hillsboro, OR",
+    "url": "https://www.linkedin.com/jobs/view/cpu-design-methodology-engineer-at-nvidia-4440603185",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on SOC design automation, RTL integration and methodology development which falls within Vineeth's domain of expertise. However, it requires a Master's degree in Computer or Electrical Engineering which exceeds Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.",
+    "id": "3092a5f6",
+    "source": "linkedin_ww_soc_design",
+    "posted_date": "2026-07-17",
+    "deadline": "2026-07-19",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior SoC Hardware Architect",
+    "company": "NXP Semiconductors",
+    "location": "Grenoble, Auvergne-Rh\u00f4ne-Alpes, France",
+    "url": "https://fr.linkedin.com/jobs/view/senior-soc-hardware-architect-at-nxp-semiconductors-4444050682",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a SoC Hardware Architect, which is primarily design and not within Vineeth's Power Integrity (PI) / Advanced Packaging domain.",
+    "id": "f5661615",
+    "source": "linkedin_eu_soc_design",
+    "posted_date": "2026-07-24",
+    "deadline": "2026-06-12",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-12) passed by more than 2 days and unreviewed"
   }
 ]
