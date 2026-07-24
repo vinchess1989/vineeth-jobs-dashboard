@@ -5884,32 +5884,41 @@
     "company": "United Integrated Services (USA) Corp.",
     "location": "Phoenix, AZ",
     "url": "https://www.linkedin.com/jobs/view/electrical-design-engineer-at-united-integrated-services-usa-corp-4430981790",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on electrical design for building systems rather than semiconductor VLSI EDA.",
     "id": "42146ae1",
-    "source": "linkedin_ww_system_power_integrity"
+    "source": "linkedin_ww_system_power_integrity",
+    "posted_date": "2026-05-25",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Thermofluids Engineer",
     "company": "Ecotal",
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/thermofluids-engineer-at-ecotal-4444342932",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a Thermofluids Engineer role focused on nuclear power plant systems, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
     "id": "9235b0ec",
-    "source": "linkedin_ww_thermal"
+    "source": "linkedin_ww_thermal",
+    "posted_date": "2026-07-24",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Mechanical Design & Simulation Engineer",
     "company": "Allied Motion Portugal",
     "location": "Vila do Conde, Porto, Portugal",
     "url": "https://pt.linkedin.com/jobs/view/mechanical-design-simulation-engineer-at-allied-motion-portugal-4441809418",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Mechanical Design & Simulation Engineer, which is outside Vineeth's domain of VLSI/EDA. Also, it is located in Portugal.",
     "id": "642b10b8",
-    "source": "linkedin_eu_thermal"
+    "source": "linkedin_eu_thermal",
+    "posted_date": "2026-07-24",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
