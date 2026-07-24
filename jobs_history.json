@@ -7148,5 +7148,27 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-24T10:00:43",
+    "total": 600,
+    "yes": 9,
+    "no": 565,
+    "maybe": 5,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-07-24T10:01:52",
+    "total": 599,
+    "yes": 10,
+    "no": 577,
+    "maybe": 6,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 1
   }
 ]
