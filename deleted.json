@@ -10573,5 +10573,20 @@
     "deadline": "N/A",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "CPU Design Methodology Engineer",
+    "company": "NVIDIA",
+    "location": "Austin, TX",
+    "url": "https://www.linkedin.com/jobs/view/cpu-design-methodology-engineer-at-nvidia-4440285876",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily RTL design (Verilog), verification, and SoC integration which is outside Vineeth's domain of power integrity, advanced packaging, and CAD methodology.",
+    "id": "03f82afd",
+    "source": "linkedin_ww_asic_design_p3",
+    "posted_date": "2026-07-17",
+    "deadline": "2026-07-19",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-19) passed by more than 2 days and unreviewed"
   }
 ]
