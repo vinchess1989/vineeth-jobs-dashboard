@@ -11386,10 +11386,13 @@
     "company": "PER International",
     "location": "County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/switch-mode-power-supply-design-engineer-at-per-international-4435810247",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a switch mode power supply design engineer, which doesn't match Vineeth's background in Power Integrity and semiconductor design.",
     "id": "8e016e61",
-    "source": "linkedin_eu_system_power_integrity"
+    "source": "linkedin_eu_system_power_integrity",
+    "posted_date": "2026-07-04",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
