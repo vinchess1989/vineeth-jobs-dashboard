@@ -1887,17 +1887,17 @@
             const CHURN_KEY = metric === 'yes' ? 'yes' : metric === 'applied' ? 'applied' : 'total';
             const ADDED_COLOR = '#94a3b8';
             const DELETED_COLOR = '#f87171';
-            // Prefer the real added/deleted churn scraper.py records for 'total'; fall back to the
-            // net change in the metric's own key (covers historical points and the yes/applied views,
-            // which have no separate churn instrumentation).
+            // Prefer the real added/deleted churn scraper.py records whenever a point has it,
+            // regardless of which metric is being viewed; fall back to the net change in the
+            // metric's own key only for points with no churn instrumentation at all.
             const addedVals = data.map((d, i) => {
-                if (CHURN_KEY === 'total' && d._hasChurn) return d.added ?? 0;
+                if (d._hasChurn) return d.added ?? 0;
                 if (i === 0) return 0;
                 const net = (d[CHURN_KEY] ?? 0) - (data[i - 1][CHURN_KEY] ?? 0);
                 return net > 0 ? net : 0;
             });
             const deletedVals = data.map((d, i) => {
-                if (CHURN_KEY === 'total' && d._hasChurn) return d.deleted ?? 0;
+                if (d._hasChurn) return d.deleted ?? 0;
                 if (i === 0) return 0;
                 const net = (d[CHURN_KEY] ?? 0) - (data[i - 1][CHURN_KEY] ?? 0);
                 return net < 0 ? -net : 0;
