@@ -911,15 +911,25 @@ def check_requirements_update():
 
 def extract_json_from_text(text):
     """Finds and parses the first JSON object in a text block, handling markdown code fences."""
+    import re
     text = text.strip()
     start_idx = text.find('{')
     end_idx = text.rfind('}')
     if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
         candidate = text[start_idx:end_idx + 1]
+        
+        # Remove trailing commas which are common in LLM outputs
+        candidate = re.sub(r',\s*}', '}', candidate)
+        candidate = re.sub(r',\s*]', ']', candidate)
+        
         try:
             return json.loads(candidate)
         except json.JSONDecodeError:
             pass
+            
+    # Fallback to loading the whole string, also stripping trailing commas
+    text = re.sub(r',\s*}', '}', text)
+    text = re.sub(r',\s*]', ']', text)
     return json.loads(text)
 
 
@@ -1347,7 +1357,7 @@ Location: {job['location']}
 URL: {job['url']}
 
 ### Job Description:
-{cleaned_text[:15000]}
+{cleaned_text[:10000]}
 
 ### Instructions:
 Return a JSON object with exactly six keys:
