@@ -1,0 +1,444 @@
+Title: AI Platform Architect (Semiconductor Design)
+Company: TYLsemi
+Location: India
+URL: https://in.linkedin.com/jobs/view/ai-platform-architect-semiconductor-design-at-tylsemi-4445631106
+Posted: 2026-07-27
+Deadline: N/A
+Reason: Matches leadership role exception, and technical overlap with AI/EDA tools & semiconductor design.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI Platform Architect (Semiconductor Design)
+TYLsemi  India
+6 hours ago   Be among the first 25 applicants
+  
+
+See who TYLsemi has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Role Overview
+
+We are building an AI-first semiconductor company, where AI is deeply embedded into every aspect of engineering—from architecture and RTL design to verification, physical design, and operations.
+
+We are looking for a highly capable AI Engineer / AI Platform Architect who will define and drive our AI strategy, infrastructure, and agent-based workflows for semiconductor design. This role sits at the intersection of AI, EDA, and engineering productivity, and will be instrumental in transforming how chips are built.
+
+What You’ll Do
+
+AI Strategy & Vision
+
+
+Define and execute the AI roadmap for semiconductor design workflows across:
+Architecture
+RTL design
+Verification
+Physical design
+Analog design
+Identify high-impact opportunities where AI can significantly improve:
+Productivity
+Quality
+Time-to-silicon
+Serve as the central thought leader for AI adoption across the company
+
+
+AI Infrastructure & Platform
+
+
+Architect and deploy AI infrastructure, including:
+Cloud-based (e.g., AWS) and/or on-prem (air-gapped) environments
+GPU/compute resource planning and scaling
+Define strategy for:
+Model hosting vs API usage
+Offline/private model deployment for IP-sensitive environments
+Build systems for:
+Data management, protection, and governance
+IP security and compliance
+Auditability and traceability of AI-generated outputs
+
+
+AI Agents & Workflow Automation
+
+
+Work closely with engineering teams to:
+Identify workflows suitable for AI agent automation
+Define multi-step agent pipelines spanning different tools and domains
+Design and implement AI agents that can:
+Interact with EDA tools
+Execute multi-stage workflows (e.g., generate → simulate → analyze → refine)
+Integrate across RTL, DV, and physical design flows
+Build reusable agent frameworks and orchestration layers
+
+
+AI Guardrails & Governance
+
+
+Define and enforce AI guardrails, including:
+Safe usage policies
+Data privacy and IP protection
+Model access controls
+Manage:
+Token usage and cost optimization
+Access policies for different teams
+Ensure AI usage aligns with enterprise-grade security standards
+
+
+LLM & Tooling Expertise
+
+
+Evaluate and recommend LLMs and AI tools for different use cases:
+Code generation
+Debugging
+Documentation
+Data analysis
+Continuously benchmark and optimize model selection across:
+Performance
+Cost
+Privacy constraints
+Stay current with advancements in:
+LLMs
+Agent frameworks
+AI tooling ecosystem
+
+
+Enablement & Training
+
+
+Train engineering teams to:
+Effectively use AI tools and agents
+Build their own custom AI agents
+Apply prompt engineering best practices
+Create documentation, playbooks, and templates for:
+AI-assisted workflows
+Agent development
+Drive a culture of AI-native engineering
+
+
+What We’re Looking For
+
+
+Bachelor’s/Master’s/PhD in Computer Science, Electrical Engineering, or related field
+8+ years of experience in AI/ML, systems, or platform engineering
+Strong experience in:
+LLMs and generative AI systems
+Building AI-powered tools or platforms
+Designing scalable AI infrastructure (cloud and/or on-prem)
+Experience with:
+Agent frameworks and orchestration systems
+API-based and self-hosted models
+Solid understanding of:
+Data security, privacy, and IP protection in AI systems
+Strong software engineering skills (Python required)
+
+
+Good to Have
+
+
+Experience working with semiconductor or EDA workflows
+Familiarity with:
+RTL, verification, or physical design flows
+Experience with:
+Air-gapped or secure AI deployments
+GPU clusters and distributed training/inference
+Knowledge of:
+Prompt engineering techniques
+Retrieval-augmented generation (RAG)
+Workflow automation systems
+Exposure to DevOps / MLOps practices
+
+
+Key Attributes
+
+
+Strong systems thinker with end-to-end ownership mindset
+Ability to bridge AI and domain engineering (EDA/SoC)
+Highly proactive with a builder mentality
+Passionate about transforming traditional workflows using AI
+Strong communication and influence across teams
+
+
+Success in This Role Looks Like
+
+
+Adoption of AI across engineering workflows
+Measurable improvements in productivity and quality
+Effective deployment of AI agents across multiple domains
+Secure and scalable AI infrastructure
+Reduced cost and improved efficiency of AI usage
+Engineers enabled to independently build and use AI agents
+
+
+Why This Role Matters
+
+This is a foundational role in shaping an AI-native semiconductor company. You will define not just tools, but how engineering itself is done, and directly impact the speed, quality, and innovation of our products.
+
+Location
+
+Hybrid / On-site – Bengaluru
+
+About TylSemi, Inc.
+
+The Opportunity
+
+The AI infrastructure market is exploding. Every hyperscaler, every cloud provider, every AI company is building custom silicon. But they all face the same problem: how do you connect hundreds of chips, deliver clean power at scale, and move terabits of data without melting the package?
+
+That's what we solve. TylSemi builds the chiplet infrastructure IP — the IO, power delivery, and interconnect building blocks — that makes AI/HPC systems actually work at scale.
+
+This isn't a nice-to-have. It's the critical path.
+
+Why Now
+
+The Market Window
+
+The semiconductor industry is going through its biggest architectural shift in 40 years:
+
+
+Moore's Law is dead. 2nm and beyond delivers marginal performance gains. The future is chiplets, not monolithic dies.
+Custom silicon is now mainstream. Google, Microsoft, Amazon, Meta, OpenAI — they're all designing their own ASICs. The $50B custom silicon market is growing 30% annually.
+IO and power are the bottleneck. Solve hard problems and provide something which is a category in itself.
+
+
+Translation: We're entering the market at exactly the moment when every major AI/HPC player needs what we're building, and their alternatives are disappearing.
+
+Culture & Team: How We Work
+
+No Politics, No Bureaucracy
+
+There are no layers, no approval chains, no corporate theater.
+
+
+If you have an idea, we test it. If it works, we ship it.
+No endless meetings, no PowerPoint presentations to convince middle management.
+
+
+Remote-Friendly, Global Team
+
+
+US team: Bay Area preferred, but we hire the best people regardless of location
+India team: Building a world-class design center in Bangalore
+
+
+Move Fast, Ship Real Products
+
+We're not a research project. We have paying customers, committed capital, and aggressive timelines.
+
+This is a company, not a lifestyle business. We're building to win.
+
+What We Value
+
+
+Ownership mindset. You're not here to execute someone else's roadmap. You're here to define it.
+Bias for action. We move fast. Analysis paralysis doesn't fly here.
+Deep technical expertise. This is hard engineering. We need people who've shipped real silicon and debugged real hardware.
+Low ego, high standards. We don't care about titles or politics. We care about results.
+
+
+The Ask
+
+If you're reading this, you're probably comfortable. You have a good job at a stable company with all the benefits.
+
+We're asking you to walk away from that and bet on us.
+
+Here's Why You Should
+
+
+The market is real. AI infrastructure spending is $200B+ annually and growing 40% YoY. Every hyperscaler needs what we're building.
+The team has done this before. We've built and exited semiconductor companies at scale. This isn't our first rodeo.
+The traction is de-risked. We have LOIs, strategic investors, and a clear path to revenue.
+The work is consequential. You're not optimizing someone's ad click-through rate. You're building the silicon infrastructure that powers AI.
+
+
+This is the bet. Join us and build something that matters.
+
+Or stay comfortable. No judgment.
+
+But if you're the kind of person who wants to take the shot, we'd love to talk.
+
+READY TO JOIN?
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at TYLsemi by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+AI Platform Architect (Semiconductor Design)
+AI Platform Architect (Semiconductor Design)
+TYLsemi
+Bengaluru, Karnataka, India
+6 days ago
+AI Platform Architect - Semiconductor Design
+AI Platform Architect - Semiconductor Design
+NetConnect AS
+Bengaluru, Karnataka, India
+1 week ago
+SoC Architect
+SoC Architect
+TYLsemi
+Hyderabad, Telangana, India
+6 hours ago
+AI Solutions Architect – Semiconductor Enablement & Engineering Automation
+AI Solutions Architect – Semiconductor Enablement & Engineering Automation
+Best NanoTech
+Bengaluru, Karnataka, India
+15 hours ago
+Semiconductor AI Solutions Architect
+Semiconductor AI Solutions Architect
+Best NanoTech
+Bengaluru, Karnataka, India
+15 hours ago
+AI Architect
+AI Architect
+Avahi
+Bengaluru, Karnataka, India
+5 days ago
+Show more jobs like this 
+People also viewed
+Principal Engineer
+Principal Engineer
+
+Hiver
+
+Bengaluru, Karnataka, India
+1 month ago
+AI Architect
+AI Architect
+
+Snowrelic Inc
+
+India
+3 weeks ago
+Microsoft Technical Architect
+Microsoft Technical Architect
+
+Genzeon
+
+Hyderabad, Telangana, India
+3 days ago
+Director
+Director
+
+Marvell Technology
+
+Hyderabad, Telangana, India
+1 week ago
+Senior AI / Agentic Architect
+Senior AI / Agentic Architect
+
+Comviva
+
+Bengaluru, Karnataka, India
+1 month ago
+Solutions Architect
+Solutions Architect
+
+Nuaav
+
+India
+4 days ago
+Principal AI Platform Architect
+Principal AI Platform Architect
+
+Unisys
+
+Bengaluru East, Karnataka, India
+2 weeks ago
+Senior Technical Lead
+Senior Technical Lead
+
+Conquer AI
+
+India
+2 weeks ago
+Principal Software Engineer/ Architect- AI
+Principal Software Engineer/ Architect- AI
+
+Avalara APAC
+
+India
+1 week ago
+Infrastructure Architect
+Infrastructure Architect
+
+Inception42
+
+India
+3 weeks ago
+Similar Searches
+Sharepoint Architect jobs
+353 open jobs
+Principal Enterprise Architect jobs
+217 open jobs
+Senior Infrastructure Architect jobs
+1,296 open jobs
+Performance Architect jobs
+8,841 open jobs
+Domain Architect jobs
+2,761 open jobs
+Infrastructure Architect jobs
+3,327 open jobs
+Unix Engineer jobs
+1,055 open jobs
+Lead Software Architect jobs
+9,422 open jobs
+SAP Basis Manager jobs
+427 open jobs
+Cloud Architect jobs
+5,470 open jobs
+Application Architect jobs
+4,207 open jobs
+Middleware Architect jobs
+1,429 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at TYLsemi
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
