@@ -20006,16 +20006,30 @@
     "description_file": null
   },
   {
+    "title": "Energy Market Analyst \u2013 Large Consumers\u2019 Advisory",
+    "company": "VaasaETT",
+    "location": "Helsinki Metropolitan Area",
+    "url": "https://fi.linkedin.com/jobs/view/energy-market-analyst-%E2%80%93-large-consumers%E2%80%99-advisory-at-vaasaett-4442828568",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a non-technical policy analysis role unrelated to semiconductor, VLSI, EDA, power integrity or packaging.",
+    "id": "1af97204",
+    "source": "linkedin_fi_emir",
+    "posted_date": "2026-07-27",
+    "deadline": "2026-08-10",
+    "description_file": null
+  },
+  {
     "title": "Principal Simulation Device Engineer",
     "company": "Plessey Semiconductors Ltd",
     "location": "England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-simulation-device-engineer-at-plessey-semiconductors-ltd-4445955336",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is primarily device simulation engineering, which overlaps with Vineeth's power integrity and advanced packaging expertise.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on device simulation rather than power integrity and advanced packaging, which are Vineeth's core strengths.",
     "id": "668c7dfa",
     "source": "linkedin_uk_ir_drop",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-24",
     "deadline": "N/A",
     "description_file": null
   },
@@ -20026,11 +20040,11 @@
     "url": "https://in.linkedin.com/jobs/view/silicon-design-engineer-power-management-boot-flow-at-amd-4382063497",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (BIOS/FW/BIOS/FW Managers), which is outside Vineeth's domain.",
+    "reason": "The role is an individual contributor Silicon Design Engineer position focused on power management and boot flow, which does not match Vineeth's technical leadership background in power integrity and advanced packaging.",
     "id": "179ea7f0",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-24",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20039,13 +20053,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/lead-electronic-engineer-at-advanced-energy-4442043251",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a mid-level electronics engineering position with strong overlap to Vineeth's power integrity and advanced packaging background, especially in medical energy applications.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily product design rather than semiconductor/VLSI/EDA.",
     "id": "c26cabf7",
     "source": "linkedin_eu_system_power_integrity",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": "job_descriptions/advanced_energy_lead_electronic_engineer_c26cabf7.txt"
+    "description_file": null
   },
   {
     "title": "Electronic System Engineer",
@@ -20054,11 +20068,11 @@
     "url": "https://uk.linkedin.com/jobs/view/electronic-system-engineer-at-cbsbutler-4445994702",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Electronic Systems Engineer focused on hardware design and integration, which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, EDA/Methodology.",
+    "reason": "The role is a general electronic systems engineer position, not matching Vineeth's specialized Power Integrity/Advanced Packaging domain. It does not require ANSYS RedHawk, RedHawk-SC, Totem, Cadence Voltus, Grid Prototyping System (GPS) skills.",
     "id": "a7224f9d",
     "source": "linkedin_uk_system_power_integrity",
-    "posted_date": "2026-07-27",
-    "deadline": "N/A",
+    "posted_date": "2026-07-06",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20068,11 +20082,11 @@
     "url": "https://www.linkedin.com/jobs/view/tbc-at-spirax-sarco-usa-4445974957",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is in manufacturing and industrial machinery, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is for a non-technical sales role at a company making steam and thermal energy management equipment, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "5c5a4383",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-27",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20082,11 +20096,11 @@
     "url": "https://www.linkedin.com/jobs/view/teamcenter-at-nlb-services-4445151898",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical HR position at a semiconductor company.",
+    "reason": "The job is for a non-technical role (Teamcenter administrator) and does not match Vineeth's technical domains of expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off, etc.",
     "id": "ac55ff5d",
     "source": "linkedin_ww_si_pi",
-    "posted_date": "2026-07-27",
-    "deadline": "N/A",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20096,11 +20110,11 @@
     "url": "https://in.linkedin.com/jobs/view/sap-s-4hana-pc-at-tata-consultancy-services-4445161762",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an SAP S/4HANA PC role at Tata Consultancy Services in India, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "reason": "The job is for an SAP S/4HANA PC role at a consulting company, which does not match Vineeth's technical focus areas in semiconductor VLSI EDA.",
     "id": "42186235",
     "source": "linkedin_india_si_pi",
-    "posted_date": "2026-07-27",
-    "deadline": "N/A",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20110,7 +20124,7 @@
     "url": "https://in.linkedin.com/jobs/view/abm-at-vashi-integrated-solutions-4445963326",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level ABM role at a business consulting company, not a semiconductor/VLSI/EDA technical engineering position.",
+    "reason": "The role is a sales-related AMO position at an appliance/electronics wholesaler, which is non-technical. Vineeth's background is in semiconductor VLSI EDA engineering.",
     "id": "f5199b03",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-27",
@@ -20124,11 +20138,11 @@
     "url": "https://in.linkedin.com/jobs/view/tmx-at-courthive-4442864749",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a software development management position, outside Vineeth's semiconductor/VLSI/EDA domain and experience.",
+    "reason": "The job is a software development position, which is outside Vineeth's domain.",
     "id": "0a47b8de",
     "source": "linkedin_india_si_pi",
-    "posted_date": "2026-07-27",
-    "deadline": "N/A",
+    "posted_date": "2026-07-24",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20138,7 +20152,7 @@
     "url": "https://lv.linkedin.com/jobs/view/open-source-at-courthive-4442858691",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for open source software development, not semiconductor/VLSI/EDA.",
+    "reason": "This is an open-source project leadership role, unrelated to semiconductor/VLSI/EDA.",
     "id": "7515ed48",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-27",
@@ -20152,10 +20166,10 @@
     "url": "https://fi.linkedin.com/jobs/view/strategic-purchaser-at-w%C3%A4rtsil%C3%A4-4445907304",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Strategic Purchaser position at W\u00e4rtsil\u00e4, which is in the manufacturing sector and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is for a Strategic Purchaser, which doesn't match Vineeth's key skills in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "0dc02133",
     "source": "linkedin_fi_si_pi",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-10",
     "deadline": "2026-08-10",
     "description_file": null
   },
@@ -20166,11 +20180,11 @@
     "url": "https://in.linkedin.com/jobs/view/solution-architect-thermal-solutions-at-johnson-controls-4419619162",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Solution Architect role for data center thermal management, outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a thermal solutions architect at an HVAC company, not a technical semiconductor/EDA leadership role.",
     "id": "c5666d32",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-20",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
@@ -20180,11 +20194,11 @@
     "url": "https://fr.linkedin.com/jobs/view/responsable-ing%C3%A9nierie-thermique-et-fluides-at-mordicus-4370531651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a thermal engineering team lead at a real estate focused renewable energy consulting firm, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "reason": "The job is for a thermal engineer leading building renovation projects, which does not match Vineeth's semiconductor/VLSI/EDA background.",
     "id": "b8e3cd85",
     "source": "linkedin_eu_thermal",
-    "posted_date": "2026-02-27",
-    "deadline": "N/A",
+    "posted_date": "5 kuukautta sitten",
+    "deadline": "Open until filled",
     "description_file": null
   }
 ]
