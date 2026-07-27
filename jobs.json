@@ -16224,5 +16224,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "MTS Engineer Cleans ManufacturingMalta, NY, USPosted 2 months ago",
+    "company": "GlobalFoundries",
+    "location": "Malta, NY, USA",
+    "url": "https://globalfoundries.eightfold.ai/careers/job/563980769848123",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This is a manufacturing engineering role focused on wet cleans process, which does not match Vineeth's power integrity and advanced packaging background.",
+    "id": "17815a72",
+    "source": "globalfoundries_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Sr. Assoc Engineer, Integration & YieldSGPosted a month ago",
+    "company": "Extract from page",
+    "location": "Singapore, Singapore",
+    "url": "https://globalfoundries.eightfold.ai/careers/job/563980769857287",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role of Sr. Assoc Engineer, Integration & Yield directly matches Vineeth's background and key skills in Power Integrity (PI), CAD Methodology and EDA tool experience.",
+    "id": "93497045",
+    "source": "globalfoundries_careers",
+    "posted_date": "a month ago",
+    "deadline": "N/A",
+    "description_file": "job_descriptions/extract_from_page_sr__assoc_engineer__integratio_93497045.txt"
+  },
+  {
+    "title": "Quantum Ion Trap Advanced Manufacturing EngineerMalta, NY, USPosted 2 months ago",
+    "company": "GlobalFoundries",
+    "location": "Malta, New York, United States of America",
+    "url": "https://globalfoundries.eightfold.ai/careers/job/563980769501536",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is outside Vineeth's domain of expertise (semiconductors, VLSI, EDA) and instead focuses on advanced manufacturing engineering for quantum computing platforms.",
+    "id": "d866ee4f",
+    "source": "globalfoundries_careers",
+    "posted_date": "05/20/2026",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Principal Engineer - Integration EngineeringEssex, VT, USFlexible LocationPosted 3 months ago",
+    "company": "GlobalFoundries",
+    "location": "Essex Junction, Vermont, United States of America",
+    "url": "https://globalfoundries.eightfold.ai/careers/job/563980769098567",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on semiconductor manufacturing engineering, not the VLSI/EDA domains Vineeth specializes in like Power Integrity and Advanced Packaging.",
+    "id": "7ffbbc3f",
+    "source": "globalfoundries_careers",
+    "posted_date": "04/16/2026",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
