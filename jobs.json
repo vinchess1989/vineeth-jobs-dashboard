@@ -22398,5 +22398,61 @@
     "posted_date": "2026-07-28",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "VP of Engineering, Silicon Photonics",
+    "company": "Skorpios Technologies, Inc.",
+    "location": "Temecula, CA",
+    "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-silicon-photonics-at-skorpios-technologies-inc-4424689840",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a VP-level engineering leadership position, so it doesn't directly match Vineeth's technical specialties in power integrity and advanced packaging. It requires strong general semiconductor and photonics experience.",
+    "id": "d8bb33af",
+    "source": "linkedin_ww_semiconductor_cto",
+    "posted_date": "2026-07-14",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "FPGA Design, Validation, and Automation for AMD Xilinx SoC Platforms\u202f Intern",
+    "company": "Singapore, Singapore",
+    "location": "Singapore",
+    "url": "https://careers.amd.com/careers-home/jobs/77519?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This internship is focused on FPGA/Vivado development for AMD Xilinx SoC platforms, which does not strongly match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "id": "d50b6c28",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Software Development Engineer - AI Frameworks, GPU SW Performance",
+    "company": "AMD",
+    "location": "Beijing, China",
+    "url": "https://careers.amd.com/careers-home/jobs/88881?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (AI, ML frameworks) and does not match Vineeth's Power Integrity/Advanced Packaging/CAD background.",
+    "id": "b2b0380f",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Regional Channel Technical Enablement (Enterprise) Manager",
+    "company": "AMD",
+    "location": "Austin, TX, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/88751?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a marketing/sales position, not technical.",
+    "id": "094231c2",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
