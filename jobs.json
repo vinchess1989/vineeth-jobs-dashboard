@@ -35208,5 +35208,61 @@
     "posted_date": "2026-07-29",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Founding Chief Architect (High-Speed SerDes)",
+    "company": "SwapeTech",
+    "location": "Greater London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/founding-chief-architect-high-speed-serdes-at-swapetech-4446018619",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a founding Chief Architect for high-speed SerDes, which falls outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
+    "id": "03e07a68",
+    "source": "linkedin_uk_semiconductor_cto_p2",
+    "posted_date": "2026-07-29",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Technical Staff Engineer - Process Integration",
+    "company": "Microchip Technology Inc.",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/technical-staff-engineer-process-integration-at-microchip-technology-inc-4446543724",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on embedded flash memory process integration, which does not match Vineeth's areas of expertise in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off. The job is more aligned with semiconductor fabrication engineering rather than the VLSI/EDA domain.",
+    "id": "87249d9b",
+    "source": "linkedin_ww_semiconductor_technical_leader",
+    "posted_date": "2026-07-29",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Verification Engineer",
+    "company": "AMD",
+    "location": "Bangalore, India",
+    "url": "https://careers.amd.com/careers-home/jobs/88843?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development), which is outside Vineeth's domain.",
+    "id": "8f6ad094",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Lead Infrastructure & Platform EngineerW\u00e4rtsil\u00e4VaasaGo to job site",
+    "company": "W\u00e4rtsil\u00e4",
+    "location": "Vaasa, Helsinki, Finland",
+    "url": "https://www.jobly.fi/en/job/lead-infrastructure-platform-engineer-2722846",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on DevOps, cloud infrastructure and platform services rather than semiconductor, VLSI or EDA technologies.",
+    "id": "023b135c",
+    "source": "work_in_finland",
+    "posted_date": "2026-07-29",
+    "deadline": "2026-08-16",
+    "description_file": null
   }
 ]
