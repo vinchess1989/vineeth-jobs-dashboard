@@ -59386,5 +59386,47 @@
     "posted_date": "2026-07-30",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Director of Operations",
+    "company": "Technify Talent",
+    "location": "Sheffield, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/director-of-operations-at-technify-talent-4446982750",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a Director of Operations for a photonics semiconductor company, which is outside Vineeth's main areas of Power Integrity and VLSI/SoC design.",
+    "id": "d4c2d220",
+    "source": "linkedin_uk_semiconductor_director",
+    "posted_date": "2026-07-10",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "RTL SOC Architect",
+    "company": "Mirafra Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://in.linkedin.com/jobs/view/rtl-soc-architect-at-mirafra-technologies-4446735413",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This RTL SOC Architect role is focused on digital design and architecture, which falls more into SoC design and verification rather than Power Integrity/Advanced Packaging/CAD domains that Vineeth specializes in.",
+    "id": "7496e284",
+    "source": "linkedin_india_semiconductor_architect",
+    "posted_date": "2026-07-30",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Sr Firmware Developer - C Programming",
+    "company": "AMD",
+    "location": "Bengaluru, India",
+    "url": "https://careers.amd.com/careers-home/jobs/88856?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "id": "5c32a503",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
