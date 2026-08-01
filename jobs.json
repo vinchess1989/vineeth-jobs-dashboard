@@ -24618,13 +24618,12 @@
     "url": "https://uk.linkedin.com/jobs/view/founding-vp-of-engineering-cto-track-%C2%A368-000-gbp-%2B-equity-at-iinvest-at-jack-jill-4445487122",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Senior leadership role at a startup, but specific domain is unclear.",
+    "reason": "The role is a Founding VP of Engineering with a CTO track, aligning with leadership experience and potentially involving technical domain overlap despite not explicitly mentioning Power Integrity or related keywords.",
     "id": "a228199c",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Chief Hardware Officer (+ Equity) at Stealth physical AI startup",
@@ -24633,13 +24632,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-hardware-officer-%2B-equity-at-stealth-physical-ai-startup-at-jack-jill-4445475257",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a C-level executive role that does not fit Vineeth's technical leadership background in VLSI/EDA.",
+    "reason": "The role is a Chief Hardware Officer, which isn't within Vineeth's domain of Power Integrity, Advanced Packaging, or related areas.",
     "id": "c3436295",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal STA Engineer",
@@ -24647,14 +24645,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/principal-sta-engineer-at-mulya-technologies-4445453975",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on Static Timing Analysis (STA), which falls outside of Vineeth's domain expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "While the role focuses on STA, Vineeth's experience aligns with the technical expertise and leadership aspects described, but lacks direct Power Integrity focus.",
     "id": "a337bde8",
     "source": "linkedin_india_semiconductor_principal_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Designer (\u00a3110k-\u00a3130k) at Faculty",
@@ -24663,13 +24660,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-designer-%C2%A3110k-%C2%A3130k-at-faculty-at-jack-jill-4445486135",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product design role focused on AI products, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and packaging.",
+    "reason": "The role is a Principal Designer focused on product and service design, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "b71d89a6",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT- ATPG Engineer",
@@ -24678,13 +24674,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88741?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is primarily focused on DFT (Design for Testability) and ATPG (Automatic Test Pattern Generation), which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "cca1ccc3",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Finland (5)",
@@ -24692,14 +24687,13 @@
     "location": "Oulu, Finland",
     "url": "https://www.euroengineerjobs.com/jobs/finland",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior HW Engineer role fits Power Integrity (PI) domain and matches Vineeth's technical background and experience level.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on general hardware engineering roles.",
     "id": "8e0d5c4a",
     "source": "euro_engineer_jobs",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nokia_finland__5__8e0d5c4a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer (Telemetry)ICEYEEspooGo to job site",
@@ -24708,13 +24702,12 @@
     "url": "https://thehub.fi/jobs/6a670aa3574e266cb973dabf",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (backend, telemetry systems) which is outside Vineeth's domain of power integrity and advanced packaging expertise.",
+    "reason": "The job description does not mention any keywords related to power integrity, advanced packaging, or EDA tools like RedHawk or Voltus.",
     "id": "41bf94ef",
     "source": "work_in_finland",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Backend Software EngineerICEYEEspooGo to job site",
@@ -24723,13 +24716,12 @@
     "url": "https://thehub.fi/jobs/6a670e331e53516cf3d70a7d",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (backend engineering) which is outside Vineeth's domain.",
+    "reason": "The role is a Backend Software Engineer, focusing on general software development and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "d7e7d108",
     "source": "work_in_finland",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "DevOps EngineerICEYEEspooGo to job site",
@@ -24738,13 +24730,12 @@
     "url": "https://thehub.fi/jobs/6a672d0da175fe6cd672a743",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily DevOps and not aligned with Vineeth's domain of Power Integrity, CAD tools, or VLSI/SoC design.",
+    "reason": "The role is a DevOps Engineer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "c78209f2",
     "source": "work_in_finland",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Faculty Positions at Manipal Institute of Technology, MAHE Bengaluru Campus",
@@ -24753,13 +24744,12 @@
     "url": "https://in.linkedin.com/jobs/view/faculty-positions-at-manipal-institute-of-technology-mahe-bengaluru-campus-at-academint-4445199572",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a faculty position at an educational institution, which is a non-technical role in semiconductor/VLSI/EDA industry job search requirements.",
+    "reason": "This is a faculty position at a university, which falls outside Vineeth's domain of VLSI and EDA engineering leadership.",
     "id": "e782080a",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career CAD Automation Engineer (Design Verification)",
@@ -24768,13 +24758,12 @@
     "url": "https://uk.linkedin.com/jobs/view/early-career-cad-automation-engineer-design-verification-at-apple-4443231295",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification which is outside Vineeth's domain.",
+    "reason": "The role is specifically for design verification, which falls outside Vineeth's area of expertise.",
     "id": "33a9c760",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career CAD Automation Engineer (Design Verification)",
@@ -24783,13 +24772,12 @@
     "url": "https://uk.linkedin.com/jobs/view/early-career-cad-automation-engineer-design-verification-at-apple-4443247172",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on design verification rather than power integrity, advanced packaging, or EDA/CAD work which are Vineeth's key areas of expertise.",
+    "reason": "The role is specifically for Design Verification, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "5b34aefa",
     "source": "linkedin_uk_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Early Career CAD Automation Engineer (Design Verification)",
@@ -24798,13 +24786,12 @@
     "url": "https://uk.linkedin.com/jobs/view/early-career-cad-automation-engineer-design-verification-at-apple-4443226708",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification (RTL simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is explicitly for design verification, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "adf37e8c",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Analog Circuit Designer",
@@ -24813,13 +24800,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-analog-circuit-designer-at-broadcom-4374481985",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an analog circuit design role, which falls outside Vineeth's power integrity and advanced packaging domain.",
+    "reason": "This role is for an analog circuit designer, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "2a029e52",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
@@ -24828,13 +24814,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-floorplan-design-engineer-new-college-grad-2026-at-nvidia-4434186415",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an entry-level college graduate position, which does not match Vineeth's experienced technical leadership profile.",
+    "reason": "This is a New College Grad role (entry-level) requiring less than 7 years of experience, which falls outside Vineeth's target experience level.",
     "id": "b7fe56fb",
     "source": "linkedin_ww_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
