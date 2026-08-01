@@ -8574,13 +8574,12 @@
     "url": "https://www.indeed.com/career/application-developer/salaries/27703--NC?campaignid=serp-more&fromjk=62fa221fbc837ebe&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (application engineer) rather than focused on semiconductor process, design or EDA tools. This does not match Vineeth's background in power integrity, advanced packaging or physical design.",
+    "reason": "While mentioning advanced packaging, the role appears to be more focused on application development rather than power integrity, PDN sign-off, or related engineering activities.",
     "id": "b904895a",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Product Engineer",
@@ -8589,13 +8588,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=5a6fc9600521af6a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (Firmware Engineer) which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on product engineering and manufacturing operations, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "ece0a6b4",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Product Engineer salaries in Austin, TX",
@@ -8604,13 +8602,12 @@
     "url": "https://www.indeed.com/career/senior-product-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=5a6fc9600521af6a&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Product Engineering) and is located in Austin, TX, USA which does not match Vineeth's domain or location preferences.",
+    "reason": "The job is located in Austin, TX, USA and explicitly requires US residency, which violates the location hard rejection criteria.",
     "id": "2418c36c",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Engineer",
@@ -8619,28 +8616,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=ced6c186237c21c4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on manufacturing packaging, which does not match Vineeth's expertise in power integrity and advanced IC packaging.",
+    "reason": "The job description lacks essential keywords like PDN, Redhawk, or Voltus, indicating it's not a genuine Power Integrity role.",
     "id": "4277db0b",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Engineer salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Marathon, WI, USA",
     "url": "https://www.indeed.com/career/salaries/Packaging%20Engineer/Marathon,%20WI?campaignid=serp-more&fromjk=ced6c186237c21c4&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is about Packaging Engineer salaries, which is a general salary query and does not match Vineeth's specific technical background. It lacks details needed to evaluate against his exact requirements.",
+    "reason": "The job posting is a salary comparison page and does not describe an actual engineering role, failing to meet the requirement for a technical position.",
     "id": "756c970b",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Bag Line Packer (Air Line)",
@@ -8649,28 +8644,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=1b75ec1fd91919b2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Bag Line Packer) at a company, which does not fit the semiconductor/VLSI/EDA technical position criteria.",
+    "reason": "The job title and description do not contain relevant keywords like PDN, Redhawk, or Voltus, indicating it is not a semiconductor/VLSI/EDA role.",
     "id": "523bb63d",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Bag Line Packer (Air Line) salaries in Kea\u2018au, HI",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Kea\u2018au, HI, USA",
     "url": "https://www.indeed.com/career/packer/salaries/Kea\u2018au--HI?campaignid=serp-more&fromjk=1b75ec1fd91919b2&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a manufacturing packer position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it is not related to power integrity or VLSI design.",
     "id": "c82ad1fd",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Line Lead 2nd Shift",
@@ -8679,43 +8672,40 @@
     "url": "https://www.indeed.com/rc/clk?jk=1b0f7ae24aedf20e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not technical - it's a production line lead position, not an engineering/technical job.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "ae342195",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Line Lead 2nd Shift salaries in Grand Rapids, MI",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Grand Rapids, MI, USA",
     "url": "https://www.indeed.com/career/line-lead/salaries/Grand-Rapids--MI?campaignid=serp-more&fromjk=1b0f7ae24aedf20e&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a production line lead at a manufacturing facility, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "9d9b4611",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Ultimate Solutions Corp",
+    "location": "North, Puerto Rico",
     "url": "https://www.indeed.com/rc/clk?jk=f50150359b7c239d",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on package design, which does not closely match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The job focuses on pharmaceutical packaging, which is outside of Vineeth's expertise in power integrity and advanced packaging for semiconductors.",
     "id": "510f01b7",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "WELCOME TO FINIT 2017",
@@ -8724,13 +8714,12 @@
     "url": "https://nl.linkedin.com/jobs/view/welcome-to-finit-2017-at-dttd-dutch-technical-team-for-dam-safety-4444857218",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is related to dam safety and civil engineering, not semiconductor/VLSI/EDA.",
+    "reason": "The job is for an entry-level position with a focus on mining, which does not align with Vineeth's expertise in power integrity and advanced packaging within the semiconductor/VLSI/EDA domains.",
     "id": "425ef989",
     "source": "linkedin_eu_pdn",
-    "posted_date": "4 dagen geleden",
+    "posted_date": "5 dagen geleden",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SEEDing your StartUp project in Brazil",
@@ -8739,13 +8728,12 @@
     "url": "https://nl.linkedin.com/jobs/view/seeding-your-startup-project-in-brazil-at-dttd-dutch-technical-team-for-dam-safety-4444853220",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is unrelated to semiconductor/VLSI/EDA and instead is for a business development role in Brazil.",
+    "reason": "The job is for a business-oriented startup role, and does not align with Vineeth's technical expertise in VLSI/EDA domains like Power Integrity or Advanced Packaging.",
     "id": "a66118ba",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate \u2013 GMO Collateral Management",
@@ -8754,13 +8742,12 @@
     "url": "https://in.linkedin.com/jobs/view/associate-%E2%80%93-gmo-collateral-management-at-natixis-services-in-india-4443141405",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in finance operations, not semiconductor/VLSI/EDA. It does not match Vineeth's technical background.",
+    "reason": "The job is for a financial operations role with no mention of power integrity, RedHawk, Voltus, or related keywords, and thus fails the keyword pre-filter requirement.",
     "id": "4f5c225a",
     "source": "linkedin_india_emir",
-    "posted_date": "4 dagen geleden",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical support",
@@ -8769,28 +8756,12 @@
     "url": "https://in.linkedin.com/jobs/view/technical-support-at-litepos-4444850243",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for non-technical customer support at a financial services company, not semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Technical Support role, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "0afa4914",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior Software Engineer \u2014 MD Simulation Engineering",
-    "company": "Nvidia",
-    "location": "Extract from page",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for software engineering in MD simulation, which does not match Vineeth's background and key skills in Power Integrity, Advanced Packaging, and EDA.",
-    "id": "2adb5178",
-    "source": "nvidia_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, HIG HBMSingapore, SingaporePosted a month ago",
