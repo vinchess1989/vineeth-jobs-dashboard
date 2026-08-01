@@ -5452,13 +5452,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-process-engineer-%E2%80%93-dry-etch-at-intel-4434389372",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a process engineering role focused on dry etch, which is outside Vineeth's power integrity and advanced packaging expertise. It does not match his key skills.",
+    "reason": "The role is focused on dry etch process engineering, which falls outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "2f5ec5d6",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Thin Films Engineer",
@@ -5467,13 +5466,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-thin-films-engineer-at-intel-4425800394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on thin film deposition process development and manufacturing, which is outside Vineeth's core technical domains of Power Integrity, Signal Integrity, Advanced Packaging, and CAD Methodology. Vineeth's background does not include experience in semiconductor manufacturing.",
+    "reason": "The role focuses on thin film deposition processes, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "62d96548",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Process Engineer, Dry Etch",
@@ -5482,13 +5480,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-process-engineer-dry-etch-at-intel-4434380879",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on dry etch processing for Intel's foundry business, which falls outside Vineeth's primary domains of Power Integrity and Advanced Packaging. It also lacks clear overlap with his CAD/Methodology or Physical Design background.",
+    "reason": "The role is focused on dry etch process engineering, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "b23a6760",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Hardware Officer (+ Equity) at Stealth physical AI startup",
@@ -5497,13 +5494,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-hardware-officer-%2B-equity-at-stealth-physical-ai-startup-at-jack-jill-4444830695",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is more focused on hardware engineering and startup leadership rather than semiconductor design, power integrity, signal integrity, or EDA tools.",
+    "reason": "The role is a Chief Hardware Officer, which falls outside Vineeth's expertise in Power Integrity and related domains, despite hinting at semiconductor hardware.",
     "id": "f3466c08",
     "source": "linkedin_ww_semiconductor_technical_leader_p3",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Semiconductor Sales",
@@ -5512,13 +5508,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-semiconductor-sales-at-thermo-fisher-scientific-4442308071",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical sales leadership, outside Vineeth's domain of semiconductor VLSI EDA technical roles.",
+    "reason": "This is a sales role, not an engineering position focused on power integrity, advanced packaging, or EDA tool usage.",
     "id": "2cc17f28",
     "source": "linkedin_ww_semiconductor_technical_leader_p3",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Consulting Senior Manager",
@@ -5527,28 +5522,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=6091eb831e6c31a0",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a management consulting role, not an engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The job title indicates a consulting role and lacks relevant keywords related to power integrity, VLSI design, or EDA tools.",
     "id": "83c35938",
     "source": "indeed_ww_semiconductor_technical_leader",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Consulting Senior Manager salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Kirkland, WA, USA",
     "url": "https://www.indeed.com/career/salaries/Consulting%20Manager/Kirkland,%20WA?campaignid=serp-more&fromjk=6091eb831e6c31a0&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical management position (Consulting Senior Manager) and does not match Vineeth's technical background in semiconductor VLSI EDA Power Integrity Advanced Packaging.",
+    "reason": "The job description is for a salary research and consulting role, which does not align with Vineeth's technical expertise in VLSI/EDA.",
     "id": "8efbbd30",
     "source": "indeed_ww_semiconductor_technical_leader",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Operator-Final Assembly-Elbows",
@@ -5557,28 +5550,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=0e4fc961e81a6b84",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for final assembly operations in a manufacturing role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job description focuses on final assembly operations and does not involve power integrity, advanced packaging, EDA tools, or other relevant semiconductor engineering domains.",
     "id": "6412d0ec",
     "source": "indeed_ww_semiconductor_technical_leader",
     "posted_date": "24/07/2026, 21:59",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Operator-Final Assembly-Elbows salaries in Anderson, SC",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Anderson, SC, USA",
     "url": "https://www.indeed.com/career/assembly-operator/salaries/Anderson--SC?campaignid=serp-more&fromjk=0e4fc961e81a6b84&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Assembly Operator, which is a non-technical role outside Vineeth's domain.",
+    "reason": "This job is for a General Operator in assembly, which falls outside Vineeth's expertise and target domains of Power Integrity, Advanced Packaging, CAD Methodology, or VLSI/SoC Design.",
     "id": "45134660",
     "source": "indeed_ww_semiconductor_technical_leader",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Associate - Aspen, CO",
@@ -5587,13 +5578,12 @@
     "url": "https://www.linkedin.com/jobs/view/project-associate-aspen-co-at-aia-colorado-4440498136",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an architecture firm, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for an architectural project associate, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "85fc362d",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -5602,13 +5592,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-varun-malhotra-designs-4442024808",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an Architect role at a design firm, outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for an Interior Architect, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "7fab6bc9",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architecte Android Automotive Agentic AI",
@@ -5617,13 +5606,12 @@
     "url": "https://fr.linkedin.com/jobs/view/architecte-android-automotive-agentic-ai-at-capgemini-engineering-4442637621",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role for Android Automotive applications, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on Android Automotive development and agentic AI, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "578696ef",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Speculative Application",
@@ -5632,13 +5620,12 @@
     "url": "https://uk.linkedin.com/jobs/view/speculative-application-at-barker-associates-4445360498",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and does not match Vineeth's domain of semiconductor/VLSI/EDA expertise.",
+    "reason": "The job posting is a speculative application and does not align with Vineeth's experience in power integrity, advanced packaging, or EDA tool expertise.",
     "id": "19c84071",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Architect",
@@ -5647,13 +5634,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ai-architect-at-hcltech-4431522638",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an AI Architect, which is not within Vineeth's domain of Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The role focuses on AI architecture and GenAI, which is outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "c2a63e68",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -5662,13 +5648,12 @@
     "url": "https://uk.linkedin.com/jobs/view/architect-at-konker-4436309094",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role in architecture, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is an Architect position focused on architectural design and project delivery, which does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tool methodologies.",
     "id": "8440f1bf",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer - Metrology",
