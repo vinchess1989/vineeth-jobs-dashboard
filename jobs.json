@@ -7314,13 +7314,12 @@
     "url": "https://www.linkedin.com/jobs/view/vice-president-program-management-at-kailera-therapeutics-4438731756",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in biotechnology/pharma program management, not semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on program management within a biotechnology company, which falls outside Vineeth's target domains of power integrity, advanced packaging, and EDA.",
     "id": "75234dfb",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -7329,13 +7328,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-analyst-at-james-search-group-4445348342",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Data Analyst, which does not match Vineeth's technical background in Power Integrity, Packaging and CAD Methodology related to VLSI/EDA.",
+    "reason": "The role is an entry-level data analyst position, which falls outside Vineeth's expertise and target job criteria.",
     "id": "dc5df1f2",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ECU Validation Engineer",
@@ -7344,13 +7342,12 @@
     "url": "https://www.linkedin.com/jobs/view/ecu-validation-engineer-at-blue-chip-talent-4443549556",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on firmware, embedded software, and application software development, which is outside Vineeth's domain of expertise in VLSI/EDA.",
+    "reason": "The role focuses on ECU validation within automotive electronics, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "1dfce5dd",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director / Sr. Director, Channel and Strategic Partnerships",
@@ -7359,13 +7356,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-sr-director-channel-and-strategic-partnerships-at-seekr-4441272350",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical leadership position focused on channel and strategic partnerships, not directly related to semiconductor/VLSI/EDA.",
+    "reason": "The job focuses on channel and strategic partnerships within the government sector, lacking the required technical focus on power integrity, advanced packaging, or related EDA tools.",
     "id": "cb136ef4",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director of Governance and Compliance",
@@ -7374,13 +7370,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-director-of-governance-and-compliance-at-hub-international-4415961418",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is non-technical HR role, not engineering/technical position.",
+    "reason": "The job is for a Governance and Compliance role, which falls outside Vineeth's target domains of Power Integrity, Advanced Packaging, CAD Methodology, etc.",
     "id": "4bd0a036",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer Intern",
@@ -7389,13 +7384,12 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-hyperlight-4442757254",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for software development and data analytics work on photonics technology, which does not match Vineeth's Power Integrity and Advanced Packaging background. It is also an internship rather than a senior technical leadership role.",
+    "reason": "The role is a software engineering internship, which falls outside Vineeth's domain of focus on power integrity and advanced packaging.",
     "id": "cb60a9cb",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Staff Power Engineer",
@@ -7403,14 +7397,13 @@
     "location": "Austin, Texas Metropolitan Area",
     "url": "https://www.linkedin.com/jobs/view/sr-staff-power-engineer-at-celestica-4440244796",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires 7+ years of related experience, which exceeds Vineeth's 15 years of relevant expertise in Power Integrity and Advanced Packaging. The job is therefore a hard mismatch.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience and skillset, focusing on power design within a semiconductor company, specifically mentioning relevant tools and expertise in areas like DC/DC converters and PCB stack-up.",
     "id": "0bfa87e5",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/celestica_sr__staff_power_engineer_0bfa87e5.txt"
   },
   {
     "title": "Research Analyst GRC",
@@ -7419,13 +7412,12 @@
     "url": "https://www.linkedin.com/jobs/view/research-analyst-grc-at-infopro-digital-4436744605",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a research analyst position focused on governance, risk, compliance and cybersecurity technologies, which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA tools.",
+    "reason": "The role is a Research Analyst focused on GRC (Governance, Risk, and Compliance), which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "3daa12cd",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Controller",
@@ -7434,13 +7426,12 @@
     "url": "https://www.linkedin.com/jobs/view/controller-at-working-families-party-4433782450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company, does not match Vineeth's domain.",
+    "reason": "The job is for a Controller (finance role) and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "3bc90566",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Design Engineer",
@@ -7449,13 +7440,12 @@
     "url": "https://www.linkedin.com/jobs/view/electrical-design-engineer-at-mackin-talent-4442662075",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on electrical design and validation, which does not match Vineeth's background in power integrity, advanced packaging and SoC PDN sign-off.",
+    "reason": "The job description focuses on electrical subsystem validation and doesn't align with Vineeth's expertise in power integrity, advanced packaging, or EDA tool specialization.",
     "id": "9dd7ce48",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Environmental Specialist",
@@ -7464,13 +7454,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-environmental-specialist-at-omaha-public-power-district-4443064752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical HR role, not relevant to semiconductor/VLSI/EDA background.",
+    "reason": "The role focuses on environmental regulations and compliance, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
     "id": "068ff2da",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-21",
     "deadline": "2026-10-08",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer",
@@ -7479,13 +7468,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-at-excelon-solutions-4442089731",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract engineering role, which is outside Vineeth's domain of direct employment.",
+    "reason": "The role is primarily focused on electrical engineering for robotics hardware, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "fa7741c9",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Suite Activation",
@@ -7494,13 +7482,12 @@
     "url": "https://www.linkedin.com/jobs/view/manager-suite-activation-at-san-francisco-49ers-4441381050",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (hospitality, customer service) and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "This role is for a Suite Activation Manager within the San Francisco 49ers organization, focusing on customer relationship management and event support, which falls outside of Vineeth's expertise in power integrity, advanced packaging, or VLSI design.",
     "id": "83252535",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Legal Strategy and Operations",
@@ -7509,13 +7496,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-legal-strategy-and-operations-at-dick-s-sporting-goods-4433100561",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical legal operations role, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Director of Legal Strategy and Operations, which falls outside Vineeth's domain focusing on Power Integrity, Advanced Packaging, and VLSI.",
     "id": "94be8ce5",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Safety",
@@ -7524,13 +7510,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-safety-at-constructable-4441282759",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on construction site safety, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Director of Safety in construction, which falls outside Vineeth's expertise in power integrity and VLSI.",
     "id": "a4c7b67a",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Quality Engineering - Quality Data Analyst",
