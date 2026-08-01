@@ -38114,13 +38114,12 @@
     "url": "https://es.linkedin.com/jobs/view/what-s-a-%241-billion-robot-company-doing-on-long-island%3F-at-a16z-speedrun-talent-network-4446034083",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for a generalist business developer role, not semiconductor/VLSI/EDA technical engineering position.",
+    "reason": "The job description fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is a newsletter listing multiple unrelated roles.",
     "id": "65f8fc68",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Carn Don Pedro",
@@ -38129,13 +38128,12 @@
     "url": "https://uk.linkedin.com/jobs/view/carn-don-pedro-at-biflorica-4446580733",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is not related to semiconductors, VLSI, EDA, chip design, or hardware engineering - it appears to be for a flower sales and distribution role.",
+    "reason": "The job posting does not contain any of the required semiconductor keywords (PDN, EMIR, Redhawk, etc.) and appears to be for a non-technical floral or retail role.",
     "id": "29f36b8a",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cameron",
@@ -38144,73 +38142,68 @@
     "url": "https://uk.linkedin.com/jobs/view/cameron-at-biflorica-4446586799",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (kitchen porter) and does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The job posting contains no relevant keywords or technical details, and the provided description indicates the page was not found.",
     "id": "271d3102",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LPN/RN PDN for Child",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "CareGivers America",
+    "location": "Elizabeth, NJ, USA",
     "url": "https://www.indeed.com/rc/clk?jk=2b853977f9b693be",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical nursing role and does not fit Vineeth's technical background in semiconductor VLSI EDA.",
+    "reason": "This is a healthcare/nursing position for pediatric care and does not belong to the semiconductor, VLSI, or EDA industries.",
     "id": "4a45a931",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "2026-07-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LPN/RN PDN for Child salaries in Elizabeth, NJ",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Elizabeth, NJ, USA",
     "url": "https://www.indeed.com/career/licensed-practical-nurse/salaries/Elizabeth--NJ?campaignid=serp-more&fromjk=2b853977f9b693be&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Licensed Practical Nurse (LPN) / Registered Nurse (RN), which falls under healthcare and is outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a Licensed Practical Nurse (healthcare) and is not a semiconductor engineering position.",
     "id": "ee7dca5f",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "2026-07-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RN/LPN PDN for Child",
-    "company": "Extract from page",
+    "company": "CareGivers America",
     "location": "Ramsey",
     "url": "https://www.indeed.com/rc/clk?jk=7d49b5044df90fa6",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Discarded as it is a clinical/medical nursing role, not semiconductor/VLSI/EDA technical.",
+    "reason": "The job is for a clinical nursing position in the healthcare sector, not a semiconductor/VLSI engineering role.",
     "id": "56b4d2cd",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RN/LPN PDN for Child salaries in Ramsey, NJ",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Ramsey, NJ, USA",
     "url": "https://www.indeed.com/career/licensed-practical-nurse/salaries/Ramsey--NJ?campaignid=serp-more&fromjk=7d49b5044df90fa6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RN/LPN, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The posting is for a healthcare role (Registered Nurse/Licensed Practical Nurse) rather than a technical engineering position in the semiconductor industry.",
     "id": "63ef16af",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LVN Private Duty Nurse - Adult Trach Patient (Urgent Need)",
@@ -38219,28 +38212,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=98f4eb2005c4b091",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a private duty nursing position for an adult with tracheostomy care needs, and does not involve semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for a nursing position in the healthcare industry and is completely unrelated to the semiconductor/VLSI/EDA domain.",
     "id": "a9fc5a29",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LVN Private Duty Nurse - Adult Trach Patient (Urgent Need) salaries in Huntsville, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Huntsville, TX, USA",
     "url": "https://www.indeed.com/career/private-duty-nurse/salaries/77320--TX?campaignid=serp-more&fromjk=98f4eb2005c4b091&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a healthcare nursing role, not a technical engineering/technical leadership role at a semiconductor company.",
+    "reason": "The job is for a nursing position, which is a non-technical healthcare role and does not involve semiconductor or VLSI engineering.",
     "id": "37f7e510",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LVN Private Duty Nurse - Adult Trach & G-Tube Patient (No CNAs)",
@@ -38249,28 +38240,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=a035cc1f9f96ec79",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a LVN Nurse, which is a healthcare role and does not match Vineeth's background in semiconductor/VLSI/EDA. It is also located in the United States, which Vineeth may not be able to relocate or work remotely from his current location.",
+    "reason": "The position is for a nursing role (LVN), which is completely unrelated to the candidate's expertise in semiconductor engineering and power integrity.",
     "id": "f6fa698b",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LVN Private Duty Nurse - Adult Trach & G-Tube Patient (No CNAs) salaries in Richmond, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Richmond, TX, USA",
     "url": "https://www.indeed.com/career/private-duty-nurse/salaries/77407--TX?campaignid=serp-more&fromjk=a035cc1f9f96ec79&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical healthcare role unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a nursing position and is not related to the semiconductor or VLSI industry.",
     "id": "7d20ee46",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "QA Automation Engineer",
@@ -38279,13 +38268,12 @@
     "url": "https://www.linkedin.com/jobs/view/qa-automation-engineer-at-stefanini-north-america-and-apac-4446553939",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software QA automation for finance domain applications, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Software QA position for a financial application, which is outside of Vineeth's expertise in Power Integrity and VLSI design.",
     "id": "25a42a15",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scrum Master",
@@ -38294,13 +38282,12 @@
     "url": "https://www.linkedin.com/jobs/view/scrum-master-at-ampcus-inc-4446060893",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Agile project management and team leadership rather than technical roles involving power integrity, VLSI, EDA tools or semiconductor engineering.",
+    "reason": "The job is for a Scrum Master role in AI/ML and does not contain any of the required technical keywords or align with the candidate's expertise in Power Integrity or Advanced Packaging.",
     "id": "d2f00074",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager",
@@ -38309,13 +38296,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-manager-at-pwc-india-4331153117",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SAP ABAP technical consultant and does not match Vineeth's areas of Power Integrity, Advanced Packaging, or EDA tools.",
+    "reason": "The role is for an SAP ABAP technical consultant in business consulting and does not contain any of the required semiconductor keywords or domain expertise.",
     "id": "491e640c",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Consultant SAP PI / PO",
@@ -38324,13 +38310,12 @@
     "url": "https://it.linkedin.com/jobs/view/consultant-sap-pi-po-at-grafton-recruitment-4444129659",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a SAP PI/PO consultant, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is for an SAP Process Integration (PI) consultant, which is an enterprise software and ERP integration position, not related to Power Integrity or semiconductor engineering.",
     "id": "593589b7",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer @ Thessaloniki",
