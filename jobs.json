@@ -37904,13 +37904,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-integration-development-pid-engineer-%E2%80%93-hkmg-rmg-integration-at-tata-electronics-4439681421",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on specific HKMG/RMG process integration tasks, which does not match Vineeth's broader expertise in power integrity, advanced packaging, and general semiconductor engineering leadership.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on process integration rather than the candidate's expertise in Power Integrity, CAD, or Advanced Packaging.",
     "id": "92fbfd58",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Engineer",
@@ -37918,14 +37917,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-packaging-engineer-at-platform-recruitment-4446412201",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role focuses on AI hardware packaging engineering, which is a stretch from Vineeth's semiconductor/EDA power integrity and advanced packaging expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Packaging Engineer position in the UK, aligning with the candidate's 15 years of experience in Advanced Packaging and Power Integrity.",
     "id": "2c3be4e8",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/platform_recruitment_senior_packaging_engineer_2c3be4e8.txt"
   },
   {
     "title": "Technical Lead - Innovation & Process Development",
@@ -37934,43 +37932,40 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-lead-innovation-process-development-at-coppice-alupack-limited-4446811258",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is not within Vineeth's technical domain of semiconductor/VLSI/EDA.",
+    "reason": "The job is for the consumer food packaging industry and does not contain any of the required semiconductor power integrity or EDA tool keywords.",
     "id": "b72e0ae4",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Modeling Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "GlobalFoundries",
+    "location": "Malta, NY, USA",
     "url": "https://www.indeed.com/rc/clk?jk=12b20d75a43a8bc3",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on software development, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary to pass the initial pre-filter.",
     "id": "e8fca981",
     "source": "indeed_ww_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "07/28/2026",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Modeling Engineer salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Malta, NY, USA",
     "url": "https://www.indeed.com/career/salaries/Packaging%20Engineer/Malta,%20NY?campaignid=serp-more&fromjk=12b20d75a43a8bc3&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical marketing role, which does not match Vineeth's engineering background.",
+    "reason": "The provided content is a salary research page on Indeed and not an actual job posting.",
     "id": "c4d64abd",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -37979,13 +37974,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-qualcomm-4446086062",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on physical design, which falls outside Vineeth's domain of power integrity and advanced packaging. Instead, it focuses on experience with Netlist2GDS, place and route, sign-off convergence, and meeting PPA requirements for complex subsystems/SoCs.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) as specified in the hard rejection criteria.",
     "id": "37693698",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Lead",
@@ -37994,13 +37988,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-lead-at-l-j-b-management-recruitment-services-limited-4446808357",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical design lead position for data center construction, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is for data centre construction design, which is unrelated to semiconductor, VLSI, or power integrity engineering.",
     "id": "3da1eddf",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Design",
@@ -38009,13 +38002,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-design-at-meta-4444130787",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Role is primarily software development with a focus on machine learning, graphics and network acceleration, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or CAD Methodology.",
+    "reason": "The job description does not contain any of the required Power Integrity keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) for the initial pre-filter.",
     "id": "7a02a76a",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Don't See A Perfect Role? Apply Anyway!",
@@ -38024,13 +38016,12 @@
     "url": "https://www.linkedin.com/jobs/view/don-t-see-a-perfect-role%3F-apply-anyway%21-at-pogo-4446802337",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a general interest application at Pogo, which does not match Vineeth's highly specialized technical background in Power Integrity and Advanced Packaging.",
+    "reason": "The posting is a general interest application and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.) required for evaluation.",
     "id": "05188bc3",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "DGB Americas Local Development Jr Manager",
@@ -38039,13 +38030,12 @@
     "url": "https://www.linkedin.com/jobs/view/dgb-americas-local-development-jr-manager-at-dolce-gabbana-4444136397",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is Marketing focused with no semiconductor, EDA, VLSI background.",
+    "reason": "The job is a non-technical marketing and retail development role in the luxury fashion industry, which does not meet the required semiconductor/VLSI engineering domain or keyword criteria.",
     "id": "4a818eb7",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power India\u2019s Energy Future",
@@ -38054,13 +38044,12 @@
     "url": "https://in.linkedin.com/jobs/view/power-india%E2%80%99s-energy-future-at-cairn-vedanta-oil-and-gas-4446065064",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a leadership position in oil & gas exploration and production, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is in the Oil & Gas industry and is not related to Power Integrity, VLSI, or semiconductor engineering.",
     "id": "a4501e4f",
     "source": "linkedin_india_pdn_p2",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "WATSONS",
@@ -38069,13 +38058,12 @@
     "url": "https://in.linkedin.com/jobs/view/watsons-at-tarsu-al%C4%B1%C5%9Fveri%C5%9F-merkezi-4446011251",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This retail sales position at a Watsons store is clearly outside Vineeth's technical domain of Power Integrity, Packaging, and EDA.",
+    "reason": "The job is a retail position in the health and beauty industry and does not contain any of the required semiconductor keywords or technical domain requirements.",
     "id": "8330f9b1",
     "source": "linkedin_india_pdn_p2",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Felix",
@@ -38084,13 +38072,12 @@
     "url": "https://es.linkedin.com/jobs/view/felix-at-biflorica-4446581914",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is unrelated to semiconductors, VLSI, EDA, power integrity, advanced packaging, or engineering leadership roles.",
+    "reason": "The job page is not found and the provided information does not contain any of the required technical keywords or relevant domain information.",
     "id": "5a6fa503",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Prado",
@@ -38098,14 +38085,13 @@
     "location": "Prado, Castilla and Leon, Spain",
     "url": "https://es.linkedin.com/jobs/view/prado-at-biflorica-4446589307",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical sales role at a service company, outside Vineeth's domain of semiconductor/VLSI/EDA engineering.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "ef375afc",
     "source": "linkedin_eu_pdn",
-    "posted_date": "2026-07-15",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TD SYNNEX & JOBarcelona 2026",
@@ -38114,13 +38100,12 @@
     "url": "https://es.linkedin.com/jobs/view/td-synnex-jobarcelona-2026-at-td-synnex-spain%E2%80%8B-4444100539",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical business development/marketing role, not a match for Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job posting fails the mandatory keyword pre-filter and appears to be a general IT services recruitment drive rather than a Power Integrity or semiconductor engineering role.",
     "id": "2fb19ed1",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "what's a $1 billion robot company doing on long island?",
