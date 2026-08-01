@@ -3562,13 +3562,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-i-ii-at-rocket-lab-4434578499",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Senior FPGA Engineer role is focused on robotics electrical hardware design and embedded systems for avionics, which is outside Vineeth's core domain of Power Integrity, Advanced Packaging, EDA CAD methodology in semiconductor SoC/VLSI.",
+    "reason": "The job focuses on FPGA firmware design, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "490aeaa8",
     "source": "linkedin_ww_fpga_engineer_p2",
     "posted_date": "2026-07-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -3577,13 +3576,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-chirp-robotics-corporation-4436253347",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role explicitly requires a U.S Citizen, which restricts to a specific country's citizens only.",
+    "reason": "The job focuses on FPGA design and VHDL, which falls outside Vineeth's core expertise in power integrity and advanced packaging.",
     "id": "68540b10",
     "source": "linkedin_ww_fpga_engineer_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer - Design Verification",
@@ -3592,13 +3590,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-design-verification-at-renesas-electronics-4444925723",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Staff Engineer role, which falls under verification and is outside Vineeth's domain of expertise.",
+    "reason": "The role is specifically for Design Verification, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "16eb50c0",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -3607,13 +3604,12 @@
     "url": "https://de.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-agap2-germany-4443111559",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA/PLD development for aerospace applications, which does not match Vineeth's areas of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on FPGA development for aerospace applications, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging and related areas.",
     "id": "47f9123b",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineers",
@@ -3622,13 +3618,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineers-at-naviesto-com-4444765604",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on digital RTL design and verification, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "This role is for an RTL Design Engineer, which falls under verification and design, outside of Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "2bd0368d",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -3637,13 +3632,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-insight-global-4442680099",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (design engineer for electric utility distribution, not semiconductor/VLSI/EDA)",
+    "reason": "The job focuses on distribution grid design for an energy provider, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "8005334b",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -3652,13 +3646,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-the-davis-companies-4442215995",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Mechanical Design Engineer position using SolidWorks, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The job title and description lack keywords related to power integrity, advanced packaging, or relevant EDA tools like RedHawk or Voltus, indicating it's not a match for Vineeth's expertise.",
     "id": "6805fe99",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer Intern",
@@ -3667,13 +3660,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-intern-at-msi-defense-solutions-4442667790",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
+    "reason": "The role is a mechanical engineering internship, focusing on automotive components and FEA with Creo, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "d6c7c367",
     "source": "linkedin_ww_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -3682,13 +3674,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-kya-4432091425",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (frontend engineer) and is located in New York, USA, which does not match Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The role is a frontend design engineering position, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "2e54509e",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-06-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -3697,13 +3688,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-meril-4442324263",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position with only 1-2 years of experience required, which is below Vineeth's experience level.",
+    "reason": "The role is a Design Engineer for medical devices, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "07d70c10",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -3712,13 +3702,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-infosys-4440273012",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is for a plastics design engineer, which falls outside of Vineeth's expertise in power integrity and advanced packaging.",
     "id": "6be3dd54",
     "source": "linkedin_india_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Revit Draftsperson (Remote \u2013 Australian Projects)",
@@ -3727,13 +3716,12 @@
     "url": "https://in.linkedin.com/jobs/view/revit-draftsperson-remote-%E2%80%93-australian-projects-at-naffco-careers-4442637442",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Revit Draftsperson for fire protection systems and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "This role is for a Revit Draftsperson focused on fire services, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "cfb81ad6",
     "source": "linkedin_india_rtl_design_engineer_p2",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. RTL IP Design Engineer",
@@ -3742,13 +3730,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-rtl-ip-design-engineer-at-amd-4440464590",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The role is focused on RTL IP design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "e21d3e44",
     "source": "linkedin_india_rtl_design_engineer_p2",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur conception FPGA - THALES (F/H)",
@@ -3757,13 +3744,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-conception-fpga-thales-f-h-at-l-usine-nouvelle-4442340806",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA design engineer at a defense contractor, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The role focuses on FPGA design using VHDL and Verilog, which is outside Vineeth's primary expertise in power integrity, advanced packaging, and related domains.",
     "id": "67d7f050",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DELINEANTE PROYECTISTA PARA OFICINA TECNICA",
@@ -3772,13 +3758,12 @@
     "url": "https://es.linkedin.com/jobs/view/delineante-proyectista-para-oficina-tecnica-at-laser-mimar-4442315629",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a technical drafting position using AutoCAD, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is for a technical draughtsperson (delineante) focused on metal fabrication and doesn't align with Vineeth's power integrity, advanced packaging, or EDA tool expertise.",
     "id": "1b07bb60",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur Bureau d'Etude Electrotechnique en alternance (F/H)",
