@@ -31085,14 +31085,13 @@
     "location": "Remote (Worldwide)",
     "url": "https://builtin.com/job/product-management-lead-hyperscale-custom-silicon/9636432",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves product management for custom silicon targeting AI/data center customers, which overlaps with semiconductor and VLSI/EDA domains.",
+    "matches_requirements": "no",
+    "reason": "The role is a Product Management Lead, which falls outside Vineeth's expertise in technical areas like power integrity and advanced packaging.",
     "id": "d7660e12",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Opportunity",
@@ -31101,13 +31100,12 @@
     "url": "https://builtin.com/job/general-opportunity/6203483",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is hardware-focused on semiconductor fabrication, which is outside Vineeth's core areas of power integrity and advanced packaging.",
+    "reason": "The role is a general engineering position within a startup and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "67706751",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Product Support (GPS) Engineer III \u2013 (E3)",
@@ -31116,13 +31114,12 @@
     "url": "https://builtin.com/job/global-product-support-gps-engineer-iii-e3/8646078",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, not within Vineeth's domain.",
+    "reason": "The role is focused on product support and troubleshooting, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "f6218f0b",
     "source": "builtin_semi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -31131,13 +31128,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-design-verification-engineer-at-harvey-nash-4445426680",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification focused (UVM, system Verilog) which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "This role is specifically for a Design Verification Engineer with expertise in UVM and System Verilog, which falls within verification rather than Vineeth's focus on power integrity and advanced packaging.",
     "id": "ef85b7a4",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EM Design Engineer",
@@ -31146,13 +31142,12 @@
     "url": "https://www.linkedin.com/jobs/view/em-design-engineer-at-qualcomm-4445757827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RF circuit design with an emphasis on passive components, which falls outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on RF passive component design and EM simulation, which falls outside Vineeth's core expertise in Power Integrity, PDN sign-off, and advanced packaging.",
     "id": "43886f76",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design (Peripherals) - Staff",
@@ -31161,13 +31156,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-peripherals-staff-at-qualcomm-4445764752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL/SOC design which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily RTL design, which falls outside Vineeth's verification domain.",
     "id": "dcdc21fa",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security RTL Design Engineer-Sr Lead/Staff",
@@ -31176,13 +31170,12 @@
     "url": "https://in.linkedin.com/jobs/view/security-rtl-design-engineer-sr-lead-staff-at-qualcomm-4445771666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification which is outside Vineeth's domain.",
+    "reason": "The role is focused on RTL design for security features, which falls outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "7a6a7c08",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design - Sr Lead Engineer",
@@ -31191,13 +31184,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-sr-lead-engineer-at-qualcomm-4445768738",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL design focused, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on RTL design, which falls outside Vineeth's verification domain and lacks mention of Power Integrity or related tools.",
     "id": "23cb8de8",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Substation Layout Engineer",
@@ -31206,13 +31198,12 @@
     "url": "https://uk.linkedin.com/jobs/view/substation-layout-engineer-at-linnk-group-4446194941",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on substation layout design, which does not match Vineeth's background in semiconductor power integrity and packaging. The skills are unrelated.",
+    "reason": "The role focuses on substation layout design, which is outside of Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "5a7a562f",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -31221,13 +31212,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-selby-jennings-4446355868",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA design for high-speed trading systems, which does not closely match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The role is focused on FPGA engineering, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "2116b3a8",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer, Core Snapchat",
@@ -31236,13 +31226,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-core-snapchat-at-snap-inc-4443300833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (iOS app engineer) which is outside Vineeth's domain of expertise.",
+    "reason": "The role focuses on iOS application development and product design, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "3c57a4e3",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL(IP) Design Engineer/Infra - Sr Lead/Staff",
@@ -31251,13 +31240,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-ip-design-engineer-infra-sr-lead-staff-at-qualcomm-4445773650",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The job focuses on RTL design and interconnect architecture, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "96c308a9",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MMIC Design engineer",
@@ -31266,13 +31254,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mmic-design-engineer-at-copello-global-4440446295",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on RF/MMIC design for semiconductor applications, which is outside Vineeth's power integrity and advanced packaging domain.",
+    "reason": "The job focuses on MMIC design, which is outside Vineeth's core expertise in power integrity and advanced packaging.",
     "id": "45a29144",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Systems Engineer",
@@ -31281,13 +31268,12 @@
     "url": "https://www.linkedin.com/jobs/view/semiconductor-systems-engineer-at-bright-vision-technologies-4446383149",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (C/C++, Python), which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on software engineering for semiconductor design and verification, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "6b4835c0",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Data Scientist",
@@ -31296,13 +31282,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-analytica-4442834720",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a data scientist position focused on healthcare analytics and machine learning, not related to semiconductor/VLSI/EDA",
+    "reason": "The role is a junior data scientist requiring a security clearance and focusing on military healthcare analytics, which falls outside Vineeth's domain of power integrity, advanced packaging, and related VLSI/EDA areas.",
     "id": "ac94b776",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Controller, Site Sein\u00e4joki",
