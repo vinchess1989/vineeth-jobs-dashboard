@@ -13585,14 +13585,13 @@
     "location": "USA",
     "url": "https://www.indeed.com/rc/clk?jk=d45246389acd7ea7",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role matches some key areas of Vineeth's background like power integrity and software development, but the specific focus on ML accelerator validation is a bit outside his direct expertise in packaging and PI methodologies.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on validation and software development, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "53427c44",
     "source": "indeed_india_soc_design",
     "posted_date": "2023-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power and Performance Validation Engineer, Annapurna Labs salaries in Austin, TX",
@@ -13601,13 +13600,12 @@
     "url": "https://www.indeed.com/career/validation-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=d45246389acd7ea7&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on software validation for ARM processors, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
+    "reason": "The job is based in Austin, TX, USA and explicitly requires US residency, violating the location rejection criteria.",
     "id": "826084f3",
     "source": "indeed_india_soc_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Electrical Hardware Development Engineer, Bespoke Solutions salaries",
@@ -13616,13 +13614,12 @@
     "url": "https://www.indeed.com/career/salaries/Senior%20Hardware%20Engineer/Jessup,%20MD?campaignid=serp-more&fromjk=62f508b6352160b1&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on software and hardware integration rather than semiconductor design, VLSI, EDA tools, or power integrity.",
+    "reason": "The job title and description lack key terms like PDN, Redhawk, or Voltus, indicating it's not a relevant Power Integrity role.",
     "id": "37d5acd0",
     "source": "indeed_india_soc_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF Comms Systems Integration and Test Engineer, Amazon Leo",
@@ -13631,13 +13628,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=78ad17baf8f2f1d5",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an RF Comms Systems Integration and Test Engineer, focused on satellite communications, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role focuses on RF communications testing and system integration for satellites, which is outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
     "id": "2ad3e59e",
     "source": "indeed_india_soc_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-08-01",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "RF Comms Systems Integration and Test Engineer, Amazon Leo salaries in Redmond, WA",
@@ -13646,13 +13642,12 @@
     "url": "https://www.indeed.com/career/systems-integration-engineer/salaries/Redmond--WA?campaignid=serp-more&fromjk=78ad17baf8f2f1d5&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an RF Communications Systems Integration and Test Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC Design, and EDA CAD. It is also located in Redmond, WA, USA, which does not fit the preferred locations.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's outside Vineeth's domain.",
     "id": "668efecd",
     "source": "indeed_india_soc_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Specialist/ Senior Product Specialist",
@@ -13661,13 +13656,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-specialist-senior-product-specialist-at-ascensia-diabetes-care-4444897258",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is sales-focused for medical products, outside Vineeth's semiconductor/VLSI/EDA expertise.",
+    "reason": "The role is a Product Specialist, which focuses on sales and business development rather than power integrity, advanced packaging, or related VLSI engineering domains.",
     "id": "028e8ed4",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Healthcare Executive",
@@ -13676,13 +13670,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-healthcare-executive-at-pfizer-4438242352",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales role focused on Dermatology drugs, which is outside Vineeth's background in semiconductor/EDA/VLSI.",
+    "reason": "This role is a sales position within the healthcare industry, which falls outside Vineeth's target domains of power integrity, advanced packaging, and VLSI design.",
     "id": "0eff3577",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Specialist",
@@ -13691,13 +13684,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-specialist-at-ascensia-diabetes-care-4444890807",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a sales role for diabetes test strips, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Product Specialist, focusing on sales and business development within the diabetes care industry, which doesn't align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI/EDA domains.",
     "id": "2dee2aa9",
     "source": "linkedin_india_pdn_p2",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Manager",
@@ -13706,28 +13698,26 @@
     "url": "https://uk.linkedin.com/jobs/view/product-manager-at-phia-health-4444888378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product management position which does not match Vineeth's technical background and experience in Power Integrity, Advanced Packaging and EDA.",
+    "reason": "This is a Product Manager role, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "a4f504a0",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Home Health Registered Nurse (RN)",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "MILLENNIUM HOME HEALTH",
+    "location": "Palmdale, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=deb6744033bd0c05",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical healthcare position, not related to semiconductor, VLSI, EDA, or hardware engineering.",
+    "reason": "This is a Home Health Registered Nurse position, which falls outside Vineeth's domain of expertise in VLSI/EDA.",
     "id": "e906ca8a",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Registered Nurse Case Manager (Home Health)",
@@ -13736,13 +13726,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=56f47056dec2c38c",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a healthcare nursing role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Registered Nurse Case Manager, which falls outside the defined technical domains of semiconductor/VLSI/EDA.",
     "id": "592a2c27",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Registered Nurse - Weekend On-Call/Admissions (Home Health)",
@@ -13751,13 +13740,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=8dd2cc0e56908887",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Registered Nurse position focused on weekend admissions and on-call support for Home Health services, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "This is a healthcare (nursing) role and does not align with Vineeth's expertise in semiconductor/VLSI/EDA.",
     "id": "95bfbb9a",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Registered Nurse (RN) - Home Health - Urgently Hiring!!",
@@ -13766,13 +13754,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=1b35344df2eb7fa4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for a Registered Nurse (RN) in home health, not related to semiconductor/VLSI/EDA.",
+    "reason": "This is a Registered Nurse (RN) position, which falls outside Vineeth's technical domain of semiconductor/VLSI/EDA.",
     "id": "139f73f6",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Registered Nurse Home Health Care",
@@ -13781,13 +13768,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=d2f9562feb5fffdb",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a healthcare nursing position, which does not match Vineeth's semiconductor/VLSI/EDA background and expertise.",
+    "reason": "The job is for a Registered Nurse, which falls outside of Vineeth's domain focusing on semiconductor/VLSI/EDA engineering.",
     "id": "a2439e5b",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Certified Home Health Agency Registered Nurse (CHHA RN)",
@@ -13796,13 +13782,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=d10a7e79615df68f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Registered Nurse (RN) position, which focuses on direct patient care in home visits rather than semiconductor/VLSI/EDA technical domains. This does not match Vineeth's background in power integrity, advanced packaging and EDA tools.",
+    "reason": "The job is for a Registered Nurse at a home health agency and does not align with Vineeth's expertise in semiconductor, VLSI, or EDA domains.",
     "id": "94fdab0e",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Home Health Registered Nurse RN/ Valencia County Part time",
