@@ -16498,13 +16498,12 @@
     "url": "https://in.linkedin.com/jobs/view/mts-dram-asic-architect-at-micron-technology-4426787794",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on DRAM + logic-die architectures and integration challenges, which falls more under Vineeth's domain of expertise in Power Integrity and Advanced Packaging. However, it does not strongly match his key skills in EDA tools and CAD methodology.",
+    "reason": "The role focuses on DRAM ASIC architecture, which is outside Vineeth's primary domains of Power Integrity and Advanced Packaging.",
     "id": "d4968d07",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -16513,13 +16512,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88877?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (data accelerator, AI agents) and does not match Vineeth's domains of Power Integrity, Advanced Packaging, SoC PDN sign-off.",
+    "reason": "The job is for a Design Verification Engineer, which falls under verification activities and is outside Vineeth's domain of expertise.",
     "id": "491543d0",
     "source": "amd_careers",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Lead(High Speed IP's)",
@@ -16527,14 +16525,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/88494?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily a technical leadership position for advanced physical design of high-speed IP's, which matches Vineeth's background. However, this specific role is at AMD in Bangalore, India, while Vineeth is located in Finland/Europe or the UK.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Physical Design Lead requiring extensive experience with high-speed IPs and advanced nodes, aligning well with Vineeth's background in CAD methodology and physical design.",
     "id": "380f6704",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_physical_design_lead_high_spee_380f6704.txt"
   },
   {
     "title": "Regional Partner, Senior Manager",
@@ -16543,13 +16540,12 @@
     "url": "https://careers.arm.com/job/waltham/regional-partner-senior-manager/33099/94742192720",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily a senior-level sales leadership position focusing on named strategic accounts in financial services and cloud infrastructure, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "The role is a sales position and does not align with Vineeth's expertise in power integrity, advanced packaging, or related engineering domains.",
     "id": "99f90e1b",
     "source": "arm_careers",
     "posted_date": "2026-05-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Firmware Engineer",
@@ -16558,13 +16554,12 @@
     "url": "https://careers.arm.com/job/cambridge/staff-firmware-engineer/33099/96868527888",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is a firmware engineering position, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "ac755301",
     "source": "arm_careers",
-    "posted_date": "jun. 24, 2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102027 TSMC RDSS&AO\u3011Research and Development Engineer (R&D)",
@@ -16573,13 +16568,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22574&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on research and development of advanced semiconductor technologies, which falls outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, CAD Methodology. Instead, it requires a strong background in Electrical Engineering, Materials Science & Engineering.",
+    "reason": "The role focuses on R&D and advanced technology development, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related sign-off areas.",
     "id": "62bba50a",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -16588,13 +16582,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2027-TSMC-RDSS-AO-Research-and-Development-Engineer-R-D%2F22574",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general Research and Development Engineer position, which does not match Vineeth's specific technical expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The job description doesn't mention any keywords related to Power Integrity, PDN, Redhawk, Voltus, or advanced packaging; it appears to be a general R&D engineering role.",
     "id": "d6a07e0a",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "More details",
@@ -16603,13 +16596,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22589&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a HR People Partner, which is a non-technical human resources position, so it does not match Vineeth's domain.",
+    "reason": "The job is for a Human Resources role, which falls outside Vineeth's domain of expertise in VLSI and EDA.",
     "id": "c8a74e2d",
     "source": "tsmc_careers",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -16618,13 +16610,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2027-TSMC-RDSS-AO-Human-Resources-HR%2F22589",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an HR position, which does not fit Vineeth's technical background.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or EDA role.",
     "id": "77e6cc18",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MTS Engineer Cleans ManufacturingMalta, NY, USPosted 2 months ago",
@@ -16633,13 +16624,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769848123",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not technical, but a manufacturing engineering position.",
+    "reason": "The job focuses on manufacturing process engineering and does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tool usage.",
     "id": "17815a72",
     "source": "globalfoundries_careers",
     "posted_date": "2026-09-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Solution ArchitectDeloitteHelsinkiGo to job site",
@@ -16647,14 +16637,13 @@
     "location": "Helsinki",
     "url": "https://www.jobly.fi/en/job/ai-solution-architect-2721677",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Role involves AI/ML which partially overlaps with Vineeth's background, but is primarily in software development rather than semiconductor/VLSI/EDA.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on AI Solution Architecture and consulting, which falls outside Vineeth's core expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "b6c6e11c",
     "source": "work_in_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer",
@@ -16663,13 +16652,12 @@
     "url": "https://in.linkedin.com/jobs/view/application-engineer-at-applied-materials-india-4444874456",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on semiconductor defect metrology and hands-on lab/fab experience, not directly in power integrity (PI), advanced packaging, thermal analysis, EDA tools, or VLSI/SoC design.",
+    "reason": "The job title is 'Application Engineer' and the description focuses on defect metrology, which falls outside Vineeth's expertise in power integrity, advanced packaging, or related areas.",
     "id": "73382c51",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Verification/RDL Engineer",
@@ -16678,13 +16666,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-verification-rdl-engineer-at-amd-4442805619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on physical design engineering, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The job focuses on physical verification and RDL closure, which falls outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "69e6da50",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Engineer",
@@ -16693,13 +16680,12 @@
     "url": "https://in.linkedin.com/jobs/view/semiconductor-engineer-at-neerinfo-solutions-4445928427",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on semiconductor manufacturing, supply chain and industry trends - it does not directly involve semiconductor design or power integrity/advanced packaging VLSI work that Vineeth Kaimal specializes in.",
+    "reason": "The job description focuses on manufacturing and supply chain, lacking keywords related to power integrity, advanced packaging, or EDA tools.",
     "id": "e4d99a6b",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Development Engineer Power Semiconductors Automotive (f/m/div.)",
@@ -16708,13 +16694,12 @@
     "url": "https://de.linkedin.com/jobs/view/development-engineer-power-semiconductors-automotive-f-m-div-at-bosch-4399662298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development (Firmware Engineer) and does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The role focuses on power semiconductor development, which falls slightly outside Vineeth's core focus on PDN sign-off and advanced packaging.",
     "id": "5ab5a48e",
     "source": "linkedin_eu_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Failure Analysis Engineer",
