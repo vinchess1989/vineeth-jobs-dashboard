@@ -10282,13 +10282,12 @@
     "url": "https://uk.linkedin.com/jobs/view/r-d-project-manager-at-cambridge-gan-devices-ltd-4445673885",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company",
+    "reason": "The role is a Project Manager, which falls outside Vineeth's domain of focus on power integrity and advanced packaging.",
     "id": "dc5637e7",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF Lead Engineer",
@@ -10296,14 +10295,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/rf-lead-engineer-at-forefront-rf-4445681124",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is an RF design position focused on RF subsystems and architecture, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role involves RF design leadership, aligning with Vineeth's experience and targeting engineering leadership within a relevant domain (RF), located in England.",
     "id": "f1bd495c",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/forefront_rf_rf_lead_engineer_f1bd495c.txt"
   },
   {
     "title": "Logistics Manager",
@@ -10312,13 +10310,12 @@
     "url": "https://uk.linkedin.com/jobs/view/logistics-manager-at-forefront-rf-4445678140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical logistics manager role at a semiconductor company, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and VLSI/EDA.",
+    "reason": "The role is a Logistics Manager, which falls outside Vineeth's expertise in power integrity and advanced packaging within the semiconductor domain.",
     "id": "d94d2b06",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Manager",
@@ -10327,13 +10324,12 @@
     "url": "https://uk.linkedin.com/jobs/view/quality-manager-at-forefront-rf-4445695055",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Quality Management position, which does not closely match Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Quality Manager focused on QMS and lacks the required semiconductor technical domains like power integrity, advanced packaging, or EDA tool expertise.",
     "id": "c7e6db4c",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF Engineer",
@@ -10342,13 +10338,12 @@
     "url": "https://uk.linkedin.com/jobs/view/rf-engineer-at-forefront-rf-4445697011",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on RF module design and integration, not Power Integrity/Signal Integrity or semiconductor packaging - this does not match Vineeth's domain expertise.",
+    "reason": "The role is for an RF Engineer, focusing on module design and integration, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "11c08345",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer / Senior Design Engineer",
@@ -10357,13 +10352,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-senior-design-engineer-at-larsen-toubro-4445682204",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical manufacturing role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is a design engineer for shipbuilding and does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tool methodologies.",
     "id": "35ab4f53",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineering",
@@ -10372,13 +10366,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4443059881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a contract electrical engineering expert position focused on training AI models to solve complex engineering problems, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on AI training and electrical engineering problem creation, which is outside Vineeth's expertise in PDN sign-off and advanced packaging.",
     "id": "509a067a",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "AI for Hardware Research Intern/Co-op",
@@ -10387,13 +10380,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-for-hardware-research-intern-co-op-at-arcverex-4444891238",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (LLMs, RL) and does not match Vineeth's VLSI/EDA/semiconductor domain expertise in Power Integrity, Advanced Packaging, CAD tools.",
+    "reason": "This role is for a research intern focused on AI and hardware, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
     "id": "b7c5f852",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -10402,13 +10394,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-integrated-personnel-services-limited-4440452656",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on ASIC design flows rather than Power Integrity, Packaging, or EDA CAD tools.",
+    "reason": "The role is primarily focused on physical design, which falls outside Vineeth's core expertise in power integrity and advanced packaging.",
     "id": "a649355a",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital/RTL IC Design Engineer",
@@ -10417,13 +10408,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-rtl-ic-design-engineer-at-omni-design-technologies-inc-4436372166",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL, testbench development) which falls outside Vineeth's domain.",
+    "reason": "The role is focused on RTL IC design, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "72861385",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-06-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -10432,13 +10422,12 @@
     "url": "https://be.linkedin.com/jobs/view/senior-digital-design-engineer-at-icsense-4292769406",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital design for analog circuits, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The role is primarily focused on digital design and verification, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "88936c01",
     "source": "linkedin_eu_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Design Automation Engineer",
@@ -10446,14 +10435,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/sr-design-automation-engineer-at-skyworks-solutions-inc-4442701841",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Design Automation Engineer at Skyworks Solutions, which matches Vineeth's technical background in Power Integrity and Advanced Packaging. The job is based in Bengaluru, India.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves AMS flow automation and methodology, aligning with CAD/Methodology and EDA tools expertise, but the experience level is slightly lower than ideal given the leadership preference.",
     "id": "7ecfbdea",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": "job_descriptions/skyworks_solutions___sr__design_automation_engineer_7ecfbdea.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -10462,13 +10450,12 @@
     "url": "https://in.linkedin.com/jobs/view/data-analyst-at-lavasion-4445384997",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a data analyst position which requires SQL, Power BI/Excel/Python skills - this does not match Vineeth's background in semiconductor VLSI EDA areas like PI/SI, Packaging, Physical Design, SoC.",
+    "reason": "The job is for a Data Analyst role requiring skills like SQL and Power BI, which falls outside Vineeth's expertise in power integrity, advanced packaging, or related areas.",
     "id": "9aa46dd3",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Risk & Compliance Governance Officer",
@@ -10477,13 +10464,12 @@
     "url": "https://fr.linkedin.com/jobs/view/risk-compliance-governance-officer-at-swan-4432675996",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical, HR role at a fintech company which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job focuses on risk and compliance governance, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "63f375eb",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-06-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced Sustainability & Climate Change Professional",
@@ -10492,13 +10478,12 @@
     "url": "https://gr.linkedin.com/jobs/view/experienced-sustainability-climate-change-professional-at-pwc-greece-4438710190",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Power Integrity, Advanced Packaging and CAD Methodology which does not match Vineeth's background in Sustainability and Climate Change.",
+    "reason": "The job focuses on sustainability and climate change consulting, which is outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "bc617255",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Critical Environment Engineer - M&E/HVAC Services",
