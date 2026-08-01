@@ -34096,13 +34096,12 @@
     "url": "https://dk.linkedin.com/jobs/view/fpga-systems-development-engineer-at-analog-devices-4443619664",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily FPGA and SoC programming rather than power integrity, packaging, VLSI design, EDA tools, or engineering leadership which are Vineeth's key domains.",
+    "reason": "The role is for an FPGA Systems Development Engineer, focusing on hardware design and verification which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "5c5d184d",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal FPGA Engineer",
@@ -34110,14 +34109,13 @@
     "location": "Rickmansworth, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-fpga-engineer-at-etl-systems-4443267973",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily FPGA design rather than VLSI/EDA, which is outside Vineeth's core domain of expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Principal FPGA Engineer, aligning with Vineeth's leadership experience and involving hands-on engineering within a relevant domain (FPGA design), and the location in England matches the preferred regions.",
     "id": "53481496",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/etl_systems_principal_fpga_engineer_53481496.txt"
   },
   {
     "title": "Data Center Deployment Engineer - GPU & HPC",
@@ -34126,13 +34124,12 @@
     "url": "https://fi.linkedin.com/jobs/view/data-center-deployment-engineer-gpu-hpc-at-verda-4445750187",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on data center deployment, infrastructure engineering and hardware installations - outside Vineeth's domains of Power Integrity, Packaging & EDA/ CAD.",
+    "reason": "The role is focused on data center deployment and infrastructure, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "daa49666",
     "source": "linkedin_fi_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Microsoft Power Platform Developer",
@@ -34141,13 +34138,12 @@
     "url": "https://www.linkedin.com/jobs/view/microsoft-power-platform-developer-at-v-group-inc-4442792588",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development (Power Platform, Power Apps, Power Automate) which is outside Vineeth's domain of expertise in Power Integrity and EDA.",
+    "reason": "The role is focused on Microsoft Power Platform development, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "7b9d3fba",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Photonics Advanced Packaging Engineer",
@@ -34156,13 +34152,12 @@
     "url": "https://nl.linkedin.com/jobs/view/photonics-advanced-packaging-engineer-at-imec-in-vlaanderen-4443667706",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on photonics packaging, which does not directly match Vineeth's domain of expertise in semiconductor power integrity and advanced packaging.",
+    "reason": "The role focuses on photonics advanced packaging, which is outside Vineeth's core expertise in power integrity and advanced packaging of SoCs.",
     "id": "97446b72",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Physical Security Manager (NC)",
@@ -34171,13 +34166,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-center-physical-security-manager-nc-at-nscale-4446525850",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on physical security operations for data centers, which is outside Vineeth's main area of expertise in Power Integrity and semiconductor design.",
+    "reason": "The job is for a Data Center Physical Security Manager, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "96eca7bc",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Science Analyst, Equity Research, Healthcare Team",
@@ -34186,13 +34180,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-science-analyst-equity-research-healthcare-team-at-talentally-4445438690",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Data Science Analyst in Healthcare Equity Research, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "This role is for a Data Science Analyst focused on equity research in healthcare, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "04b4c2c7",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Science Analyst, Equity Research, Healthcare Team",
@@ -34201,13 +34194,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-science-analyst-equity-research-healthcare-team-at-talentally-4445430734",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on data science and healthcare analytics, well outside Vineeth's technical expertise in power integrity, packaging, EDA tools, and semiconductor design.",
+    "reason": "The job is for a Data Science Analyst in Healthcare Equity Research, which falls outside Vineeth's expertise and target domains.",
     "id": "8f5e2ae8",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Systems Engineer",
@@ -34216,13 +34208,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-systems-engineer-at-talentally-4446018420",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on AI systems and integration with EDA platforms, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on AI systems engineering and lacks keywords related to power integrity, PDN, RedHawk, Voltus, or other relevant VLSI domains.",
     "id": "218741f4",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scrum Master",
@@ -34231,13 +34222,12 @@
     "url": "https://www.linkedin.com/jobs/view/scrum-master-at-origence-cudl-4434374323",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Scrum Master in an IT/fintech company and requires experience with Agile methodologies, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a Scrum Master, which focuses on agile project management and team facilitation, falling outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "6a2f493d",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Analyst - Date Analysis and Transaction Reporting",
@@ -34246,13 +34236,12 @@
     "url": "https://uk.linkedin.com/jobs/view/business-analyst-date-analysis-and-transaction-reporting-at-selby-jennings-4446309711",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Analyst focused on transaction reporting and regulatory compliance, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Business Analyst focused on financial transaction reporting, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "b3206731",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Design Engineer",
@@ -34261,13 +34250,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-design-engineer-at-solidigm-4434621795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The job focuses on analog design for NAND flash memory, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "c7b43b70",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Lead",
@@ -34275,14 +34263,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-lead-at-cyient-4443677066",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is a match for domain/technical area (Physical Design) and matches 10+ years of experience. However, it is listed in Bengaluru, India, which does not match the location priority set by the candidate.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Physical Design Lead, requiring expertise in key areas like floor planning, power grid design, and timing analysis, while also involving team leadership.",
     "id": "e91fd22f",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/cyient_physical_design_lead_e91fd22f.txt"
   },
   {
     "title": "Static Timing Analysis (STA) Engineer",
@@ -34290,14 +34277,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/static-timing-analysis-sta-engineer-at-leadsoc-technologies-pvt-ltd-4445486150",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves STA, which matches Vineeth's background, and is at a semiconductor company in India.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on Static Timing Analysis (STA), which falls under VLSI design, but Vineeth's expertise is primarily in Power Integrity and Advanced Packaging.",
     "id": "257720ee",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": "job_descriptions/leadsoc_technologies_static_timing_analysis__sta__e_257720ee.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff CPU Physical Design Engineer - ASIC / CPU Design / Physical Implementation / Semiconductor",
@@ -34306,13 +34292,12 @@
     "url": "https://ie.linkedin.com/jobs/view/staff-cpu-physical-design-engineer-asic-cpu-design-physical-implementation-semiconductor-at-european-tech-recruit-4446336177",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches Vineeth's domain of CPU/ASIC physical design and is at a senior Staff level.",
+    "reason": "The role is a Staff CPU Physical Design Engineer, aligns with Vineeth's ASIC physical design and advanced packaging experience, and is located in Ireland, matching his preferred regions.",
     "id": "945deb53",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/european_tech_recrui_staff_cpu_physical_design_engi_945deb53.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/european_tech_recrui_staff_cpu_physical_design_engi_945deb53.txt"
   },
   {
     "title": "Data System Analyst",
