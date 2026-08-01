@@ -12550,13 +12550,12 @@
     "url": "https://fi.linkedin.com/jobs/view/data-center-development-director-at-verne-4444882537",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role within semiconductor, VLSI or EDA domains.",
+    "reason": "The job focuses on data center development and lacks explicit mentions of power integrity, advanced packaging, RedHawk, Voltus, or related keywords, disqualifying it based on the keyword pre-filter requirement.",
     "id": "ba128578",
     "source": "linkedin_fi_semiconductor_director",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System on a Chip Architect",
@@ -12564,14 +12563,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/system-on-a-chip-architect-at-platform-recruitment-4442809694",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior SoC Architect role with experience ownership of ASICs/SoCs, architecture and performance modeling.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with SoC architecture experience and performance modeling, but lacks specific mentions of Power Integrity, RedHawk, Voltus or similar tools, making it a potential match but not a definitive one.",
     "id": "31eb8414",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": "job_descriptions/platform_recruitment_system_on_a_chip_architect_31eb8414.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Site CTO / Technical Lead [33355]",
@@ -12579,14 +12577,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/site-cto-technical-lead-33355-at-stealth-startup-4442813624",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with 7-8 years of experience, but target domain is relaxed for such roles.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Site CTO / Technical Lead at a stealth startup in Helsinki, Finland, aligning with the leadership exception and preferred location.",
     "id": "973a3ff6",
     "source": "linkedin_fi_semiconductor_cto",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/stealth_startup_site_cto___technical_lead__333_973a3ff6.txt"
   },
   {
     "title": "Principal Engineer - Device Model Engineer",
@@ -12594,14 +12591,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-device-model-engineer-at-globalfoundries-4426041884",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with semiconductor experience, though exact technical domain is unclear.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on device model engineering, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging and related areas.",
     "id": "a2f611cc",
     "source": "linkedin_india_semiconductor_principal_engineer",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Leadership Role - DFT",
@@ -12610,13 +12606,12 @@
     "url": "https://in.linkedin.com/jobs/view/leadership-role-dft-at-amd-4442808627",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily related to Design for Testability (DFT) execution and ATPG, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on DFT, which falls outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
     "id": "0f4e40d2",
     "source": "linkedin_india_semiconductor_principal_engineer",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Ethics Specialist",
@@ -12625,13 +12620,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88827?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical HR position and does not fit Vineeth's background in semiconductor, VLSI, EDA.",
+    "reason": "This role is for an Ethics Specialist, which falls outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "f9fd39e0",
     "source": "amd_careers",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chiplet RTL Lead",
@@ -12639,14 +12633,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/88453?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on SMT/SOC digital design and verification, which does not match Vineeth's background in power integrity, thermal analysis, and advanced packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with leadership experience and VLSI design, but it's leaning towards RTL development rather than power integrity focus.",
     "id": "a26ffd2a",
     "source": "amd_careers",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer , ASIC Analog DesignBengaluru, Karnataka, IndiaPosted 3 months ago",
@@ -12654,14 +12647,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://micron.eightfold.ai/careers/job/40780352",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with >5 years experience required, but fewer years could still match due to principal engineer title",
+    "matches_requirements": "no",
+    "reason": "The role focuses on ASIC analog design and SerDes interfaces, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "a7d69747",
     "source": "micron_careers",
     "posted_date": "2026-04-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Verification",
@@ -12670,13 +12662,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-verification-at-xqwave-pvt-ltd-formerly-obsidian-solutions-pvt-ltd-4441164611",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on physical verification, which does not match Vineeth's background and expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, or CAD/Methodology.",
+    "reason": "The job is for Physical Verification, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "703a98fb",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog/Mixed-signal Designer",
@@ -12685,13 +12676,12 @@
     "url": "https://it.linkedin.com/jobs/view/analog-mixed-signal-designer-at-k2-partnering-solutions-4444875871",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Analog/Mixed-signal Designer with VerilogAMS skills, which is outside Vineeth's PI and Advanced Packaging domain.",
+    "reason": "The role is for an Analog/Mixed-signal Designer, which falls outside Vineeth's expertise focused on Power Integrity and Advanced Packaging.",
     "id": "3f74c0b5",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI ENGINEER L3",
@@ -12700,13 +12690,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-engineer-l3-at-wipro-4439587477",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for VLSI design verification, which does not match Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The job description focuses on verification tasks and doesn't align with Vineeth\u2019s expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "0abe25ec",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -12715,13 +12704,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-selby-jennings-4445909356",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an FPGA Engineer focused on trading infrastructure, which does not match Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role is for an FPGA Engineer, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "ae8c539f",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Computer Aided Design Designer",
@@ -12730,13 +12718,12 @@
     "url": "https://nl.linkedin.com/jobs/view/computer-aided-design-designer-at-looper-engineering-4445906428",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Computer Aided Design (CAD) Designer for general machine, construction and product design rather than semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on CAD design rather than power integrity or advanced packaging.",
     "id": "a8b6b6cf",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Trainee Design Engineer",
@@ -12745,13 +12732,12 @@
     "url": "https://uk.linkedin.com/jobs/view/trainee-design-engineer-at-a-f-sprinklers-ltd-4444742727",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a trainee design engineering position, which is outside Vineeth's domain of semiconductor/VLSI/EDA expertise.",
+    "reason": "The role is a trainee position and does not align with Vineeth's 15 years of experience or leadership focus, and it lacks relevant keywords related to Power Integrity/EDA tools.",
     "id": "851ad9e9",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Data Analyst (4 day workweek & remote)",
@@ -12760,13 +12746,12 @@
     "url": "https://pt.linkedin.com/jobs/view/senior-data-analyst-4-day-workweek-remote-at-bizay-4432546063",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role outside semiconductor/VLSI/EDA domain",
+    "reason": "The role is a Data Analyst position requiring SQL, Excel, and Python, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "718ffa7f",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Print Production Artist (Freelancer)",
