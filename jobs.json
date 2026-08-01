@@ -31926,13 +31926,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89123?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "This role is for a design verification engineer, which falls outside Vineeth's area of expertise in power integrity and advanced packaging.",
     "id": "4d4569d0",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HR Project Manager, M&A and HR Strategic Projects",
@@ -31941,13 +31940,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88808?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
+    "reason": "This is an HR role focused on M&A integration, which falls outside of Vineeth's technical expertise in Power Integrity and Advanced Packaging.",
     "id": "58733964",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "MES Software Engineer/Data Analyst",
@@ -31956,13 +31954,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/MES-Software-Engineer-Data-Analyst_R026173",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (MES), which is outside Vineeth's domain of VLSI/EDA semiconductor engineering.",
+    "reason": "The role is primarily a software engineering and data analysis position within an MES system, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "547bd344",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer 5",
@@ -31971,13 +31968,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-engineer-5-at-bellatrix-systems-llc-4446392323",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on hardware design & development, PCB layout, and testing rather than Power Integrity, Advanced Packaging, or EDA tools. It does not match Vineeth's key domain expertise.",
+    "reason": "The role is listed as 'Entry level' and focuses on hardware development (PCB design) which falls outside Vineeth's focus areas of Power Integrity, Advanced Packaging, and related domains.",
     "id": "550eb2f4",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA / RTL Design Engineer",
@@ -31986,13 +31982,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-rtl-design-engineer-at-lorven-technologies-inc-4434309697",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer), which falls outside Vineeth's domain.",
+    "reason": "The role is focused on FPGA/RTL design, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "de103f55",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Mechanical Engineer I",
@@ -32001,13 +31996,12 @@
     "url": "https://fi.linkedin.com/jobs/view/data-center-mechanical-engineer-i-at-google-4445787281",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on data center mechanical engineering and construction, which does not match Vineeth's background in semiconductor VLSI EDA.",
+    "reason": "The role is for a Mechanical Engineer focused on data center infrastructure, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "b4adbcd6",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marketing Engineer (SEO, AEO & CRO)",
@@ -32016,13 +32010,12 @@
     "url": "https://uk.linkedin.com/jobs/view/marketing-engineer-seo-aeo-cro-at-precis-4426066137",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical marketing role, which is outside Vineeth's domain.",
+    "reason": "The role is focused on marketing engineering with AI and SEO, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "794f45ff",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Functional Safety Architect (f/m/d)",
@@ -32031,13 +32024,12 @@
     "url": "https://de.linkedin.com/jobs/view/functional-safety-architect-f-m-d-at-renesas-electronics-4437770173",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Functional Safety architectures and definitions for power ICs, which is outside Vineeth's domain of Power Integrity/Advanced Packaging.",
+    "reason": "The role focuses on functional safety architecture, which falls outside Vineeth's core expertise in PDN sign-off and advanced packaging.",
     "id": "a4693ce3",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Validation Engineer",
@@ -32046,13 +32038,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-validation-engineer-at-ast-spacemobile-4437865098",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on validation of SoC devices, which is outside Vineeth's domain in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Validation Engineer, focusing on verification rather than Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "27956547",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Threat Intelligence Analyst",
@@ -32061,13 +32052,12 @@
     "url": "https://uk.linkedin.com/jobs/view/threat-intelligence-analyst-at-anson-mccade-4445964153",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on cybersecurity, threat hunting, and detection engineering, which is outside Vineeth's domain of expertise in power integrity, advanced packaging, SoC PDN sign-off, and thermal analysis.",
+    "reason": "The job is for a Threat Intelligence Analyst, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "7dc88c6a",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Functional Safety Architect (f/m/d)",
@@ -32075,14 +32065,13 @@
     "location": "Swindon, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/functional-safety-architect-f-m-d-at-renesas-electronics-4438214405",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Functional Safety Architect for power ICs, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on functional safety architecture which aligns with some aspects of Vineeth's experience, but is not a primary Power Integrity or Advanced Packaging position.",
     "id": "e5bb4a37",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Director, Cyber Security",
@@ -32091,13 +32080,12 @@
     "url": "https://uk.linkedin.com/jobs/view/associate-director-cyber-security-at-immunocore-4415668649",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on IT security operations, SIEM/SOAR management and incident response - which does not match Vineeth's expertise in VLSI/EDA semiconductor domains like Power Integrity, Physical Design or EDA tools.",
+    "reason": "This role is for a Cyber Security leader, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "f586cc5e",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Infrastructure Engineer",
@@ -32106,13 +32094,12 @@
     "url": "https://uk.linkedin.com/jobs/view/infrastructure-engineer-at-marks-sattin-4431949470",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on secure-by-design platform delivery and systems engineering in a controlled environment, which does not match Vineeth's background in Power Integrity, Advanced Packaging, CAD Methodology. Additionally, DV clearance is required.",
+    "reason": "The role focuses on infrastructure and security, lacking the required domain expertise in power integrity, advanced packaging, or related VLSI areas.",
     "id": "6d2c080f",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Test Engineer (Python)",
@@ -32121,13 +32108,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-test-engineer-python-at-intellias-4438281544",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Python test automation) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on security testing and Python automation, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "5f6752e5",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Private Duty Nurse",
@@ -32136,13 +32122,12 @@
     "url": "https://www.linkedin.com/jobs/view/private-duty-nurse-at-interim-healthcare-inc-4443005129",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical, clinical nursing role which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is for a Licensed Practical Nurse (LPN) position, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "aecfb9dc",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Design & Validation Engineer",
