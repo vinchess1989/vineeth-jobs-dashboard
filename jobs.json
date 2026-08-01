@@ -6474,28 +6474,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=c1d49bb364c661f1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI/ML frameworks) rather than hardware-focused semiconductor/VLSI/EDA.",
+    "reason": "The job is located in Austin, Texas, which falls under a hard rejection based on location requirements.",
     "id": "50404ccf",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Automation Design Packaging Lead salaries in Austin, TX",
     "company": "Extract from page",
-    "location": "",
+    "location": "Austin, TX, USA",
     "url": "https://www.indeed.com/career/packaging-designer/salaries/78735--TX?campaignid=serp-more&fromjk=c1d49bb364c661f1&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at a semiconductor company, which does not match Vineeth's engineering background.",
+    "reason": "The job title does not contain required keywords (PDN, Redhawk, Power Integrity, Voltus) and is a design role rather than power integrity or EDA.",
     "id": "d1abca2b",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Controls & Automation Engineer \u2013 Electrical Design",
@@ -6504,28 +6502,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=cdb359e0c5608d53",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Electrical Controls Engineer at a medical device company, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job focuses on electrical design for automated manufacturing equipment, which is outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "613b1723",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Controls & Automation Engineer \u2013 Electrical Design salaries in Rancho Santa Margarita, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Rancho Santa Margarita, CA, USA",
     "url": "https://www.indeed.com/career/electrical-designer/salaries/92688--CA?campaignid=serp-more&fromjk=cdb359e0c5608d53&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (Controls & Automation Engineer - Electrical Design) at a semiconductor company, which goes against our requirement to only consider engineering/technical positions.",
+    "reason": "The job title and description lack keywords related to Power Integrity, PDN, Redhawk, Voltus, or Electrical Analysis, indicating it's not a relevant match for Vineeth's expertise.",
     "id": "d55d054c",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Engineer II",
@@ -6534,13 +6530,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=ea8a2825ea175908",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on Mechanical Engineering (PLC, Controls, Vision Systems) rather than semiconductor/VLSI/EDA design and automation.",
+    "reason": "The job description lacks keywords related to Power Integrity, PDN, Redhawk, Voltus, or other relevant EDA tools, and focuses on PLC programming & CAD design for medical devices.",
     "id": "3d5d73a7",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Engineer II salaries",
@@ -6549,13 +6544,12 @@
     "url": "https://www.indeed.com/career/salaries/Senior%20Design%20Engineer/Humacao,%20PR?campaignid=serp-more&fromjk=ea8a2825ea175908&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on software development (C++ and Python coding) rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job description is extremely vague and lacks specific details about Power Integrity, advanced packaging, or relevant EDA tools, failing to meet the keyword requirement.",
     "id": "55f7d6ae",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automation Design Engineer",
@@ -6564,28 +6558,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=c85523b4f6ecf3d5",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an automation engineer in manufacturing, not semiconductor/VLSI/EDA.",
+    "reason": "The job description lacks keywords related to Power Integrity, PDN sign-off, RedHawk, Voltus, or advanced packaging and focuses on automation building which is outside Vineeth's domain.",
     "id": "c3c03587",
     "source": "indeed_ww_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "this job has expired on indeed",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automation Design Engineer salaries in Indianapolis, IN",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Indianapolis, IN, USA",
     "url": "https://www.indeed.com/career/automation-engineer/salaries/46268--IN?campaignid=serp-more&fromjk=c85523b4f6ecf3d5&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an automation engineer role, which does not match Vineeth's background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) indicating it's not a relevant Power/Signal Integrity role.",
     "id": "d7577c6a",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "2026-07-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff RF Design Engineer (RDE)",
@@ -6594,28 +6586,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=eafdf6b241384c79",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is in Aerospace/Defense engineering, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant Power Integrity/VLSI role.",
     "id": "744d239a",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff RF Design Engineer (RDE) salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Manhattan Beach, CA, USA",
     "url": "https://www.indeed.com/career/salaries/Senior%20Rf%20Engineer/Manhattan%20Beach,%20CA?campaignid=serp-more&fromjk=eafdf6b241384c79&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an RF Design Engineer, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it is not a relevant power integrity or related role.",
     "id": "a3bd95d9",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automation Specialist 4",
@@ -6624,28 +6614,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=eaa2e6f07d101905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Automation Specialist focused on instrumentation, controls and systems design rather than semiconductor/VLSI/EDA technical leadership.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's outside Vineeth's target domain.",
     "id": "54889efc",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Automation Specialist 4 salaries in Carlsbad, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Carlsbad, CA, USA",
     "url": "https://www.indeed.com/career/automation-specialist/salaries/92008--CA?campaignid=serp-more&fromjk=eaa2e6f07d101905&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job title does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or related role.",
     "id": "7b8b026d",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Image Sensor Digital Design Lead - PICO - SanJose",
@@ -6654,28 +6642,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=cbfc29971c7fa340",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (programming for design flow automation, test case generation, data processing and analysis) rather than semiconductor/VLSI/EDA technical domains of interest.",
+    "reason": "The job focuses on digital design for image sensors, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "14fad5a1",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Image Sensor Digital Design Lead - PICO - SanJose salaries in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/career/digital-designer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=cbfc29971c7fa340&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer), which is outside Vineeth's domain.",
+    "reason": "The job focuses on digital design for image sensors, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "c31e134b",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Digital Design Engineer, Multimedia Lab",
@@ -6684,13 +6670,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=811e1759ba719aa2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (video codec hardware accelerators) which is outside Vineeth's domain.",
+    "reason": "The job is for a digital design engineer, which falls outside Vineeth's area of expertise in power integrity and advanced packaging.",
     "id": "551b8125",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Digital Design Engineer, Multimedia Lab salaries in San Jose, CA",
