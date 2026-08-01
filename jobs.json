@@ -35818,13 +35818,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-design-de-cartes-%C3%A9lectroniques-h-f-092026-pst-erz-at-serma-ing%C3%A9nierie-4305350921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electronic Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It requires development of electronic hardware and software, but no mention of power integrity, thermal analysis or advanced packaging.",
+    "reason": "The job description fails the mandatory keyword pre-filter and focuses on PCB design for the railway sector rather than SoC Power Integrity, Advanced Packaging, or VLSI design.",
     "id": "d0ca026d",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Document Controls Specialist",
@@ -35833,13 +35832,12 @@
     "url": "https://www.linkedin.com/jobs/view/document-controls-specialist-at-summit-underground-services-4446051184",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for document control specialist in utility construction, far outside Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is a non-technical document control position in the utility construction industry and fails the mandatory keyword pre-filter for Power Integrity/VLSI engineering.",
     "id": "945696bf",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Electronic Design Engineer",
@@ -35847,14 +35845,13 @@
     "location": "Reading, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-electronic-design-engineer-at-oxford-quantum-circuits-oqc-4444102274",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Principal Electronic Design Engineer role with quantum computing focus is a close match to Vineeth's background, but requires checking specific domain overlaps like ESD, thermal analysis.",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior leadership position in electronic design in the UK, aligning with the candidate's 15 years of experience and expertise in Power Integrity and technical leadership.",
     "id": "e61aaa5b",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/oxford_quantum_circu_principal_electronic_design_en_e61aaa5b.txt"
   },
   {
     "title": "QHSE Manager",
@@ -35863,13 +35860,12 @@
     "url": "https://uk.linkedin.com/jobs/view/qhse-manager-at-berlin-packaging-uk-4444104266",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a QHSE Manager role which is unrelated to VLSI, semiconductor or EDA domains. It belongs to quality, health & safety and environmental management.",
+    "reason": "The job is a non-technical QHSE (Quality, Health, Safety, and Environment) management role in a general packaging manufacturing company and does not meet any of the required semiconductor technical keywords or domains.",
     "id": "4339954c",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Design Engineer",
@@ -35878,13 +35874,12 @@
     "url": "https://se.linkedin.com/jobs/view/analog-design-engineer-at-xenergic-4446574455",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on analog design and verification rather than Power Integrity, CAD methodology, or VLSI/SoC physical design.",
+    "reason": "The position is for an entry-level role ('Premier emploi') which does not align with the candidate's 15 years of experience and technical leadership background.",
     "id": "98c336fd",
     "source": "linkedin_eu_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "il y a 3 jours",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Design Engineer",
@@ -35893,13 +35888,12 @@
     "url": "https://uk.linkedin.com/jobs/view/product-design-engineer-at-never-let-go-4446573317",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Product Design Engineer for hardware/technical soft goods, which does not match Vineeth's semiconductor/VLSI/EDA background and skills.",
+    "reason": "The role is for mechanical product design of physical goods (tethers and rescue gear) and does not involve semiconductor, VLSI, or Power Integrity domains.",
     "id": "05ba8311",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CS Trainee",
@@ -35908,13 +35902,12 @@
     "url": "https://in.linkedin.com/jobs/view/cs-trainee-at-upstox-4444107359",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Company Secretary Trainee, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a non-technical Company Secretary Trainee role in a fintech company and does not match the candidate's VLSI/Power Integrity engineering expertise.",
     "id": "09165bcc",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Account Executive - PI",
@@ -35923,13 +35916,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-account-executive-pi-at-howden-insurance-brokers-limited-4446047449",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role; requires professional indemnity insurance experience in finance/insurance industry, no overlap with semiconductor/VLSI/EDA",
+    "reason": "The job is for a professional indemnity (PI) insurance role, not a Power Integrity (PI) semiconductor engineering position, and it does not contain any of the required technical keywords.",
     "id": "52f354ee",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Manager / IT Project Coordinator (Manufacturing Execution System (MES)",
@@ -35938,13 +35930,12 @@
     "url": "https://uk.linkedin.com/jobs/view/project-manager-it-project-coordinator-manufacturing-execution-system-mes-at-smartedge-solutions-4443691905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Project Manager / IT Project Coordinator for Manufacturing Execution System (MES) and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or EDA tools like ANSYS RedHawk.",
+    "reason": "The role is for an IT Project Coordinator for Manufacturing Execution Systems (MES) in the pharmaceutical/biotech sector, which does not align with the candidate's expertise in Power Integrity, Advanced Packaging, or VLSI/EDA engineering.",
     "id": "82b4a5bf",
     "source": "linkedin_uk_pi",
-    "posted_date": "N/A",
+    "posted_date": "il y a 3 jours",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Analysis & Design Principal",
@@ -35953,13 +35944,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-analysis-design-principal-at-s-p-global-4446042436",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Product Analysis & Design Principal at a financial services company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The role is a Business Analyst position in Financial Services (Trade & Transaction Reporting), not a semiconductor or VLSI engineering role.",
     "id": "8b999391",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equity Product Trade Confirmation",
@@ -35968,13 +35958,12 @@
     "url": "https://in.linkedin.com/jobs/view/equity-product-trade-confirmation-at-mizuho-4446052066",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Equity Derivative Trade Confirmation, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "This is a financial services role in investment banking and does not fall within the semiconductor, VLSI, or EDA engineering domains.",
     "id": "fdb02f24",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Consultant / Manager, Commercial Due Diligence & Strategy",
@@ -35983,13 +35972,12 @@
     "url": "https://fi.linkedin.com/jobs/view/consultant-manager-commercial-due-diligence-strategy-at-deloitte-4442839210",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical consulting role unrelated to semiconductor, VLSI/EDA fields.",
+    "reason": "The role is a non-technical commercial strategy and due diligence consulting position and does not contain any of the required semiconductor technical keywords.",
     "id": "463f4ae6",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Power",
@@ -35998,13 +35986,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-power-at-meta-4443672312",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily ASIC design focused on power analysis and optimization flows, which is outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology. Also, it is a US-based job requiring visa sponsorship.",
+    "reason": "The role is located in the United States and the job description does not explicitly mention visa sponsorship or relocation.",
     "id": "a8168e30",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineering Technical Leader",
@@ -36012,14 +35999,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/hardware-engineering-technical-leader-at-cisco-4446043674",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is focused on hardware engineering leadership, which does not closely align with Vineeth's technical areas of Power Integrity and Advanced Packaging. It's a maybe match for a very broad semiconductor/engineering leadership position.",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior technical leadership position in Signal and Power Integrity (SI/PI) and PDN analysis, perfectly aligning with the candidate's 15 years of experience and core expertise.",
     "id": "80f067f9",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-27",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/cisco_hardware_engineering_technical_80f067f9.txt"
   },
   {
     "title": "Forward Fusion",
@@ -36028,13 +36014,12 @@
     "url": "https://www.linkedin.com/jobs/view/forward-fusion-at-forward-forward-telecom-4443606676",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a 'Fusion' position at a telecom company, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is a software development role in the telecom industry, lacks required technical keywords, and the application period has already closed.",
     "id": "cab41b74",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "https://apit.co.in/case/",
