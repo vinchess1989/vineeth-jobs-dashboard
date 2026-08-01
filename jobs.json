@@ -30050,13 +30050,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R025992",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on verification, which is outside Vineeth's domain of expertise.",
+    "reason": "The job description explicitly states it is for a Design Verification Engineer, which falls under verification and is outside of Vineeth's domain.",
     "id": "5d057054",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer",
@@ -30065,13 +30064,12 @@
     "url": "https://careers.arm.com/job/bengaluru/engineer/33099/98426130992",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA verification and debugging, which does not match Vineeth's power integrity/advanced packaging expertise.",
+    "reason": "The job posting indicates that it no longer exists and does not align with Vineeth's experience level or target domains.",
     "id": "add3adc4",
     "source": "arm_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD-Synthesis Engineering",
@@ -30080,13 +30078,12 @@
     "url": "https://careers.arm.com/job/bengaluru/cad-synthesis-engineering/33099/98426141520",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on CAD synthesis engineering and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis.",
+    "reason": "The job focuses on synthesis methodologies and does not directly align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "572b4b91",
     "source": "arm_careers",
     "posted_date": "jul. 28, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ATYED Engineer",
@@ -30095,13 +30092,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22675&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on advanced defect inspection and analysis rather than power integrity, packaging, or physical design.",
+    "reason": "The role focuses on defect inspection and analysis, which is outside Vineeth's domain of power integrity, advanced packaging, and related areas.",
     "id": "9a0c23dd",
     "source": "tsmc_careers",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -30110,13 +30106,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FATYED-Engineer%2F22675",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general LinkedIn profile page, not an active job posting with specific requirements and application details.",
+    "reason": "The job posting lacks essential keywords like 'PDN', 'Redhawk', or 'Voltus' and appears to be a general career page link rather than a specific engineering role.",
     "id": "1eebd846",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Help negotiating pay with startups",
@@ -30125,13 +30120,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1v8welh/help_negotiating_pay_with_startups/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for general career advice, not a specific job role.",
+    "reason": "The job posting is a discussion thread on Reddit about salary negotiation, rather than a formal job description; it does not meet the criteria for a technical role.",
     "id": "61130a54",
     "source": "reddit_chipdesign",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Operations / Production Manager \u2013 Materials Science",
@@ -30140,13 +30134,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-operations-production-manager-%E2%80%93-materials-science-at-mase-consulting-ltd-4443293626",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on materials science manufacturing operations and technical management, not semiconductor VLSI EDA.",
+    "reason": "The role focuses on materials science and manufacturing operations, lacking the required Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "df95efd9",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Design Verification",
@@ -30155,13 +30148,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-design-verification-at-meta-4434528101",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is focused on design verification, which falls outside Vineeth's domain of expertise.",
     "id": "73f06f65",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -30170,13 +30162,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-engineer-at-quest-global-4445760067",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on FPGA design and does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is an FPGA Engineer position, focusing on RTL coding and hardware design using VHDL/Verilog, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "7d86d2bd",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -30185,13 +30176,12 @@
     "url": "https://it.linkedin.com/jobs/view/fpga-engineer-at-akronos-technologies-4446183921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role at Akronos Technologies is focused on digital design and development work with VHDL, Python, Git, Linux, SystemVerilog. It does not match Vineeth's domain of Power Integrity (PI), Advanced Packaging, CAD Methodology.",
+    "reason": "The role is for an FPGA Engineer, which focuses on RTL design and verification using VHDL and Python, falling outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "6f05021a",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Brand Design Engineer",
@@ -30200,13 +30190,12 @@
     "url": "https://uk.linkedin.com/jobs/view/brand-design-engineer-at-verda-4445757074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a creative design role focused on brand and web visual design, not semiconductor/VLSI/EDA technical roles that Vineeth Kaimal's background qualifies for.",
+    "reason": "The role is a Brand Design Engineer focused on frontend development and animation, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "ad1f896b",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cloud Platform Engineer II, Event Streaming [T500-27900]",
@@ -30215,13 +30204,12 @@
     "url": "https://in.linkedin.com/jobs/view/cloud-platform-engineer-ii-event-streaming-t500-27900-at-mcdonald-s-global-office-in-india-4445723522",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Role is for a Data Platform Engineer focusing on event-driven architecture and real-time streaming solutions, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is a Cloud Platform Engineer focusing on event streaming, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "43f3f3b7",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior PDK Development Engineer",
@@ -30230,13 +30218,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-pdk-development-engineer-at-analog-devices-4443618780",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on PDK development, which is outside Vineeth's primary domain of power integrity and advanced packaging.",
+    "reason": "The role is focused on PDK development and doesn't align with Vineeth's experience in Power Integrity, Advanced Packaging, or SoC PDN sign-off.",
     "id": "0ab583e5",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior PDK Development Engineer",
@@ -30245,13 +30232,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-pdk-development-engineer-at-analog-devices-4443616831",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on PDK development, which falls under physical design/layout rather than power integrity and advanced packaging where Vineeth has expertise.",
+    "reason": "The role is focused on PDK development, which falls outside of Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "3fbb3016",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior PDK Development Engineer",
@@ -30260,13 +30246,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-pdk-development-engineer-at-analog-devices-4443630001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on PDK development, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on PDK development and doesn't align with Vineeth's Power Integrity, Advanced Packaging, or related expertise.",
     "id": "545b6801",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
