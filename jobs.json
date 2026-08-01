@@ -9652,13 +9652,12 @@
     "url": "https://uk.linkedin.com/jobs/view/nunavut-at-team-panamera-4445662592",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business operations role, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job title 'NUNAVUT' and description indicate a role unrelated to semiconductor, VLSI, or EDA, focusing on travel arrangements.",
     "id": "27412e01",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Pecans Plain Raw",
@@ -9667,13 +9666,12 @@
     "url": "https://uk.linkedin.com/jobs/view/pecans-plain-raw-at-candybird-4445611520",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales/marketing role for nuts, not a semiconductor/VLSI/EDA engineering job.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it is not a relevant power integrity or EDA role.",
     "id": "3a4b24ff",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mittausp\u00e4\u00e4llikk\u00f6",
@@ -9682,13 +9680,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mittausp%C3%A4%C3%A4llikk%C3%B6-at-destia-oy-4434557332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a surveying/field operations position, not an EDA/VLSI technical role.",
+    "reason": "The role focuses on construction and measurement within infrastructure projects, lacking keywords related to power integrity, EDA tools, or VLSI design.",
     "id": "a0317076",
     "source": "linkedin_fi_pi",
     "posted_date": "2026-07-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Energy Trading Data & Regulatory Reporting Analyst (f/m/d)",
@@ -9697,13 +9694,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-energy-trading-data-regulatory-reporting-analyst-f-m-d-at-uniper-4445665617",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical regulatory reporting analysis, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job focuses on regulatory reporting within the energy trading sector, which falls outside of Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "1a5050c5",
     "source": "linkedin_eu_emir",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PMM AI Solution Engineer",
@@ -9712,13 +9708,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89030?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an AI solution engineer role focused on PMM (Power Management) engineering workflows, which does not match Vineeth's areas of Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role focuses on AI application within PMM, which is outside Vineeth's primary expertise in PDN sign-off and advanced packaging.",
     "id": "44527cfe",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GQ Ops IE Modeling and Automation ManagerSingapore, SingaporePosted 25 days ago",
@@ -9727,13 +9722,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42834921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Lab Automation Strategy & Deployment, which is more of a software development and automation engineering role rather than semiconductor/VLSI/EDA. It does not directly align with Vineeth's domain of Power Integrity (PI), Advanced Packaging, CAD Methodology.",
+    "reason": "The job focuses on lab automation and industrial engineering within a manufacturing setting, which is outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related EDA tools.",
     "id": "5e78025d",
     "source": "micron_careers",
     "posted_date": "2026-07-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mixed Signal Silicon Design Engineer",
@@ -9742,13 +9736,12 @@
     "url": "https://pl.linkedin.com/jobs/view/mixed-signal-silicon-design-engineer-at-semiqa-4444861675",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mixed-signal silicon design engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on mixed-signal circuit design and verification, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "78045330",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer RTL",
@@ -9757,13 +9750,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-rtl-at-digital-core-technologies-pvt-ltd-4443863675",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL design with Verilog/VHDL/SystemVerilog, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging. It also does not match his key skills in ANSYS RedHawk, Cadence Voltus, or CAD tool methodology.",
+    "reason": "The role is an entry-level RTL Design Engineer position, which falls under verification and software development, outside of Vineeth's expertise.",
     "id": "1e0997dc",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Design Engineer",
@@ -9772,13 +9764,12 @@
     "url": "https://fi.linkedin.com/jobs/view/software-design-engineer-at-abb-4445666787",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development (Labview programming) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is a Software Design Engineer focused on Labview programming and production testing, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "9f941728",
     "source": "linkedin_fi_fpga_engineer",
     "posted_date": "2026-07-27",
     "deadline": "2026-08-16",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DALTON",
@@ -9787,13 +9778,12 @@
     "url": "https://www.linkedin.com/jobs/view/dalton-at-team-panamera-4445674561",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Lot Associate) and does not match Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level role in a travel arrangement industry.",
     "id": "d9569090",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OTHER DRIVES",
@@ -9802,13 +9792,12 @@
     "url": "https://www.linkedin.com/jobs/view/other-drives-at-team-panamera-4445662594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for driving duties at a car dealership, well outside Vineeth's semiconductor/EDA background.",
+    "reason": "The job is for a driver position, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "af15d2be",
     "source": "linkedin_ww_pdn",
-    "posted_date": "2 godzin temu",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "JEAN C.",
@@ -9816,14 +9805,13 @@
     "location": "Mawsynram, Meghalaya, India",
     "url": "https://in.linkedin.com/jobs/view/jean-c-at-up-scale-4444883038",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Director of Photography in marketing and advertising - unrelated to semiconductor/VLSI/EDA.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "7a294449",
     "source": "linkedin_india_pdn",
-    "posted_date": "1 godzin\u0119 temu",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Siddharth Setia",
@@ -9832,13 +9820,12 @@
     "url": "https://in.linkedin.com/jobs/view/siddharth-setia-at-nftphotographers-xyz-4445670809",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for a photographer and digital artist at an NFT photography company, which does not match Vineeth's VLSI/EDA technical background.",
+    "reason": "The job posting URL leads to a 'page not found' error, indicating it is no longer active and does not contain relevant technical information.",
     "id": "92c2c636",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sreeranj (Sree)",
@@ -9847,13 +9834,12 @@
     "url": "https://in.linkedin.com/jobs/view/sreeranj-sree-at-nftphotographers-xyz-4445671737",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role, not within Vineeth's domain of expertise",
+    "reason": "This job posting is for a photographer and NFT artist, which falls completely outside of Vineeth's domain of semiconductor/VLSI/EDA engineering.",
     "id": "777f481c",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Unai Larraya",
@@ -9861,14 +9847,13 @@
     "location": "Pamplona, Chartered Community of Navarre, Spain",
     "url": "https://es.linkedin.com/jobs/view/unai-larraya-at-nftphotographers-xyz-4445675188",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Photography Genre includes Landscape, Wildlife, Adventure, Nature which partially overlaps with Vineeth's background in Power Integrity & Advanced Packaging. Leadership role is a wildcard match.",
+    "matches_requirements": "no",
+    "reason": "The job posting leads to a 'page not found' error, indicating it is likely inactive and does not contain relevant technical information for Vineeth's expertise.",
     "id": "adf55f0b",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Daniel Vi\u00f1\u00e9",
