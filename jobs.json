@@ -26493,14 +26493,13 @@
     "location": "Valencia, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/senior-thermal-system-engineer-at-iceye-4444475288",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on spacecraft thermal control engineering, which does not match Vineeth's expertise in semiconductor power integrity and advanced packaging. Also, it is a satellite company rather than a semiconductor/EDA firm.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on thermal system engineering within the space industry, aligning with the advanced packaging/thermal domain and leadership experience requirements.",
     "id": "f7d7e3f5",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/iceye_senior_thermal_system_engineer_f7d7e3f5.txt"
   },
   {
     "title": "Data Centre Design & Simulation Engineer",
@@ -26509,13 +26508,12 @@
     "url": "https://uk.linkedin.com/jobs/view/data-centre-design-simulation-engineer-at-mansim-4444941216",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Data Centre Design & Simulation Engineer, which falls outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role focuses on data centre design and simulation using Cadence Reality DC Design, which is outside Vineeth's core expertise in Power Integrity, PDN sign-off, and related areas.",
     "id": "f657c21d",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineering Technical Leader",
@@ -26523,14 +26521,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-engineering-technical-leader-at-cisco-4445487883",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This ASIC Engineering Technical Leader role focuses on NPI, ATE testing and silicon characterization for Cisco's ASIC/SoC products, which does not align closely with Vineeth's power integrity (PI), advanced packaging, SoC PDN sign-off, thermal analysis, or EDA CAD tool automation expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Technical Leader with ASIC engineering experience, aligning well with Vineeth's leadership and technical background in power integrity and advanced packaging, and the job description includes relevant keywords.",
     "id": "d2091d67",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/cisco_asic_engineering_technical_lea_d2091d67.txt"
   },
   {
     "title": "Senior Systems Engineer",
@@ -26539,13 +26536,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-systems-engineer-at-edwards-vacuum-4436528737",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Systems Engineer focused on semiconductor manufacturing equipment, which does not match Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role focuses on systems engineering activities and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related EDA tools.",
     "id": "989d988a",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Architect",
@@ -26554,13 +26550,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-architect-at-weekday-yc-w21-4445705037",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a SoC Architect role at an AI chip startup, outside Vineeth's Power Integrity & Advanced Packaging focus area.",
+    "reason": "The job is for an SoC Architect, which isn't a direct match to Vineeth\u2019s expertise in Power Integrity and Advanced Packaging.",
     "id": "b4e463c6",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr.DFT Verification Engineer",
@@ -26569,13 +26564,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88461?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is specifically for DFT Verification, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "cac8e808",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Compiler Performance Engineer",
@@ -26584,13 +26578,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86158?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused on compiler performance tuning, which is outside Vineeth's domain of power integrity and advanced packaging expertise.",
+    "reason": "The role focuses on compiler performance and LLVM, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "dfffb556",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SSD Customer Validation EngineerSingapore, SingaporePosted 2 months ago",
@@ -26599,13 +26592,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41911284",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software-focused (Python, validation automation) and doesn't strongly match Vineeth's key technical domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, CAD Methodology, Physical Design, or EDA Tools.",
+    "reason": "The role focuses on SSD validation and system-level testing, which falls outside Vineeth's expertise in power integrity, advanced packaging, and EDA tool methodologies.",
     "id": "52f83165",
     "source": "micron_careers",
     "posted_date": "2026-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer, Process Engineering (Diffusion)SGPosted 3 months ago",
@@ -26614,13 +26606,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769373416",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Process Engineering position in semiconductor wafer fabrication, which is different from the Power Integrity and Advanced Packaging technical domains that Vineeth specializes in.",
+    "reason": "The job focuses on process engineering (diffusion) which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "3f6cc4ca",
     "source": "globalfoundries_careers",
     "posted_date": "2026-08-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Manager",
@@ -26629,13 +26620,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-manager-at-lumenci-4442205000",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product management role focused on AI-powered legal workflows, which is outside Vineeth's domain of expertise in power integrity and semiconductor packaging.",
+    "reason": "The role is a Product Manager focused on AI and legal workflows, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "4fa6294f",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCB Designer (all gender)",
@@ -26644,13 +26634,12 @@
     "url": "https://de.linkedin.com/jobs/view/pcb-designer-all-gender-at-alten-4432362377",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a PCB Designer role which does not match Vineeth's background and experience in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis.",
+    "reason": "The job description focuses on PCB design and hardware testing, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "f193a9ec",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Engineer",
@@ -26659,13 +26648,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-engineer-at-top-secret-4440199605",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an optical engineering role focused on rapid prototyping, which is outside Vineeth's power integrity and advanced packaging domain.",
+    "reason": "The role is for an Optical Engineer focusing on rapid prototyping, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "cdf36b5a",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Layout",
@@ -26674,13 +26662,12 @@
     "url": "https://www.linkedin.com/jobs/view/memory-layout-at-ambit-semiconductors-private-limited-4443276030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on memory layout design for SRAM, which falls under general VLSI/physical design. It does NOT fit Vineeth's areas of power integrity, advanced packaging, CAD methodology or EDA applications.",
+    "reason": "The role focuses on memory layout, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "7e956dda",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer Traineeship",
@@ -26689,13 +26676,12 @@
     "url": "https://nl.linkedin.com/jobs/view/hardware-engineer-traineeship-at-hoppenbrouwers-4267050901",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship-level hardware engineering position at a company specializing in industrial automation and water treatment systems, which does not match Vineeth's 15 years of experience in semiconductor power integrity, advanced packaging, and EDA tools.",
+    "reason": "The role is a traineeship for a junior hardware engineer, focusing on electrical installations and automation, which doesn't align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "f5a70038",
     "source": "linkedin_eu_vlsi_design",
-    "posted_date": "1 year ago",
+    "posted_date": "hace 1 a\u00f1o",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Designer - SoC for Neurotech",
@@ -26704,13 +26690,12 @@
     "url": "https://be.linkedin.com/jobs/view/analog-ic-designer-soc-for-neurotech-at-imec-4436310516",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on analog IC design for neurotech devices, which does not directly match Vineeth's Power Integrity and advanced packaging focus.",
+    "reason": "The role focuses on analog IC design for neurotech, which falls outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "2608188b",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout IC Design Engineer",
