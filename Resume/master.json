@@ -1,0 +1,196 @@
+{
+  "candidate": {
+    "name": "Vineeth Prathapachandra Kaimal",
+    "first_name": "Vineeth",
+    "last_name": "Kaimal",
+    "title": "Technical Leader | Power Integrity, Thermal & Packaging",
+    "experience_years": 15,
+    "dob": "20th Oct 1989",
+    "contact": {
+      "phone": "+358 405490885",
+      "email": "vineethkaimal1989@gmail.com",
+      "location": "Oulu, Finland",
+      "linkedin_url": "https://www.linkedin.com/in/vineeth-kaimal-373707a8/",
+      "linkedin_display": "linkedin.com/in/vineeth-kaimal-373707a8"
+    },
+    "tagline": "Nokia Finland | Ex-ANSYS | Ex-Qualcomm"
+  },
+  "summary": {
+    "default": "Results-driven engineering leader with 15 years of expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off, and Thermal Analysis. Demonstrated success in building and directing global cross-functional teams (25+ engineers), setting technical strategy, and delivering AI-driven automation platforms that reduce silicon area, lower cost, and ensure product reliability across cutting-edge technology nodes."
+  },
+  "skills": {
+    "leadership": [
+      "Global Team Direction (25+)",
+      "Technical Strategy",
+      "Stakeholder Management"
+    ],
+    "engineering_domains": [
+      "Power Integrity (PI)",
+      "Package Thermal",
+      "SoC PDN Sign-off",
+      "IR Drop / EM / ESD",
+      "CAD Methodology"
+    ],
+    "automation": [
+      "Python",
+      "Perl",
+      "Tcl",
+      "Shell Scripting",
+      "HTML & CSS",
+      "JavaScript / jQuery"
+    ],
+    "key_tools": [
+      "Redhawk",
+      "Redhawk-SC",
+      "Redhawk-SC Electrothermal",
+      "Totem",
+      "System PI",
+      "Voltus",
+      "Power Artist"
+    ]
+  },
+  "experience": [
+    {
+      "id": "nokia_tl",
+      "role": "Technical Leader – Power Integrity",
+      "company": "Nokia",
+      "dates": "Dec 2022 – Present",
+      "location": "Oulu, Finland",
+      "scope": "System-level PI, Advanced Packaging & Thermal Leadership",
+      "bullets": [
+        "Define and own technical strategy for system-level power integrity and package thermal sign-off across high-speed product portfolios.",
+        "Architect and lead development of AI-driven automation platforms for package ball visualization, layout modification, and ballout optimization – directly reducing design cycle time.",
+        "Drive SoC die size optimization from a PI perspective, delivering measurable silicon area and cost reduction.",
+        "Lead advanced package-level and component thermal analysis programs to proactively mitigate reliability risks."
+      ]
+    },
+    {
+      "id": "qualcomm_lead",
+      "role": "Staff / Lead / Senior Engineer",
+      "company": "Qualcomm",
+      "dates": "Jan 2016 – Dec 2022",
+      "location": "Bangalore, India",
+      "scope": "SoC & Hard-Macro PDN Sign-off | Team Lead",
+      "bullets": [
+        "Built, mentored, and directed a 25-member global engineering team delivering 6+ concurrent sign-off programs across 3lpe, 4ff, 5lpe, and 7ff nodes.",
+        "Owned end-to-end SoC PDN sign-off strategy; drove early floorplan architecture, padring layout, bump planning, and ESD placement decisions.",
+        "Successfully led the Hard-Macro level Power Delivery Network (PDN) sign-off team to ensure PDN convergence is seamless with best-in-class quality metrics.",
+        "Provided feedback about PDN health to HM PD implementation engineers from floorplan stage to Metal Tape-Out.",
+        "Engineered 200+ automation scripts (Perl/Tcl) and an automated HTML reporting system, unifying sign-off visibility across all hard macros.",
+        "Leveraged ANSYS RedHawk, RedHawk-SC, and Cadence Voltus for static/dynamic IR drop, signal EM, and ESD clamp-to-instance validation.",
+        "Liasoned between HM implementation teams and SoC Convergence team, preventing late-stage tape-out issues."
+      ]
+    },
+    {
+      "id": "invecas_sr",
+      "role": "Senior Engineer",
+      "company": "INVECAS (via Soctronics)",
+      "dates": "Aug 2015 – Jan 2016",
+      "location": "Bangalore, India",
+      "scope": "CAD and Methodology Team",
+      "bullets": [
+        "Established internal CAD methodologies and automated PI validation sign-off flows adopted across active production projects."
+      ]
+    },
+    {
+      "id": "ansys_ae",
+      "role": "Applications Engineer",
+      "company": "ANSYS Apache",
+      "dates": "Aug 2011 – Aug 2015",
+      "location": "Bangalore, India",
+      "scope": "Technical Interface for Tier-1 Accounts",
+      "bullets": [
+        "Served as primary engineering interface for Tier-1 accounts including Qualcomm (Bangalore), Atheros (Shanghai), STMicroelectronics, ST Ericsson, and Ericsson.",
+        "Supported RedHawk (SoC level power noise/reliability) and Totem (Transistor level power noise/reliability sign-off).",
+        "Drove customer engagements for new solutions, preparing training presentations, conducting workshops, and delivering custom feature prototyping for development teams."
+      ]
+    }
+  ],
+  "internships": [
+    {
+      "role": "Software Quality Assurance (SQA) Intern",
+      "company": "Broadcom India Research Pvt. Ltd.",
+      "dates": "May 2011 – Aug 2011",
+      "bullets": [
+        "Developed Perl scripts for automating the documentation of Linux kernel testing results."
+      ]
+    },
+    {
+      "role": "IC Design Front End Team Intern",
+      "company": "STMicroelectronics",
+      "location": "Gr. Noida, India",
+      "dates": "July 2010 – Dec 2010",
+      "bullets": [
+        "Worked with the Central CAD & Infrastructure (CCI) IC design front-end team."
+      ]
+    },
+    {
+      "role": "Engineering Intern",
+      "company": "BHEL (Combined Cycle Demonstration Plant)",
+      "location": "Trichy, India",
+      "dates": "May 2009 – July 2009",
+      "bullets": [
+        "Exposure to thermal power generation plant methodology and combined cycle systems."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Optimal Placement of Wind Turbines in a Wind Farm",
+      "technology": "MATLAB, Monte-Carlo Simulation",
+      "desc": "Implemented Monte-Carlo simulation to determine the optimum placement of wind rotors in a wind farm considering wake effects."
+    },
+    {
+      "title": "Wind Analysis Using Weibull Distribution",
+      "technology": "WERA Software, MATLAB",
+      "desc": "Fitted wind velocity profiles with a Weibull distribution to evaluate site wind power capacity."
+    },
+    {
+      "title": "Communication Systems Signal Multiplexing",
+      "technology": "MATLAB",
+      "desc": "Designed a circuit model to multiplex 5 audio signals, perform FM modulation, and retrieve original signals without noise."
+    },
+    {
+      "title": "Basic IC Tester Application",
+      "technology": "8086 Microprocessor Assembly",
+      "desc": "Designed and tested IC validation logic using 8086 microprocessor assembly."
+    },
+    {
+      "title": "Component V-I Characteristics Plotter",
+      "technology": "8051 Microcontroller",
+      "desc": "Plotted V-I characteristics of electronic components on a graphical LCD using 8051 microcontroller."
+    }
+  ],
+  "achievements": [
+    "100% Score (600/600) in Kerala Higher Secondary Board Examination (2007).",
+    "Awarded Merit-Cum-Need Scholarship at BITS-Pilani, K.K. Birla Goa Campus.",
+    "Runner-up in CODE WARS (programming event) at QUARK '09 (Annual Technical Festival of BITS Pilani).",
+    "Finalist in Electrade (circuit design event) and participant in SYMPHONY (MATLAB event) at QUARK '10."
+  ],
+  "extra_curricular": [
+    "5-time Kerala State Chess Champion; represented Kerala in National Chess Championship 15 times; Peak FIDE Rating: ELO 2014.",
+    "Elected Mess Secretary at BITS Pilani Goa Campus (2009–2010); directed a team of 14 student representatives in menu planning, hygiene standards, brand sourcing, billing, and software maintenance.",
+    "Core Committee Member for QUARK '09 & '10 technical festivals, leading artist invitations and event management.",
+    "Member of BITS Pilani Goa Campus Badminton Team."
+  ],
+  "education": [
+    {
+      "degree": "B.E. (Hons) Electrical & Electronics Engineering",
+      "institution": "BITS Pilani, K.K. Birla Goa Campus",
+      "dates": "2007 – 2011",
+      "details": "CGPA: 7.26/10"
+    },
+    {
+      "degree": "Higher Secondary (+2)",
+      "institution": "H.S.E, Kerala",
+      "dates": "2007",
+      "details": "Score: 600/600 (100%)"
+    },
+    {
+      "degree": "10th Standard (Secondary)",
+      "institution": "C.B.S.E Board",
+      "dates": "2005",
+      "details": "Score: 87.6%"
+    }
+  ]
+}
