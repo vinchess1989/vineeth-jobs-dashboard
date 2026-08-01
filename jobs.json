@@ -36476,13 +36476,12 @@
     "url": "https://pt.linkedin.com/jobs/view/%F0%9F%92%BB-murex-developer-%E2%80%93-transaction-regulatory-reporting-datamart-at-exalt-fi-4446068043",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on Murex platform development for financial regulatory reporting, which does not closely match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The job is for a financial software developer using the Murex platform, which is entirely unrelated to Vineeth's expertise in Power Integrity, VLSI, or semiconductor hardware.",
     "id": "a77ad9d1",
     "source": "linkedin_eu_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Or Manager Physical Design Engineer",
@@ -36490,14 +36489,13 @@
     "location": "Bengaluru South, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/lead-or-manager-physical-design-engineer-at-quest-global-4446053902",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a leadership position for physical design, which falls outside Vineeth's domain of power integrity and advanced packaging expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "403e529a",
     "source": "linkedin_india_ir_drop",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer-PnR-HYDERABAD",
@@ -36505,14 +36503,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-pnr-hyderabad-at-moschip%C2%AE-4444103386",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Senior Physical Design Engineer, which aligns with Vineeth's background in Power Integrity and Advanced Packaging. The location is Hyderabad, India, which matches one of the allowed locations.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "e33234f8",
     "source": "linkedin_india_ir_drop",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/moschip__senior_physical_design_enginee_e33234f8.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Consultant [F/M/X]",
@@ -36521,13 +36518,12 @@
     "url": "https://nl.linkedin.com/jobs/view/senior-electrical-consultant-f-m-x-at-amaris-consulting-4366216429",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily electrical design, not focused on semiconductor VLSI EDA domains that Vineeth specializes in.",
+    "reason": "The posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on industrial mechatronics rather than VLSI/SoC Power Integrity.",
     "id": "03ae839e",
     "source": "linkedin_eu_system_power_integrity",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Finance Systems Analyst / Developer (TM1 / Power BI / SQL)",
@@ -36536,13 +36532,12 @@
     "url": "https://uk.linkedin.com/jobs/view/finance-systems-analyst-developer-tm1-power-bi-sql-at-michael-page-4446564915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Finance Systems Analyst / Developer with TM1, Power BI and SQL skills, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Finance Systems Analyst position focusing on financial reporting and BI, which is a non-technical role outside the candidate's semiconductor and Power Integrity expertise.",
     "id": "1821e59a",
     "source": "linkedin_uk_system_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAE \u2013 Powertrain \u2013 CALSim",
@@ -36551,13 +36546,12 @@
     "url": "https://in.linkedin.com/jobs/view/cae-%E2%80%93-powertrain-%E2%80%93-calsim-at-tata-technologies-4443267393",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on powertrain system simulation and CAE using MATLAB/Simulink and CALSim, which does not directly align with Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or EDA tools.",
+    "reason": "The role is for automotive powertrain simulation (MATLAB/Simulink/CALSim) and does not contain any required semiconductor keywords like PDN, Power Integrity, or Redhawk.",
     "id": "48d28e14",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Manager - Engineering",
@@ -36566,13 +36560,12 @@
     "url": "https://in.linkedin.com/jobs/view/associate-manager-engineering-at-adani-group-4404740199",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Engineer role at Adani Wind Turbine Generators, specializing in design, manufacturing and installation of wind turbine systems. It does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, or EDA/CAD tools.",
+    "reason": "The job is a mechanical engineering role for wind turbine systems and lacks the required power integrity or VLSI-related keywords.",
     "id": "7f172771",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing engineer - Composites",
@@ -36581,13 +36574,12 @@
     "url": "https://in.linkedin.com/jobs/view/manufacturing-engineer-composites-at-the-eplane-company-4442029001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not in semiconductor, VLSI, EDA; it's a manufacturing engineering position for composites in the aerospace industry.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is in the aerospace manufacturing domain rather than VLSI/Power Integrity.",
     "id": "7fa2275c",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineering",
@@ -36596,13 +36588,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-engineering-at-tata-electronics-4441089918",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is process engineering for PCB assembly, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on SMT manufacturing rather than Power Integrity or SoC PDN analysis.",
     "id": "837a05f4",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Training Delivery - Thermal Power",
@@ -36611,13 +36602,12 @@
     "url": "https://in.linkedin.com/jobs/view/training-delivery-thermal-power-at-adani-enterprises-limited-4437424970",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for training power plant operations, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is for training delivery in thermal power plant operations (utility sector), which is unrelated to VLSI Power Integrity, semiconductor engineering, or EDA tools.",
     "id": "eb23a4f6",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Exterior Lead Engineer",
@@ -36626,13 +36616,12 @@
     "url": "https://in.linkedin.com/jobs/view/exterior-lead-engineer-at-tata-technologies-4443263484",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role for an Exterior Lead Engineer in automotive closure component design, unrelated to semiconductor/VLSI/EDA. It does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job is for an automotive mechanical engineering role (Exterior Lids/Closure Components) and does not contain any of the required Power Integrity or VLSI keywords.",
     "id": "834bd6b2",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer - EE & Battery Integration",
@@ -36641,28 +36630,12 @@
     "url": "https://in.linkedin.com/jobs/view/manufacturing-engineer-ee-battery-integration-at-the-eplane-company-4439163343",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is heavily focused on manufacturing electrical systems for aircraft, which doesn't closely match Vineeth's background in semiconductor VLSI EDA power integrity and advanced packaging.",
+    "reason": "The role is a manufacturing engineering position for aerospace battery integration and lacks the required semiconductor-specific keywords (PDN, Redhawk, Voltus, etc.) and Power Integrity domain expertise.",
     "id": "90a0a67a",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Mechanical Design Engineer",
-    "company": "HCLTech",
-    "location": "Bangalore Urban, Karnataka, India",
-    "url": "https://in.linkedin.com/jobs/view/mechanical-design-engineer-at-hcltech-4444269970",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a non-technical Mechanical Design Engineer role at an IT services company, outside Vineeth's domain.",
-    "id": "dd512c79",
-    "source": "linkedin_india_thermal_p2",
-    "posted_date": "2026-07-23",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager - Thermal Process Control",
@@ -36671,13 +36644,12 @@
     "url": "https://in.linkedin.com/jobs/view/manager-thermal-process-control-at-john-cockerill-4367152901",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in thermal process control for manufacturing, unrelated to semiconductor VLSI EDA.",
+    "reason": "The job is in the industrial machinery sector and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) for semiconductor engineering.",
     "id": "07717744",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead - Body Control Module/Thermal Management",
@@ -36686,13 +36658,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-body-control-module-thermal-management-at-tata-elxsi-4427481718",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in automotive software development/testing, not semiconductor/VLSI/EDA.",
+    "reason": "The job fails the keyword pre-filter as it lacks the required PI/VLSI terms and is primarily an automotive software development role, which is explicitly excluded.",
     "id": "40b36c93",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager- Chiller System Engg.",
