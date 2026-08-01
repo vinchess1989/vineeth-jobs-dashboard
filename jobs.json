@@ -26298,13 +26298,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-network-and-security-engineer-at-eclectic-recruitment-ltd-4443140770",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on designing secure network architectures and collaborating with infrastructure, security teams rather than semiconductor, VLSI, EDA domains. It also requires UK citizenship which Vineeth lacks.",
+    "reason": "The role focuses on network and security engineering, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "ce5c3ecf",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Engineer",
@@ -26312,14 +26311,13 @@
     "location": "Basingstoke, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-engineer-at-nomios-uk-i-4443349413",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Senior SOC Engineer at a cybersecurity company, which does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves SOC engineering with automation and security tooling, aligning somewhat with Vineeth's skills but lacks direct focus on PDN/EMIR/Redhawk/Voltus.",
     "id": "8c7ab4a7",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior IT Engineer (Information Security Focus)",
@@ -26328,13 +26326,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-it-engineer-information-security-focus-at-the-keyholding-company-4440224281",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an IT Engineer with a strong security focus, primarily Microsoft and Apple systems support, not semiconductor/VLSI/EDA.",
+    "reason": "The job focuses on IT and Information Security, which is outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "33d5daad",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Analyst",
@@ -26343,13 +26340,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-analyst-at-cloud-people-4429847849",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on cyber security operations, not semiconductor VLSI EDA engineering",
+    "reason": "The role is focused on SOC analysis and incident response, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "24746b31",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Engineer",
@@ -26358,13 +26354,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-engineer-at-franklin-fitch-4443505910",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in SOC engineering, which is focused on security operations and does not align with Vineeth's power integrity and packaging technical background.",
+    "reason": "The role focuses on SOC engineering and security operations, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
     "id": "499a1604",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Operations Center Analyst",
@@ -26373,13 +26368,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-operations-center-analyst-at-frontier-resourcing-4442598351",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is a Security Operations Center Analyst, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "d13983bc",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Engineer",
@@ -26388,13 +26382,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-engineer-at-nomios-group-4443374222",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Senior SOC Engineer position focused on SIEM, XDR and automation in security operations, which does not match Vineeth's key skills and background in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
+    "reason": "The role is focused on SOC engineering and automation, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "7de9a373",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead SOC Engineer",
@@ -26402,14 +26395,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/lead-soc-engineer-at-anson-mccade-4441593268",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's background with strong power integrity and SOC technical skills, and is a senior leadership level in London.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on SOC engineering and security solutions, which is outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "d7938408",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": "job_descriptions/anson_mccade_lead_soc_engineer_d7938408.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Lead",
@@ -26418,13 +26410,12 @@
     "url": "https://uk.linkedin.com/jobs/view/security-lead-at-taktile-4436905001",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Security Lead at a fintech company, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on security leadership and engineering, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "8b623ad7",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Drone Pilot",
@@ -26433,13 +26424,12 @@
     "url": "https://in.linkedin.com/jobs/view/drone-pilot-at-invictron-4443257159",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPV and Fixed-Wing Drone Pilot at a defense technology company, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity & Advanced Packaging.",
+    "reason": "The role is for a Drone Pilot, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "571c489b",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Detective operativo",
@@ -26448,28 +26438,12 @@
     "url": "https://es.linkedin.com/jobs/view/detective-operativo-at-gran-via-detectives-privados-4443258733",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a detective role investigating private cases, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "This role is for a private investigator, which falls outside Vineeth's domain of semiconductor and VLSI expertise.",
     "id": "e67cdefb",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Institutional Investment Operations Specialist -(P2)- Commodities - MO",
-    "company": "Wells Fargo",
-    "location": "Greater Hyderabad Area",
-    "url": "https://in.linkedin.com/jobs/view/institutional-investment-operations-specialist-p2-commodities-mo-at-wells-fargo-4440051701",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
-    "id": "e8fa38af",
-    "source": "linkedin_india_emir",
-    "posted_date": "2026-07-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PE Physical Design",
@@ -26477,14 +26451,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/pe-physical-design-at-rambus-4443255447",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on Physical Design, which doesn't directly match Vineeth's PI/SI and packaging expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience in physical design, specifically mentioning floorplanning, placement & routing, timing closure and low power design, alongside required EDA tool expertise.",
     "id": "38ff3729",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/rambus_pe_physical_design_38ff3729.txt"
   },
   {
     "title": "Staff System Power Engineer, Google Pixel Hardware",
@@ -26493,13 +26466,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-system-power-engineer-google-pixel-hardware-at-google-4443253811",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is primarily focused on system power engineering within a consumer electronics context, which deviates from Vineeth's expertise in SoC PDN sign-off and advanced packaging.",
     "id": "0c63eca2",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead R&D Engineer",
@@ -26508,13 +26480,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-r-d-engineer-at-nvent-4443252617",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on HVAC/refrigeration system design and development, which is outside Vineeth's expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, etc. for semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on refrigeration and air-conditioning systems, which falls outside Vineeth's target domains of Power Integrity, Advanced Packaging, or VLSI design.",
     "id": "e9f606a4",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Thermal System Engineer",
