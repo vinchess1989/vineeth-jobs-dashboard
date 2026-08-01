@@ -21076,13 +21076,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88703?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Principal Engineer position, which does not precisely match Vineeth's profile and experience.",
+    "reason": "The job focuses on AI validation and test, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "f2fb788f",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI and Automation Software Engineer",
@@ -21091,13 +21090,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88614?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an AI and Automation Software Engineer role, which is more focused on software engineering rather than semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is focused on AI and automation software engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "7481d4e1",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cluster Architecture Documentation & Standards Engineer",
@@ -21106,13 +21104,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88672?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is a technical writing role for product documentation, not in Vineeth's areas of Power Integrity, Advanced Packaging, or CAD.",
+    "reason": "The role is focused on documentation and standards, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "241e608b",
     "source": "amd_careers",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Program Manager - Cluster Build",
@@ -21121,13 +21118,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88665?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical program manager for large-scale compute cluster bring-up, which does not closely match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The role is a Technical Program Manager focused on cluster build, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "5d1b4b59",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. HRIS Analyst (SAP)",
@@ -21136,13 +21132,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/74638?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is clearly an HR position, not a technical engineering role in semiconductor/VLSI/EDA.",
+    "reason": "This role is for an HRIS Analyst focused on SAP SuccessFactors, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "20ec3749",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Datawarehouse Engineer",
@@ -21151,13 +21146,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88815?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software engineering focused, not semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on data warehousing and AI solutions, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "a56ce398",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102027 TSMC RDSS&AO\u3011Advanced Packaging Technology and Service Engineer (APTS)",
@@ -21165,14 +21159,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22584&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is specific to TSMC's advanced packaging technology and services, which is very narrow and doesn't match Vineeth's broad experience across PI/SI, methodology, and EDA.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on advanced packaging technology and service, aligning with the Advanced Packaging/Thermal domain, but lacks explicit mention of PDN sign-off or specific EDA tools like RedHawk/Voltus.",
     "id": "da5b953c",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -21181,13 +21174,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2027-TSMC-RDSS-AO-Advanced-Packaging-Technology-and-Service-Engineer-APTS%2F22584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Advanced Packaging Technology & Service Engineer, which fits one of Vineeth's key technical domains. However, it doesn't specify a location in the job description text provided to extract from.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and appears to be focused on advanced packaging technology services rather than power integrity or related domains.",
     "id": "05f6e704",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Integration EngineeringEssex, VT, USFlexible LocationPosted 3 months ago",
@@ -21196,13 +21188,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769098567",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a semiconductor fab process integration role, not related to VLSI/EDA tools or methodologies.",
+    "reason": "The job focuses on semiconductor manufacturing process integration and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or EDA tool specialization.",
     "id": "7ffbbc3f",
     "source": "globalfoundries_careers",
     "posted_date": "04/16/2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Equipment Engineer - Reactive Ion EtchEssex, VT, USFlexible LocationPosted 12 days ago",
@@ -21211,28 +21202,26 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768904223",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-VLSI/EDA equipment engineering position at a semiconductor fab, outside Vineeth's domain.",
+    "reason": "The role is for an Equipment Engineer focused on Reactive Ion Etch, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "ebb9006c",
     "source": "globalfoundries_careers",
-    "posted_date": "07/16/2026",
+    "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Process Integration EngineerEssex, VT, USFlexible LocationPosted 4 months ago",
-    "company": "Extract from page",
+    "company": "GlobalFoundries",
     "location": "Essex Junction, Vermont, United States of America",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768959140",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Advanced Packaging role with PhD required, close to Vineeth's experience level and domain. Needs further evaluation for exact match.",
+    "matches_requirements": "no",
+    "reason": "The job requires a PhD and focuses on advanced packaging process integration, which falls outside Vineeth's primary expertise in Power Integrity and related areas.",
     "id": "0a50802d",
     "source": "globalfoundries_careers",
     "posted_date": "2026-03-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MTS Etch Process EngineerEssex, VT, USPosted 8 days ago",
@@ -21241,13 +21230,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770305617",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an etch process engineer position at a semiconductor foundry, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The role is focused on etch process engineering, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "ce5b33bc",
     "source": "globalfoundries_careers",
-    "posted_date": "07/20/2026",
+    "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Apple Silicon Software Engineer GPU IP Validation \u2014 Full Interview Loop Experience (New Grad 2026)",
@@ -21256,13 +21244,12 @@
     "url": "https://old.reddit.com/r/ECE/comments/1v8c6l0/apple_silicon_software_engineer_gpu_ip_validation/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Primarily a software engineering validation role focused on GPU IP, which is outside Vineeth's domain of power integrity and advanced packaging. Also, it's a new graduate entry-level position not suitable for an experienced technical leader.",
+    "reason": "This role is for a software engineer validating GPU IP, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "504dc066",
     "source": "reddit_ece",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Product Engineer",
@@ -21271,13 +21258,12 @@
     "url": "https://www.linkedin.com/jobs/view/manufacturing-product-engineer-at-kelly-science-engineering-technology-telecom-4446109407",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical manufacturing engineering role, not semiconductor/VLSI/EDA related.",
+    "reason": "The job description URL returns a 404 error, indicating the page is unavailable and thus does not align with any of the target domains or requirements.",
     "id": "e96405fe",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Designer, Innovation Center of Excellence",
@@ -21286,13 +21272,12 @@
     "url": "https://fi.linkedin.com/jobs/view/ai-designer-innovation-center-of-excellence-at-cgi-4446122540",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in AI design, not semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on AI design and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related EDA tools.",
     "id": "f1bd45d0",
     "source": "linkedin_fi_eda_design_automation",
     "posted_date": "2026-07-28",
-    "deadline": "16t00:00:00z",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-16",
+    "description_file": null
   },
   {
     "title": "PHY V",
