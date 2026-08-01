@@ -9400,13 +9400,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-physical-verification-cad-engineer-at-marvell-technology-4439686589",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (automation, scripting) rather than semiconductor VLSI/EDA.",
+    "reason": "The role is focused on Physical Verification CAD, which falls under verification rather than Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "10a56cc5",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sustainability Analyst",
@@ -9415,13 +9414,12 @@
     "url": "https://www.linkedin.com/jobs/view/sustainability-analyst-at-macy-s-4445284011",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical analytics position focused on sustainability data and reporting, which does not match Vineeth's semiconductor/EDA/VLSI background in power integrity, advanced packaging, EDA tools, SoC design, or engineering leadership.",
+    "reason": "The job is for a Sustainability Analyst role focusing on data analysis and reporting, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "7c4e3bfe",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Consultant - Power BI Developer (318)",
@@ -9430,13 +9428,12 @@
     "url": "https://in.linkedin.com/jobs/view/consultant-power-bi-developer-318-at-beghou-4444482088",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Power BI Developer, which is a software development position focused on data visualization using Microsoft's Power BI tool. This is outside Vineeth Prathapachandra Kaimal's domain of expertise in semiconductor VLSI EDA and power integrity.",
+    "reason": "The job description focuses on Power BI development and data analytics, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "60e950e8",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Program The Hague",
@@ -9445,13 +9442,12 @@
     "url": "https://nl.linkedin.com/jobs/view/general-program-the-hague-at-protocoltoday-sme-today-entrepreneurs-international-business-4445634577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for business protocol and etiquette training, which does not match Vineeth's technical background in Power Integrity, packaging, CAD tools, and SoC physical design.",
+    "reason": "The job focuses on etiquette and diplomacy training, which is outside Vineeth's areas of expertise in power integrity, advanced packaging, or related VLSI domains.",
     "id": "16032c2f",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Waiter A-Domes Novos Santorini",
@@ -9459,59 +9455,55 @@
     "location": "Th\u00edra, Southern Aegean, Greece",
     "url": "https://gr.linkedin.com/jobs/view/waiter-a-domes-novos-santorini-at-domes-resorts-4443332476",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a waiter at a luxury resort hotel, not a semiconductor/VLSI/EDA technical position.",
+    "matches_requirements": "error",
+    "reason": "Could not extract text from page (anti-bot protection or empty page).",
     "id": "0a25ed59",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "2026-06-27",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid)",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Cisco",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=72d19195c84e3b01",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (simulation, UVM, testbench development), which is outside Vineeth's domain.",
+    "reason": "The role is located in San Jose, California, which is a hard rejection based on location requirements.",
     "id": "564b7b45",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid) salaries in San Jose, CA",
     "company": "Additional Verification Required",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/career/simulation-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=72d19195c84e3b01&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on simulation engineering, which does not directly match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job title does not contain required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily focused on simulation engineering, which falls outside Vineeth's expertise.",
     "id": "06508409",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal & Power Integrity Hardware ASIC Simulation Engineer Lead (Remote) salaries in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/career/simulation-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=d56ea1703e91f511&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job is located in San Jose, CA, USA and explicitly requires US residency, violating the location rejection criteria.",
     "id": "02c238ff",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR R&D/PRODUCT DVL ENGINEER- POWER INTEGRITY",
@@ -9520,43 +9512,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=23fd72c53af425fa",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on product development and validation of power distribution products, not directly on Power Integrity (PI) / Signal Integrity (SI). It also mentions hands-on testing which is not in Vineeth's domain.",
+    "reason": "The job is located in Middletown, USA and requires US residency, violating the location rejection criteria.",
     "id": "9e23e8a8",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR R&D/PRODUCT DVL ENGINEER- POWER INTEGRITY salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Middletown, NJ, USA",
     "url": "https://www.indeed.com/career/salaries/Senior%20R&D%20Engineer/Middletown,%20NJ?campaignid=serp-more&fromjk=23fd72c53af425fa&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on R&D engineering for power integrity, but does not have a leadership component.",
+    "reason": "The job description does not contain relevant keywords (PDN, Redhawk, Voltus) indicating a focus on power integrity.",
     "id": "03be0b15",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Sr. Signal Integrity and Power Integrity Engineer, Amazon Leo",
-    "company": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "location": "USA, WA, Redmond",
-    "url": "https://www.indeed.com/rc/clk?jk=81da69afa83919c7",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an Amazon internal role, not a semiconductor/EDA/VLSI industry position.",
-    "id": "fec7f4c2",
-    "source": "indeed_ww_power_integrity_p2",
-    "posted_date": "2026-07-27",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Signal Integrity and Power Integrity Engineer, Amazon Leo salaries in Redmond, WA",
@@ -9565,43 +9540,26 @@
     "url": "https://www.indeed.com/career/senior-signalling-engineer/salaries/Redmond--WA?campaignid=serp-more&fromjk=81da69afa83919c7&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Redmond, WA which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India or Asia.",
+    "reason": "The job is located in Redmond, WA, USA and explicitly requires US residency, which violates our location rejection criteria.",
     "id": "1aa61c21",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Power Integrity Engineer-Silicon salaries in San Jose, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://www.indeed.com/career/integrity-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=05cf80b7246eba41&from=serp-more",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which is outside Vineeth's domain.",
-    "id": "17aa3487",
-    "source": "indeed_ww_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal and Power Integrity Engineer",
     "company": "Palo Alto",
-    "location": "Extract from page",
+    "location": "Palo Alto, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=e4805ad89e919a3d",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is software engineering focused (requires Python/Matlab scripting for automation, but no specific EDA/CAD skills). It's in Palo Alto which is a hard rejection based on location.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's Power Integrity and Advanced Packaging expertise, requiring SI/PI modeling and simulation skills using industry-standard tools.",
     "id": "57c018bf",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/palo_alto_signal_and_power_integrity_eng_57c018bf.txt"
   },
   {
     "title": "Signal and Power Integrity Engineer salaries in Palo Alto, CA",
@@ -9610,13 +9568,12 @@
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Palo-Alto--CA?campaignid=serp-more&fromjk=e4805ad89e919a3d&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The job is located in Palo Alto, CA, USA which is a hard rejection due to explicit US residency requirement and lack of visa sponsorship.",
     "id": "26cb98be",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Power Integrity Engineer - Apple Mac",
@@ -9625,13 +9582,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=a078d3c8a3250f1e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification which is outside Vineeth's domain.",
+    "reason": "The job requires 4-7 years of experience, which is below Vineeth's 15 years and doesn't align with his leadership profile.",
     "id": "7d65beb2",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Power Integrity Engineer - Apple Mac salaries in Austin, TX",
@@ -9640,13 +9596,12 @@
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=a078d3c8a3250f1e&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification which is outside Vineeth's domain.",
+    "reason": "The job is located in Austin, TX, which falls under a hard rejection for US-based roles requiring US residency and without visa sponsorship.",
     "id": "484f4ac1",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Power Integrity Engineer, Platforms Infrastructure",
@@ -9655,28 +9610,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=16dfdf45be0f91c6",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on firmware/embedded systems rather than power integrity engineering.",
+    "reason": "The role requires physical interaction with hardware and is focused on a specific technical program management aspect rather than core power integrity design, which falls outside Vineeth's domain.",
     "id": "4ccc6321",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Power Integrity Engineer, Platforms Infrastructure salaries in Sunnyvale, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Sunnyvale--CA?campaignid=serp-more&fromjk=16dfdf45be0f91c6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification, which falls outside Vineeth's domain.",
+    "reason": "The job is located in Sunnyvale, CA, USA and explicitly requires US residency, which violates our hard rejection rule for US-based roles without visa sponsorship.",
     "id": "52058697",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ORTOPEDA",
@@ -9685,13 +9638,12 @@
     "url": "https://in.linkedin.com/jobs/view/ortopeda-at-mdt-net-4445652584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a medical doctor role for a hospital/clinic, outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for an 'ORTOPEDA' (orthopedic technician) role which falls outside Vineeth's domain of power integrity, advanced packaging, and VLSI/SoC design.",
     "id": "28cf0e74",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NUNAVUT",
