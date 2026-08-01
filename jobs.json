@@ -34516,13 +34516,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-ce-cad-at-micron-technology-4432645103",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Python, AI/ML programming) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on AI-assisted workflows and does not strongly align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas despite mentioning some relevant skills.",
     "id": "3d9d112e",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design and Verification Engineer - AI",
@@ -34531,13 +34530,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-and-verification-engineer-ai-at-analog-devices-4443606997",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The role focuses on ASIC design and verification with a strong AI component, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "e6267dd2",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design and Verification Engineer - AI",
@@ -34546,13 +34544,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-and-verification-engineer-ai-at-analog-devices-4443615803",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role focuses on ASIC design and verification with AI integration, which is outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "41861514",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D in AI Accelerator Optimization",
@@ -34561,13 +34558,12 @@
     "url": "https://uk.linkedin.com/jobs/view/r-d-in-ai-accelerator-optimization-at-krai-4446374679",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI accelerator programming and optimization, which does not closely match Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, etc in semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on AI accelerator optimization and doesn't align with Vineeth\u2019s Power Integrity, Advanced Packaging, or related VLSI expertise.",
     "id": "474b7136",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Signal & Power Integrity Engineer",
@@ -34576,13 +34572,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-signal-power-integrity-engineer-at-maxlinear-4446558140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job is located in Irvine, CA which falls outside of Vineeth's preferred regions and requires US residency.",
     "id": "9f551e82",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Signal & Power Integrity Engineer",
@@ -34590,14 +34585,13 @@
     "location": "Carlsbad, CA",
     "url": "https://www.linkedin.com/jobs/view/principal-signal-power-integrity-engineer-at-maxlinear-4446539709",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's technical background in Power Integrity and advanced packaging with the responsibilities of developing SI/PI solutions for MaxLinear's products.",
+    "matches_requirements": "no",
+    "reason": "The job is located in Carlsbad, CA, which does not match Vineeth's preferred location criteria.",
     "id": "b069b151",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": "job_descriptions/maxlinear_principal_signal___power_integ_b069b151.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR R&D/PRODUCT DVL ENGINEER",
@@ -34606,13 +34600,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-r-d-product-dvl-engineer-at-te-connectivity-4446539878",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (developing, implementing, and verifying power solutions), which is outside Vineeth's domain.",
+    "reason": "While mentioning Power Integrity, the role focuses on product development and validation within a specific power solution portfolio rather than core PDN sign-off activities.",
     "id": "288e3fa1",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer \u2013 Semiconductor Heterogeneous Integration",
@@ -34621,13 +34614,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-engineer-%E2%80%93-semiconductor-heterogeneous-integration-at-keysight-technologies-4443647523",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Engineer role in semiconductor manufacturing and packaging - it doesn't match Vineeth's background in Power Integrity, CAD, and EDA tools.",
+    "reason": "The role focuses on process engineering for heterogeneous integration, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "3e46dbb8",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ENGINEERING & PRODUCTION",
@@ -34636,13 +34628,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineering-production-at-amal-semiconductor-4446545575",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is an entry-level Engineering & Production position, which falls outside Vineeth's experience level and leadership focus.",
     "id": "d8ebea0b",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GRADUATE & ENTRY LEVEL",
@@ -34651,13 +34642,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-entry-level-at-amal-semiconductor-4446551348",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level graduate scheme role, not a technical leadership position in semiconductor design and EDA tools.",
+    "reason": "This is a graduate/entry-level role, which does not align with Vineeth's 15 years of experience and leadership focus.",
     "id": "d768b335",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "YVES ROCHER",
@@ -34666,13 +34656,12 @@
     "url": "https://in.linkedin.com/jobs/view/yves-rocher-at-tarsu-al%C4%B1%C5%9Fveri%C5%9F-merkezi-4446009285",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is retail sales and not related to semiconductor/VLSI/EDA engineering.",
+    "reason": "The job is for a retail position at Yves Rocher and does not align with Vineeth's expertise in semiconductor power integrity, advanced packaging, or EDA tool methodologies.",
     "id": "35d4b57a",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stage - Ing\u00e9nieur Qualit\u00e9 Produit (H/F)",
@@ -34681,13 +34670,12 @@
     "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-qualit%C3%A9-produit-h-f-at-withings-4444926801",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a student internship focused on quality product engineering rather than power integrity/advanced packaging.",
+    "reason": "This is a stage (internship) role focused on product quality and hardware investigation, which does not align with Vineeth's experience in power integrity, advanced packaging, or VLSI design.",
     "id": "b7da4285",
     "source": "linkedin_eu_pi",
-    "posted_date": "il y a 4 jours",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Spray Process Engineer",
@@ -34696,13 +34684,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-spray-process-engineer-at-dsj-global-4446371797",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily manufacturing process engineering for thermal spray, rather than semiconductor VLSI EDA or power integrity/advanced packaging.",
+    "reason": "This role focuses on thermal spray process engineering, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "fdfc9871",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Manufacturing Engineer",
@@ -34711,13 +34698,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-manufacturing-engineer-at-change-order-4443647087",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on manufacturing engineering for thermal components like cold plates, which does not match Vineeth's background in semiconductor design and EDA tools.",
+    "reason": "The role is focused on thermal manufacturing and cold plate fabrication, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "87c4abfe",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Strategy & Market Consultant ( Relocation required to Saudi Arabia )",
@@ -34726,13 +34712,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-strategy-market-consultant-relocation-required-to-saudi-arabia-at-aramco-4446023577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a market strategy and consulting role at an oil/gas company, not related to semiconductor/VLSI/EDA technical roles like Power Integrity or EDA tool development.",
+    "reason": "The role is a strategy consulting position with no focus on power integrity, advanced packaging, or related VLSI domains.",
     "id": "a4bb0a64",
     "source": "linkedin_india_thermal",
-    "posted_date": "il y a 1 heure",
+    "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Manager - Operation & Maintenance",
