@@ -13166,13 +13166,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-leader-at-amd-4441814358",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role involves physical design leadership at AMD, a semiconductor company.",
+    "reason": "The role is a Physical Design Leader, aligns with Vineeth's experience in CAD methodology and leadership, and the job description mentions relevant tools and techniques like timing closure and formal equivalence check.",
     "id": "e4a834c2",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_physical_design_leader_e4a834c2.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_physical_design_leader_e4a834c2.txt"
   },
   {
     "title": "Physical Design Lead",
@@ -13181,13 +13180,12 @@
     "url": "https://in.linkedin.com/jobs/view/physical-design-lead-at-amd-4441534429",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role requires 15+ years of physical design experience and leadership skills, making it a good match for Vineeth's background.",
+    "reason": "The role is a Physical Design Lead requiring 15+ years of experience in physical design, aligning with Vineeth's expertise and senior leadership profile, located in India.",
     "id": "ea51c085",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_physical_design_lead_ea51c085.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_physical_design_lead_ea51c085.txt"
   },
   {
     "title": "Hardware Design Engineer",
@@ -13196,13 +13194,12 @@
     "url": "https://in.linkedin.com/jobs/view/hardware-design-engineer-at-lenovo-4440222686",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This hardware design role is focused on server and board-level PCB design, which falls outside Vineeth's areas of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on hardware design and doesn't align with Vineeth's expertise in power integrity, advanced packaging, or related areas.",
     "id": "ac0ec2b2",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "About Anduril Industries",
@@ -13211,13 +13208,12 @@
     "url": "https://be.linkedin.com/jobs/view/about-anduril-industries-at-jobsremotelist-online-remote-hybrid-4444876877",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical security training and education management role, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The role is focused on security training and crisis management, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "bf9cfbf2",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Creative Officer",
@@ -13226,13 +13222,12 @@
     "url": "https://ie.linkedin.com/jobs/view/chief-creative-officer-at-staycity-group-4444642105",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on creative direction of aparthotel brands and guest experience, which does not align with Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "This role is for a Chief Creative Officer within the hospitality industry, which falls outside Vineeth's expertise in semiconductor and VLSI domains.",
     "id": "0f27d7c7",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "C++ Software Engineer",
@@ -13241,13 +13236,12 @@
     "url": "https://gr.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-intracom-telecom-4439042996",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (C++, Qt) and does not match Vineeth's background in semiconductor VLSI/EDA technical domains of Power Integrity, Advanced Packaging, CAD Methodology.",
+    "reason": "The role is a C++ Software Engineer, focusing on application development and not aligning with Vineeth's expertise in Power Integrity, Advanced Packaging, or related domains.",
     "id": "0564fb1a",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-06-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Science and Technology Technical Lead(P4)",
@@ -13256,13 +13250,12 @@
     "url": "https://at.linkedin.com/jobs/view/science-and-technology-technical-lead-p4-at-international-atomic-energy-agency-iaea-4438733623",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in nuclear safety and security, not semiconductor VLSI EDA.",
+    "reason": "The role focuses on nuclear safety and security, which is outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "918056a3",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-20",
     "deadline": "2026-08-10",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wireless Systems Engineer",
@@ -13271,13 +13264,12 @@
     "url": "https://gr.linkedin.com/jobs/view/wireless-systems-engineer-at-intracom-defense-4441934888",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Wireless Systems Engineer focused on defense communication systems, which does not match Vineeth's background in semiconductor VLSI EDA.",
+    "reason": "The role focuses on wireless systems engineering and lacks explicit mentions of PDN, RedHawk, Voltus, or other power integrity related keywords, violating a core rejection criterion.",
     "id": "f76b520b",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-20",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Physical Security Design Engineer",
@@ -13286,13 +13278,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-physical-security-design-engineer-at-ethos-engineering-4444879868",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on physical security design for data centers and critical infrastructure, which is outside Vineeth's domain of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology, and Physical Design.",
+    "reason": "The role is focused on physical security design, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "e22e2298",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Design Engineer",
@@ -13300,14 +13291,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/principal-design-engineer-at-marvell-technology-4441509201",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches Vineeth's background in Power Integrity and experience level, and is a semiconductor leadership role in India.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with Vineeth's experience as a Principal Design Engineer focusing on SoC and memory interfaces, but lacks explicit mention of Power Integrity tools or methodologies.",
     "id": "276a3f90",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": "job_descriptions/marvell_technology_principal_design_engineer_276a3f90.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Systems Engineer",
@@ -13316,13 +13306,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=8d98717b9ded3925",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job title and description lack essential keywords like PDN, Redhawk, or Voltus, indicating it's not a relevant Power Integrity role.",
     "id": "868769f3",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Systems Engineer salaries in Carlsbad, CA",
@@ -13331,13 +13320,12 @@
     "url": "https://www.indeed.com/career/system-engineer/salaries/92008--CA?campaignid=serp-more&fromjk=8d98717b9ded3925&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (embedded systems) which does not match Vineeth's VLSI/EDA background.",
+    "reason": "The job is located in Carlsbad, CA, USA and explicitly requires US residency based on its location, which violates the hard rejection rule regarding US-based roles without visa sponsorship.",
     "id": "bee680c4",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Electronics Engineer \u2013 Hardware/Software Integration",
@@ -13346,13 +13334,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=6a7b2fc19679360f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a hardware/software integration engineering position at Northrop Grumman, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The role requires a US Government Top Secret clearance and explicitly states U.S. Citizenship is required, which falls under hard rejection criteria.",
     "id": "575523f0",
     "source": "indeed_ww_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Electronics Engineer \u2013 Hardware/Software Integration salaries in Georgia",
@@ -13361,28 +13348,26 @@
     "url": "https://www.indeed.com/career/senior-hardware-engineer/salaries/GA?campaignid=serp-more&fromjk=6a7b2fc19679360f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a hardware/software integration role, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job description lacks the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on hardware/software integration which falls outside Vineeth's primary expertise.",
     "id": "e1afc595",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer",
     "company": "Extract",
-    "location": "Extract from page",
+    "location": "Annapolis Junction, MD, USA",
     "url": "https://www.indeed.com/rc/clk?jk=6015e874a7bee8c2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is a Security Engineer focused on cybersecurity and requires a Secret clearance, which falls outside Vineeth's domain of power integrity, advanced packaging, and related VLSI/EDA expertise.",
     "id": "04cd423c",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2026-07-22",
     "deadline": "2026-10-19",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer salaries in Annapolis Junction, MD",
