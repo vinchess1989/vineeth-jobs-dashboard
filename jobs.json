@@ -37707,14 +37707,13 @@
     "location": "Santa Clara, CA, USA",
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=89d6f01b37371d4e&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior-level Signal Integrity/Power Integrity role at a semiconductor company in Santa Clara matches Vineeth's background and experience, with a strong overlap in key skills like ANSYS RedHawk, Cadence Voltus, and Python scripting.",
+    "matches_requirements": "no",
+    "reason": "This is a salary search results page on Indeed, not an active job posting for a specific role.",
     "id": "b665042a",
     "source": "indeed_ww_power_integrity_p3",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/n_a__not_explicitly__signal_integrity_power_integri_b665042a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Power System Engineer with Power Integrity Focus",
@@ -37722,59 +37721,41 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=1ca603c4b749bc1e",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is unrelated to semiconductor, VLSI, EDA, power integrity, or packaging engineering.",
+    "matches_requirements": "maybe",
+    "reason": "Strong technical and experience match for a Power Integrity role at a semiconductor startup, but the location and visa sponsorship are not explicitly stated.",
     "id": "0e096db8",
     "source": "indeed_ww_power_integrity_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Signal-Integrity and Power-Integrity",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "SK hynix America",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=00a66e416ce88f97",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: Expecting value: line 5 column 15 (char 198)",
+    "matches_requirements": "yes",
+    "reason": "The role is a high-level leadership position in SIPI and advanced packaging, which perfectly aligns with the candidate's 15 years of experience and technical background in Power Integrity and Advanced Packaging.",
     "id": "59031afc",
     "source": "indeed_ww_power_integrity_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Digital Signal/Power Integrity Analysis Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://www.indeed.com/rc/clk?jk=9f00fd24cae497ea",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification, which is outside Vineeth's domain.",
-    "id": "08924ee4",
-    "source": "indeed_india_power_integrity_p2",
-    "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/sk_hynix_america_principal_engineer__signal_int_59031afc.txt"
   },
   {
     "title": "Digital Signal/Power Integrity Analysis Engineer salaries in Centennial, CO",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Centennial, CO, USA",
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Centennial--CO?campaignid=serp-more&fromjk=9f00fd24cae497ea&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The provided content is a salary information page rather than a specific job posting.",
     "id": "03253925",
     "source": "indeed_india_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TD EOL Process engineer",
@@ -37783,13 +37764,12 @@
     "url": "https://in.linkedin.com/jobs/view/td-eol-process-engineer-at-tata-electronics-4402862854",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on semiconductor packaging process development and engineering, which falls outside Vineeth's domain of Power Integrity, CAD/Methodology, and SoC physical design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required by the pre-filter.",
     "id": "a95bf4fc",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TD EOL Process Engineer",
@@ -37798,13 +37778,12 @@
     "url": "https://in.linkedin.com/jobs/view/td-eol-process-engineer-at-tata-electronics-4426426679",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on semiconductor manufacturing process engineering, not the target Power Integrity / Advanced Packaging / EDA areas.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "83eee849",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "TD EOL Process Engineer",
@@ -37813,13 +37792,12 @@
     "url": "https://in.linkedin.com/jobs/view/td-eol-process-engineer-at-tata-electronics-4426434625",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a TD EOL Process Engineer focused on semiconductor package engineering and new product development, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, and Thermal Analysis within the VLSI/EDA domain.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "f8d08e1d",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Technical Engineer - Hardware",
@@ -37827,14 +37805,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-packaging-technical-engineer-hardware-at-nvidia-4437328169",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is a mid-level hardware engineering position focusing on chip packaging and substrate design, which does not match Vineeth's senior technical leadership experience in power integrity and advanced packaging. While related, it does not align with his key skills or target job criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "66d671e2",
     "source": "linkedin_india_advanced_packaging_p3",
-    "posted_date": "2026-07-15",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "PDE CEM Engineer",
@@ -37843,13 +37820,12 @@
     "url": "https://in.linkedin.com/jobs/view/pde-cem-engineer-at-micron-technology-4446076270",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on semiconductor manufacturing process development and AI-driven optimization, which is outside Vineeth's domain of expertise in power integrity, advanced packaging, and EDA tools.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "c5e62e08",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Flip Chip Engineers",
@@ -37858,13 +37834,12 @@
     "url": "https://in.linkedin.com/jobs/view/flip-chip-engineers-at-tata-electronics-4441580762",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a semiconductor manufacturing engineering position, which is outside Vineeth's domain of expertise in Power Integrity, CAD tools, and physical design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) to pass the mandatory pre-filter.",
     "id": "8524bd94",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PDE CEM Engineer",
@@ -37873,13 +37848,12 @@
     "url": "https://in.linkedin.com/jobs/view/pde-cem-engineer-at-micron-technology-4444324985",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Process Development Engineer role in semiconductor packaging assembly at Micron India, which does not directly match Vineeth's core areas of Power Integrity, CAD, and advanced packaging leadership.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required for the pre-filter.",
     "id": "669e5cd1",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Package Device Product Engineer (PDPE) Engineer",
@@ -37888,13 +37862,12 @@
     "url": "https://in.linkedin.com/jobs/view/package-device-product-engineer-pdpe-engineer-at-micron-technology-4426949703",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on package device product engineering for DRAM, NAND, and managed NAND products at Micron Technology. It involves coordinating test readiness and analysis across the product lifecycle.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is listed as an entry-level position.",
     "id": "7deef0bb",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Development (PID) Engineer \u2013 Advanced interconnect (MEOL/BEOL) Integration",
@@ -37903,13 +37876,12 @@
     "url": "https://in.linkedin.com/jobs/view/process-integration-development-pid-engineer-%E2%80%93-advanced-interconnect-meol-beol-integration-at-tata-electronics-4439691047",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on process integration for semiconductor manufacturing, which does not directly align with Vineeth's background in power integrity, advanced packaging, and SoC PDN sign-off. While there may be some overlap in technical skills like interconnect integration, the focus of this role is more on the process side rather than the CAD/EDA/methodology expertise Vineeth has.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a Process Integration role rather than a Power Integrity or VLSI design role.",
     "id": "5079bc52",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer,  Unit Process Modeling",
@@ -37918,13 +37890,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-unit-process-modeling-at-micron-technology-4446062577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a process modeling role for memory manufacturing, which is outside Vineeth's domain of Power Integrity and packaging. It doesn't match his key skills in EDA tools like ANSYS RedHawk or his focus on SoC physical design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on unit process modeling and materials science rather than power integrity or the specified EDA tools.",
     "id": "35381c9c",
     "source": "linkedin_india_advanced_packaging_p3",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Integration Development (PID) Engineer \u2013 HKMG/RMG Integration",
