@@ -6067,14 +6067,13 @@
     "location": "Vantaa, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-mechanical-engineer-at-hefmec-engineering-oy-4431921467",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Mechanical design but also involves some technical leadership and project management components",
+    "matches_requirements": "no",
+    "reason": "The role is a mechanical engineering position with no mention of power integrity, advanced packaging, EDA tools, or related keywords, failing the keyword pre-filter requirement.",
     "id": "03d787a3",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-31",
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -6083,13 +6082,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432224260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical designer at a consulting firm, outside Vineeth's semiconductor/EDA background.",
+    "reason": "The job description focuses on mechanical design and does not involve power integrity, advanced packaging, or related EDA tools.",
     "id": "5a362cee",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
     "deadline": "2026-08-15",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Testi-Insin\u00f6\u00f6ri",
@@ -6098,28 +6096,12 @@
     "url": "https://fi.linkedin.com/jobs/view/testi-insin%C3%B6%C3%B6ri-at-metso-4434136246",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Test Engineer position, which is not in Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job is for a Test Engineer role focused on mechanical and hydraulic equipment testing, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related EDA tools.",
     "id": "f03edda7",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-12",
-    "deadline": "viimeist\u00e4\u00e4n 9.8.2026 menness\u00e4",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Mechanical Design Engineer",
-    "company": "Clevry",
-    "location": "Espoo, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/mechanical-design-engineer-at-clevry-4437736777",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for a Mechanical Design Engineer, outside Vineeth's VLSI/EDA domain.",
-    "id": "08ca2719",
-    "source": "linkedin_fi_rtl_design_engineer",
-    "posted_date": "2026-07-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-09",
+    "description_file": null
   },
   {
     "title": "Project Engineer, Grinding",
@@ -6128,13 +6110,12 @@
     "url": "https://fi.linkedin.com/jobs/view/project-engineer-grinding-at-metso-4435060385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (General Business and Strategy/Planning) and does not fit Vineeth's engineering background in Power Integrity, CAD, VLSI.",
+    "reason": "The job description focuses on project engineering tasks within a minerals processing context and does not involve power integrity, advanced packaging, or related EDA tools.",
     "id": "d60473bd",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-12",
     "deadline": "2026-07-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Kalliomekaniikan insin\u00f6\u00f6ri",
@@ -6143,13 +6124,12 @@
     "url": "https://fi.linkedin.com/jobs/view/kalliomekaniikan-insin%C3%B6%C3%B6ri-at-agnico-eagle-finland-4444914670",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a rock mechanics engineer at an active mining site, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job description focuses on rock mechanics and geological engineering, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "91da4158",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "2026-08-30",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Engineer (fixed-term)",
@@ -6158,13 +6138,12 @@
     "url": "https://fi.linkedin.com/jobs/view/research-engineer-fixed-term-at-stora-enso-4437089082",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a research engineer position at Stora Enso, which focuses on wood and pulp technology. This is outside Vineeth's domain in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on wood science and engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "06516947",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-09",
+    "description_file": null
   },
   {
     "title": "Lujuuslaskija",
@@ -6173,13 +6152,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lujuuslaskija-at-comatec-group-4444846813",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Lujuuslaskija (Structural Analyst) position at an engineering services company, which falls outside Vineeth's primary technical domains of Power Integrity/Advanced Packaging and does not match the target job criteria.",
+    "reason": "The job focuses on structural calculations and does not align with Vineeth's expertise in power integrity, advanced packaging, or related EDA tool usage.",
     "id": "324cf002",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-26",
     "deadline": "2026-08-16",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Assembly Design Kit (ADK) Development Engineer (2.5D/3D Advanced Packaging)",
@@ -6187,14 +6165,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-assembly-design-kit-adk-development-engineer-2-5d-3d-advanced-packaging-at-rapidus-corporation-us-4444751990",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on advanced packaging, which aligns with Vineeth's background in Power Integrity and Advanced Packaging. However, it is a senior level position (Senior ADK Development Engineer) which would not be an ideal fit for a candidate with 15+ years of experience.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves ADK development for advanced packaging which aligns with Vineeth's background, but it is less directly focused on PDN sign-off than his core expertise and the leadership component warrants a 'maybe'.",
     "id": "c0454209",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -6203,13 +6180,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-engineer-at-eagle-wireless-4444978831",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This hardware engineer role focuses on cellular module design, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job is for an early-career Hardware Engineer with a focus on design and testing, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging leadership.",
     "id": "e100ca67",
     "source": "linkedin_ww_eda_design_automation_p2",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Tools Hardware Engineer",
@@ -6218,13 +6194,12 @@
     "url": "https://www.linkedin.com/jobs/view/eda-tools-hardware-engineer-at-intel-4427203809",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on hardware design automation for semiconductor manufacturing, which falls outside Vineeth's core domains of power integrity, advanced packaging, and CAD/EDA tooling.",
+    "reason": "The job is located in Santa Clara, CA, USA and does not align with Vineeth's preferred locations (Finland, Europe, UK, India, Asia, or remote with worldwide eligibility) unless visa sponsorship is provided.",
     "id": "25e016b6",
     "source": "linkedin_ww_eda_design_automation_p2",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Python Data Analyst",
@@ -6233,13 +6208,12 @@
     "url": "https://in.linkedin.com/jobs/view/python-data-analyst-at-capco-4444306181",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily data analysis with Python, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "The role is a Python Data Analyst position, which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "85f6d71f",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer 3, Software",
@@ -6248,13 +6222,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-engineer-3-software-at-keysight-technologies-4441579563",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job description focuses on software development (C/C++), which is outside Vineeth's area of expertise.",
     "id": "44a517d5",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\ud835\uddd4\ud835\udde6\ud835\udddc\ud835\uddd6 \ud835\udde3\ud835\uddf5\ud835\ude06\ud835\ude00\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\uddf9 \ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb / \ud835\udde6\ud835\udde7\ud835\uddd4 Intern",
@@ -6263,13 +6236,12 @@
     "url": "https://in.linkedin.com/jobs/view/%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%96-%F0%9D%97%A3%F0%9D%97%B5%F0%9D%98%86%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%97%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%BB-%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94-intern-at-designnex-4407149172",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship role for ASIC Physical Design, which does not match Vineeth's senior leadership experience in Power Integrity and Advanced Packaging.",
+    "reason": "This is an internship for students, targeting entry-level candidates with minimal experience and focused on ASIC physical design fundamentals rather than Vineeth's area of expertise.",
     "id": "5b73f3a2",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-04-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ECAD Software Engineer (PCB/EDM)",
@@ -6278,13 +6250,12 @@
     "url": "https://it.linkedin.com/jobs/view/ecad-software-engineer-pcb-edm-at-siemens-digital-industries-software-4444383339",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on ECAD, PCB design and consulting, which is outside Vineeth's primary domains of power integrity, packaging, and EDA tool integration.",
+    "reason": "The role is focused on ECAD software engineering and PCB/EDM design, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
     "id": "b7df9ff0",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ECAD Software Engineer (PCB/EDM)",
