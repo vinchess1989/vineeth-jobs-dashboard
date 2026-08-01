@@ -24002,13 +24002,12 @@
     "url": "https://uk.linkedin.com/jobs/view/co-founder-cto-at-alfa-ai-4445163660",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for non-technical Co-founder/CTO role at a software AI startup, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Co-Founder / CTO, which falls under leadership but requires significant fundraising and AI expertise beyond Vineeth's power integrity background.",
     "id": "80a0229c",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding VP of Engineering (CTO Track) (\u00a368,000 GBP + Equity) at iinvest",
@@ -24016,29 +24015,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/founding-vp-of-engineering-cto-track-%C2%A368-000-gbp-%2B-equity-at-iinvest-at-jack-jill-4445426298",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a VP of Engineering (CTO) position which does not match Vineeth's technical background and experience.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a Founding VP of Engineering with potential CTO track, aligning with leadership experience and offering a pathway to higher responsibility within an AI-focused startup, although it lacks explicit PI/EDA tool mentions.",
     "id": "17a8effb",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Kokenut konsultti, CIO-liiketoiminta - Greensteep Espoo/Vantaa",
-    "company": "Ekonomibyr\u00e5n Melin & Worge AB",
-    "location": "Vantaa, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/kokenut-konsultti-cio-liiketoiminta-greensteep-espoo-vantaa-at-ekonomibyr%C3%A5n-melin-worge-ab-4445139375",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is in IT consulting and CIO management, which falls outside Vineeth's domain of semiconductor, VLSI, EDA.",
-    "id": "1d4f5720",
-    "source": "linkedin_fi_semiconductor_cto",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Hardware Officer (+ Equity) at Stealth physical AI startup",
@@ -24047,13 +24030,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-hardware-officer-%2B-equity-at-stealth-physical-ai-startup-at-jack-jill-4445428261",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a C-level executive position with no specific technical domain requirements mentioned, making it unsuitable based on Vineeth's background.",
+    "reason": "The role is a Chief Hardware Officer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "5d7285b6",
     "source": "linkedin_ww_semiconductor_technical_leader",
-    "posted_date": "vor 4 stunden",
+    "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Operation Manager Director - Automotive Driver Energy System",
@@ -24061,14 +24043,13 @@
     "location": "Toulouse, Occitanie, France",
     "url": "https://fr.linkedin.com/jobs/view/operation-manager-director-automotive-driver-energy-system-at-nxp-semiconductors-4445661369",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a senior operations management position, not directly related to semiconductor VLSI/EDA engineering.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with engineering leadership and has experience requirements within the target range, but the description focuses on operations management rather than direct power integrity or advanced packaging responsibilities.",
     "id": "2bfa3567",
     "source": "linkedin_eu_semiconductor_technical_leader",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Marketing Head (d/m/f)",
@@ -24077,13 +24058,12 @@
     "url": "https://at.linkedin.com/jobs/view/product-marketing-head-d-m-f-at-ams-osram-4445945682",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product marketing director position, which is outside Vineeth's domain of technical leadership roles in power integrity, packaging, and CAD.",
+    "reason": "The role is focused on product marketing and leadership, which falls outside Vineeth's domain of technical engineering and VLSI/EDA.",
     "id": "00af9d7b",
     "source": "linkedin_eu_semiconductor_technical_leader",
-    "posted_date": "vor 16 stunden",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal STA Engineer",
@@ -24091,14 +24071,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/senior-principal-sta-engineer-at-mulya-technologies-4445635226",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role requires RTL/DFT experience, which is outside Vineeth's domain.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Technical Leader in Power Integrity and Advanced Packaging, focusing on STA within an engineering leadership capacity at a company specializing in connectivity silicon.",
     "id": "3238589c",
     "source": "linkedin_india_semiconductor_principal_engineer",
-    "posted_date": "vor 14 stunden",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-08-01",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/mulya_technologies_senior_principal_sta_engineer_3238589c.txt"
   },
   {
     "title": "Architectural Design Project Manager",
@@ -24107,13 +24086,12 @@
     "url": "https://www.linkedin.com/jobs/view/architectural-design-project-manager-at-black-family-hospitality-4443502948",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical architectural design role, outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "This role is for an Architectural Design Project Manager, focusing on hospitality design and construction, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
     "id": "d2e4ea9a",
     "source": "linkedin_ww_semiconductor_architect",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect, Networking - IDC",
@@ -24122,13 +24100,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-networking-idc-at-oracle-4442319280",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a general software engineer, not specializing in Power Integrity or semiconductor VLSI/EDA.",
+    "reason": "The job description focuses on software engineering and networking architecture, lacking the required Power Integrity, Advanced Packaging, or EDA tool expertise specified in Vineeth's profile.",
     "id": "a95dd8aa",
     "source": "linkedin_india_semiconductor_architect",
-    "posted_date": "vor 2 tagen",
+    "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Gen AI - AI Architect",
@@ -24137,13 +24114,12 @@
     "url": "https://in.linkedin.com/jobs/view/gen-ai-ai-architect-at-ey-4440112619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an AI Architect role at EY, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on Generative AI architecture and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "258da9c2",
     "source": "linkedin_india_semiconductor_architect_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Distinguished Architect",
@@ -24152,13 +24128,12 @@
     "url": "https://in.linkedin.com/jobs/view/distinguished-architect-at-infosys-4444861715",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on broad AI architecture, DevOps, and consumer-facing solutions development, which does not closely match Vineeth's domain of Power Integrity/Signal Integrity, Advanced Packaging, CAD/Methodology in EDA tools for semiconductor/VLSI SoC design.",
+    "reason": "The role is a Distinguished Architect focused on AI and broader enterprise architecture, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "eaa642e5",
     "source": "linkedin_india_semiconductor_architect_p2",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Actualitzada! Arquitecte/a t\u00e8cnic/a",
@@ -24167,13 +24142,12 @@
     "url": "https://es.linkedin.com/jobs/view/actualitzada%21-arquitecte-a-t%C3%A8cnic-a-at-ajuntament-de-girona-4438767211",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an architectural role in city planning, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a technical architect at a municipality, which doesn't align with Vineeth's expertise in power integrity and advanced packaging within the semiconductor industry.",
     "id": "44c788ea",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Architect - UK",
@@ -24182,13 +24156,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ai-architect-uk-at-rackspace-technology-4411730371",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI Architect role is focused on using AI to assess and improve cloud systems, which does not match Vineeth's background in semiconductor/VLSI/EDA power integrity, advanced packaging, and CAD.",
+    "reason": "The role is focused on AI architecture and does not align with Vineeth's expertise in power integrity, advanced packaging, or related areas.",
     "id": "4cf20b65",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mid Level Architect",
@@ -24197,13 +24170,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mid-level-architect-at-soho-house-co-4444431134",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This mid-level architect position is focused on commercial building projects and has no overlap with Vineeth's power integrity, packaging, or EDA technical background.",
+    "reason": "This role is for an architect focusing on building design, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "e4bda5df",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Diagnostic Design Engineering Intern",
@@ -24212,13 +24184,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/76894?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an intern role at AMD's Singapore office, which does not match Vineeth's experience level or domain focus.",
+    "reason": "This is an internship role focused on diagnostic design and verification, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "dca362a2",
     "source": "amd_careers",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical and Thermal Analysis of Advanced Packaged Devices Intern",
