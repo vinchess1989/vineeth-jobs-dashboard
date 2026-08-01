@@ -2302,13 +2302,12 @@
     "url": "https://uk.linkedin.com/jobs/view/no-open-positions-at-the-moment-at-digbi-4445377071",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic job posting with no specific details on role, domain or location - cannot match based solely on this.",
+    "reason": "The job posting indicates 'No Open Positions at the Moment', making it ineligible regardless of other criteria.",
     "id": "0e660c58",
     "source": "linkedin_uk_si_pi",
-    "posted_date": "vor 2 stunden",
+    "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer (Mid)",
@@ -2317,13 +2316,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-mid-at-apex-satellite-platforms-4409122583",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Thermal Engineer at a satellite company, which does not closely match Vineeth's specific background in Power Integrity and Advanced Packaging. Also, it's in Los Angeles CA rather than Finland, UK or India.",
+    "reason": "The role is focused on thermal engineering for spacecraft, which isn't within Vineeth's focus areas of Power Integrity, Advanced Packaging, or related EDA tool expertise.",
     "id": "89bc9539",
     "source": "linkedin_ww_thermal",
-    "posted_date": "vor 2 wochen",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102027 TSMC RDSS&AO\u3011Quality & Reliability Engineer (Q&R)",
@@ -2332,13 +2330,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22585&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on Quality & Reliability engineering for semiconductor manufacturing, which falls outside Vineeth's primary areas of expertise in Power Integrity, Advanced Packaging, and EDA CAD.",
+    "reason": "The job focuses on Quality & Reliability Engineering, which is outside of Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "3682b751",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -2347,13 +2344,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2027-TSMC-RDSS-AO-Quality-Reliability-Engineer-Q-R%2F22585",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is missing key details like a specific job title, domain focus, location, and application deadline. It appears to be a generic LinkedIn ad rather than a real job opening.",
+    "reason": "The job description mentions 'security verification,' indicating a primarily verification role, which is outside Vineeth's domain.",
     "id": "7126ef63",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer Technology DevelopmentSGPosted a month ago",
@@ -2361,14 +2357,13 @@
     "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769850300",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is focused on high voltage BCD process/device development, while Vineeth's background is in power integrity, advanced packaging and SoC design sign-off. It does not match his key areas of expertise.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "a0336271",
     "source": "globalfoundries_careers",
-    "posted_date": "06/25/2026",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Engineer - Technology DevelopmentSGPosted 7 months ago",
@@ -2376,14 +2371,13 @@
     "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768903907",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on semiconductor manufacturing technology development, which is outside Vineeth's key technical domains of expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "da5624f5",
     "source": "globalfoundries_careers",
-    "posted_date": "12/16/2025",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "LMI",
@@ -2392,13 +2386,12 @@
     "url": "https://in.linkedin.com/jobs/view/lmi-at-world-veterans-4445380419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical management consulting role, not semiconductor/VLSI/EDA",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or EDA role.",
     "id": "4791e0ef",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Spontaneous Application (Full time contracts)",
@@ -2407,13 +2400,12 @@
     "url": "https://fr.linkedin.com/jobs/view/spontaneous-application-full-time-contracts-at-scaleway-4442335446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a cloud computing company, outside Vineeth's semiconductor/VLSI/EDA domain and experience.",
+    "reason": "The job is a spontaneous application, indicating it's not a targeted role aligned with Vineeth\u2019s specific expertise and leadership in power integrity or advanced packaging.",
     "id": "bfd67865",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Career opportunity: Process Specialist, Valmet",
@@ -2422,13 +2414,12 @@
     "url": "https://uk.linkedin.com/jobs/view/career-opportunity-process-specialist-valmet-at-suomen-operaatiotutkimusseura-ry-fors-4444800900",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not in semiconductor, VLSI, EDA or related hardware engineering domains.",
+    "reason": "The job description focuses on process specialization within a Board and Paper industry context, lacking relevance to power integrity, advanced packaging, or related VLSI domains.",
     "id": "ae1be793",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced GPU Electrical Analysis Engineer",
@@ -2437,13 +2428,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-gpu-electrical-analysis-engineer-at-apple-4414155757",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a technical leadership position for GPU electrical analysis and design at Apple's Silicon Technologies group in Cambridge, England.",
+    "reason": "The role aligns well with Vineeth's Power Integrity and Advanced Packaging expertise, requiring experience with RedHawk and Voltus, within a relevant domain (GPU Electrical Analysis) at an appropriate seniority level.",
     "id": "6b377934",
     "source": "linkedin_uk_semiconductor_principal_engineer",
     "posted_date": "2026-05-27",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/apple_experienced_gpu_electrical_ana_6b377934.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/apple_experienced_gpu_electrical_ana_6b377934.txt"
   },
   {
     "title": "AMBA Architect",
@@ -2451,14 +2441,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/amba-architect-at-arm-4438920874",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software architecture and design, which is outside Vineeth's domain of power integrity, packaging, EDA, and VLSI.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with AMBA architecture, a relevant area within VLSI design, and offers relocation support for candidates requiring it, but lacks specific mention of Power Integrity, PDN or advanced packaging.",
     "id": "a1cb6b11",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "ENGINEER ADTS ATI NPISingapore, SingaporePosted a month ago",
@@ -2466,14 +2455,13 @@
     "location": "Singapore",
     "url": "https://micron.eightfold.ai/careers/job/41844411",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves NPI and reliability engineering for advanced packaging, which matches Vineeth's background.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "29f3eb44",
     "source": "micron_careers",
-    "posted_date": "a month ago",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fab 9 Technology Development GaN Epitaxial EngineerEssex, VT, USPosted 3 months ago",
@@ -2481,14 +2469,13 @@
     "location": "Essex Junction, Vermont, United States of America",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769098428",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a semiconductor fab process development engineer role focused on GaN epitaxy, which does not match Vineeth's background in power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "2f755784",
     "source": "globalfoundries_careers",
-    "posted_date": "04/16/2026",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Device Modeling & CharacterizationBengaluru, KA, INHybridPosted a month ago",
@@ -2496,14 +2483,13 @@
     "location": "Bengaluru, India",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769819084",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with semiconductor experience, but years of experience lower than ideal match.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "78dc48fe",
     "source": "globalfoundries_careers",
-    "posted_date": "06/15/2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SMTS - Device Compact Modeling EngineerBengaluru, KA, INPosted 3 months ago",
@@ -2511,14 +2497,13 @@
     "location": "BANGALOGURE, KARNATAKA, INDIA",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769270118",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is specifically for Device Compact Modeling Engineer, which falls under software development and is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, CAD/Methodology.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "c301257d",
     "source": "globalfoundries_careers",
-    "posted_date": "2026-07-05",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF Technology Development Device Engineer - MTSEssex, VT, USPosted 3 months ago",
