@@ -21491,18 +21491,17 @@
   },
   {
     "title": "E&PI PI Supervisor, Manufacturing Engineering",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "AMETEK Process Instruments",
+    "location": "Pittsburgh, PA, US",
     "url": "https://www.indeed.com/rc/clk?jk=221114627c6f47ff",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on PI and ESD issues in manufacturing, which does not match Vineeth's areas of expertise. He focuses more on pre-silicon design/analysis tools and methodologies.",
+    "reason": "The role is a manufacturing engineering supervisor, focusing on process optimization and quality compliance, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "71e3e522",
     "source": "indeed_ww_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "E&PI PI Supervisor, Manufacturing Engineering salaries in Pittsburgh, PA",
@@ -21511,13 +21510,12 @@
     "url": "https://www.indeed.com/career/manufacturing-engineer/salaries/15238--PA?campaignid=serp-more&fromjk=221114627c6f47ff&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Manufacturing Engineering position, which is not within Vineeth's domain of Power Integrity and Advanced Packaging expertise.",
+    "reason": "The job is located in Pittsburgh, PA, USA, which falls under a hard rejection for US-based roles requiring US residency without visa sponsorship.",
     "id": "63396dba",
     "source": "indeed_ww_pi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Thermal Protection System Engineer",
@@ -21525,14 +21523,13 @@
     "location": "Bordeaux, Nouvelle-Aquitaine, France",
     "url": "https://fr.linkedin.com/jobs/view/principal-thermal-protection-system-engineer-at-the-exploration-company-4433284909",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily system engineering focused on space propulsion, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on thermal protection system engineering for space vehicles, aligning with advanced packaging and thermal analysis domains, and it's a leadership position.",
     "id": "396ae76f",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/the_exploration_comp_principal_thermal_protection_s_396ae76f.txt"
   },
   {
     "title": "SPE Hardware Architecture",
@@ -21541,13 +21538,12 @@
     "url": "https://www.linkedin.com/jobs/view/spe-hardware-architecture-at-rambus-4433128472",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a senior leadership position with deep technical architecture and product management experience, but the specific sub-domain (memory controllers) does not directly match Vineeth's key skills in PI/SI, packaging, physical design or EDA tools.",
+    "reason": "The role requires 20+ years of experience and focuses on memory controller architecture, which falls outside Vineeth's specified expertise in power integrity, advanced packaging, and related domains.",
     "id": "bb0f006b",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal GPU Systems Architect (Poland)",
@@ -21556,13 +21552,12 @@
     "url": "https://pl.linkedin.com/jobs/view/principal-gpu-systems-architect-poland-at-imagination-technologies-4331137586",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for GPU architecture rather than Power Integrity, Signal Integrity, or EDA tools.",
+    "reason": "The role focuses on GPU architecture and systems, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "e4b14784",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Design - Lab Engineer",
@@ -21571,13 +21566,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/85875?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Lab Engineer focused on hardware setup and instrumentation, which does not directly match Vineeth's semiconductor VLSI EDA background in Power Integrity & Advanced Packaging.",
+    "reason": "The job focuses on silicon design and lab engineering, which falls outside Vineeth's focus areas of power integrity, advanced packaging, and EDA tool expertise.",
     "id": "0e587050",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Debug Engineer",
@@ -21586,13 +21580,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88704?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Principal Engineer for system debug of CPUs and GPUs, which aligns with Vineeth's background in Power Integrity and Advanced Packaging. The company is AMD, based in Austin TX or Secaucus NJ.",
+    "reason": "The job focuses on debug engineering for server CPUs and AI accelerators, which falls outside Vineeth's primary expertise in power integrity, advanced packaging, and related areas.",
     "id": "033dafa5",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ATE Test Development Engineer",
@@ -21601,13 +21594,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ATE-Test-Development-Engineer_R026666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an ATE Test Development Engineer role, which does not match Vineeth's power integrity and packaging background.",
+    "reason": "The role is primarily focused on ATE test development, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "449799fa",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Integrated Circuit Wafer Probe Hardware Design & Validation Engineer (Probe Specialist)",
@@ -21616,13 +21608,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Senior-Integrated-Circuit-Wafer-Probe-Hardware-Design---Validation-Engineer--Probe-Specialist-_R026664",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on probe card design, vertical/MEMS probes, and high-performance test fixture development, which does not match Vineeth's key technical skills in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or CAD Methodology.",
+    "reason": "The role focuses on wafer probe hardware design and validation, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "ba10e35c",
     "source": "broadcom_careers",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer",
@@ -21630,14 +21621,13 @@
     "location": "Ottawa March Road",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Ottawa-March-Road/Senior-Hardware-Engineer_R026660",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This senior hardware engineering role at a semiconductor firm is outside Vineeth's domain of expertise in power integrity and advanced packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves hardware design and ownership, aligning with some aspects of VLSI but lacks specific Power Integrity or Advanced Packaging focus, making it a possible match for an experienced engineer.",
     "id": "a0b29cd8",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PHY Characterization Engineer",
@@ -21646,13 +21636,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Mendota-Heights-Northland/PHY-Characterization-Engineer_R026629",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This PHY characterization role is focused on Broadcom ASIC products and doesn't match Vineeth's Power Integrity, Advanced Packaging and EDA CAD expertise.",
+    "reason": "The role requires US residency and does not offer visa sponsorship, violating the location hard rejection criteria.",
     "id": "17dac5ac",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Architect (IMC)",
@@ -21661,13 +21650,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=5306&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Data Architect focused on cloud-native systems and K8S, which doesn't match Vineeth's Power Integrity and Packaging background.",
+    "reason": "The role is focused on cloud architecture and DevOps, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "aa7264a6",
     "source": "tsmc_careers",
     "posted_date": "2026-03-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -21676,13 +21664,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FData-Architect-IMC%2F5306",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was an incomplete LinkedIn link that led to a generic page about cookies and privacy settings, with no actual job description. It did not contain the usual details needed to evaluate suitability for Vineeth's background.",
+    "reason": "The job description is primarily a LinkedIn login page and does not contain relevant keywords or details about a Power Integrity, Advanced Packaging, or VLSI role.",
     "id": "d7c2fbcd",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Vice President of Sales",
@@ -21691,13 +21678,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-vice-president-of-sales-at-mattson-technology-4445176337",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical sales leadership position which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
+    "reason": "The role is a Sales Vice President, which falls outside Vineeth's expertise in engineering domains like Power Integrity and Advanced Packaging.",
     "id": "f309e550",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer",
@@ -21705,14 +21691,13 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/asic-design-engineer-at-ic-resources-4445999687",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job is for an ASIC Design Engineer, which is close to Vineeth's SoC PDN Sign-off and Power Integrity background. The location (Bristol, England) also matches.",
+    "matches_requirements": "no",
+    "reason": "The role is an ASIC Design Engineer, focusing on RTL design and verification, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "a844ab1f",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate - Senior Engineer Digital IC Design",
