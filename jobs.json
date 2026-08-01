@@ -1686,13 +1686,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4443061813",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contract electrical engineering position, not relevant to Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is primarily for AI trainers with electrical engineering expertise, rather than a direct power integrity or advanced packaging position.",
     "id": "e5d5b5f2",
     "source": "linkedin_uk_vlsi_design_p2",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI Design Engineer for Server / Data Center Products",
@@ -1701,43 +1700,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=f343d00c45263a29",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mid-level VLSI design engineer position, whereas Vineeth has over 15 years of experience and is looking for senior leadership positions in power integrity, advanced packaging, SoC PDN sign-off, and CAD methodology. The company is also Qualcomm which may be outside Vineeth's direct domain.",
+    "reason": "The job is located in San Diego, California, which requires US residency and does not offer visa sponsorship.",
     "id": "faf37e37",
     "source": "indeed_ww_vlsi_design",
     "posted_date": "2026-07-17",
-    "deadline": "29t23:59:00z",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "VLSI Design Engineer for Server / Data Center Products salaries in Santa Clara, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.indeed.com/career/design-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=f343d00c45263a29&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The job title does not contain required keywords (PDN, Redhawk, Voltus etc.) and focuses on VLSI design rather than power integrity or advanced packaging.",
     "id": "b13e81f2",
     "source": "indeed_ww_vlsi_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
-    "company": "NVIDIA AI",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/asic-floorplan-design-engineer-new-college-grad-2026-at-nvidia-ai-4432709357",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is entry-level and focused on ASIC floorplan design, which does not match Vineeth's experience in advanced packaging, power integrity, CAD tools.",
-    "id": "ef38cbdd",
-    "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-05",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Circuit Design Engineer",
@@ -1746,13 +1728,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-circuit-design-engineer-at-nvidia-4444634069",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
+    "reason": "The role focuses on circuit design and doesn't align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "9e279873",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Engineer",
@@ -1761,13 +1742,12 @@
     "url": "https://in.linkedin.com/jobs/view/layout-engineer-at-qualcomm-4439863579",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on general layout design, which falls outside Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Layout Engineer, which falls under physical design but does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tool methodology.",
     "id": "b58bb4e2",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Job Opportunity For Senior/Lead Physical Design Engineer",
@@ -1776,13 +1756,12 @@
     "url": "https://in.linkedin.com/jobs/view/job-opportunity-for-senior-lead-physical-design-engineer-at-tech-mahindra-4434520124",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at a service provider/consultancy rather than an end semiconductor company, and the years of experience are lower than Vineeth's. Also, it does not mention Power Integrity which is his key expertise.",
+    "reason": "The role focuses on physical design, which is outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "9ce96707",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Designer",
@@ -1791,13 +1770,12 @@
     "url": "https://it.linkedin.com/jobs/view/analog-designer-at-move-silicon-4444963491",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on software development (providing IP for Spaceman platform, script automation) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on analog circuit design and integrating machine learning into a design automation platform, which falls outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "d92cd50e",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Designer",
@@ -1806,13 +1784,12 @@
     "url": "https://it.linkedin.com/jobs/view/analog-designer-at-move-silicon-4444956906",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (collaborate with R&D, Product Lead, application engineering and tech teams) which is outside Vineeth's domain.",
+    "reason": "The role focuses on analog design and integrating machine learning into a CAD platform, which falls outside Vineeth's core expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "3b84f69e",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Analog IC Layout Engineer \u2013 Transistor-Level Design - Milano",
@@ -1821,13 +1798,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-analog-ic-layout-engineer-%E2%80%93-transistor-level-design-milano-at-move-silicon-4444974129",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for analog IC layout design, which is outside Vineeth's power integrity and advanced packaging focus.",
+    "reason": "The role is a junior analog IC layout engineer focusing on transistor-level design, which doesn't align with Vineeth's power integrity and advanced packaging expertise.",
     "id": "bc77419c",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Analog IC Layout Engineer \u2013 Transistor-Level Design - Lucca",
@@ -1836,13 +1812,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-analog-ic-layout-engineer-%E2%80%93-transistor-level-design-lucca-at-move-silicon-4444976113",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Analog IC Layout, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on analog IC layout, which is outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "f7376af8",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Development Engineer",
@@ -1851,13 +1826,12 @@
     "url": "https://nl.linkedin.com/jobs/view/test-development-engineer-at-talentials-4443340919",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on test system development for electronic/mechatronic products, which falls outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and SoC PDN sign-off.",
+    "reason": "The role is focused on test system development using LabVIEW and TestStand, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "199935d4",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Analog Designer & Data Scientist",
@@ -1866,13 +1840,12 @@
     "url": "https://it.linkedin.com/jobs/view/r-d-analog-designer-data-scientist-at-move-silicon-4444970193",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an R&D Engineer focused on Analog Design and Data Science, which falls outside Vineeth's primary areas of Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on R&D for an EDA platform and data science, rather than core power integrity or advanced packaging tasks.",
     "id": "4a7531cb",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog IC Design Engineer",
@@ -1881,13 +1854,12 @@
     "url": "https://it.linkedin.com/jobs/view/analog-ic-design-engineer-at-move-silicon-4444953897",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (e.g., 'Copywriter' and 'HR Coordinator') which is outside Vineeth's domain.",
+    "reason": "The role is focused on analog IC design and power electronics, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "f2cb7a46",
     "source": "linkedin_eu_asic_design_p2",
-    "posted_date": "1 giorno fa",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Group Manager",
@@ -1896,13 +1868,12 @@
     "url": "https://se.linkedin.com/jobs/view/design-group-manager-at-edag-group-4435113478",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Role is a general design group management position with no specific focus on semiconductor, VLSI/EDA related technical domains that match Vineeth's background.",
+    "reason": "The role is a Design Group Manager within automotive seating, which falls outside Vineeth's primary domains of Power Integrity, Advanced Packaging, and related EDA tools.",
     "id": "8f52c4ed",
     "source": "linkedin_eu_asic_design_p2",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Governance & Company Secretarial Analyst",
