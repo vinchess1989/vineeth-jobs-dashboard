@@ -26088,13 +26088,12 @@
     "url": "https://www.linkedin.com/jobs/view/cyber-security-engineer-at-ampcus-inc-4437683623",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a cybersecurity engineering role focused on AI security, not VLSI/EDA.",
+    "reason": "The job focuses on cybersecurity and AI, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "bfd8a8ff",
     "source": "linkedin_ww_soc_design_p3",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Modelling Architect",
@@ -26102,14 +26101,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-modelling-architect-at-nvidia-4445403689",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is more focused on SoC modeling and development rather than power integrity, advanced packaging, and EDA tools which are Vineeth's key areas.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on SoC modelling and architecture, aligning with VLSI design but lacks explicit mention of power integrity or advanced packaging tools like RedHawk/Voltus, making it a possible match.",
     "id": "44580ee1",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Modelling Architect",
@@ -26118,13 +26116,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-modelling-architect-at-nvidia-4445422018",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role involves SoC architecture, which is close to Vineeth's domains of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role involves SoC modelling and analysis, aligning with CAD methodology but lacks explicit mentions of Power Integrity tools or advanced packaging, making it a potential match.",
     "id": "d677e8e0",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Technologist I - Technical Security",
@@ -26133,13 +26130,12 @@
     "url": "https://in.linkedin.com/jobs/view/security-technologist-i-technical-security-at-uber-4445913774",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on security incident response and technical investigations, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN sign-off.",
+    "reason": "The job focuses on security incident response and investigation, which is outside Vineeth's domain of power integrity, advanced packaging, and related areas.",
     "id": "4f920b0f",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Technologist I - Technical Security",
@@ -26148,13 +26144,12 @@
     "url": "https://in.linkedin.com/jobs/view/security-technologist-i-technical-security-at-uber-4445916801",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital forensics and incident response, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is focused on security incident response and investigation, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "b4ecc54f",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Security Engineer",
@@ -26163,13 +26158,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-security-engineer-at-g1-global-4445953426",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on IT infrastructure, cloud and managed services rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on security engineering and compliance, which falls outside of Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "71870606",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Program Manager",
@@ -26178,13 +26172,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-program-manager-at-qualcomm-4445134808",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily program management for SoC/ASIC development and delivery, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Program Manager, which falls outside Vineeth's domain of focus on Power Integrity and related areas.",
     "id": "e86320a0",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Deputy Manager - IT Network Lead",
@@ -26193,13 +26186,12 @@
     "url": "https://in.linkedin.com/jobs/view/deputy-manager-it-network-lead-at-renew-4442305129",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on IT infrastructure, networking, and security management for a renewable energy company - significantly different from Vineeth's domains of expertise in semiconductor, VLSI, EDA, power integrity, and advanced packaging. It would not be a good match.",
+    "reason": "The job is for an IT Network Lead, which focuses on general IT infrastructure and network management rather than power integrity, advanced packaging, or EDA tools.",
     "id": "a703f415",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Solutions Architect for NG-SIEM and AI Security",
@@ -26208,13 +26200,12 @@
     "url": "https://gr.linkedin.com/jobs/view/security-solutions-architect-for-ng-siem-and-ai-security-at-uni-systems-4442349602",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on cybersecurity solutions architecture for NG-SIEM and AI, not semiconductor/EDA/VLSI.",
+    "reason": "The job focuses on cybersecurity, SIEM, and AI security architecture, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "8edfc7c8",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Freelance Security Engineer (Database Focus)",
@@ -26223,13 +26214,12 @@
     "url": "https://be.linkedin.com/jobs/view/freelance-security-engineer-database-focus-at-koda-staff-4442852026",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical security engineering role focused on database security, IAM, and encryption. It does not fit Vineeth's technical areas of Power Integrity, Advanced Packaging, CAD, EDA Tools or VLSI/SoC Design.",
+    "reason": "The role focuses on database security, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "883c8188",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IT Operational Security Administrator \u2013 CDI",
@@ -26238,13 +26228,12 @@
     "url": "https://lu.linkedin.com/jobs/view/senior-it-operational-security-administrator-%E2%80%93-cdi-at-nomura-4438330474",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on IT administration, antivirus/firewall systems, and infrastructure maintenance. It does not directly match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, and related EDA/CAD tooling.",
+    "reason": "The job description focuses on IT operational security and does not align with Vineeth's expertise in power integrity, advanced packaging, or related VLSI domains.",
     "id": "e9be9e98",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer - Detection & Response",
@@ -26253,13 +26242,12 @@
     "url": "https://ro.linkedin.com/jobs/view/security-engineer-detection-response-at-stefanini-emea-4441961915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical security engineering role focused on detection & response, monitoring operations, and automation workflows. It does not fit Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, or CAD Methodology.",
+    "reason": "The role focuses on security engineering and incident response, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "18ee794f",
     "source": "linkedin_eu_soc_design_p2",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Engineer",
@@ -26268,13 +26256,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-engineer-at-fsp-4445962598",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Security Operations Centre (SOC) Engineer focused on Microsoft Sentinel and automation, which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, or related EDA/CAD tools.",
+    "reason": "The role is focused on SOC engineering and Microsoft Sentinel, which falls outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "3d49f82b",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Design Lead / SOC Architect",
@@ -26283,13 +26270,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-design-lead-soc-architect-at-ic-resources-4443262593",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a senior SOC design leadership position at an exciting semiconductor startup, aligning with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "This role aligns with Vineeth's experience as a Technical Leader in SoC design, architecture and delivery within a UK-based company.",
     "id": "5c419a7d",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/ic_resources_soc_design_lead___soc_architec_5c419a7d.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/ic_resources_soc_design_lead___soc_architec_5c419a7d.txt"
   },
   {
     "title": "SOC Engineer",
@@ -26298,13 +26284,12 @@
     "url": "https://uk.linkedin.com/jobs/view/soc-engineer-at-fsp-4445962594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The role is a Security Operations Centre (SOC) Engineer, focusing on security incident response and Microsoft Sentinel, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "05872c2e",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Network and Security Engineer",
