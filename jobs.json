@@ -11304,13 +11304,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=6a8b47d96ca5356e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This software engineering role is for a Base Software (BSW) Engineer, focusing on middleware and IPC stacks, which does not match Vineeth's area of expertise in Power Integrity, Advanced Packaging, SoC PDN sign-off, or CAD Methodology.",
+    "reason": "The job focuses on BSW Core Engineering and IPC stacks, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "31d7d032",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Staff SoC BSW Core Engineer salaries in Auburn Hills, MI",
@@ -11319,13 +11318,12 @@
     "url": "https://www.indeed.com/career/senior-staff-engineer/salaries/48326--MI?campaignid=serp-more&fromjk=6a8b47d96ca5356e&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SoC BSW Core Engineer) which is outside Vineeth's domain.",
+    "reason": "The job title and description do not contain the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant Power Integrity/EDA role.",
     "id": "f28047b2",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Level Test Engineer",
@@ -11334,13 +11332,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=d9f7dbd978d29428",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (collaborating with multiple teams to deliver test programs), which is outside Vineeth's domain.",
+    "reason": "The role is primarily for verification (System Level Test Engineer), which falls outside Vineeth's domain of expertise.",
     "id": "5b426226",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Level Test Engineer salaries in Santa Clara, CA",
@@ -11349,13 +11346,12 @@
     "url": "https://www.indeed.com/career/systems-test-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=d9f7dbd978d29428&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Systems Test Engineer role, which does not match Vineeth's technical background in semiconductor/EDA.",
+    "reason": "The job title and description lack the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) indicating it's not a relevant power integrity/EDA role.",
     "id": "08365f3b",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Microsoft 365 Architect",
@@ -11364,13 +11360,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=aa1480a9a178b9db",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Microsoft 365, cloud services, collaboration platforms) which does not match Vineeth's VLSI/EDA background.",
+    "reason": "The role is a Microsoft 365 Architect, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and VLSI domains.",
     "id": "d047b1a9",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Microsoft 365 Architect salaries in Remote",
@@ -11379,13 +11374,12 @@
     "url": "https://www.indeed.com/career/dynamics-365-architect/salaries?campaignid=serp-more&fromjk=aa1480a9a178b9db&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Microsoft-specific software engineering role (Microsoft 365 Architect), which does not match Vineeth's background in semiconductor/VLSI/EDA. It is also a non-technical management position.",
+    "reason": "The job is for a Microsoft 365 Architect, which falls outside Vineeth's expertise in semiconductor/VLSI/EDA domains.",
     "id": "69d30402",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Silicon Validation Engineer, Infra Silicon",
@@ -11393,29 +11387,27 @@
     "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=d0d17cd095a919f6",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on SW/FW development rather than Power Integrity, packaging, or physical design.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "2d0438da",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Silicon Validation Engineer, Infra Silicon salaries in Sunnyvale, CA",
     "company": "Indeed",
-    "location": "Extract from page",
+    "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/career/validation-engineer/salaries/Sunnyvale--CA?campaignid=serp-more&fromjk=d0d17cd095a919f6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development), which falls outside Vineeth's domain.",
+    "reason": "This role is primarily for verification, which falls outside Vineeth's domain of expertise.",
     "id": "d39ee177",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Implementation Engineer - Static Verification",
@@ -11424,28 +11416,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=074626964b88e80a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an ASIC Frontend Implementation Engineer and focuses on RTL to netlist implementation, which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA CAD.",
+    "reason": "The role is focused on static verification which falls outside Vineeth's expertise, despite mentioning some relevant tools and skills.",
     "id": "70cdb467",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Implementation Engineer - Static Verification salaries in Sunnyvale, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/career/verification-engineer/salaries/Sunnyvale--CA?campaignid=serp-more&fromjk=074626964b88e80a&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development), which is outside Vineeth's domain.",
+    "reason": "The role is focused on static verification, which falls outside Vineeth's domain of expertise.",
     "id": "d1f8e236",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Implementation - Timing",
@@ -11453,44 +11443,41 @@
     "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=f4d51a2db7f84e5d",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation) which is outside Vineeth's domain.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "a505203d",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Implementation - Timing salaries in Sunnyvale, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/career/engineer/salaries/Sunnyvale--CA?campaignid=serp-more&fromjk=f4d51a2db7f84e5d&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (C, Python), which is outside Vineeth's domain of expertise in Power Integrity, CAD Methodology, Physical Design.",
+    "reason": "The job title lacks required keywords (PDN, Redhawk, Voltus) and focuses on Implementation - Timing, which falls outside Vineeth's expertise in Power Integrity.",
     "id": "c9073f93",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Manager",
     "company": "Performing security verification",
-    "location": "Extract from page",
+    "location": "Remote, WA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=0dc00ff73036a416",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical security verification role, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on managing a Security Operations Center (SOC) and lacks the required Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "7ef3ab22",
     "source": "indeed_ww_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Consultant II, Technology 3rd Party Risk Management - Tax Transformation",
@@ -11499,28 +11486,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=b47dbe582e26ba50",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Tax Transformation Consultant II, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis and EDA CAD Methodology.",
+    "reason": "The job title and description do not contain any of the required keywords related to power integrity, advanced packaging, or EDA tools.",
     "id": "b5e90d71",
     "source": "indeed_india_soc_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Consultant II, Technology 3rd Party Risk Management - Tax Transformation salaries in Charlotte, NC",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Charlotte, NC, USA",
     "url": "https://www.indeed.com/career/risk-manager/salaries/Charlotte--NC?campaignid=serp-more&fromjk=b47dbe582e26ba50&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Risk Management position, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not related to power integrity or VLSI design.",
     "id": "37f4c4be",
     "source": "indeed_india_soc_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Staff SoC BSW Core Engineer",
