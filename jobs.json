@@ -14846,13 +14846,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-system-engineer-system-architect-m-f-d-at-tdk-micronas-4432341385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on systems engineering and embedded software, outside Vineeth's domain in semiconductor VLSI EDA.",
+    "reason": "The job is for a System Engineer/Architect role with responsibilities that are not aligned with Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "67976c9c",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead RTL design Engineer",
@@ -14861,13 +14860,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88802?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SoC logic and features, power design) which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging.",
+    "reason": "The role is primarily focused on RTL design and SoC integration, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "84fb931f",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chiplet Verification Lead",
@@ -14875,14 +14873,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/88460?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Technical Leader, focuses on SoC verification (a relevant sub-domain), and requires strong SystemVerilog/UVM skills, which are key skills for Vineeth.",
     "id": "6bf2d335",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_chiplet_verification_lead_6bf2d335.txt"
   },
   {
     "title": "IP Verification Engineer",
@@ -14891,13 +14888,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88733?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain of expertise in Power Integrity & Advanced Packaging.",
+    "reason": "The role is specifically for an IP Verification Engineer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "7d7aad50",
     "source": "amd_careers",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Leadership Role - DFT",
@@ -14905,14 +14901,13 @@
     "location": "Bangalore, India",
     "url": "https://careers.amd.com/careers-home/jobs/88778?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on ATPG execution for SoC DFT which does not align with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Technical Leader in Power Integrity and Advanced Packaging, focusing on DFT leadership within an SoC environment.",
     "id": "81fff3b7",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/amd_leadership_role___dft_81fff3b7.txt"
   },
   {
     "title": "Senior Analyst Corporate Reporting",
@@ -14921,13 +14916,12 @@
     "url": "https://careers.arm.com/job/cambridge/senior-analyst-corporate-reporting/33099/98358948560",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical finance/accounting role, not semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is focused on corporate reporting and accounting, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
     "id": "ead8808d",
     "source": "arm_careers",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Functional Safety Engineer",
@@ -14936,13 +14930,12 @@
     "url": "https://careers.arm.com/job/cambridge/functional-safety-engineer/33099/98358935920",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a non-technical Functional Safety Engineer position, which falls outside Vineeth's domain of Power Integrity/Advanced Packaging/VLSI.",
+    "reason": "The role focuses on functional safety and ISO 26262, which is outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "4adddf8f",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "jul. 27, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Functional Safety Engineer",
@@ -14951,13 +14944,12 @@
     "url": "https://careers.arm.com/job/lund/functional-safety-engineer/33099/98358935696",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software Engineering role, not a semiconductor/VLSI/EDA technical position.",
+    "reason": "The role focuses on functional safety and ISO 26262, which is outside Vineeth's core expertise in power integrity, advanced packaging, and related areas.",
     "id": "2c438a4a",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "jul. 27, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Insight and GrowthVeikkausHelsinkiGo to job site",
@@ -14966,13 +14958,12 @@
     "url": "https://www.jobly.fi/en/job/head-insight-and-growth-2721617",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in digital channels, marketing, CX research and does not fit Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job is for a Head of Insight and Growth, which focuses on data analytics and business strategy, falling outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "d01993cf",
     "source": "work_in_finland",
     "posted_date": "2026-07-27",
     "deadline": "2026-08-14",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Customer Journey ManagerVeikkausHelsinkiGo to job site",
@@ -14981,13 +14972,12 @@
     "url": "https://www.jobly.fi/en/job/customer-journey-manager-2721619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Customer Journey Manager role at Veikkaus, which is focused on lottery and land-based gaming customer experience. This does not match Vineeth's VLSI/EDA technical background.",
+    "reason": "The role is a Customer Journey Manager, focused on marketing and customer experience, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI domains.",
     "id": "ce20a864",
     "source": "work_in_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-31",
     "deadline": "2026-08-14",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Owner, Web ChannelVeikkausHelsinkiGo to job site",
@@ -14996,13 +14986,12 @@
     "url": "https://www.jobly.fi/en/job/senior-product-owner-web-channel-2721616",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on digital development, marketing channels like web and mobile - this matches software product management but does NOT match Vineeth's technical domains of Power Integrity/Signal Integrity, Advanced Packaging/Thermal, EDA/CAD, VLSI/SoC Design or Engineering Leadership roles.",
+    "reason": "The role is a Product Owner, which focuses on product strategy and management rather than the technical domains Vineeth specializes in (Power Integrity, Advanced Packaging, etc.).",
     "id": "4da95c1f",
     "source": "work_in_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-31",
     "deadline": "2026-08-14",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "How do you manage contract manufacturer selection and RFQs for new hardware products?",
@@ -15011,13 +15000,12 @@
     "url": "https://old.reddit.com/r/hwstartups/comments/1v7vlsu/how_do_you_manage_contract_manufacturer_selection/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering role, but about managing hardware manufacturing processes and RFQs.",
+    "reason": "The job posting is a community discussion thread on r/hwstartups about contract manufacturer selection, and does not represent an actual job opening.",
     "id": "7333a174",
     "source": "reddit_hwstartups",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director Strategic Sourcing",
@@ -15026,13 +15014,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-strategic-sourcing-at-a2b-rec-4445901610",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Director role in strategic sourcing for a renewable energy company, far outside Vineeth's semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is a Director of Strategic Sourcing focused on steel procurement, which doesn't align with Vineeth\u2019s Power Integrity, Advanced Packaging, and related VLSI/EDA expertise.",
     "id": "7819ebd2",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OTA Systems Engineer (RF / Wireless)",
@@ -15041,13 +15028,12 @@
     "url": "https://fi.linkedin.com/jobs/view/ota-systems-engineer-rf-wireless-at-keysight-technologies-4442838121",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RF/wireless OTA systems engineer role is outside Vineeth's Power Integrity & Advanced Packaging technical domain.",
+    "reason": "The role is focused on OTA Systems Engineering and RF testing, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "c3f84e56",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OTA Solution Software Developer",
@@ -15056,13 +15042,12 @@
     "url": "https://fi.linkedin.com/jobs/view/ota-solution-software-developer-at-keysight-technologies-4442841137",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is software development focused, outside Vineeth's domain of Power Integrity and Physical Design in semiconductors/VLSI/EDA.",
+    "reason": "The role is focused on software development for OTA test solutions, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "3a71d522",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Engineer",
