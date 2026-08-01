@@ -846,13 +846,12 @@
     "url": "https://uk.linkedin.com/jobs/view/remote-pilot-fixed-wing-uas-at-greenjets-4444676987",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a pilot of fixed-wing UAS platforms, which does not match Vineeth's semiconductor/VLSI/EDA background in power integrity, advanced packaging, CAD methodology.",
+    "reason": "The job is for a Remote Pilot operating UAS platforms, which doesn't align with Vineeth's expertise in power integrity and advanced packaging within the semiconductor industry.",
     "id": "618f316f",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "stn GmbH",
@@ -861,13 +860,12 @@
     "url": "https://in.linkedin.com/jobs/view/stn-gmbh-at-wireg-mbh-4438751619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an 'Other' role at a transport band manufacturing company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level role with a business consulting focus.",
     "id": "719057c2",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "WiREG mbH",
@@ -876,13 +874,12 @@
     "url": "https://in.linkedin.com/jobs/view/wireg-mbh-at-wireg-mbh-4438741942",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an 'Engineer / Sr. Engineer - Product Management', which falls under product management rather than semiconductor, VLSI, EDA.",
+    "reason": "The job title, description, and lack of relevant keywords (PDN, Redhawk, Voltus) indicate this is not a Power Integrity or related VLSI engineering role.",
     "id": "bee8837a",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Business Development, Minerals BA",
@@ -891,13 +888,12 @@
     "url": "https://fi.linkedin.com/jobs/view/director-business-development-minerals-ba-at-metso-4442091680",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is clearly a business development position for the minerals processing industry, which does not match Vineeth's technical background in semiconductor VLSI EDA power integrity and advanced packaging. It would require business acumen rather than deep engineering expertise.",
+    "reason": "This role is for Business Development, not a technical engineering position related to Power Integrity, VLSI, or EDA.",
     "id": "a23d9dac",
     "source": "linkedin_fi_semiconductor_director",
     "posted_date": "2026-07-24",
     "deadline": "2026-08-05",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Senior Advisor",
@@ -906,13 +902,12 @@
     "url": "https://fi.linkedin.com/jobs/view/technical-senior-advisor-at-abb-4444803228",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on R&D, innovation strategy and technology scouting rather than technical domains like Power Integrity, Packaging or Physical Design which match Vineeth's background.",
+    "reason": "The role focuses on innovation strategy and technology scouting, rather than power integrity or advanced packaging engineering.",
     "id": "b8598d5c",
     "source": "linkedin_fi_semiconductor_architect",
     "posted_date": "2026-07-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Process EngineerMalta, NY, USPosted 2 months ago",
@@ -921,13 +916,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769224512",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on semiconductor manufacturing process engineering, not semiconductor design, EDA tools, power integrity, packaging, or CAD methodology. It is a strong non-match for Vineeth's background.",
+    "reason": "The job focuses on process engineering, specifically CMP, which is outside Vineeth's core expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "439edcff",
     "source": "globalfoundries_careers",
     "posted_date": "2026-01-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Process Engineering (Litho)SGPosted 9 months ago",
@@ -936,28 +930,26 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768904053",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Engineer position focused on Lithography Process Engineering at a semiconductor foundry. This is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, EDA/Methodology and falls under VLSI/SoC Physical Design.",
+    "reason": "The job focuses on lithography process engineering, which is outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
     "id": "beae2464",
     "source": "globalfoundries_careers",
-    "posted_date": "10/14/2025",
+    "posted_date": "2025-11-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Process Engineering (Fab 7, Photolithography)SGPosted 6 months ago",
-    "company": "Extract from page",
+    "company": "GlobalFoundries",
     "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768904143",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on process engineering in a semiconductor fab setting, which does not closely match Vineeth's background and experience in power integrity, advanced packaging, VLSI/EDA.",
+    "reason": "The role focuses on photolithography process engineering, which is outside of Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "4dedc178",
     "source": "globalfoundries_careers",
     "posted_date": "2026-01-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer Process Engineering ImplantMalta, NY, USPosted 3 months ago",
@@ -966,13 +958,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769224508",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is outside Vineeth's domain as it focuses on general process engineering and does not mention skills in Power Integrity, Advanced Packaging, SoC PDN sign-off, etc.",
+    "reason": "The job focuses on process engineering and lacks any mention of Power Integrity, PDN, RedHawk, Voltus, or related keywords, failing the keyword pre-filter requirement.",
     "id": "87899b3a",
     "source": "globalfoundries_careers",
     "posted_date": "2026-04-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Engineer Process Engineering ImplantMalta, NY, USPosted 2 months ago",
@@ -981,13 +972,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769224507",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is semiconductor manufacturing engineering, not VLSI/EDA design.",
+    "reason": "The role is focused on process engineering for implant processes, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "9414c8a5",
     "source": "globalfoundries_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-01-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer (CMP Module)SGPosted 9 months ago",
@@ -995,14 +985,13 @@
     "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768903878",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Principal Engineer role with 5-8 years CMP experience fits Vineeth's profile",
+    "matches_requirements": "no",
+    "reason": "The job description focuses on CMP process engineering and does not contain keywords related to Power Integrity, PDN analysis, or the specific EDA tools (RedHawk, Voltus) required for Vineeth's expertise.",
     "id": "c5bc6f3b",
     "source": "globalfoundries_careers",
-    "posted_date": "10/15/2025",
+    "posted_date": "2025-11-04",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/globalfoundries_principal_engineer__cmp_module_c5bc6f3b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Process Engineering (Jul 2026 Recruitment Drive)SGPosted 24 days ago",
@@ -1011,13 +1000,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770153087",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Process Engineering role focused on sustaining and improving semiconductor wafer production processes. It does not match Vineeth's Power Integrity, Advanced Packaging, CAD/Methodology expertise.",
+    "reason": "The job focuses on process engineering within a fab environment and lacks the core power integrity, advanced packaging, or EDA tool focus required for Vineeth's expertise.",
     "id": "a1e6db44",
     "source": "globalfoundries_careers",
     "posted_date": "2026-07-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assembly Engineer",
@@ -1026,13 +1014,12 @@
     "url": "https://in.linkedin.com/jobs/view/assembly-engineer-at-kirloskar-oil-engines-limited-4443833228",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in electrical assembly, genset troubleshooting and management of a manufacturing shop floor for engines and generators. This is far outside Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or advanced packaging role.",
     "id": "2e7c5bb3",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Maintenance Technician",
@@ -1041,13 +1028,12 @@
     "url": "https://de.linkedin.com/jobs/view/equipment-maintenance-technician-at-jd-com-4442612217",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for equipment maintenance in logistics, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is for an Equipment Maintenance Technician, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "00615cc4",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Operations Manager",
@@ -1056,13 +1042,12 @@
     "url": "https://nl.linkedin.com/jobs/view/operations-manager-at-randstad-enterprise-4440137536",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Operations Manager at a recruitment firm, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The role is an Operations Manager focused on recruitment delivery and team leadership, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "025a2e4f",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Maintenance Technician",
