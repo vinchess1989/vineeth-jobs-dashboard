@@ -22750,34 +22750,18 @@
     "description_file": null
   },
   {
-    "title": "ASIC Design Engineer - New College Grad 2026",
-    "company": "NVIDIA AI",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-new-college-grad-2026-at-nvidia-ai-4435940840",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development (C/C++, Python) and ASIC design, outside Vineeth's power integrity and advanced packaging focus.",
-    "id": "b3a65ce0",
-    "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-14",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Digital Design Engineer",
     "company": "Texas Instruments India",
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/digital-design-engineer-at-texas-instruments-india-4445188599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL coding, simulation, synthesis and verification work - outside Vineeth's direct expertise in Power Integrity, Packaging and CAD methodology.",
+    "reason": "The role is focused on digital design and RTL coding, which falls outside of Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "a14d08ee",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer (Relocation to the Netherlands or Belgium)",
@@ -22786,13 +22770,12 @@
     "url": "https://pt.linkedin.com/jobs/view/fpga-engineer-relocation-to-the-netherlands-or-belgium-at-tmc-4442827770",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an FPGA Engineer which falls under hardware design/development rather than Vineeth's main areas of Power Integrity, Advanced Packaging. Also requires relocation to Belgium/Netherlands with EU citizenship/working visa.",
+    "reason": "The job focuses on FPGA development with VHDL/Verilog, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "6d8b946a",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DESIGN ENGINEER - CIVIL & SS",
@@ -22801,13 +22784,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-civil-ss-at-larsen-toubro-4446102320",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Civil & Structural Design Engineer at Larsen & Toubro, which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA. The company is also based in India.",
+    "reason": "The job focuses on civil and structural engineering for data centers, which is outside Vineeth's domain of power integrity, advanced packaging, and related VLSI areas.",
     "id": "66535003",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Designer / Design Engineer (m/f/d)",
@@ -22816,13 +22798,12 @@
     "url": "https://de.linkedin.com/jobs/view/cad-designer-design-engineer-m-f-d-at-gammel-engineering-gmbh-4434320927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an HVAC design engineer focused on construction projects, which does not match Vineeth's VLSI/EDA background in power integrity, CAD methodologies, and SoC design.",
+    "reason": "The role focuses on HVAC planning and design using AutoCAD, Revit, and MicroStation, which falls outside Vineeth's expertise in power integrity, advanced packaging, and EDA tools.",
     "id": "a3de789c",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -22831,13 +22812,12 @@
     "url": "https://se.linkedin.com/jobs/view/design-engineer-at-valoriim-4444299721",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily mechanical design with a focus on product development for vehicles, electric charging, and consumer products. It does not match Vineeth's domain in semiconductor VLSI EDA.",
+    "reason": "The job is for a design engineer focused on mechanical and plastic construction, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "e8ebb278",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Werktuigbouwkundige",
@@ -22846,13 +22826,12 @@
     "url": "https://nl.linkedin.com/jobs/view/werktuigbouwkundige-at-mijn-prolinq-4440149140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a mechanical engineer, not semiconductor/VLSI/EDA related.",
+    "reason": "The job is for a Mechanical Engineer (Werktuigbouwkundige) and does not involve power integrity, advanced packaging, or related EDA tools.",
     "id": "794d2aca",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Werktuigbouwkundige",
@@ -22861,13 +22840,12 @@
     "url": "https://nl.linkedin.com/jobs/view/werktuigbouwkundige-at-mijn-prolinq-4440131749",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Engineer, which does not match Vineeth's background in VLSI/EDA semiconductor design.",
+    "reason": "The job title and description do not contain relevant keywords like PDN, Redhawk, Voltus, or Power Integrity, indicating it's not a power integrity role.",
     "id": "03d8ab69",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Tekla Designer Engineer",
@@ -22876,13 +22854,12 @@
     "url": "https://uk.linkedin.com/jobs/view/tekla-designer-engineer-at-express-recruitment-4440442221",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a detailed drafting role focused on Tekla Structures for construction and engineering projects, which does not match Vineeth's background in semiconductor/EDA power integrity, CAD methodology, VLSI physical design.",
+    "reason": "The job description focuses on Tekla Structures and construction detailing, which is outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "0c3ba70f",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr EDA/CAD Engineer",
@@ -22891,13 +22868,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-eda-cad-engineer-at-micron-technology-4440735774",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mix of EDA/CAD engineering and AI/ML, which is not Vineeth's primary domain. The job description does not clearly match his background in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain relevant keywords like PDN, Redhawk, Voltus, or explicitly mention power integrity sign-off, and focuses primarily on AI integration within a CAD workflow rather than core PI/SI tasks.",
     "id": "d6b865f7",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President of Health, Safety & Environmental (HSE)",
@@ -22906,13 +22882,12 @@
     "url": "https://www.linkedin.com/jobs/view/vice-president-of-health-safety-environmental-hse-at-integrated-power-services-4446124419",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a senior executive leadership position focused on overall HSE strategy, not specific to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is for a Vice President of HSE, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "e04d1145",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President of Health, Safety & Environmental (HSE)",
@@ -22921,13 +22896,12 @@
     "url": "https://www.linkedin.com/jobs/view/vice-president-of-health-safety-environmental-hse-at-integrated-power-services-4446137148",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical leadership role focused on Health, Safety & Environmental (HSE). It does not match Vineeth's technical background in Power Integrity and VLSI/EDA.",
+    "reason": "The role is for a Vice President of HSE, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "20ff85ae",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President of Health, Safety & Environmental (HSE)",
@@ -22936,13 +22910,12 @@
     "url": "https://www.linkedin.com/jobs/view/vice-president-of-health-safety-environmental-hse-at-integrated-power-services-4446135155",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VP-level Health, Safety & Environmental position at an electrical power services company, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for a Vice President of HSE, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "b3de7a6f",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -22951,13 +22924,12 @@
     "url": "https://www.linkedin.com/jobs/view/data-analyst-at-careerus-solutions-4442893519",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an analyst position focused on data, which does not match Vineeth's technical background in power integrity, packaging, and EDA.",
+    "reason": "The job description focuses on data analysis using Power BI and SQL, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "40d5b35b",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Project & Promo Manager",
@@ -22966,13 +22938,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-project-promo-manager-at-warner-music-group-4440207772",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Junior Project & Promo Manager at Warner Music Group, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The role is a marketing and project management position, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "6149ae28",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Independent Contractor",
