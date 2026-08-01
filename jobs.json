@@ -14636,13 +14636,12 @@
     "url": "https://in.linkedin.com/jobs/view/program-manager-at-acl-digital-4444864888",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical program management role at an IT consulting company, which does not match Vineeth's VLSI/EDA technical background.",
+    "reason": "The role is a Program Manager, which focuses on project execution rather than technical domains like power integrity or advanced packaging; it also doesn't fit Vineeth\u2019s engineering leadership profile.",
     "id": "2deddae6",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineering Technical Leader",
@@ -14650,14 +14649,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/asic-engineering-technical-leader-at-cisco-4445903676",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is more focused on ASIC engineering and package design rather than power integrity and advanced packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Technical Leader focused on ASIC package design, aligning with Vineeth's experience in power integrity and advanced packaging within an engineering leadership context.",
     "id": "591bb4fe",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/cisco_asic_engineering_technical_lea_591bb4fe.txt"
   },
   {
     "title": "ASIC Engineering Technical Leader",
@@ -14665,14 +14663,13 @@
     "location": "Chennai, Tamil Nadu, India",
     "url": "https://in.linkedin.com/jobs/view/asic-engineering-technical-leader-at-cisco-4445917671",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on ASIC design, which does not match Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role involves ASIC package design, power distribution networks (PDN), and mentions scripting languages aligning with Vineeth's background and expertise in power integrity and advanced packaging.",
     "id": "90b671d2",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-27",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/cisco_asic_engineering_technical_lea_90b671d2.txt"
   },
   {
     "title": "Regional Key Account Director (KAD) \u2013 North America (Remote / US-Based)",
@@ -14681,13 +14678,12 @@
     "url": "https://www.linkedin.com/jobs/view/regional-key-account-director-kad-%E2%80%93-north-america-remote-us-based-at-jarsking-packaging-4444880753",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is a sales director role focused on commercial strategy and managing relationships with US beauty brands, not an engineering/technical semiconductor/VLSI EDA job that Vineeth Prathapachandra Kaimal is likely seeking.",
+    "reason": "The role is a sales position focused on beauty packaging, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "fb5b6513",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Thermal/Mechanical Field App Engineer",
@@ -14696,13 +14692,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-thermal-mechanical-field-app-engineer-at-foxconn-e-bg-group-4348243128",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mechanical engineering role focused on thermal packaging, not a semiconductor/EDA/VLSI position.",
+    "reason": "The job focuses on thermal and mechanical field application engineering, which is outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "2c5db8da",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2025-12-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer, Compression Cycle Design, Energy Products",
@@ -14711,13 +14706,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-compression-cycle-design-energy-products-at-tesla-4418902686",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for a thermal engineer focused on compression cycle design in energy products at Tesla, which does not closely match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The job focuses on thermal engineering for compression cycles, which is outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "4bfeff1c",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Nuclear Thermal-Hydraulics Engineer",
@@ -14726,28 +14720,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=77f6efafd16dd366",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for non-technical nuclear engineering, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job focuses on nuclear thermal-hydraulics, which is outside of Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "72c787a5",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Nuclear Thermal-Hydraulics Engineer salaries in El Segundo, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "El Segundo, CA, USA",
     "url": "https://www.indeed.com/career/hydraulic-engineer/salaries/El-Segundo--CA?campaignid=serp-more&fromjk=77f6efafd16dd366&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is for a hydraulic engineer role, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job title and description do not contain relevant keywords like PDN, Redhawk, Power Integrity, or Voltus, indicating it is not a power integrity role.",
     "id": "dd439fa6",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Account Manager \u2013 Thermal Solutions",
@@ -14756,13 +14748,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=95b103ff53ed5931",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Account Manager in a business development/customer-facing position, not technical engineering/EDA roles that Vineeth's background aligns with.",
+    "reason": "The role is an Account Manager focused on sales and customer relationship management, which falls outside Vineeth's technical expertise in power integrity and advanced packaging.",
     "id": "0a9624c3",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Account Manager \u2013 Thermal Solutions salaries in Fremont, CA",
@@ -14771,13 +14762,12 @@
     "url": "https://www.indeed.com/career/account-manager/salaries/Fremont--CA?campaignid=serp-more&fromjk=95b103ff53ed5931&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is based in Fremont, CA, USA, which does not match Vineeth's preferred locations of Finland, Europe (outside Finland), UK, India, or Asia. Additionally, it does not mention the specific technical domains that Vineeth specializes in like Power Integrity, Advanced Packaging, CAD Methodology.",
+    "reason": "The role is an Account Manager for Thermal Solutions, which falls outside Vineeth's target domains of Power Integrity, Advanced Packaging, CAD Methodology, or Physical Design.",
     "id": "be5ac5da",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. FEA Engineer (Thermal and Structural)",
@@ -14786,28 +14776,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=94b4e8a526abb366",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on thermal and structural FEA rather than semiconductor, VLSI, EDA domains that Vineeth specializes in.",
+    "reason": "The job focuses on FEA (Thermal and Structural) which is outside Vineeth's core expertise in Power Integrity, PDN sign-off, and related areas.",
     "id": "1947c68f",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. FEA Engineer (Thermal and Structural) salaries in Irvine, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Irvine, CA, USA",
     "url": "https://www.indeed.com/career/senior-structural-engineer/salaries/Irvine--CA?campaignid=serp-more&fromjk=94b4e8a526abb366&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on Structural Engineering, not Power Integrity (PI) or Advanced Packaging which are key areas of expertise for Vineeth.",
+    "reason": "The job focuses on structural FEA and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related domains.",
     "id": "55ebc7e8",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Engineer / Senior Manager \u2013 SoC / Chip Lead",
@@ -14816,13 +14804,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-principal-engineer-senior-manager-%E2%80%93-soc-chip-lead-at-renesas-electronics-4444879995",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Senior Leadership position (Senior Principal Engineer / Senior Manager) with 20+ years of experience required, which matches Vineeth's profile and background in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
+    "reason": "The role aligns with Vineeth's experience as a Technical Leader in Power Integrity and Advanced Packaging, requiring SoC leadership within an established semiconductor company.",
     "id": "e142ff13",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/renesas_electronics_senior_principal_engineer___se_e142ff13.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/renesas_electronics_senior_principal_engineer___se_e142ff13.txt"
   },
   {
     "title": "Experte Wafertest Engineering (w/m/div)",
@@ -14831,13 +14818,12 @@
     "url": "https://de.linkedin.com/jobs/view/experte-wafertest-engineering-w-m-div-at-bosch-4439435403",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on wafer test engineering, which falls outside Vineeth's main domain of expertise in Power Integrity (PI), Advanced Packaging, and CAD/Methodology.",
+    "reason": "The job focuses on wafer testing and characterization, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "99309cba",
     "source": "linkedin_eu_semiconductor_principal_engineer",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chip Architect \u2192 Solutions Architect",
@@ -14845,14 +14831,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/chip-architect-%E2%86%92-solutions-architect-at-capgemini-4445917899",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on architecture and design of SoCs rather than technical leadership or deep expertise in semiconductor manufacturing, packaging, power integrity etc. which are Vineeth's core areas.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Technical Leader in SoC architecture and delivers multiple SoCs, focusing on interconnect protocols and performance optimization within an Indian location.",
     "id": "849f2335",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-27",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/capgemini_chip_architect___solutions_arc_849f2335.txt"
   },
   {
     "title": "Senior System Engineer, System Architect (m/f/d)",
