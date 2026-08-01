@@ -33885,14 +33885,13 @@
     "location": "Seongnam",
     "url": "https://careers.mediatek.com/en/jobs/MKR120260724001",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a sales and marketing role, not technical like VLSI/EDA/semiconductor engineering.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "008fe34f",
     "source": "mediatek_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer Design EnablementSGPosted a day ago",
@@ -33901,13 +33900,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770433628",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Test Engineer position, which focuses on testing and characterization of silicon photonic devices rather than Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD/Methodology or Physical Design.",
+    "reason": "The role is focused on test engineering for silicon photonic devices, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "93561920",
     "source": "globalfoundries_careers",
     "posted_date": "a day ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer Design EnablementSGPosted a day ago",
@@ -33915,14 +33913,13 @@
     "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770433630",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Engineering position focused on testing of semiconductor devices, fitting Vineeth's background in Power Integrity & Advanced Packaging. It is located in Singapore.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on testing silicon photonic devices, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "fa46449f",
     "source": "globalfoundries_careers",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/globalfoundries_engineer_design_enablementsgpo_fa46449f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer IC Design 4",
@@ -33931,13 +33928,12 @@
     "url": "https://www.linkedin.com/jobs/view/r-d-engineer-ic-design-4-at-broadcom-4445791663",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC design and implementation, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on RTL design and verification, which falls outside of Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "e7ca1217",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer - Automotive",
@@ -33946,13 +33942,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-automotive-at-analog-devices-4443625110",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily digital design for SerDes IPs rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job focuses on digital design for SerDes, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "16016346",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer Technical Lead",
@@ -33961,13 +33956,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-engineer-technical-lead-at-cisco-4446323488",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a technical engineering role at a semiconductor company, but does not specifically match Vineeth's PI/SI and CAD domains. It also requires Verilog/System Verilog programming experience which is outside Vineeth's focus.",
+    "reason": "The role is an ASIC Design Engineer Technical Lead, which focuses on RTL design and verification rather than power integrity or advanced packaging, falling outside Vineeth's domain.",
     "id": "70acf596",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "2026-09-01",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mixed-Signal Design Engineer",
@@ -33976,13 +33970,12 @@
     "url": "https://ie.linkedin.com/jobs/view/mixed-signal-design-engineer-at-analog-devices-4443608905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role involves mixed-signal design, which is outside Vineeth's primary domain of power integrity and advanced packaging.",
+    "reason": "The role is for a Mixed-Signal Design Engineer, which falls outside Vineeth's focus on Power Integrity and Advanced Packaging, despite being in a relevant semiconductor domain.",
     "id": "f0aad22b",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Digital Design Engineering",
@@ -33990,14 +33983,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/senior-engineer-digital-design-engineering-at-analog-devices-4443618731",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Senior Digital Design Engineer, which is a verification domain and outside Vineeth's primary area of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD / Methodology.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on digital design and FPGA prototyping, aligning with some aspects of Vineeth's experience but not exclusively power integrity or advanced packaging.",
     "id": "342d5124",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "System FPGA Engineer",
@@ -34006,13 +33998,12 @@
     "url": "https://www.linkedin.com/jobs/view/system-fpga-engineer-at-qualcomm-4441736213",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on FPGA implementation, verification and system integration rather than Power Integrity / Advanced Packaging / CAD Methodology.",
+    "reason": "The role is focused on FPGA implementation and verification, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "2fdd0993",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -34021,13 +34012,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-aspen-consulting-group-inc-4446371930",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The role focuses on FPGA development and SDR solutions, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "ac91d013",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -34036,13 +34026,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-saxon-global-4443297693",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, System Verilog/UVM) which is outside Vineeth's domain. It does NOT match the Power Integrity/Signal Integrity or Advanced Packaging technical areas.",
+    "reason": "The role focuses on FPGA verification and hardware design, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "48db169e",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Hardware Engineer",
@@ -34051,13 +34040,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-hardware-engineer-at-cisco-4439509906",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an FPGA Hardware Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on FPGA hardware engineering and does not contain keywords related to Power Integrity, PDN, Redhawk, Voltus, or other relevant EDA tools for power analysis.",
     "id": "b98c5dad",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-15",
-    "deadline": "08/31/2026",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-31",
+    "description_file": null
   },
   {
     "title": "Engineer",
@@ -34066,13 +34054,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-at-arm-4445791599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for FPGA engineering, which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
+    "reason": "The job focuses on FPGA engineering, which is outside Vineeth's core expertise in power integrity and advanced packaging.",
     "id": "0a383a11",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer (FPGA)",
@@ -34081,13 +34068,12 @@
     "url": "https://in.linkedin.com/jobs/view/electrical-engineer-fpga-at-applied-materials-india-4443296840",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electrical Engineer (FPGA) role which does not match Vineeth's domain of Power Integrity, Advanced Packaging and EDA tool expertise.",
+    "reason": "The role focuses on FPGA design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "7131d282",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Digital design engineering",
@@ -34096,13 +34082,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-digital-design-engineering-at-analog-devices-4422282436",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software/firmware development (embedded C, GCC ARM toolchain) which is outside Vineeth's domain.",
+    "reason": "The role is focused on FPGA prototyping and ASIC-to-FPGA porting, which falls outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
     "id": "d4147569",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Systems Development Engineer",
