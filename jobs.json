@@ -31715,14 +31715,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/principal-engineer-component-engineering-at-analog-devices-4443606967",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Senior leadership role with 12+ years experience in reliability engineering, strategic organizational impact.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on product reliability and electronic design, which falls outside Vineeth's core expertise in PDN sign-off and advanced packaging.",
     "id": "142cf023",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_principal_engineer__component__142cf023.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Engineer",
@@ -31731,13 +31730,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-at-qualcomm-4445757830",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role requires 15+ years of Hardware Engineering or related work experience, which slightly exceeds the 8-10 years specified. However, it is a Principal Engineer position.",
+    "reason": "The role aligns with Vineeth's experience level and involves hardware engineering, but lacks explicit mention of PDN, RedHawk, Voltus, or other key power integrity tools, making it a possible but not definite match.",
     "id": "79122001",
     "source": "linkedin_india_semiconductor_technical_leader",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Reliability Engineer - Principal / SPE",
@@ -31746,13 +31744,12 @@
     "url": "https://www.linkedin.com/jobs/view/reliability-engineer-principal-spe-at-macom-4399222343",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on optoelectronic device reliability, which does not directly match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job focuses on optoelectronic device reliability, which is outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "b62f1201",
     "source": "linkedin_ww_semiconductor_principal_engineer_p3",
     "posted_date": "2026-07-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect, Networking - IDC",
@@ -31761,13 +31758,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-networking-idc-at-oracle-4442314399",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position, not focused on semiconductor/VLSI/EDA technologies.",
+    "reason": "The job description focuses on software engineering and networking roles, lacking the required Power Integrity, Advanced Packaging, or related EDA tool expertise.",
     "id": "acb233ac",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -31776,13 +31772,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-larsen-toubro-4375675252",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a structural steel design role, which does not match Vineeth's semiconductor/VLSI/EDA background and skills.",
+    "reason": "This role is for a structural engineer specializing in steel design, which falls outside of Vineeth's expertise in power integrity and advanced packaging.",
     "id": "8819f832",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -31791,13 +31786,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-birlasoft-4442674063",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Oracle OTM/GTM cloud architect and is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job focuses on Oracle OTM/GTM cloud solutions and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "2e8a65f8",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -31806,13 +31800,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-persistent-systems-4435667729",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (Java, Spring Boot, React) rather than semiconductor/VLSI/EDA.",
+    "reason": "The job description focuses on enterprise architecture and Java development, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "50a43514",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -31821,13 +31814,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-deloitte-4435045709",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (MuleSoft, J2EE, Spring) and AI/ML which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The job focuses on MuleSoft architecture and integration, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "4dceb6d2",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "INGEGNERI/ARCHITETTI PER COSTRUZIONI CIVILI/INDUSTRIALI",
@@ -31836,13 +31828,12 @@
     "url": "https://it.linkedin.com/jobs/view/ingegneri-architetti-per-costruzioni-civili-industriali-at-okatim-italia-4327264367",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Ingegnere/Architetti per Costruzioni Civili/Industriali and does not match Vineeth's background in VLSI, EDA, Semiconductor industry.",
+    "reason": "The job is for a civil/industrial construction engineer, unrelated to semiconductor/VLSI/EDA domains like power integrity or advanced packaging.",
     "id": "a56ccf4a",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "End to End Architect",
@@ -31851,13 +31842,12 @@
     "url": "https://uk.linkedin.com/jobs/view/end-to-end-architect-at-world-wide-technology-4445718556",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical IT leadership/architecture role, outside Vineeth's semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The job focuses on general AI infrastructure architecture rather than power integrity, advanced packaging, or related VLSI domains.",
     "id": "a25c848f",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HPC Specialist Architect - Energy Industry",
@@ -31866,13 +31856,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hpc-specialist-architect-energy-industry-at-amazon-web-services-aws-4443030619",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an HPC Specialist Architect role focused on AWS cloud services, which is outside Vineeth's domain of semiconductor/VLSI/EDA. It does not involve Power Integrity (PI), Advanced Packaging, or EDA tools.",
+    "reason": "The job focuses on HPC solutions for the energy industry and does not align with Vineeth's expertise in power integrity, advanced packaging, or related VLSI domains.",
     "id": "11df0953",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Designer (\u00a3110k-\u00a3130k) at Faculty",
@@ -31881,13 +31870,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-designer-%C2%A3110k-%C2%A3130k-at-faculty-at-jack-jill-4445767564",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product design role focused on AI-powered products and human-centric design, well outside Vineeth's VLSI/EDA background.",
+    "reason": "The role is a Principal Designer focused on product and service design, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "7cc5a01a",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HR Project Manager, Strategic Projects",
@@ -31896,13 +31884,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88807?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an HR position which focuses on driving strategic initiatives and M&A integrations, rather than a technical engineering/leadership role in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Human Resources Project Manager, which falls outside Vineeth's technical domains and expertise.",
     "id": "766a98eb",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ML Systems Research Engineer, RL / Inference / Agent Systems",
@@ -31911,13 +31898,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88874?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an ML research engineer role focusing on building ML systems, RL infrastructure and inference services - it's not in Power Integrity/SI/EDA/VLSI/SoC design domains.",
+    "reason": "The role focuses on ML systems research and RL/inference, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "bfca34c2",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Software Systems Engineer \u2013 AI & Automation",
@@ -31926,13 +31912,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88746?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This software engineering role is focused on AI/automation tools and Python development, which does not match Vineeth's power integrity and packaging background.",
+    "reason": "The role is primarily for a Software Systems Engineer focused on AI and automation, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "7887e401",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Verification Engineer",
