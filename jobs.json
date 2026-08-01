@@ -27124,13 +27124,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineering-project-manager-at-spectrum-control-4426854809",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is manufacturing engineering focused on microelectronics assembly rather than semiconductor design, VLSI/EDA tools, power integrity, packaging, or CAD methodology.",
+    "reason": "The role is an Engineering Project Manager, which falls outside Vineeth's focus on power integrity, advanced packaging, and related areas.",
     "id": "71136a04",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Silicon Design Engineer",
@@ -27139,13 +27138,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-silicon-design-engineer-at-microsoft-4446183745",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
+    "reason": "The job focuses on silicon design and RTL development for AI SoCs, which is outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "cc7473ce",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Lead I - VLSI",
@@ -27154,13 +27152,12 @@
     "url": "https://in.linkedin.com/jobs/view/project-lead-i-vlsi-at-ust-4399525863",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL design, verification and ARM/CPU implementation on FPGA families, which is outside Vineeth's domain of power integrity, advanced packaging, SoC PDN sign-off.",
+    "reason": "The role is focused on RTL design and FPGA development, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "a64d8a4c",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -27169,13 +27166,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-at-oxford-quantum-circuits-oqc-4446312513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development (firmware engineer) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on FPGA development using Verilog/VHDL, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "55d73a1c",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Emulation Engineer",
@@ -27184,13 +27180,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga-emulation-engineer-at-leadsoc-technologies-pvt-ltd-4445715566",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is FPGA Emulation and Prototyping focused, which falls outside Vineeth's primary areas of Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on FPGA emulation, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "b69c71b2",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior FPGA Engineer",
@@ -27199,13 +27194,12 @@
     "url": "https://nl.linkedin.com/jobs/view/junior-fpga-engineer-at-sentyron-4425798511",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for FPGA design in a secure hardware company, outside Vineeth's domain of expertise which is Power Integrity and SoC packaging.",
+    "reason": "The role is a Junior FPGA Engineer, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "cb22d1de",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer, Solutions Engineering, Lystrup",
@@ -27214,13 +27208,12 @@
     "url": "https://dk.linkedin.com/jobs/view/fpga-engineer-solutions-engineering-lystrup-at-terma-group-4445491858",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires FPGA experience for space applications, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on FPGA design and VHDL development for space applications, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "c84ae41e",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer",
@@ -27229,13 +27222,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-oxford-quantum-circuits-oqc-4446198891",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily FPGA design for quantum computing applications, which is outside Vineeth's main areas of Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role focuses on FPGA design and verification, which is outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "fa3100c5",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Engineer",
@@ -27244,13 +27236,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-engineer-at-verex-engineering-llc-4443615039",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded/firmware), which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The role is explicitly for an RTL Engineer, which falls under verification and software development, outside of Vineeth's domain of expertise.",
     "id": "2fbd6888",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer",
@@ -27259,13 +27250,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-rtl-design-engineer-at-oho-group-4445167577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an RTL design role focused on AI accelerator technology, which is outside Vineeth's PI/Advanced Packaging/CAD domains.",
+    "reason": "The role is primarily focused on RTL design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "956ed2cb",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PD Methodology Engineer II, Annapurna Labs",
@@ -27274,13 +27264,12 @@
     "url": "https://www.linkedin.com/jobs/view/pd-methodology-engineer-ii-annapurna-labs-at-amazon-web-services-aws-4443272753",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (cloud infrastructure support) and not VLSI/EDA.",
+    "reason": "The role focuses on ASIC physical design methodology and RTL2GDS flows, but lacks a strong emphasis on Power Integrity (PI) or Advanced Packaging, which are core to Vineeth's expertise.",
     "id": "0a92722b",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PD Methodology Engineer II, Annapurna Labs",
@@ -27289,13 +27278,12 @@
     "url": "https://www.linkedin.com/jobs/view/pd-methodology-engineer-ii-annapurna-labs-at-amazon-web-services-aws-4443281389",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (machine learning applications) and does not directly match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off or Thermal Analysis.",
+    "reason": "The role focuses on physical design methodology and CAD flows, which is related to but not a primary focus of Vineeth's Power Integrity expertise.",
     "id": "950cca28",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Algorithm Developer - EDA Synthesis Tools",
@@ -27304,13 +27292,12 @@
     "url": "https://de.linkedin.com/jobs/view/algorithm-developer-eda-synthesis-tools-at-ic-resources-4446312217",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (C++, algorithms) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on algorithm development for synthesis tools using C++ and doesn't align with Vineeth's power integrity, advanced packaging, or EDA tool expertise.",
     "id": "09588626",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced CAD Automation Engineer (Design Verification)",
@@ -27319,13 +27306,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-cad-automation-engineer-design-verification-at-apple-4414172049",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) which falls outside Vineeth's domain.",
+    "reason": "The role is primarily focused on design verification, which falls outside Vineeth's domain of expertise.",
     "id": "cc853c05",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-05-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer - CI/CD",
@@ -27334,13 +27320,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=6fb1530ff5995c12",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job title contains 'Software Development Engineer - CI/CD', which indicates a software development role, falling outside Vineeth's domain of expertise.",
     "id": "05fb57fc",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer - CI/CD salaries in Austin, TX",
