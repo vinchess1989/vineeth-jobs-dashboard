@@ -4822,13 +4822,12 @@
     "url": "https://uk.linkedin.com/jobs/view/communications-data-investigator-spoc-at-cambridgeshire-constabulary-4445621357",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in law enforcement, well outside Vineeth's semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role is focused on communications data investigation within a law enforcement context, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related EDA tools.",
     "id": "e7ea337a",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer - Energy Efficiency",
@@ -4837,13 +4836,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-engineer-energy-efficiency-at-kla-4422723116",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Electrical Engineer focused on energy efficiency, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on energy efficiency for semiconductor manufacturing tools, which falls outside Vineeth's expertise in PDN sign-off and advanced packaging.",
     "id": "bdc14611",
     "source": "linkedin_uk_system_power_integrity",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior electrical engineer, energy distribution",
@@ -4852,13 +4850,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-electrical-engineer-energy-distribution-at-insta-4444832672",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an electrical engineering role focused on power distribution, not semiconductor VLSI/EDA",
+    "reason": "The job focuses on electrical distribution for industrial applications, which is outside Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "0cf9b978",
     "source": "linkedin_fi_system_power_integrity",
     "posted_date": "2026-07-26",
     "deadline": "2026-08-24",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer",
@@ -4866,14 +4863,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/principal-physical-design-engineer-at-encharge-ai-4445625190",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a Principal Physical Design Engineer position at an AI hardware startup, which aligns with Vineeth's background in Power Integrity and advanced packaging for SoC design.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience and targets Physical Design, a relevant domain, within a semiconductor startup, and requires expertise in Cadence tools.",
     "id": "1166d53a",
     "source": "linkedin_india_semiconductor_principal_engineer_p2",
     "posted_date": "2026-07-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/encharge_ai_principal_physical_design_engi_1166d53a.txt"
   },
   {
     "title": "Product Design Analysis Technical Manager",
@@ -4882,13 +4878,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22628&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a general Product Design Analysis Manager, does not match Vineeth's deep technical expertise in Power Integrity, CAD Methodology, Physical Design, or EDA Tools.",
+    "reason": "The role focuses on layout analysis and circuit debugging, which falls outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "60c52d90",
     "source": "tsmc_careers",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC/SoC Design & Verification Engineer (Train AI Models Part Time!)",
@@ -4897,13 +4892,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-soc-design-verification-engineer-train-ai-models-part-time%21-at-hackajob-4436036267",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily software development focused on training AI models, which is outside Vineeth's domain of semiconductor, VLSI, and EDA.",
+    "reason": "The role focuses on AI model training and data annotation, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and related VLSI areas.",
     "id": "9b923c43",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Internship 2025",
@@ -4912,13 +4906,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineering-internship-2025-at-topgrad-uk-4444837638",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship, which does not match Vineeth's senior-level experience.",
+    "reason": "This is an internship for students, which falls outside Vineeth's experience level and target role type.",
     "id": "a104cf03",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior FPGA Engineer II",
@@ -4927,13 +4920,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-ii-at-rocket-lab-4433715179",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on FPGA hardware design for aerospace applications, which does not closely match Vineeth's background in power integrity, advanced packaging, and SoC PDN sign-off.",
+    "reason": "The role is focused on FPGA development with VHDL and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "2a20ec5d",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Trainee Design Engineer",
@@ -4942,13 +4934,12 @@
     "url": "https://uk.linkedin.com/jobs/view/trainee-design-engineer-at-a-f-sprinklers-ltd-4444749471",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role focused on design engineering and does not match Vineeth's semiconductor/VLSI/EDA domain expertise.",
+    "reason": "This is a trainee role for a sprinkler systems company and does not align with Vineeth's experience in Power Integrity, Advanced Packaging, or VLSI/SoC design.",
     "id": "5ce6c82f",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Design Engineer",
@@ -4957,13 +4948,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-design-engineer-at-timely-recruit-ltd-4442592271",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Lead Design Engineer specializing in electrical networks, which does not directly match Vineeth's power integrity and advanced packaging focus.",
+    "reason": "The role focuses on electricity network design and doesn't align with Vineeth's power integrity, advanced packaging, or VLSI expertise.",
     "id": "abd680ca",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ICT Design Engineer",
@@ -4972,13 +4962,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ict-design-engineer-at-clear-4439838237",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ICT infrastructure design for data centers, not semiconductor VLSI/EDA. The domains mentioned align with networking and construction, not chip design.",
+    "reason": "The role focuses on ICT design for data centres and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "3d1d28d0",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -4987,13 +4976,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-belcan-4443148937",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on marine structural, electrical, and outfit design using FORAN software, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis.",
+    "reason": "The role is a Detail Design Engineer focused on marine structures and systems using FORAN, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "d425ec01",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff RTL/Digital Design Engineer - (CPU Team) - Visas Transfers Supported",
@@ -5002,13 +4990,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-rtl-digital-design-engineer-cpu-team-visas-transfers-supported-at-european-tech-recruit-4444992234",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on CPU RTL design and verification rather than Power Integrity, advanced packaging, or EDA tools.",
+    "reason": "The role is primarily focused on RTL design for a CPU team, which falls outside of Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "73eb073b",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design & Development Engineer \u2013 Graduate Role",
@@ -5017,13 +5004,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-development-engineer-%E2%80%93-graduate-role-at-holroyd-components-ltd-4438816380",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry level design engineer role, not a VLSI/EDA technical leadership position.",
+    "reason": "This is a graduate-level role requiring a degree in mechanical engineering, which doesn't align with Vineeth's extensive experience and focus on power integrity and advanced packaging.",
     "id": "33755a93",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "BIM Design Engineer",
@@ -5032,13 +5018,12 @@
     "url": "https://uk.linkedin.com/jobs/view/bim-design-engineer-at-marioff-4442290821",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a BIM Design Engineer focused on fire suppression systems, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on BIM design for fire suppression systems, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "c2dca674",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CE&I Senior Design Engineer",
