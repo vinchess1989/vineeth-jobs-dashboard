@@ -896,6 +896,30 @@ def get_file_hash(filepath):
     with open(filepath, 'rb') as f:
         return hashlib.md5(f.read()).hexdigest()
 
+def get_active_llm_model(endpoint):
+    """Ask LM Studio (via `lms ps`) which chat model is actually loaded right now.
+    NOTE: the OpenAI-compatible /v1/models HTTP endpoint is NOT usable for this - it
+    lists every downloaded model eligible for LM Studio's just-in-time loading, not
+    just what's currently resident in memory, so picking the first entry from it is
+    not reliable active-model detection. `lms ps` only ever lists genuinely loaded
+    models, so it's the only trustworthy source here.
+    Falls back to the LOCAL_LLM_MODEL env var if lms.exe isn't reachable or nothing is
+    loaded, so a manual model switch in the LM Studio GUI (or via /set_local_llm)
+    takes effect immediately without needing the env var kept in sync - a stale
+    hardcoded model name here is what causes LM Studio to silently swap in a
+    different model mid-request via its just-in-time loading."""
+    try:
+        lms_exe = os.path.join(os.environ.get("USERPROFILE", ""), ".lmstudio", "bin", "lms.exe")
+        result = subprocess.run([lms_exe, "ps", "--json"], capture_output=True, text=True, timeout=10)
+        if result.returncode == 0 and result.stdout.strip():
+            models = json.loads(result.stdout)
+            chat_models = [m["identifier"] for m in models if m.get("type") == "llm"]
+            if chat_models:
+                return chat_models[0]
+    except Exception:
+        pass
+    return os.environ.get("LOCAL_LLM_MODEL")
+
 
 def check_requirements_update():
     """Check if job_requirements.md has changed, and flag jobs for re-evaluation if it has."""
@@ -1232,7 +1256,7 @@ def extract_company_from_text(text, job_title):
 def analyze_scrape_run_log(lines: list[str]):
     """Send lines captured during a full scrape cycle to the LLM and print a health report."""
     llm_endpoint = os.environ.get("LOCAL_LLM_ENDPOINT")
-    llm_model = os.environ.get("LOCAL_LLM_MODEL")
+    llm_model = get_active_llm_model(llm_endpoint)
     if not llm_endpoint or not llm_model:
         return
 
@@ -1298,7 +1322,7 @@ def review_pending_jobs(specific_urls=None):
         return
 
     llm_endpoint = os.environ.get("LOCAL_LLM_ENDPOINT")
-    llm_model = os.environ.get("LOCAL_LLM_MODEL")
+    llm_model = get_active_llm_model(llm_endpoint)
 
     if not llm_endpoint or not llm_model:
         print("ERROR: LOCAL_LLM_ENDPOINT and LOCAL_LLM_MODEL environment variables must be set to use a local LLM. Skipping review.")
