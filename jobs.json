@@ -1266,13 +1266,12 @@
     "url": "https://nl.linkedin.com/jobs/view/junior-hardware-engineer-at-duoflex-bouwondersteuning-b-v-4443575031",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Junior Hardware Engineer, which does not match the technical background of Vineeth Prathapachandra Kaimal.",
+    "reason": "The job is for a Junior Hardware Engineer with a focus on electrical installations and AutoCAD/EPLAN, which does not align with Vineeth's Power Integrity/Advanced Packaging expertise.",
     "id": "1cd28024",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-22",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-07-31",
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur \u00c9tudes Hardware F/H",
@@ -1281,13 +1280,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-%C3%A9tudes-hardware-f-h-at-microtec-4434884978",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Hardware Studies Engineer, which does not match Vineeth's key skills in Power Integrity (PI), Advanced Packaging, and CAD Methodology.",
+    "reason": "The job description focuses on hardware design and lacks mentions of PDN, RedHawk, Voltus, or other target keywords; thus it does not align with Vineeth's Power Integrity expertise.",
     "id": "5571ded9",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur FPGA F/H",
@@ -1296,13 +1294,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-fpga-f-h-at-weeneo-consulting-4440297650",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role involves FPGA design and development, which is a match to Vineeth's background in Power Integrity and Advanced Packaging. However, it does not specifically mention his key skills like ANSYS RedHawk, CAD methodologies or tool integrations.",
+    "reason": "The role focuses on FPGA development using VHDL/Verilog, which is outside Vineeth's core expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "4c5719c2",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -1311,13 +1308,12 @@
     "url": "https://nl.linkedin.com/jobs/view/design-verification-engineer-at-ic-resources-4435534841",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development), which is outside Vineeth's domain.",
+    "reason": "The role is focused on design verification, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "228f9170",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ingeniero de Hardware Assurance",
@@ -1326,13 +1322,12 @@
     "url": "https://es.linkedin.com/jobs/view/ingeniero-de-hardware-assurance-at-capgemini-4443350581",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role involves general hardware engineering and design rather than specific skills like power integrity, advanced packaging, or EDA which Vineeth specializes in.",
+    "reason": "The job description focuses on general hardware assurance and lacks specific mentions of Power Integrity, Advanced Packaging, RedHawk, Voltus, or related keywords required for a match.",
     "id": "a1e4fe84",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Lead",
@@ -1340,14 +1335,13 @@
     "location": "Barcelona, Catalonia, Spain",
     "url": "https://es.linkedin.com/jobs/view/physical-design-lead-at-ic-resources-4437431201",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a physical design lead role but does not fit Vineeth's areas of Power Integrity, Advanced Packaging, or CAD Methodology where he has 15+ years of experience.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Physical Design Lead, aligns with Vineeth's experience and leadership profile, and the description covers key PD flow areas.",
     "id": "036ae2cd",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/ic_resources_physical_design_lead_036ae2cd.txt"
   },
   {
     "title": "Application Specific Integrated Circuit Verification Engineer",
@@ -1356,13 +1350,12 @@
     "url": "https://www.linkedin.com/jobs/view/application-specific-integrated-circuit-verification-engineer-at-empiric-4443943030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an ASIC verification role, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is specifically for a Verification Engineer, which falls outside Vineeth's domain of expertise.",
     "id": "4507a3bc",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Ingenieur (m/w/d) - Embedded Systems",
@@ -1371,13 +1364,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-ingenieur-m-w-d-embedded-systems-at-lutz-pumpen-gmbh-4440461171",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Embedded Systems Hardware Engineer at a pump manufacturing company, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "reason": "The job focuses on embedded systems hardware development and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "5c260e31",
     "source": "linkedin_eu_vlsi_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork",
@@ -1386,13 +1378,12 @@
     "url": "https://ie.linkedin.com/jobs/view/fy27-intern-cpu-engineering-internship-2027-6-months-cork-at-qualcomm-4431838563",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on general CPU engineering internships, which does not match Vineeth's specific domain expertise in Power Integrity and Advanced Packaging.",
+    "reason": "This is an internship role targeting students, which falls outside Vineeth's experience level and target roles.",
     "id": "98b1c4a7",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verification Team Lead",
@@ -1401,13 +1392,12 @@
     "url": "https://es.linkedin.com/jobs/view/verification-team-lead-at-techteamz-4434552148",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (leading verification teams) which is outside Vineeth's domain.",
+    "reason": "The role is focused on verification (UVM, SystemVerilog) which falls outside Vineeth's area of expertise.",
     "id": "8bac3e8c",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer (Hybrid)",
@@ -1416,13 +1406,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-engineer-hybrid-at-attis-4437795942",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is hybrid (60% onsite/40% remote), which does not fit the fully remote requirement.",
+    "reason": "The job description lacks keywords related to power integrity, PDN sign-off, RedHawk, Voltus, and focuses on hardware engineering with a security clearance requirement for German/EU/NATO citizenship.",
     "id": "2e69468d",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-12",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Hardware Engineer Internship",
@@ -1431,13 +1420,12 @@
     "url": "https://es.linkedin.com/jobs/view/hardware-engineer-internship-at-valeo-4434722786",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship for hardware engineering at a non-semi/VLSI/EDA company in Spain.",
+    "reason": "This is an internship for a student, significantly below Vineeth's experience level and domain.",
     "id": "7d1ae719",
     "source": "linkedin_eu_vlsi_design_p2",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Digital Engineer",
@@ -1446,13 +1434,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-digital-engineer-at-targetjobs-uk-4443867821",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on digital design and RTL coding, whereas the candidate Vineeth has experience in Power Integrity and Advanced Packaging domains.",
+    "reason": "The role is a Graduate Digital Engineer focusing on RTL coding and verification, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "f01fda66",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -1461,13 +1448,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-ic-resources-4444458415",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on Design Verification for security features, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role is specifically for a Design Verification Engineer, focusing on RTL verification with UVM, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "97369b5f",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -1476,13 +1462,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-cathcart-technology-4431077827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software-focused with embedded systems, which does not match Vineeth's VLSI/EDA/semiconductor background.",
+    "reason": "The role is a general Hardware Engineer position focused on PCB design and microcontroller development, which doesn't align with Vineeth's Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "5542b89d",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-05",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
