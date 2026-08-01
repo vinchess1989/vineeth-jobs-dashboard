@@ -33270,13 +33270,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-expert-at-sap-4445775848",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a product management role focused on software development, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Product Expert, which falls under product management and not within Vineeth's technical domains of power integrity, advanced packaging, or EDA.",
     "id": "665a11c2",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "C.D.C.V.",
@@ -33285,13 +33284,12 @@
     "url": "https://es.linkedin.com/jobs/view/c-d-c-v-at-personal-vet-4445792286",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level, full-time position that does not match the senior leadership and 10-15+ years experience criteria for Vineeth.",
+    "reason": "The job is for a driver position, which falls completely outside of Vineeth's expertise in power integrity and advanced packaging.",
     "id": "3d95492f",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Compliance Advisor",
@@ -33300,13 +33298,12 @@
     "url": "https://uk.linkedin.com/jobs/view/compliance-advisor-at-fidelity-investments-4438800535",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This compliance role is for a financial services firm, and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "This role is a compliance advisor, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "ee581b56",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "On/Off-Chip SI/PI Engineer",
@@ -33315,13 +33312,12 @@
     "url": "https://www.linkedin.com/jobs/view/on-off-chip-si-pi-engineer-at-sk-hynix-america-4443645194",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role requires 3+ years of experience, which is below Vineeth's 15 years and isn't a senior leadership position.",
     "id": "6e97827c",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Hardware Engineer, DC/DC Power",
@@ -33330,13 +33326,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-hardware-engineer-dc-dc-power-at-microsoft-4446527066",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which falls outside Vineeth's domain expertise.",
+    "reason": "The job focuses on DC-DC power systems which is related but doesn't directly align with Vineeth's Power Integrity and Advanced Packaging expertise, and it's a US-based role without visa sponsorship.",
     "id": "bf085ac8",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Staff, Thermal Architect",
@@ -33345,13 +33340,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-staff-thermal-architect-at-dell-technologies-4445788551",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software-focused on AI infrastructure rather than semiconductor/VLSI/EDA technical domains.",
+    "reason": "The role is focused on data center thermal architecture and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or SoC PDN sign-off.",
     "id": "6486b8cd",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Mainframe DevOps Architect",
@@ -33360,13 +33354,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Mainframe-DevOps-Architect_R026624-1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (DevOps) and does not fit Vineeth's VLSI/EDA background.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or VLSI role.",
     "id": "9cbc0e76",
     "source": "broadcom_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory Circuit Design Engineer-MN Rochester",
@@ -33375,13 +33368,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-MN-Rochester/Memory-Circuit-Design-Engineer-MN-Rochester_R026644",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (e.g. 'Write automation scripts, and are tools savvy') which is outside Vineeth's domain.",
+    "reason": "The job focuses on memory circuit design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "dd3368e4",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ESD & CAD Design Manager",
@@ -33390,13 +33382,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-AZ-Chandler-North-Juniper-Drive/ESD---CAD-Design-Manager_R026688",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on CAD flow development, design automation and IP releases, which falls more into VLSI/SoC physical design rather than Power Integrity & Advanced Packaging. Also, it's a management position with no specific mention of PI/SI or packaging.",
+    "reason": "The job is based in the USA and requires US residency, violating the hard rejection criteria for location.",
     "id": "cf7aa3e1",
     "source": "broadcom_careers",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Development Lead",
@@ -33405,13 +33396,12 @@
     "url": "https://builtin.com/job/business-development-lead/9053897",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (sales, business development) which does not directly match Vineeth's technical VLSI/EDA background.",
+    "reason": "The role is a Business Development Lead, which falls outside Vineeth's expertise in technical domains like power integrity and advanced packaging.",
     "id": "87771b70",
     "source": "builtin_semi",
-    "posted_date": "an hour ago",
+    "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technology Transactions Attorney \u2013 Semiconductor Industry",
@@ -33420,13 +33410,12 @@
     "url": "https://builtin.com/job/senior-technology-transactions-attorney-semiconductor-industry/8871855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a legal position supporting technology transactions for the semiconductor industry, which is outside Vineeth's technical domain of power integrity, advanced packaging and EDA tools.",
+    "reason": "This is a legal role requiring expertise in technology transactions, which falls outside Vineeth's domain of focus on Power Integrity and Advanced Packaging.",
     "id": "206706e3",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -33435,13 +33424,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-verification-engineer-at-ic-resources-4444456793",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Verification Engineer role which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job is for a Design Verification Engineer focused on UVM and RTL verification, which falls under the verification domain Vineeth does not specialize in.",
     "id": "b6271df6",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -33450,13 +33438,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-verification-engineer-at-ic-resources-4444464385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is focused on design verification, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "66e2a48b",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -33464,14 +33451,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineer-at-nvidia-4445779733",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role matches mid-senior level physical design experience and is at a semiconductor company.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on physical design, which falls outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "9c958740",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Spacecraft Electronics Engineer",
@@ -33480,13 +33466,12 @@
     "url": "https://de.linkedin.com/jobs/view/spacecraft-electronics-engineer-at-spire-government-4443194082",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily software development (embedded software) and does not fit Vineeth's domain of expertise in VLSI, EDA, semiconductor technologies.",
+    "reason": "The role focuses on spacecraft electronics and doesn't align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas within VLSI.",
     "id": "6ef23fdd",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Manager/Associate Director/Director, Packaging & Labeling Operations",
