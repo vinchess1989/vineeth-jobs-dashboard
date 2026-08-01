@@ -30470,13 +30470,12 @@
     "url": "https://de.linkedin.com/jobs/view/tube-designer-components-all-genders-at-philips-4446331864",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical designer of medical X-ray tubes, which does not match Vineeth's VLSI/EDA background and skills in Power Integrity, CAD methodology etc.",
+    "reason": "The role is focused on tube design for medical applications, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "5619b6c7",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Designer, Layout",
@@ -30484,14 +30483,13 @@
     "location": "Newbury, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/lead-designer-layout-at-analog-devices-4443604999",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Lead Designer for IC layout, which does not match Vineeth's domain of Power Integrity & Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a Lead Designer focused on layout, which aligns with physical design and CAD methodology aspects of VLSI, but lacks explicit PI/packaging tool mentions; the experience level is appropriate, and it's in a suitable location.",
     "id": "2773cfd4",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Digital Design Engineer",
@@ -30500,13 +30498,12 @@
     "url": "https://ie.linkedin.com/jobs/view/principal-digital-design-engineer-at-analog-devices-4443609862",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily digital design focused, which is outside Vineeth's PI/SI and packaging domain expertise.",
+    "reason": "The role is a Principal Digital Design Engineer, which falls outside Vineeth's focus on Power Integrity, Advanced Packaging and related areas.",
     "id": "1a75a5fb",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Digital Design Engineer",
@@ -30514,14 +30511,13 @@
     "location": "Newbury, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-digital-design-engineer-at-analog-devices-4443629013",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is primarily focused on digital design for mixed-signal analog/digital products, which falls outside Vineeth's PI and packaging domains. It may be a good match for an experienced digital engineer.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves digital design and leadership, aligning with some criteria but not directly focused on power integrity or advanced packaging, though it mentions related experience.",
     "id": "5e71dffc",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Spontaneous Application",
@@ -30530,13 +30526,12 @@
     "url": "https://it.linkedin.com/jobs/view/spontaneous-application-at-planet-farms-4443608826",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Other) and does not match Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "This is a spontaneous application posting for a general role at an agriculture company, lacking specific semiconductor/VLSI/EDA keywords and aligning with Vineeth's expertise.",
     "id": "6f1674c3",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Communications Data Investigator - SPOC",
@@ -30545,13 +30540,12 @@
     "url": "https://uk.linkedin.com/jobs/view/communications-data-investigator-spoc-at-cambridgeshire-constabulary-4446359493",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Communications Data Investigator focused on processing applications under Part 3 of the Investigatory Powers Act (IPA) 2016 and ensuring compliance. This does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is focused on communications data investigation within a law enforcement context, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "76d7c80e",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RN Trauma PI Coordinator",
@@ -30560,13 +30554,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=f73e9a8d8dfd7d0c",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a RN Trauma PI Coordinator, which is a healthcare/medical position and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant semiconductor/VLSI/EDA position.",
     "id": "6a034a6a",
     "source": "indeed_ww_pi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RN Trauma PI Coordinator salaries in Orange Park, FL",
@@ -30575,28 +30568,12 @@
     "url": "https://www.indeed.com/career/nurse-coordinator/salaries/32073--FL?campaignid=serp-more&fromjk=f73e9a8d8dfd7d0c&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical RN Trauma PI Coordinator role, which does not align with Vineeth's technical background in Power Integrity and VLSI/EDA.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant semiconductor/VLSI/EDA position.",
     "id": "a6ffe9b1",
     "source": "indeed_ww_pi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Advanced Packaging SI/PI Senior Engineer salaries in Westborough, MA",
-    "company": "Extract from page",
-    "location": "Westborough, MA, USA",
-    "url": "https://www.indeed.com/career/packaging-engineer/salaries/Westborough--MA?campaignid=serp-more&fromjk=c0c7528cce94e365&from=serp-more",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on Advanced Packaging, which falls within Vineeth's background but doesn't strongly match his key skills and experience in Power Integrity (PI), CAD methodology, and EDA tools.",
-    "id": "4d93bba3",
-    "source": "indeed_ww_pi",
-    "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mixed-Signal Design Engineer",
@@ -30605,13 +30582,12 @@
     "url": "https://ie.linkedin.com/jobs/view/mixed-signal-design-engineer-at-analog-devices-4443623234",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on mixed-signal IC design and development, which falls outside Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is for a Mixed-Signal Design Engineer, which focuses on analog and digital circuit design, falling outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "d0c9e629",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Architecture Engineer",
@@ -30620,13 +30596,12 @@
     "url": "https://www.linkedin.com/jobs/view/system-architecture-engineer-at-analog-devices-4443625075",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) and does not match Vineeth's domain of Power Integrity, Advanced Packaging, or EDA.",
+    "reason": "The role is focused on system architecture and power converter development, which falls outside Vineeth's Power Integrity & Advanced Packaging expertise.",
     "id": "9966b9da",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Architecture Engineer",
@@ -30635,13 +30610,12 @@
     "url": "https://www.linkedin.com/jobs/view/system-architecture-engineer-at-analog-devices-4443616783",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded firmware, system architecture) which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is focused on system architecture and power converter development, which falls outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "753225d4",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Analog Design (Power) Engineering",
@@ -30650,13 +30624,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-analog-design-power-engineering-at-analog-devices-4443613824",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role focuses on high-performance power-management circuit design for portable consumer applications, which aligns with Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role aligns with Vineeth's Power Integrity expertise, focusing on power management circuit design within a leadership capacity at a semiconductor company in a preferred location (Scotland).",
     "id": "a6b56bb9",
     "source": "linkedin_uk_system_power_integrity",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_principal_engineer__analog_des_a6b56bb9.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/analog_devices_principal_engineer__analog_des_a6b56bb9.txt"
   },
   {
     "title": "Appian Developer",
@@ -30665,13 +30638,12 @@
     "url": "https://www.linkedin.com/jobs/view/appian-developer-at-ibm-4420116721",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Appian software development, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job description focuses on Appian development and does not mention any keywords related to Power Integrity, VLSI, EDA tools, or relevant domains like PDN sign-off or advanced packaging.",
     "id": "4830385e",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Interested in Future Viam Roles*",
@@ -30680,13 +30652,12 @@
     "url": "https://www.linkedin.com/jobs/view/interested-in-future-viam-roles-at-viam-4068291382",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a general application for potential future roles at Viam, rather than a specific technical position.",
+    "reason": "The job posting is for a future opportunity and acts as an interest form, lacking specific technical details related to power integrity or VLSI.",
     "id": "fd93ad65",
     "source": "linkedin_ww_si_pi",
-    "posted_date": "1 year ago",
+    "posted_date": "vor 1 jahr",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Backhaul Engineer",
