@@ -15056,13 +15056,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-engineer-at-hcltech-4442820968",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily analog circuit design, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is for an Analog Circuit Engineer, focusing on analog circuit design which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "4c46ff61",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer",
@@ -15071,13 +15070,12 @@
     "url": "https://in.linkedin.com/jobs/view/circuit-design-engineer-at-weekday-yc-w21-4437256595",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded firmware) and falls outside Vineeth's domain.",
+    "reason": "The job focuses on SerDes circuit design and doesn't align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas like PDN sign-off.",
     "id": "d826badb",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Circuit Design Engineer",
@@ -15086,13 +15084,12 @@
     "url": "https://in.linkedin.com/jobs/view/circuit-design-engineer-at-weekday-yc-w21-4437259383",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Analog/Mixed-Signal IC design engineer at a semiconductor startup, which falls outside Vineeth's main areas of Power Integrity and Advanced Packaging. It also does not match the specified regions (Finland, UK, India, Asia) that are a priority.",
+    "reason": "The job focuses on SerDes circuit design, which is a specialized area and doesn't directly align with Vineeth's core expertise in Power Integrity, Advanced Packaging, and PDN sign-off.",
     "id": "277c59f7",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -15101,13 +15098,12 @@
     "url": "https://ie.linkedin.com/jobs/view/physical-design-engineer-at-european-tech-recruit-4445911793",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily physical design which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "While the role involves physical design and some power optimization, it requires only 4 years of experience which is below Vineeth's level, and lacks focus on Power Integrity/Advanced Packaging.",
     "id": "c70d9376",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -15116,13 +15112,12 @@
     "url": "https://it.linkedin.com/jobs/view/hardware-engineer-at-experis-italia-4440466490",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Motorsport Hardware Electronics Engineer which does not match Vineeth's key skills and experience in Power Integrity, Advanced Packaging, SoC PDN sign-off.",
+    "reason": "The role focuses on hardware electronics engineering for automotive and motorsport applications, which falls outside Vineeth's focus areas of power integrity, advanced packaging, and EDA tool expertise.",
     "id": "91326e82",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur(e) Middle-End Design Num\u00e9rique - Circuits Int\u00e9gr\u00e9s - Grenoble - H/F",
@@ -15130,14 +15125,13 @@
     "location": "Grenoble, Auvergne-Rh\u00f4ne-Alpes, France",
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-e-middle-end-design-num%C3%A9rique-circuits-int%C3%A9gr%C3%A9s-grenoble-h-f-at-recrutronics-4445699851",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches semiconductor industry, middle-end design flow. Needs review for specific domain overlap and experience level.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on Middle-End Design, which falls under general VLSI design but isn't a direct match for Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "c5d7e7cf",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT Engineer",
@@ -15146,13 +15140,12 @@
     "url": "https://uk.linkedin.com/jobs/view/dft-engineer-at-raspberry-pi-4440565717",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development), which falls outside Vineeth's domain.",
+    "reason": "The role is focused on DFT engineering, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "751eb997",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Arquitecto/a - Ingeniero/a de Proyectos (Oficina T\u00e9cnica)",
@@ -15161,13 +15154,12 @@
     "url": "https://es.linkedin.com/jobs/view/arquitecto-a-ingeniero-a-de-proyectos-oficina-t%C3%A9cnica-at-plenergy-4442732474",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a technical project coordinator position related to construction and architecture, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job focuses on reviewing and correcting construction project designs, which is outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "c28aeca0",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Technician \u2013 Engineering Design",
@@ -15176,13 +15168,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-technician-%E2%80%93-engineering-design-at-pearce-signs-4280820004",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Technician focusing on engineering design for signs, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The role is a Design Technician focused on signage, lacking any keywords related to power integrity, advanced packaging, or EDA tools.",
     "id": "cf013115",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2025-08-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Grid Congestion & Regulatory Engineer, EMEA",
@@ -15191,13 +15182,12 @@
     "url": "https://es.linkedin.com/jobs/view/grid-congestion-regulatory-engineer-emea-at-lightsource-bp-4441194222",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on renewable energy grid congestion and regulatory compliance, not semiconductor VLSI EDA.",
+    "reason": "The role focuses on regulatory and grid congestion, which falls outside Vineeth's core expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "dfddbe58",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -15206,13 +15196,12 @@
     "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-ixceed-solutions-4445911805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a data analyst focused on SQL, Python, Power BI, and Snowflake. This is a software development position which falls outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The job title does not contain relevant keywords like PDN, Redhawk, or Voltus, and it's a data analyst role, which falls outside Vineeth's expertise.",
     "id": "a82e625b",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ABB Robotics Engineer",
@@ -15221,13 +15210,12 @@
     "url": "https://in.linkedin.com/jobs/view/abb-robotics-engineer-at-eol-packworld-pvt-ltd-4444864146",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical Engineering role unrelated to semiconductor, VLSI, EDA, and does not fit Vineeth's expertise domain.",
+    "reason": "The role focuses on ABB robotics and RAPID programming, which is outside Vineeth's expertise in power integrity, advanced packaging, or EDA tool specialization.",
     "id": "e3035a1a",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Inspector 1",
@@ -15236,43 +15224,40 @@
     "url": "https://www.indeed.com/rc/clk?jk=ac7a8f6265f1da79",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical quality inspector position, which does not match Vineeth's technical background in semiconductor VLSI EDA engineering and leadership.",
+    "reason": "The job title 'Quality Inspector 1' and description do not contain relevant keywords related to power integrity, advanced packaging, or VLSI design.",
     "id": "c7cc1589",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Inspector 1 salaries in Reno, NV",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Reno, NV, USA",
     "url": "https://www.indeed.com/career/quality-assurance-inspector/salaries/Reno--NV?campaignid=serp-more&fromjk=ac7a8f6265f1da79&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical quality assurance inspector position which does not fit Vineeth's background in semiconductor VLSI EDA engineering and technical leadership.",
+    "reason": "The job is for a Quality Inspector, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and VLSI design.",
     "id": "af37fae1",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Farmer",
-    "company": "Extract from page",
+    "company": "PharmaCann",
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=486c287848188b47",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and not related to semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords related to Power Integrity, VLSI, or EDA.",
     "id": "e2a1c16c",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Farmer salaries in Lothian, MD",
