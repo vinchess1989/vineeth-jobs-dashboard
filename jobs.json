@@ -33676,13 +33676,12 @@
     "url": "https://in.linkedin.com/jobs/view/silicon-engineer-ii-at-microsoft-4446179767",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on RTL design and implementation, which falls outside Vineeth's domain of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging, CAD / Methodology, Physical Design or EDA Tools.",
+    "reason": "The job focuses on general silicon engineering tasks rather than specialized power integrity, advanced packaging, or EDA tool expertise, and requires only 6+ years of experience.",
     "id": "8aca2321",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Business Analyst - Transaction Reporting",
@@ -33691,13 +33690,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-transaction-reporting-at-epam-systems-4443261294",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Business Analysis) and does not match Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The job is for a Business Analyst role focused on transaction reporting and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI/EDA domains.",
     "id": "09ae78ee",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Analog Circuit Design Engineer",
@@ -33706,13 +33704,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-analog-circuit-design-engineer-at-acl-digital-4442034236",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on analog circuit design rather than Vineeth's areas of power integrity and advanced packaging.",
+    "reason": "The role focuses on analog circuit design, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "ed6c9a46",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager - EQD - Drafter- US Shift",
@@ -33721,13 +33718,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-eqd-drafter-us-shift-at-bnp-paribas-4429955457",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical position in banking documentation, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a documentation drafting role, outside Vineeth's area of expertise.",
     "id": "9c45d8df",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Physical Design Engineer",
@@ -33735,14 +33731,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/lead-physical-design-engineer-at-leadsoc-technologies-pvt-ltd-4436542031",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches candidate's background in Physical Design and leadership experience.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on physical design and STA, which is outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "0432b40f",
     "source": "linkedin_india_emir",
-    "posted_date": "3 viikkoa sitten",
+    "posted_date": "2026-07-11",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/leadsoc_technologies_lead_physical_design_engineer_0432b40f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Regulatory & Operations Control - Contractor",
@@ -33751,13 +33746,12 @@
     "url": "https://pl.linkedin.com/jobs/view/regulatory-operations-control-contractor-at-jefferies-4445490891",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Regulatory & Operations Control Contractor position, which is a different domain than Power Integrity/Advanced Packaging/CAD. It also does not match Vineeth's background and key skills.",
+    "reason": "The job is for a regulatory operations role and does not involve Power Integrity, Advanced Packaging, VLSI design, or related EDA tool expertise.",
     "id": "6cd1f27a",
     "source": "linkedin_eu_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Treasury Operations",
@@ -33766,13 +33760,12 @@
     "url": "https://uk.linkedin.com/jobs/view/treasury-operations-at-ipoe-consulting-4445492265",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Treasury Operations, which does not match Vineeth's background in Power Integrity, Advanced Packaging and related EDA/semiconductor domains.",
+    "reason": "The role is focused on Treasury Operations, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and VLSI.",
     "id": "36bb6cb5",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer",
@@ -33781,13 +33774,12 @@
     "url": "https://uk.linkedin.com/jobs/view/software-engineer-at-radley-james-4445994588",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused, not semiconductor/VLSI/EDA related.",
+    "reason": "The role is a Software Engineer position focusing on Python and SQL, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "08836705",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Future Opportunities [NYC or SF]",
@@ -33796,13 +33788,12 @@
     "url": "https://www.linkedin.com/jobs/view/future-opportunities-nyc-or-sf-at-amigo-4446521865",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, focusing on business development and customer engagement rather than semiconductor/VLSI/EDA engineering.",
+    "reason": "The job description focuses on general technical skills and lacks any mention of Power Integrity, PDN analysis, RedHawk, Voltus, or related keywords, disqualifying it based on the keyword pre-filter.",
     "id": "5544aa2d",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Future Opportunities [NYC or SF]",
@@ -33811,13 +33802,12 @@
     "url": "https://www.linkedin.com/jobs/view/future-opportunities-nyc-or-sf-at-amigo-4446531576",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a general business development representative, not specific to semiconductor/VLSI/EDA technology domains.",
+    "reason": "The job description focuses on general technical skills and lacks specific keywords related to Power Integrity, Advanced Packaging, or EDA tools like RedHawk or Voltus.",
     "id": "0c1b9d43",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FUNCTIONAL CONSULTANT L1",
@@ -33826,13 +33816,12 @@
     "url": "https://in.linkedin.com/jobs/view/functional-consultant-l1-at-wipro-4436318474",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Microsoft Dynamics 365 SCM functional consultant, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is a Functional Consultant for Microsoft Dynamics 365 SCM and does not align with Vineeth's expertise in power integrity, advanced packaging, or related VLSI/EDA domains.",
     "id": "ff96077a",
     "source": "linkedin_india_si_pi_p2",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FUNCTIONAL CONSULTANT L1",
@@ -33841,13 +33830,12 @@
     "url": "https://in.linkedin.com/jobs/view/functional-consultant-l1-at-wipro-4436915133",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Microsoft Dynamics 365 SCM functional consultant role at Wipro, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "reason": "The job requires Microsoft Dynamics 365 SCM skills and lacks any mention of Power Integrity, EDA tools like RedHawk or Voltus, making it outside Vineeth's domain.",
     "id": "6c5f69c9",
     "source": "linkedin_india_si_pi_p3",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fantasy Friend",
@@ -33856,13 +33844,12 @@
     "url": "https://uk.linkedin.com/jobs/view/fantasy-friend-at-joi-ai-4443652367",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role in AI content creation, unrelated to semiconductor/VLSI/EDA domain.",
+    "reason": "The job title 'Fantasy Friend' and description indicate this is a role unrelated to semiconductor, VLSI, or EDA engineering.",
     "id": "b3ea4ccd",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Systems Design Engineer",
@@ -33871,13 +33858,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87536?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on AI server product, which falls outside Vineeth's domain.",
+    "reason": "The job description focuses on server board design and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "0b0d935a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software\u5d4c\u5165\u5f0f\u663e\u793a\u9a71\u52a8\u5de5\u7a0b\u5e08 MSZ20260729Save JobNew JobMore than 2 Years Work Expe.Shenzhen",
@@ -33885,14 +33871,13 @@
     "location": "Shenzhen",
     "url": "https://careers.mediatek.com/en/jobs/MSZ120260729001",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a software engineering role for an embedded display driver, outside Vineeth's primary domain of Power Integrity and VLSI physical design.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "53f65f8f",
     "source": "mediatek_careers",
-    "posted_date": "2026-07-29",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Sales & Marketing2026 CS (Temp)Save JobNew JobMore than 8 Years Work Expe.Seongnam",
