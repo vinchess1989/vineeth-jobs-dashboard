@@ -5242,13 +5242,12 @@
     "url": "https://www.indeed.com/career-advice/interviewing/successful-interview?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role (career advice) at a semiconductor company, which we only want engineering/technical positions.",
+    "reason": "This is an article offering interview tips, not a job posting related to semiconductor/VLSI/EDA.",
     "id": "b9496524",
     "source": "indeed_ww_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Dependent Variable: Definition and Examples",
@@ -5257,13 +5256,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/dependent-variable?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting does not contain a clear company name, location, or deadline for application.",
+    "reason": "This job posting is for career advice and definitions, not a technical role in the semiconductor/VLSI/EDA industry.",
     "id": "25a071e8",
     "source": "indeed_ww_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Ledger vs. Trial Balance: What's the Difference?",
@@ -5272,13 +5270,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/general-ledger-vs-trial-balance?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical role related to semiconductor, VLSI, EDA; requires general accounting and finance knowledge.",
+    "reason": "The job is for a finance role (General Ledger vs. Trial Balance) and does not align with Vineeth's expertise in semiconductor/VLSI/EDA domains.",
     "id": "15a3bb3b",
     "source": "indeed_ww_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "How To Become a Viticulturist: A Comprehensive Guide",
@@ -5287,13 +5284,12 @@
     "url": "https://www.indeed.com/career-advice/finding-a-job/how-to-become-viticulturist?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a viticulturist, which does not match Vineeth's background and expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "This job is a career advice article about becoming a viticulturist (grape grower), and does not involve semiconductor, VLSI, EDA, or related engineering roles.",
     "id": "cf4abbc3",
     "source": "indeed_ww_rtl_design_engineer",
     "posted_date": "2026-07-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "How To Take Constructive Criticism Like a Professional",
@@ -5302,13 +5298,12 @@
     "url": "https://www.indeed.com/career-advice/career-development/how-to-take-constructive-criticism?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The given job title 'How To Take Constructive Criticism Like a Professional' is an article or career advice piece, not a specific job posting for engineering work in VLSI/semiconductor industry.",
+    "reason": "This is a career advice article, not a technical job posting related to semiconductor/VLSI/EDA.",
     "id": "effc00ca",
     "source": "indeed_ww_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Engineer salaries in Santa Clara, CA",
@@ -5317,13 +5312,12 @@
     "url": "https://www.indeed.com/career/design-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=e08a1a2969a06ba8&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job is located in Santa Clara, CA, USA and explicitly requires US residency, which violates the location hard rejection criteria.",
     "id": "ac1dec1b",
     "source": "indeed_ww_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Verification Engineer",
@@ -5332,28 +5326,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=39abe22a8028fe24",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a design verification role, not within Vineeth's domain of PI/SI, CAD, and physical design.",
+    "reason": "The role is primarily focused on ASIC design verification, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "63f08b5f",
     "source": "indeed_ww_rtl_design_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-27",
+    "deadline": "2026-07-31",
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Verification Engineer salaries in Santa Clara, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.indeed.com/career/design-verification-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=39abe22a8028fe24&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification, which falls outside Vineeth's domain of expertise.",
+    "reason": "This role is primarily for design verification, which falls outside Vineeth's domain of expertise.",
     "id": "337aeb49",
     "source": "indeed_ww_rtl_design_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "COMMERCIAL DIRECTOR",
@@ -5362,13 +5354,12 @@
     "url": "https://uk.linkedin.com/jobs/view/commercial-director-at-nolangroup-4444456495",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical commercial/business development director role, outside Vineeth's domain of semiconductor/EDA/VLSI engineering.",
+    "reason": "The role is a Commercial Director, focusing on partnerships and business development, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "5a8f57b4",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Manager, Post-Trade Operations & Risk",
@@ -5377,13 +5368,12 @@
     "url": "https://in.linkedin.com/jobs/view/product-manager-post-trade-operations-risk-at-abans-finserv-4409919733",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product management position for financial services operations, NOT semiconductor/VLSI/EDA technical engineering.",
+    "reason": "The role is a Product Manager focused on financial operations, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "fa9d9a3d",
     "source": "linkedin_india_emir",
     "posted_date": "2026-05-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Process Integration Development Engineer",
@@ -5392,13 +5382,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-process-integration-development-engineer-at-intel-4438397389",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on manufacturing engineering and process development, which falls outside Vineeth's primary technical domains of Power Integrity and Advanced Packaging. It does not match his background in SoC PDN sign-off, thermal analysis, or CAD tool methodology.",
+    "reason": "The job focuses on process integration and development, which is outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "986a16d2",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-12",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Member of Technical Staff, Thin Films Engineer",
@@ -5407,13 +5396,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-member-of-technical-staff-thin-films-engineer-at-intel-4430047332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on thin film deposition processes and semiconductor manufacturing, which falls outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role focuses on thin film deposition processes, which falls outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
     "id": "63ad1d09",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Member of Technical Staff, Thin Films Engineer",
@@ -5422,13 +5410,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-member-of-technical-staff-thin-films-engineer-at-intel-4430065020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on thin film deposition process development and manufacturing engineering, which does not align with Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology. The skills of ANSYS RedHawk, RedHawk-SC, Totem, Cadence Voltus, Grid Prototyping System (GPS), Python, Perl, Tcl, Shell Scripting are also not relevant.",
+    "reason": "The role focuses on thin film deposition, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "46f127c5",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Process Engineer \u2013 Dry Etch",
@@ -5437,13 +5424,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-process-engineer-%E2%80%93-dry-etch-at-intel-4434385521",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on dry etch processing and semiconductor manufacturing, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging for SoC design.",
+    "reason": "The role is focused on dry etch process engineering, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "0563c9e3",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EPIC Technology Project Customer-level Manager",
@@ -5452,13 +5438,12 @@
     "url": "https://www.linkedin.com/jobs/view/epic-technology-project-customer-level-manager-at-applied-materials-4429403833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical leadership role for business development, not a technical engineering position.",
+    "reason": "The role is a Project Customer-level Manager focused on hardware characterization and process engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
     "id": "f5f34243",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
     "posted_date": "2026-06-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Process Engineer \u2013 Dry Etch",
