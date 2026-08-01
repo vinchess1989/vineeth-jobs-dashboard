@@ -5662,28 +5662,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=c8bc56cd45f860cf",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an equipment engineer role for semiconductor manufacturing, not related to Vineeth's power integrity and packaging expertise.",
+    "reason": "The job focuses on equipment engineering and metrology, which falls outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "49c14402",
     "source": "indeed_ww_semiconductor",
-    "posted_date": "24/07/2026, 21:37",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equipment Engineer - Metrology salaries in Richardson, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Richardson, TX, USA",
     "url": "https://www.indeed.com/career/equipment-engineer/salaries/Richardson--TX?campaignid=serp-more&fromjk=c8bc56cd45f860cf&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical equipment engineer position, which does not match Vineeth's technical background in semiconductor design and EDA tools.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) indicating it is not a relevant power integrity or VLSI role.",
     "id": "75d168ce",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Diffusion Process Engineer",
@@ -5692,58 +5690,54 @@
     "url": "https://www.indeed.com/rc/clk?jk=8276d6462db53b01",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical manufacturing role at a semiconductor company.",
+    "reason": "The job focuses on manufacturing process engineering, which is outside of Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "037d22fc",
     "source": "indeed_ww_semiconductor",
     "posted_date": "24/07/2026, 23:36",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Diffusion Process Engineer salaries in Dallas, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Dallas, TX, USA",
     "url": "https://www.indeed.com/career/process-engineer/salaries/Dallas--TX?campaignid=serp-more&fromjk=8276d6462db53b01&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on manufacturing, which does not match Vineeth's technical background in semiconductor design and EDA tools.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or related role.",
     "id": "d3d8bebd",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Technician",
     "company": "Texas Instruments",
-    "location": "Extract from page",
+    "location": "Lehi, UT, USA",
     "url": "https://www.indeed.com/rc/clk?jk=028e676030f4ecd3",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on manufacturing and packaging processes, which is outside Vineeth's domain of power integrity, advanced packaging, and EDA tools.",
+    "reason": "The job is for a Process Technician, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "3e7b26a9",
     "source": "indeed_ww_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "24/07/2026, 22:59",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Technician salaries in Lehi, UT",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Lehi, UT, USA",
     "url": "https://www.indeed.com/career/process-technician/salaries/Lehi--UT?campaignid=serp-more&fromjk=028e676030f4ecd3&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Process Technician, which is an entry-level manufacturing position outside Vineeth's domain of semiconductor and EDA technical roles.",
+    "reason": "The job is for a Process Technician, which is a non-technical role and outside Vineeth's domain of expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "76f182e4",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer",
@@ -5752,13 +5746,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineer-at-abm-uk-4443512315",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on general maintenance and repair tasks across various trades, which does not match Vineeth's domain of Power Integrity, Advanced Packaging and related technical domains in semiconductor/VLSI/EDA industry.",
+    "reason": "The role is a general Fabric Engineer position requiring carpentry, painting, and locksmithing skills, which does not align with Vineeth's power integrity and advanced packaging expertise.",
     "id": "8ba97259",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -5767,13 +5760,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432216411",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily mechanical design rather than semiconductor/VLSI/EDA related.",
+    "reason": "The role is a Mechanical Designer focused on steel structures and machine components, which doesn't align with Vineeth\u2019s expertise in Power Integrity, Advanced Packaging, or related EDA tools.",
     "id": "e8cbc622",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -5782,13 +5774,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432215440",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily mechanical design focused with no specific mention of semiconductor, VLSI, EDA related domains in Vineeth's area.",
+    "reason": "The role is a mechanical design engineer, which falls outside Vineeth's focus on Power Integrity, Advanced Packaging, and related areas.",
     "id": "d7bc82ca",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-31",
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -5797,13 +5788,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432221360",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical design engineer in the machinery and equipment manufacturing domain, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is a mechanical design engineer focused on steel structures and machine components, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related EDA tools.",
     "id": "c86717a0",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -5812,13 +5802,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432215439",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical design engineer, which does not match Vineeth's background in Power Integrity and VLSI/EDA.",
+    "reason": "The role is a mechanical design engineer, focusing on steel structures and machine components, which falls outside Vineeth's power integrity and advanced packaging expertise.",
     "id": "ffd82c39",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-31",
+    "description_file": null
   },
   {
     "title": "Kokenut LVI-suunnittelija teollisuuteen",
@@ -5827,13 +5816,12 @@
     "url": "https://fi.linkedin.com/jobs/view/kokenut-lvi-suunnittelija-teollisuuteen-at-caverion-4439199839",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The position is for a Facilities Services LVI design engineer, which is outside Vineeth's domain of semiconductor VLSI EDA. Also, it is in Finland and not matching any of Vineeth's key skills.",
+    "reason": "The role is for an LVI (HVAC) designer in industrial settings, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "965eaaeb",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-19",
     "deadline": "2026-08-09",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -5842,13 +5830,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432216412",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mechanical engineering design role at a Finnish consulting firm, not related to semiconductor VLSI EDA work.",
+    "reason": "The job is for a mechanical design engineer, which falls outside of Vineeth's focus on power integrity and advanced packaging.",
     "id": "23306d41",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija",
@@ -5857,13 +5844,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-at-rejlers-4432214453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical designer focused on industrial machinery, which does not directly match Vineeth's background in semiconductor power integrity and packaging.",
+    "reason": "The job is for a mechanical design engineer, which falls outside Vineeth's area of expertise focused on power integrity and advanced packaging.",
     "id": "218db05c",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-31",
+    "description_file": null
   },
   {
     "title": "Mekaniikkasuunnittelija p\u00e4\u00e4kaupunkiseudun asiakasprojekteihin",
@@ -5872,13 +5858,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mekaniikkasuunnittelija-p%C3%A4%C3%A4kaupunkiseudun-asiakasprojekteihin-at-mecaplan-oy-4431828879",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical design engineer at a Finnish company, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a mechanical design engineer, which falls outside Vineeth's focus on power integrity, advanced packaging, and related VLSI domains.",
     "id": "975f9f5f",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-06-26",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Marketing",
