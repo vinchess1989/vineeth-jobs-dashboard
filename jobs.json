@@ -36672,13 +36672,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-chiller-system-engg-at-carrier-4434131751",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on mechanical engineering of chillers, not semiconductor VLSI EDA",
+    "reason": "The job is for a mechanical Chiller System Engineer in the HVAC industry and does not involve semiconductor Power Integrity, PDN, or the required VLSI/EDA domains.",
     "id": "9fb2bfd7",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Investment Analyst CIO Front Office",
@@ -36687,28 +36686,12 @@
     "url": "https://in.linkedin.com/jobs/view/investment-analyst-cio-front-office-at-hsbc-4440552123",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Investment Analyst, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The position is a finance role (Investment Analyst) in the financial services industry, which does not meet the required semiconductor/VLSI/EDA domain criteria.",
     "id": "7f2ea859",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Chief Information Officer",
-    "company": "Sveriges Radio",
-    "location": "Greater Stockholm Metropolitan Area",
-    "url": "https://se.linkedin.com/jobs/view/chief-information-officer-at-sveriges-radio-4444118522",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a CIO for a media company, Sveriges Radio, and does not match Vineeth's semiconductor/VLSI/EDA technical background.",
-    "id": "a4c2ec4d",
-    "source": "linkedin_eu_semiconductor_cto",
-    "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Curtis + Ginsberg Architects LLP",
@@ -36717,13 +36700,12 @@
     "url": "https://www.linkedin.com/jobs/view/curtis-%2B-ginsberg-architects-llp-at-archinect-4435312556",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an architect/project manager position focusing on building renovations and sustainability, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is in the architecture and construction industry, which is completely outside the required semiconductor/VLSI/EDA domains and does not contain any of the required keywords.",
     "id": "10e745f5",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Architecture and Design",
@@ -36732,13 +36714,12 @@
     "url": "https://www.linkedin.com/jobs/view/head-of-architecture-and-design-at-hut-8-4423176355",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on architecture and design of data centers, offices and workplaces, rather than semiconductor / VLSI / EDA. It does not match Vineeth's domain.",
+    "reason": "The role is for physical building architecture and design rather than semiconductor VLSI/power integrity engineering and fails the keyword pre-filter.",
     "id": "c68abb04",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Director \u2013 Workplace (Bay Area)",
@@ -36747,13 +36728,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-director-%E2%80%93-workplace-bay-area-at-bespoke-careers-4443003615",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a senior design leadership position with no clear overlap with semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for an architecture and interior design firm and does not contain any of the required semiconductor keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "73492f31",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -36762,13 +36742,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-archotech-architects-4442055899",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Architect specializing in architectural design and space planning, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
+    "reason": "The job is for a civil/building architecture role in the construction industry and does not contain any required semiconductor/VLSI keywords or technical domain overlap.",
     "id": "78aba002",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -36777,13 +36756,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-one-design-interior-and-architecture-4440440973",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an architect specializing in interior design, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job is for an interior design architect, which is unrelated to the candidate's expertise in VLSI, Power Integrity, and semiconductor engineering.",
     "id": "f5a1b555",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer/ Senior Manager, Digital Design Engineering",
@@ -36791,14 +36769,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-senior-manager-digital-design-engineering-at-analog-devices-4433946354",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches senior technical leadership role within semiconductor domain, with specific SoC design and digital engineering focus.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required by the pre-filter.",
     "id": "9f6a3698",
     "source": "linkedin_india_semiconductor_architect_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_principal_engineer__senior_man_9f6a3698.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DevOps Engineer",
@@ -36807,13 +36784,12 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2008768",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The DevOps Engineer role is unrelated to semiconductor, VLSI, EDA, power integrity, advanced packaging, CAD methodology, SoC PDN sign-off, thermal analysis, or engineering leadership domains that Vineeth has experience in.",
+    "reason": "The role is a DevOps Engineer position, which falls under software/infrastructure and is explicitly excluded as it is outside the candidate's domain of Power Integrity and VLSI.",
     "id": "368e407e",
     "source": "nvidia_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead UPS Hardware EngineerEatonVantaaGo to job site",
@@ -36822,13 +36798,12 @@
     "url": "https://www.jobly.fi/en/job/lead-ups-hardware-engineer-2723149",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is software engineering focused on UPS hardware and electronics, outside Vineeth's core power integrity and advanced packaging domain of expertise.",
+    "reason": "The position is for a power electronics hardware role (UPS systems) and does not contain the mandatory semiconductor Power Integrity or VLSI keywords.",
     "id": "5325d00c",
     "source": "work_in_finland",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "What is DFE(Decision Feedback Equalizer) in SerDes System",
@@ -36837,13 +36812,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1v9v40v/what_is_dfedecision_feedback_equalizer_in_serdes/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role at a semiconductor company, which is against our criteria.",
+    "reason": "The provided content is an educational forum post explaining SerDes concepts and is not a job advertisement.",
     "id": "75670410",
     "source": "reddit_chipdesign",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer IC Design",
@@ -36851,14 +36825,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/r-d-engineer-ic-design-at-broadcom-4446064495",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a mid-senior level IC design validation role, which does not directly fit Vineeth's power integrity and advanced packaging focus.",
+    "matches_requirements": "yes",
+    "reason": "The role involves EM/IR analysis and signal integrity within the memory design domain, aligning with Vineeth's 15 years of experience in Power Integrity and IC design.",
     "id": "7269560b",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/broadcom_r_d_engineer_ic_design_7269560b.txt"
   },
   {
     "title": "Semiconductor Equipment Demonstration Team Manager",
@@ -36866,14 +36839,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/semiconductor-equipment-demonstration-team-manager-at-clarion-chase-4446075363",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves engineering client-facing activities but does not directly match Vineeth's technical background in Power Integrity, Advanced Packaging and CAD.",
+    "matches_requirements": "no",
+    "reason": "The job fails the mandatory keyword pre-filter as it does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "a8d6e2f8",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -36882,13 +36854,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-design-engineer-at-micron-technology-4439190925",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses primarily on verification, which is a hard rejection.",
     "id": "aa3bff32",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics & Semiconductor Engineer",
