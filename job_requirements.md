@@ -9,6 +9,8 @@
 
 ## Hard Rejections
 Immediately discard a job if ANY of the following are true:
+* **Keyword pre-filter:** The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. If not even one of these appears, discard immediately regardless of any other criteria below.
+  * **This is a necessary condition, not a sufficient one.** A keyword hit only earns the posting a full evaluation against the Target Job Criteria below — it does NOT by itself make the job a match. Watch for accidental/incidental hits and mark those "no": e.g. "EMIR" is also the EU's European Market Infrastructure Regulation (a financial-services acronym, nothing to do with chip power-delivery EM/IR analysis); "Electrical Analysis" could appear in an unrelated electrician/electrical-contractor posting; "Power Integrity" could be name-dropped once in a broader hardware posting that isn't actually a PI role. Only proceed to "yes"/"maybe" if the posting is genuinely about Power Integrity, PDN/EM/IR sign-off, or the named EDA tools (RedHawk/RHSC/Voltus) as real job content, not a coincidental string match.
 * The posting is for a non-technical role (e.g., HR, Finance, Marketing, Sales) at a semiconductor company — we only want engineering/technical positions.
 * The job explicitly requires a security clearance that restricts to a specific country's citizens only (e.g., "must be a US citizen with active security clearance").
 * The role is primarily **verification** (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) — this is outside Vineeth's domain.
