@@ -30876,13 +30876,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-technology-officer-%C2%A3100k-%C2%A3140k-%2B-equity-at-vc-backed-b2b-marketplace-scale-up-at-jack-jill-4445773399",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical executive leadership role for a marketplace company, which does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Chief Technology Officer for a marketplace scale-up, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "c68d6ae1",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding VP of Engineering (CTO Track) (\u00a368,000 GBP + Equity) at iinvest",
@@ -30890,14 +30889,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/founding-vp-of-engineering-cto-track-%C2%A368-000-gbp-%2B-equity-at-iinvest-at-jack-jill-4445755758",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a VP level role focused on overall engineering leadership, not specific technical domains like Power Integrity or Advanced Packaging where Vineeth has experience.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves engineering leadership and some relevant technical areas (broker integrations, real-time systems) but lacks explicit mention of PDN, RedHawk, Voltus, or other core Power Integrity tools, making it a potential match contingent on further investigation.",
     "id": "8b25623c",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Hardware Officer (+ Equity) at Stealth physical AI startup",
@@ -30906,13 +30904,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-hardware-officer-%2B-equity-at-stealth-physical-ai-startup-at-jack-jill-4445773396",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Chief Hardware Officer, which is a senior leadership position. However, it does not specifically match Vineeth's technical domains of expertise in Power Integrity, CAD Methodology, and Advanced Packaging.",
+    "reason": "The role is a Chief Hardware Officer, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "78fa4b8e",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, China Product (Washington, DC)",
@@ -30921,13 +30918,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-china-product-washington-dc-at-techinsights-4446388014",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (product management) and does not fit Vineeth's technical background in Power Integrity, Advanced Packaging, and semiconductor design.",
+    "reason": "The role focuses on China product strategy and intelligence, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "038d0234",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DESIGNER / ARCHITECT",
@@ -30936,13 +30932,12 @@
     "url": "https://www.linkedin.com/jobs/view/designer-architect-at-crabtree-architecture-%2B-design-4442644938",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This architecture job is far outside Vineeth's semiconductor/VLSI/EDA background and experience, in a completely different domain.",
+    "reason": "This role is for an architect focused on building design and does not align with Vineeth's expertise in power integrity, advanced packaging, or VLSI domains.",
     "id": "948ae361",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal / Senior Manager, Digital Design Engineering",
@@ -30950,14 +30945,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/principal-senior-manager-digital-design-engineering-at-analog-devices-4423243116",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with 12+ years experience, but domain is not explicitly stated. Matches VLSI/SoC Design but could be a general semiconductor engineering role.",
+    "matches_requirements": "no",
+    "reason": "The role is a leadership position focused on SoC design execution, which falls slightly outside Vineeth's primary Power Integrity and Advanced Packaging expertise.",
     "id": "c25d04e7",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Distinguished VLSI Design Engineer",
@@ -30965,14 +30959,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/distinguished-vlsi-design-engineer-at-sandisk-4446379177",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN Sign-off, as well as requiring deep technical depth.",
+    "matches_requirements": "no",
+    "reason": "The role is a Distinguished VLSI Design Engineer, focusing on architecture and design which falls outside Vineeth's primary focus of Power Integrity, Advanced Packaging, and related areas.",
     "id": "ae028724",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/sandisk_distinguished_vlsi_design_engi_ae028724.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Engineer, Systems Design/Architecture Engineering",
@@ -30980,14 +30973,13 @@
     "location": "Limerick, County Limerick, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/senior-principal-engineer-systems-design-architecture-engineering-at-analog-devices-4443609873",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for Systems Design/Architecture Engineering with high-frequency RF, data converter design experience, which does not directly match Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Technical Leader in Power Integrity and Advanced Packaging, focusing on system-level design and architecture within a semiconductor company located in Ireland.",
     "id": "caa3434c",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/analog_devices_senior_principal_engineer__sys_caa3434c.txt"
   },
   {
     "title": "AI Business Planning Specialist",
@@ -30996,13 +30988,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87942?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in Sales / Marketing, not a technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on business planning and AI automation within a supply chain context, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
     "id": "07dd8040",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Sourcing Engineer - Strategic Sourcing Team",
@@ -31011,13 +31002,12 @@
     "url": "https://builtin.com/job/principal-sourcing-engineer-strategic-sourcing-team/10403405",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software engineering focused with strong emphasis on consumer electronics, semiconductor & silicon sourcing/sales. This does not match Vineeth's technical background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a strategic sourcing position focused on supply chain management, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "92672324",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Design Engineer",
@@ -31026,13 +31016,12 @@
     "url": "https://builtin.com/job/semiconductor-design-engineer/9569327",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job description focuses on semiconductor design and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "e3c8f8a3",
     "source": "builtin_semi",
     "posted_date": "2026-07-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - Semiconductor Design Engineer",
@@ -31041,13 +31030,12 @@
     "url": "https://builtin.com/job/new-college-grad-semiconductor-design-engineer/10321569",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Does not match Vineeth's domain of Power Integrity, CAD, EDA tools, etc.; this is a general semiconductor design role for a new grad.",
+    "reason": "This is an entry-level role for a Semiconductor Design Engineer, which falls outside Vineeth's experience and domain focus on Power Integrity and Advanced Packaging leadership.",
     "id": "caf053e9",
     "source": "builtin_semi",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applied Global Services Business Development (B5)",
@@ -31056,13 +31044,12 @@
     "url": "https://builtin.com/job/ags-business-development-segment-focus-b5/9515747",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business development position, not technical like Vineeth's background.",
+    "reason": "The role is a business development position and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or VLSI design.",
     "id": "e095b701",
     "source": "builtin_semi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technical Marketing Engineer \u2013 Semiconductor Design",
@@ -31071,13 +31058,12 @@
     "url": "https://builtin.com/job/senior-technical-marketing-engineer-eda-and-semiconductor/9145234",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role involves technical marketing content creation, which is not a direct fit for Vineeth's technical leadership background in power integrity, advanced packaging and VLSI.",
+    "reason": "This role is a technical marketing position, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "7cc46461",
     "source": "builtin_semi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-27",
+    "deadline": "2026-07-31",
+    "description_file": null
   },
   {
     "title": "Device and Process Integration Engineer",
@@ -31086,13 +31072,12 @@
     "url": "https://builtin.com/job/device-and-process-integration-engineer/8819368",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on hardware manufacturing, device engineering and semiconductor fabrication processes, which is outside Vineeth's domain of expertise in EDA/CAD and PI/SI for SoC/ASIC design.",
+    "reason": "The job focuses on device engineering within a semiconductor factory, which is outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "dfeaa59a",
     "source": "builtin_semi",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Management Lead - Hyperscale Custom Silicon",
