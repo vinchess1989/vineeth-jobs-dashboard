@@ -1,0 +1,313 @@
+Title: Senior Engineer - Low Power Design
+Company: Ericsson
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/senior-engineer-low-power-design-at-ericsson-4425858212
+Posted: 2026-07-07
+Deadline: N/A
+Reason: The role aligns with Vineeth's Power Integrity and Advanced Packaging experience, mentions RedHawk for power analysis, and is a Senior-level position in India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respeta tu privacidad
+
+LinkedIn y terceros utilizan cookies imprescindibles y opcionales para ofrecer, proteger, analizar y mejorar nuestros servicios, y para mostrarte publicidad relevante (incluidos anuncios profesionales y de empleo) dentro y fuera de LinkedIn. Consulta más información en nuestra Política de cookies.
+
+Selecciona Aceptar para consentir o Rechazar para denegar las cookies no imprescindibles para este uso. Puedes actualizar tus preferencias en cualquier momento en tus ajustes.
+
+Aceptar Rechazar
+Pasar al contenido principal
+LinkedIn
+Empleos
+Borrar texto
+Borrar texto
+Iniciar sesión
+Unirse ahora
+Senior Engineer - Low Power Design
+Ericsson  Bengaluru, Karnataka, India
+Hace 3 días  62 solicitudes
+  
+
+Descubre a quién ha contratado Ericsson para este puesto
+
+Solicitar 
+Guardar
+Grow with us
+
+About This Opportunity
+
+Join Ericsson's cutting-edge journey to shape the future of 5G networks! As a Low-Power Physical Design Engineer, you'll work on pioneering digital ASIC designs vital to Ericsson's mobile network infrastructure. Our team, responsible for the final critical stage of chip design before fabrication, thrives on Lean and Agile principles, promoting close collaboration, daily progress-sharing, and continuous improvement. If you're passionate about advanced technology and ready to make a meaningful impact in telecom, this role is crafted just for you.
+
+At Ericsson, we support your growth, offering opportunities to advance your skills while contributing to game-changing 5G/6G technologies. Here, you'll find a supportive, innovative environment focused on quality, teamwork, and career development. Join us and help shape the future of telecom!
+
+We are hiring a Low-Power Physical Design Engineer to own chip-level power estimation, analysis, and signoff using Synopsys PrimePower (PTPX) on high-performance, power-constrained SoC designs at advanced process nodes. You will define and drive power closure methodology, coordinate with RTL, physical design, and architecture teams to meet power budgets, and contribute to synthesis and STA flows as a secondary responsibility. This role is critical to the chip's power-performance story from early RTL through tape-out.
+
+What you will do:
+
+Dynamic Power Analysis
+
+
+Own dynamic power analysis using Synopsys PrimePower (PTPX) across all design modes, workloads, and PVT corners.
+Generate, annotate, and validate switching activity files (SAIF / VCD) from RTL and gate-level simulations for accurate power estimation.
+Define representative workload scenarios and activity vectors for meaningful power measurement across use cases (active, idle, burst).
+Perform clock-domain-level, block-level, and full-chip dynamic power breakdowns; identify high-power contributors and drive optimization.
+Collaborate with RTL designers to implement low-power techniques — clock gating, operand isolation, fine-grained power gating — and verify their effectiveness in PTPX.
+
+
+Static & Leakage Power Analysis
+
+
+Perform leakage power analysis across process corners and temperatures; validate multi-Vt cell usage and leakage reduction strategies.
+Analyze static power contribution from individual blocks and guide Vt optimization decisions in partnership with synthesis teams.
+Validate UPF/CPF power intent implementation — isolation cells, level shifters, retention registers — for correctness and power impact.
+
+
+Power Integrity & IR Drop
+
+
+Coordinate with physical design and package teams on static and dynamic IR drop analysis using Ansys RedHawk or Synopsys VoltageStorm.
+Analyze electromigration (EM) violations on power and signal nets; provide constraints and guidance to P&R for power grid fixes.
+Define power delivery network (PDN) requirements and validate against IR drop targets throughout the design cycle.
+Cross-correlate PTPX switching activity maps with IR drop hotspots to identify and resolve power integrity risks.
+
+
+Power Signoff & Methodology
+
+
+Define and own the power signoff checklist and sign-off criteria; lead power-related tape-out readiness reviews.
+Build and maintain power estimation flows for early-stage RTL power budgeting and architecture trade-off studies.
+Track power metrics across design milestones; produce detailed power reports for program management and architecture teams.
+Develop and document power analysis methodology, scripts, and best practices for reuse across projects and technology nodes.
+Engage with EDA vendors (Synopsys) to evaluate new PTPX features, resolve tool issues, and optimize flow runtime.
+
+
+Synthesis Support
+
+
+Assist synthesis team in reviewing QoR results from Design Compiler or Genus with a focus on power-aware optimization — multi-Vt assignment, clock gating inference, and operand isolation.
+Provide power-driven feedback on synthesis constraints and strategies; validate that low-power RTL coding practices translate correctly through synthesis.
+Review DFT-aware synthesis output to ensure scan and BIST insertion does not introduce unexpected switching activity or power overhead.
+
+
+Static Timing Analysis Support
+
+
+Contribute to STA reviews using PrimeTime — specifically for timing paths affected by power optimization changes (clock gating, Vt swaps, buffer insertion).
+Validate that power-saving ECOs (gate sizing, Vt swaps) do not introduce timing regressions; flag and coordinate fixes with the STA team.
+Support MMMC corner coverage for power-vs-timing trade-off analysis at critical operating points.
+
+
+The skills you bring:
+
+
+B.Tech / M.Tech / M.S. in Electronics Engineering, VLSI Design, Computer Engineering, or a related field with 10+ years in power analysis or low-power design roles
+Expert-level PTPX / PrimePower proficiency
+SAIF/VCD generation, annotation, and validation
+Strong understanding of dynamic, static, and leakage power dissipation mechanisms
+Experience with UPF/CPF multi-voltage design flows
+Familiarity with IR drop tools (RedHawk, VoltageStorm)
+Working knowledge of synthesis (Fusion Compiler)
+Basic STA familiarity (PrimeTime)
+Proficiency in Tcl; Python scripting a strong plus
+At least one tape-out on 7nm or below
+
+
+Nice to Have
+
+
+Experience with architectural power modeling and early RTL estimation flows
+Familiarity with P&R tools (Innovus, ICC2) for power-driven implementation
+Knowledge of memory compiler power models and SRAM power characterization
+Background in package-level power delivery and PDN co-design
+Exposure to thermal analysis and junction temperature estimation
+Familiarity with power-aware formal verification flows
+Strong foundation in CMOS circuit theory, digital design, and power dissipation mechanisms (dynamic, short-circuit, leakage).
+Analytical mindset with a track record of identifying and resolving complex power issues across large, multi-million gate designs.
+
+
+EDA Tools & Environment
+
+Synopsys PTPX / PrimePower, Ansys RedHawk, VC-LP, Synopsys VoltageStorm, VCS / Questa (SAIF/VCD), Fusion Compiler, Design Compiler, PrimeTime, Tcl / Python
+
+
+
+
+
+“All academic credentials must be from recognized and accredited institutions and are further subject to verification.”
+
+Why join Ericsson?At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.
+
+What happens once you apply?Click Here to find all you need to know about what our typical hiring process looks like.Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we champion it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity Employer. learn more.
+
+Primary country and city: India (IN) || Bangalore
+
+Req ID: 786040
+Show more 
+Nivel de antigüedad
+No corresponde
+Tipo de empleo
+Jornada completa
+Función laboral
+Otro
+Sectores
+Telecomunicaciones
+  
+
+Las recomendaciones duplican tus probabilidades de conseguir una entrevista con Ericsson
+
+Mira a quién conoces
+
+Recibe notificaciones sobre nuevos empleos de Ingeniero de Diseño Senior en Bengaluru, Karnataka, India.
+
+Inicia sesión para crear una alerta de empleo
+Empleos similares
+Power Delivery Engineer
+Power Delivery Engineer
+Intel
+Bengaluru, Karnataka, India
+Hace 2 semanas
+Principal Engineer Design
+Principal Engineer Design
+Infineon Technologies
+Bengaluru Este, Karnataka, India
+Hace 1 semana
+Analog Design Engineers | Multiple Teams
+Analog Design Engineers | Multiple Teams
+Texas Instruments
+Bengaluru, Karnataka, India
+Hace 1 mes
+Staff Engineer Design
+Staff Engineer Design
+Infineon Technologies
+Bengaluru Este, Karnataka, India
+Hace 2 semanas
+Senior Silicon Architect
+Senior Silicon Architect
+Google
+Bengaluru, Karnataka, India
+Hace 1 día
+Senior Engineer, Analog Design
+Senior Engineer, Analog Design
+Renesas Electronics
+Bengaluru, Karnataka, India
+Hace 2 semanas
+Ver más empleos como este 
+Otros perfiles vistos
+Senior Staff Engineer Design
+Senior Staff Engineer Design
+
+Infineon Technologies
+
+Bengaluru Este, Karnataka, India
+Hace 2 semanas
+Lead Principal Engineer Design
+Lead Principal Engineer Design
+
+Infineon Technologies
+
+Bengaluru Este, Karnataka, India
+Hace 2 semanas
+Power Architecture for Power Consumption, Optimization and Strategy
+Power Architecture for Power Consumption, Optimization and Strategy
+
+Infineon Technologies
+
+Bengaluru Este, Karnataka, India
+Hace 5 días
+Silicon Design Engineer Power Management & Boot Flow
+Silicon Design Engineer Power Management & Boot Flow
+
+AMD
+
+Bengaluru, Karnataka, India
+Hace 1 semana
+Senior Staff, Analog Design Engineer
+Senior Staff, Analog Design Engineer
+
+Renesas Electronics
+
+Bengaluru, Karnataka, India
+Hace 2 semanas
+Senior ASIC Engineer, Power Integrity
+Senior ASIC Engineer, Power Integrity
+
+NVIDIA
+
+Bengaluru, Karnataka, India
+Hace 1 semana
+CPU RTL Design Power Engineer (Lead/Staff/Sr Staff)
+CPU RTL Design Power Engineer (Lead/Staff/Sr Staff)
+
+Qualcomm
+
+Bengaluru, Karnataka, India
+Hace 1 semana
+Silicon Power Engineer
+Silicon Power Engineer
+
+NVIDIA
+
+Bengaluru, Karnataka, India
+Hace 1 semana
+Analog Circuit Design Engineer
+Analog Circuit Design Engineer
+
+Intel
+
+Bengaluru, Karnataka, India
+Hace 7 horas
+Senior Staff Analog Design Engineer
+Senior Staff Analog Design Engineer
+
+Renesas Electronics
+
+Bengaluru, Karnataka, India
+Hace 1 semana
+Búsquedas similares
+Empleos de Ingeniero de diseño de proyectos
+2252 empleos abiertos
+Empleos de Ingeniero de diseño de máquinas
+316 empleos abiertos
+Empleos de Ingeniero Senior de Diseño Digital
+652 empleos abiertos
+Empleos de Ingeniero Senior de Diseño Mecánico
+503 empleos abiertos
+Empleos de Ingeniero jefe de diseño
+1864 empleos abiertos
+Empleos de Ingeniero Eléctrico de Personal
+1920 empleos abiertos
+Empleos de Ingeniero Senior de Diseño de Layout
+126 empleos abiertos
+Empleos de Ingeniero Senior de Simulación
+148 empleos abiertos
+Empleos de Ingeniero de sistemas de aviónica
+51.054 empleos abiertos
+Empleos de Ingeniero de prototipos
+2562 empleos abiertos
+Empleos de Ingeniero de aviónica
+896 empleos abiertos
+Empleos de Ingeniero superior de diseño
+535 empleos abiertos
+Mostrar más 
+Más búsquedas 
+LinkedIn
+© 2026
+Acerca de
+Accesibilidad
+Condiciones de uso
+Política de privacidad
+Política de cookies
+Política de copyright
+Política de marca
+Controles de invitados
+Pautas comunitarias
+Idioma
+Inicia sesión para ver a quién conoces en Ericsson
+Iniciar sesión con el email
+
+o
+
+¿Estás empezando a usar LinkedIn? Únete ahora
+
+Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las Condiciones de uso, la Política de privacidad y la Política de cookies de LinkedIn.
