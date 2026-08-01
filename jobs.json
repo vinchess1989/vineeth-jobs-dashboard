@@ -6264,13 +6264,12 @@
     "url": "https://pl.linkedin.com/jobs/view/ecad-software-engineer-pcb-edm-at-siemens-digital-industries-software-4444387262",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This PCB/EDM design role at Siemens is focused on consulting and selling EDA software tools, not technical development in Power Integrity, advanced packaging, or VLSI/EDA.",
+    "reason": "The job description focuses on ECAD software engineering for PCB/EDM, which is outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "2b004b3d",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Enablement Manager - EDA",
@@ -6278,14 +6277,13 @@
     "location": "Pavia, Lombardy, Italy",
     "url": "https://it.linkedin.com/jobs/view/design-enablement-manager-eda-at-fondazione-chips-it-4418136488",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a leadership position with 10+ years of experience required, but does not specify exact domain fit. It could potentially match semiconductor EDA tool sales.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on EDA tool management and PDK integration, which falls outside Vineeth's core expertise in power integrity, advanced packaging, and SoC PDN sign-off.",
     "id": "7ac9c064",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "6 dni temu",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer II (C++)",
@@ -6294,13 +6292,12 @@
     "url": "https://uk.linkedin.com/jobs/view/software-engineer-ii-c%2B%2B-at-cadence-4443159992",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software engineering focused on C++ development for EDA database infrastructure, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Software Engineer focusing on database infrastructure, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "524f738e",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer II - Clock Tree Synthesis (CTS), Innovus R&D",
@@ -6308,14 +6305,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/software-engineer-ii-clock-tree-synthesis-cts-innovus-r-d-at-cadence-4436080809",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is a software engineer position focused on clock tree synthesis (CTS) algorithm development for Cadence's Innovus R&D platform. The technical domain aligns with VLSI/SoC design but may include some physical design and CAD aspects in optimizing CTS algorithms for chip design flows.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on Clock Tree Synthesis (CTS) within Innovus R&D, which is a physical design aspect but doesn't directly align with Vineeth\u2019s Power Integrity and Advanced Packaging expertise.",
     "id": "0f833865",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Engineer - Logical Design",
@@ -6324,13 +6320,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-engineer-logical-design-at-axelera-ai-4365305486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general software engineering position, not specific to semiconductor/VLSI/EDA domains.",
+    "reason": "The role is focused on logical design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "7b057771",
     "source": "linkedin_uk_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-02-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Engineer - Logical Design",
@@ -6339,13 +6334,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-engineer-logical-design-at-axelera-ai-4365306489",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on AI platform micro-architecture design and implementation, which is a different domain from Vineeth's power integrity and advanced packaging expertise. It also lacks specific mention of skills in his core areas like PI/SI, CAD methodology, or SoC physical design.",
+    "reason": "The job focuses on logical design, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "071891b4",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-01-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Engineer - Logical Design",
@@ -6354,13 +6348,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-engineer-logical-design-at-axelera-ai-4365298606",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (RTL coding, EDA tool automation) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on logical design, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "1b9d1d28",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-01-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Application Engineering Manager - EDA - h/f",
@@ -6368,14 +6361,13 @@
     "location": "City Of London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/field-application-engineering-manager-eda-h-f-at-siemens-eda-siemens-digital-industries-software-4437079217",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role fits the EDA Applications Engineering domain, with leadership responsibilities.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves leadership of a technical team and has strong engineering expertise, aligning with a relaxed domain requirement for leadership roles, though it is not strictly focused on power integrity.",
     "id": "39f7bf7b",
     "source": "linkedin_uk_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/siemens_eda__siemens_field_application_engineering__39f7bf7b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Engineer - Logical Design",
@@ -6383,14 +6375,13 @@
     "location": "Wales, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-staff-engineer-logical-design-at-axelera-ai-4365306488",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior/Staff Engineer role with domain overlap on digital logic design, RTL coding for SoC, but located in UK which is a lower priority region.",
+    "matches_requirements": "no",
+    "reason": "The role is focused on logical design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "5fc4d07b",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-01-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer, Design Automation (Senior / Staff+)",
@@ -6399,28 +6390,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=89075cb46aec78f6",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role, not VLSI/EDA.",
+    "reason": "The role is a Software Engineer focused on design automation and AI within a construction technology company, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "b576a120",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer, Design Automation (Senior / Staff+) salaries in Boston, MA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Boston, MA, USA",
     "url": "https://www.indeed.com/career/user-experience-designer/salaries/Boston--MA?campaignid=serp-more&fromjk=89075cb46aec78f6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (software engineer) which is outside Vineeth's domain of power integrity, packaging and EDA tools.",
+    "reason": "The job title indicates a software engineering role, which falls outside Vineeth's domain of expertise focused on power integrity and advanced packaging.",
     "id": "9fb56e6a",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Quantum EDA R&D Engineer \u2013 Superconducting Hardware Design",
@@ -6429,28 +6418,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=7ef6b853bc0fe745",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on quantum EDA product development and simulation workflows, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role focuses on Quantum EDA R&D for superconducting hardware, which is outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "897cb723",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Quantum EDA R&D Engineer \u2013 Superconducting Hardware Design salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Calabasas, CA, USA",
     "url": "https://www.indeed.com/career/salaries/Senior%20R&D%20Engineer/Calabasas,%20CA?campaignid=serp-more&fromjk=7ef6b853bc0fe745&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Quantum EDA R&D Engineer specializing in Superconducting Hardware Design, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "reason": "The job title and description lack keywords related to Power Integrity, PDN, Redhawk, Voltus, or other relevant terms, indicating it's not a match for Vineeth's expertise.",
     "id": "2fb96de8",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "2023-06-12",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD/EDA Tools Automation Engineer",
@@ -6459,28 +6446,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=a462ff91b5b13759",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on general software development and automation, rather than domain-specific technical skills in power integrity, EDA tools, or semiconductor design. This does not match Vineeth's background.",
+    "reason": "The job focuses on software development for EDA tools and is a college grad role, which falls outside Vineeth's experience and domain expertise.",
     "id": "fe3bc064",
     "source": "indeed_ww_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "posted 30+ days ago",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD/EDA Tools Automation Engineer salaries in Hillsboro, OR",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Hillsboro, OR, USA",
     "url": "https://www.indeed.com/career/tooling-engineer/salaries/Hillsboro--OR?campaignid=serp-more&fromjk=a462ff91b5b13759&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain relevant keywords like PDN, Redhawk, Voltus, or mention Power Integrity, indicating it's not a genuine PI role.",
     "id": "3f39713f",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Automation Design Packaging Lead",
