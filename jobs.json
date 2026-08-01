@@ -36868,13 +36868,12 @@
     "url": "https://in.linkedin.com/jobs/view/electronics-semiconductor-engineer-at-capgemini-4441956954",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Electronics & Semiconductor Engineer at a consulting firm, which falls outside Vineeth's domain of semiconductor VLSI EDA.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it contains none of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "a3a90fea",
     "source": "linkedin_india_fpga_engineer_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Power Integration Engineer",
@@ -36883,13 +36882,12 @@
     "url": "https://www.linkedin.com/jobs/view/system-power-integration-engineer-at-osi-engineering-4446069671",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on system-level power delivery network design, which doesn't directly align with Vineeth's core expertise in Power Integrity (PI), Advanced Packaging and CAD methodology.",
+    "reason": "The role is a US-based position without mentioned visa sponsorship or relocation, and the required experience (4-7 years) is significantly lower than the candidate's 15 years of experience.",
     "id": "90ef88dc",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead SI/PI/EMC Engineer",
@@ -36898,13 +36896,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-si-pi-emc-engineer-at-l-t-semiconductor-technologies-4444135244",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a senior SI/PI engineering position at an Indian semiconductor company, matching Vineeth's background and key skills.",
+    "reason": "The role is a lead-level position in Signal Integrity and Power Integrity in India, aligning with the candidate's 15 years of experience and technical background.",
     "id": "98e5ff77",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": "job_descriptions/l_t_semiconductor_te_lead_si_pi_emc_engineer_98e5ff77.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/l_t_semiconductor_te_lead_si_pi_emc_engineer_98e5ff77.txt"
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -36913,13 +36910,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-physical-design-engineer-at-microsoft-4446593035",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on Physical Design, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "This is a US-based role that does not explicitly mention visa sponsorship or relocation.",
     "id": "4aac7aa2",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer",
@@ -36928,13 +36924,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-physical-design-engineer-at-microsoft-4446590139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more software-centric than semiconductor/VLSI/EDA, focusing on physical design methodologies and automation tools rather than direct VLSI design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "b749c495",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Technical Designer & Maker",
@@ -36943,13 +36938,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-designer-maker-at-studio-vertigo-4444710404",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Technical Designer role focuses on large-scale public artworks, sculpture and installation - this does not match Vineeth's semiconductor/EDA/VLSI background in Power Integrity, CAD tools & EDA software engineering.",
+    "reason": "The role is for public art and sculpture fabrication, which does not match the candidate's expertise in Power Integrity and VLSI.",
     "id": "b2b1060f",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Engineering, Staff Engineer - RTL Design",
@@ -36958,13 +36952,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-engineering-staff-engineer-rtl-design-at-synopsys-inc-4446048602",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on RTL design, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL Design, which is outside the candidate's primary domain.",
     "id": "43760fcd",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New York",
@@ -36973,13 +36966,12 @@
     "url": "https://www.linkedin.com/jobs/view/new-york-at-biflorica-4446588397",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical marketing/sales role at a flower company, which does not match Vineeth's engineering background in semiconductor VLSI/EDA.",
+    "reason": "The job is not a technical semiconductor role and does not contain any of the required keywords like PDN, Redhawk, or Power Integrity.",
     "id": "94a3d4a0",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Oasis",
@@ -36988,13 +36980,12 @@
     "url": "https://www.linkedin.com/jobs/view/oasis-at-biflorica-4446597041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a baker and packager associate, which is a non-technical role in a retail setting. Vineeth's background is in semiconductor VLSI EDA technical roles.",
+    "reason": "The job description is for an entry-level role in International Trade and Development and contains no semiconductor, VLSI, or Power Integrity engineering requirements.",
     "id": "a06f2fb6",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Lifestyle Strategist",
@@ -37003,13 +36994,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-lifestyle-strategist-at-aurora-4444115006",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in lifestyle management, not semiconductor/VLSI/EDA.",
+    "reason": "The position is a non-technical lifestyle strategy role and does not contain any of the required semiconductor or power integrity keywords.",
     "id": "3c81dabc",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Perla",
@@ -37018,13 +37008,12 @@
     "url": "https://in.linkedin.com/jobs/view/perla-at-biflorica-4446800062",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a barista position at a coffee shop, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The job posting appears to be a product catalog for consumer goods rather than a technical role in the semiconductor or VLSI industry.",
     "id": "a9c2a559",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lion King",
@@ -37033,13 +37022,12 @@
     "url": "https://in.linkedin.com/jobs/view/lion-king-at-biflorica-4446586608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a 'Lion King' catalog type role at a florist company, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job posting contains none of the required technical keywords and the provided description is a 'Page not found' error.",
     "id": "3f44cb01",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SAP PI / CPI DEVELOPER",
@@ -37048,13 +37036,12 @@
     "url": "https://www.linkedin.com/jobs/view/sap-pi-cpi-developer-at-tekvalue-it-solutions-4446588565",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for SAP integration development, not related to Power Integrity, EDA tools or semiconductor VLSI design.",
+    "reason": "The job is for SAP Process Integration (Enterprise Software), which is an accidental acronym hit for 'PI' and does not relate to semiconductor Power Integrity.",
     "id": "47413c18",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SAP PI/PO Integration Suite Senior Consultant",
@@ -37063,13 +37050,12 @@
     "url": "https://www.linkedin.com/jobs/view/sap-pi-po-integration-suite-senior-consultant-at-crave-infotech-4442980861",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This SAP Integration Suite Senior Consultant role is focused on application software development and integration, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and advanced packaging.",
+    "reason": "The role is for SAP enterprise software integration, which is unrelated to semiconductor Power Integrity or VLSI engineering; the 'PI' in the title refers to SAP Process Integration.",
     "id": "d99a15f0",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Talend ETL Developer / SAP Interface Developer",
@@ -37078,13 +37064,12 @@
     "url": "https://ro.linkedin.com/jobs/view/talend-etl-developer-sap-interface-developer-at-dhv-deliver-high-value-4444112855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on SAP ETL development with Talend, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job is an ETL/software development role and does not contain any of the required Power Integrity or semiconductor-specific keywords.",
     "id": "7986670d",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Release Train Engineer",
