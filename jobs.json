@@ -23792,13 +23792,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-btc-inc-4444383539",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a Chief Technology Officer, which falls under Engineering Leadership but lacks specific technical details related to power integrity, advanced packaging, or EDA tools.",
     "id": "49550154",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -23807,13 +23806,12 @@
     "url": "https://in.linkedin.com/jobs/view/chief-technology-officer-at-macrohire-4445656905",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a senior technology leadership role for a CPaaS and omnichannel communication platform, with no clear match to Vineeth's power integrity, packaging, or EDA CAD background. It would require significant domain shifts.",
+    "reason": "This is a Chief Technology Officer role requiring extensive telecom experience, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "51b23a2c",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -23821,14 +23819,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/chief-technology-officer-at-hirojet-4444841988",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a software engineering leadership position, which is outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role is a CTO position at a startup, aligning with the leadership exception criteria and experience level requirements.",
     "id": "f59a8962",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-27",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/hirojet_chief_technology_officer_f59a8962.txt"
   },
   {
     "title": "Core Java Backend Developer - Assistance Vice President",
@@ -23837,13 +23834,12 @@
     "url": "https://in.linkedin.com/jobs/view/core-java-backend-developer-assistance-vice-president-at-citi-4445169282",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Java backend developer, not related to semiconductor/VLSI/EDA.",
+    "reason": "This role is for a Core Java Backend Developer, which falls under software development and verification, outside Vineeth's domain of expertise.",
     "id": "09785fbd",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Java Full Stack Lead - Vice President",
@@ -23852,13 +23848,12 @@
     "url": "https://in.linkedin.com/jobs/view/java-full-stack-lead-vice-president-at-citi-4415677509",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Java Full Stack Lead - Vice President role at Citi is focused on software development and engineering leadership, which does not align with Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis and VLSI/EDA tool expertise.",
+    "reason": "The job is for a Java Full Stack Lead with a focus on AI and production engineering, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "6584ea11",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President of Software Engineering - HR Technology",
@@ -23867,13 +23862,12 @@
     "url": "https://in.linkedin.com/jobs/view/vice-president-of-software-engineering-hr-technology-at-msci-inc-4435681810",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a leadership position for software engineering, not VLSI/EDA.",
+    "reason": "This role is focused on HR technology and AI application development, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related VLSI areas.",
     "id": "cd003041",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AVP - Java Full Stack - Prime - Global Markets IT",
@@ -23882,13 +23876,12 @@
     "url": "https://in.linkedin.com/jobs/view/avp-java-full-stack-prime-global-markets-it-at-bnp-paribas-4430912667",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Java, Full Stack) and does not fit Vineeth's VLSI/EDA background.",
+    "reason": "The job is for a Java Full Stack developer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "ac795d36",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -23896,14 +23889,13 @@
     "location": "Berlin, Germany",
     "url": "https://de.linkedin.com/jobs/view/chief-technology-officer-at-impala-search-4445150636",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior leadership position with technical experience matching Vineeth's background.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a leadership position (CTO) within an AI-focused startup, which aligns with the relaxed domain requirements for leadership roles and Vineeth's experience.",
     "id": "e0b82271",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/impala_search_chief_technology_officer_e0b82271.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer (Incogni)",
@@ -23912,13 +23904,12 @@
     "url": "https://lt.linkedin.com/jobs/view/chief-technology-officer-incogni-at-surfshark-4445949532",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software engineering leadership focused, not semiconductor/VLSI/EDA.",
+    "reason": "The role is a Chief Technology Officer, which falls under engineering leadership but does not align with Vineeth's specific technical expertise in Power Integrity, Advanced Packaging, or related EDA tools.",
     "id": "cfe4725b",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CIO (w/m/d)",
@@ -23927,13 +23918,12 @@
     "url": "https://de.linkedin.com/jobs/view/cio-w-m-d-at-rebel-recruiting-4445934643",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical executive position, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is a CIO position, which falls outside Vineeth's domain of focus on Power Integrity and related areas within VLSI.",
     "id": "f565df39",
     "source": "linkedin_eu_semiconductor_cto_p2",
-    "posted_date": "vor 17 stunden",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer (\u00a3100k-\u00a3140k + Equity) at VC-backed B2B marketplace scale-up",
@@ -23942,13 +23932,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-technology-officer-%C2%A3100k-%C2%A3140k-%2B-equity-at-vc-backed-b2b-marketplace-scale-up-at-jack-jill-4445429258",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a CTO leadership position that does not match Vineeth's technical domain of Power Integrity, Signal Integrity, CAD/Methodology, Physical Design or EDA Tools.",
+    "reason": "The role is a Chief Technology Officer for a B2B marketplace, which does not align with Vineeth's expertise in power integrity and advanced packaging.",
     "id": "68746c69",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "vor 4 stunden",
+    "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information & Transformation Officer",
@@ -23957,13 +23946,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-information-transformation-officer-at-three-twenty-search-4442874934",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical leadership position focusing on overall technology and digital strategy, not specific to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Chief Information & Transformation Officer, which focuses on broader IT strategy and transformation rather than specific semiconductor engineering domains like power integrity or advanced packaging.",
     "id": "21463381",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "vor 11 stunden",
-    "deadline": "67 bewerbungen",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-28",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "CIO Associate",
@@ -23972,13 +23960,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cio-associate-at-dartmouth-partners-4445142211",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, HR focused, and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "This role is for an Investment Associate focused on private equity, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "fe3b8fb1",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer, Cloud9",
@@ -23987,13 +23974,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-technology-officer-cloud9-at-symphony-4446101321",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a CTO leadership role at a company (Symphony) which does not match Vineeth's specific domain experience in semiconductor, VLSI, EDA.",
+    "reason": "The role is a Chief Technology Officer, focusing on broader technology leadership and cloud platform strategy rather than power integrity or related VLSI engineering areas.",
     "id": "db685637",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -24002,13 +23988,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-technology-officer-at-alfa-ai-4445163702",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a senior leadership role without specific technical domain requirements, making it unsuitable for Vineeth's power integrity and advanced packaging background.",
+    "reason": "While this is a leadership role and located in the UK, it's for a CTO focused on AI agent development rather than semiconductor/VLSI/EDA domains.",
     "id": "42dda238",
     "source": "linkedin_uk_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Co-Founder / CTO",
