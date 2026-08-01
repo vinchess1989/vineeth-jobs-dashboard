@@ -15668,17 +15668,16 @@
   {
     "title": "Registered Nurse for Home Care Agency",
     "company": "Home Care Agency",
-    "location": "Extract from page",
+    "location": "Paramus, NJ, USA",
     "url": "https://www.indeed.com/rc/clk?jk=1aa64a5102b35b69",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (registered nurse) at a home care agency, which is outside the semiconductor/VLSI/EDA technical domain.",
+    "reason": "This is a Registered Nurse position for a home care agency, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related VLSI/EDA expertise.",
     "id": "e64a9217",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Home Health Registered Nurse",
@@ -15687,13 +15686,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=81cafb4518e780f4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a healthcare nursing role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Home Health Registered Nurse, which falls outside Vineeth's expertise in semiconductor/VLSI/EDA.",
     "id": "e599fb76",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Nurses Needed Medicare Home Health Visits",
@@ -15702,13 +15700,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=f9ee9b6dc39cc60a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical nursing role, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The job is for nursing roles and does not align with Vineeth's expertise in semiconductor, VLSI, or EDA.",
     "id": "84ccdffb",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Analyst/Manager, Strategic Business Operations & Analytics",
@@ -15717,13 +15714,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-analyst-manager-strategic-business-operations-analytics-at-flagship-pioneering-4425323168",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business/strategy-focused analyst position, not an engineering or technical role related to semiconductors, VLSI, EDA.",
+    "reason": "The job focuses on strategic business operations and analytics within a biotech company, lacking the required focus on power integrity, advanced packaging, or related VLSI domains.",
     "id": "8a8ba600",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SAP PI/PO & CPI",
@@ -15732,13 +15728,12 @@
     "url": "https://in.linkedin.com/jobs/view/sap-pi-po-cpi-at-teamware-solutions-4445946050",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for SAP PI/PO & CPI development, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on SAP PI/PO and CPI development, which is unrelated to Vineeth's Power Integrity, Advanced Packaging, or VLSI expertise.",
     "id": "2befb5b2",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior E-Invoicing Technical Expert",
@@ -15747,13 +15742,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-e-invoicing-technical-expert-at-darwin-recruitment-4444877747",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on e-invoicing and billing integration, which does not match Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The job focuses on e-invoicing integration and lacks any mention of power integrity, advanced packaging, EDA tools (RedHawk/Voltus), or related areas within Vineeth's expertise.",
     "id": "ece019f4",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-27",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GN-I&E-Capital Markets-Asset Management-Analyst",
@@ -15762,13 +15756,12 @@
     "url": "https://in.linkedin.com/jobs/view/gn-i-e-capital-markets-asset-management-analyst-at-accenture-in-india-4445671050",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a consulting position at Accenture's Asset Management Centre of Excellence, which is in the financial services industry. This is not a semiconductor/VLSI/EDA engineering position.",
+    "reason": "This role is for a business analyst within Accenture's Capital Markets division, focusing on asset management consulting and not related to power integrity, EDA tools, or VLSI design.",
     "id": "2a12baec",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(SMTS) - SoC Physical Design Engineer,",
@@ -15776,14 +15769,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/smts-soc-physical-design-engineer-at-mrl-consulting-group-global-niche-technology-recruitment-4445914984",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's domain of SoC physical design and leadership.",
+    "matches_requirements": "no",
+    "reason": "The role is based in San Jose, CA, which violates the location rejection criteria for US-based roles without visa sponsorship.",
     "id": "1a3e848b",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": "job_descriptions/mrl_consulting_group__smts____soc_physical_design_e_1a3e848b.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Radio Frequency Design Engineer",
@@ -15792,13 +15784,12 @@
     "url": "https://in.linkedin.com/jobs/view/radio-frequency-design-engineer-at-zen-technologies-limited-4445105017",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RF system design and hardware development for defense-grade counter-drone electronics, which is outside Vineeth's domain of expertise in semiconductor power integrity, advanced packaging, EDA tools and VLSI.",
+    "reason": "The role focuses on RF design within a defense systems context, which is outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "618e4ab8",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Alternant Charg\u00e9 Assurance Qualit\u00e9 H/F",
@@ -15807,13 +15798,12 @@
     "url": "https://fr.linkedin.com/jobs/view/alternant-charg%C3%A9-assurance-qualit%C3%A9-h-f-at-si-group-4445927176",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship focused on Quality Assurance rather than matching Vineeth's technical expertise in semiconductor VLSI EDA areas.",
+    "reason": "This is an internship for a Quality Assurance role within a chemical manufacturing company, which does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI/EDA domains.",
     "id": "b1240cc8",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Mechanical Turbine & Aux",
@@ -15822,13 +15812,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-mechanical-turbine-aux-at-adani-power-4445319944",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is mechanical turbine & aux operations, not related to semiconductor VLSI EDA jobs.",
+    "reason": "The role is focused on mechanical turbine maintenance and does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tools.",
     "id": "268c5490",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Support DMT Mbr Turbine (CPP3)",
@@ -15837,13 +15826,12 @@
     "url": "https://in.linkedin.com/jobs/view/support-dmt-mbr-turbine-cpp3-at-aditya-birla-group-4445233931",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical manufacturing operations role, not semiconductor/VLSI/EDA engineering.",
+    "reason": "The job focuses on turbine maintenance and does not align with Vineeth's expertise in power integrity, advanced packaging, or related EDA tools.",
     "id": "82cedbdd",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Engineer, Mechanical",
@@ -15852,13 +15840,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-mechanical-at-ceco-environmental-corporation-4272067574",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for mechanical engineering, not semiconductor/VLSI/EDA",
+    "reason": "The job is for a Mechanical Engineer with a focus on exhaust systems, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "fc394ea9",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Engineer-Fuel",
@@ -15867,13 +15854,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-engineer-fuel-at-tata-technologies-4445946380",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in mechanical fuel system design, which is outside Vineeth's domain of expertise in Power Integrity and SoC packaging.",
+    "reason": "The job focuses on powertrain fuel systems and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "77286d41",
     "source": "linkedin_india_thermal_p2",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hybrid AI/CFD Approach for Simulating Droplet Impacts in Thermal Coatings",
@@ -15882,13 +15868,12 @@
     "url": "https://fr.linkedin.com/jobs/view/hybrid-ai-cfd-approach-for-simulating-droplet-impacts-in-thermal-coatings-at-groupe-calcul-4445675490",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on AI/CFD simulations of droplet impacts, which does not align with Vineeth's VLSI/EDA/semiconductor background.",
+    "reason": "The role is a PhD position focused on AI/CFD research, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "1e6ed9e5",
     "source": "linkedin_eu_thermal",
-    "posted_date": "01 d\u00e9cembre 2025",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Key Account Manager \u2013 Automotive",
