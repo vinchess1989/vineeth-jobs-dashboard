@@ -27544,28 +27544,12 @@
     "url": "https://www.indeed.com/career/salaries/Package%20Development%20Engineer/Austin,%20TX?campaignid=serp-more&fromjk=4d300aede0fd9efb&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is primarily verification (testbench development, UVM) which is outside Vineeth's domain.",
+    "reason": "The role is based in San Diego, CA, USA and explicitly mentions a location requirement within the US, triggering a hard rejection due to lack of visa sponsorship eligibility.",
     "id": "f643d5ec",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior RF Engineer",
-    "company": "Oxford Quantum Circuits (OQC)",
-    "location": "Reading, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/senior-rf-engineer-at-oxford-quantum-circuits-oqc-4446306616",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is in RF engineering for quantum computers, which is outside Vineeth's domain of expertise in power integrity and advanced packaging.",
-    "id": "83353a48",
-    "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "2026-07-07",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Supply Planner",
@@ -27574,13 +27558,12 @@
     "url": "https://uk.linkedin.com/jobs/view/supply-planner-at-faith-in-nature-4443298493",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Supply Planner position at a consumer products company, outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a Supply Planner, focusing on material requirements planning and inventory control, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "b37d8c48",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Remote Audio Engineer \u2013 Sci-Fi Short Film",
@@ -27589,13 +27572,12 @@
     "url": "https://www.linkedin.com/jobs/view/remote-audio-engineer-%E2%80%93-sci-fi-short-film-at-twine-4442851140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for audio post-production on a short film, which is outside Vineeth's domain in semiconductor/VLSI/EDA.",
+    "reason": "This role is for an Audio Engineer focused on film post-production, which falls outside Vineeth's expertise in Power Integrity and advanced packaging.",
     "id": "ed0f39b4",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer, Cloud Silicon",
@@ -27604,13 +27586,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-cloud-silicon-at-google-4427707532",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily software development (System Verilog coding, TCL scripting), which is outside Vineeth's domain of Power Integrity, Advanced Packaging and EDA tools.",
+    "reason": "The role is primarily focused on physical design of SoCs, which falls outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
     "id": "32248723",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Events Manager",
@@ -27619,13 +27600,12 @@
     "url": "https://de.linkedin.com/jobs/view/events-manager-at-helsing-4420743396",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on event management and brand experience, which does not match Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The role is for an Events Manager, which falls outside Vineeth's expertise in power integrity and advanced packaging within the semiconductor domain.",
     "id": "61f85629",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-06-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Product Director",
@@ -27634,13 +27614,12 @@
     "url": "https://de.linkedin.com/jobs/view/global-product-director-at-emma-%E2%80%93-the-sleep-company-4436206191",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical marketing/product management, outside Vineeth's semiconductor/VLSI/EDA domain expertise.",
+    "reason": "The role is a Product Director position focused on consumer goods, lacking the required technical depth in power integrity, advanced packaging, or EDA tools.",
     "id": "f487fcaa",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director of Product - Hybrid Play",
@@ -27649,13 +27628,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-director-of-product-hybrid-play-at-lego-digital-play-4445726633",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a product management position for digital entertainment experiences, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on product management for hybrid play and doesn't align with Vineeth's expertise in power integrity, advanced packaging, or VLSI domains.",
     "id": "af8ab726",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Systems Engineer - (Tactical Communications Systems)",
@@ -27664,13 +27642,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-hardware-systems-engineer-tactical-communications-systems-at-general-dynamics-uk-limited-4445707218",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily hardware systems engineering, not semiconductor VLSI EDA.",
+    "reason": "The job description lacks keywords related to Power Integrity, RedHawk, Voltus, or other relevant EDA tools and focuses on general systems engineering within a military context.",
     "id": "b4990987",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Engineer",
@@ -27679,13 +27656,12 @@
     "url": "https://www.linkedin.com/jobs/view/cyber-security-engineer-at-veritis-group-inc-4445740630",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a cybersecurity automation engineer focused on SIEM/SOAR platforms and tooling, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The role is a Cyber Security Engineer focused on automation and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related domains.",
     "id": "2b15ac83",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Security Engineer",
@@ -27694,13 +27670,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-security-engineer-at-arcadia-4437174913",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on security engineering and operations, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The role is a Security Engineer focusing on security operations and incident response, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "a2cd44d5",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Engineer/Staff Engineer, Design Verification,System IP",
@@ -27709,13 +27684,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-staff-engineer-design-verification-system-ip-at-tenstorrent-4417870728",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (UVM, system-level) which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is primarily focused on design verification using SystemVerilog and UVM, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "12fcdba3",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IAM Lead",
@@ -27724,13 +27698,12 @@
     "url": "https://es.linkedin.com/jobs/view/senior-iam-lead-at-nexthink-4443253769",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Identity and Access Management (IAM), not Power Integrity, advanced packaging, VLSI/EDA.",
+    "reason": "The role is focused on Identity and Access Management (IAM), which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "47bb0b5b",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cloud Engineer",
@@ -27739,13 +27712,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cloud-engineer-at-sanderson-4446193788",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior AWS Platform Engineer focused on AI platform build with DevOps automation, not directly related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Cloud Engineer focused on AWS platform development and does not align with Vineeth's Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "70e42dde",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SENIOR PARTNER",
@@ -27754,13 +27726,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-partner-at-raising-paddles-llc-4442801149",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general business leadership position, unrelated to Vineeth's technical expertise in semiconductor VLSI/EDA.",
+    "reason": "The role is a Senior Partner position with Raising Paddles LLC, which does not align with Vineeth's expertise in Power Integrity and Advanced Packaging within the semiconductor industry.",
     "id": "67ba8a37",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Don't See A Perfect Role? Apply Anyway!",
