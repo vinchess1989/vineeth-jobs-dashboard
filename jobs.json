@@ -2718,17 +2718,16 @@
   {
     "title": "Salaries for Process Engineer, Richardson, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Richardson, TX, USA",
     "url": "https://www.indeed.com/career/process-engineer/salaries/Richardson--TX",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it is not a relevant power integrity or VLSI role.",
     "id": "b692ba63",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "XF: Founding Team Members at Entrepreneurs First",
@@ -2737,13 +2736,12 @@
     "url": "https://uk.linkedin.com/jobs/view/xf-founding-team-members-at-entrepreneurs-first-at-jack-jill-4444832110",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is not a technical engineering role, but rather for founding team members at a venture capital firm.",
+    "reason": "This role targets repeat founders and early employees, focusing on business development rather than technical domains like power integrity or EDA.",
     "id": "0f12d411",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Patent Prosecution Attorney/ Engineer",
@@ -2752,13 +2750,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16042&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a legal role for a semiconductor company, but does not match Vineeth's background in Power Integrity, packaging, and methodology.",
+    "reason": "The role is a patent prosecution attorney, which falls outside Vineeth's technical domain of power integrity, advanced packaging, and VLSI design.",
     "id": "fa3a22ff",
     "source": "tsmc_careers",
     "posted_date": "2026-03-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -2767,13 +2764,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSr-Patent-Prosecution-Attorney-Engineer%2F16042",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in patent prosecution, which is not directly related to Vineeth's background in power integrity and advanced packaging.",
+    "reason": "The job description indicates a security verification task, which falls under verification and is explicitly excluded from Vineeth's domain.",
     "id": "cb6f8b92",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Engineering Manager",
@@ -2782,13 +2778,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electronics-engineering-manager-at-edison-smart%C2%AE-4440017368",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an electronics engineering management role focusing on a medical device startup, which does not match Vineeth's technical background in power integrity, advanced packaging and EDA tooling.",
+    "reason": "The job description lacks explicit mention of Power Integrity, PDN analysis, RedHawk, Voltus, or related keywords, failing the keyword pre-filter requirement.",
     "id": "e79d9649",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-19",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Quality Engineer",
@@ -2797,28 +2792,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=1fc91c16524510e2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) - this is outside Vineeth's domain.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's outside Vineeth's area of expertise.",
     "id": "7112db3a",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Quality Engineer salaries in San Diego, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Diego, CA, USA",
     "url": "https://www.indeed.com/career/senior-quality-engineer/salaries/San-Diego--CA?campaignid=serp-more&fromjk=1fc91c16524510e2&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Quality Engineer, which is an entry-level/mid-level position with less than 7 years of experience. This does not match Vineeth's 15+ years of experience in Power Integrity and Advanced Packaging.",
+    "reason": "The job is for a Quality Engineer, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "741e6fcc",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FLS Production Engineer - Optical Alignment & Metrology Competency (Days)",
@@ -2827,28 +2820,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=735b33ba9560d7f4",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on optical alignment, metrology, and image processing algorithms which are outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The job focuses on optical alignment and metrology, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "2c3d8ba2",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FLS Production Engineer - Optical Alignment & Metrology Competency (Days) salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Wilton, CT, USA",
     "url": "https://www.indeed.com/career/salaries/Production%20Engineer/Wilton,%20CT?campaignid=serp-more&fromjk=735b33ba9560d7f4&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Production Engineer) and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN Sign-off.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on production engineering for optical alignment and metrology, which falls outside Vineeth's expertise.",
     "id": "f617e36f",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FLS Production Engineer - Optical Alignment & Metrology Competency (Nights)",
@@ -2857,13 +2848,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=6840f616238dd529",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a production engineering role for ASML, which makes lithography systems for semiconductor manufacturing. It does not fit Vineeth's background in power integrity and advanced packaging.",
+    "reason": "The job focuses on optical alignment and metrology, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "7379ac2a",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-05",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FLS Production Engineer - Optical Alignment & Metrology Competency (Nights) salaries",
@@ -2872,43 +2862,40 @@
     "url": "https://www.indeed.com/career/salaries/Production%20Engineer/Wilton,%20CT?campaignid=serp-more&fromjk=6840f616238dd529&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This production engineering role is for optical alignment and metrology competency, which does not match Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, thermal analysis, and CAD methodology.",
+    "reason": "The job description does not contain any relevant keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on optical alignment and metrology, which falls outside Vineeth's expertise.",
     "id": "390ad56c",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Inspector, Solar Cells (Starlink)",
     "company": "Bastrop, TX",
-    "location": "Extract from page",
+    "location": "Bastrop, TX, USA",
     "url": "https://www.indeed.com/rc/clk?jk=1f130c1ef4ddcdeb",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical quality role, not semiconductor/VLSI/EDA related.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "931dbb99",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quality Inspector, Solar Cells (Starlink) salaries in Bastrop, TX",
-    "company": "Extract from page",
+    "company": "Starlink",
     "location": "Bastrop, TX, USA",
     "url": "https://www.indeed.com/career/quality-assurance-inspector/salaries/Bastrop--TX?campaignid=serp-more&fromjk=1f130c1ef4ddcdeb&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Quality Assurance Inspector for solar cells, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC PDN sign-off, and Thermal Analysis. It is also not a leadership or engineering role.",
+    "reason": "The job is for a Quality Inspector of Solar Cells, which falls outside Vineeth's target domains of power integrity, advanced packaging, CAD methodology, physical design, EDA tools or VLSI/SoC Design.",
     "id": "5dd9fc21",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design and STA Engineer",
@@ -2917,13 +2904,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-design-and-sta-engineer-at-nvidia-4444804215",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC design and STA (Static Timing Analysis), which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is focused on ASIC design and STA, which falls within VLSI design but does not align with Vineeth's focus on Power Integrity, Advanced Packaging, or EDA tool methodology.",
     "id": "eaa07c50",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardwareingenieur:in",
@@ -2932,13 +2918,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardwareingenieur-in-at-tintschl-unternehmensgruppe-4442580788",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for hardware development of network products, which does not match Vineeth's background in semiconductor VLSI EDA.",
+    "reason": "The role focuses on mechanical design and lacks the required power integrity, advanced packaging, or EDA tool expertise for Vineeth's profile.",
     "id": "4ff766e5",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Engineer - Settore Intralogistica",
