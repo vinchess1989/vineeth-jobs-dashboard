@@ -31,3 +31,6 @@ scratch/
 # Firebase local cache (not part of the project, changes on every deploy)
 firebase_app/.firebase/
 logs/
+
+# Runtime lock files
+*.lock
