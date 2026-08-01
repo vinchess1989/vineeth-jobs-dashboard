@@ -21916,13 +21916,12 @@
     "url": "https://www.linkedin.com/jobs/view/business-development-manager-at-kodilion-4441194107",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business development manager, which is non-technical and outside Vineeth's domain.",
+    "reason": "The job is a Business Development Manager role, which is not within Vineeth's domain of expertise in power integrity and advanced packaging.",
     "id": "390fc4e7",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "INTERPOL Enhanced Secondment Program",
@@ -21931,13 +21930,12 @@
     "url": "https://fr.linkedin.com/jobs/view/interpol-enhanced-secondment-program-at-interpol-4430208686",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a secondment program at INTERPOL, not a semiconductor/VLSI/EDA role.",
+    "reason": "This role is for a law enforcement officer within INTERPOL and focuses on international cooperation, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "671eb987",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-04-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Vice President, Middle Office Support - Capital Markets Operations",
@@ -21946,13 +21944,12 @@
     "url": "https://www.linkedin.com/jobs/view/vice-president-middle-office-support-capital-markets-operations-at-cr%C3%A9dit-agricole-cib-4408106229",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a banking/finance operations management position, not a technical engineering or EDA role that Vineeth Prathapachandra Kaimal is qualified for.",
+    "reason": "This role is for a Middle Office Support position in Capital Markets, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "0e341c0a",
     "source": "linkedin_ww_emir",
     "posted_date": "2026-06-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer II (EMIR / PDN Analysis & Power Integrity)",
@@ -21960,14 +21957,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/product-engineer-ii-emir-pdn-analysis-power-integrity-at-cadence-4445194958",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is at Cadence, which makes EDA tools, so it's outside Vineeth's domain of semiconductor companies.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on EMIR/PDN analysis and power integrity, aligning with Vineeth's expertise, and lists relevant tools like Python and TCL.",
     "id": "d7030817",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/cadence_product_engineer_ii__emir___pd_d7030817.txt"
   },
   {
     "title": "Converter",
@@ -21976,13 +21972,12 @@
     "url": "https://www.linkedin.com/jobs/view/converter-at-simplaapliko-4446140975",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The listed role is for a 'Converter' app developer, which falls outside semiconductor/VLSI/EDA engineering. It's a software/mobile app dev position.",
+    "reason": "The job title 'Converter' and description indicate a simple unit conversion application, which is far from Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
     "id": "7736595c",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SIAMESE KIDS THE OFFICE DWIGHT SCHRUTE",
@@ -21991,13 +21986,12 @@
     "url": "https://www.linkedin.com/jobs/view/siamese-kids-the-office-dwight-schrute-at-siamese-4445647776",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical administrative role, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not related to power integrity or VLSI/EDA.",
     "id": "706e1e04",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Philip Turbanov",
@@ -22006,13 +22000,12 @@
     "url": "https://www.linkedin.com/jobs/view/philip-turbanov-at-rubrain-com-4444834416",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for Project Management, Business Intelligence, and Data Analysis - unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a business development/management role outside of Vineeth's expertise.",
     "id": "18362dc8",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Verification Engineer",
@@ -22021,13 +22014,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Allentown-1110-American-Parkway-NE/Verification-Engineer_R024030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification-focused (UVM, SystemVerilog, RTL) which falls outside Vineeth's main areas of Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on verification, which falls outside Vineeth's domain of expertise.",
     "id": "6fa8ddba",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced Mainframe Software Development Engineer",
@@ -22036,13 +22028,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Experienced-Mainframe-Software-Development-Engineer_R025083-2",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical software development role at a semiconductor company, which is outside Vineeth's domain.",
+    "reason": "The role focuses on mainframe software development with Assembler language, which is outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
     "id": "1920b388",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -22051,13 +22042,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-alstom-4432707575",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on railway systems hardware and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job focuses on general hardware and embedded software development, rather than power integrity or advanced packaging, and lacks key terms like PDN, Redhawk, or Voltus.",
     "id": "9cfc6667",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-14",
-    "deadline": "28/7/26",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-05",
+    "description_file": null
   },
   {
     "title": "Infrastructure and Tools Developer",
@@ -22066,13 +22056,12 @@
     "url": "https://www.linkedin.com/jobs/view/infrastructure-and-tools-developer-at-ericsson-4445197479",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a frontend CAD infrastructure and tools engineer, which does not match Vineeth's background in power integrity (PI) and advanced packaging.",
+    "reason": "The job focuses on front-end CAD infrastructure and tools development, which is software engineering rather than Vineeth's area of expertise in power integrity or advanced packaging.",
     "id": "7048c803",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior CPU Compiler Performance Engineer",
@@ -22080,14 +22069,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-cpu-compiler-performance-engineer-at-nvidia-4441360878",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a compiler engineer focusing on AI workloads and CPUs, which does not match Vineeth's Power Integrity/Advanced Packaging background.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on compiler performance engineering for CPUs, aligning with Vineeth's experience in CAD methodology and scripting skills but lacks direct Power Integrity focus.",
     "id": "5d371886",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Amplity \u2013 Join Our Talent Community in Spain",
@@ -22096,13 +22084,12 @@
     "url": "https://es.linkedin.com/jobs/view/amplity-%E2%80%93-join-our-talent-community-in-spain-at-amplity-4414723029",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general talent community sign-up with no specific position, so it doesn't match Vineeth's technical leadership role in semiconductor/EDA.",
+    "reason": "The job posting is for a Medical Science Liaison role, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "5bb1548b",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Spontaneous Application: Talent Community \u2013 Experienced Professionals",
@@ -22111,13 +22098,12 @@
     "url": "https://it.linkedin.com/jobs/view/spontaneous-application-talent-community-%E2%80%93-experienced-professionals-at-fater-4389120916",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (Human Resources) at a consumer goods company, which does not match the semiconductor/VLSI/EDA domain focus.",
+    "reason": "This is a spontaneous application for a talent community, targeting general professionals across various departments and not specifically focused on semiconductor/VLSI/EDA roles.",
     "id": "58ffd57e",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-03-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PST - BABY - Converting Technician - Band BTA",
@@ -22126,13 +22112,12 @@
     "url": "https://es.linkedin.com/jobs/view/pst-baby-converting-technician-band-bta-at-procter-gamble-espa%C3%B1a-4350216673",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a converting technician for a consumer goods company (P&G), which involves manufacturing and production rather than semiconductor, VLSI, EDA work.",
+    "reason": "The job is for a converting technician at Procter & Gamble, which does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tools.",
     "id": "3d3ebf1e",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-03-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Compensation - Global Engagement Lead",
