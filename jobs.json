@@ -19200,28 +19200,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=46c2c4aeb0c7ffab",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily creative & design-focused, while Vineeth's background is highly technical in semiconductor VLSI/EDA.",
+    "reason": "The role is a Mechanical Engineer position, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "35ece1f0",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "frog, Mechanical Engineer salaries in New York, NY",
     "company": "frog",
-    "location": "Extract from page",
+    "location": "New York, NY, USA",
     "url": "https://www.indeed.com/career/mechanical-engineer/salaries/New-York--NY?campaignid=serp-more&fromjk=46c2c4aeb0c7ffab&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role (Mechanical Engineer) at a semiconductor company, which is outside Vineeth's domain.",
+    "reason": "The job title and description do not contain any of the required keywords related to power integrity, advanced packaging, or EDA tools.",
     "id": "9b6a0b14",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chipset Power Engineer",
@@ -19230,13 +19228,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=c3f97449d08cfc0c",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at Qualcomm, a semiconductor/SoC company, but specifically requires experience with server-class chipset design for data center applications. Vineeth's background is in mobile SoCs and advanced packaging.",
+    "reason": "The role is US-based and does not offer visa sponsorship, violating the location requirements.",
     "id": "c1208000",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chipset Power Engineer salaries in Hillsboro, OR",
@@ -19245,13 +19242,12 @@
     "url": "https://www.indeed.com/career/engineer/salaries/Hillsboro--OR?campaignid=serp-more&fromjk=c3f97449d08cfc0c&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency, which disqualifies it based on the hard rejection criteria.",
+    "reason": "The job is located in Hillsboro, OR, USA, which falls under a hard rejection due to explicit US residency requirements without visa sponsorship.",
     "id": "5da7044e",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HVAC Thermal Manager",
@@ -19260,28 +19256,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=ffedc9eb02222655",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is located at a Samsung manufacturing facility, which does not fit the semiconductor/VLSI/EDA domain focus. Also, it requires a professional engineering license.",
+    "reason": "The role is for an HVAC Thermal Manager, which falls under facilities engineering and not within Vineeth's domains of power integrity, advanced packaging, or EDA.",
     "id": "eff668e7",
     "source": "indeed_ww_thermal_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-22",
     "deadline": "2026-12-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HVAC Thermal Manager salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Taylor, TX, USA",
     "url": "https://www.indeed.com/career/salaries/HVAC%20Supervisor/Taylor,%20TX?campaignid=serp-more&fromjk=ffedc9eb02222655&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an HVAC Supervisor, which is unrelated to semiconductor/VLSI/EDA technical roles.",
+    "reason": "This job is for an HVAC Supervisor, which falls outside of Vineeth's targeted domains of semiconductor/VLSI/EDA engineering and leadership.",
     "id": "8bdab60a",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SERDES Firmware Engineer",
@@ -19290,43 +19284,40 @@
     "url": "https://www.indeed.com/rc/clk?jk=358d88930d3d0e8a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for SerDes Firmware Engineer which falls under software development domain, not Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a SERDES Firmware Engineer, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "286deae8",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Drive Cell Engineer Operator",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Stellantis",
+    "location": "Proving Grounds \u2013 Chelsea, US",
     "url": "https://www.indeed.com/rc/clk?jk=14b469df3c4b8204",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on manufacturing operations for thermal drives, which does not match Vineeth's background in semiconductor power integrity, advanced packaging, and EDA.",
+    "reason": "The job focuses on thermal testing and powertrain cooling, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "c34a60d3",
     "source": "indeed_india_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-22",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Drive Cell Engineer Operator salaries in Chelsea, MI",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Chelsea, MI, USA",
     "url": "https://www.indeed.com/career/owner-operator-driver/salaries/48118--MI?campaignid=serp-more&fromjk=14b469df3c4b8204&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a driver/operator, which is non-technical and falls outside Vineeth's domain.",
+    "reason": "The job title and description lack keywords related to Power Integrity, PDN, Redhawk, Voltus, or other relevant terms, indicating it's not a suitable match for Vineeth's expertise.",
     "id": "6bbca1da",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer IV",
@@ -19335,28 +19326,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=f6181dcce79a912d",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Mechanical Engineering role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a Mechanical Engineer focused on HVAC systems, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "e08982aa",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer IV salaries in Atlanta, GA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Atlanta, GA, USA",
     "url": "https://www.indeed.com/career/mechanical-engineer/salaries/Atlanta--GA?campaignid=serp-more&fromjk=f6181dcce79a912d&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Mechanical Engineering role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Mechanical Engineer, which falls outside Vineeth's expertise in power integrity and VLSI.",
     "id": "02f9583e",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Thermal Engineer - Spacecraft Analysis, AI Satellites (Starmind)",
@@ -19365,13 +19354,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=48a42d7966207d55",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a thermal engineer working on AI satellites, which is not within Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on spacecraft thermal analysis, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
     "id": "b565d6b4",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Thermal Engineer - Spacecraft Analysis, AI Satellites (Starmind) salaries in Austin, TX",
@@ -19380,13 +19368,12 @@
     "url": "https://www.indeed.com/career/senior-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=48a42d7966207d55&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on spacecraft thermal analysis, which is outside Vineeth's domain of expertise in semiconductor power integrity and packaging.",
+    "reason": "The role focuses on spacecraft thermal analysis, which falls outside Vineeth's targeted domains of Power Integrity, Advanced Packaging, and CAD methodology.",
     "id": "17ea191a",
     "source": "indeed_india_thermal",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer",
@@ -19395,28 +19382,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=72d184e29b0584ac",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Mechanical Engineer role, which falls outside Vineeth's technical expertise in semiconductor/VLSI/EDA. It does not match any of the specified technical domains.",
+    "reason": "The role is for a Mechanical Engineer, which falls outside Vineeth's expertise in VLSI/EDA domains like power integrity and advanced packaging.",
     "id": "3268acfd",
     "source": "indeed_india_thermal",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer salaries in Westerville, OH",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Westerville, OH, USA",
     "url": "https://www.indeed.com/career/mechanical-engineer/salaries/Westerville--OH?campaignid=serp-more&fromjk=72d184e29b0584ac&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Mechanical Engineer role at a semiconductor company, which does not match Vineeth's background in EDA and semiconductor technical roles.",
+    "reason": "This job is for a Mechanical Engineer, which falls outside Vineeth's domain of focus on power integrity and advanced packaging within the semiconductor industry.",
     "id": "59a71179",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer I (Mechanical Engineer)",
