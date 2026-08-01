@@ -8770,13 +8770,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42233672",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on reliability testing, defectivity and qualification rather than Power Integrity/Advanced Packaging which Vineeth specializes in.",
+    "reason": "The role focuses on reliability testing and is not aligned with Vineeth's expertise in power integrity, advanced packaging, or EDA tool methodology.",
     "id": "7530def5",
     "source": "micron_careers",
     "posted_date": "a month ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff STPG Product Engineering - ProbeSingapore, SingaporePosted a month ago",
@@ -8784,14 +8783,13 @@
     "location": "Singapore, Singapore",
     "url": "https://micron.eightfold.ai/careers/job/42796670",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Senior/Staff STPG Product Engineering role at Micron, which doesn't fit Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with product engineering within a semiconductor context, involving silicon learning and probe strategy, but lacks explicit mention of Power Integrity or related tools like RedHawk/Voltus.",
     "id": "86f4ae7c",
     "source": "micron_careers",
     "posted_date": "a month ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer, Metrology Engineering (2026 New College Graduate)Essex, VT, USPosted a month ago",
@@ -8800,13 +8798,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770090769",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a new college graduate position focused on semiconductor manufacturing metrology engineering, which does not match Vineeth's experience in power integrity, advanced packaging, SoC PDN sign-off, and CAD methodology.",
+    "reason": "This is a New College Graduate role for a Metrology Process Engineer, which falls outside Vineeth's experience and target domains of Power Integrity, Advanced Packaging, or EDA.",
     "id": "07069340",
     "source": "globalfoundries_careers",
-    "posted_date": "06/30/2026",
+    "posted_date": "a month ago",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assoc Engineer Process Engineering (Jul 2026 Recruitment Drive)SGPosted 25 days ago",
@@ -8815,13 +8812,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770152916",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Associate Engineer in production process execution, which does not match the technical background and experience of Vineeth.",
+    "reason": "The role is focused on process engineering and production support, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "41a78eda",
     "source": "globalfoundries_careers",
     "posted_date": "2026-02-07",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Design Engineer (MTD, Tualatin, OR)",
@@ -8830,13 +8826,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-design-engineer-mtd-tualatin-or-at-teradyne-4437606400",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA design for memory test instrumentation, which does not closely match Vineeth's domain of power integrity, packaging, and EDA automation.",
+    "reason": "The role focuses on FPGA design, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "d4244379",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Platform Architect (Semiconductor Design)",
@@ -8844,14 +8839,13 @@
     "location": "India",
     "url": "https://in.linkedin.com/jobs/view/ai-platform-architect-semiconductor-design-at-tylsemi-4445631106",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on AI infrastructure for semiconductor design, which does not directly match Vineeth's power integrity and packaging background.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses heavily on AI platform architecture and agent-based workflows, which aligns with Vineeth's broader experience but isn't a direct Power Integrity or Advanced Packaging match.",
     "id": "d5e5f792",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Rent the Runway",
@@ -8860,13 +8854,12 @@
     "url": "https://in.linkedin.com/jobs/view/rent-the-runway-at-nidup-4445645657",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical business consulting and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "This is a non-technical role (likely related to HR or organizational structure) at a company, and it doesn't align with Vineeth's expertise in VLSI/EDA.",
     "id": "a0a75c25",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Comment nous recrutons\u202f?",
@@ -8875,13 +8868,12 @@
     "url": "https://uk.linkedin.com/jobs/view/comment-nous-recrutons%E2%80%AF%3F-at-turgis-gaillard-4445646466",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general recruitment consultant role, not specific to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a recruiter position, which falls outside Vineeth's engineering domain.",
     "id": "6fa290e5",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SIAMESE THE OFFICE DWIGHT SCHRUTE",
@@ -8890,13 +8882,12 @@
     "url": "https://www.linkedin.com/jobs/view/siamese-the-office-dwight-schrute-at-siamese-4445629855",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an administrative office role, not a technical semiconductor/VLSI/EDA position.",
+    "reason": "The job title, description, and keywords do not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "cec5a954",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Siamese Everybody Loves Greg",
@@ -8905,13 +8896,12 @@
     "url": "https://www.linkedin.com/jobs/view/siamese-everybody-loves-greg-at-siamese-4445629854",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is not related to semiconductor/VLSI/EDA industry, and falls under retail/human resources",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) indicating it is not related to power integrity or VLSI.",
     "id": "44d03f97",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Researcher/ Senior Researcher, Engines and Vehicles",
@@ -8920,13 +8910,12 @@
     "url": "https://fi.linkedin.com/jobs/view/researcher-senior-researcher-engines-and-vehicles-at-neste-4444848545",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in engine technology research for fuels, not VLSI/EDA semiconductor fields.",
+    "reason": "The role focuses on engine and vehicle technology, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "3ecb3fd4",
     "source": "linkedin_fi_thermal",
     "posted_date": "2026-07-27",
     "deadline": "2026-08-23",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HR System Senior Specialist (Career Management application)",
@@ -8935,13 +8924,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16430&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an HR role focused on career management systems, which does not match Vineeth's technical background in Power Integrity and VLSI.",
+    "reason": "The job is for an HR System Senior Specialist, which is a non-technical role outside Vineeth's expertise.",
     "id": "86d8e690",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -8950,13 +8938,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHR-System-Senior-Specialist-Career-Management-application%2F16430",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for HR/Career Management and does not fit Vineeth's technical background.",
+    "reason": "The job is for a career management specialist, which is a non-technical role and falls outside Vineeth's engineering domain.",
     "id": "6dc5c365",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Corporate Relations Manager for ELEC",
@@ -8965,13 +8952,12 @@
     "url": "https://builtin.com/job/corporate-relations-manager-elec/10388475",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical corporate relations/industry partnerships and does not match Vineeth's technical VLSI/EDA background.",
+    "reason": "This role is for a Corporate Relations Manager, which focuses on partnership development and stakeholder management rather than technical engineering responsibilities.",
     "id": "3c753af7",
     "source": "builtin_semi",
     "posted_date": "2026-07-27",
     "deadline": "2026-08-23",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA\u5f00\u53d1\u5de5\u7a0b\u5e08",
@@ -8980,13 +8966,12 @@
     "url": "https://in.linkedin.com/jobs/view/fpga%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-at-%E5%8C%97%E4%BA%AC%E4%BA%91%E6%99%BA%E8%BD%AF%E9%80%9A%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4445640843",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA development role is outside Vineeth's domain of expertise which focuses on Power Integrity, Advanced Packaging and EDA CAD Methodology.",
+    "reason": "The job is for an FPGA development engineer, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "bfb245d9",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Recruitment & Careers",
