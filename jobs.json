@@ -2512,13 +2512,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769193015",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on device engineering for RF technology at a semiconductor foundry, which does not closely match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on device engineering and TCAD simulation within a specific technology (SiGe HBTs and RF CMOS), which falls outside Vineeth's primary expertise in PDN sign-off, power integrity, and related EDA tools.",
     "id": "38af0e03",
     "source": "globalfoundries_careers",
     "posted_date": "04/24/2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Yield / Integration EngineeringBengaluru, KA, INPosted 5 months ago",
@@ -2526,14 +2525,13 @@
     "location": "Bengaluru, KA, IN",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768903880",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Principal Engineer role with >10 years semiconductor experience matches target leadership level and domain for PI/SI, packaging, and engineering methodology.",
+    "matches_requirements": "no",
+    "reason": "The role focuses on yield and integration engineering, which is outside Vineeth's primary expertise in power integrity, advanced packaging, and related areas.",
     "id": "b5b9c8a0",
     "source": "globalfoundries_careers",
-    "posted_date": "02/17/2026",
+    "posted_date": "2026-03-04",
     "deadline": "N/A",
-    "description_file": "job_descriptions/globalfoundries_principal_engineer_yield___int_b5b9c8a0.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Device Engineering (FRCMOS)SGPosted 2 months ago",
@@ -2541,14 +2539,13 @@
     "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769706724",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches leadership role exception, with strong device engineering experience",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with device engineering and characterization within a semiconductor context, but the experience level is slightly below the priority range given the 2+ years requirement.",
     "id": "3709597f",
     "source": "globalfoundries_careers",
     "posted_date": "2026-05-27",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/globalfoundries_principal_engineer_device_engi_3709597f.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "8 YOE Analog IC Designer considering a switch to Software/ML.",
@@ -2557,13 +2554,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1v6u3zv/8_yoe_analog_ic_designer_considering_a_switch_to/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role (career advice) at a semiconductor community subreddit, which does not match the engineering/technical positions we are targeting.",
+    "reason": "The role focuses on analog IC design and a switch to software/ML, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "2d6cfdcc",
     "source": "reddit_chipdesign",
-    "posted_date": "an hour ago",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Computer Engineering Major Looking for Resume Advice in Anticipation of the Spring and Summer 2027 Internship Hiring Cycle",
@@ -2572,13 +2568,12 @@
     "url": "https://old.reddit.com/r/ECE/comments/1v6vjfw/junior_computer_engineering_major_looking_for/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical, general resume advice request and does not match the semiconductor/VLSI/EDA domain.",
+    "reason": "This posting is seeking resume advice for an internship and is not a technical job opening, falling outside Vineeth's domain.",
     "id": "d21e6340",
     "source": "reddit_ece",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "M2.",
@@ -2587,13 +2582,12 @@
     "url": "https://in.linkedin.com/jobs/view/m2-at-dee-line-4442333753",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role in apparel and fashion, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job title 'M2' and description indicate a retail sales position, which does not align with Vineeth's expertise in semiconductor/VLSI/EDA domains.",
     "id": "2cd15abd",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "U1.",
@@ -2602,13 +2596,12 @@
     "url": "https://in.linkedin.com/jobs/view/u1-at-dee-line-4442342683",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a retail sales position, not an engineering role in semiconductor/VLSI/EDA.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and appears to be for a retail sales position at a perfume company.",
     "id": "725ada04",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MKMP-742",
@@ -2617,13 +2610,12 @@
     "url": "https://se.linkedin.com/jobs/view/mkmp-742-at-daly-creek-winery-bistro-4442340588",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a restaurant winery, well outside Vineeth's semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job is for an entry-level position at a winery and bistro, which does not align with Vineeth's experience level or target domains.",
     "id": "bc03686c",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "W3.",
@@ -2632,13 +2624,12 @@
     "url": "https://uk.linkedin.com/jobs/view/w3-at-dee-line-4442332564",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (HR) and does not match Vineeth's engineering background.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a non-technical role within the Apparel & Fashion industry.",
     "id": "3e41af7a",
     "source": "linkedin_uk_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "W2.",
@@ -2647,13 +2638,12 @@
     "url": "https://uk.linkedin.com/jobs/view/w2-at-dee-line-4442348543",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical 'W2' administrative role at a perfume company, which is outside Vineeth's engineering/technical domain.",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus), indicating it's not a relevant power integrity or EDA role.",
     "id": "5c631dac",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Communications Data Investigator - SPOC",
@@ -2662,13 +2652,12 @@
     "url": "https://uk.linkedin.com/jobs/view/communications-data-investigator-spoc-at-cambridgeshire-constabulary-4445399580",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (communications, data investigator) and does not fit Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The role is a Communications Data Investigator for a police constabulary, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging within the semiconductor industry.",
     "id": "16feed5f",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Industrial Engineering (d/m/f)",
@@ -2677,13 +2666,12 @@
     "url": "https://at.linkedin.com/jobs/view/head-of-industrial-engineering-d-m-f-at-ams-osram-4445398515",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general head of industrial engineering, which does not strongly match Vineeth's specific semiconductor/VLSI/EDA technical domain expertise. It would likely involve more manufacturing and general industrial processes rather than the chip design, power integrity or advanced packaging roles that Vineeth has focused on.",
+    "reason": "The role is for a Head of Industrial Engineering, which falls outside Vineeth's domain expertise focused on power integrity and advanced packaging.",
     "id": "d7af84ca",
     "source": "linkedin_eu_semiconductor_director",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "\u30102027 TSMC RDSS&AO\u3011Intelligent Manufacturing Engineer (IMC/MFG)",
@@ -2692,13 +2680,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22581&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in manufacturing engineering for a semiconductor fab, which does not directly match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job description focuses on intelligent manufacturing and security verification, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "648e346e",
     "source": "tsmc_careers",
     "posted_date": "2026-07-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -2707,13 +2694,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2027-TSMC-RDSS-AO-Intelligent-Manufacturing-Engineer-IMC-MFG%2F22581",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering position focused on intelligent manufacturing systems, which does not match Vineeth's expertise in power integrity, advanced packaging, and EDA.",
+    "reason": "The job description indicates security verification, which falls under a primarily verification role and is outside Vineeth's domain.",
     "id": "539ca907",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salaries for Process Engineer",
@@ -2722,13 +2708,12 @@
     "url": "https://www.indeed.com/career/process-engineer/salaries",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a process engineer, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, CAD Methodology and EDA Tools.",
+    "reason": "The job title 'Salaries for Process Engineer' and description focuses on salary data, which does not align with Vineeth's Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "5349bed3",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salaries for Process Engineer, Richardson, TX",
