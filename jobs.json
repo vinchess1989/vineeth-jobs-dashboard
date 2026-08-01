@@ -32850,13 +32850,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-engineer-capability-mngmt-at-aditya-birla-group-4446382912",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and does not match Vineeth's domain of expertise.",
+    "reason": "The job focuses on automation and scripting, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "1fa24d81",
     "source": "linkedin_india_si_pi",
-    "posted_date": "2 tuntia sitten",
+    "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager Global Product Support (all genders)",
@@ -32865,13 +32864,12 @@
     "url": "https://nl.linkedin.com/jobs/view/senior-manager-global-product-support-all-genders-at-lam-research-4438324503",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in semiconductor equipment product support rather than VLSI/EDA design or technical leadership roles matching Vineeth's background.",
+    "reason": "The role is a Senior Manager of Global Product Support, focused on service and engineering management rather than power integrity or advanced packaging.",
     "id": "24e8acf2",
     "source": "linkedin_eu_semiconductor_director",
     "posted_date": "2026-07-15",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager-Engineering (Wafer Fab)",
@@ -32880,13 +32878,12 @@
     "url": "https://www.linkedin.com/jobs/view/manager-engineering-wafer-fab-at-microchip-technology-inc-4432892202",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This wafer fab engineering management role is outside Vineeth's primary technical domains of Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The role is focused on wafer fab engineering and management, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "c39a658d",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Component Engineering",
@@ -32894,14 +32891,13 @@
     "location": "Dublin, County Dublin, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/principal-engineer-component-engineering-at-analog-devices-4443619653",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's domain of Power Integrity and has a Principal level leadership position.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves leadership, product reliability and systems engineering which aligns with some aspects of Vineeth's experience, although it is less focused on PDN sign-off.",
     "id": "58e6c581",
     "source": "linkedin_eu_semiconductor_technical_leader",
-    "posted_date": "4 p\u00e4iv\u00e4\u00e4 sitten",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_principal_engineer__component__58e6c581.txt",
-    "needs_re_review": true
+    "posted_date": "2026-07-28",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Process",
@@ -32910,13 +32906,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-engineer-process-at-microchip-technology-inc-4414646733",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (looking for firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job focuses on process engineering for a Chip Scale Atomic Clock, which is outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "bfed27e6",
     "source": "linkedin_ww_semiconductor_principal_engineer",
     "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Design Verification",
@@ -32925,13 +32920,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-design-verification-at-analog-devices-4443618782",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on design verification, which falls outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is focused on design verification, which falls outside Vineeth's domain of power integrity and advanced packaging.",
     "id": "17db8bff",
     "source": "linkedin_uk_semiconductor_principal_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Design Verification",
@@ -32940,13 +32934,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-design-verification-at-analog-devices-4443605968",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on design verification, which falls outside Vineeth's domain of power integrity and advanced packaging expertise.",
+    "reason": "The role is focused on design verification, which falls outside Vineeth's area of expertise.",
     "id": "012d14a9",
     "source": "linkedin_uk_semiconductor_principal_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT Design Engineer",
@@ -32955,13 +32948,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88718?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is a DFT Design Engineer, which focuses on verification rather than Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "9005d4fd",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Technician 1",
@@ -32970,13 +32962,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87843?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (not engineering/technical) and does not fit Vineeth's background.",
+    "reason": "This role is for a Manufacturing Technician, focusing on hardware maintenance and testing which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "0dd2436b",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PLL Design/ Integration Staff Engineer  - Adaptive Computing Group",
@@ -32985,13 +32976,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88622?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded SW engineer) which is outside Vineeth's domain.",
+    "reason": "The role focuses on PLL design and integration, which falls under VLSI but is not a direct match for Vineeth's power integrity and advanced packaging expertise.",
     "id": "cebe6773",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Verification Engineer",
@@ -33000,13 +32990,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/ASIC-Verification-Engineer_R026559",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on ASIC verification, which falls outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is primarily focused on ASIC verification, which falls outside Vineeth's area of expertise.",
     "id": "c1e83b52",
     "source": "broadcom_careers",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer IC Design 4",
@@ -33015,13 +33004,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Austin---River-Place-B7/R-D-Engineer-IC-Design-4_R026646-1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC design and implementation, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily an IC design engineer, which falls outside Vineeth's focus on Power Integrity, Advanced Packaging and related domains.",
     "id": "f84d1913",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Facilities Construction Sr. CSA EngineerMiaoli County, Miaoli County, TaiwanPosted 2 months ago",
@@ -33030,13 +33018,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40404368",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Facilities Construction Engineer focusing on Civil, Structural and Architectural engineering for construction projects at Micron. This is not in semiconductor/VLSI/EDA domains.",
+    "reason": "The role focuses on facilities construction and civil engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "a8210988",
     "source": "micron_careers",
     "posted_date": "2026-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director, Partnerships, Platform Go-to-Market Strategy & Activation",
@@ -33045,13 +33032,12 @@
     "url": "https://builtin.com/job/senior-director-partnerships-platform-go-market-strategy-activation/10429673",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on business development, partnerships, and commercial strategy for Butterfly's product platforms. This does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC Physical Design.",
+    "reason": "The role is focused on partnerships and business development, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related engineering domains.",
     "id": "522ad28e",
     "source": "builtin_semi",
-    "posted_date": "posted an hour ago",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director, Partnerships, Platform Go-to-Market Strategy & Activation",
@@ -33060,13 +33046,12 @@
     "url": "https://builtin.com/job/senior-director-partnerships-platform-go-market-strategy-activation/10429670",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in eCommerce, hardware, software, and healthtech - outside semiconductor/VLSI/EDA domain.",
+    "reason": "The role is focused on partnerships and business development, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related engineering domains.",
     "id": "2bfa35bd",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AVP/Sr. Director Supply Chain- Materials- Semiconductor",
