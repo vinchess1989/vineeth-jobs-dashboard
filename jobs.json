@@ -12130,13 +12130,12 @@
     "url": "https://www.indeed.com/career/solutions-engineer/salaries/Fort-Worth--TX?campaignid=serp-more&fromjk=7c61308b9c0e32de&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on software engineering solutions, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on a Saber solutions engineering role, which falls outside Vineeth's expertise.",
     "id": "99753ef9",
     "source": "indeed_india_pi",
     "posted_date": "2026-07-06",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Head Markets- Macro Trading",
@@ -12145,13 +12144,12 @@
     "url": "https://in.linkedin.com/jobs/view/global-head-markets-macro-trading-at-robert-walters-4437738366",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on finance and accounting, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is for a Markets- Macro Trading Head in banking, which falls outside Vineeth's expertise areas of Power Integrity, Advanced Packaging, and VLSI.",
     "id": "0665ccb9",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Compliance and Risk Management Specialist",
@@ -12160,13 +12158,12 @@
     "url": "https://fi.linkedin.com/jobs/view/compliance-and-risk-management-specialist-at-deloitte-4445900058",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (compliance, risk management) and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is for a Compliance and Risk Management Specialist, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "50878539",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-27",
     "deadline": "2026-08-16",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
@@ -12175,13 +12172,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-at-semi-leaf-4442824457",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for VLSI & Embedded Engineers which falls outside Vineeth's primary domain of Power Integrity, Advanced Packaging and CAD methodology.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on verification/RTL design roles, which are outside Vineeth's expertise.",
     "id": "2e9a9080",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Device Design Engineer \u2013 Semiconductors  F/H - Ref 0226-SDDEA",
@@ -12189,14 +12185,13 @@
     "location": "European Union",
     "url": "https://www.linkedin.com/jobs/view/power-device-design-engineer-%E2%80%93-semiconductors-f-h-ref-0226-sddea-at-mac-erci-international-4445921397",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily R&D design engineering for power semiconductors, which falls outside Vineeth's domain of expertise in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off and related areas.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves power device design and simulation, aligning with Vineeth's background but lacks explicit mention of RedHawk or Voltus, making it a possible but not guaranteed fit.",
     "id": "bd3da66a",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Power Electronics Engineer",
@@ -12204,14 +12199,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-power-electronics-engineer-at-li-auto-4444883351",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development (development of simulation models, programming skills) which is outside Vineeth's domain.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's expertise in power electronics architecture design, simulation verification, and project management within a relevant technical domain (power electronics), and it is a senior leadership position.",
     "id": "e15f9851",
     "source": "linkedin_eu_system_power_integrity",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/li_auto_senior_power_electronics_engin_e15f9851.txt"
   },
   {
     "title": "Appian Developer",
@@ -12220,13 +12214,12 @@
     "url": "https://www.linkedin.com/jobs/view/appian-developer-at-ibm-4420116719",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general Appian developer position, which does not match Vineeth's area of expertise in Power Integrity (PI), Advanced Packaging, and EDA/CAD.",
+    "reason": "The role is for an Appian developer, which falls outside Vineeth's expertise in power integrity, advanced packaging and related VLSI domains.",
     "id": "2063c764",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Interested in Working with Everseen?",
@@ -12235,43 +12228,40 @@
     "url": "https://ie.linkedin.com/jobs/view/interested-in-working-with-everseen%3F-at-everseen-4444073635",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical business role at a semiconductor company.",
+    "reason": "The role is listed as 'Entry Level' and appears to be a general interest submission rather than a specific technical position related to Power Integrity, Advanced Packaging, or similar domains.",
     "id": "d9799a8b",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RF Hardware Design Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "SpanIdea Systems",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=1293fd0bd48df1a0",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on RF hardware design, which does not match Vineeth's background in Power Integrity, Advanced Packaging and CAD Methodology.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RF hardware design, which falls outside Vineeth's expertise.",
     "id": "e768d075",
     "source": "indeed_ww_si_pi_p2",
-    "posted_date": "N/A",
+    "posted_date": "this job has expired",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RF Hardware Design Engineer salaries in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/career/hardware-design-engineer/salaries/95139--CA?campaignid=serp-more&fromjk=1293fd0bd48df1a0&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on RF Hardware Design, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job title and description do not contain relevant keywords like PDN, Redhawk, or Voltus, indicating it's not a Power Integrity role.",
     "id": "62d4d61f",
     "source": "indeed_ww_si_pi_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Package Layout Design Engineer , Annapurna Labs - AI Silicon Packaging",
@@ -12280,28 +12270,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=f026d7d9968c54c1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on package layout design at Amazon's Annapurna Labs subsidiary, which falls outside Vineeth's main domains of Power Integrity and Advanced Packaging. Although relevant to IC packaging and physical design more broadly, it does not match his key areas of expertise.",
+    "reason": "The role is located in the USA and does not explicitly mention visa sponsorship or relocation, resulting in a rejection based on location requirements.",
     "id": "403cb8b3",
     "source": "indeed_ww_si_pi_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Package Layout Design Engineer , Annapurna Labs - AI Silicon Packaging salaries",
     "company": "Annapurna Labs",
-    "location": "Extract from page",
+    "location": "Tempe, AZ, USA",
     "url": "https://www.indeed.com/career/salaries/Package%20Designer/Tempe,%20AZ?campaignid=serp-more&fromjk=f026d7d9968c54c1&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for package layout design at a specific company's AI Silicon Packaging division, which does not directly match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The role focuses on package layout design, which falls under advanced packaging but isn't a core power integrity or sign-off position aligning with Vineeth's expertise.",
     "id": "e9d2453f",
     "source": "indeed_ww_si_pi_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Development Manager, Centeralized Electrical Engineering (CEE) - Devices",
@@ -12310,13 +12298,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=769e2f59b17fce31",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware engineering focused, which does not match Vineeth's domain of expertise in EDA and semiconductor design.",
+    "reason": "The job is located in Seattle, WA, USA and explicitly requires US residency without mentioning visa sponsorship.",
     "id": "7374cbbb",
     "source": "indeed_ww_si_pi_p2",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity & Power Integrity Engineer, Amazon Leo",
@@ -12325,28 +12312,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=8549811835d7ed15",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on signal integrity rather than power integrity which is Vineeth's primary area of expertise.",
+    "reason": "The job description does not contain required keywords like 'PDN', 'Redhawk', or 'Voltus' and is located in the USA without visa sponsorship.",
     "id": "81cfcfe9",
     "source": "indeed_ww_si_pi_p2",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity & Power Integrity Engineer, Amazon Leo salaries in Redmond, WA",
     "company": "Amazon Leo salaries in Redmond, WA",
-    "location": "Extract from page",
+    "location": "Redmond, WA, USA",
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Redmond--WA?campaignid=serp-more&fromjk=8549811835d7ed15&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on software engineering rather than semiconductor/VLSI/EDA.",
+    "reason": "The job description lacks explicit mentions of PDN, Redhawk, Voltus, or other relevant power integrity keywords, indicating it's not a genuine Power Integrity role.",
     "id": "96117e1c",
     "source": "indeed_ww_si_pi_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Package Layout Engineer, Annapurna Labs - AI Silicon Packaging",
