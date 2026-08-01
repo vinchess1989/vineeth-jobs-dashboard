@@ -10492,13 +10492,12 @@
     "url": "https://nl.linkedin.com/jobs/view/data-center-critical-environment-engineer-m-e-hvac-services-at-prs-4436355201",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Facilities/M&E engineering role focused on HVAC and building systems, which does not match Vineeth's expertise in semiconductor VLSI EDA Power Integrity, Packaging, Physical Design and CAD.",
+    "reason": "The role focuses on critical environment engineering (HVAC, electrical distribution) rather than power integrity or VLSI design.",
     "id": "792a7d93",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-07-06",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power BI Developer",
@@ -10507,13 +10506,12 @@
     "url": "https://pt.linkedin.com/jobs/view/power-bi-developer-at-adentis-portugal-4443876084",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Business Intelligence Developer using Power BI, which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is for a Power BI Developer, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "99192cdc",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Project & Promo Manager",
@@ -10522,13 +10520,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-project-promo-manager-at-warner-music-group-4441192525",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on music industry marketing and project management, not semiconductor/VLSI/EDA engineering.",
+    "reason": "This role is for a Junior Project & Promo Manager within Warner Music Group, which focuses on marketing and promotion, falling outside Vineeth's technical expertise in power integrity, advanced packaging, or VLSI design.",
     "id": "8654a2be",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Analyst, Data & AI Innovation",
@@ -10537,28 +10534,26 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-analyst-data-ai-innovation-at-targetjobs-uk-4443893217",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Data & AI Innovation Analyst role at EXL, which does not match Vineeth's technical domains of expertise in Power Integrity (PI), Advanced Packaging, CAD/Methodology, or Physical Design/EDA Tools.",
+    "reason": "This is a graduate-level role focused on data and AI analysis, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "3362cb67",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Signal and Power Integrity Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Microsoft",
+    "location": "Raleigh, North Carolina, USA",
     "url": "https://www.indeed.com/rc/clk?jk=005a8fb0098f3a4c",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on software development rather than semiconductor/VLSI/EDA technical roles.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's Power Integrity and Advanced Packaging experience, focusing on signal and power integrity for compute SoCs within a semiconductor company (Microsoft), and it has a Principal Engineer title.",
     "id": "59765159",
     "source": "indeed_ww_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-02",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/microsoft_principal_signal_and_power_int_59765159.txt"
   },
   {
     "title": "Principal Signal and Power Integrity Engineer salaries in Raleigh, NC",
@@ -10566,14 +10561,13 @@
     "location": "Raleigh, NC, USA",
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Raleigh--NC?campaignid=serp-more&fromjk=005a8fb0098f3a4c&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is at a semiconductor company (Intel) and involves Power Integrity engineering, which falls within Vineeth's domain. However, it specifies a location restriction to Raleigh, NC in the US, which typically does not include visa sponsorship for international candidates.",
+    "matches_requirements": "no",
+    "reason": "The job is located in Raleigh, NC, USA and explicitly requires US residency, which violates the location hard rejection criteria.",
     "id": "1333ff0c",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power Integrity Engineer",
@@ -10582,28 +10576,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=a5df14d5381f1008",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (iPhone/iPad/Mac etc.) which is outside Vineeth's domain.",
+    "reason": "The job is located in San Diego, California, USA, which falls outside of the prioritized geographic regions for Vineeth.",
     "id": "a46d02a9",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "2025-10-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Power Integrity Engineer salaries in Austin, TX",
-    "company": "Extract from page",
-    "location": "Austin, TX, USA",
-    "url": "https://www.indeed.com/career/integrity-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=a5df14d5381f1008&from=serp-more",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a technical role at a semiconductor company, but it does not match Vineeth's specific power integrity and advanced packaging background.",
-    "id": "282ffe5b",
-    "source": "indeed_ww_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Signal and Power Integrity Engineer",
@@ -10612,28 +10590,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=97a6857f6a99659e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer), which is outside Vineeth's domain.",
+    "reason": "The role is focused on hardware engineering and SIPI, which falls outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
     "id": "4002f2e7",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "may. 19, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Staff Signal and Power Integrity Engineer salaries in Chandler, AZ",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://www.indeed.com/career/integrity-engineer/salaries/Chandler--AZ?campaignid=serp-more&fromjk=97a6857f6a99659e&from=serp-more",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
-    "id": "0e75c767",
-    "source": "indeed_ww_power_integrity_p2",
-    "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Power Integrity Engineer",
@@ -10642,13 +10604,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=e577c5a79a72c3fb",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a 'Staff Power Integrity Engineer' role at Arm, which does not match Vineeth's key skills of physical design, EDA tools, or SoC architecture.",
+    "reason": "The role is focused on hardware engineering and while power integrity is mentioned, it's within a broader hardware context and requires less depth than Vineeth's expertise suggests.",
     "id": "fb118664",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "may. 19, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Power Integrity Engineer salaries in Chandler, AZ",
@@ -10656,14 +10617,13 @@
     "location": "Chandler, AZ, USA",
     "url": "https://www.indeed.com/career/integrity-engineer/salaries/Chandler--AZ?campaignid=serp-more&fromjk=e577c5a79a72c3fb&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Power Integrity Engineer position with 10+ years of experience required, matching Vineeth's background in Power Integrity (PI) and his current role as Technical Leader - PI & Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The job is located in Chandler, AZ, USA, which falls under a hard rejection due to the requirement for US residency and lack of visa sponsorship.",
     "id": "e55a8ae9",
     "source": "indeed_ww_power_integrity_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/extract_from_page_staff_power_integrity_engineer_e55a8ae9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Engineer - VAVE",
@@ -10672,13 +10632,12 @@
     "url": "https://in.linkedin.com/jobs/view/packaging-engineer-vave-at-3m-4442822302",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an engineering position focused on packaging, not a non-technical role like HR, finance, marketing, sales.",
+    "reason": "The job focuses on packaging engineering and VAVE, which falls outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
     "id": "66a62ff9",
     "source": "linkedin_india_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "5 dagen geleden",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technology Development Program Lead",
@@ -10687,13 +10646,12 @@
     "url": "https://in.linkedin.com/jobs/view/technology-development-program-lead-at-tata-electronics-4437242963",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Technology Development Program Lead at Tata Electronics, focusing on new program management execution from start to end. It does not directly match Vineeth's area of expertise in Power Integrity, Advanced Packaging, and CAD/Methodology.",
+    "reason": "The role is a Technology Development Program Lead, which falls outside Vineeth's focus on Power Integrity and Advanced Packaging.",
     "id": "32d42f30",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Technician  (Epsilon Department))",
@@ -10702,13 +10660,12 @@
     "url": "https://lv.linkedin.com/jobs/view/production-technician-epsilon-department-at-redwire-4441445255",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is production technician focused on assembly, packaging and post-processing of electronic systems, products and components - this does not match the semiconductor/VLSI/EDA domain expertise required.",
+    "reason": "The job is for a Production Technician, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "b83d0a07",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Production Laborer",
