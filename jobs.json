@@ -28369,29 +28369,27 @@
     "location": "United States, WA, Bellevue",
     "url": "https://www.indeed.com/rc/clk?jk=63924d9de842368a",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with semiconductor focus but doesn't specify specific technical domain like PI, packaging, physical design.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on a technical executive role with a focus on sales and value engineering, rather than direct power integrity or advanced packaging work, despite mentioning semiconductor.",
     "id": "88a2e67d",
     "source": "indeed_india_semiconductor_cto",
     "posted_date": "2026-06-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High-Tech Technical Executive - Semiconductor salaries in Bellevue, WA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Bellevue, WA, USA",
     "url": "https://www.indeed.com/career/technician/salaries/Bellevue--WA?campaignid=serp-more&fromjk=63924d9de842368a&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical business development position, which is outside Vineeth's engineering domain.",
+    "reason": "The job title and description do not contain relevant keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) indicating it's not a core power integrity or related role.",
     "id": "c4552f26",
     "source": "indeed_india_semiconductor_cto",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal, Technology Strategy",
@@ -28400,28 +28398,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=663066068386f10a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on developing memory technology strategy for Amazon's cloud computing division AWS, which involves working with semiconductor technology and processes. This matches Vineeth's background in Power Integrity (PI) and Advanced Packaging for SoC design sign-off, but the core focus is different from his direct technical specializations.",
+    "reason": "The role focuses on memory technology strategy and procurement, which is outside Vineeth's core expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "f496affb",
     "source": "indeed_india_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal, Technology Strategy salaries in Seattle, WA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Seattle, WA, USA",
     "url": "https://www.indeed.com/career/principal/salaries/Seattle--WA?campaignid=serp-more&fromjk=663066068386f10a&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not focused on technical domains relevant to Vineeth's background, instead focusing on general business strategy and leadership.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and appears to be a general strategy role rather than an engineering position.",
     "id": "d53b1102",
     "source": "indeed_india_semiconductor_cto",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Strategic Technology Lead \u2013 AI Processors & Accelerators",
@@ -28429,14 +28425,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/strategic-technology-lead-%E2%80%93-ai-processors-accelerators-at-beijing-foreign-enterprise-management-consultants-co-ltd-4446308523",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is not clearly within Vineeth's domain of semiconductor/VLSI/EDA, but instead is focused on strategic technology leadership in AI processors and accelerators at Huawei.",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on AI processor architecture and strategy, which aligns with some aspects of Vineeth's background but isn't a direct power integrity match; however, it has leadership potential given the title.",
     "id": "c2d941f5",
     "source": "linkedin_eu_semiconductor_technical_leader",
-    "posted_date": "N/A",
+    "posted_date": "vor 4 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Analog IP/IC",
@@ -28445,13 +28440,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-analog-ip-ic-at-confidential-4443281656",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This principal analog IP/IC engineering role focuses on design, not power integrity or advanced packaging.",
+    "reason": "The role is focused on analog IC design and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "32c33ab5",
     "source": "linkedin_india_semiconductor_principal_engineer",
-    "posted_date": "N/A",
+    "posted_date": "vor 4 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal AI Silicon Architect",
@@ -28460,13 +28454,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-ai-silicon-architect-at-microsoft-4446179772",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at Microsoft, which does software development and AI rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on AI silicon architecture, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "c88cde30",
     "source": "linkedin_ww_semiconductor_architect",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "vor 4 tagen",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Data Center GPU AI Customer Debug Lead",
@@ -28475,13 +28468,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88612?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI systems engineering, GPU debug and customer enablement which does not match Vineeth's areas of expertise in Power Integrity (PI), Advanced Packaging, CAD Methodology.",
+    "reason": "The role focuses on debugging AI customer issues and doesn't align with Vineeth\u2019s expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "f2dbe8c0",
     "source": "amd_careers",
     "posted_date": "2026-07-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Engineer, Recursive Self-Improvement for Compute",
@@ -28490,13 +28482,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87873?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on AI system design, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role focuses on AI and software development, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related VLSI areas.",
     "id": "1de22e6a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer (GPU & AI/ML)",
@@ -28505,13 +28496,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88860?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (C/C++, Python, Windows/Linux) which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job focuses on AI/ML software development for GPUs, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "0cfa389a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fin Tech GTM Enablement - Financial Services Senior Manager",
@@ -28520,13 +28510,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87514?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on financial services technical GTM strategy and enablement, not semiconductor technologies like Power Integrity or VLSI/EDA.",
+    "reason": "The role focuses on financial services GTM enablement, which is outside of Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "a14bd35d",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior/Staff Engineer, Process Integration, NTI NANDSingapore, SingaporePosted 3 months ago",
@@ -28535,13 +28524,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41126157",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused, which is outside Vineeth's domain.",
+    "reason": "The job focuses on process integration for NAND flash memory, which is outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "64b69e9b",
     "source": "micron_careers",
     "posted_date": "2026-04-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum Cryo CMOS Design EnablementMalta, NY, USPosted 2 months ago",
@@ -28550,13 +28538,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769501529",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on quantum cryo CMOS design enablement and PDK development, which does not closely match Vineeth's power integrity/advanced packaging background.",
+    "reason": "The role focuses on quantum cryo CMOS design enablement, which is outside Vineeth's core expertise in power integrity and advanced packaging.",
     "id": "36164806",
     "source": "globalfoundries_careers",
-    "posted_date": "05/20/2026",
+    "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CMOS Device Integration Team - DMTS",
@@ -28565,13 +28552,12 @@
     "url": "https://builtin.com/job/cmos-device-integration-team-dmts/8807145",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily device integration rather than focused on power integrity, advanced packaging, SoC PDN sign-off which are key areas of Vineeth's background.",
+    "reason": "The job focuses on CMOS device integration and doesn't align with Vineeth's Power Integrity, Advanced Packaging, or related expertise.",
     "id": "bb653f79",
     "source": "builtin_semi",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Supplier Quality Engineer - Electronics Category - Remote in the New England Region",
@@ -28580,13 +28566,12 @@
     "url": "https://builtin.com/job/supplier-quality-engineer-electronics-category-remote-new-england-region/10359291",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Supplier Quality role focused on electronics manufacturing and supplier relations, well outside Vineeth's semiconductor/VLSI/EDA domain of expertise.",
+    "reason": "This role is for a Supplier Quality Engineer, focusing on quality assurance and supplier management in the aerospace industry, which falls outside Vineeth's Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "58ae87ae",
     "source": "builtin_semi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Supplier Quality Engineer - Electronics Category - Remote in the New England Region",
