@@ -12760,13 +12760,12 @@
     "url": "https://in.linkedin.com/jobs/view/print-production-artist-freelancer-at-deccan-ai-experts-4441985023",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a graphic design/artwork production freelancer position, which does not match Vineeth's technical leadership and power integrity/advanced packaging background.",
+    "reason": "The role is a Print Production Artist, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "794e48d5",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Printed Circuit Board Designer for Electronic/Photonics Product Design",
@@ -12775,13 +12774,12 @@
     "url": "https://de.linkedin.com/jobs/view/printed-circuit-board-designer-for-electronic-photonics-product-design-at-keysight-technologies-4442809789",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This PCB design role is focused on hardware electronics, not semiconductor VLSI/EDA power integrity or advanced packaging.",
+    "reason": "The role is for a PCB designer, which falls outside of Vineeth's expertise in power integrity and advanced packaging.",
     "id": "caa610af",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP/GM, Digital Flexo",
@@ -12790,13 +12788,12 @@
     "url": "https://de.linkedin.com/jobs/view/vp-gm-digital-flexo-at-esko-4439326142",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VP/GM of a technology business, which does not directly match Vineeth's technical domains of Power Integrity, CAD/Methodology, Physical Design etc.",
+    "reason": "The role is a General Manager position focused on business leadership and P&L responsibility, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "8a170772",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Packaging Engineer",
@@ -12804,14 +12801,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-packaging-engineer-at-platform-recruitment-4442826743",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves advanced semiconductor packaging which matches Vineeth's background in power integrity and advanced packaging.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on packaging engineering, which is not a primary focus area for Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "361aa8b1",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": "job_descriptions/platform_recruitment_senior_packaging_engineer_361aa8b1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Supply Planning Systems Specialist / Super User (Interim Contract) | Kinaxis, Blue Yonder, OMP | UK / Europe (Remote) | \u00a3150 - \u00a3315 per day DOE | Initial 6 Month Contract",
@@ -12820,13 +12816,12 @@
     "url": "https://uk.linkedin.com/jobs/view/supply-planning-systems-specialist-super-user-interim-contract-kinaxis-blue-yonder-omp-uk-europe-remote-%C2%A3150-%C2%A3315-per-day-doe-initial-6-month-contract-at-bramwith-consulting-4443792130",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Supply Planning Systems Specialist, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role focuses on supply planning systems and lacks any mention of power integrity, advanced packaging, EDA tools like RedHawk/Voltus, or relevant physical design domains.",
     "id": "616d072f",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Maintenance Engineer",
@@ -12835,28 +12830,12 @@
     "url": "https://uk.linkedin.com/jobs/view/maintenance-engineer-at-rbw-consulting-4431087255",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a manufacturing/mechanical maintenance position, not semiconductor/VLSI/EDA technical engineering.",
+    "reason": "The role is a maintenance engineer focusing on general equipment repair and lacks the required Power Integrity, Advanced Packaging, or EDA tool expertise.",
     "id": "04a91d9f",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior Packaging Technologist \u2013 Material Development & Validation",
-    "company": "AG Barr Group",
-    "location": "England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/senior-packaging-technologist-%E2%80%93-material-development-validation-at-ag-barr-group-4442746171",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for material science, packaging R&D and validation, not semiconductor EDA technical leadership.",
-    "id": "0d6b1ad1",
-    "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "2026-07-21",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Own Brand Packaging & Product Designer",
@@ -12865,13 +12844,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-own-brand-packaging-product-designer-at-bloom-wild-4432815021",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on packaging and product design for a gifting company, which does not match Vineeth's VLSI/EDA background.",
+    "reason": "This role is for a packaging and product designer, which falls outside Vineeth's expertise in power integrity, advanced packaging (IC), and VLSI.",
     "id": "80a4c143",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Electrical Engineer",
@@ -12880,13 +12858,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-electrical-engineer-at-targetjobs-uk-4426901786",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a graduate electrical engineer position at a semiconductor manufacturing company, which does not match Vineeth's technical leadership and power integrity background.",
+    "reason": "This is a graduate-level role targeting students, far below Vineeth's 15 years of experience and leadership level.",
     "id": "a5d65aab",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-06-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer : Cooling Systems",
@@ -12895,13 +12872,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-cooling-systems-at-tiptopjob-4442409353",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical engineering design position focused on automotive cooling systems, which is outside Vineeth's semiconductor/VLSI/EDA technical domain.",
+    "reason": "The role focuses on cooling system design and does not align with Vineeth's expertise in power integrity, advanced packaging, or related areas.",
     "id": "97262d2b",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "External Sales Person",
@@ -12910,13 +12886,12 @@
     "url": "https://uk.linkedin.com/jobs/view/external-sales-person-at-west-coast-corrugated-4444418074",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Sales position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a sales position, which falls outside Vineeth's domain of technical expertise in power integrity and advanced packaging.",
     "id": "c20315f8",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Solutions Architect",
@@ -12925,13 +12900,12 @@
     "url": "https://uk.linkedin.com/jobs/view/solutions-architect-at-great-british-energy-nuclear-4443793335",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This solutions architect role is for a nuclear energy company, focusing on SMR technology selection and project delivery. It does not match the semiconductor/VLSI/EDA domain Vineeth Prathapachandra Kaimal is an expert in.",
+    "reason": "The role is a Solutions Architect focusing on enterprise architecture and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related VLSI domains.",
     "id": "ef5e6407",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Assembler",
@@ -12940,13 +12914,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-assembler-at-kla-4441057293",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an assembly technician position at a semiconductor manufacturing company, which does not match Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a manufacturing assembler, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "74d3d6b6",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Buyer",
@@ -12955,13 +12928,12 @@
     "url": "https://uk.linkedin.com/jobs/view/project-buyer-at-kla-4432706891",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, Procurement and not related to semiconductor/VLSI/EDA domains",
+    "reason": "The job is for a Project Buyer role, focusing on procurement and supply chain management, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "6dfdd675",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Product Operations Leader \u2013 Therapeutic Dermatology",
@@ -12970,13 +12942,12 @@
     "url": "https://uk.linkedin.com/jobs/view/global-product-operations-leader-%E2%80%93-therapeutic-dermatology-at-galderma-4414623915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a sales and business development role at a pharmaceutical company, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on product operations and lifecycle management within the pharmaceutical industry, which does not align with Vineeth's expertise in power integrity, advanced packaging, or EDA tools.",
     "id": "50f281c8",
     "source": "linkedin_uk_advanced_packaging_p2",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Multi-skilled Production Engineer - Wakefield",
