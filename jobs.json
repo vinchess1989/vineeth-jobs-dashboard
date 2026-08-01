@@ -30259,14 +30259,13 @@
     "location": "Lublin, Lubelskie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4446329767",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves EDA tools and semiconductor design, but the exact focus (CAD infrastructure, tool flows) isn't specified in the job text. Need to check full details.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on EDA tool management rather than power integrity or advanced packaging.",
     "id": "a91b8e25",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -30274,14 +30273,13 @@
     "location": "Pozna\u0144, Wielkopolskie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4446324985",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches technical domain of EDA tools, but unclear on years of experience and exact location.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with CAD/Methodology and EDA Tools expertise, requiring experience with Cadence, Synopsys, and Siemens EDA tools, fulfilling Vineeth's skillset.",
     "id": "e7414c49",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/capgemini_engineerin_eda_engineer__eda_tools__semic_e7414c49.txt"
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -30289,14 +30287,13 @@
     "location": "Katowice, \u015al\u0105skie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4446342285",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This EDA Engineer role focuses more on general EDA tool deployment and flow ownership rather than specializing in Vineeth's key areas of Power Integrity, Advanced Packaging, or SoC PDN sign-off.",
+    "matches_requirements": "yes",
+    "reason": "The role involves EDA tool flow management and infrastructure, aligning with Vineeth's CAD methodology and EDA expertise, and it is a leadership-level position.",
     "id": "6ace697e",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/capgemini_engineerin_eda_engineer__eda_tools__semic_6ace697e.txt"
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -30304,14 +30301,13 @@
     "location": "Cracow, Ma\u0142opolskie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4446333784",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves EDA tools, semiconductors and is at Capgemini Engineering in Cracow, Poland - close matches to Vineeth's background.",
+    "matches_requirements": "yes",
+    "reason": "The role involves EDA tool deployment, flow ownership, and infrastructure management within a semiconductor design environment, aligning with Vineeth's expertise in CAD methodology and EDA tools.",
     "id": "f59ac982",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/capgemini_engineerin_eda_engineer__eda_tools__semic_f59ac982.txt"
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -30320,13 +30316,12 @@
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4446324984",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "The role matches senior leadership experience and some EDA skills but lacks specific PI/Package domain expertise.",
+    "reason": "The role involves EDA tool expertise and some automation, aligning with Vineeth's skillset, but isn't solely focused on Power Integrity or advanced packaging.",
     "id": "fe15ea08",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -30334,14 +30329,13 @@
     "location": "Gda\u0144sk, Pomorskie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4446342284",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves EDA tools, semiconductors and is located in Poland, matching Vineeth's background and key skills.",
+    "matches_requirements": "maybe",
+    "reason": "The role involves EDA tool flow management and infrastructure, aligning with CAD/Methodology and EDA Tools domains, but lacks specific PI/SI focus making it a possible match.",
     "id": "e239b6e8",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": "job_descriptions/capgemini_engineerin_eda_engineer__eda_tools__semic_e239b6e8.txt",
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -30350,13 +30344,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-digital-design-engineer-at-analog-devices-4443619697",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily digital design (RTL, verification) which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The job is for a digital design engineer, which falls outside Vineeth's focus on power integrity and advanced packaging.",
     "id": "258e40e7",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Physical Design",
@@ -30365,13 +30358,12 @@
     "url": "https://ie.linkedin.com/jobs/view/staff-engineer-physical-design-at-analog-devices-4443607935",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Matches leadership role exception with 10+ years experience, but not focused on Power Integrity or Advanced Packaging domains.",
+    "reason": "The role aligns with physical design and includes relevant skills like scripting and Cadence tools, but lacks explicit mention of PDN/power integrity focus, making it a possible but not definite match.",
     "id": "7d4bb9a2",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Digital Design Engineer",
@@ -30379,14 +30371,13 @@
     "location": "Edinburgh, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-digital-design-engineer-at-analog-devices-4443625104",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's background in PI, CAD methodology, and SoC PDN sign-off. It is a leadership position at an analog semiconductor company.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily a digital design engineering position, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "9b7e4be3",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/analog_devices_principal_digital_design_engin_9b7e4be3.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Member of Technical Staff, AI Infrastructure Team",
@@ -30395,13 +30386,12 @@
     "url": "https://fi.linkedin.com/jobs/view/member-of-technical-staff-ai-infrastructure-team-at-verda-4445755121",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI infrastructure role is unrelated to semiconductor, VLSI, EDA fields that Vineeth works in.",
+    "reason": "The role focuses on AI infrastructure and networking, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
     "id": "0b63681c",
     "source": "linkedin_fi_eda_design_automation",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Software Design Engineer",
@@ -30410,43 +30400,40 @@
     "url": "https://fi.linkedin.com/jobs/view/software-design-engineer-at-abb-4445768094",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This software development role does not match Vineeth's technical expertise in power integrity, packaging, and EDA tool integration.",
+    "reason": "The role is a Software Design Engineer focused on Labview programming, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "0c384b8d",
     "source": "linkedin_fi_eda_design_automation",
     "posted_date": "2026-07-28",
     "deadline": "2026-08-16",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Automation Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Medtronic",
+    "location": "Mounds View, Minnesota, United States of America",
     "url": "https://www.indeed.com/rc/clk?jk=4a79156c48e06fc9",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Design Automation Engineer, which falls under software development and is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is primarily focused on supporting and maintaining EDA tools, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "6ed9966e",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "2026-07-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Automation Engineer salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Mounds View, MN, USA",
     "url": "https://www.indeed.com/career/salaries/Senior%20Automation%20Engineer/Mounds%20View,%20MN?campaignid=serp-more&fromjk=4a79156c48e06fc9&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical 'Senior Design Automation Engineer' role at a company called 'Extract from page'. This does NOT match our criteria for semiconductor/VLSI/EDA engineering positions.",
+    "reason": "The job description is a salary page and does not contain any relevant technical information regarding Power Integrity, advanced packaging, EDA tools, or related domains.",
     "id": "86b743dd",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Bring-up & Characterisation Engineer",
@@ -30455,13 +30442,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-bring-up-characterisation-engineer-at-graphcore-4445766216",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on AI SoC validation and bring-up, rather than the Power Integrity, Advanced Packaging, and CAD Methodology areas that Vineeth Prathapachandra Kaimal specializes in.",
+    "reason": "The role focuses on bring-up and characterization, which is outside Vineeth's expertise in power integrity, advanced packaging, and PDN sign-off.",
     "id": "d2e45a24",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer, Physical Design",
@@ -30469,14 +30455,13 @@
     "location": "Limerick, County Limerick, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/staff-engineer-physical-design-at-analog-devices-4443617772",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily digital implementation, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Staff Engineer, Physical Design at Analog Devices in Limerick, Ireland, aligning with Vineeth's experience and targeting leadership roles within the semiconductor domain.",
     "id": "60a8bedf",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/analog_devices_staff_engineer__physical_desig_60a8bedf.txt"
   },
   {
     "title": "Tube Designer Components (all genders)",
