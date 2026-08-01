@@ -9190,13 +9190,12 @@
     "url": "https://nl.linkedin.com/jobs/view/what-is-elimination-eliminating%3F-at-prinz-software-4444859486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical marketing role at a software company, which does not match Vineeth's semiconductor/EDA background.",
+    "reason": "The job description is focused on a theoretical discussion of elimination algorithms and lacks any mention of power integrity, VLSI design, EDA tools, or related keywords.",
     "id": "e8490f17",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems Engineer",
@@ -9205,13 +9204,12 @@
     "url": "https://uk.linkedin.com/jobs/view/systems-engineer-at-perkinelmer-4440752678",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on scientific instrumentation R&D rather than semiconductor VLSI EDA.",
+    "reason": "The job focuses on systems engineering for material characterization instrumentation and lacks any mention of power integrity, advanced packaging, or related EDA tools.",
     "id": "e688c5c7",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-20",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Scientist (Geothermal Multi-Phase Fluid Dynamic Experimentalist)",
@@ -9220,13 +9218,12 @@
     "url": "https://uk.linkedin.com/jobs/view/research-scientist-geothermal-multi-phase-fluid-dynamic-experimentalist-at-slb-4442045073",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is a research scientist role focused on experimental design and fluid dynamics, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Research Scientist focusing on geothermal fluid dynamics, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "1d8d6eeb",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GPU Kernel Performance Engineer",
@@ -9235,13 +9232,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88956?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (ML kernels, ML algorithms), which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is for a GPU Kernel Performance Engineer, focusing on ML kernels which falls under software engineering and verification, outside of Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "73836de8",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager \u2013 AI Change Management",
@@ -9250,13 +9246,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19421&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a management role focused on AI change management and organizational transformation, which does not directly align with Vineeth's technical background in semiconductor VLSI EDA Power Integrity and packaging.",
+    "reason": "The role focuses on AI change management and business process redesign, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
     "id": "a8cec4ea",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -9265,13 +9260,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FManager-AI-Change-Management%2F19421",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general AI change management position and does not match Vineeth's specific technical background in Power Integrity, Advanced Packaging, CAD Methodology.",
+    "reason": "The job description is essentially a LinkedIn login page and does not contain relevant keywords or information regarding power integrity, advanced packaging, or related domains.",
     "id": "a92556b7",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Business Development",
@@ -9280,13 +9274,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-pacific-international-executive-search-4442346450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Director of Business Development, which does not match Vineeth's technical background in Power Integrity and EDA.",
+    "reason": "The role is a Business Development Director focused on high-tech markets, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "d2d07605",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Sales (Mass Market)",
@@ -9295,13 +9288,12 @@
     "url": "https://in.linkedin.com/jobs/view/director-sales-mass-market-at-renesas-electronics-4437167890",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical sales role at semiconductor company, not an engineering/technical position",
+    "reason": "The job is a sales role, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "70bd9a0f",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-13",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Candidature Spontan\u00e9e / Spontaneous Application \u2013 NXP Semiconductors France",
@@ -9310,13 +9302,12 @@
     "url": "https://fr.linkedin.com/jobs/view/candidature-spontan%C3%A9e-spontaneous-application-%E2%80%93-nxp-semiconductors-france-at-nxp-semiconductors-4338909112",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a spontaneous application for multiple roles, not matching Vineeth's specific technical domains.",
+    "reason": "The job posting is a spontaneous application call and does not contain specific requirements aligning with Vineeth's Power Integrity, Advanced Packaging, or related expertise; it lists various roles across NXP.",
     "id": "203246f1",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Corporate Relations Manager for ELEC",
@@ -9325,13 +9316,12 @@
     "url": "https://fi.linkedin.com/jobs/view/corporate-relations-manager-for-elec-at-aalto-university-4444858219",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a corporate relations manager at an academic institution, promoting industry partnerships in research and education, not technical leadership in semiconductor/VLSI/EDA.",
+    "reason": "The role is focused on corporate relations and partnership development, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
     "id": "981cddbb",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "2026-08-23",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -9340,13 +9330,12 @@
     "url": "https://www.linkedin.com/jobs/view/hardware-engineer-at-wistron-4443447360",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on RFI, RFP, and RFQ activities for server hardware design proposals rather than Vineeth's core areas of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The role is for a Hardware Engineer with 3+ years of experience, which doesn't align with Vineeth's 15 years and leadership focus on power integrity and advanced packaging.",
     "id": "abe7d877",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -9355,13 +9344,12 @@
     "url": "https://nl.linkedin.com/jobs/view/senior-design-engineer-at-avantor-4442771570",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a design engineer in the biopharma single-use assembly domain, which is quite different from semiconductor/VLSI/EDA.",
+    "reason": "The job description focuses on mechanical and design engineering for single-use assemblies, lacking the required Power Integrity, PDN, RedHawk, Voltus, or related keywords.",
     "id": "3ae48d46",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -9370,13 +9358,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-southco-inc-4444322510",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily mechanical engineering with some CAD, but Vineeth has a strong background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off and related EDA tools. The job also requires 3+ years of experience which is less than Vineeth's 15.",
+    "reason": "The role focuses on mechanical design and CAD, lacking the power integrity, advanced packaging, or EDA tool expertise Vineeth possesses.",
     "id": "23502771",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Applications Engineer (f/m/d)",
@@ -9385,13 +9372,12 @@
     "url": "https://fi.linkedin.com/jobs/view/junior-applications-engineer-f-m-d-at-hexagon-manufacturing-intelligence-4439223500",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Junior Applications Engineer focused on industrial metrology and automation solutions, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "This is a junior-level applications engineering role focused on metrology and automation, which doesn't align with Vineeth's power integrity/advanced packaging expertise.",
     "id": "cba5809f",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Silicon, Digital Design Engineer",
@@ -9400,13 +9386,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-silicon-digital-design-engineer-at-unconventional-ai-4429893287",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily digital design, which is outside Vineeth's power integrity and advanced packaging domain.",
+    "reason": "The job focuses on digital ASIC design and RTL implementation, which falls outside Vineeth's primary expertise in Power Integrity and Advanced Packaging.",
     "id": "13a68cb4",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-20",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Physical Verification CAD engineer",
