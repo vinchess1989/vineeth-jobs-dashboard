@@ -26704,13 +26704,12 @@
     "url": "https://it.linkedin.com/jobs/view/layout-ic-design-engineer-at-move-silicon-4443262894",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level analog IC layout engineer position, which does not closely match Vineeth's 15 years of experience in power integrity and advanced packaging domains.",
+    "reason": "The role is for a Junior Analog IC Layout Engineer, focusing on transistor-level layout and doesn't align with Vineeth\u2019s Power Integrity, Advanced Packaging, or SoC PDN sign-off expertise.",
     "id": "8fc46652",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -26718,14 +26717,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-l-t-technology-services-4445493810",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Role involves some aspects of digital design and FPGA which are close to Vineeth's PI/SI background but not a direct match.",
+    "matches_requirements": "no",
+    "reason": "The job focuses on FPGA design and RTL development, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
     "id": "773b47e4",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer - Radio & Communications",
@@ -26734,13 +26732,12 @@
     "url": "https://fr.linkedin.com/jobs/view/fpga-engineer-radio-communications-at-harmattan-ai-4443241701",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA engineering role at Harmattan AI is focused on radio & communications, which does not match Vineeth's areas of expertise in Power Integrity (PI), Advanced Packaging, and EDA tools like ANSYS RedHawk.",
+    "reason": "The role focuses on FPGA development for radio communications and does not align with Vineeth's expertise in Power Integrity, Advanced Packaging, or related areas.",
     "id": "1e9e5567",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -26749,13 +26746,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-dixon-valve-4440192768",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mechanical design engineer position, focused on translating product requirements into technical documentation and manufacturing solutions for maritime hardware. It does not match Vineeth's background in semiconductor VLSI EDA Power Integrity / Signal Integrity / Advanced Packaging / CAD Methodology.",
+    "reason": "The job is for a mechanical design engineer with no mention of power integrity, advanced packaging, or relevant EDA tools like RedHawk or Voltus.",
     "id": "5c7990d7",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -26764,13 +26760,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-amfg-4445477818",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Engineer, focusing on design and production roles rather than semiconductor/VLSI/EDA technical domains. It does not fit Vineeth's background.",
+    "reason": "The role is a Design Engineer with a focus on CNC machining and mechanical engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
     "id": "99889f39",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Applications Engineer \u2013 Power Management",
@@ -26778,14 +26773,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-applications-engineer-%E2%80%93-power-management-at-renesas-electronics-4443283155",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for applications engineering support, which falls within Vineeth's domain expertise. However, it does not strongly match his key skills in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Vineeth's experience as a Staff Applications Engineer focused on power management, involving hands-on hardware support and validation within the semiconductor domain.",
     "id": "70f8f365",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-28",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/renesas_electronics_staff_applications_engineer____70f8f365.txt"
   },
   {
     "title": "Renewable Energy Electrician",
@@ -26794,13 +26788,12 @@
     "url": "https://uk.linkedin.com/jobs/view/renewable-energy-electrician-at-fuse-energy-4377150487",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role focused on renewable energy installation and commissioning, whereas Vineeth's background is in semiconductor power integrity, advanced packaging, and VLSI/EDA tools.",
+    "reason": "This is an electrician role focused on installing EV chargers and solar PV systems, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "b8bb0ee1",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-21",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Systems & Firmware Lead Engineer",
@@ -26809,13 +26802,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-embedded-systems-firmware-lead-engineer-at-izmo-ltd-4443235446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (embedded firmware engineering) and does not match Vineeth's primary domains of Power Integrity, CAD tools, EDA tools or VLSI/SoC physical design.",
+    "reason": "The role is focused on embedded systems firmware, which falls outside Vineeth's primary expertise in power integrity and advanced packaging.",
     "id": "f21c687e",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Therapist",
@@ -26824,13 +26816,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-therapist-at-aret%C3%A9-health-pt-4344200585",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a physical therapist, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "This is a Physical Therapist role, which falls outside Vineeth's expertise in power integrity and VLSI design.",
     "id": "2c8712ed",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2025-11-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Colo Physical Security Architect, Data Center Engineering, Colocation Regional Engineering",
@@ -26839,13 +26830,12 @@
     "url": "https://ie.linkedin.com/jobs/view/colo-physical-security-architect-data-center-engineering-colocation-regional-engineering-at-amazon-web-services-aws-4443277481",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on data center physical security and Amazon web services, which is outside Vineeth's VLSI/EDA semiconductor domain.",
+    "reason": "The role focuses on physical security for data centers, which is outside Vineeth's expertise in power integrity and advanced packaging.",
     "id": "0cb5f859",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Layout Designer",
@@ -26854,13 +26844,12 @@
     "url": "https://ie.linkedin.com/jobs/view/senior-layout-designer-at-software-placements-4445715594",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily layout design of analog/mixed-signal circuits, which falls outside Vineeth's domain of expertise in power integrity and advanced packaging.",
+    "reason": "The role is focused on layout design for SERDES and UCIe, which isn't a primary focus area for Vineeth's expertise in Power Integrity and Advanced Packaging.",
     "id": "7f2ccde4",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Digital Design Engineering Architect",
@@ -26869,43 +26858,40 @@
     "url": "https://ie.linkedin.com/jobs/view/asic-digital-design-engineering-architect-at-software-placements-4445719472",
     "visited": "yes",
     "matches_requirements": "maybe",
-    "reason": "Matches technical domain, but role is slightly lower level than Vineeth's experience.",
+    "reason": "The role involves ASIC digital design architecture and leadership, aligning with Vineeth's experience in SoC design and team leadership, but lacks explicit PI/EDA tool mentions.",
     "id": "59b64d66",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Private Duty Nurse (LPN & RN) -",
-    "company": "Extract from page",
+    "company": "Always Compassionate Careers",
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=dd48a30aa4337339",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a nurse (LPN & RN), which is a non-technical, healthcare role. It does not fit Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Private Duty Nurse (LPN & RN), which falls outside the defined technical domains related to semiconductor, VLSI, EDA, and engineering leadership.",
     "id": "91d2abeb",
     "source": "indeed_ww_pdn",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Private Duty Nurse (LPN & RN) - salaries in Babylon, NY",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Babylon, NY, USA",
     "url": "https://www.indeed.com/career/private-duty-nurse/salaries/11702--NY?campaignid=serp-more&fromjk=dd48a30aa4337339&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a healthcare nurse, not semiconductor/VLSI/EDA engineering or leadership.",
+    "reason": "This posting is for a nursing position, which falls outside of Vineeth's expertise in semiconductor/VLSI/EDA engineering.",
     "id": "da5bb1e1",
     "source": "indeed_ww_pdn",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CNA, In-home Aide, Personal Care Aide, Nurse Aide, Home Health Aide",
@@ -26914,13 +26900,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=c2c9909327c85264",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a home health aide position at Myriad Homecare, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a home health aide, which falls outside Vineeth's expertise in semiconductor/VLSI/EDA engineering.",
     "id": "43c01b20",
     "source": "indeed_ww_pdn",
     "posted_date": "2026-07-07",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "In-Home Caregiver / LPN or CNA Licensed Practical Nurse salaries in Weaverville, NC",
