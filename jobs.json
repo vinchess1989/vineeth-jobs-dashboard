@@ -52380,13 +52380,12 @@
     "url": "https://uk.linkedin.com/jobs/view/you%3F-m-f-d-at-dqc-data-quality-company-4447029162",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an unrelated non-technical front-of-house team member position at a restaurant, not matching semiconductor/VLSI/EDA technical roles.",
+    "reason": "The job description contains none of the required semiconductor keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a software/AI role in the data quality domain.",
     "id": "fd773892",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "80six",
@@ -52395,13 +52394,12 @@
     "url": "https://uk.linkedin.com/jobs/view/80six-at-lumix-4446766642",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for on-site name badge printing technology, not semiconductor/VLSI/EDA.",
+    "reason": "The job is for event technology/logistics (name badge printing) and does not involve semiconductor, VLSI, or EDA engineering.",
     "id": "0d8c8d1b",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Specialist - Thermal System Innovation",
@@ -52410,13 +52408,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-specialist-thermal-system-innovation-at-general-motors-4447020639",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on automotive thermal systems engineering for vehicle development, which does not match Vineeth's background in semiconductor Power Integrity (PI), Advanced Packaging, and VLSI/EDA tools.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary to pass the mandatory pre-filter.",
     "id": "d151a9ab",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer, Thermal",
@@ -52424,14 +52421,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/engineer-thermal-at-molex-4445036465",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is primarily about electronics cooling and thermal management for various applications, not semiconductor power integrity/advanced packaging/VLSI design.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "cf5295b8",
     "source": "linkedin_india_thermal",
-    "posted_date": "2026-07-30",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Passive Thermal Control and Thermal Protection Subsystem and Hardware Engineer",
@@ -52440,13 +52436,12 @@
     "url": "https://it.linkedin.com/jobs/view/passive-thermal-control-and-thermal-protection-subsystem-and-hardware-engineer-at-thales-4447045168",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware engineering focused on thermal systems for space applications, outside Vineeth's main domains of power integrity, advanced packaging and VLSI/EDA tools.",
+    "reason": "The job description fails the mandatory keyword pre-filter (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and the required experience (1-7 years) is significantly lower than the candidate's 15 years of seniority.",
     "id": "568c77a2",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer - Energy Conversion",
@@ -52455,13 +52450,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-engineer-energy-conversion-at-ghd-4306052328",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Energy Conversion Engineer, which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA.",
+    "reason": "The role is for energy generation and conversion (power plants/renewables) and does not involve semiconductor Power Integrity, PDN, or the required EDA tools.",
     "id": "36d2b1e5",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IP Design Director",
@@ -52469,14 +52463,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ip-design-director-at-astera-labs-4446901067",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves leading IP design for semiconductor products, which closely matches Vineeth's background in Power Integrity and CAD Methodology.",
+    "matches_requirements": "no",
+    "reason": "The posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "dcd36a17",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": "job_descriptions/astera_labs_ip_design_director_dcd36a17.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Verification Director(Top30 Semconductor company in the world)",
@@ -52485,13 +52478,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-design-verification-director-top30-semconductor-company-in-the-world-at-mulya-technologies-4444251549",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification focused (SoC design, UVM, testbench development) which does not match Vineeth's background in PI/SI, packaging, and CAD methodology.",
+    "reason": "The role is primarily in Design Verification (UVM), which is outside Vineeth's domain, and the application period has already closed.",
     "id": "1f62539e",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Semiconductor Engineering",
@@ -52500,13 +52492,12 @@
     "url": "https://www.linkedin.com/jobs/view/head-of-semiconductor-engineering-at-stellantis-4447047695",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is senior engineering leadership without a strong match in Vineeth's technical domain specialties.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary to pass the initial pre-filter.",
     "id": "c4939d16",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Silicon CAD Austin",
@@ -52515,13 +52506,12 @@
     "url": "https://www.linkedin.com/jobs/view/head-of-silicon-cad-austin-at-ericsson-4446798124",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification, which is outside Vineeth's domain.",
+    "reason": "The job description fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "772a50c9",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Equipment Engineer",
@@ -52530,13 +52520,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89193?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical HR role at an AMD semiconductor company, so it's a hard reject for our domain.",
+    "reason": "The job fails the mandatory keyword pre-filter and explicitly states it is not eligible for visa sponsorship for a US-based role.",
     "id": "faa45d18",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Design Verification Engineer",
@@ -52545,13 +52534,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/77256?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an ASIC verification engineering role focused on CPU design, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily for design verification (DV), which is explicitly listed as a hard rejection because it falls outside the candidate's domain of Power Integrity and Physical Design.",
     "id": "9e6c5f45",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Formal Verification Engineer",
@@ -52560,13 +52548,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88488?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on microprocessor core verification for client devices, which does not match Vineeth's power integrity and packaging background. The location is also in Hyderabad India rather than Finland, Europe.",
+    "reason": "The role is a Formal Verification Engineer position, which is explicitly listed as a hard rejection as it falls outside the candidate's domain.",
     "id": "5b147355",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Failure Analysis Engineer - Power & Design",
@@ -52575,13 +52562,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89137?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is based in the US and explicitly states it is not eligible for visa sponsorship, which is a hard rejection criterion.",
     "id": "2141bd20",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Software Development Engineer",
@@ -52590,13 +52576,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88804?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain of expertise.",
+    "reason": "The role is primarily for software development (Staff Software Development Engineer), which is explicitly excluded in the hard rejection criteria.",
     "id": "36dd9888",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer-Data Center AI GPU Thermal Design",
