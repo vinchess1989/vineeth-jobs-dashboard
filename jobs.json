@@ -57336,13 +57336,12 @@
     "url": "https://uk.linkedin.com/jobs/view/rehabilitation-engineer-technician-%E2%80%93-wheelchairs-%E2%80%93-leicester-at-am-healthcare-group-4443554706",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not related to semiconductor/VLSI/EDA engineering but instead focuses on wheelchair and seating assessments for individuals with disabilities. It requires clinical, technical, and engineering skills in assistive technology.",
+    "reason": "The job is for a medical rehabilitation engineering technician in the healthcare industry and does not meet the semiconductor or VLSI domain requirements.",
     "id": "6fa9a692",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Architect",
@@ -57351,13 +57350,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-architect-at-mirafra-technologies-4446735413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development with emphasis on hardware-software co-design, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "3bbe192a",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer",
@@ -57366,13 +57364,12 @@
     "url": "https://in.linkedin.com/jobs/view/electrical-engineer-at-stanley-black-decker-inc-4447259882",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on power electronics and tool design, outside Vineeth's core areas of expertise in semiconductor VLSI EDA.",
+    "reason": "The role focuses on Power Electronics for industrial power tools (motors, batteries, converters), which is a different domain from the candidate's expertise in SoC Power Integrity and VLSI chip design.",
     "id": "0b5a38e1",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Don't see an open position you'd like to fill?",
@@ -57381,13 +57378,12 @@
     "url": "https://www.linkedin.com/jobs/view/don-t-see-an-open-position-you-d-like-to-fill%3F-at-dbos-inc-4447269055",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical 'other' role at a semiconductor company, which does not match Vineeth's engineering background.",
+    "reason": "The posting is a general talent pool submission and does not contain any of the required technical keywords like PDN, Redhawk, or Power Integrity.",
     "id": "14d35355",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Budget",
@@ -57396,13 +57392,12 @@
     "url": "https://in.linkedin.com/jobs/view/budget-at-us-gove-4445902777",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical finance role at a government company, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "This is a non-technical finance role and is no longer accepting applications.",
     "id": "a8f43c20",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "We\u2019re not hiring right now \u2014 but we\u2019re growing fast.",
@@ -57411,13 +57406,12 @@
     "url": "https://uk.linkedin.com/jobs/view/we%E2%80%99re-not-hiring-right-now-%E2%80%94-but-we%E2%80%99re-growing-fast-at-vended-4446981269",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general request for resumes, not a specific job posting with a deadline.",
+    "reason": "The posting is a general talent pool for multiple unrelated roles (Software, Sales, Field Service) and fails the mandatory keyword pre-filter for Power Integrity and VLSI-specific terms.",
     "id": "970d8c43",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager- SoC Validation",
@@ -57425,14 +57419,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/manager-soc-validation-at-randstad-enterprise-4446978349",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on SoC validation, characterization and ATE test development, which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, and CAD Methodology.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "ec0365e0",
     "source": "linkedin_india_semiconductor_technical_leader",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Device Driver Developer - C/C++",
@@ -57441,13 +57434,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88842?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (C/C++, firmware, kernel) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (Device Driver/Linux Kernel) and does not contain any of the mandatory Power Integrity or EDA tool keywords.",
     "id": "6bba5a1f",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project/Program Manager",
@@ -57456,13 +57448,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89159?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This non-technical HR role is outside Vineeth's domain of VLSI/EDA/semiconductor engineering and technical leadership. Reject.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is a project management/operations role rather than a technical engineering role.",
     "id": "757aa5c2",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Engineer, Integration & Yield (300mm)SGPosted a day ago",
@@ -57471,13 +57462,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769874081",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Process Integration (PI) Engineer, which matches Vineeth's background but does not lead teams.",
+    "reason": "The job is for Process Integration (manufacturing yield) and not Power Integrity, making the 'PI' acronym an incidental keyword match rather than a domain match.",
     "id": "f4ddc652",
     "source": "globalfoundries_careers",
     "posted_date": "2026-07-24",
     "deadline": "2026-08-10",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer (Networking)ICEYEEspooGo to job site",
@@ -57486,13 +57476,12 @@
     "url": "https://thehub.fi/jobs/6a6b4124a1a49e39283974a5",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Software Engineer specializing in networking, which falls outside Vineeth's Power Integrity and Advanced Packaging focus.",
+    "reason": "The role is a networking software development position which is explicitly excluded as a hard rejection and fails the required keyword pre-filter.",
     "id": "1aa25eca",
     "source": "work_in_finland",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Customer Program Manager",
@@ -57501,13 +57490,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-customer-program-manager-at-aeva-4441752894",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a customer-facing program management position at a semiconductor startup, not directly related to Vineeth's technical domains of power integrity, advanced packaging, or EDA CAD.",
+    "reason": "The job is a customer-facing program management role that fails the mandatory keyword pre-filter and is not a technical engineering position.",
     "id": "3cebed89",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor & Microelectronics Specialist (AI Training Project)",
@@ -57516,13 +57504,12 @@
     "url": "https://pl.linkedin.com/jobs/view/semiconductor-microelectronics-specialist-ai-training-project-at-gramian-consulting-4447020326",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a contract position at a consulting firm, which does not match the semiconductor/VLSI/EDA industry focus.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "03d92484",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Systems Manager  (Linux / Infrastructure / Networking)",
@@ -57531,13 +57518,12 @@
     "url": "https://uk.linkedin.com/jobs/view/it-systems-manager-linux-infrastructure-networking-at-adria-solutions-ltd-4443291703",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an IT Systems Manager focusing on Linux, Infrastructure, and Networking, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "The position is for an IT Systems Manager (Infrastructure/Networking) and does not fall within the required Semiconductor, VLSI, or EDA technical domains, nor does it contain the required technical keywords.",
     "id": "6de0e014",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -57546,13 +57532,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-scouto-ai-4446993121",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily RTL/gate-level simulation which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description fails the mandatory keyword pre-filter and is an RTL Design role, which is outside the candidate's primary domain of Power Integrity and leadership.",
     "id": "13924ec2",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
