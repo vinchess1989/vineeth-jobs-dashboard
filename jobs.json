@@ -58134,13 +58134,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-business-analyst-at-arcelormittal-digital-consulting-4445492884",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Lead Business Analyst role is focused on AI/Analytics applications in steel manufacturing, which is unrelated to Vineeth's expertise in Power Integrity and Advanced Packaging for SoC design.",
+    "reason": "The role is a Business Analyst position for steel manufacturing and does not meet the required Power Integrity or VLSI technical domain criteria.",
     "id": "76efd5de",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Specialist, Product Management & Development",
@@ -58149,13 +58148,12 @@
     "url": "https://in.linkedin.com/jobs/view/specialist-product-management-development-at-s-p-global-4446966478",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in product management for fintech regulatory reporting, not semiconductor VLSI EDA.",
+    "reason": "This is a financial services product management role and does not fall within the semiconductor, VLSI, or EDA technical domains.",
     "id": "3fe7e12b",
     "source": "linkedin_india_emir",
     "posted_date": "2023-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead ASIC PD / EMIR Engineer",
@@ -58163,14 +58161,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/lead-asic-pd-emir-engineer-at-smartsoc-solutions-pvt-ltd-4447267564",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "8+ years of overall VLSI/Physical Design experience is preferred, and 3+ years hands-on in PDN / EMIR closure. Matches technical skills but slightly lower than ideal range.",
+    "matches_requirements": "yes",
+    "reason": "The role is a leadership-level position focusing on Power Integrity and EMIR closure, which directly aligns with the candidate's 15 years of experience and specific expertise in PDN sign-off.",
     "id": "3cefae1b",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/smartsoc_solutions_p_lead_asic_pd___emir_engineer_3cefae1b.txt"
   },
   {
     "title": "Trading Back Office Expert",
@@ -58179,13 +58176,12 @@
     "url": "https://hu.linkedin.com/jobs/view/trading-back-office-expert-at-met-group-4445737415",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is unrelated to semiconductor, VLSI, EDA, power integrity, packaging, or physical design.",
+    "reason": "This is a financial back-office role in the energy sector, which is a non-technical role and does not fall within the semiconductor, VLSI, or EDA domains.",
     "id": "c6e1d7dd",
     "source": "linkedin_eu_emir",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Capital Market Manager",
@@ -58194,13 +58190,12 @@
     "url": "https://uk.linkedin.com/jobs/view/capital-market-manager-at-capgemini-4447045197",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on capital markets consulting rather than semiconductor/EDA/VLSI technical domains.",
+    "reason": "The job is for a financial services consulting role in Capital Markets and does not involve semiconductor engineering or VLSI design.",
     "id": "8619d303",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Embedded CPU PPA Architect",
@@ -58209,13 +58204,12 @@
     "url": "https://www.linkedin.com/jobs/view/lead-embedded-cpu-ppa-architect-at-amd-4445046057",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
+    "reason": "The job is based in the United States and does not explicitly mention visa sponsorship or relocation, failing the location requirements.",
     "id": "00d84344",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate CPU Physical Implementation Engineer",
@@ -58224,13 +58218,12 @@
     "url": "https://fr.linkedin.com/jobs/view/graduate-cpu-physical-implementation-engineer-at-arm-4447229337",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on CPU physical implementation, which is different from Vineeth's background in power integrity and advanced packaging.",
+    "reason": "The position is an entry-level graduate role, which does not align with the candidate's 15 years of experience and senior leadership profile.",
     "id": "239fa724",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ERP System Administrator",
@@ -58239,13 +58232,12 @@
     "url": "https://www.linkedin.com/jobs/view/erp-system-administrator-at-stanadyne-4433534133",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on ERP system administration for manufacturing, which is outside Vineeth's domain of semiconductor/VLSI/EDA expertise. It does not mention power integrity, advanced packaging, CAD tools or methodologies, chip design, EDA applications engineering, or any related technical areas.",
+    "reason": "The job is for an ERP System Administrator and does not contain any of the required semiconductor, VLSI, or power integrity keywords or technical domains.",
     "id": "1a5f6371",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Manager, Data Operations",
@@ -58254,13 +58246,12 @@
     "url": "https://in.linkedin.com/jobs/view/associate-manager-data-operations-at-anaplan-4447279020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Data Operations Manager position, which does not fit Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The position is for Data Operations in a SaaS company and does not contain the required semiconductor keywords or technical domain expertise.",
     "id": "9a46c2f4",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Validation Engineer",
@@ -58269,13 +58260,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-validation-engineer-at-arm-4447227387",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on firmware rather than hardware/physical design, which doesn't match Vineeth's background.",
+    "reason": "The job description does not contain any of the required keywords and focuses on DDR functional validation, which is outside the candidate's primary domain of Power Integrity and Packaging.",
     "id": "391a797e",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Manager, Data Operations",
@@ -58284,13 +58274,12 @@
     "url": "https://in.linkedin.com/jobs/view/associate-manager-data-operations-at-anaplan-4447279019",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in data operations for a software company, which does not match Vineeth's semiconductor/EDA background and expertise.",
+    "reason": "The job is a data operations role in a SaaS company and does not involve Power Integrity, VLSI, or any semiconductor engineering domains.",
     "id": "210667a5",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "UCIe/D2D Post Si Validation Engineer",
@@ -58298,14 +58287,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ucie-d2d-post-si-validation-engineer-at-arm-4447217468",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development, formal verification) which is outside Vineeth's domain.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "f89cccee",
     "source": "linkedin_india_system_power_integrity",
-    "posted_date": "2026-07-31",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "High Gain Antenna Technologies Intern",
@@ -58314,13 +58302,12 @@
     "url": "https://it.linkedin.com/jobs/view/high-gain-antenna-technologies-intern-at-huawei-italy-research-centers-4373004898",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This internship is in antenna technologies, not related to semiconductor/VLSI/EDA roles like Power Integrity, Advanced Packaging, CAD Methodology which Vineeth specializes in.",
+    "reason": "The position is an entry-level internship, which does not align with the candidate's 15 years of experience and Technical Leader profile.",
     "id": "ac6185db",
     "source": "linkedin_eu_system_power_integrity",
     "posted_date": "2026-03-03",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Avionics EWIS Engineer",
@@ -58329,13 +58316,12 @@
     "url": "https://de.linkedin.com/jobs/view/avionics-ewis-engineer-at-hypersonica-4433333132",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This avionics engineering role is focused on electrical wiring interconnection systems (EWIS) in aerospace rather than semiconductor, VLSI, EDA domains.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on aircraft wiring (EWIS) rather than semiconductor power integrity.",
     "id": "29319973",
     "source": "linkedin_eu_system_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
@@ -58344,13 +58330,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-at-arm-4447216440",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches Vineeth's background in Power Integrity, Advanced Packaging and experience with Cadence APD & Allegro tools. Arm is a leading semiconductor company.",
+    "reason": "The role aligns perfectly with the candidate's 15 years of experience in Advanced Packaging and SI/PI requirements for 2.5D and 3D package systems.",
     "id": "edef6820",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_senior_engineer_edef6820.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_senior_engineer_edef6820.txt"
   },
   {
     "title": "Staff Engineer",
