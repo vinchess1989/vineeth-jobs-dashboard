@@ -43042,13 +43042,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=c277e913a2d49c61",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a software development position focused on autonomous robots, which is outside Vineeth's domain of power integrity and semiconductor design.",
+    "reason": "The role is primarily software development for robotics, which is explicitly excluded as it falls outside the candidate's domain of Power Integrity and VLSI.",
     "id": "615c102c",
     "source": "indeed_ww_semiconductor_architect",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-31",
     "deadline": "2026-08-01",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Developer - Amazon Robotics , Autonomous Mobility salaries in North Reading, MA",
@@ -43057,13 +43056,12 @@
     "url": "https://www.indeed.com/career/senior-software-engineer/salaries/North-Reading--MA?campaignid=serp-more&fromjk=c277e913a2d49c61&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software development position, which falls outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The role is for software development and fails the mandatory keyword pre-filter for Power Integrity and EDA tools.",
     "id": "a099cad8",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded SDE II, HW Compute Group",
@@ -43072,28 +43070,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=09f69280ee7e78d0",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is for software development on Linux BSPs for embedded systems at Amazon, which is outside Vineeth's background in semiconductor power integrity, advanced packaging, and EDA.",
+    "reason": "The role is a software development position for Linux BSP/Kernel and does not contain the mandatory Power Integrity or EDA tool keywords.",
     "id": "e9a64017",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded SDE II, HW Compute Group salaries in Sunnyvale, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Sunnyvale, CA, USA",
     "url": "https://www.indeed.com/career/senior-software-engineer/salaries/Sunnyvale--CA?campaignid=serp-more&fromjk=09f69280ee7e78d0&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Engineer II focused on software and firmware, which falls outside Vineeth's expertise in Power Integrity, VLSI/EDA tools, and semiconductor engineering.",
+    "reason": "The posting is for a software development role (SDE) and fails the mandatory keyword pre-filter for Power Integrity/PDN domains.",
     "id": "aaf6ab1d",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Software Development Engineer, Smart Delivery Tech",
@@ -43102,28 +43098,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=f1bd6d286cdeeb9b",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a software engineering position at Amazon, which does not match the semiconductor/VLSI/EDA industry focus of Vineeth's background.",
+    "reason": "The role is for software development, which is an explicit hard rejection, and it fails the required keyword pre-filter for semiconductor/VLSI domains.",
     "id": "9cd728db",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Software Development Engineer, Smart Delivery Tech salaries in New York, NY",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "New York, NY, USA",
     "url": "https://www.indeed.com/career/software-engineer/salaries/New-York--NY?campaignid=serp-more&fromjk=f1bd6d286cdeeb9b&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (software engineer) which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The provided content is a salary research page rather than a job posting, and it lacks all required semiconductor keywords.",
     "id": "6ab27f5f",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer II (UM), Bespoke Solutions salaries in Jessup, MD",
@@ -43132,13 +43126,12 @@
     "url": "https://www.indeed.com/career/software-engineer/salaries/Jessup--MD?campaignid=serp-more&fromjk=feddbab939ce2c3a&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is for software development which is a hard rejection, and it does not contain any of the required Power Integrity/VLSI keywords.",
     "id": "4d3d72ed",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EFA Network Software Engineer I, Annapurna Labs",
@@ -43147,13 +43140,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=b21782454cba582e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software development role focused on ML networking software, not VLSI/EDA.",
+    "reason": "The position is primarily a software development role (C programming, network software), which is explicitly listed as a hard rejection.",
     "id": "50e976e2",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EFA Network Software Engineer I, Annapurna Labs salaries in Seattle, WA",
@@ -43162,13 +43154,12 @@
     "url": "https://www.indeed.com/career/network-engineer/salaries/Seattle--WA?campaignid=serp-more&fromjk=b21782454cba582e&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain of expertise.",
+    "reason": "The role is a software engineering position which is a hard rejection, and it fails the required Power Integrity keyword pre-filter.",
     "id": "000f387e",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "10 Pros and Cons of Being a Retail Manager (Plus Definition)",
@@ -43177,13 +43168,12 @@
     "url": "https://www.indeed.com/career-advice/finding-a-job/pros-and-cons-of-being-retail-manager?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This appears to be a general article discussing the pros and cons of being a retail manager role, not an actual job posting. It does not contain specific company, location, posted date or application deadline details required for evaluating a valid semiconductor/VLSI/EDA industry technical job.",
+    "reason": "The posting is a career advice article about retail management, not a semiconductor engineering position.",
     "id": "8bc56206",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graphics Designer Manager",
@@ -43192,13 +43182,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87975?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development which is outside Vineeth's domain.",
+    "reason": "The position is a non-technical marketing and creative role (Graphics Designer Manager) and does not involve Power Integrity, Physical Design, or any of the required technical domains.",
     "id": "557a42ac",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Video Editor & Videographer",
@@ -43207,13 +43196,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87974?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical marketing position, outside Vineeth's domain.",
+    "reason": "This is a non-technical marketing/creative role for a video editor and fails the mandatory keyword pre-filter for Power Integrity and VLSI domains.",
     "id": "4b8a2c3d",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior GPU Performance and Power Benchmark Engineer",
@@ -43222,13 +43210,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89143?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on GPU performance and power benchmarking for AMD's data center solutions group, which aligns more with software development rather than Vineeth's core areas of expertise in semiconductor manufacturing like Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1fdd4a9f",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Cluster Technical Program Manager \u2013 Validation, Debug & Agentic AI",
@@ -43237,13 +43224,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88752?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on AI infrastructure, validation and debug programs for next-gen AI rack and cluster solutions. This is a departure from Vineeth's core domain of power integrity (PI), advanced packaging, SoC PDN sign-off, thermal analysis, CAD methodology.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for the initial pre-filter.",
     "id": "28523222",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -43252,13 +43238,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88942?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role focused on ASIC design verification, which is outside Vineeth's primary domain of Power Integrity and Advanced Packaging. It requires strong Verilog/SystemVerilog skills.",
+    "reason": "The role is primarily a Design Verification position involving UVM and RTL, which is explicitly excluded as outside the candidate's domain.",
     "id": "8c92e42b",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IAM AnalystMexico City, Distrito Federal, MexicoCyber Security EngineeringPosted 17 days ago",
