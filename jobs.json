@@ -57742,13 +57742,12 @@
     "url": "https://in.linkedin.com/jobs/view/m-era-net-call-2016-at-project-coli-sco-4446758590",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a research services role unrelated to semiconductor, VLSI, EDA.",
+    "reason": "The posting is for a closed research funding call, not a semiconductor engineering position, and lacks all required technical keywords.",
     "id": "8bfb13d9",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Engineer \u2013 eAxle Thermal System",
@@ -57757,13 +57756,12 @@
     "url": "https://hu.linkedin.com/jobs/view/lead-engineer-%E2%80%93-eaxle-thermal-system-at-bosch-hungary-4431255786",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on mechanical engineering and system design for eAxle thermal systems, rather than power integrity, packaging, or EDA tools.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "62632427",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Engineer (m/w/d)*",
@@ -57772,13 +57770,12 @@
     "url": "https://de.linkedin.com/jobs/view/research-engineer-m-w-d-at-g%C3%BCntner-group-4446744494",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily research and development in refrigeration and experimental thermodynamics/fluid dynamics, which does not match Vineeth's VLSI/EDA background.",
+    "reason": "The job does not contain any required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) and is an entry-level role in refrigeration technology rather than semiconductor Power Integrity or Advanced Packaging.",
     "id": "fe94fff9",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Distinguished VLSI Design Engineer",
@@ -57787,13 +57784,12 @@
     "url": "https://in.linkedin.com/jobs/view/distinguished-vlsi-design-engineer-at-sandisk-4447261911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at a semiconductor company, but it is for a non-technical Senior Leadership position.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required by the pre-filter.",
     "id": "0427a8fe",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Engineer",
@@ -57802,13 +57798,12 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Module-Engineer_JR0283420",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on manufacturing equipment and processes, which is outside Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job description does not contain any of the required keywords and describes a manufacturing equipment engineering role rather than a Power Integrity or design-focused engineering position.",
     "id": "3535e9be",
     "source": "intel_careers",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commercial Sales Account Manager",
@@ -57817,13 +57812,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87731?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a sales/marketing role, not an engineering/technical position.",
+    "reason": "The role is a sales and marketing position, which is a non-technical role and does not meet the technical requirements for the candidate.",
     "id": "101c5111",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Component Sales Account Manager",
@@ -57832,13 +57826,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/84222?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales position which focuses on driving revenue targets and managing customer relationships, rather than a technical engineering/leadership role in semiconductor/VLSI/EDA.",
+    "reason": "The posting is for a non-technical Sales/Marketing role, which is explicitly listed as a hard rejection.",
     "id": "038306bb",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer - AI OrchestrationBangalore, IndiaSoftware EngineeringPosted 5 months ago",
@@ -57847,13 +57840,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446717035111?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (ML, AI, SDK tools) which is outside Vineeth's domain of expertise in VLSI/EDA/semiconductor.",
+    "reason": "The role is primarily a software engineering position in machine learning and does not contain any of the required Power Integrity or EDA tool keywords.",
     "id": "9d187611",
     "source": "qualcomm_careers",
     "posted_date": "2026-03-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OEM Territory Representative (OTR) \u2013 EMEA",
@@ -57862,13 +57854,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Germany-Remote-Location/OEM-Territory-Representative--OTR----EMEA_R026680-1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales representative for OEM partnerships, focusing on OEMs like Dell, IBM, HPE etc. It does NOT involve technical engineering in semiconductor/VLSI/EDA domains.",
+    "reason": "The role is a non-technical sales position (OEM Territory Representative) and does not meet the required technical keyword filters or domain expertise.",
     "id": "5ed06498",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum Device Engineer",
@@ -57877,13 +57868,12 @@
     "url": "https://in.linkedin.com/jobs/view/quantum-device-engineer-at-scouto-ai-4446986245",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a characterization engineer focused on quantum devices, which is outside Vineeth's domain of expertise in power integrity, advanced packaging and EDA.",
+    "reason": "The job posting fails the keyword pre-filter as it does not contain any required terms (e.g., PDN, Redhawk, Power Integrity) and is an entry-level fabrication role unsuitable for a technical leader with 15 years of experience.",
     "id": "357989e2",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Specific Integrated Circuit Design Engineer",
@@ -57892,13 +57882,12 @@
     "url": "https://in.linkedin.com/jobs/view/application-specific-integrated-circuit-design-engineer-at-macrohire-4447267115",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on ASIC frontend design, which is primarily verification work (RTL coding, systemVerilog) and falls outside Vineeth's power integrity & advanced packaging domain.",
+    "reason": "The job posting fails the mandatory keyword pre-filter and is primarily a Frontend Design/Verification role, which is outside the candidate's domain.",
     "id": "969b3d5b",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Logic Design Engineer",
@@ -57907,13 +57896,12 @@
     "url": "https://www.linkedin.com/jobs/view/logic-design-engineer-at-amd-4441866599",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development, formal verification) which is outside Vineeth's domain.",
+    "reason": "The role is located in the US and explicitly states that it is not eligible for visa sponsorship, which is a hard rejection criterion.",
     "id": "e439f1e7",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
@@ -57922,28 +57910,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4442260108",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on ASIC design and build implementation which falls outside Vineeth's domain of expertise in Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal, CAD/Methodology, and Physical Design.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "dec8a9f8",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior ASIC Design Engineer",
-    "company": "NVIDIA",
-    "location": "Durham, NC",
-    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4445795483",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Senior ASIC Design Engineer, which involves more on RTL/VLSI design than Power Integrity and Advanced Packaging areas where Vineeth has expertise.",
-    "id": "6477f117",
-    "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-02",
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
@@ -57952,13 +57924,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-ai-4445029659",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification which falls outside Vineeth's domain of expertise.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL logic design rather than the candidate's expertise in Power Integrity and Advanced Packaging.",
     "id": "b7885c84",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-02",
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
