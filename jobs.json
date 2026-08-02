@@ -44708,13 +44708,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-director-at-lynx-recruitment-4446590998",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical leadership without specific semiconductor, EDA or chip design focus.",
+    "reason": "The job fails the mandatory keyword pre-filter and is for an Automated Test Equipment (ATE) division, which is outside the candidate's core expertise in Power Integrity and VLSI/EDA.",
     "id": "8360f8c0",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Engineer (Machine Learning)",
@@ -44723,13 +44722,12 @@
     "url": "https://uk.linkedin.com/jobs/view/software-engineer-machine-learning-at-arm-4436256902",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (machine learning) and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job description does not contain any of the mandatory Power Integrity keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "bc4a58ff",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RFIC Design Engineer",
@@ -44738,13 +44736,12 @@
     "url": "https://www.linkedin.com/jobs/view/rfic-design-engineer-at-lumicity-4446447777",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RFIC Design Engineer, which is primarily verification (circuit design) and falls outside Vineeth's main domain of Power Integrity & Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is located in the US without mentioning visa sponsorship.",
     "id": "a82e4b70",
     "source": "linkedin_ww_semiconductor_principal_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Design \u2013 High-End Residential Architecture (NY / South Florida Focus)",
@@ -44753,13 +44750,12 @@
     "url": "https://www.linkedin.com/jobs/view/head-of-design-%E2%80%93-high-end-residential-architecture-ny-south-florida-focus-at-talent-harbor-4446874289",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an architecture firm specializing in luxury residential properties, not semiconductor/VLSI/EDA.",
+    "reason": "The position is for high-end residential architecture and construction, which is completely unrelated to the candidate's semiconductor, VLSI, or Power Integrity expertise.",
     "id": "5e2c4249",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Architect",
@@ -44768,13 +44764,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-architect-at-capgemini-engineering-4445794880",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is heavily focused on AI strategy, design, and implementation, which does not match Vineeth's background in Power Integrity, packaging, and EDA tools.",
+    "reason": "The role is focused on AI/Machine Learning architecture and software development, which does not align with the candidate's expertise in VLSI Power Integrity and Advanced Packaging.",
     "id": "c9c7f1cb",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive Director - Principal Architect",
@@ -44783,13 +44778,12 @@
     "url": "https://www.linkedin.com/jobs/view/executive-director-principal-architect-at-hackajob-4445726649",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a senior leadership role at a financial services company, outside Vineeth's core domains of semiconductor/VLSI/EDA. The job description does not mention specific skills in Power Integrity, Advanced Packaging, CAD Methodology that would be relevant to his technical background.",
+    "reason": "The job is a software architecture role in the financial services sector and does not contain any required semiconductor or VLSI keywords such as PDN, Redhawk, or Voltus.",
     "id": "9fce5d12",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect - Identity and Access Management",
@@ -44798,13 +44792,12 @@
     "url": "https://www.linkedin.com/jobs/view/architect-identity-and-access-management%C2%A0-at-york-solutions-llc-4445736481",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Identity & Access Management Architect, which does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The job is for a cybersecurity Identity and Access Management (IAM) role, which is unrelated to the candidate's expertise in Power Integrity and semiconductor engineering.",
     "id": "5cedd3c5",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -44813,13 +44806,12 @@
     "url": "https://www.linkedin.com/jobs/view/architect-at-the-providence-group-4446337597",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a non-technical architecture position at a real estate development company, which does not match our semiconductor/VLSI/EDA technical focus.",
+    "reason": "This is a real estate and building architecture role, not a semiconductor or VLSI engineering position, and it does not contain any of the required technical keywords.",
     "id": "58f47bfb",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Outsystems Architect",
@@ -44828,13 +44820,12 @@
     "url": "https://www.linkedin.com/jobs/view/outsystems-architect-at-envision-technology-solutions-4445771383",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role at a semiconductor company.",
+    "reason": "The job is for a software architecture role (OutSystems) and fails the mandatory keyword pre-filter and the semiconductor domain requirements.",
     "id": "36238df7",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Agentic AI Architect - Local Only",
@@ -44843,13 +44834,12 @@
     "url": "https://www.linkedin.com/jobs/view/agentic-ai-architect-local-only-at-mastech-digital-4443286914",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on generative AI development and enterprise system integration, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for an Agentic AI Architect focused on software and LLMs, which does not align with the required technical domains of Power Integrity, Packaging, or CAD.",
     "id": "0ac9a2cc",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI/ML Architect - Talent Pipeline",
@@ -44858,13 +44848,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-ml-architect-talent-pipeline-at-bluecloud-4446851178",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI/ML Architect role is focused on Snowflake platforms and enterprise data ecosystems, not semiconductor design or EDA tools. It is in the domain of big data, analytics, and business intelligence, outside Vineeth's area of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The job is for an AI/ML Architect and does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) required for evaluation.",
     "id": "cab02358",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Gen Ai Architect",
@@ -44873,13 +44862,12 @@
     "url": "https://in.linkedin.com/jobs/view/gen-ai-architect-at-gyansys-inc-4445740010",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Generative AI Architect at GyanSys Inc., which does not fit Vineeth's background in Power Integrity, Advanced Packaging and VLSI/EDA.",
+    "reason": "The job does not contain any of the required semiconductor keywords and is a software development role in Generative AI, which is outside the candidate's domain.",
     "id": "3b641d88",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Node.js Architect",
@@ -44888,13 +44876,12 @@
     "url": "https://in.linkedin.com/jobs/view/node-js-architect-at-dazn-india-4443252991",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Node.js architect) which is outside Vineeth's domain of expertise in VLSI, EDA and semiconductor.",
+    "reason": "The role is for a Node.js Software Architect, which is a software development position outside of Vineeth's domain of Power Integrity and VLSI.",
     "id": "f8b578fc",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI Architect",
@@ -44903,13 +44890,12 @@
     "url": "https://in.linkedin.com/jobs/view/ai-architect-at-goml-4446309446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI system architecture, cloud solutions and AI/ML delivery at an AI software company (goML). It has no direct overlap with semiconductor, VLSI, EDA, power integrity or physical design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an AI/ML architecture role rather than a Power Integrity or VLSI hardware role.",
     "id": "b1642259",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Gen AI Architect (Bangalore)",
@@ -44918,13 +44904,12 @@
     "url": "https://in.linkedin.com/jobs/view/gen-ai-architect-bangalore-at-exl-4443613854",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (cloud-native solutions on AWS, DevOps/IaC practices) and does not closely match Vineeth's background in semiconductor VLSI/EDA Power Integrity and packaging engineering.",
+    "reason": "The role is for a Generative AI Cloud Architect in IT services and does not align with the candidate's semiconductor, VLSI, or Power Integrity domain expertise.",
     "id": "49ad34e7",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": ".Net Architect (For an IT Product Company)",
