@@ -14147,5 +14147,35 @@
     "deadline": "Open until filled",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "CFD Engineer Thermal Systems Turbomachinery",
+    "company": "Accord Technologies Inc",
+    "location": "Irvine, CA",
+    "url": "https://www.linkedin.com/jobs/view/cfd-engineer-thermal-systems-turbomachinery-at-accord-technologies-inc-4447246214",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is in the aerospace domain, requires US citizenship, and fails the mandatory keyword pre-filter for Power Integrity and EDA tools.",
+    "id": "7afdb205",
+    "source": "linkedin_ww_thermal",
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Photovoltaics (Senior) Research Scientist - please apply via https://www.powerroll.solar/careers",
+    "company": "Power Roll Ltd",
+    "location": "Seaham, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/photovoltaics-senior-research-scientist-please-apply-via-https-www-powerroll-solar-careers-at-power-roll-ltd-4447297029",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
+    "id": "bb219051",
+    "source": "linkedin_uk_semiconductor",
+    "posted_date": "2026-07-31",
+    "deadline": "2024-08-31",
+    "description_file": null,
+    "deletion_reason": "Deadline (2024-08-31) passed by more than 2 days and unreviewed"
   }
 ]

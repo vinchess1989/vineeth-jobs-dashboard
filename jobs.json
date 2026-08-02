@@ -58344,13 +58344,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-at-arm-4447227380",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Staff Engineer position at Arm, which matches Vineeth's senior leadership experience level and technical background in semiconductor packaging design.",
+    "reason": "The role is a strong match for the candidate's 15 years of experience in Advanced Packaging and Power Integrity, specifically requiring 2.5D/3D package systems and SI/PI requirements.",
     "id": "97b8c818",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_staff_engineer_97b8c818.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff_engineer_97b8c818.txt"
   },
   {
     "title": "Lead Engineer - PCB Design",
@@ -58358,14 +58357,13 @@
     "location": "Pune Division, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/lead-engineer-pcb-design-at-eaton-4435681581",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is for PCB design engineering, which is outside Vineeth's domain of expertise in power integrity and advanced packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role is a leadership position in PCB design requiring 12-14 years of experience with specific expertise in Power Integrity (PI) and Thermal Analysis, which directly aligns with the candidate's 15-year background.",
     "id": "df7d5270",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/eaton_lead_engineer___pcb_design_df7d5270.txt"
   },
   {
     "title": "Thermal Engineer, Residential, Energy Products",
@@ -58374,13 +58372,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-residential-energy-products-at-tesla-4447089842",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (application/backend/embedded software developer) which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a general thermal engineering role rather than a Power Integrity or semiconductor-specific domain.",
     "id": "b11a02dd",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer, Data Centers, Energy Products",
@@ -58389,28 +58386,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-data-centers-energy-products-at-tesla-4447093736",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a thermal engineer at data center and energy products, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and advanced packaging.",
+    "reason": "The job posting does not contain any of the required mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a US-based role without explicit visa sponsorship.",
     "id": "2906f959",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "CFD Engineer Thermal Systems Turbomachinery",
-    "company": "Accord Technologies Inc",
-    "location": "Irvine, CA",
-    "url": "https://www.linkedin.com/jobs/view/cfd-engineer-thermal-systems-turbomachinery-at-accord-technologies-inc-4447246214",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This CFD Engineer role is focused on Aerospace/Thermal-Fluids applications, not semiconductor/VLSI/EDA. It also requires a Bachelor's degree only.",
-    "id": "7afdb205",
-    "source": "linkedin_ww_thermal",
-    "posted_date": "2026-07-31",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer",
@@ -58419,13 +58400,12 @@
     "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-at-ouster-4445042895",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical mechanical engineering role at a sensor hardware company, not relevant to Vineeth's VLSI/EDA background.",
+    "reason": "The job is for a Mechanical Engineering role and fails the mandatory keyword pre-filter as it does not contain the required Power Integrity or EDA tool terms.",
     "id": "b4742631",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Robotics Fan & Active Cooling Systems Engineer, Thermal Engineering, Optimus",
@@ -58433,14 +58413,13 @@
     "location": "Palo Alto, CA",
     "url": "https://www.linkedin.com/jobs/view/robotics-fan-active-cooling-systems-engineer-thermal-engineering-optimus-at-tesla-4446718438",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on fan and cooling system design for robots, which doesn't match Vineeth's semiconductor/VLSI/EDA background in power integrity, packaging, SoC PDN sign-off.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "0db5a3e7",
     "source": "linkedin_ww_thermal",
-    "posted_date": "2026-07-30",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Real-Time Trader, West",
@@ -58449,13 +58428,12 @@
     "url": "https://www.linkedin.com/jobs/view/real-time-trader-west-at-the-energy-authority-4446971023",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Real-Time Trader at The Energy Authority, which does utilities and power trading. It is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is a financial trading position in the energy sector and does not involve any semiconductor, VLSI, or Power Integrity engineering.",
     "id": "fd167a4a",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Operations",
@@ -58464,13 +58442,12 @@
     "url": "https://uk.linkedin.com/jobs/view/director-of-operations-at-technify-talent-4446982750",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Director of Operations for a photonics semiconductor company, which is outside Vineeth's main areas of Power Integrity and VLSI/SoC design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "d4c2d220",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL SOC Architect",
@@ -58479,13 +58456,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-soc-architect-at-mirafra-technologies-4446735413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This RTL SOC Architect role is focused on digital design and architecture, which falls more into SoC design and verification rather than Power Integrity/Advanced Packaging/CAD domains that Vineeth specializes in.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "7496e284",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Firmware Developer - C Programming",
@@ -58494,13 +58470,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88856?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job is primarily a firmware and software development role, which is explicitly excluded as it falls outside the candidate's domain of Power Integrity, Packaging, and CAD Methodology.",
     "id": "5c32a503",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Equipment Engineer",
@@ -58509,28 +58484,12 @@
     "url": "https://in.linkedin.com/jobs/view/electrical-equipment-engineer-at-infosys-4442253932",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role focused on electrical equipment and systems, while Vineeth's background is in semiconductor/EDA power integrity, advanced packaging, and EDA tooling.",
+    "reason": "The role is for plant engineering and heavy electrical equipment (HV systems), which is unrelated to the candidate's expertise in VLSI Power Integrity and SoC PDN sign-off.",
     "id": "a47950e2",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Photovoltaics (Senior) Research Scientist - please apply via https://www.powerroll.solar/careers",
-    "company": "Power Roll Ltd",
-    "location": "Seaham, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/photovoltaics-senior-research-scientist-please-apply-via-https-www-powerroll-solar-careers-at-power-roll-ltd-4447297029",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is focused on photovoltaic research and development, which is outside Vineeth's domain of power integrity, packaging, EDA CAD tools.",
-    "id": "bb219051",
-    "source": "linkedin_uk_semiconductor",
-    "posted_date": "2026-07-31",
-    "deadline": "31 august",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Package Manager",
@@ -58539,13 +58498,12 @@
     "url": "https://fi.linkedin.com/jobs/view/electrical-package-manager-at-v7-recruitment-4447274872",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a construction project management position for an electrical package on a data center build, which does not match Vineeth's semiconductor/VLSI/EDA background and skillset.",
+    "reason": "This is a construction-based electrical project management role for data centers, not a semiconductor-related Power Integrity or Advanced Packaging engineering position.",
     "id": "8b874fc5",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Manager",
@@ -58554,13 +58512,12 @@
     "url": "https://fi.linkedin.com/jobs/view/project-manager-at-thor-4445082703",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a construction project manager delivering hyperscale data center projects, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and advanced packaging.",
+    "reason": "The role is a construction-based project management position for data centers and facilities, and it fails the mandatory keyword pre-filter for Power Integrity and EDA tools.",
     "id": "426f65c8",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Document Controller",
