@@ -39570,13 +39570,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-electrical-engineering-dallas-tx-at-tes-recruiting-4446406549",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical architecture/engineering role for electrical design in building projects, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for building/MEP electrical engineering and does not contain any of the required semiconductor power integrity keywords or technical domains.",
     "id": "efe38da3",
     "source": "linkedin_ww_semiconductor_director",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EPC Engineering Director",
@@ -39585,13 +39584,12 @@
     "url": "https://uk.linkedin.com/jobs/view/epc-engineering-director-at-worley-4446818544",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on EPC engineering project leadership, not semiconductor power integrity or VLSI design.",
+    "reason": "The job is for an EPC Engineering Director in industrial infrastructure (energy, chemicals, etc.) and lacks the required semiconductor/VLSI/EDA keywords and domain expertise.",
     "id": "cb45795a",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -39600,13 +39598,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-lexicon-solutions-4446405726",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily strategic leadership with broad technology oversight, much broader than Vineeth's domain of Power Integrity and Advanced Packaging. It would require significant transition to take on.",
+    "reason": "The job description does not contain any of the mandatory Power Integrity or EDA tool keywords and focuses on enterprise IT, cybersecurity, and data strategy.",
     "id": "32bf4efd",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -39615,13 +39612,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-firstlight-home-care-4446417411",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a full-time Chief Technology Officer position for FirstLight Home Care, which provides home care services and does not fit Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The job does not contain any of the required keywords and belongs to the healthcare industry rather than the semiconductor/VLSI/EDA domain.",
     "id": "17ba9b77",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -39630,13 +39626,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-goliath-partners-4446408265",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Founding Engineering Lead, not a Power Integrity or Packaging specialist.",
+    "reason": "The job posting does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily a software/AI infrastructure role.",
     "id": "7b29c31c",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -39645,13 +39640,12 @@
     "url": "https://in.linkedin.com/jobs/view/chief-technology-officer-at-meraki-labs-4431252002",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a CTO role at a software startup building AI agents, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job is a software engineering leadership role for an AI company and does not contain any of the required Power Integrity or EDA keywords.",
     "id": "7df4e5b4",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer | Hydrogen",
@@ -39659,14 +39653,13 @@
     "location": "Valencia, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/chief-technology-officer-hydrogen-at-kerionics-4429509419",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a senior technical leadership position in the domain of electrochemical energy technologies, which fits within Power Integrity / SI and EDA Tools domains. It involves leading development from R&D to industrialization of an SOEC technology, with a team reporting directly.",
+    "matches_requirements": "no",
+    "reason": "The job is in the hydrogen/energy sector and fails the mandatory keyword pre-filter for semiconductor/VLSI/EDA domains.",
     "id": "64d88825",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": "job_descriptions/kerionics_chief_technology_officer___hyd_64d88825.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -39675,13 +39668,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-technology-officer-at-inyanga-marine-energy-group-4446808548",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Chief Technology Officer role is focused on marine renewable energy technologies like tidal stream energy, which does not closely match Vineeth's semiconductor/EDA/VLSI background in Power Integrity and advanced packaging.",
+    "reason": "The job is in the marine renewable energy industry and does not contain the required Power Integrity or VLSI/EDA keywords.",
     "id": "9ace9fdd",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CTO (Chief Technology Officer)",
@@ -39690,88 +39682,82 @@
     "url": "https://uk.linkedin.com/jobs/view/cto-chief-technology-officer-at-the-investigo-group-4446075813",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires Security Check (SC) clearance which restricts to UK citizens only.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a software/data platform company rather than the semiconductor/VLSI/EDA domain.",
     "id": "1dfb7cf5",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Management Consultant",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture",
+    "location": "Multiple Locations",
     "url": "https://www.indeed.com/rc/clk?jk=15bbeb16c9bab28e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical business management position, which does not fit Vineeth's deep technical background in Power Integrity and VLSI.",
+    "reason": "The job is a management consulting role and fails the mandatory keyword pre-filter for Power Integrity, Electrical Analysis, and specific EDA tools.",
     "id": "d63da6bc",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Management Consultant salaries in Charlotte, NC",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Charlotte, NC, USA",
     "url": "https://www.indeed.com/career/management-consultant/salaries/Charlotte--NC?campaignid=serp-more&fromjk=15bbeb16c9bab28e&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, it's for a management consultant rather than an engineering/technical position at a semiconductor company.",
+    "reason": "The posting is a salary search page for management consultants, not a technical engineering position in the semiconductor/VLSI/EDA industry.",
     "id": "ec7eb0b7",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Strategy Senior Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture Strategy",
+    "location": "USA",
     "url": "https://www.indeed.com/rc/clk?jk=5a2ab550b2a8428b",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) and is a business strategy consulting role rather than a technical engineering position.",
     "id": "ab704853",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Strategy Senior Manager salaries in Charlotte, NC",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Charlotte, NC, USA",
     "url": "https://www.indeed.com/career/strategy-manager/salaries/Charlotte--NC?campaignid=serp-more&fromjk=5a2ab550b2a8428b&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical role unrelated to semiconductor, VLSI, EDA or power integrity.",
+    "reason": "The provided URL is a salary research page for a non-technical strategy role, not a technical engineering job description.",
     "id": "2b5861aa",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Consulting Senior Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture",
+    "location": "Multiple Locations, USA",
     "url": "https://www.indeed.com/rc/clk?jk=71c837637d22c7ea",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description fails the keyword pre-filter as it lacks the required technical terms (e.g., PDN, Redhawk, Voltus) and is a management consulting role rather than a technical engineering position.",
     "id": "1f41dd8b",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Consulting Senior Manager salaries in Charlotte, NC",
@@ -39780,13 +39766,12 @@
     "url": "https://www.indeed.com/career/consulting-manager/salaries/Charlotte--NC?campaignid=serp-more&fromjk=71c837637d22c7ea&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a consulting manager position at a company, which does not match the technical engineering/leadership roles in semiconductor/VLSI/EDA that Vineeth is qualified for.",
+    "reason": "The posting is a salary research page rather than a specific job description and does not contain any of the required technical keywords (PDN, Redhawk, etc.).",
     "id": "ae3ca619",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Consulting Manager",
