@@ -53808,13 +53808,12 @@
     "url": "https://fr.linkedin.com/jobs/view/alternant-e-dessinateur-d-%C3%A9tudes-at-decayeuxsti-4445727032",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an industrial drafting technician intern, focusing on mechanical design and outillage. It does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is an entry-level mechanical design apprenticeship in the metal transformation industry and does not involve any semiconductor, Power Integrity, or EDA-related technical requirements.",
     "id": "d682dc62",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Design (Engineer)",
@@ -53823,13 +53822,12 @@
     "url": "https://de.linkedin.com/jobs/view/founding-design-engineer-at-telli-4439491527",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on software and AI systems design, not semiconductor/VLSI/EDA",
+    "reason": "The job is for an AI Product/UX design and software role, which does not meet the required Power Integrity, VLSI, or EDA technical domain requirements and failed the keyword pre-filter.",
     "id": "c75c7865",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer",
@@ -53838,13 +53836,12 @@
     "url": "https://hu.linkedin.com/jobs/view/application-engineer-at-toyota-material-handling-hungary-4423885566",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an application engineer at a material handling equipment company, well outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for warehouse automation and material handling at Toyota, which does not involve semiconductor Power Integrity, VLSI design, or EDA tools.",
     "id": "ccff6eb0",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -53853,13 +53850,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-intel-4446900844",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role is a Senior Physical Design Engineer at Intel in Bengaluru, India, requiring 8+ years of experience. This matches Vineeth's background in VLSI and SoC physical design.",
+    "reason": "The role is a Senior Physical Design position in India that aligns with the candidate's 15 years of experience and technical expertise in power integrity and physical design flows.",
     "id": "6b9d6e7f",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/intel_senior_physical_design_enginee_6b9d6e7f.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/intel_senior_physical_design_enginee_6b9d6e7f.txt"
   },
   {
     "title": "Yannick N\u00e9zet-S\u00e9guin",
@@ -53868,13 +53864,12 @@
     "url": "https://fr.linkedin.com/jobs/view/yannick-n%C3%A9zet-s%C3%A9guin-at-bd-global-management-4445188355",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role (Spectator Sports) at a semiconductor company, which does not match the required engineering/technical positions.",
+    "reason": "The posting is for a music conductor and contains no semiconductor or VLSI-related keywords or technical requirements.",
     "id": "5dd3b445",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "The bold will always learn from the best in the business",
@@ -53883,13 +53878,12 @@
     "url": "https://hu.linkedin.com/jobs/view/the-bold-will-always-learn-from-the-best-in-the-business-at-haddon-coaching-4444887811",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in professional training/coaching, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is a professional development and coaching role and does not involve semiconductor, VLSI, or Power Integrity engineering.",
     "id": "875b2535",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Lead",
@@ -53898,13 +53892,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-soc-lead-at-infinite-computer-solutions-4447067803",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on cybersecurity and SOC operations, which is outside Vineeth's domain of expertise in power integrity, advanced packaging, EDA/CAD tooling for semiconductor VLSI/EDA.",
+    "reason": "The job is for a Cybersecurity Security Operations Center (SOC) role, which is unrelated to the candidate's expertise in VLSI Power Integrity and Semiconductor engineering.",
     "id": "a840afec",
     "source": "linkedin_india_pi",
-    "posted_date": "N/A",
+    "posted_date": "il y a 3 jours",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Interventions Senior Analyst",
@@ -53913,13 +53906,12 @@
     "url": "https://uk.linkedin.com/jobs/view/interventions-senior-analyst-at-hm-revenue-customs-4445037778",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical HR, not a match for Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is a government fraud prevention analyst role and does not meet the mandatory keyword requirements or fall within the semiconductor/VLSI/EDA technical domains.",
     "id": "8b992fc2",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Communications Data Investigator - SPOC",
@@ -53928,13 +53920,12 @@
     "url": "https://uk.linkedin.com/jobs/view/communications-data-investigator-spoc-at-cambridgeshire-constabulary-4447078213",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a specialized police role processing communications data applications and requires vetting to SC level which is unrelated to Vineeth's power integrity, advanced packaging and EDA CAD background.",
+    "reason": "The job is a law enforcement role for a police constabulary, not a semiconductor or VLSI engineering position, and it fails the keyword pre-filter.",
     "id": "4abc1c15",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Caseworker",
@@ -53943,13 +53934,12 @@
     "url": "https://uk.linkedin.com/jobs/view/caseworker-at-hm-revenue-customs-4445025793",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical HR role at a non-semi/EDA company, unrelated to Vineeth's technical background in VLSI/EDA.",
+    "reason": "This is a non-technical caseworker role in a government agency, which does not meet the engineering or semiconductor industry requirements.",
     "id": "82c95a5e",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Middle Office",
@@ -53958,13 +53948,12 @@
     "url": "https://www.linkedin.com/jobs/view/middle-office-at-capstone-investment-advisors-4447077478",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on trade support and operations in fixed income, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "The role is in the financial services sector (Middle Office/Asset Management) and does not fall within the required semiconductor, VLSI, or EDA domains.",
     "id": "6bbeaab8",
     "source": "linkedin_ww_emir",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Retail POS Specialist",
@@ -53973,13 +53962,12 @@
     "url": "https://www.linkedin.com/jobs/view/retail-pos-specialist-at-harvey-nash-4446906805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a technical software/IT support role for a Retail POS system, not an engineering position in semiconductor/VLSI/EDA. The job also requires specific retail experience and SAP S/4/HANA skills which are outside Vineeth's expertise.",
+    "reason": "The job is for a retail Point of Sale specialist and does not match any of the required semiconductor technical domains or keywords.",
     "id": "ea11255d",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer-Data Center AI GPU Thermal Design",
@@ -53988,13 +53976,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-data-center-ai-gpu-thermal-design-at-amd-4445047080",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a direct match to Vineeth's background, but the location (Austin, TX) is not a priority match for him.",
+    "reason": "The job posting does not contain any of the required keywords (e.g., PDN, Redhawk, Voltus) and explicitly states that it does not provide visa sponsorship for the US location.",
     "id": "57f2a916",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Thermodynamics",
@@ -54003,13 +53990,12 @@
     "url": "https://www.linkedin.com/jobs/view/engineering-thermodynamics-at-axius-group-llc-4447065417",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Professional Senior, Engineering - Thermodynamics role which does not match Vineeth's background in Power Integrity, Advanced Packaging and CAD Methodology.",
+    "reason": "The job posting does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and pertains to aerospace thermodynamics rather than semiconductor/VLSI/EDA.",
     "id": "ace32ab6",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer",
@@ -54018,13 +54004,12 @@
     "url": "https://uk.linkedin.com/jobs/view/thermal-engineer-at-lvi-associates-4447088742",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily mechanical engineering focused on data center cooling and thermal management, which is outside Vineeth's electrical/semiconductor VLSI EDA expertise.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and the application period has ended.",
     "id": "1cd28f9c",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Performance Development Engineer",
