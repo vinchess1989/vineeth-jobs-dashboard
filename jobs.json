@@ -41404,13 +41404,12 @@
     "url": "https://www.indeed.com/career/delivery-driver/salaries/Redmond--WA?campaignid=serp-more&fromjk=42f0829d9cce0ad6&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a delivery driver position, which is non-technical and does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job posting does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, etc.) and appears to be a salary search page rather than a semiconductor engineering role.",
     "id": "cbe32e2d",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer",
@@ -41418,29 +41417,27 @@
     "location": "United States, Washington, Redmond +6 more",
     "url": "https://www.indeed.com/rc/clk?jk=0309a45995c29e23",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Principal Engineer position in physical design for Microsoft's cloud hardware infrastructure, which fits Vineeth's background and key skills.",
+    "matches_requirements": "no",
+    "reason": "The job fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "b3213326",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": "job_descriptions/microsoft_principal_physical_design_engi_b3213326.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer salaries in Redmond, WA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Redmond, WA, USA",
     "url": "https://www.indeed.com/career/principal-software-engineer/salaries/Redmond--WA?campaignid=serp-more&fromjk=0309a45995c29e23&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a software engineer position, outside Vineeth's domain of expertise.",
+    "reason": "The provided content is a salary estimation page rather than an active job posting.",
     "id": "2423b675",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -41449,28 +41446,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=dc2e58855d0fd0dd",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The role is primarily Design Verification (UVM, testbench development), which is explicitly excluded, and it fails the required keyword pre-filter.",
     "id": "315c6885",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2026-07-24",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer salaries in Mountain View, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Mountain View, CA, USA",
     "url": "https://www.indeed.com/career/design-verification-engineer/salaries/Mountain-View--CA?campaignid=serp-more&fromjk=dc2e58855d0fd0dd&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The provided URL is a salary survey page rather than a job posting, and the title refers to a Design Verification role, which is an explicit hard rejection.",
     "id": "fea16dce",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Design Verification Engineer",
@@ -41478,29 +41473,27 @@
     "location": "United States, California, Mountain View +4 more",
     "url": "https://www.indeed.com/rc/clk?jk=6f03a8431805814f",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "41c13ffd",
     "source": "indeed_ww_soc_design_p2",
-    "posted_date": "2026-07-23",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Principal Design Verification Engineer salaries in Mountain View, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Mountain View, CA, USA",
     "url": "https://www.indeed.com/career/design-verification-engineer/salaries/Mountain-View--CA?campaignid=serp-more&fromjk=6f03a8431805814f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
+    "reason": "The provided text is a salary search page rather than a specific job posting, and the title indicates a Design Verification role, which is a hard rejection.",
     "id": "6befabce",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOX Compliance Lead",
@@ -41509,13 +41502,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=1431de2e62e6699b",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical SOX Compliance Lead role at HP, which does not fit Vineeth's domain of semiconductor/VLSI/EDA engineering and technical positions.",
+    "reason": "The role is a non-technical SOX Compliance position and does not contain any of the required semiconductor-specific keywords or technical domain matches.",
     "id": "6e8554f3",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2/13/2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOX Compliance Lead salaries in Vancouver, WA",
@@ -41524,13 +41516,12 @@
     "url": "https://www.indeed.com/career/compliance-officer/salaries/Vancouver--WA?campaignid=serp-more&fromjk=1431de2e62e6699b&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an HR compliance officer with no technical engineering experience required, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and packaging.",
+    "reason": "The position is a non-technical financial compliance role (SOX) and does not meet any of the required semiconductor engineering domain criteria.",
     "id": "0e1218fa",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Office of Cybersecurity Senior IT Security Analyst (DoIT #10117005)",
@@ -41539,28 +41530,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=154181aa1c36687e",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a cybersecurity analyst role at an IT department, which does not match Vineeth's background in Power Integrity, Advanced Packaging and EDA.",
+    "reason": "The job is for an IT Security Analyst position and fails the mandatory keyword pre-filter for Power Integrity and VLSI domains.",
     "id": "3f18029b",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Office of Cybersecurity Senior IT Security Analyst (DoIT #10117005) salaries in Santa Fe, NM",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Fe, NM, USA",
     "url": "https://www.indeed.com/career/information-security-analyst/salaries/Santa-Fe--NM?campaignid=serp-more&fromjk=154181aa1c36687e&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires specific cybersecurity skills (security clearance, IT security analyst) and is unrelated to semiconductor/VLSI/EDA domains.",
+    "reason": "This is an IT Security Analyst role, which is outside the required semiconductor/VLSI/EDA engineering domains and contains none of the required technical keywords.",
     "id": "6b50c724",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced Engineer - SOC Power Architecture",
@@ -41569,43 +41558,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=a2cc89f3780555fd",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software engineering with a focus on power optimized multimedia HW and systems architecture for next generation SOCs, which falls outside Vineeth's main areas of Power Integrity and Advanced Packaging.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary for evaluation.",
     "id": "bff81ae5",
     "source": "indeed_ww_soc_design_p2",
-    "posted_date": "a month ago",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "SoC Design Verification Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
-    "url": "https://www.indeed.com/rc/clk?jk=3733fa7023dfe3cf",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on verification (simulation, testbench development), which is outside Vineeth's domain.",
-    "id": "ba859d84",
-    "source": "indeed_india_soc_design",
-    "posted_date": "2026-07-26",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Verification Engineer salaries in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/career/design-verification-engineer/salaries/95124--CA?campaignid=serp-more&fromjk=3733fa7023dfe3cf&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development), which is outside Vineeth's domain.",
+    "reason": "The provided content is a salary information page rather than a job posting, and Design Verification is explicitly listed as a hard rejection criterion.",
     "id": "ead94d48",
     "source": "indeed_india_soc_design",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PDR - $6,000 Bonus",
@@ -41614,13 +41586,12 @@
     "url": "https://www.linkedin.com/jobs/view/pdr-%246-000-bonus-at-carvana-4439273022",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical automotive PDR technician role, which is outside Vineeth's semiconductor/VLSI/EDA technical domain.",
+    "reason": "This is an automotive paintless dent repair (PDR) technician role, not a semiconductor or VLSI engineering position.",
     "id": "9751a1b2",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ulisse",
