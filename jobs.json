@@ -56915,14 +56915,13 @@
     "location": "Cluj-Napoca, Cluj, Romania",
     "url": "https://ro.linkedin.com/jobs/view/senior-pd-engineer-at-undelucram-ro-4444663058",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is a Senior Physical Design Engineer role, which doesn't directly match Vineeth's background in Power Integrity and Advanced Packaging. Also, it's located in Romania.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Physical Design position in Romania requiring EM/IR analysis and PnR expertise, which matches the candidate's 15 years of experience and technical background in Power Integrity and Physical Design.",
     "id": "2323e401",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/undelucram_ro_senior_pd_engineer_2323e401.txt"
   },
   {
     "title": "ESG & Compliance Specialist - Germany",
@@ -56931,13 +56930,12 @@
     "url": "https://de.linkedin.com/jobs/view/esg-compliance-specialist-germany-at-sungrow-europe-4386392220",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an ESG Compliance Specialist role which requires legal, environmental compliance and sustainability expertise rather than semiconductor/VLSI/EDA technical background.",
+    "reason": "The role is an ESG & Compliance position, which is a non-technical regulatory role outside of the candidate's expertise in Power Integrity and VLSI engineering.",
     "id": "ae813958",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-04-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Intraday Energy Trader",
@@ -56946,13 +56944,12 @@
     "url": "https://dk.linkedin.com/jobs/view/founding-intraday-energy-trader-at-nurex-energy-4442509616",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical finance and sales role focused on energy trading, unrelated to Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The position is for a financial energy trading role and does not fall within the semiconductor, VLSI, or EDA engineering domains.",
     "id": "7055f80d",
     "source": "linkedin_eu_power_integrity_p2",
-    "posted_date": "2 dage siden",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-28",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Infrastructure Project Manager",
@@ -56961,13 +56958,12 @@
     "url": "https://pt.linkedin.com/jobs/view/infrastructure-project-manager-at-euronext-4416651450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Project Manager position focused on infrastructure projects and does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The position is an IT infrastructure project management role in a financial services company and does not meet the required semiconductor/VLSI/EDA technical domains or keyword filters.",
     "id": "9a5c057f",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-07-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electronics Engineer",
@@ -56976,13 +56972,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-electronics-engineer-at-electus-recruitment-solutions-4443287004",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This senior electronics engineer role is based in Somerset, England and requires UK citizenship with SC clearance - both of which conflict with Vineeth's background. The job also does not match any key technical domains.",
+    "reason": "The job is restricted to British Citizens only due to security clearance requirements, which is a hard rejection criterion.",
     "id": "fadf8274",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commercial Executive FTC",
@@ -56991,13 +56986,12 @@
     "url": "https://uk.linkedin.com/jobs/view/commercial-executive-ftc-at-rise-resourcing-4446304882",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general commercial executive position that involves supplier management, auditing terms and driving cost savings - it does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The position is a non-technical commercial role in the hospitality industry, which does not align with the candidate's expertise in semiconductor Power Integrity and Advanced Packaging.",
     "id": "f57947d1",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "2 dage siden",
+    "posted_date": "cu 5 zile \u00een urm\u0103",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Engineer - SME",
@@ -57006,13 +57000,12 @@
     "url": "https://uk.linkedin.com/jobs/view/system-engineer-sme-at-ccl-global-4440488271",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires UK National with SC clearance, which restricts Vineeth's eligibility",
+    "reason": "The job explicitly requires UK nationality for security clearance and does not contain any of the mandatory Power Integrity keywords.",
     "id": "63f9a562",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RF Application Engineer",
@@ -57021,13 +57014,12 @@
     "url": "https://uk.linkedin.com/jobs/view/rf-application-engineer-at-sequans-communications-4444559115",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily customer-facing with RF/wireless hardware and system integration, outside Vineeth's power integrity/advanced packaging domain.",
+    "reason": "The job is for an RF Application Engineer and does not contain any of the required keywords (PDN, Redhawk, Power Integrity, etc.) or align with the candidate's core expertise in Power Integrity and Advanced Packaging.",
     "id": "2b954e0c",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "21 timer siden",
+    "posted_date": "cu 3 zile \u00een urm\u0103",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -57036,13 +57028,12 @@
     "url": "https://uk.linkedin.com/jobs/view/data-analyst-at-ixceed-solutions-4447033201",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily data analysis, reporting, and BI focused with strong skills in SQL, Python, Power BI, Snowflake needed. This is more of a software development/analyst role rather than semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for a Data Analyst position and does not meet the required technical keywords or domain criteria for Power Integrity, VLSI, or EDA.",
     "id": "0838aa33",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-17",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Principal Power Systems Engineer",
@@ -57050,14 +57041,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-principal-power-systems-engineer-at-black-white-engineering-4440939822",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior/Principal Power Systems Engineer role with strong overlap in technical domain and experience level for Vineeth, although UK location is a stretch",
+    "matches_requirements": "no",
+    "reason": "The role is for data center power infrastructure and utility-scale electrical engineering, which is unrelated to semiconductor Power Integrity (PI) or VLSI design.",
     "id": "c646a313",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director Global Packaging Innovation",
@@ -57066,13 +57056,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-director-global-packaging-innovation-at-mars-4442075870",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a packaging innovation director at a large CPG company, focused on consumer products and manufacturing. This is well outside Vineeth's semiconductor/EDA technical expertise.",
+    "reason": "The job is in the consumer packaged goods (CPG) industry and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "db552502",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Development Engineer",
@@ -57080,14 +57069,13 @@
     "location": "Irvine, CA",
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-development-engineer-at-broadcom-4418537207",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This engineering role at Broadcom focuses on developing advanced packaging for AI accelerator and networking chipsets, which directly aligns with Vineeth's background in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "e424355e",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "11 timer siden",
+    "posted_date": "cu 2 zile \u00een urm\u0103",
     "deadline": "N/A",
-    "description_file": "job_descriptions/broadcom_advanced_packaging_development_e424355e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Labels & Packaging Solution Archtect Expert",
@@ -57096,13 +57084,12 @@
     "url": "https://www.linkedin.com/jobs/view/labels-packaging-solution-archtect-expert-at-hp-4446872539",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical role focused on customer demos and sales enablement rather than semiconductor, VLSI/EDA technical work.",
+    "reason": "The role pertains to industrial printing and label/packaging solutions rather than semiconductor Power Integrity or VLSI, and it fails the mandatory keyword pre-filter.",
     "id": "8e27048e",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "1 dag siden",
+    "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical 3D Packaging Technologist",
@@ -57110,14 +57097,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/optical-3d-packaging-technologist-at-mediatek-4431451213",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on optical 3D packaging, which is a strong match for Vineeth's advanced packaging experience. However, it does NOT involve power integrity (PI), CAD methodology, or EDA tools - key areas of his background that are missing here.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "1ad6f32d",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "2026-07-17",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior IO Design Engineer",
@@ -57126,13 +57112,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-io-design-engineer-at-weekday-ai-yc-w21-4446314173",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an IO Design Engineer role at a startup, which does not strongly match Vineeth's Power Integrity and Advanced Packaging focus.",
+    "reason": "The job description does not contain any of the required mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "8aaf683c",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Engineer",
