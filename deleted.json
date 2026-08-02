@@ -13802,5 +13802,35 @@
     "deadline": "2026-07-11",
     "description_file": null,
     "deletion_reason": "Deadline (2026-07-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Project Engineer II",
+    "company": "JobScroller",
+    "location": "Finland",
+    "url": "https://fi.linkedin.com/jobs/view/project-engineer-ii-at-jobscroller-4444112791",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and appears to be a general project management role rather than a semiconductor-specific engineering position.",
+    "id": "7f72f7cf",
+    "source": "linkedin_fi_rtl_design_engineer",
+    "posted_date": "2026-07-29",
+    "deadline": "2026-07-29",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sr. ASIC Design Verification Engineer, Amazon Leo",
+    "company": "Amazon Leo",
+    "location": "Sunnyvale, CA, USA; San Diego, CA, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=961845fb38feafdb",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily for ASIC Design Verification (UVM, RTL), which is explicitly excluded as outside the candidate's domain, and it requires US citizenship.",
+    "id": "a0cf0522",
+    "source": "indeed_india_rtl_design_engineer",
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
