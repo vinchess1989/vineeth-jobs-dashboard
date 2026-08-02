@@ -56300,13 +56300,12 @@
     "url": "https://in.linkedin.com/jobs/view/tu-carrera-con-sika-at-sika-s-a-chile-4447256086",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales role, outside Vineeth's engineering domain.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, Redhawk, Voltus, etc.) and appears to be a general corporate recruitment post for a non-semiconductor company.",
     "id": "bbc7ad2c",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Spontaneous Application (Full time contracts)",
@@ -56315,13 +56314,12 @@
     "url": "https://fr.linkedin.com/jobs/view/spontaneous-application-full-time-contracts-at-scaleway-4445081057",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a generic 'spontaneous application' for an IT position at Scaleway, which does not match Vineeth's specialized semiconductor/VLSI/EDA background.",
+    "reason": "The job is a general spontaneous application for a cloud infrastructure company and does not contain any of the required Power Integrity or VLSI keywords.",
     "id": "756f1f19",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ERP Next",
@@ -56330,28 +56328,12 @@
     "url": "https://uk.linkedin.com/jobs/view/erp-next-at-attally-sofper-4446973484",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (management and manufacturing) and unrelated to semiconductor/VLSI/EDA",
+    "reason": "The job is for an ERP software system role, which is outside the required semiconductor, VLSI, and EDA engineering domains.",
     "id": "9df53872",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Staff Thermal Analysis Engineer",
-    "company": "Northrop Grumman",
-    "location": "Baltimore, MD",
-    "url": "https://www.linkedin.com/jobs/view/staff-thermal-analysis-engineer-at-northrop-grumman-4447257782",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role explicitly requires a US Secret clearance, which restricts to US citizens only.",
-    "id": "491b1ef6",
-    "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Engineering IT",
@@ -56360,13 +56342,12 @@
     "url": "https://in.linkedin.com/jobs/view/director-engineering-it-at-marvell-technology-4411568571",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general IT leadership position without specific focus on semiconductor, VLSI, EDA domains that Vineeth specializes in.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "f04ebadf",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Development Engineer",
@@ -56375,13 +56356,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-development-engineer-at-edwards-vacuum-4436530645",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on vacuum system design for Edwards Vacuum, which specializes in vacuum technology rather than semiconductors/VLSI/EDA. It does not match Vineeth's domain of expertise.",
+    "reason": "The job fails the keyword pre-filter as it does not contain any of the required technical terms (PDN, Redhawk, Voltus, etc.) and focuses on vacuum system engineering rather than the candidate's expertise in Power Integrity or VLSI design.",
     "id": "e79f8f6e",
     "source": "linkedin_uk_semiconductor_technical_leader",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commercial Sales Account Manager",
@@ -56390,13 +56370,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88649?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily related to sales and marketing, which falls outside Vineeth's technical domain.",
+    "reason": "The role is a non-technical sales and marketing position, which is a hard rejection, and it fails the mandatory keyword pre-filter for Power Integrity/VLSI technical content.",
     "id": "4f39c5bc",
     "source": "amd_careers",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Commercial Sales Rep",
@@ -56405,13 +56384,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87838?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily sales and distribution management, not technical leadership in semiconductor/EDA/VLSI fields.",
+    "reason": "The position is a non-technical Sales and Marketing role and does not contain any of the required Power Integrity or VLSI technical keywords.",
     "id": "abfa268b",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Engineer",
@@ -56420,13 +56398,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Layout-Engineer_R026649-1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a digital/analog layout engineer which does not match Vineeth's power integrity and advanced packaging background. Also, the location is in Singapore.",
+    "reason": "The job does not meet the mandatory keyword pre-filter and is a junior-level layout role that does not align with the candidate's 15 years of experience or Power Integrity expertise.",
     "id": "647f7180",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Engineer",
@@ -56435,13 +56412,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Layout-Engineer_R026648",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This layout engineer role is focused on memory, I/O and standard cell digital design layouts in Singapore - outside Vineeth's core Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus expertise.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a junior-level layout role (3-4 years) which does not align with the candidate's 15 years of experience.",
     "id": "3fac21ca",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Engineer",
@@ -56450,13 +56426,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Layout-Engineer_R026650",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on digital/analog layout design, which is outside Vineeth's main PI/advanced packaging domain and expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a mid-level layout role, which does not align with the candidate's seniority or technical expertise.",
     "id": "6418afd0",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Layout Engineer",
@@ -56465,13 +56440,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/IC-Layout-Engineer_R026651-1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This IC Layout Engineer role is focused on hands-on layout design and execution using Cadence Virtuoso, which does not match Vineeth's key skills and experience in Power Integrity (PI), Advanced Packaging, CAD Methodology and EDA tools like ANSYS RedHawk, Totem or Cadence Voltus. The role also requires 3-4 years of hands-on IC layout experience, whereas Vineeth has over 15 years of relevant technical leadership roles.",
+    "reason": "The position is for a junior-to-mid-level IC Layout Engineer (3-4+ years), which does not align with the candidate's 15 years of seniority and leadership experience.",
     "id": "67d09aab",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Layout Engineer",
@@ -56480,13 +56454,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/IC-Layout-Engineer_R026653",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on IC layout engineering for semiconductor memory and I/O designs, which does not directly align with Vineeth's background in Power Integrity and Advanced Packaging. While it may involve some overlap in Cadence layout tools, the job description emphasizes traditional analog/mixed-signal digital layout design rather than the PI/SI or advanced packaging areas.",
+    "reason": "The posting fails the required keyword pre-filter and the experience level (3-4 years) is significantly lower than the candidate's 15 years of experience.",
     "id": "bd4df083",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Layout Engineer",
@@ -56495,13 +56468,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/IC-Layout-Engineer_R026655",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital and analog IC layout, which falls outside Vineeth's domain of expertise in power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an IC Layout role which is outside the candidate's expertise in Power Integrity and Advanced Packaging.",
     "id": "312e2539",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
-    "deadline": "11t23:59:59.000z",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-30",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Layout Engineer",
@@ -56510,13 +56482,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Layout-Engineer_R026656",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital IC layout design, which falls outside Vineeth's core Power Integrity and Advanced Packaging domains.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and the 2-3 years of experience required is significantly lower than the candidate's 15 years of experience.",
     "id": "c963a35d",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Layout Engineer",
