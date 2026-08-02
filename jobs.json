@@ -46164,13 +46164,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-validation-engineer-at-it-minds-llc-4446324174",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for Process Validation Engineer in pharmaceutical manufacturing, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is for a pharmaceutical process validation role, which does not belong to the semiconductor/VLSI/EDA domain and fails the mandatory keyword filter.",
     "id": "41b169c3",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog and Mixed Signal IC Designer",
@@ -46179,13 +46178,12 @@
     "url": "https://www.linkedin.com/jobs/view/analog-and-mixed-signal-ic-designer-at-lightxcelerate-4446870282",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (IC design involves both hardware and software elements). Vineeth's background is in power integrity, packaging, and EDA tools.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "c5582de8",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -46194,13 +46192,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-thecorporate-4445757603",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Angular, Ruby on Rails, Python), which is outside Vineeth's domain.",
+    "reason": "The job is primarily a software development role (UI/Backend/Angular) and fails the mandatory keyword pre-filter for Power Integrity or VLSI domains.",
     "id": "8cbc8773",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -46209,13 +46206,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-thecorporate-4445750719",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Staff Engineer focused on software engineering and cloud infrastructure, which does not closely match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The role is a software development position focused on UI/Backend engineering (Angular, Ruby on Rails) and does not meet any of the required Power Integrity, VLSI, or EDA technical domain criteria.",
     "id": "ef091031",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -46224,13 +46220,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-thecorporate-4445755644",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (UI, Angular, Python), which is outside Vineeth's domain of expertise in Power Integrity and VLSI.",
+    "reason": "The role is a software development position (UI/Backend/Cloud) and fails the required keyword pre-filter for Power Integrity or semiconductor-specific EDA tools.",
     "id": "54f212f2",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Program Manager (TPM) \u2013 Advanced SoC Physical Design",
@@ -46239,13 +46234,12 @@
     "url": "https://www.linkedin.com/jobs/view/technical-program-manager-tpm-%E2%80%93-advanced-soc-physical-design-at-hcltech-4443603804",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused with a focus on technical program management rather than SoC physical design.",
+    "reason": "The role is located in the US and does not explicitly mention visa sponsorship or relocation, which is required for a 'Yes' match.",
     "id": "ad3b36de",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer \u2013 Telecom",
@@ -46254,13 +46248,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-design-engineer-%E2%80%93-telecom-at-ajulia-executive-search-4446196377",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on civil/steel utility structures engineering and does not match Vineeth's background in semiconductor, VLSI, EDA.",
+    "reason": "The job is in the civil/mechanical engineering domain for steel utility structures and lacks all required semiconductor/VLSI keywords.",
     "id": "1d8f2629",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -46269,13 +46262,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-thecorporate-4445767529",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job is a software development role (UI/Backend) and does not contain any of the required Power Integrity keywords.",
     "id": "0713a631",
     "source": "linkedin_ww_asic_design_p2",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "IC Packaging Design Engineer",
@@ -46284,13 +46276,12 @@
     "url": "https://www.linkedin.com/jobs/view/ic-packaging-design-engineer-at-tessolve-4445726765",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a contract-level IC Packaging Design Engineer role which does not match Vineeth's senior leadership experience level.",
+    "reason": "The role is US-based and requires on-site presence without mentioning visa sponsorship or relocation.",
     "id": "6b330221",
     "source": "linkedin_ww_asic_design_p2",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Product Design Engineer, Platforms",
@@ -46299,28 +46290,12 @@
     "url": "https://www.linkedin.com/jobs/view/mechanical-product-design-engineer-platforms-at-google-4443256739",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical product design role at Google's hardware division, which is out of Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job is a mechanical product design role and fails the keyword pre-filter as it does not mention PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus.",
     "id": "da9ba5ea",
     "source": "linkedin_ww_asic_design_p2",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior ASIC Design Engineer",
-    "company": "NVIDIA AI",
-    "location": "Durham, NC",
-    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-ai-4443245005",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily ASIC design, which is outside Vineeth's domain of expertise.",
-    "id": "18eb1179",
-    "source": "linkedin_ww_asic_design_p2",
-    "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46329,13 +46304,12 @@
     "url": "https://www.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445736969",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical role at a semiconductor company.",
+    "reason": "The posting is a general talent pool for future opportunities and does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "ad791b2f",
     "source": "linkedin_ww_asic_design_p2",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Legal & Compliance Officer",
@@ -46344,13 +46318,12 @@
     "url": "https://cy.linkedin.com/jobs/view/chief-legal-compliance-officer-at-uniteam-recruitment-services-4443252609",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a legal/compliance position at an outsourcing company, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "This is a non-technical legal and compliance role in the financial services industry, which does not meet the core technical requirements for the semiconductor/VLSI/EDA domain.",
     "id": "2e334bb6",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Subsystem Concept Engineer (all gender)",
@@ -46359,13 +46332,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-subsystem-concept-engineer-all-gender-at-alten-4443246668",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware design and subsystem integration, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "3daa7b37",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Subsystem Concept Engineer (all gender)",
@@ -46374,13 +46346,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-subsystem-concept-engineer-all-gender-at-alten-germany-4443234732",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a hardware design position at an engineering consultancy, which does not match Vineeth's background in semiconductor power integrity and advanced packaging. It's too broad and not specific to semiconductors.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "33dc0ace",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Testingenieur / Verification Engineer (m/w/d) Medizintechnik",
