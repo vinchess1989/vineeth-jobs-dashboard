@@ -57126,13 +57126,12 @@
     "url": "https://in.linkedin.com/jobs/view/sales-engineer-at-kfore-manufacturing-solutions-pvt-ltd-4443268675",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales role for a manufacturing company, which does not match Vineeth's semiconductor/EDA background.",
+    "reason": "The role is a Sales Engineering position in the industrial machinery sector, which is a non-technical sales role and does not align with the required Power Integrity, VLSI, or EDA engineering domains.",
     "id": "afa3b470",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging Engineer (m/f/x)",
@@ -57140,14 +57139,13 @@
     "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/advanced-packaging-engineer-m-f-x-at-3m-4444137050",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is an Advanced Packaging Engineer at a semiconductor company, with 5+ years of experience required. It fits Vineeth's background in Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The job is for logistics and distribution packaging (transportation of goods) rather than semiconductor advanced packaging and does not contain the required technical keywords.",
     "id": "28c203fe",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "3 tygodnie temu",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/3m_advanced_packaging_engineer__m_28c203fe.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Mechanical Design",
@@ -57156,13 +57154,12 @@
     "url": "https://uk.linkedin.com/jobs/view/head-of-mechanical-design-at-evera-recruitment-4444571646",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Mechanical Design Lead with hands-on design and team management responsibilities, focused on battery packs and electrical assemblies. This is outside Vineeth's core domain of Power Integrity (PI), Advanced Packaging, and EDA in the semiconductor industry.",
+    "reason": "The job description fails the mandatory keyword pre-filter (no mentions of PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is a mechanical engineering role rather than a semiconductor power integrity or VLSI role.",
     "id": "dd66d971",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Buyer - Beauty",
@@ -57171,13 +57168,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-buyer-beauty-at-cs-advisory-group-4444573926",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Senior Buyer role in the Beauty & Personal Care industry, which does not match Vineeth's technical background in semiconductor VLSI EDA.",
+    "reason": "The job is a non-technical procurement role in the beauty industry and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "7d8dbf00",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Fitter / Assembly Technician",
@@ -57186,13 +57182,12 @@
     "url": "https://uk.linkedin.com/jobs/view/mechanical-fitter-assembly-technician-at-bmr-solutions-ltd-4444595851",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical fitter/assembly technician, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and advanced packaging.",
+    "reason": "The role is a mechanical assembly technician position and does not meet the mandatory keyword requirements or the technical domain requirements for Power Integrity or semiconductor engineering.",
     "id": "5e3883ff",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Robotics System Integration & Deployment Engineer II, Robotics Delivery & Packaging Innovation",
@@ -57201,13 +57196,12 @@
     "url": "https://uk.linkedin.com/jobs/view/robotics-system-integration-deployment-engineer-ii-robotics-delivery-packaging-innovation-at-amazon-4443025967",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on robotics deployment for Amazon's fulfillment network, packaging innovation and automation technologies, which does not match Vineeth's semiconductor/VLSI/EDA background in power integrity (PI), advanced packaging, SoC design.",
+    "reason": "The job posting fails the mandatory keyword pre-filter and is focused on robotics and warehouse automation rather than semiconductor/VLSI/EDA domains.",
     "id": "fca8f3e0",
     "source": "linkedin_uk_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Full-Time | FC Dallas | Head of Performance, FC Dallas Performance Center",
@@ -57216,13 +57210,12 @@
     "url": "https://www.linkedin.com/jobs/view/full-time-fc-dallas-head-of-performance-fc-dallas-performance-center-at-fc-dallas-4446872661",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for strength coaching and athlete development, which does not match Vineeth's semiconductor/EDA background. This role is highly domain-specific and would require a different candidate with sports & fitness coaching experience.",
+    "reason": "The job is for a sports performance strength coach and is completely unrelated to the semiconductor/VLSI/EDA industry or the candidate's technical expertise.",
     "id": "76786303",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "1 dzie\u0144 temu",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Optical Engineer (Quantum Computing)",
@@ -57231,13 +57224,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-optical-engineer-quantum-computing-at-infleqtion-4445245413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for optical engineering in quantum computing, which does not match Vineeth's expertise in Power Integrity and SoC Physical Design.",
+    "reason": "The job is for an Optical Engineer in Quantum Computing and does not contain any of the required Power Integrity or PDN keywords.",
     "id": "c0a9722f",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Optical Engineer (Quantum Computing)",
@@ -57246,13 +57238,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-optical-engineer-quantum-computing-at-infleqtion-4445233928",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on quantum computing hardware engineering, photonics and lasers, which is different from Vineeth's power integrity and advanced packaging background in semiconductor VLSI EDA.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is in the unrelated field of Optical Engineering for Quantum Computing.",
     "id": "02ca70a5",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President, Entertainment & Sports",
@@ -57261,13 +57252,12 @@
     "url": "https://in.linkedin.com/jobs/view/vice-president-entertainment-sports-at-wpp-media-4427326083",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a senior position in entertainment & sports marketing and partnerships, which is not within Vineeth's domain of power integrity, advanced packaging, EDA tools, or physical design. The job is also based in Mumbai, India, not matching the preferred locations.",
+    "reason": "The job is a marketing and media role in the advertising industry and does not contain any of the required semiconductor/VLSI technical keywords.",
     "id": "f5627609",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Circuit Design Engineer",
@@ -57276,13 +57266,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-circuit-design-engineer-at-intel-4418824973",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily Analog IC Design which is outside Vineeth's domain of Power Integrity and VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and the role is focused on Analog Circuit Design rather than the candidate's expertise in Power Integrity or Advanced Packaging.",
     "id": "b94b8e31",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Plant In - Charge Quality",
@@ -57291,13 +57280,12 @@
     "url": "https://in.linkedin.com/jobs/view/plant-in-charge-quality-at-ultratech-cement-4443346111",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for Quality Assurance in concrete production, not semiconductor/EDA/VLSI. It does not match Vineeth's technical background.",
+    "reason": "The job is for a quality assurance role in the cement industry and does not meet the mandatory semiconductor technical keyword filter or domain requirements.",
     "id": "c99d1b14",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Marketing Specialist",
@@ -57306,13 +57294,12 @@
     "url": "https://ro.linkedin.com/jobs/view/marketing-specialist-at-allinox-innovation-srl-4410139336",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a marketing specialist position at a product design company, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "reason": "The position is for a marketing specialist, which is a non-technical role and does not align with the required semiconductor, VLSI, or EDA domains.",
     "id": "d7d7829f",
     "source": "linkedin_eu_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Motion Designer - Ladbrokes & Coral",
@@ -57321,13 +57308,12 @@
     "url": "https://uk.linkedin.com/jobs/view/motion-designer-ladbrokes-coral-at-entain-4442711231",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a creative position for motion graphics design at an entertainment and gaming company, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a Motion Designer in the entertainment/advertising industry and does not fall within the semiconductor, VLSI, or EDA domains.",
     "id": "8e6487d7",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Video & Post Production Editor (Position in Dubai)",
@@ -57336,13 +57322,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-video-post-production-editor-position-in-dubai-at-alexander-lyons-solutions-4437047318",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a video editing position with an advertising and marketing agency, which is outside Vineeth's semiconductor/VLSI/EDA technical domain.",
+    "reason": "The job is for a creative video production role and does not contain any of the required semiconductor technical keywords (e.g., PDN, Redhawk, Voltus).",
     "id": "dafd9006",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-10",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Rehabilitation Engineer Technician \u2013 Wheelchairs \u2013 Leicester",
