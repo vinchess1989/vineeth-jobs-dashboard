@@ -48208,13 +48208,12 @@
     "url": "https://uk.linkedin.com/jobs/view/electrical-systems-engineer-at-rolls-royce-4444554546",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on aerospace electrical systems engineering rather than semiconductor VLSI EDA.",
+    "reason": "The role is restricted to UK nationals and focuses on aerospace electrical systems rather than semiconductor power integrity.",
     "id": "b0380543",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "BDM",
@@ -48223,13 +48222,12 @@
     "url": "https://www.linkedin.com/jobs/view/bdm-at-wgsn-4444578000",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a business development manager role, not a technical engineering position.",
+    "reason": "The role is a non-technical business development position and fails the keyword pre-filter for Power Integrity and semiconductor engineering.",
     "id": "6184c4e5",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Candidature spontan\u00e9e",
@@ -48238,13 +48236,12 @@
     "url": "https://lu.linkedin.com/jobs/view/candidature-spontan%C3%A9e-at-panelux-s-a-4444561604",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a food manufacturing position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is a spontaneous application for a food and beverage company and does not relate to the semiconductor, VLSI, or EDA industry.",
     "id": "ac24329e",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "WEBSITE",
@@ -48253,13 +48250,12 @@
     "url": "https://uk.linkedin.com/jobs/view/website-at-ecp4-4444554632",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on web development, software engineering, and IT operations - this is outside Vineeth's domain.",
+    "reason": "The job posting does not contain any of the required keywords for Power Integrity or the specified EDA tools and is unrelated to the candidate's technical domain.",
     "id": "f9f4ef2a",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sensor Operator",
@@ -48268,13 +48264,12 @@
     "url": "https://lu.linkedin.com/jobs/view/sensor-operator-at-cae-aviation-4444559615",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an airborne surveillance operator, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job is for an aviation sensor operator role and does not belong to the semiconductor/VLSI/EDA domain or meet the mandatory keyword pre-filter.",
     "id": "9bf328d4",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "[ THE CORE ]",
@@ -48283,13 +48278,12 @@
     "url": "https://fr.linkedin.com/jobs/view/the-core-at-the-hacking-games-4446729775",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a cybersecurity role at 'The Hacking Games', which is far outside Vineeth's semiconductor/EDA domain.",
+    "reason": "The job is for a cybersecurity role and does not meet the required keyword pre-filter for Power Integrity or specific EDA tools.",
     "id": "a836d487",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Helicopter Pilot (m/f)",
@@ -48298,13 +48292,12 @@
     "url": "https://lu.linkedin.com/jobs/view/helicopter-pilot-m-f-at-luxembourg-air-rescue-luxembourg-air-services-4444555834",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical role as helicopter pilot, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a helicopter pilot and does not pertain to the semiconductor, VLSI, or EDA domains.",
     "id": "4b1df5fd",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "WEBSITE",
@@ -48313,13 +48306,12 @@
     "url": "https://uk.linkedin.com/jobs/view/website-at-ecp4-4444541973",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a marketing position at a research organization, which does not match Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The job does not contain any of the required keywords (PDN, Redhawk, etc.) and is an entry-level research role, which is outside the candidate's domain of expertise.",
     "id": "42448376",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Avoin hakemus",
@@ -48328,13 +48320,12 @@
     "url": "https://fi.linkedin.com/jobs/view/avoin-hakemus-at-loimua-oy-3807077665",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an 'Avoin hakemus' or open application, not a specific technical role at a semiconductor/EDA company. It's likely for general applications at Loimua Oy.",
+    "reason": "The job is a general open application in the utilities industry and fails the mandatory keyword pre-filter for semiconductor/VLSI/EDA roles.",
     "id": "84ca582d",
     "source": "linkedin_fi_pi",
     "posted_date": "2 years ago",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Vice President \u2013 Eligible Collateral Schedule Negotiator \u2013 Markets Operations",
@@ -48343,13 +48334,12 @@
     "url": "https://uk.linkedin.com/jobs/view/assistant-vice-president-%E2%80%93-eligible-collateral-schedule-negotiator-%E2%80%93-markets-operations-at-citi-4435231310",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is client-facing collateral schedule negotiations, not semiconductor VLSI EDA technical roles that Vineeth is targeting.",
+    "reason": "This is a financial services role in banking and does not meet any of the semiconductor or VLSI technical domain requirements.",
     "id": "65e3bde9",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Legal Operations Expert (m/f/d)",
@@ -48358,13 +48348,12 @@
     "url": "https://fi.linkedin.com/jobs/view/legal-operations-expert-m-f-d-at-riverty-4446736371",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical, legal operations, not a match for Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "reason": "The position is a non-technical legal operations role in the fintech industry, which does not match the candidate's technical expertise in Power Integrity and VLSI engineering.",
     "id": "dd30a19c",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer - Electronics Hardware Design",
@@ -48373,13 +48362,12 @@
     "url": "https://se.linkedin.com/jobs/view/r-d-engineer-electronics-hardware-design-at-hitachi-energy-4446734759",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in electronics hardware design for power electronics applications, which does not match Vineeth's domain of expertise in VLSI/EDA/semiconductor.",
+    "reason": "The job description does not contain any of the required mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1c5d59b5",
     "source": "linkedin_eu_system_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director Research & Development",
@@ -48388,13 +48376,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-director-research-development-at-novanta-inc-4444573058",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general R&D leadership position, not focused on semiconductor, VLSI, EDA domains which are Vineeth's expertise.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) necessary for a Power Integrity or related hardware role.",
     "id": "b2f52b5c",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer",
@@ -48403,13 +48390,12 @@
     "url": "https://fi.linkedin.com/jobs/view/process-engineer-at-nlight-inc-4444576342",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily manufacturing focused, with no clear domain match to Vineeth's background in Power Integrity, CAD, or Physical Design.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, Redhawk, Voltus, etc.) and focuses on optical fiber manufacturing rather than semiconductor power integrity or physical design.",
     "id": "da15994c",
     "source": "linkedin_fi_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "2026-08-21",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Director, Etch",
@@ -48418,13 +48404,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=0ac1c9e6c6e95250",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Etch Director which is a non-technical, leadership position and does not match Vineeth's technical background in Power Integrity, Advanced Packaging or EDA CAD methodology.",
+    "reason": "The job is for an Etch manufacturing leadership role and does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) or align with the required Power Integrity or EDA technical domains.",
     "id": "4efd7a73",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Director, Etch salaries in Fremont, CA",
