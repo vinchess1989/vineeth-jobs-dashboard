@@ -42622,13 +42622,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-compiler-at-expleo-group-4446340723",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is an entry-level aerospace structural design position using Catia V5 and does not involve Power Integrity, VLSI, or the required EDA tools.",
     "id": "79ee8021",
     "source": "linkedin_uk_physical_design_p2",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead SoC Architect",
@@ -42637,13 +42636,12 @@
     "url": "https://www.linkedin.com/jobs/view/lead-soc-architect-at-oho-group-4444169503",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI, machine learning), which is outside Vineeth's domain of power integrity and advanced packaging expertise.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "516f6447",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Legal Operations Expert (m/f/d)",
@@ -42652,13 +42650,12 @@
     "url": "https://fi.linkedin.com/jobs/view/legal-operations-expert-m-f-d-at-riverty-4446866252",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a legal operations expert, not a technical engineering/technical leadership position in semiconductor/VLSI/EDA.",
+    "reason": "The position is a non-technical legal operations role in the financial services industry, failing both the keyword pre-filter and the technical domain requirements.",
     "id": "28f10f9c",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(Senior) Development Engineer- Protection & Filtering",
@@ -42667,13 +42664,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-development-engineer-protection-filtering-at-nexperia-4437254659",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development rather than semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required by the keyword pre-filter.",
     "id": "1bc2296d",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "On/Off-Chip SI/PI Engineer",
@@ -42682,13 +42678,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=25df18f639664ccb",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development and does not fit Vineeth's domain of expertise in Power Integrity, Advanced Packaging and VLSI/EDA.",
+    "reason": "The role is a mid-level position requiring 3+ years of experience, which does not align with the candidate's 15 years of experience and technical leadership background.",
     "id": "bcfc0c68",
     "source": "indeed_ww_si_pi",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "On/Off-Chip SI/PI Engineer salaries in San Jose, CA",
@@ -42697,13 +42692,12 @@
     "url": "https://www.indeed.com/career/engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=25df18f639664ccb&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an engineer role in San Jose, CA, which does not match Vineeth's background or location preferences.",
+    "reason": "The provided text is a salary search landing page on Indeed rather than a specific job posting.",
     "id": "8b1d3c90",
     "source": "indeed_ww_si_pi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Mechanical Engineer \u2014 Thermals, BESS",
@@ -42712,13 +42706,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-staff-mechanical-engineer-%E2%80%94-thermals-bess-at-enphase-energy-4446067076",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Mechanical Engineering position focused on thermal system design and BESS safety compliance, which does not closely align with Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, and CAD methodology.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "fbc29b9e",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Design Engineer (Up to 2 Yrs)",
@@ -42727,13 +42720,12 @@
     "url": "https://in.linkedin.com/jobs/view/thermal-design-engineer-up-to-2-yrs-at-john-cockerill-4446823356",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily engineering design (mechanical, HVAC, CFD) rather than semiconductor VLSI EDA. It involves product design for thermal equipment like furnaces and does not match Vineeth's areas of power integrity, advanced packaging, SoC design or EDA tools.",
+    "reason": "The job does not contain any of the required semiconductor keywords (PDN, Redhawk, Voltus, etc.) and is an entry-level role in the industrial machinery sector, not VLSI/EDA.",
     "id": "a0dd178f",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systemingenieur Main Battle Tank Thermal- und Energiemanagement (m/w/d)",
@@ -42742,13 +42734,12 @@
     "url": "https://de.linkedin.com/jobs/view/systemingenieur-main-battle-tank-thermal-und-energiemanagement-m-w-d-at-rheinmetall-4435955418",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is in thermal/energy management for a main battle tank, which is not related to semiconductor/VLSI/EDA. It falls under automotive/military defense systems engineering.",
+    "reason": "The job does not contain the required keywords and is in the defense/vehicle industry rather than the semiconductor/VLSI/EDA domain.",
     "id": "b3bcb5dd",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Building Physics Engineer",
@@ -42757,13 +42748,12 @@
     "url": "https://uk.linkedin.com/jobs/view/building-physics-engineer-at-mott-macdonald-4446820770",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is unrelated to semiconductor/VLSI/EDA and power integrity; it's for a building physics engineer in the construction industry.",
+    "reason": "The role is for a Building Physics Engineer in the construction/civil engineering industry, which is unrelated to the semiconductor/VLSI/EDA domain and fails the keyword pre-filter.",
     "id": "5c17e397",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Building Physics Engineer",
@@ -42772,13 +42762,12 @@
     "url": "https://uk.linkedin.com/jobs/view/building-physics-engineer-at-mott-macdonald-4446820771",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Building Physics Engineer role at an engineering and management consultancy, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is in building physics and civil engineering, which does not meet any of the required semiconductor, VLSI, or EDA technical criteria.",
     "id": "89df651d",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager Global Product Support (all genders)",
@@ -42787,13 +42776,12 @@
     "url": "https://at.linkedin.com/jobs/view/senior-manager-global-product-support-all-genders-at-lam-research-4438324503",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical leadership position in product support and service for manufacturing equipment, not related to semiconductor VLSI EDA.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "270a6f99",
     "source": "linkedin_eu_semiconductor_director",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Program Manager - (ASIC Silicon Development)",
@@ -42802,13 +42790,12 @@
     "url": "https://de.linkedin.com/jobs/view/technical-program-manager-asic-silicon-development-at-ic-resources-4443265820",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Technical Program Manager role focused on ASIC/Silicon Photonics, which does not directly match Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "3b15d5ce",
     "source": "linkedin_eu_semiconductor_director",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal, Technical Business Developer, Capital Equipment and Strategic Sourcing",
@@ -42817,13 +42804,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=c75c6da493f10181",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business development position for capital equipment and procurement, which does not fit Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The position is a procurement and supply chain role rather than a Power Integrity or VLSI engineering role, and it lacks the required technical keywords.",
     "id": "6cac85cc",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Technical Business Development Capital Equipment and Strategic Sourcing",
@@ -42832,13 +42818,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=91191e693adf4159",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in technical procurement for Amazon's capital equipment, not semiconductor/VLSI/EDA engineering or leadership.",
+    "reason": "The role is for Technical Business Development and Strategic Sourcing, which is a commercial/procurement position and not a technical VLSI/EDA engineering role.",
     "id": "8afdffb2",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
