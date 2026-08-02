@@ -1,0 +1,248 @@
+Title: High Speed IO Validation Engineer
+Company: NVIDIA AI
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/high-speed-io-validation-engineer-at-nvidia-ai-4445034613
+Posted: 2026-07-30
+Deadline: N/A
+Reason: The role focuses on high-speed I/O validation involving SI/PI fundamentals and package/board characterization, aligning with the candidate's expertise in Power Integrity and Advanced Packaging.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+High Speed IO Validation Engineer
+NVIDIA AI  Bengaluru, Karnataka, India
+2 days ago  26 applicants
+  
+
+See who NVIDIA AI has hired for this role
+
+Apply 
+Save
+Job Requisition ID
+
+JR2020227
+
+Job Category
+
+Engineering
+
+Time Type
+
+Full time
+
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. Today, we are tapping into the unlimited potential of AI to define the next era of computing — an era in which our GPUs act as the brains of computers, robots, and self-driving cars that understand the world. Doing what has never been done before takes vision, innovation, and the world’s best talent.
+
+NVIDIA’s Silicon Co-Design Group is the team that gets every GPU, SoC, and CPU silicon program from first power-on to high-volume production. We are hiring an HSIO Validation Engineer to own characterization and qualification of high-speed I/Os — PCIe, NVLink, NVLink-C2C, UCIe, USB, UFS, and Ethernet — on brand-new silicon serving datacenter, AI, and client markets. Your bench is where silicon meets the signal — where every link train, jitter sweep, eye diagram, and protocol corner gets exercised before the part ships. You drive characterization and debug for IO interconnects across silicon, board, firmware, and driver — designing tests that anticipate rack-scale deployment so marginality surfaces at die-and-board scale, never in a rack. Your decisions show up in link margin, BER, power per lane, and the go/no-go calls that gate samples and production.
+
+What You Will Be Doing
+
+
+Own end-to-end characterization and validation of high-speed IO — PCIe, NVLink, NVLink-C2C, UCIe, USB, UFS, Ethernet — from silicon die through package and board, on NVIDIA GPUs, CPUs, and SoCs.
+Develop and execute validation test plans for silicon and SoC-level HSIO features — bring-up, corner qualification, stress, productization, and structured DOE across PVT, board, cable/connector, thermal, and firmware variables — left-shifting silicon failures before deployment.
+Drive power characterization and optimization across IO interconnects under workload-representative stimuli (MLPerf-class patterns at silicon/board level) — analyze trade-offs across V/F, lane config, and protocol state — and feed back into design, firmware, and binning.
+Drive systematic root-cause analysis for complex HSIO bugs — isolating contributions across silicon, package, board, firmware, and driver, with platform/thermal/mechanical partners when system context matters. Convert rack-observed failures into silicon/board reproducers so future spins fix the root cause upstream.
+Assess manufacturing and yield implications of HSIO margin distributions — identify gaps in scaling from chip to product, and feed back into binning and design.
+Develop and improve validation methodologies, automation frameworks, and margin-tracking infrastructure — increase efficiency and coverage as platform complexity grows.
+
+
+What We Need To See
+
+
+BS or MS in Electrical or Computer Engineering (or equivalent), with 8+ years in post-silicon HSIO validation, characterization, or a closely related discipline.
+Deep understanding of high-speed serial link protocols (PCIe Gen5+, NVLink, NVLink-C2C, UCIe, CXL) and the underlying SERDES architecture — equalization, link training, electrical characterization — with strong signal integrity and jitter knowledge.
+Strong SI and PI fundamentals — S-parameters, eye diagrams, channel margin, crosstalk, return loss, PDN noise, jitter decomposition — and validation experience across silicon and platform boundaries (CoWoS/interposer/substrate, board), translating rack-environment effects into silicon/board characterization.
+Hands-on with lab instrumentation (DSOs, BERTs, VNAs, protocol/logic analyzers, TDR), DOE/shmoo/margin-trending, and Python-based test automation — with a track record of driving cross-functional debug across chip, package, board, firmware, driver, and system teams.
+
+
+Ways To Stand Out From The Crowd
+
+
+Hands-on experience with PCIe Gen5/Gen6 or NVLink validation on production silicon — link training, equalization tuning, BER margining, or compliance debug.
+Prior SERDES, mixed-signal, or analog circuit design experience — sufficient to independently form hypotheses, design Sim-to-Si correlation experiments, and propose silicon/system-side fixes during debug.
+Track record of translating rack-environment conditions (thermal, connector reliability, neighbor noise) into silicon/board characterization — finding marginality at die-and-board scale before it appears in the field.
+Comfortable using AI productivity tools (Claude, Copilot, or equivalent) to compress log triage, regression analysis, scripting, and reporting workflows.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Quality Assurance
+Industries
+Computer Hardware Manufacturing
+  
+
+Referrals increase your chances of interviewing at NVIDIA AI by 2x
+
+See who you know
+
+Get notified about new Validation Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Similar jobs
+PCIe / CXL Validation Engineer - Sr. Staff
+PCIe / CXL Validation Engineer - Sr. Staff
+Qualcomm
+Bengaluru, Karnataka, India
+1 week ago
+Pre-silicon Validation Engineer - Emulation
+Pre-silicon Validation Engineer - Emulation
+AMD
+Bengaluru, Karnataka, India
+1 day ago
+Senior Pre-silicon Validation Engineer - Emulation
+Senior Pre-silicon Validation Engineer - Emulation
+AMD
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Mixed Signal Validation and Debug Engineer
+Senior Mixed Signal Validation and Debug Engineer
+Intel
+Bengaluru, Karnataka, India
+1 week ago
+Principal Engineer
+Principal Engineer
+Microchip Technology Inc.
+Bengaluru, Karnataka, India
+2 months ago
+Silicon Validation Engineer
+Silicon Validation Engineer
+Qualcomm
+Bengaluru, Karnataka, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Debug Lead Engineer
+Debug Lead Engineer
+
+AMD
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Lead- System Engineer
+Lead- System Engineer
+
+AMD
+
+Bengaluru, Karnataka, India
+1 month ago
+AMS Silicon Validation Engineer, Senior Staff
+AMS Silicon Validation Engineer, Senior Staff
+
+Qualcomm
+
+Bengaluru, Karnataka, India
+2 days ago
+POST SILICON VALIDATION ENGINEER
+POST SILICON VALIDATION ENGINEER
+
+AMD
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Post‑Silicon SoC & System‑Level Validation Engineer
+Post‑Silicon SoC & System‑Level Validation Engineer
+
+AMD
+
+Bengaluru, Karnataka, India
+1 week ago
+Principal Engineer-High Speed Interface Pre-Silicon Validation/Verification
+Principal Engineer-High Speed Interface Pre-Silicon Validation/Verification
+
+Synopsys Inc
+
+Bengaluru, Karnataka, India
+1 week ago
+CPU Post Si Validation Engineer(Power and Performance)
+CPU Post Si Validation Engineer(Power and Performance)
+
+AMD
+
+Bengaluru, Karnataka, India
+1 week ago
+HSIO Validation Lead
+HSIO Validation Lead
+
+AMD
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior Verification Engineer, Emulation and Prototyping
+Senior Verification Engineer, Emulation and Prototyping
+
+NVIDIA
+
+Bengaluru, Karnataka, India
+1 week ago
+Sr. Staff Engineer-Emulation/Validation- PCI/CXL/DDR/Ethernet
+Sr. Staff Engineer-Emulation/Validation- PCI/CXL/DDR/Ethernet
+
+Synopsys Inc
+
+Bengaluru, Karnataka, India
+1 week ago
+Similar Searches
+Design Verification Engineer jobs
+987 open jobs
+Senior Validation Engineer jobs
+9,151 open jobs
+System Validation Engineer jobs
+51,728 open jobs
+System Verification Engineer jobs
+1,606 open jobs
+Verification Validation Engineer jobs
+1,616 open jobs
+Hardware Verification Engineer jobs
+881 open jobs
+Product Validation Engineer jobs
+52,055 open jobs
+Software Validation Engineer jobs
+883 open jobs
+Qualification Engineer jobs
+1,453 open jobs
+Validation Specialist jobs
+1,564 open jobs
+Validation Lead jobs
+1,654 open jobs
+Mixed Signal Design Engineer jobs
+859 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NVIDIA AI
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
