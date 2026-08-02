@@ -51343,14 +51343,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-asic-backend-at-ericsson-4426241511",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC physical design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on ASIC Backend/Physical Design with significant requirements for PDN design, IR drop, and EM analysis, aligning perfectly with the candidate's 15 years of expertise in Power Integrity and sign-off.",
     "id": "6813e792",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/ericsson_senior_engineer___asic_backend_6813e792.txt"
   },
   {
     "title": "Senior Staff Engineer \u2013 RV (EM/IR)",
@@ -51359,13 +51358,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-staff-engineer-%E2%80%93-rv-em-ir-at-qualcomm-4440759133",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's background in Power Integrity (PI), Advanced Packaging, and requires expertise in IR/EM analysis and power integrity sign-off.",
+    "reason": "The role is a perfect match for the candidate's 15 years of experience in Power Integrity, requiring specific expertise in EM/IR signoff, RedHawk, and Voltus within the semiconductor industry.",
     "id": "efaf1963",
     "source": "linkedin_india_ir_drop",
     "posted_date": "2026-07-16",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/qualcomm_senior_staff_engineer___rv__em_efaf1963.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/qualcomm_senior_staff_engineer___rv__em_efaf1963.txt"
   },
   {
     "title": "Field Technical & Applications Engineer",
@@ -51374,13 +51372,12 @@
     "url": "https://nl.linkedin.com/jobs/view/field-technical-applications-engineer-at-delve-search-global-search-consultants-4444138901",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily customer-facing technical support rather than a design/technical leadership position.",
+    "reason": "The role is an Associate-level position requiring 3-5+ years of experience, which is significantly below Vineeth's 15 years of experience and Technical Leader seniority.",
     "id": "177be658",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur chercheur en Impl\u00e9mentation Physique d'ASIC num\u00e9rique H/F",
@@ -51389,13 +51386,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-chercheur-en-impl%C3%A9mentation-physique-d-asic-num%C3%A9rique-h-f-at-cea-4446729189",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a research position focused on ASIC physical implementation, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "9dadb569",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "2026-07-30",
     "deadline": "2026-10-01",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Analog Layout Engineer",
@@ -51403,14 +51399,13 @@
     "location": "Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-analog-layout-engineer-at-ic-resources-4446895660",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on analog IC layout and design, which falls outside Vineeth's main domain of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "8bc69c9e",
     "source": "linkedin_eu_ir_drop",
-    "posted_date": "2026-07-30",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior HRIS Administrator",
@@ -51419,13 +51414,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-hris-administrator-at-johnleonard-4446313706",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical HR role, not within Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The position is a non-technical HR role (HRIS Administrator) and does not meet any of the required Power Integrity or semiconductor engineering criteria.",
     "id": "edd541d6",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Operations Engineer I-III",
@@ -51434,28 +51428,12 @@
     "url": "https://www.linkedin.com/jobs/view/system-operations-engineer-i-iii-at-georgia-system-operations-corporation-4428673684",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a System Operations Engineer focused on power system reliability, EMS/SCADA tools, and grid operations in Georgia. It does not match Vineeth's background in semiconductor VLSI EDA Power Integrity Advanced Packaging CAD.",
+    "reason": "The role is in the utility/electric grid sector and does not involve semiconductor, VLSI, or EDA technical domains or the required tools.",
     "id": "ec756242",
     "source": "linkedin_ww_system_power_integrity_p2",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Staff Electrical Engineer",
-    "company": "MicroVision\u00ae",
-    "location": "Orlando, FL",
-    "url": "https://www.linkedin.com/jobs/view/staff-electrical-engineer-at-microvision%C2%AE-4405348552",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Staff Electrical Engineer position, which does not closely match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, and CAD Methodology. Vineeth specializes in EDA tools and semiconductor design.",
-    "id": "ad7dded7",
-    "source": "linkedin_ww_system_power_integrity_p2",
-    "posted_date": "2026-07-23",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior/Staff Electrical Engineer \u2013 BMS Hardware & Electrical Systems",
@@ -51464,13 +51442,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-electrical-engineer-%E2%80%93-bms-hardware-electrical-systems-at-staffing-spot-inc-4446003159",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is hardware-focused on PCB design, power electronics and battery systems rather than semiconductor VLSI EDA. It does NOT match Vineeth's technical expertise in Power Integrity (PI), advanced packaging, SoC PDN sign-off, thermal analysis or CAD tool methodologies.",
+    "reason": "The job posting explicitly states that it is no longer accepting applications.",
     "id": "f918eaab",
     "source": "linkedin_ww_system_power_integrity_p2",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Infra DV Staff Engineer",
@@ -51479,13 +51456,12 @@
     "url": "https://in.linkedin.com/jobs/view/infra-dv-staff-engineer-at-qualcomm-4442089089",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on hardware engineering and verification, which does not align well with Vineeth's background in power integrity, advanced packaging, and EDA.",
+    "reason": "The role is primarily a Design Verification (DV) position focusing on UVM and testbench development, which is explicitly listed as outside the candidate's domain.",
     "id": "f9402142",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Hardware Engineer",
@@ -51494,13 +51470,12 @@
     "url": "https://in.linkedin.com/jobs/view/embedded-hardware-engineer-at-shg-technologies-pvt-ltd-4446756166",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on embedded hardware design rather than power integrity, advanced packaging, or EDA tools which are Vineeth's areas of expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "db63370a",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Systems & Automation Analyst",
@@ -51509,13 +51484,12 @@
     "url": "https://uk.linkedin.com/jobs/view/systems-automation-analyst-at-instant-impact-4446723814",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on business systems and automation using Microsoft Power Platform, which does not match Vineeth's technical background in semiconductor VLSI EDA.",
+    "reason": "The job is in the Financial Services industry and focuses on Microsoft Power Platform automation, which does not meet any of the required semiconductor/VLSI technical criteria.",
     "id": "f940fb1e",
     "source": "linkedin_uk_system_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "NetSuite Consultant",
@@ -51524,13 +51498,12 @@
     "url": "https://uk.linkedin.com/jobs/view/netsuite-consultant-at-eclectic-recruitment-ltd-4444576316",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a NetSuite consultant role, which does not match Vineeth's background in Power Integrity and VLSI/EDA.",
+    "reason": "The role is for a NetSuite ERP Consultant, which is an IT/business systems position and does not involve Power Integrity, semiconductor engineering, or the required EDA tools.",
     "id": "9ea72f71",
     "source": "linkedin_uk_system_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Advanced Packaging SI/PI Senior Engineer",
@@ -51538,14 +51511,13 @@
     "location": "Burlington, VT",
     "url": "https://www.linkedin.com/jobs/view/advanced-packaging-si-pi-senior-engineer-at-marvell-technology-4442877568",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Senior Engineer in Advanced Packaging with SI/PI responsibilities, matching Vineeth's background.",
+    "matches_requirements": "no",
+    "reason": "The role is a mid-level Senior Engineer position requiring 3+ years of experience, which is a significant mismatch for the candidate's 15 years of experience and leadership background.",
     "id": "3f5a7cc3",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/marvell_technology_advanced_packaging_si_pi_senio_3f5a7cc3.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal Engineer (Board & System Hardware Design \u2013 AI & Cloud Infrastructure)",
@@ -51554,13 +51526,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-principal-engineer-board-system-hardware-design-%E2%80%93-ai-cloud-infrastructure-at-mdaedge-4446165341",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI, Cloud Infrastructure) which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off.",
+    "reason": "The role is based in the United States and does not explicitly mention visa sponsorship or relocation.",
     "id": "b95526fe",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HR Generalist",

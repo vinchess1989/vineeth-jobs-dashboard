@@ -1,0 +1,307 @@
+Title: Senior Engineer - ASIC Backend
+Company: Ericsson
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/senior-engineer-asic-backend-at-ericsson-4426241511
+Posted: 2026-07-30
+Deadline: N/A
+Reason: The role focuses on ASIC Backend/Physical Design with significant requirements for PDN design, IR drop, and EM analysis, aligning perfectly with the candidate's 15 years of expertise in Power Integrity and sign-off.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior Engineer - ASIC Backend
+Ericsson  Bengaluru, Karnataka, India
+2 days ago  140 applicants
+  
+
+See who Ericsson has hired for this role
+
+Apply 
+Save
+Grow with us
+
+About This Opportunity
+
+Join Ericsson's cutting-edge journey to shape the future of 5G networks! As a Physical Design Engineer, you'll work on pioneering digital ASIC designs vital to Ericsson's mobile network infrastructure. Our team, responsible for the final critical stage of chip design before fabrication, thrives on Lean and Agile principles, promoting close collaboration, daily progress-sharing, and continuous improvement. If you're passionate about advanced technology and ready to make a meaningful impact in telecom, this role is crafted just for you.
+
+At Ericsson, we support your growth, offering opportunities to advance your skills while contributing to game-changing 5G/6G technologies. Here, you'll find a supportive, innovative environment focused on quality, teamwork, and career development. Join us and help shape the future of telecom!
+
+We are hiring a Physical Design Engineer to own the physical implementation flow on high-performance, low-power SoC designs at advanced process nodes. Your primary focus will be die-level floorplanning, full-chip place-and-route, and timing-driven physical closure — while also contributing to synthesis and static timing analysis (STA) signoff as secondary responsibilities. You will work closely with RTL design, synthesis, DFT, and verification teams throughout the full design cycle from netlist hand-off to GDSII sign-off.
+
+What you will do:
+
+Floorplanning & Physical Implementation
+
+
+Own die-level and block-level floorplanning using Cadence Innovus or Synopsys ICC2 — defining die size, I/O ring placement, power ring topology, and macro placement strategies.
+Perform early floorplan exploration to evaluate area, aspect ratio, and pin assignment trade-offs in collaboration with the architecture and package teams.
+Plan and implement hierarchical design partitioning — define interface timing budgets, feedthrough corridors, and block-level pin constraints for clean top-level integration.
+Coordinate macro placement with memory compilers, analog IP, and hard macros; manage blockage and halo constraints to minimize routing congestion.
+Drive floorplan-driven synthesis feedback loops with the synthesis team; iterate on netlist placement to reduce post-route timing and congestion surprises.
+
+
+Power Planning & Power Delivery Network (PDN)
+
+
+Design and implement the on-chip power delivery network — power rings, power straps, and rail routing — to meet IR drop and electromigration (EM) targets.
+Coordinate with power analysis teams on static and dynamic IR drop budgets; iterate on PDN to achieve sign-off across all power domains.
+Implement and validate multi-voltage domain power structures per UPF/CPF — power switches, isolation cells, level shifters, and always-on logic placement.
+Perform early power grid analysis to identify PDN weaknesses before detailed routing; collaborate with the package team on C4 bump and power delivery co-design.
+
+
+Place and Route
+
+
+Execute full-chip and block-level placement and routing targeting timing, congestion, and power objectives across all MMMC corners.
+Drive timing-driven placement strategies — useful skew, path-specific placement constraints, and pre-CTS timing optimization to reduce hold and setup violations.
+Perform clock tree synthesis (CTS) — define clock tree goals, buffer library selection, skew targets, and clock mesh/shielding strategies for high-frequency designs.
+Manage routing for signal integrity — differential pairs, shielding of sensitive nets, and antenna rule compliance across all metal layers.
+Perform detail routing, via optimization, and metal fill insertion to meet density DRC and sign-off requirements.
+
+
+Physical Closure
+
+
+Drive iterative timing closure — setup and hold — through ECO-driven placement and routing iterations in collaboration with the STA team.
+Perform DRC, LVS, and ERC checks using Synopsys IC Validator or Cadence PVS; own physical verification sign-off to GDSII tape-out.
+Coordinate with power analysis teams to correlate PTPX switching activity maps with IR drop hotspots identified during post-route analysis.
+Own physical implementation QoR metrics — WNS, TNS, congestion, DRC count, and power — and present sign-off status across tape-out milestones.
+Develop and maintain PnR run scripts, methodology documentation, and automation flows in Tcl/Python for reuse across projects and technology nodes.
+
+
+Synthesis and STA Support
+
+
+Support physical-aware synthesis runs using Fusion Compiler — review QoR results and provide floorplan-driven feedback on netlist quality, congestion hotspots, and pre-CTS timing.
+Contribute to STA reviews using PrimeTime (PT) — specifically for timing paths affected by physical implementation changes (CTS, ECO routing, buffer insertion).
+
+
+The skills you bring:
+
+
+B.Tech / M.Tech / M.S. in Electronics Engineering, VLSI Design, Computer Engineering, or a related field with 10+ years in physical implementation, floorplanning, or place-and-route roles
+Expert-level proficiency with Cadence Innovus and/or Synopsys ICC2 / Fusion Compiler
+Strong experience in die-level floorplanning, macro placement, and PDN design
+Hands-on clock tree synthesis (CTS) experience across high-frequency, multi-clock designs
+Expertise in timing-driven physical closure and ECO-based hold/setup fixing
+Familiarity with physical verification tools (IC Validator, PVS) and DRC/LVS sign-off
+Working knowledge of synthesis (Fusion Compiler) and STA (PrimeTime)
+Proficiency in Tcl; Python scripting a strong plus
+At least one tape-out on 7nm or below
+
+
+Nice to have:
+
+
+Experience with low-power physical implementation (UPF/CPF, power domain crossings, multi-Vt strategies)
+Knowledge of advanced routing constraints — signal integrity shielding, differential pair routing, antenna fixing
+DFT physical implementation experience — scan chain reordering, BIST placement, and test-mode timing closure
+Exposure to formal equivalence checking (Formality, Conformal) post-ECO
+
+
+EDA Tools & Environment
+
+
+Cadence Innovus, Synopsys ICC2, Fusion Compiler, Synopsys IC Validator, Cadence PVS, PrimeTime, Design Compiler, Tcl / Python
+
+
+
+“All academic credentials must be from recognized and accredited institutions and are further subject to verification.”
+
+What happens once you apply?Click Here to find all you need to know about what our typical hiring process looks like.We encourage you to consider applying to jobs where you might not meet all the criteria. We recognize that we all have transferrable skills, and we can support you with the skills that you need to develop.Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we champion it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity Employer. learn more.
+
+Primary country and city: India (IN) || Bangalore
+
+Job details: Developer
+
+Job Stage: Job Stage 6
+
+Primary Recruiter: Ashwini Manda
+
+Hiring Manager: Govinda Raju
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Other
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Ericsson by 2x
+
+See who you know
+
+Get notified about new Back End Developer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+J2Ee Developer jobs
+Senior Engineer - ASIC Backend
+Similar jobs
+Senior Physical Design Engineer
+Senior Physical Design Engineer
+Microsoft
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Engineer
+Senior Engineer
+Broadcom
+Bengaluru, Karnataka, India
+2 weeks ago
+IC Design Engineer
+IC Design Engineer
+Broadcom
+Bengaluru, Karnataka, India
+2 weeks ago
+Physical Design Engineer
+Physical Design Engineer
+AMD
+Bengaluru, Karnataka, India
+1 week ago
+Principal Physical Design Engineer
+Principal Physical Design Engineer
+Microsoft
+Bengaluru, Karnataka, India
+1 day ago
+Sr Physical Design - CPU Team
+Sr Physical Design - CPU Team
+AMD
+Bengaluru, Karnataka, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Physical Design Engineer
+Physical Design Engineer
+
+MediaTek
+
+Bengaluru, Karnataka, India
+1 week ago
+PD Engineer
+PD Engineer
+
+Quest Global
+
+Bengaluru, Karnataka, India
+1 month ago
+Physical Design Engineer (Bengaluru)
+Physical Design Engineer (Bengaluru)
+
+Cerebras
+
+Bengaluru, Karnataka, India
+1 month ago
+Manager, Physical Design / CAD
+Manager, Physical Design / CAD
+
+Ampere
+
+Bengaluru, Karnataka, India
+1 month ago
+Silicon Engineer II
+Silicon Engineer II
+
+Microsoft
+
+Bengaluru, Karnataka, India
+4 days ago
+Staff Engineer
+Staff Engineer
+
+Broadcom
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Staff Engineer
+Staff Engineer
+
+Broadcom
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Staff Engineer
+Staff Engineer
+
+Broadcom
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Principal Physical Design Lead - CPU
+Principal Physical Design Lead - CPU
+
+AMD
+
+Bengaluru, Karnataka, India
+1 week ago
+Staff Design Engineer
+Staff Design Engineer
+
+Broadcom
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Similar Searches
+J2Ee Developer jobs
+5,412 open jobs
+Web Development Specialist jobs
+52,500 open jobs
+Computer Software Engineer jobs
+45,799 open jobs
+Senior PHP Developer jobs
+12,332 open jobs
+Developer Internship jobs
+59 open jobs
+Junior Java Developer jobs
+6,929 open jobs
+Frontend Developer jobs
+10,770 open jobs
+Senior Dotnet Developer jobs
+11,806 open jobs
+Web Programmer jobs
+3,837 open jobs
+Junior Developer jobs
+5,889 open jobs
+Junior Dotnet Developer jobs
+3,317 open jobs
+PHP Developer jobs
+6,106 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Ericsson
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
