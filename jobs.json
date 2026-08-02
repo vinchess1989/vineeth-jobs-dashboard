@@ -39775,93 +39775,87 @@
   },
   {
     "title": "High Tech Consulting Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture",
+    "location": "Multiple Locations",
     "url": "https://www.indeed.com/rc/clk?jk=e0134e8603ac904a",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "a891159e",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Consulting Manager salaries in Charlotte, NC",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Charlotte, NC, USA",
     "url": "https://www.indeed.com/career/consulting-manager/salaries/Charlotte--NC?campaignid=serp-more&fromjk=e0134e8603ac904a&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a consulting management role, not an engineering/technical position at a semiconductor company.",
+    "reason": "The provided URL is a salary research page rather than a specific job posting and does not contain any of the required technical keywords or semiconductor domain criteria.",
     "id": "c575d57a",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(GCC) Global Capability Center Engineering Principal Director",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture",
+    "location": "Multiple Locations",
     "url": "https://www.indeed.com/rc/clk?jk=a3b5fa8a9daa96b8",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a consulting/strategy role rather than a semiconductor engineering role.",
     "id": "9b871531",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "(GCC) Global Capability Center Engineering Principal Director salaries",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Culver City, CA, USA",
     "url": "https://www.indeed.com/career/salaries/Capability%20Developer/Culver%20City,%20CA?campaignid=serp-more&fromjk=a3b5fa8a9daa96b8&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical role (GCC Capability Developer) at a semiconductor company.",
+    "reason": "The provided content is a salary estimation page, not a job posting, and contains none of the required technical keywords (PDN, Redhawk, etc.).",
     "id": "c33d916f",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Strategy Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Accenture Strategy",
+    "location": "Multiple Locations",
     "url": "https://www.indeed.com/rc/clk?jk=ecb98c78e7b75c89",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it contains none of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "7dea6239",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "High Tech Strategy Manager salaries in New York, NY",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "New York, NY, USA",
     "url": "https://www.indeed.com/career/strategy-manager/salaries/New-York--NY?campaignid=serp-more&fromjk=ecb98c78e7b75c89&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical strategy manager role, which does not match Vineeth's engineering background in Power Integrity, Advanced Packaging, and CAD.",
+    "reason": "The link is a salary search page, not a job posting, and it fails the mandatory keyword pre-filter and technical domain requirements.",
     "id": "2ddde557",
     "source": "indeed_ww_semiconductor_cto_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Flexcompute Ambassador Program",
@@ -39870,13 +39864,12 @@
     "url": "https://www.linkedin.com/jobs/view/flexcompute-ambassador-program-at-flexcompute-4446800676",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more of an ambassador/evangelist for Tidy3D rather than a technical leadership position in semiconductor/VLSI/EDA.",
+    "reason": "This is a student ambassador program for a simulation tool that lacks the required Power Integrity keywords and does not match the candidate's 15 years of seniority.",
     "id": "a630d8d1",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal DFT Engineer",
@@ -39884,14 +39877,13 @@
     "location": "India",
     "url": "https://in.linkedin.com/jobs/view/principal-dft-engineer-at-encharge-ai-4446827221",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with DFT focus, meets experience level criteria",
+    "matches_requirements": "no",
+    "reason": "The job description contains none of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a DFT role, which is outside the candidate's core domain.",
     "id": "b56e3b5c",
     "source": "linkedin_india_semiconductor_principal_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal SOC Physical Verification & Integration Specialist",
@@ -39899,14 +39891,13 @@
     "location": "India",
     "url": "https://in.linkedin.com/jobs/view/principal-soc-physical-verification-integration-specialist-at-encharge-ai-4446810960",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior role is a perfect match for Vineeth's background in Power Integrity, Advanced Packaging, and SoC design. The job requires deep domain expertise in SOC physical assembly and sign-off which aligns with his experience.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required to pass the pre-filter.",
     "id": "ee2d4a7e",
     "source": "linkedin_india_semiconductor_principal_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": "job_descriptions/encharge_ai_principal_soc_physical_verific_ee2d4a7e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff/Principal PIC Design Engineer",
@@ -39915,13 +39906,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-principal-pic-design-engineer-at-oriole-4446822375",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a PhD which is above Vineeth's qualifications.",
+    "reason": "The job is for Photonic Integrated Circuit (PIC) design and does not contain any of the required keywords related to Power Integrity or the specified EDA tools.",
     "id": "4b23bf76",
     "source": "linkedin_uk_semiconductor_principal_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Manager, Process Engineering",
@@ -39930,13 +39920,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-manager-process-engineering-at-%C5%8Dura-4444152326",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily non-technical process engineering, and does not fit Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "7c7b75e0",
     "source": "linkedin_fi_semiconductor_principal_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Architect | Think Micro. Architect the Full Chip",
@@ -39945,13 +39934,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-architect-think-micro-architect-the-full-chip-at-texas-instruments-4446418881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an SoC Architect role at the micro level, which falls under VLSI/SoC design domain. Vineeth's background and skills are not well-aligned with this specific position.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms like PDN, Redhawk, or Voltus, and it focuses on microarchitecture rather than the candidate's Power Integrity and Packaging expertise.",
     "id": "1118b836",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI & Datacenter Solutions Architect",
@@ -39960,13 +39948,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86170?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Sales/Marketing role at AMD, which is a non-technical position and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, Redhawk, Power Integrity, etc.) and is a US-based role that does not offer visa sponsorship.",
     "id": "23aa5dc2",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Data Scientist \u2013 Business Analytics - AI",
@@ -39975,13 +39962,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88947?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a data scientist position focused on business analytics and AI, which doesn't match Vineeth's technical background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is a Data Science position, which is outside the candidate's specific domain of Power Integrity, VLSI, and EDA engineering.",
     "id": "162ac710",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "General Manager - US Operations",
@@ -39990,13 +39976,12 @@
     "url": "https://www.linkedin.com/jobs/view/general-manager-us-operations-at-liburdi-dimetrics-4444392551",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general management role focused on business operations and growth, not a technical leadership position in semiconductor/VLSI/EDA.",
+    "reason": "The job does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.) and is a business management role in the welding industry rather than a semiconductor/VLSI/EDA engineering role.",
     "id": "d02b8741",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Portfolio Manager - Fully Remote | Upto $270/hr",
