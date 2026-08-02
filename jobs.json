@@ -52800,13 +52800,12 @@
     "url": "https://www.linkedin.com/jobs/view/everything-else-at-zest-4445024701",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is unrelated to semiconductor, VLSI, EDA, and does not fit Vineeth's background.",
+    "reason": "The posting is a general talent pool ('Everything Else') and does not contain any of the required semiconductor keywords or specific technical domains.",
     "id": "e3908df0",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SLP Expert, Investigation & Loss Prevention",
@@ -52815,13 +52814,12 @@
     "url": "https://in.linkedin.com/jobs/view/slp-expert-investigation-loss-prevention-at-amazon-4447060846",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical security/loss prevention role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a non-technical security and loss prevention position and does not contain any of the required semiconductor-related keywords.",
     "id": "21ae1fbf",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Engineer",
@@ -52830,13 +52828,12 @@
     "url": "https://in.linkedin.com/jobs/view/data-engineer-at-pi-square-technologies-4443291771",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in data engineering with cloud platforms like GCP, which is a software development position outside Vineeth's domain.",
+    "reason": "The role is for a Data Engineer focusing on software development and data pipelines, which is outside the candidate's expertise in Power Integrity and VLSI.",
     "id": "1fc96297",
     "source": "linkedin_india_pi_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SAP PI/PO Consultant",
@@ -52845,13 +52842,12 @@
     "url": "https://in.linkedin.com/jobs/view/sap-pi-po-consultant-at-kyndryl-4440539816",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This SAP PI/PO consulting role is outside Vineeth's domain of VLSI, EDA and focuses on enterprise software integration rather than semiconductor chip design.",
+    "reason": "The role is for SAP Process Integration (an IT/ERP software role), which is unrelated to Power Integrity or the semiconductor/VLSI domain.",
     "id": "f42d2108",
     "source": "linkedin_india_pi_p2",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Agile Technical Delivery Lead/ Technical Project Manager",
@@ -52860,13 +52856,12 @@
     "url": "https://in.linkedin.com/jobs/view/agile-technical-delivery-lead-technical-project-manager-at-blumetra-solutions-4446735272",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Agile Delivery Lead / Technical Project Manager, which is a non-technical management position outside Vineeth's domain in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Data & Analytics software project management role and does not involve Power Integrity, PDN, or any of the required EDA tools.",
     "id": "4225e2cd",
     "source": "linkedin_india_pi_p2",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FBS Agile Dev Team Member III - Software Development Engineer in Test (SDET)",
@@ -52875,13 +52870,12 @@
     "url": "https://in.linkedin.com/jobs/view/fbs-agile-dev-team-member-iii-software-development-engineer-in-test-sdet-at-capgemini-4440453139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
+    "reason": "The role is for a Software Development Engineer in Test (SDET), which is explicitly excluded as software development and verification and lacks the required Power Integrity or VLSI technical domains.",
     "id": "46b5fa4f",
     "source": "linkedin_india_pi_p2",
     "posted_date": "2026-07-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FBS Agile Dev Team Member III - Software Development Engineer in Test (SDET)",
@@ -52890,13 +52884,12 @@
     "url": "https://in.linkedin.com/jobs/view/fbs-agile-dev-team-member-iii-software-development-engineer-in-test-sdet-at-capgemini-4440439864",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development with testing (SDET) and does not match Vineeth's VLSI/EDA background in semiconductor design, physical CAD, EDA tools, power integrity.",
+    "reason": "The role is a Software Development Engineer in Test (SDET) position, which is explicitly excluded as a hard rejection and falls outside the candidate's semiconductor/VLSI/EDA domain.",
     "id": "b67fb50e",
     "source": "linkedin_india_pi_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Qualit\u00e4tsvorausplanung (APQP)",
@@ -52905,13 +52898,12 @@
     "url": "https://de.linkedin.com/jobs/view/qualit%C3%A4tsvorausplanung-apqp-at-pi-safety-components-gmbh-co-kg-4443261016",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a quality planning role for product development, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is for Quality Planning (APQP) and does not contain any of the required technical keywords (PDN, Redhawk, Voltus, etc.) or align with the candidate's expertise in Power Integrity and Thermal Analysis.",
     "id": "20f483c7",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internship Rotazionale (PI)",
@@ -52920,13 +52912,12 @@
     "url": "https://it.linkedin.com/jobs/view/internship-rotazionale-pi-at-anicura-ospedale-veterinario-i-portoni-rossi-4446741920",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a veterinary clinic internship, not semiconductor/VLSI/EDA.",
+    "reason": "The position is a veterinary medicine internship and does not relate to the semiconductor or Power Integrity domain; 'PI' in the title refers to the clinic's internship program.",
     "id": "db00f8cd",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IoT Agile Lead",
@@ -52935,13 +52926,12 @@
     "url": "https://es.linkedin.com/jobs/view/iot-agile-lead-at-amaris-consulting-4445038110",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an IoT Agile Lead consulting role, which does not match Vineeth's technical power integrity and packaging background.",
+    "reason": "The job is for an Agile Lead/Scrum Master role and does not contain any of the required technical keywords (PDN, Redhawk, Voltus, etc.) related to Power Integrity or EDA.",
     "id": "24990ccc",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Business Analyst (m/f/d)",
@@ -52950,13 +52940,12 @@
     "url": "https://de.linkedin.com/jobs/view/technical-business-analyst-m-f-d-at-mobis-parts-europe-n-v-4447010851",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a business analyst position focused on process innovation and IT application development, which does not match Vineeth's background in power integrity, advanced packaging, CAD methodology, and VLSI/EDA tools.",
+    "reason": "The role is a Technical Business Analyst for an automotive parts company and does not involve Power Integrity, VLSI, or EDA engineering.",
     "id": "31e0eb60",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Project Manager",
@@ -52965,13 +52954,12 @@
     "url": "https://es.linkedin.com/jobs/view/senior-project-manager-at-ascendion-4441958795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Salesforce CRM delivery project manager and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is for a Salesforce CRM Project Manager and does not meet the required semiconductor/VLSI technical domain or keyword filters.",
     "id": "3703037e",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Release Train Engineer (SAFe) Agile",
@@ -52980,13 +52968,12 @@
     "url": "https://uk.linkedin.com/jobs/view/release-train-engineer-safe-agile-at-talent-locker-4445022157",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Agile team coordination and event facilitation, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging, CAD/Methodology, etc.",
+    "reason": "The role is a Project Management / Agile leadership position (Release Train Engineer) and does not involve Power Integrity or semiconductor engineering.",
     "id": "b6cc446d",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Warehouse Manager",
@@ -52995,13 +52982,12 @@
     "url": "https://uk.linkedin.com/jobs/view/assistant-warehouse-manager-at-raspberry-pi-4444571301",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical warehouse management role with no mention of semiconductor, VLSI, EDA or related technical domains.",
+    "reason": "The position is a non-technical warehouse management role, which does not meet the semiconductor engineering or Power Integrity requirements.",
     "id": "bb21421d",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Technology Delivery Lead",
@@ -53010,13 +52996,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-technology-delivery-lead-at-bupa-4447047021",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on IT project management, Agile transformation and delivery across business units rather than semiconductor design/EDA. It does not mention technical skills in PI, advanced packaging, CAD tools.",
+    "reason": "The job is for an IT Project Management role in the healthcare industry and does not involve Power Integrity, semiconductor engineering, or the required EDA tools.",
     "id": "3a641707",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Finance Manager",
