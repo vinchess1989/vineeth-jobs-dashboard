@@ -39990,28 +39990,12 @@
     "url": "https://uk.linkedin.com/jobs/view/portfolio-manager-fully-remote-upto-%24270-hr-at-mercor-4446580146",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (equity research, finance analysis) which is outside Vineeth's domain in semiconductor/VLSI/EDA.",
+    "reason": "The job is a finance-based Portfolio Manager/Equity Analyst role and does not belong to the required semiconductor, VLSI, or EDA engineering domains.",
     "id": "d55d6ac0",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "ASIC Verification Engineer - New College Grad 2026",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/asic-verification-engineer-new-college-grad-2026-at-nvidia-4436872533",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a non-technical verification engineering role at a semiconductor company which is outside Vineeth's domain.",
-    "id": "6f588700",
-    "source": "linkedin_ww_vlsi_design",
-    "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -40020,13 +40004,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-verification-engineer-at-intel-4446049004",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which falls outside Vineeth's domain.",
+    "reason": "The role is a Design Verification Engineer position, which is explicitly listed as a hard rejection because it falls outside the candidate's domain of Power Integrity and Physical Design.",
     "id": "334f8ef3",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Ic Designer",
@@ -40035,13 +40018,12 @@
     "url": "https://es.linkedin.com/jobs/view/digital-ic-designer-at-tmrw-4446401991",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital IC design with Cadence tools, which does not match Vineeth's domain of power integrity and advanced packaging. It also specifies a location in Spain, which is not a high-priority region for him.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "9f5e513f",
     "source": "linkedin_eu_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Design Engineer",
@@ -40050,13 +40032,12 @@
     "url": "https://es.linkedin.com/jobs/view/layout-design-engineer-at-celestica-4446069574",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Senior Electrical Design Lead, which is primarily outside Vineeth's domain of Power Integrity and VLSI. Vineeth has expertise in leading teams on power integrity and advanced packaging but this role involves more general electrical design.",
+    "reason": "The posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and focuses on board-level electrical design rather than VLSI/Power Integrity.",
     "id": "92950cd0",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -40065,13 +40046,12 @@
     "url": "https://it.linkedin.com/jobs/view/digital-design-engineer-at-sii-group-switzerland-4437821093",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Digital Design Engineer role is focused on FPGA architecture for space applications, which doesn't match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for an entry-level position.",
     "id": "253c4718",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Hardware Engineer - Internship",
@@ -40080,13 +40060,12 @@
     "url": "https://it.linkedin.com/jobs/view/junior-hardware-engineer-internship-at-txt-group-4442609781",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on R&D engineering in robotics, automation and autonomous systems, which does not match Vineeth's VLSI/EDA/semiconductor background in power integrity, packaging and physical design.",
+    "reason": "The job fails the mandatory keyword pre-filter and is a junior internship, which does not align with the candidate's 15 years of leadership experience.",
     "id": "b75d7579",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-22",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced CAD Automation Engineer (Design Verification)",
@@ -40095,13 +40074,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-cad-automation-engineer-design-verification-at-apple-4414165436",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily Design Verification, which falls outside Vineeth's domain of expertise.",
+    "reason": "The role is primarily in Design Verification and RTL simulation, which is explicitly listed as a hard rejection as it falls outside the candidate's domain of Power Integrity and Advanced Packaging.",
     "id": "3651b4ec",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-05-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PQP Lead Application Engineer - Tendering",
@@ -40110,13 +40088,12 @@
     "url": "https://fi.linkedin.com/jobs/view/pqp-lead-application-engineer-tendering-at-ge-vernova-4446819930",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on project management, tendering and client interfacing rather than technical domains like power integrity, advanced packaging or EDA tools.",
+    "reason": "The job is in the Energy Technology industry (GE Vernova) and does not fall within the required semiconductor, VLSI, or EDA domains.",
     "id": "51a52b10",
     "source": "linkedin_fi_vlsi_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PQP Lead Application Engineer - Tendering",
@@ -40125,13 +40102,12 @@
     "url": "https://fi.linkedin.com/jobs/view/pqp-lead-application-engineer-tendering-at-ge-vernova-4446816996",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily about service tendering and customer-facing technical sales engineering, which does not directly match Vineeth's power integrity, packaging, and EDA CAD background. It has some overlap in being a senior technical lead but lacks direct alignment with semiconductor VLSI design.",
+    "reason": "The job is in the energy technology sector and does not contain the mandatory semiconductor Power Integrity or VLSI-related keywords required for evaluation.",
     "id": "3659cb12",
     "source": "linkedin_fi_vlsi_design",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Designer",
@@ -40139,14 +40115,13 @@
     "location": "Boston, MA",
     "url": "https://www.linkedin.com/jobs/view/hardware-designer-at-fidus-systems-4446543444",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily hardware design, which falls outside Vineeth's domain of power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "9b58df4c",
     "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Designer",
@@ -40154,14 +40129,13 @@
     "location": "Dallas, TX",
     "url": "https://www.linkedin.com/jobs/view/hardware-designer-at-fidus-systems-4446558002",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Hardware Designer with experience in FPGA designs, high-speed circuits and protocols, not related to Vineeth's domain of Power Integrity (PI) and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "84bb3e7f",
     "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Power",
@@ -40169,14 +40143,13 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-power-at-meta-4443663939",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role is an ASIC Engineer with a focus on power, which fits Vineeth's background and key skills.",
+    "matches_requirements": "no",
+    "reason": "The position is located in the United States and does not explicitly mention visa sponsorship or relocation, which is required for a 'yes' match.",
     "id": "a7f19b4d",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Designer",
@@ -40184,29 +40157,27 @@
     "location": "Detroit, MI",
     "url": "https://www.linkedin.com/jobs/view/hardware-designer-at-fidus-systems-4446555094",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job is for a Hardware Designer role at Fidus Systems, which involves FPGA/DSP design and does not directly match Vineeth's focus on Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging, or EDA CAD.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "fdc0fcf7",
     "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Verification Engineer, Technical Leader",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Cisco",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=68ba504745b76709",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification (testbench development), which is outside Vineeth's domain.",
+    "reason": "The role is primarily focused on ASIC Design Verification (UVM, SystemVerilog, testbench development), which is explicitly listed as outside the candidate's domain.",
     "id": "be5fb51b",
     "source": "indeed_ww_asic_design_p2",
     "posted_date": "2026-07-08",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Verification Engineer, Technical Leader salaries in San Jose, CA",
