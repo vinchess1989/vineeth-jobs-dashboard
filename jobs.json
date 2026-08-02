@@ -55264,13 +55264,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-j3a-recruitment-4446305041",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical design engineer position focused on electrical systems, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for civil infrastructure electrical engineering in the water and wastewater sector, which does not involve semiconductor, VLSI, or Power Integrity design.",
     "id": "ffe52b49",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SoC / RTL Design Engineer",
@@ -55279,13 +55278,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-rtl-design-engineer-at-arm-4447214506",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (testbench development, formal verification) which is outside Vineeth's domain.",
+    "reason": "The role is a Front-End RTL design position, which is outside the candidate's domain of Power Integrity and Advanced Packaging, and it fails the mandatory keyword pre-filter.",
     "id": "9a7b40e5",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Implementation Engineer",
@@ -55294,13 +55292,12 @@
     "url": "https://www.linkedin.com/jobs/view/implementation-engineer-at-arm-4447215486",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused, which is outside Vineeth's domain.",
+    "reason": "The role is an Associate-level position requiring 3+ years of experience and does not explicitly mention visa sponsorship or relocation for its US location.",
     "id": "3a664d81",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Implementation Engineer",
@@ -55309,13 +55306,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-implementation-engineer-at-arm-4447222386",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC implementation, physical design and software tools support, which does not match Vineeth's primary area of expertise in Power Integrity and Advanced Packaging. It also requires 7+ years experience.",
+    "reason": "The position is based in the United States and does not explicitly mention visa sponsorship or relocation.",
     "id": "41a629f2",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
@@ -55323,14 +55319,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-at-arm-4447213491",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development focused, which is outside Vineeth's domain of expertise.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on physical design and PDN analysis, which directly aligns with the candidate's expertise in Power Integrity and SoC PDN sign-off.",
     "id": "44645914",
     "source": "linkedin_india_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_senior_engineer_44645914.txt"
   },
   {
     "title": "Hardware AI Engineer",
@@ -55339,13 +55334,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-ai-engineer-at-arm-4447227372",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI tooling, automation) rather than semiconductor/VLSI/EDA technical roles.",
+    "reason": "The job description fails the mandatory keyword pre-filter and is primarily focused on hardware verification automation, which is outside the candidate's domain.",
     "id": "4ce0969d",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Distinguished Engineer",
@@ -55353,14 +55347,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/distinguished-engineer-at-arm-4447223395",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with 15+ years experience matches Vineeth's background, but specific technical domain is not mentioned.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "f395d54c",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Power Integrity Engineer",
@@ -55369,13 +55362,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-power-integrity-engineer-at-arm-4447222381",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The position is based in the US and does not explicitly mention visa sponsorship or relocation, which is a requirement for a US-based match.",
     "id": "2b907d8f",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Signal and Power Integrity Engineer",
@@ -55384,13 +55376,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-signal-and-power-integrity-engineer-at-arm-4447221376",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The role is based in the US and does not explicitly mention visa sponsorship or relocation.",
     "id": "0b9bc1be",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Electronics SI/PI Engineer",
@@ -55399,13 +55390,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-electronics-si-pi-engineer-at-arm-4447224369",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role involves SoC PDN sign-off, system-level SI and PI analysis, working with chip packaging teams, and requires ANSYS RedHawk/Voltus expertise.",
+    "reason": "The role is a Staff-level SI/PI position in India requiring 10+ years of experience, which perfectly aligns with the candidate's 15 years of experience and expertise in Power Integrity and packaging.",
     "id": "d7d47eff",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_staff_electronics_si_pi_engine_d7d47eff.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff_electronics_si_pi_engine_d7d47eff.txt"
   },
   {
     "title": "Staff Power Analysis Engineer",
@@ -55413,14 +55403,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-power-analysis-engineer-at-arm-4447218411",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a match for Vineeth's background and skills in Power Integrity, with leadership potential.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "47519de1",
     "source": "linkedin_uk_power_integrity",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_staff_power_analysis_engineer_47519de1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Packaging Design Engineer",
@@ -55428,14 +55417,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-packaging-design-engineer-at-arm-4447218406",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on package design for Arm's SoC products, which falls under the domain of Physical Design rather than Power Integrity.",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior Staff-level position in Advanced Packaging and Power Integrity in the UK, directly aligning with Vineeth's 15 years of experience and specialized expertise.",
     "id": "b9a1965a",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff_packaging_design_enginee_b9a1965a.txt"
   },
   {
     "title": "Physical Design Lead (Full Chip)",
@@ -55443,14 +55431,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-lead-full-chip-at-7rays-semiconductors-4444541753",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Role is for a Senior Physical Design Engineer with 7-12+ years of experience, which overlaps with Vineeth's background in Power Integrity and Advanced Packaging. However, the job is not explicitly leadership or technical management.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for the pre-filter.",
     "id": "45a8be5b",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Architect",
@@ -55459,13 +55446,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-architect-at-arm-4447234231",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily software development which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keyword filters (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "0996a144",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC PnP Architect",
@@ -55473,14 +55459,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/soc-pnp-architect-at-arm-4447223399",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role matches Vineeth's domain of Power Integrity and Advanced Packaging, with a requirement for experience in SoC PnP architecture.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "6edacf38",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_soc_pnp_architect_6edacf38.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mid-Level PDR Technician - $4,000 Bonus",
