@@ -51750,13 +51750,12 @@
     "url": "https://in.linkedin.com/jobs/view/chief-technology-officer-at-meraki-labs-4446770902",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is at a startup building AI-first products, which is not a direct match for Vineeth's semiconductor/EDA background.",
+    "reason": "The role is primarily a software engineering position and fails the mandatory keyword pre-filter (e.g., PDN, Redhawk, Voltus).",
     "id": "64897d23",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -51765,13 +51764,12 @@
     "url": "https://ro.linkedin.com/jobs/view/chief-technology-officer-at-radity-4444942509",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an executive-level engineering leadership role focused on building a global software engineering organization, not a technical role in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a software engineering CTO, which is outside Vineeth's domain and does not contain any of the mandatory semiconductor keywords.",
     "id": "dd70f6e0",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -51780,13 +51778,12 @@
     "url": "https://it.linkedin.com/jobs/view/chief-technology-officer-at-almost-real-4445003029",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an XR technology leader, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job posting does not contain any required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on XR software development rather than semiconductor or VLSI engineering.",
     "id": "874bbe88",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer (\u00a3100k-\u00a3140k + Equity) at VC-backed B2B marketplace scale-up",
@@ -51795,13 +51792,12 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-technology-officer-%C2%A3100k-%C2%A3140k-%2B-equity-at-vc-backed-b2b-marketplace-scale-up-at-jack-jill-4446773143",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an executive technology role at a B2B marketplace scale-up, unrelated to Vineeth's power integrity and VLSI background.",
+    "reason": "The job description does not contain any of the required semiconductor technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "2cf5fc1e",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding CTO (Equity) at silque",
@@ -51809,14 +51805,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/founding-cto-equity-at-silque-at-jack-jill-4446774071",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain of semiconductor/VLSI/EDA, and is a senior leadership role with equity at an early-stage startup.",
+    "matches_requirements": "no",
+    "reason": "The job posting does not contain any of the required semiconductor/VLSI/EDA keywords and is for a software-based creator economy platform.",
     "id": "efdb8f8e",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": "job_descriptions/jack___jill_founding_cto__equity__at_silqu_efdb8f8e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding VP of Engineering (CTO Track) (\u00a368,000 GBP + Equity) at iinvest",
@@ -51824,14 +51819,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/founding-vp-of-engineering-cto-track-%C2%A368-000-gbp-%2B-equity-at-iinvest-at-jack-jill-4446773139",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with technical skill overlap, but domain is unclear and salary is lower than typical for VP level at a startup.",
+    "matches_requirements": "no",
+    "reason": "The job is a software engineering leadership role in the fintech/AI space, which lacks the required semiconductor/VLSI/EDA keywords and domain expertise.",
     "id": "378d601a",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Vice President of Engineering, Silicon Photonics",
@@ -51840,13 +51834,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-vice-president-of-engineering-silicon-photonics-at-work-options-group-4447001880",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a senior VP role with no specific technical domain matching Vineeth's background. It requires a PhD which exceeds Vineeth's stated education level.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and requires U.S. residency/citizenship due to ITAR regulations.",
     "id": "e3152171",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principle Packaging Engineer",
@@ -51854,14 +51847,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/principle-packaging-engineer-at-ic-resources-4447019693",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with experience overlap, but domain not precisely matched",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "8b49fd57",
     "source": "linkedin_ww_semiconductor_principal_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Principal Electrical Engineer / Instrumentation",
@@ -51869,14 +51861,13 @@
     "location": "Andover, MA",
     "url": "https://www.linkedin.com/jobs/view/sr-principal-electrical-engineer-instrumentation-at-motion-recruitment-4447026516",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches leadership role exception with strong electrical engineering background.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "c5d553c1",
     "source": "linkedin_ww_semiconductor_principal_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Digital Engineer",
@@ -51885,13 +51876,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-digital-engineer-at-renesas-electronics-4447035085",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Principal Engineer position which is outside Vineeth's domain of expertise in Power Integrity and Packaging.",
+    "reason": "The role is primarily focused on mixed-signal verification and validation, which is explicitly excluded as a hard rejection, and it fails the mandatory keyword pre-filter.",
     "id": "5b91f947",
     "source": "linkedin_ww_semiconductor_principal_engineer",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "John Furth Peachy, Architect",
@@ -51900,13 +51890,12 @@
     "url": "https://www.linkedin.com/jobs/view/john-furth-peachy-architect-at-archinect-4423347366",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an architect position which falls outside Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job is for a construction architecture role and does not contain any required semiconductor keywords such as PDN, Redhawk, or Voltus.",
     "id": "34b9c97c",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -51915,13 +51904,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-jacobs-4399244112",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general architect position in facilities design, which does not match Vineeth's technical background and expertise in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a building architect in construction and facility design, not for VLSI, Power Integrity, or semiconductor engineering.",
     "id": "d1b708cc",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GenAI Architect",
@@ -51930,13 +51918,12 @@
     "url": "https://in.linkedin.com/jobs/view/genai-architect-at-hcltech-4347682270",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI architecture, machine learning, and software development for Generative AI solutions, which does not align with Vineeth's VLSI/EDA background in Power Integrity, packaging, and semiconductor design.",
+    "reason": "The job is for a Generative AI Architect role and does not contain the required semiconductor-specific keywords like PDN, Redhawk, or Power Integrity.",
     "id": "640c510a",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Module Development Engineer",
@@ -51945,13 +51932,12 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0283358",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily equipment development, manufacturing systems, and assembly processes which is outside Vineeth's main domains of Power Integrity/Signal Integrity (PI/SI), CAD/Methodology, Physical Design. It doesn't strongly match the top 4 preferred technical areas.",
+    "reason": "The job is an entry-level position for 'College Grad' and does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "7bcddd0d",
     "source": "intel_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Privacy Program Manager",
@@ -51960,13 +51946,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/86949?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical privacy program manager position at AMD, which does not match Vineeth's domain of VLSI/EDA/semiconductor technical roles.",
+    "reason": "The position is a non-technical privacy and compliance role that fails the mandatory keyword pre-filter and does not align with the candidate's VLSI/Power Integrity expertise.",
     "id": "89f6d18e",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Corporate Security Investigator",
