@@ -46360,13 +46360,12 @@
     "url": "https://de.linkedin.com/jobs/view/testingenieur-verification-engineer-m-w-d-medizintechnik-at-exco-gmbh-4443260771",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for verification engineering in a medical technology context, which does not match Vineeth's power integrity and packaging background.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is in the medical technology verification domain, which is outside the candidate's expertise.",
     "id": "4ce98692",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Validation Engineer",
@@ -46375,13 +46374,12 @@
     "url": "https://nl.linkedin.com/jobs/view/validation-engineer-at-progressive-4443293298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Validation Engineer in the pharmaceutical manufacturing industry, which is outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The job is in the pharmaceutical/biotech industry and does not contain any of the required semiconductor keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "f092c007",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AMS Verification Engineer (all gender)",
@@ -46390,13 +46388,12 @@
     "url": "https://de.linkedin.com/jobs/view/ams-verification-engineer-all-gender-at-alten-4443244638",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on AMS (analog/mixed-signal) verification, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is primarily focused on AMS verification, which is explicitly listed as a hard rejection for the candidate's domain.",
     "id": "bcaa6bef",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer (m/f/d)",
@@ -46405,13 +46402,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-design-engineer-m-f-d-at-segula-technologies-4443229952",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical design engineering role focused on automotive systems, not semiconductor VLSI EDA.",
+    "reason": "The job is for automotive mechanical design and does not involve Power Integrity, PDN analysis, or the specified VLSI tools.",
     "id": "2530dd2b",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46420,13 +46416,12 @@
     "url": "https://be.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445743885",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is open to many disciplines including technical, professional, and leadership roles which does not match Vineeth's domain.",
+    "reason": "The posting is a general talent pool/future opportunities invitation and does not contain the required technical keywords or a specific role description.",
     "id": "e941dc58",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Prototyping Engineer",
@@ -46434,14 +46429,13 @@
     "location": "Paris, \u00cele-de-France, France",
     "url": "https://fr.linkedin.com/jobs/view/fpga-prototyping-engineer-at-specs-4445483939",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves SoC prototyping and RTL integration, which is close to Vineeth's background in Power Integrity and advanced packaging.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on FPGA prototyping rather than the candidate's core domains.",
     "id": "20940f8d",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46450,13 +46444,12 @@
     "url": "https://fr.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445749445",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (HR) which is out of Vineeth's domain.",
+    "reason": "The posting is a general talent pool invitation and does not contain any of the required technical keywords such as PDN, EMIR, or Redhawk.",
     "id": "91f328b2",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scientist (Technical Operations)",
@@ -46465,13 +46458,12 @@
     "url": "https://uk.linkedin.com/jobs/view/scientist-technical-operations-at-oxford-nanopore-technologies-4330972940",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Scientist position at a biotech firm focused on DNA/RNA sequencing technology, which is unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is in the biotechnology/materials science domain (nanopore sequencing) and fails the mandatory keyword pre-filter for Power Integrity and VLSI-related terms.",
     "id": "7d07c4c9",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-23",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Manager",
@@ -46479,14 +46471,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-manager-at-smartsoc-solutions-pvt-ltd-4444507935",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Experienced Physical Design Manager role aligns with Vineeth's background in power integrity, advanced packaging and SoC physical design.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "479c0dbd",
     "source": "linkedin_india_physical_design",
-    "posted_date": "2026-07-30",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/smartsoc_solutions_p_physical_design_manager_479c0dbd.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ISDA Docs Negotiator, Fixed Income Division",
@@ -46495,13 +46486,12 @@
     "url": "https://in.linkedin.com/jobs/view/isda-docs-negotiator-fixed-income-division-at-morgan-stanley-4328995737",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is in law/finance, not semiconductor/VLSI/EDA as required.",
+    "reason": "This is a legal/finance role for ISDA documentation negotiation and does not meet any of the technical semiconductor or VLSI requirements or keywords.",
     "id": "ce195519",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer II, Power Electronics Hardware Design",
@@ -46510,13 +46500,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-ii-power-electronics-hardware-design-at-schneider-electric-4446707423",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for Power Electronics Hardware Design, not VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and focuses on Power Electronics hardware rather than SoC Power Integrity.",
     "id": "6c2a66f7",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Spontaneous Application (Full time contracts)",
@@ -46525,13 +46514,12 @@
     "url": "https://fr.linkedin.com/jobs/view/spontaneous-application-full-time-contracts-at-scaleway-4444524075",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not engineering/technical but full-time contracts position at a cloud computing company.",
+    "reason": "The posting is a spontaneous application for software development and does not contain any of the mandatory Power Integrity or EDA-specific keywords.",
     "id": "ab2678d0",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "GTM Engineer",
@@ -46540,13 +46528,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gtm-engineer-at-instantly-ai-4439260643",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a GTM (Go-to-Market) engineering role focused on building systems for revenue growth, not related to semiconductor VLSI EDA work.",
+    "reason": "The role is a Go-To-Market (GTM) engineering position at a software company, which does not involve the required semiconductor power integrity or physical design domains.",
     "id": "42669bc9",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Systems Implementation Engineer",
@@ -46555,13 +46542,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-systems-implementation-engineer-at-arm-4440777512",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job description fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "a84ce6ad",
     "source": "linkedin_uk_semiconductor_technical_leader_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Procurement Specialist",
@@ -46570,13 +46556,12 @@
     "url": "https://in.linkedin.com/jobs/view/procurement-specialist-at-tata-electronics-4444540119",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical procurement specialist role, not within Vineeth's semiconductor/EDA domain.",
+    "reason": "The role is a non-technical procurement position and fails the keyword pre-filter as it does not contain required technical terms like Power Integrity or Redhawk.",
     "id": "17fdc4fe",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Engineer, Architecture",
