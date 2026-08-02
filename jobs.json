@@ -60780,13 +60780,12 @@
     "url": "https://fi.linkedin.com/jobs/view/freelance-journal-selection-and-pre-submission-peer-reviewer-cybersecurity-at-cactus-communications-4445093808",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a freelance peer reviewer in cybersecurity, which falls outside Vineeth's expertise and target domains of power integrity, advanced packaging, or VLSI design.",
+    "reason": "The job is for an academic peer-review role in journal selection, which does not meet the required semiconductor/VLSI/EDA technical domain or keyword filters.",
     "id": "8ff5df91",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "3 uur geleden",
+    "posted_date": "2 p\u00e4iv\u00e4\u00e4 sitten",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Center Project Engineering Lead - Development",
@@ -60794,14 +60793,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/data-center-project-engineering-lead-development-at-verne-4447140340",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This role aligns with Vineeth's experience in project engineering within a data center context, focusing on technical alignment and execution - a good fit given his background.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "b99dc5fd",
     "source": "linkedin_fi_physical_design",
-    "posted_date": "4 uur geleden",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/verne_data_center_project_engineerin_b99dc5fd.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Director, Information Technology Infrastructure",
@@ -60810,13 +60808,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-director-information-technology-infrastructure-at-acm-global-laboratories-4445501608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Information Technology Director, which falls outside Vineeth's target domains of power integrity, advanced packaging, CAD methodology, and VLSI design.",
+    "reason": "The job is for an IT Infrastructure role and does not contain any of the required semiconductor or power integrity keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "9e6f43bd",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Security",
@@ -60825,13 +60822,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-security-at-monarch-quantum-4435905427",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Director of Security, focusing on cybersecurity and enterprise security, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
+    "reason": "The posting fails the keyword pre-filter as it does not contain any of the required semiconductor-related terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1c4772fc",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "6 uur geleden",
+    "posted_date": "2 p\u00e4iv\u00e4\u00e4 sitten",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Network Security Engineer",
@@ -60840,28 +60836,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-network-security-engineer-at-lantern-4446374860",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Network Security Engineer position, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The role is in Network Security, which is unrelated to the candidate's expertise in Power Integrity and VLSI, and it fails the mandatory keyword pre-filter.",
     "id": "67b1f99f",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "2 dagen geleden",
+    "posted_date": "5 p\u00e4iv\u00e4\u00e4 sitten",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "#System Software Engineer - Power",
-    "company": "Qualcomm",
-    "location": "San Diego, CA",
-    "url": "https://www.linkedin.com/jobs/view/%23system-software-engineer-power-at-qualcomm-4437069063",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily a software engineering position focusing on power optimization within system software, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
-    "id": "6860a815",
-    "source": "linkedin_ww_soc_design",
-    "posted_date": "1 dag geleden",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Network Engineer",
@@ -60870,13 +60850,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-network-engineer-at-saicon-4446787111",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior Network Engineer focused on network security and operations, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
+    "reason": "The role is for a Senior Network Engineer in IT infrastructure, which is entirely outside the candidate's domain of Power Integrity and VLSI/semiconductor design.",
     "id": "f6a84910",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "19 uur geleden",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead OT Cybersecurity Solutions Architect",
@@ -60885,13 +60864,12 @@
     "url": "https://in.linkedin.com/jobs/view/lead-ot-cybersecurity-solutions-architect-at-fpc-global-4435690557",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on OT Cybersecurity, which is outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
+    "reason": "The role is in the OT Cybersecurity domain for smart buildings and does not involve Power Integrity, PDN analysis, or any of the required semiconductor/EDA technologies.",
     "id": "f3ec3abc",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SOC Verification Engineer",
@@ -60900,13 +60878,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-verification-engineer-at-ust-4415188827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on verification (UVM/OVM/VMM), which falls outside Vineeth's domain of expertise.",
+    "reason": "The role is primarily a verification position (UVM/SystemVerilog/DV), which is explicitly listed as a hard rejection for the candidate's domain.",
     "id": "f95b60bf",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "US - Accounting",
@@ -60915,13 +60892,12 @@
     "url": "https://in.linkedin.com/jobs/view/us-accounting-at-calpion-inc-4445731670",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a US Accounts Executive, focusing on accounting tasks and taxation which falls outside Vineeth's expertise in power integrity, advanced packaging, or related areas.",
+    "reason": "The role is a non-technical accounting position, which does not match the candidate's expertise in Power Integrity or VLSI engineering.",
     "id": "121eb5cc",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded Systems Security Engineer (m/f/d)",
@@ -60930,13 +60906,12 @@
     "url": "https://in.linkedin.com/jobs/view/embedded-systems-security-engineer-m-f-d-at-nxp-semiconductors-4411421012",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on embedded systems security, which is a software-adjacent domain and falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job is for an Embedded Systems Security role and does not contain the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "519940c0",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Salesforce Developer",
@@ -60945,13 +60920,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-salesforce-developer-at-calpion-inc-4445745503",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Salesforce Developer, which falls under software development and is therefore outside Vineeth's domain of expertise.",
+    "reason": "The role is for a Salesforce Developer, which is a software development position and does not involve Power Integrity or the required hardware/VLSI technical domains.",
     "id": "21b2e9d5",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead SoC Architect",
@@ -60959,14 +60933,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/lead-soc-architect-at-weekday-ai-yc-w21-4444518914",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience and targets SoC architecture within a startup environment, specifically mentioning RISC-V which is a plus.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keyword filters (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "c90496d4",
     "source": "linkedin_india_soc_design_p2",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": "job_descriptions/weekday_ai__yc_w21__lead_soc_architect_c90496d4.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cybersecurity Engineer",
@@ -60975,13 +60948,12 @@
     "url": "https://ro.linkedin.com/jobs/view/cybersecurity-engineer-at-learnshift-4445039205",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Cybersecurity Engineer, which falls outside Vineeth's domain of focus on Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job is for a Cybersecurity Engineer role, which does not involve Power Integrity, Advanced Packaging, or any of the required semiconductor technical domains.",
     "id": "47fec494",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "OT Security Engineer (m/w/d)",
@@ -60990,13 +60962,12 @@
     "url": "https://ro.linkedin.com/jobs/view/ot-security-engineer-m-w-d-at-itc-infotech-4447135150",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on security engineering, specifically Splunk implementation and OT security which falls outside Vineeth's domain of power integrity, advanced packaging and related areas.",
+    "reason": "The position is for an OT Security Engineer in cybersecurity, which does not meet any of the required Power Integrity, VLSI, or EDA technical domains.",
     "id": "5a43ae2b",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead IT Systems Engineer",
