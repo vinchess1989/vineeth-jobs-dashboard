@@ -49888,28 +49888,12 @@
     "url": "https://in.linkedin.com/jobs/view/manufacturing-line-operator-at-larsen-toubro-4445682222",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level manufacturing line operator role, not a technical engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The job is an entry-level manufacturing production role and does not meet the mandatory keyword requirements or the candidate's seniority and technical expertise in Power Integrity and VLSI design.",
     "id": "fc430560",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Photovoltaics (Senior) Research Scientist",
-    "company": "Power Roll Ltd",
-    "location": "Seaham, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/photovoltaics-senior-research-scientist-at-power-roll-ltd-4444572402",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on photovoltaics research rather than semiconductor/VLSI/EDA technical domains.",
-    "id": "07526a83",
-    "source": "linkedin_uk_semiconductor",
-    "posted_date": "2026-07-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Data Centre",
@@ -49918,13 +49902,12 @@
     "url": "https://fi.linkedin.com/jobs/view/mechanical-data-centre-at-gs-group-4444545766",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Mechanical Data Centre position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for mechanical construction in a data centre and does not involve Power Integrity, VLSI design, or the required EDA tools.",
     "id": "2defbcd1",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -49933,13 +49916,12 @@
     "url": "https://in.linkedin.com/jobs/view/digital-design-engineer-at-texas-instruments-india-4444539915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Embedded Software Engineer) which is outside Vineeth's domain.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus.",
     "id": "9771bf8a",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer \u2013 PCBA Production Support",
@@ -49948,13 +49930,12 @@
     "url": "https://ro.linkedin.com/jobs/view/hardware-engineer-%E2%80%93-pcba-production-support-at-recrut-art-4444520734",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on PCB assembly processes, BOM maintenance and PLM systems. It does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or EDA CAD methodologies.",
+    "reason": "The job is an entry-level production support role that lacks the required technical keywords and is no longer accepting applications.",
     "id": "b21969da",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Layout Engineer - Impianti Automazione Industriale",
@@ -49963,13 +49944,12 @@
     "url": "https://it.linkedin.com/jobs/view/layout-engineer-impianti-automazione-industriale-at-winsearch-italia-4439205481",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a mechanical automation layout engineer, and does not match Vineeth's semiconductor/EDA/VLSI background in Power Integrity, CAD methodology, advanced packaging, SoC physical design.",
+    "reason": "The role is for mechanical layout in industrial automation plants, which is unrelated to the candidate's expertise in semiconductor power integrity and VLSI design.",
     "id": "e03db7b2",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCB Design and Verification Engineer",
@@ -49977,14 +49957,13 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/pcb-design-and-verification-engineer-at-fortaegis-technologies-4446757120",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This PCB design role is more focused on FPGA/MCU/ASIC integration and board validation rather than power integrity, packaging, or EDA tool applications which are key areas for Vineeth's experience.",
+    "matches_requirements": "maybe",
+    "reason": "The role matches the Power Integrity/PDN domain and the preferred European location, but the focus is on PCB-level design rather than the candidate's primary expertise in SoC PDN and Advanced Packaging.",
     "id": "554479cf",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer \u2013 PCBA Production Support",
@@ -49993,13 +49972,12 @@
     "url": "https://ro.linkedin.com/jobs/view/hardware-engineer-%E2%80%93-pcba-production-support-at-recrut-art-4444527858",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not in power integrity, advanced packaging, EDA/CAD or semiconductor domains which are Vineeth's expertise areas. It is hardware engineering focused on PCB assembly and BOM management.",
+    "reason": "The job fails the mandatory keyword pre-filter and is an entry-level production support role that does not align with the candidate's senior Power Integrity and leadership profile.",
     "id": "eb79e182",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -50008,13 +49986,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-at-kodu-4444567666",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on consumer product development with an emphasis on CAD design, mechanical engineering and production handover - this does not directly match Vineeth's background in power integrity, advanced packaging, SoC PDN, thermal analysis or EDA tool integration.",
+    "reason": "The role is for a Mechanical/Product Design Engineer in the consumer goods industry (floor care/home cleaning) and does not involve Power Integrity, VLSI, or semiconductor engineering.",
     "id": "4d26a683",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -50023,13 +50000,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-general-dynamics-uk-limited-4444584734",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware design for avionics systems, which does not match Vineeth's domain of Power Integrity, Advanced Packaging, and EDA. Additionally, it specifies a salary range and location that do not align.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required for the pre-filter.",
     "id": "055ddf13",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Lead",
@@ -50038,13 +50014,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-lead-at-erbity-4444521807",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL/ASIC/SOC design which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and the role focuses on RTL Design, which is outside the candidate's domain.",
     "id": "b9286f4d",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Lead",
@@ -50053,13 +50028,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-lead-at-erbity-4444519874",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL design, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and focuses on RTL design rather than the candidate's expertise in Power Integrity or Advanced Packaging.",
     "id": "b34fdf25",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Lead",
@@ -50068,13 +50042,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-lead-at-erbity-4444537460",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a mid-level RTL design role, not a senior leadership position like the candidate's background.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on RTL design rather than the candidate's expertise in Power Integrity or Advanced Packaging.",
     "id": "12bd3aea",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Layout Engineer",
@@ -50083,13 +50056,12 @@
     "url": "https://in.linkedin.com/jobs/view/analog-layout-engineer-at-mirafra-technologies-4446755332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an Analog Layout Engineer role, which does not match Vineeth's CAD/Methodology expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "caf8bf9e",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Architect",
@@ -50098,13 +50070,12 @@
     "url": "https://in.linkedin.com/jobs/view/rtl-design-architect-at-mirafra-technologies-4446735413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC RTL Design and Architecture, which does not directly match Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "46c60d87",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer, Brand & Creative (d/f/m)",
