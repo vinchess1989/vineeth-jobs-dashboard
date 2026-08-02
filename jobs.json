@@ -46990,13 +46990,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-ai-engineer-at-arm-4444525470",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily software development (AI tooling for engineering automation) rather than semiconductor/VLSI/EDA.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "457c0a1f",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HEAD OF MARKETING - THE PADELLERS",
@@ -47005,13 +47004,12 @@
     "url": "https://in.linkedin.com/jobs/view/head-of-marketing-the-padellers-at-the-padellers-4444509154",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a marketing leadership position, outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "This is a non-technical marketing role for a sports organization and does not meet the mandatory keyword or technical domain requirements for Power Integrity or VLSI engineering.",
     "id": "a2e8fc80",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sol Semilla",
@@ -47020,13 +47018,12 @@
     "url": "https://uk.linkedin.com/jobs/view/sol-semilla-at-hoba-4446702651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a culinary role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a restaurant/food service business and does not fall within the semiconductor, VLSI, or EDA engineering domains.",
     "id": "6b08aedc",
     "source": "linkedin_uk_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Scientist Biology",
@@ -47035,13 +47032,12 @@
     "url": "https://in.linkedin.com/jobs/view/research-scientist-biology-at-pi-industries-ltd-4446722553",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical research scientist role at a chemical manufacturing company, which does not match the semiconductor/VLSI/EDA industry focus. It was automatically discarded based on the hard rejection criteria.",
+    "reason": "The job is for a Research Scientist in Biology and Agriculture, which is unrelated to the candidate's expertise in semiconductor Power Integrity and VLSI.",
     "id": "796b90d1",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Trade Support Analyst",
@@ -47050,13 +47046,12 @@
     "url": "https://in.linkedin.com/jobs/view/trade-support-analyst-at-artech-l-l-c-4446499630",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Trade Support Analyst role in financial derivatives, which is outside Vineeth's semiconductor/VLSI/EDA background and skills.",
+    "reason": "The position is a finance/trade support role in investment banking, which does not align with the candidate's semiconductor/VLSI engineering expertise.",
     "id": "c49b7f20",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI, Data & Analytics",
@@ -47065,13 +47060,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-data-analytics-at-sarvodayaventures-4445382597",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software development position focused on AI and data analytics, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job posting fails the mandatory keyword pre-filter (no mention of PDN, Redhawk, Voltus, etc.) and is for an AI/Data Analytics role, which is outside the candidate's Power Integrity and VLSI expertise.",
     "id": "dcb2d5d6",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Tuoteasiantuntija",
@@ -47080,13 +47074,12 @@
     "url": "https://fi.linkedin.com/jobs/view/tuoteasiantuntija-at-vantaan-energia-oy-4444534363",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a product specialist role at an energy company, which does not match Vineeth's semiconductor/VLSI/EDA background and skills.",
+    "reason": "The job is in the energy and utilities sector (district heating) rather than the semiconductor/VLSI industry and fails the mandatory keyword pre-filter.",
     "id": "7cb31586",
     "source": "linkedin_fi_thermal",
     "posted_date": "2026-07-30",
     "deadline": "2026-08-18",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Characterisation",
@@ -47095,13 +47088,12 @@
     "url": "https://uk.linkedin.com/jobs/view/director-of-characterisation-at-graphcore-4446428262",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on AI silicon characterization, not semiconductor power integrity, advanced packaging, or EDA.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1a896f71",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Fellow, Instinct GPU Products & Roadmap",
@@ -47110,13 +47102,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-fellow-instinct-gpu-products-roadmap-at-amd-4378995820",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a senior leadership position focused on shaping future GPU product strategy and direction, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "b83021f7",
     "source": "linkedin_ww_semiconductor_cto_p2",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff/Principal PIC Design Engineer",
@@ -47124,14 +47115,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-principal-pic-design-engineer-at-oriole-4444538512",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domains of photonics design, semiconductor layout, and software engineering.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on Photonic Integrated Circuit (PIC) design rather than Power Integrity.",
     "id": "965e8796",
     "source": "linkedin_uk_semiconductor_principal_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": "job_descriptions/oriole_staff_principal_pic_design_eng_965e8796.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Architect, GPU and SoC Modelling",
@@ -47139,14 +47129,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-architect-gpu-and-soc-modelling-at-nvidia-4445780708",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves SoC modeling, which matches Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "7936a4e1",
     "source": "linkedin_india_semiconductor_architect_p3",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/nvidia_senior_architect__gpu_and_soc__7936a4e1.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Principal - IP Design",
@@ -47155,13 +47144,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-principal-ip-design-at-nxp-semiconductors-4428804827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily IP design, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging. He has extensive experience with PI/Advanced packaging but not with complex IP development.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "c00227d3",
     "source": "linkedin_india_semiconductor_architect_p3",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Migration Architect",
@@ -47170,13 +47158,12 @@
     "url": "https://uk.linkedin.com/jobs/view/migration-architect-at-hackajob-4445746421",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Migration Architecture for AWS, which does not closely match Vineeth's background in Power Integrity and VLSI/EDA.",
+    "reason": "The role is for AWS cloud infrastructure migration and does not involve Power Integrity, VLSI design, or semiconductor engineering.",
     "id": "7007f0b4",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -47185,13 +47172,12 @@
     "url": "https://uk.linkedin.com/jobs/view/architect-at-white-space-recruitment-4446071134",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical architectural role, outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The job is for a building architecture position (Architecture and Planning) and does not contain any of the required technical keywords for the semiconductor industry.",
     "id": "72016d58",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded Linux IP subsystem Protocols development Engineer",
@@ -47200,13 +47186,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87104?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The role is primarily software development (Embedded Linux), which is explicitly excluded as it is outside the candidate's domain of Power Integrity and Advanced Packaging.",
     "id": "d824346f",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Litigation Counsel",
