@@ -43036,20 +43036,6 @@
     "description_file": null
   },
   {
-    "title": "Senior Software Developer - Amazon Robotics , Autonomous Mobility",
-    "company": "Amazon.com Services LLC",
-    "location": "USA, MA, North Reading",
-    "url": "https://www.indeed.com/rc/clk?jk=c277e913a2d49c61",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development for robotics, which is explicitly excluded as it falls outside the candidate's domain of Power Integrity and VLSI.",
-    "id": "615c102c",
-    "source": "indeed_ww_semiconductor_architect",
-    "posted_date": "2026-07-31",
-    "deadline": "2026-08-01",
-    "description_file": null
-  },
-  {
     "title": "Senior Software Developer - Amazon Robotics , Autonomous Mobility salaries in North Reading, MA",
     "company": "Amazon Robotics",
     "location": "North Reading, MA, USA",
@@ -54390,20 +54376,6 @@
     "description_file": null
   },
   {
-    "title": "Distinguished Engineer, End-to-End Scaling Performance Architecture",
-    "company": "NVIDIA AI",
-    "location": "Redmond, WA",
-    "url": "https://www.linkedin.com/jobs/view/distinguished-engineer-end-to-end-scaling-performance-architecture-at-nvidia-ai-4445036724",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is not focused on the candidate's core domain of Power Integrity.",
-    "id": "c6fb0abe",
-    "source": "linkedin_ww_semiconductor_architect",
-    "posted_date": "2026-07-31",
-    "deadline": "2026-08-01",
-    "description_file": null
-  },
-  {
     "title": "Fellow Software Engineer \u2014 AI Performance & Reliability",
     "company": "AMD",
     "location": "San Jose, California, USA",
@@ -60388,43 +60360,40 @@
     "url": "https://uk.linkedin.com/jobs/view/chief-architect-at-gs-group-4447528824",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role, while senior level, focuses on optical interconnect architecture which falls outside Vineeth's primary expertise in power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) for the preliminary technical filter.",
     "id": "275c758d",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SMTS Packaging Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "AMD",
+    "location": "Hsinchu, Taiwan",
     "url": "https://careers.amd.com/careers-home/jobs/89226?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required by the keyword pre-filter.",
     "id": "c0317a36",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Verification Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "AMD",
+    "location": "Markham, Canada",
     "url": "https://careers.amd.com/careers-home/jobs/89215?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on verification (UVM, SystemVerilog), which is explicitly listed as a hard rejection criterion as it is outside the candidate's domain.",
     "id": "5d5ff6d4",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PMTS Packaging Engineer",
@@ -60432,29 +60401,27 @@
     "location": "Hsinchu, Taiwan",
     "url": "https://careers.amd.com/careers-home/jobs/89225?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's advanced packaging and leadership experience, focusing on assembly technology development.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "1817e0d9",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/amd_pmts_packaging_engineer_1817e0d9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI/ML Silicon Verification Solutions Engineer \u2013 Tools",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "AMD",
+    "location": "San Jose, CA, USA",
     "url": "https://careers.amd.com/careers-home/jobs/88534?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is for Design Verification (RTL/UVM), which is outside Vineeth's domain of Power Integrity and Packaging, and the position explicitly excludes visa sponsorship for a US location.",
     "id": "46e55561",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer /Senior Engineer (Verification)",
@@ -60463,13 +60430,12 @@
     "url": "https://careers.arm.com/job/bengaluru/engineer-senior-engineer-verification/33099/98567425360",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is explicitly a Verification Engineer position, which falls outside Vineeth's domain of expertise.",
+    "reason": "The job lacks the required Power Integrity keywords and is primarily a verification role, which is explicitly listed as a hard rejection for the candidate's domain.",
     "id": "dc9bb8a7",
     "source": "arm_careers",
     "posted_date": "jul. 31, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Debug Subsystem Validation Engineer",
@@ -60477,14 +60443,13 @@
     "location": "Bengaluru, India",
     "url": "https://careers.arm.com/job/bengaluru/soc-debug-subsystem-validation-engineer/33099/98567423104",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on validation and debug infrastructure, which falls outside of Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "de9cea03",
     "source": "arm_careers",
-    "posted_date": "jul. 31, 2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Platform EngineerPolar SquadTampereGo to job site",
@@ -60493,13 +60458,12 @@
     "url": "https://www.jobly.fi/en/job/platform-engineer-2724584",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "18ff2a3c",
     "source": "work_in_finland",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Technical Intern",
@@ -60508,13 +60472,12 @@
     "url": "https://www.linkedin.com/jobs/view/graduate-technical-intern-at-bitmovin-4447554442",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a graduate internship, which falls outside Vineeth's experience level and target roles focused on leadership and technical expertise.",
+    "reason": "The role is a software development internship for early-career graduates and does not meet the required technical domain (PI, Packaging, CAD) or experience level.",
     "id": "955c8f48",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -60523,13 +60486,12 @@
     "url": "https://uk.linkedin.com/jobs/view/physical-design-engineer-at-oho-group-4447144620",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on GPU software engineering, which falls outside Vineeth's area of expertise in power integrity and advanced packaging.",
+    "reason": "The job description lacks all required keywords (PDN, EMIR, Redhawk, etc.) and is primarily a software development role for GPU programming (C/C++, CUDA), which is outside the candidate's domain.",
     "id": "0b6e5564",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CoDesign & NextGen - New College Grad",
@@ -60538,13 +60500,12 @@
     "url": "https://www.linkedin.com/jobs/view/codesign-nextgen-new-college-grad-at-cerebras-4447528939",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a new college grad role, which falls outside of Vineeth's experience level and focus on senior leadership positions.",
+    "reason": "The job is an entry-level position for new college graduates and fails the mandatory keyword pre-filter for Power Integrity/EDA tools.",
     "id": "59eb7504",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Systems Development Engineer",
@@ -60553,13 +60514,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-systems-development-engineer-at-analog-devices-4443626046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level FPGA Systems Development Engineer, which falls outside Vineeth's experience and expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The position is an entry-level FPGA development role and fails the mandatory keyword pre-filter for Power Integrity/PDN-related skills.",
     "id": "e4a7944a",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -60568,13 +60528,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-lancesoft-inc-4445796113",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a contract position for an FPGA Design/Verification Engineer, which falls under verification and software development, explicitly excluding Vineeth's expertise.",
+    "reason": "The role is for FPGA Design/Verification and does not contain any of the mandatory Power Integrity or PDN keywords.",
     "id": "9e6c08a2",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FTTX Design Engineer",
@@ -60583,13 +60542,12 @@
     "url": "https://in.linkedin.com/jobs/view/fttx-design-engineer-at-capgemini-4444952171",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on network engineering and does not align with Vineeth's expertise in power integrity, advanced packaging, or VLSI.",
+    "reason": "The job is for FTTX network engineering and does not involve Power Integrity, VLSI, or any of the required semiconductor technical domains.",
     "id": "02df54c7",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Quantum Engineer - QPU Design",
@@ -60598,13 +60556,12 @@
     "url": "https://uk.linkedin.com/jobs/view/quantum-engineer-qpu-design-at-oxford-quantum-circuits-oqc-4447536398",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on quantum processor design and superconducting circuits, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on quantum computing rather than the required VLSI or Power Integrity domains.",
     "id": "e31cf6cc",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -62838,36 +62795,6 @@
     "source": "linkedin_ww_physical_design",
     "posted_date": "vor 5 stunden",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "ASIC Physical Design Technical Lead",
-    "company": "Cisco",
-    "location": "Austin, TX",
-    "url": "https://www.linkedin.com/jobs/view/asic-physical-design-technical-lead-at-cisco-4428156897",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in Austin, TX, USA, which violates the location requirements due to needing visa sponsorship.",
-    "id": "2213b18e",
-    "source": "linkedin_ww_physical_design",
-    "posted_date": "vor 6 tagen",
-    "deadline": "2026-08-01",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "ASIC Physical Design Technical Lead",
-    "company": "Cisco",
-    "location": "Triangle, NC",
-    "url": "https://www.linkedin.com/jobs/view/asic-physical-design-technical-lead-at-cisco-4428170046",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on ASIC Physical Design, which while related to Vineeth's experience, isn't a primary match given his Power Integrity & Advanced Packaging expertise.",
-    "id": "665c0c3c",
-    "source": "linkedin_ww_physical_design",
-    "posted_date": "2026-07-26",
-    "deadline": "2026-08-01",
     "description_file": null,
     "needs_re_review": true
   },
