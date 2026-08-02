@@ -50924,13 +50924,12 @@
     "url": "https://in.linkedin.com/jobs/view/frames-at-segula-technologies-4443243803",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for chassis system design using CAD tools like CATIA, which is unrelated to semiconductor VLSI EDA.",
+    "reason": "The job is for automotive mechanical CAD design (Chassis/BIW) and does not contain any of the required semiconductor or Power Integrity keywords.",
     "id": "8362fd5c",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -50939,13 +50938,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-acg-world-4443280797",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a mechanical engineering design role in pharmaceutical packaging machine manufacturing, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a mechanical engineering role in pharmaceutical manufacturing, which does not meet the semiconductor/VLSI/EDA domain requirements and lacks any of the required technical keywords.",
     "id": "be3bdc43",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -50954,13 +50952,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-infosys-4444388892",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a plastics product design role for automotive, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is for mechanical/automotive plastics design, which does not align with the required semiconductor, VLSI, or EDA technical domains.",
     "id": "7e4b2788",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur Conception et R\u00e9alisation des M\u00e9thodes Guid\u00e9es de Diagnostic",
@@ -50969,13 +50966,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-conception-et-r%C3%A9alisation-des-m%C3%A9thodes-guid%C3%A9es-de-diagnostic-at-stellantis-4443260138",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a design engineering role focused on developing diagnostic methods for vehicles and components, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level automotive diagnostic role unrelated to the candidate's expertise.",
     "id": "4c048d95",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engenheiros/as para Projeto Petroqu\u00edmico em Sines (36 meses)",
@@ -50984,13 +50980,12 @@
     "url": "https://pt.linkedin.com/jobs/view/engenheiros-as-para-projeto-petroqu%C3%ADmico-em-sines-36-meses-at-eia21-4445744166",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for engineering project management in petrochemical projects, which is a non-technical domain and does not match Vineeth's VLSI/EDA background.",
+    "reason": "The job is for petrochemical project engineering (civil, piping, etc.) and does not fall within the semiconductor, VLSI, or EDA domains.",
     "id": "f1498fec",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Progettista",
@@ -50999,13 +50994,12 @@
     "url": "https://it.linkedin.com/jobs/view/progettista-at-jobtech-4446315389",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a mechatronics engineer design position, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It is also a full-time position at a digital job agency rather than an engineering company.",
+    "reason": "The job description does not contain any of the required keywords and is for industrial mechatronics design rather than semiconductor power integrity or VLSI engineering.",
     "id": "56860d92",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Agentic System & Application Engineer",
@@ -51013,14 +51007,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-agentic-system-application-engineer-at-amd-4445010644",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role involves AI systems for HPC workflows, but no specific mention of PI/Package/SoC design. Vineeth's experience is a close match.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a software/AI systems role rather than a VLSI/PI/Packaging role.",
     "id": "25eaf84c",
     "source": "linkedin_fi_eda_design_automation",
     "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Principal I/O SoC Architect",
@@ -51029,13 +51022,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-principal-i-o-soc-architect-at-ampere-4446386948",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a SoC Architect with focus on I/O subsystems, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role is located in the US without explicit mention of visa sponsorship or relocation, which is a requirement for a 'yes' match.",
     "id": "2898dae2",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Don't See A Perfect Role? Apply Anyway!",
@@ -51044,13 +51036,12 @@
     "url": "https://www.linkedin.com/jobs/view/don-t-see-a-perfect-role%3F-apply-anyway%21-at-pogo-4447015269",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a generic application invitation, not a specific job posting. It does not contain details like company name, location, or even a title for what role they are hiring for.",
+    "reason": "The posting is a general talent community application and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "5450245f",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mes",
@@ -51059,13 +51050,12 @@
     "url": "https://in.linkedin.com/jobs/view/mes-at-padget-electronics-private-limited-dixon-4446796318",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on general business operations and manufacturing rather than semiconductor VLSI EDA technical domains.",
+    "reason": "The posting does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.) and is an entry-level general business/management role rather than a VLSI or Power Integrity engineering position.",
     "id": "35185d93",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Customer Sales Executive-Foods",
@@ -51074,13 +51064,12 @@
     "url": "https://in.linkedin.com/jobs/view/customer-sales-executive-foods-at-pepsico-4443353548",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales role for a food/beverage company, not related to semiconductors/VLSI/EDA. Discarded per hard rejection rule.",
+    "reason": "The job is a non-technical sales role in the food and beverage industry, which is outside the candidate's expertise in VLSI and Power Integrity.",
     "id": "a2f9fbcd",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Specialist - Customer Service",
@@ -51089,13 +51078,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-specialist-customer-service-at-pratt-whitney-4446725640",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is customer service focused, unrelated to semiconductor/VLSI/EDA domain skills and roles requested.",
+    "reason": "The position is for Customer Service/Data Stewardship and does not fall within the required semiconductor engineering domains or pass the mandatory keyword pre-filter.",
     "id": "a1bec978",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Specialist",
@@ -51104,13 +51092,12 @@
     "url": "https://es.linkedin.com/jobs/view/product-specialist-at-w-hunt-espa%C3%B1a-4446311189",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Product Specialist focused on development, production, and product management for consumer products, which does not match Vineeth's background in semiconductor power integrity, packaging, EDA tools, VLSI/SoC design.",
+    "reason": "The job is for children's product development in the consumer goods industry and does not meet the mandatory semiconductor/VLSI/EDA keyword pre-filter or technical domain requirements.",
     "id": "1b894d95",
     "source": "linkedin_eu_pdn",
-    "posted_date": "2 p\u00e4iv\u00e4\u00e4 sitten",
+    "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "International VM Men Universe H/F",
@@ -51119,13 +51106,12 @@
     "url": "https://fr.linkedin.com/jobs/view/international-vm-men-universe-h-f-at-christian-dior-couture-4420609819",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is in fashion retail Visual Merchandising for a luxury brand, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Visual Merchandising role in the luxury fashion industry and does not meet any of the technical requirements for semiconductor or VLSI engineering.",
     "id": "3cd68767",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Category Lead Software - Madrid",
@@ -51134,13 +51120,12 @@
     "url": "https://es.linkedin.com/jobs/view/category-lead-software-madrid-at-philip-morris-international-4446859371",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Product Category Lead in digital solutions, not a technical role in semiconductor/VLSI/EDA",
+    "reason": "The job is a non-technical procurement role for IT services and does not contain any of the required semiconductor keywords (e.g., PDN, Redhawk, Voltus).",
     "id": "bee46437",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CANDIDATURE SPONTANEE",
