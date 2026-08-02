@@ -58526,13 +58526,12 @@
     "url": "https://fi.linkedin.com/jobs/view/document-controller-at-thor-4445073866",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is administrative document control for hyperscale data center construction, which does not match Vineeth's technical domains of VLSI/EDA and power integrity.",
+    "reason": "The role is an administrative Document Controller position, which is a non-technical role and does not match the candidate's engineering expertise.",
     "id": "b2d2892a",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer (all gender) \u2013 Altium Designer & Leiterplattenentwicklung",
@@ -58541,13 +58540,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-engineer-all-gender-%E2%80%93-altium-designer-leiterplattenentwicklung-at-alten-germany-4445075796",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on PCB design, Altium Designer usage and migration, which does not match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The job fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a junior-level PCB layout role.",
     "id": "2d607871",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -58556,13 +58554,12 @@
     "url": "https://nl.linkedin.com/jobs/view/hardware-engineer-at-cowmanager-4446987446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on general hardware development using Altium Designer, which does not closely match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) and describes a PCB-centric hardware engineering role for IoT sensors rather than a VLSI/IC power integrity role.",
     "id": "03b9c591",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design / Senior Design Engineer",
@@ -58571,13 +58568,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-senior-design-engineer-at-cosworth-4446991665",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Design Engineer at Cosworth, which is primarily focused on motorsports engineering and vehicle design. This is unrelated to semiconductor/VLSI/EDA fields that Vineeth Kaimal specializes in.",
+    "reason": "The job is for a mechanical/automotive design role at a vehicle manufacturer and does not contain any of the required power integrity or semiconductor-specific keywords.",
     "id": "a431d0aa",
     "source": "linkedin_uk_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2 p\u00e4iv\u00e4\u00e4 sitten",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PCB Layout Engineer",
@@ -58586,13 +58582,12 @@
     "url": "https://uk.linkedin.com/jobs/view/pcb-layout-engineer-at-avd-appoint-4447288446",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a PCB Layout Engineer focused on Altium design, which does not match Vineeth's background in Power Integrity and CAD methodology for semiconductor/EDA.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and focuses on board-level PCB layout rather than IC-level power integrity.",
     "id": "c64b8dcf",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer",
@@ -58601,13 +58596,12 @@
     "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-oakmont-consulting-4445076954",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware engineering, which does not match Vineeth's background of Power Integrity and EDA tools.",
+    "reason": "The job description lacks the required keywords (PDN, Redhawk, Voltus, etc.) and focuses on PCB design for drones rather than the candidate's expertise in VLSI Power Integrity and Advanced Packaging.",
     "id": "77f6865a",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -58616,13 +58610,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-amfg-4430555528",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job role is for a software engineer developing tools to optimize manufacturing processes, which falls outside Vineeth's expertise in semiconductor design and EDA tools.",
+    "reason": "The role is for mechanical/production engineering in CNC machining and advanced manufacturing, which does not align with the candidate's expertise in VLSI Power Integrity and SoC design.",
     "id": "71613457",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "N/A",
+    "posted_date": "1 kuukausi sitten",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Optical Designer",
@@ -58631,13 +58624,12 @@
     "url": "https://uk.linkedin.com/jobs/view/optical-designer-at-enterprise-recruitment-ltd-4445027018",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is optical design and does not involve semiconductor, VLSI, EDA, power integrity, packaging or physical design.",
+    "reason": "The job is for an Optical Designer role and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) or relate to the specified semiconductor/VLSI domains.",
     "id": "f7f927a4",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Projekti-insin\u00f6\u00f6ri",
@@ -58646,13 +58638,12 @@
     "url": "https://fi.linkedin.com/jobs/view/projekti-insin%C3%B6%C3%B6ri-at-folka-henkil%C3%B6st%C3%B6palvelut-4447273959",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a project engineer at a transportation equipment company, which does not match Vineeth's semiconductor/VLSI/EDA technical background and experience.",
+    "reason": "The job is for a mechanical project engineer in the material handling industry and does not meet the required semiconductor/VLSI domain or keyword filters.",
     "id": "7ab2e3b3",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-16",
+    "description_file": null
   },
   {
     "title": "Senior FreeCAD Engineer - Remote",
@@ -58661,13 +58652,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-freecad-engineer-remote-at-yo-it-consulting-4446987439",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a match for Vineeth's technical background in semiconductor, VLSI, EDA - this is a mechanical CAD/SKILLS modeling role with FreeCAD.",
+    "reason": "The job does not contain any required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) and is a mechanical CAD engineering role, which falls outside the semiconductor/VLSI domain.",
     "id": "51f44ed7",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Executive Officer",
@@ -58676,13 +58666,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-executive-officer-at-humble-vascular-surgical-center-inc-4436137387",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical healthcare leadership position and does not match Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job is a non-technical healthcare management role (CEO of a surgical center) and does not contain any of the required semiconductor/VLSI/EDA keywords.",
     "id": "0154295a",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer - Power Integrity",
@@ -58691,13 +58680,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-staff-engineer-power-integrity-at-mediatek-4446977959",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "This senior role is a technical leadership position focused on Power Integrity and IR drop analysis, directly matching Vineeth's experience. It involves SoC PDN sign-off, EM/IR drop analysis, fixing solutions for design weaknesses, automation skills, and leading a small team.",
+    "reason": "The role perfectly aligns with the candidate's 15 years of experience in Power Integrity, requiring 12+ years of expertise in IR drop analysis using RedHawk-SC and Voltus in India.",
     "id": "9d44caa0",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": "job_descriptions/mediatek_senior_staff_engineer___power__9d44caa0.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/mediatek_senior_staff_engineer___power__9d44caa0.txt"
   },
   {
     "title": "Senior Hardware Engineer",
@@ -58706,13 +58694,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-hardware-engineer-at-u-blox-4447285825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development with C/C++/embedded systems focus, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on board-level hardware and RF design rather than VLSI/Power Integrity.",
     "id": "0d11b06b",
     "source": "linkedin_fi_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Hardware Engineer",
@@ -58721,13 +58708,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-hardware-engineer-at-u-blox-4447298498",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware engineering for GNSS products, which doesn't match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RF and analog hardware rather than Power Integrity.",
     "id": "d9b20031",
     "source": "linkedin_fi_advanced_packaging",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sensit",
@@ -58736,13 +58722,12 @@
     "url": "https://in.linkedin.com/jobs/view/sensit-at-fasek-d-o-o-4447110385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an entry-level, full-time position and does not match Vineeth's senior leadership experience level.",
+    "reason": "The job description fails the keyword pre-filter as it contains none of the required technical terms (PDN, Redhawk, Power Integrity, etc.) and belongs to the oil and gas industry.",
     "id": "ddb4b8d9",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SPEC PILOT WRITER",
