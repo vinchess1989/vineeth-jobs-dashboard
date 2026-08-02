@@ -48838,13 +48838,12 @@
     "url": "https://www.linkedin.com/jobs/view/power-architect-new-college-grad-2026-at-nvidia-4413186220",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a new college grad role for an architect, which is not a strong match for Vineeth's experience in power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is an entry-level role for new college graduates.",
     "id": "9f34e693",
     "source": "linkedin_ww_semiconductor_architect_p2",
     "posted_date": "2026-07-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -48853,13 +48852,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-jacobs-4399231541",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on design and architecture of production facilities for various industries including pharmaceutical, FMCG, microelectronics sectors. This does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "This is a building and facility architecture role for pharmaceutical and electronics manufacturing sites, not a VLSI/EDA engineering position, and it fails the mandatory keyword pre-filter.",
     "id": "ad7721ae",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect",
@@ -48868,13 +48866,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-at-pwc-4446714146",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software development position focused on building AI solutions for Finance and ERP Managed Services, which does not match Vineeth's background in semiconductor/VLSI/EDA.",
+    "reason": "The role is for an AI/ML and GenAI solution architecture in the finance/ERP domain and does not involve Power Integrity, VLSI, or semiconductor technology.",
     "id": "0ed90d3b",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect - Backend Engineering",
@@ -48883,13 +48880,12 @@
     "url": "https://in.linkedin.com/jobs/view/architect-backend-engineering-at-zee-technology-innovation-4377174378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a backend software architecture role at an OTT platform, which is outside Vineeth's primary domains of expertise in power integrity, packaging and thermal analysis.",
+    "reason": "The job is for a backend software engineering role and does not contain any of the required semiconductor/VLSI power integrity keywords.",
     "id": "16c31639",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2026-03-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ARQUITECTO/A JUNIOR",
@@ -48898,13 +48894,12 @@
     "url": "https://es.linkedin.com/jobs/view/arquitecto-a-junior-at-multi%C3%B3pticas-4425876936",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a junior-level architecture role in retail store design and renovations, which does not match Vineeth's technical leadership background in semiconductor VLSI EDA Power Integrity & Advanced Packaging domains.",
+    "reason": "The role is for a retail architecture/interior design position, which does not match the required semiconductor, VLSI, or EDA engineering domains.",
     "id": "ef773d78",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architect (m/f/d) \u2013 Remote from Athens, Greece",
@@ -48913,13 +48908,12 @@
     "url": "https://gr.linkedin.com/jobs/view/architect-m-f-d-%E2%80%93-remote-from-athens-greece-at-bck-architektur-gmbh-4420239801",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an architecture position, not a technical engineering role in semiconductor/VLSI/EDA.",
+    "reason": "The job is for a civil/building architecture role in the construction industry, which does not match the required semiconductor/VLSI/EDA domain.",
     "id": "fc93aada",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Arkkitehti",
@@ -48927,14 +48921,13 @@
     "location": "Tampere, Pirkanmaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/arkkitehti-at-61n-4444574469",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role of Architect at 61N closely matches Vineeth's background in Power Integrity and Advanced Packaging, with requirements for experience in critical systems architecture, high availability and high security systems design.",
+    "matches_requirements": "no",
+    "reason": "The role is for software systems architecture and IT consulting, which does not align with the candidate's specialized expertise in VLSI Power Integrity, hardware design, or semiconductor CAD methodology.",
     "id": "522e5449",
     "source": "linkedin_fi_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/61n_arkkitehti_522e5449.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Design Engineer Architect",
@@ -48942,14 +48935,13 @@
     "location": "Cupertino, California, United States",
     "url": "https://www.indeed.com/rc/clk?jk=c68ee3a449340e05",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a very specialized camera design engineering position at Apple which focuses on electrical architecture and integration of camera modules across their product portfolio. This is far outside Vineeth's core expertise areas of Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis and CAD Methodology.",
+    "matches_requirements": "yes",
+    "reason": "This is a senior architecture leadership role focusing on PDN, signal integrity, and cross-functional hardware design, which aligns with the candidate's 15 years of experience and technical expertise.",
     "id": "1955bc1d",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/apple_module_design_engineer_archite_1955bc1d.txt"
   },
   {
     "title": "Module Design Engineer Architect salaries in Cupertino, CA",
@@ -48958,13 +48950,12 @@
     "url": "https://www.indeed.com/career/design-engineer/salaries/Cupertino--CA?campaignid=serp-more&fromjk=c68ee3a449340e05&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Engineer, which is an entry-level/mid-level role with less than 7 years of experience. Vineeth Prathapachandra Kaimal has 15+ years of technical leadership experience in Power Integrity and Advanced Packaging domains.",
+    "reason": "The provided link is a salary research page on Indeed, not an actual job posting.",
     "id": "c11abd61",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Architect, Principal (AI Inference)",
@@ -48973,13 +48964,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=1878b4d83c585364",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on AI inference accelerators, which is outside Vineeth's domain of VLSI/EDA/semiconductor technical areas.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "818fb887",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Architect, Principal (AI Inference) salaries in Remote",
@@ -48988,13 +48978,12 @@
     "url": "https://www.indeed.com/career/principal-ai-architect/salaries?campaignid=serp-more&fromjk=1878b4d83c585364&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI inference architecture, which does not directly match Vineeth's technical background in power integrity, advanced packaging, and EDA tool flows.",
+    "reason": "The provided link is a salary research page rather than a specific job posting, and it contains none of the required technical keywords.",
     "id": "2d6a26ac",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Architect",
@@ -49003,13 +48992,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=decd0fd8a1ab8a12",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on ASIC RTL design, which falls outside Vineeth's primary domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL/Architecture rather than Power Integrity or Packaging.",
     "id": "711c262a",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Architect salaries in Remote",
@@ -49018,13 +49006,12 @@
     "url": "https://www.indeed.com/career/architect/salaries?campaignid=serp-more&fromjk=decd0fd8a1ab8a12&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job title is for an Architect, which does not match the required technical roles in semiconductor/VLSI/EDA. The description text mentions salaries for an 'Architect' rather than any engineering positions.",
+    "reason": "The provided link and description are for a salary research tool on Indeed, not a specific job posting.",
     "id": "455f3d23",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM Architect",
@@ -49033,13 +49020,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=fd39294b2187272f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on HBM design for DRAM products, which does not directly match Vineeth's power integrity and advanced packaging expertise. It also requires different technical skills in digital/analog custom IC design.",
+    "reason": "The job title and description do not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required to pass the initial pre-filter.",
     "id": "3acd0237",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM Architect salaries in San Jose, CA",
@@ -49048,13 +49034,12 @@
     "url": "https://www.indeed.com/career/architect/salaries/San-Jose--CA?campaignid=serp-more&fromjk=fd39294b2187272f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a technical engineering position, but general HBM architecture and salaries",
+    "reason": "The provided URL is a salary research page rather than an active job posting.",
     "id": "19800ed3",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Software Engineering Lead",

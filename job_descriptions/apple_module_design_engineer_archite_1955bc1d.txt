@@ -1,0 +1,210 @@
+Title: Module Design Engineer Architect
+Company: Apple
+Location: Cupertino, California, United States
+URL: https://www.indeed.com/rc/clk?jk=c68ee3a449340e05
+Posted: 2026-07-21
+Deadline: Open until filled
+Reason: This is a senior architecture leadership role focusing on PDN, signal integrity, and cross-functional hardware design, which aligns with the candidate's 15 years of experience and technical expertise.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Apple
+Store
+Mac
+iPad
+iPhone
+Watch
+Vision
+AirPods
+TV & Home
+Entertainment
+Accessories
+Support
+0
++
+Careers at Apple
+Work at Apple
+Life at Apple
+Profile
+Sign In
+Search
+Back to search results
+Module Design Engineer Architect
+Cupertino, California, United States
+Hardware
+Submit Resume
+Summary
+Posted:
+Jul 21, 2026
+Role Number:
+200672271-0836
+Apple is a place where extraordinary people gather to do their best work. Our community is
+made up of every kind of individual: artists and designers, engineers and scientists, thinkers and
+doers. Together we create things and experiences people once couldn’t have imagined — and
+now can’t imagine living without. So if you’re excited by the idea of making a real impact, a career with Apple might be your dream job. Just be ready to dream big.
+Description
+We are seeking a highly skilled Camera Design Engineer Architect to lead the end-to-end electrical architecture definition and system integration of next-generation camera modules across Apple's product portfolio. This role focuses on architecting the complete electrical signal chain from image sensor to SoC ISP, defining power delivery networks, high-speed interface topologies, and control-plane architectures that enable industry-leading imaging performance. The ideal candidate will possess deep electrical engineering expertise with extensive knowledge in mixed-signal design, high-speed serial interfaces, and camera subsystem architecture. Strong technical proficiency is required in understanding CMOS image sensor readout architectures, MIPI CSI-2, ACI or ALPDP interface design, camera actuator (VCM, OIS) driver topologies, flash/strobe subsystems, and low-noise power management for imaging applications (including LDO/DC-DC selection, PSRR budgeting, decoupling strategy, and dynamic power state transitions). The architect must have thorough understanding of camera module electro-optical performance trade-offs, EMI/EMC considerations, and signal integrity constraints to define electrical solutions that meet aggressive image quality, power, and form-factor targets in consumer electronics applications including iPhone, iPad, Mac, Vision, and wearable devices.
+
+Beyond core architecture definition, this role demands hands-on involvement across the full product lifecycle, including driving pre-silicon architecture studies with SoC ISP and PMIC teams, defining board-level schematic and layout guidelines for camera subsystems, and ensuring architectural intent is preserved from concept through mass production. The architect will lead cross-functional design reviews and technical trade studies by providing quantitative analysis of architecture options, respond to bring-up and validation issues with deep debug of high-speed signaling and power integrity, and drive systematic root cause analysis on architectural gaps discovered during EVT/DVT/PVT phases. This position serves as a critical technical bridge between image sensor suppliers, SoC design teams, module mechanical designers, and system product design, requiring expertise in both camera electrical architecture and practical implementation in high-volume, high-reliability manufacturing environments.
+Responsibilities
+Define end-to-end electrical architecture for camera subsystems including sensor-to-SoC signal chain, MIPI CSI-2, ACI, ALPDP lane budgeting, clocking topology, reset/control sequencing, and multi-camera synchronization schemes
+Architect power delivery networks for image sensors, actuators (VCM/OIS), and flash subsystems, including rail partitioning, PSRR budgeting, transient response requirements, and low-noise regulator selection to meet stringent image quality targets
+Lead high-speed interface design and signal integrity analysis for MIPI, ACI or ALPDP lanes, including channel budgeting, connector/flex selection, EMI mitigation, and pre/post-layout SI/PI simulation correlation
+Define schematic and PCB/flex layout guidelines for camera modules and system boards, including reference designs, layer stackup requirements, impedance targets, and DFM/DFT rules for global manufacturing
+Drive cross-functional architecture reviews with SoC ISP, PMIC, RF, mechanical, and optics teams to align on power budgets, thermal envelopes, form factor constraints, and testability requirements
+Partner with image sensor and actuator suppliers to influence next-generation silicon roadmaps, review datasheets and errata, and negotiate interface, power, and reliability specifications
+Support EVT/DVT/PVT bring-up and validation by leading debug of high-speed link failures, power integrity issues, EMI/ESD events, and image-quality-linked electrical root causes
+Lead FACA (Failure Analysis and Corrective Action) investigations by developing electrical characterization methodologies and diagnostic strategies to identify root causes of camera subsystem failures across engineering builds and mass production
+Analyze electrical margin data, temperature/voltage corner sweeps, and yield signatures to drive design guardbands, screening strategies, and preventive design changes across product generations
+Maintain comprehensive architecture documentation including block diagrams, interface specifications, power state tables, timing diagrams, and compliance matrices for internal teams and suppliers
+Participate in design reviews with camera module, system board, and product design teams to ensure architectural integrity, testability, and validation coverage throughout the product lifecycle
+Interface with camera algorithm, ISP firmware, and system software teams to translate imaging use cases (HDR, ProRAW, Cinematic mode, low-light, high-frame-rate video) into concrete electrical architecture and power state requirements
+Minimum Qualifications
+BS degree in Electrical Engineering, Computer Engineering, or a related field
+Experience in electrical architecture, mixed-signal design, or camera/imaging subsystem development for consumer electronics
+Experience defining or designing camera subsystems including image sensor interfacing, actuator drivers, and low-noise power delivery on rigid PCB, flex, or SiP substrates
+Experience with high-speed serial interface design (MIPI CSI-2, D-PHY, C-PHY) including signal integrity analysis, channel simulation, and lab correlation
+Preferred Qualifications
+Master's or PhD in Electrical Engineering or relevant field and 10+ years relevant industry experience
+Ability to lead EVT/DVT/PVT bring-up, own FACA processes, and resolve line-down or yield-impacting issues in fast-paced production environments
+Working knowledge of imaging and interface standards and specifications (MIPI CSI-2, ACI, ALPDP, I2C/I3C, SPMI, SPI, MIPI CCS, EMI/EMC standards, IEC ESD)
+Experience with camera factory testing equipment, End2End imaging validation methods, and electro-optical data interpretation for quality control
+Excellent communication and collaboration skills to work effectively with cross-functional teams including SoC design, PMIC, algorithms, mechanical, optics, manufacturing, quality, and suppliers
+Experience with statistical analysis tools and methodologies (SPC, DOE, 6-Sigma) applied to electrical characterization and yield engineering
+Pay & Benefits
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $184,700 and $324,800, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant
+
+At Apple, we believe accessibility is a fundamental human right. You’ll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.
+
+Learn about accessibility in Apple’s workplace
+
+Learn about reasonable accommodations for job applicants
+
+Apple accepts applications to this posting on an ongoing basis.
+
+Submit Resume
+Back to search results
+See all roles in Cupertino
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant
+(Opens in a new window)
+.
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation.
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program.
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. 
+Reasonable Accommodation and Drug Free Workplace policy
+Learn more
+(Opens in a new window)
+.
+
+Apple is a drug-free workplace. 
+Reasonable Accommodation and Drug Free Workplace policy
+Learn more
+(Opens in a new window)
+.
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the 
+San Francisco Fair Chance Ordinance
+guidelines
+(opens in a new window)
+ applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+
+Apple
+Careers at Apple
+Careers at Apple
+Shop and Learn
+Store
+Mac
+iPad
+iPhone
+Watch
+Vision
+AirPods
+TV & Home
+AirTag
+Accessories
+Gift Cards
+Apple Wallet
+Wallet
+Apple Card
+Apple Pay
+Apple Cash
+Account
+Manage Your Apple Account
+Apple Store Account
+iCloud.com
+Entertainment
+Apple One
+Apple TV+
+Apple Music
+Apple Arcade
+Apple Fitness+
+Apple News+
+Apple Podcasts
+Apple Books
+App Store
+Apple Store
+Find a Store
+Genius Bar
+Today at Apple
+Group Reservations
+Apple Camp
+Apple Store App
+Certified Refurbished
+Apple Trade In
+Financing
+Carrier Deals at Apple
+Order Status
+Shopping Help
+For Business
+Apple and Business
+Shop for Business
+For Education
+Apple and Education
+Shop for K-12
+Shop for College
+For Healthcare
+Apple in Healthcare
+Mac in Healthcare
+Health on Apple Watch
+Health Records on iPhone and iPad
+For Government
+Shop for Government
+Shop for Veterans and Military
+Apple Values
+Accessibility
+Education
+Environment
+Inclusion and Diversity
+Privacy
+Racial Equity and Justice
+Supply Chain
+About Apple
+Newsroom
+Apple Leadership
+Career Opportunities
+Investors
+Ethics & Compliance
+Events
+Contact Apple
+More ways to shop: Find an Apple Store or other retailer near you. Or call 1-800-MY-APPLE.
+United States
+Copyright © 2025 Apple Inc. All rights reserved.
+Privacy PolicyTerms of UseSales and RefundsLegalSite Map
+Content has loaded
