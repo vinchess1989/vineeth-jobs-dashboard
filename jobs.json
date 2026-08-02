@@ -45968,13 +45968,12 @@
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-quest-global-4444500816",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a direct hire engineering role with a standard company, not a leadership position at a startup or consultancy in the semiconductor domain.",
+    "reason": "The position is located in the US and the job description does not explicitly mention visa sponsorship or relocation.",
     "id": "da292226",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Legal Operations Expert (m/f/d)",
@@ -45983,13 +45982,12 @@
     "url": "https://fi.linkedin.com/jobs/view/legal-operations-expert-m-f-d-at-riverty-4446489590",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is non-technical, for Legal Operations and does not fit Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is a Legal Operations role in the financial services industry and does not contain any of the required semiconductor-specific keywords (PDN, EMIR, Redhawk, etc.) or align with the candidate's VLSI/Power Integrity expertise.",
     "id": "b56062ad",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Methodology EngineerTijuana, Baja California, MexicoASICS EngineeringPosted a month ago",
@@ -45998,13 +45996,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446717244961?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level to mid-level role with only 1-2 years of experience required, which does not match Vineeth's senior level and years of expertise. Additionally, it focuses on software aspects like static timing analysis (STA) tools, PrimeTime, Tempus, and Python skills, while Vineeth's background is more in power integrity, advanced packaging, SoC PDN sign-off, and thermal analysis.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "f11c2b5a",
     "source": "qualcomm_careers",
-    "posted_date": "a month ago",
+    "posted_date": "posted a month ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Layout Engineer",
@@ -46012,29 +46009,27 @@
     "location": "Singapore-Yishun",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/IC-Layout-Engineer_R026652",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This IC Layout Engineer role does physical design layout, which is outside Vineeth's main area of Power Integrity and advanced packaging. It would be a stretch for him to take this position.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "fa365bea",
     "source": "broadcom_careers",
     "posted_date": "N/A",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "System ApplicationSystem RF EngineerSave JobNew JobNo Work Expe.Master's DegreeHsinChu",
-    "company": "Extract from page",
+    "company": "MediaTek",
     "location": "HsinChu",
     "url": "https://careers.mediatek.com/en/jobs/MTK120251229000",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on WiFi/BT chip design, PCB layout/debug/develop, and EMI debugging, which is outside Vineeth's main domains of Power Integrity, Advanced Packaging, and CAD Methodology. It does not match the key skill areas of ANSYS RedHawk, Cadence Voltus, or team leadership.",
+    "reason": "The position is an entry-level RF engineering role that lacks the required keywords (PDN, Redhawk, etc.) and does not align with the candidate's 15 years of experience in Power Integrity and Advanced Packaging.",
     "id": "bf6881e7",
     "source": "mediatek_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoftwareSystem & Algorithm EngineeringSave JobNew JobNo Work Expe.Master's DegreeChuPei",
@@ -46043,13 +46038,12 @@
     "url": "https://careers.mediatek.com/en/jobs/MTK120260729019",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused (firmware/software engineer) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is an entry-level software and algorithm engineering position for GNSS systems, which is outside the candidate's domain of Power Integrity and VLSI hardware design.",
     "id": "b3d85f0c",
     "source": "mediatek_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assoc Eng Equipment EngineeringSGPosted a day ago",
@@ -46058,13 +46052,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768903315",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Job is for an Equipment Engineer, which requires different technical skills than Power Integrity and Advanced Packaging.",
+    "reason": "The role is for equipment maintenance in manufacturing rather than Power Integrity/VLSI design, and the required experience (1-2 years) is significantly lower than the candidate's profile.",
     "id": "21654f13",
     "source": "globalfoundries_careers",
-    "posted_date": "N/A",
+    "posted_date": "a day ago",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Operational Manager",
@@ -46073,13 +46066,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-operational-manager-at-aerosino-technology-llc-4444869758",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general operations management position, not focused on semiconductor/VLSI/EDA technical domains.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on manufacturing operations rather than a technical VLSI/EDA engineering role.",
     "id": "04b3f538",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scheduler / Planning Engineer",
@@ -46088,13 +46080,12 @@
     "url": "https://in.linkedin.com/jobs/view/scheduler-planning-engineer-at-tata-electronics-4443675484",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role for project scheduling and planning, outside Vineeth's domain of semiconductor VLSI EDA.",
+    "reason": "The job does not contain any of the required keywords (PDN, Redhawk, etc.) and is a project management/scheduling role rather than a technical Power Integrity or VLSI engineering position.",
     "id": "0cb1a366",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer ( PCIe )",
@@ -46103,13 +46094,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-pcie-at-quest-global-4444511507",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The role is primarily Design Verification (UVM/SystemVerilog), which is explicitly listed as a hard rejection for this candidate.",
     "id": "cd021754",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Experienced CAD Automation Engineer (Design Verification)",
@@ -46118,13 +46108,12 @@
     "url": "https://uk.linkedin.com/jobs/view/experienced-cad-automation-engineer-design-verification-at-apple-4414152827",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily design verification focused, which is outside Vineeth's domain.",
+    "reason": "The job fails the mandatory keyword pre-filter and is primarily a Design Verification role (RTL simulation), which is explicitly listed as a hard rejection.",
     "id": "df33f5f4",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronic Design and Analysis Engineer",
@@ -46133,13 +46122,12 @@
     "url": "https://www.linkedin.com/jobs/view/electronic-design-and-analysis-engineer-at-ssi-people-4443617644",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily focused on verification of ASIC/FPGA designs using SystemVerilog and UVM, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The role is primarily a SystemVerilog/UVM verification position, which is explicitly excluded as it falls outside the candidate's domain.",
     "id": "f1e7a99d",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Engineers: Parametric Modeling and Modification Tasks",
@@ -46148,28 +46136,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-engineers-parametric-modeling-and-modification-tasks-at-jobgether-4443267990",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on CAD modeling, which is outside Vineeth's main areas of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job posting fails the mandatory keyword pre-filter and focuses on mechanical engineering CAD (SolidWorks/NX) rather than VLSI/Semiconductor Power Integrity or EDA methodology.",
     "id": "39f49dcc",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Senior ASIC Design Engineer",
-    "company": "NVIDIA AI",
-    "location": "Santa Clara, CA",
-    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-ai-4443220986",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification) - this is outside Vineeth's domain.",
-    "id": "6f7949c5",
-    "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Validation Engineer",
@@ -46178,13 +46150,12 @@
     "url": "https://www.linkedin.com/jobs/view/validation-engineer-at-l-t-technology-services-4445743584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Validation Engineer role at a services company, outside Vineeth's domain of semiconductor/VLSI/EDA.",
+    "reason": "The job is for pharmaceutical manufacturing validation, which is completely unrelated to the required VLSI/Semiconductor Power Integrity or Physical Design domains.",
     "id": "3dc54a24",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Validation Engineer",
