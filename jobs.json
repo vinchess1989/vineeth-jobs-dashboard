@@ -50714,13 +50714,12 @@
     "url": "https://in.linkedin.com/jobs/view/program-management-engineer-at-texas-instruments-india-4446783139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily software development/firmware engineering, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "48f3c513",
     "source": "linkedin_india_semiconductor_technical_leader",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Manager",
@@ -50728,14 +50727,13 @@
     "location": "Warwickshire, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/engineering-manager-at-vat-group-4418950829",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches leadership domain with technical acumen in semiconductor, electronics and strong experience as senior engineering leader.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "4147930a",
     "source": "linkedin_uk_semiconductor_technical_leader",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/vat_group_engineering_manager_4147930a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead UPS Hardware Engineer",
@@ -50744,13 +50742,12 @@
     "url": "https://fi.linkedin.com/jobs/view/lead-ups-hardware-engineer-at-eaton-4445008632",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This hardware engineering role is focused on UPS power electronics design, not semiconductor VLSI/EDA design that Vineeth specializes in for PI and packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for the initial pre-filter.",
     "id": "be62aaa7",
     "source": "linkedin_fi_semiconductor_technical_leader",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive Assistant- On-Site Role",
@@ -50759,13 +50756,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87996?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical administrative support, not a technical engineering/leadership position in semiconductor/VLSI/EDA.",
+    "reason": "The role is for an Executive Assistant, which is a non-technical position and does not meet the required technical domain criteria.",
     "id": "f37e1ca5",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Design Engineer (FPGA & ASIC)",
@@ -50774,28 +50770,26 @@
     "url": "https://careers.amd.com/careers-home/jobs/72911?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "fbeb9ced",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Software Engineer - Staff",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Broadcom",
+    "location": "Prague, Czech Republic",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CZE-Praha-11-V-Parku-23088/R-D-Software-Engineer---Staff_R026431-1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting URL was broken and led to a generic company error page, so there is no way to evaluate this job.",
+    "reason": "The role is primarily a Software Engineering position, which is explicitly listed as a hard rejection for this candidate's profile.",
     "id": "b48285ed",
     "source": "broadcom_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Development Executive",
@@ -50804,13 +50798,12 @@
     "url": "https://in.linkedin.com/jobs/view/business-development-executive-at-larsen-toubro-4446749717",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This business development role is for automotive electronics sales, not semiconductor/EDA/VLSI engineering.",
+    "reason": "The role is a non-technical business development and sales position, which is explicitly excluded by the hard rejection criteria.",
     "id": "77260a75",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor & Microelectronics Specialist (AI Training Project)",
@@ -50819,13 +50812,12 @@
     "url": "https://de.linkedin.com/jobs/view/semiconductor-microelectronics-specialist-ai-training-project-at-gramian-consulting-4447008863",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and falls outside Vineeth's domain of expertise.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "0a955df9",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor & Microelectronics Specialist (AI Training Project)",
@@ -50834,13 +50826,12 @@
     "url": "https://fr.linkedin.com/jobs/view/semiconductor-microelectronics-specialist-ai-training-project-at-gramian-consulting-4447026119",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (consultant) and does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "b5e91864",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Materials Scientist",
@@ -50849,13 +50840,12 @@
     "url": "https://uk.linkedin.com/jobs/view/materials-scientist-at-ic-resources-4438213833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role involves next-generation nanomaterials development and synthesis, not Power Integrity, advanced packaging, or EDA. It's also a materials science position rather than engineering leadership.",
+    "reason": "The job description does not contain the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a Materials Scientist role, which is outside the candidate's expertise in Power Integrity and Advanced Packaging.",
     "id": "18b29ce3",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Front-End Design Engineer",
@@ -50864,13 +50854,12 @@
     "url": "https://www.linkedin.com/jobs/view/front-end-design-engineer-at-qualcomm-4431839577",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The role is primarily focused on RTL design and verification, which is a hard rejection as it falls outside the candidate's domain.",
     "id": "58751796",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -50879,13 +50868,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-engineer-at-ramp-4438299745",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
+    "reason": "The position is a front-end software design role in the fintech industry and does not meet the semiconductor/VLSI keyword requirements or domain criteria.",
     "id": "44fc2c93",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior RTL Design Engineer | Remote",
@@ -50894,13 +50882,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-rtl-design-engineer-remote-at-crossing-hurdles-4437017752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an RTL Design Engineer, which falls under SoC/VLSI design and verification - outside Vineeth's core Power Integrity (PI) / Signal Integrity (SI), Advanced Packaging / Thermal domains.",
+    "reason": "The job is for RTL design and verification, which is outside the candidate's expertise, and it fails the mandatory keyword pre-filter (PDN, Redhawk, etc.).",
     "id": "12ac624b",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "WLAN RTL Design-Sr Engineer",
@@ -50909,13 +50896,12 @@
     "url": "https://in.linkedin.com/jobs/view/wlan-rtl-design-sr-engineer-at-qualcomm-4446785052",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily RTL/NoC design, which is outside Vineeth's power integrity and advanced packaging domain.",
+    "reason": "The role is focused on RTL design and logic synthesis rather than the candidate's expertise in Power Integrity or Advanced Packaging, and it fails the mandatory keyword pre-filter.",
     "id": "a5035181",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior  RTL design engineer",
@@ -50924,13 +50910,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-rtl-design-engineer-at-micron-technology-4443131655",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on RTL design with AI/ML-assisted flows, which falls outside Vineeth's main domains of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required to qualify for the Power Integrity/PDN domain.",
     "id": "807609f8",
     "source": "linkedin_india_rtl_design_engineer",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Frames",
