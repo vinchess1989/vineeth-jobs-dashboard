@@ -59548,13 +59548,12 @@
     "url": "https://uk.linkedin.com/jobs/view/graduate-design-engineer-at-targetjobs-uk-4438324433",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a graduate-level role requiring a Civil Engineering degree and focusing on temporary works design, which falls outside Vineeth's experience in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The position is for a Graduate Civil Engineering role in the construction industry, which does not match the candidate's expertise in semiconductor Power Integrity and VLSI design.",
     "id": "92e92746",
     "source": "linkedin_uk_rtl_design_engineer_p2",
     "posted_date": "2026-07-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer Propulsion Controls and System Engineering",
@@ -59563,13 +59562,12 @@
     "url": "https://fi.linkedin.com/jobs/view/design-engineer-propulsion-controls-and-system-engineering-at-w%C3%A4rtsil%C3%A4-4447543002",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on propulsion controls and system engineering, which falls outside Vineeth's core expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The role is focused on maritime propulsion and industrial automation systems rather than VLSI, Power Integrity, or semiconductor engineering.",
     "id": "2ac73d98",
     "source": "linkedin_fi_rtl_design_engineer",
     "posted_date": "2026-07-31",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Automation Engineer (TFM/EDA)",
@@ -59578,13 +59576,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-automation-engineer-tfm-eda-at-intel-4447128591",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a US citizen with a security clearance, which is a hard rejection criterion.",
+    "reason": "The job description fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "83ae9821",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Data Analyst",
@@ -59593,13 +59590,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-helic-co-4447516731",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Junior Data Analyst, which falls under software development and verification, both of which are explicitly rejected based on Vineeth's profile.",
+    "reason": "The role is a Junior Data Analyst position and does not meet the required semiconductor engineering domain or keyword pre-filter.",
     "id": "a2653f4c",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager, Containment, FIFA World Cup 2026",
@@ -59608,13 +59604,12 @@
     "url": "https://www.linkedin.com/jobs/view/manager-containment-fifa-world-cup-2026-at-fifa-world-cup-2026%E2%84%A2-canada-mexico-and-the-united-states-4436739997",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Containment Manager focusing on event infrastructure, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI domains.",
+    "reason": "The job is for sports infrastructure and does not contain any of the required semiconductor/VLSI technical keywords or domain expertise.",
     "id": "ca8e151a",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Operations",
@@ -59623,13 +59618,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-operations-at-united-utility-services-4443051910",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Director of Operations for a utility company and falls outside Vineeth's expertise in power integrity, advanced packaging, or VLSI design.",
+    "reason": "The position is in the electric utility infrastructure industry and does not fall within the semiconductor, VLSI, or EDA domains required for the candidate.",
     "id": "191ab137",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assistant Manager- C&I - Mundra",
@@ -59638,13 +59632,12 @@
     "url": "https://in.linkedin.com/jobs/view/assistant-manager-c-i-mundra-at-adani-power-4447086029",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on DCS and PLC maintenance, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The role is in industrial automation (DCS/PLC) for the power utility sector and does not involve semiconductor, VLSI, or EDA technical domains.",
     "id": "87ff4ff7",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff/ Sr Staff Engineer, Physical Design",
@@ -59653,13 +59646,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-sr-staff-engineer-physical-design-at-renesas-electronics-4447285649",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience and skillset as a Staff Engineer specializing in Physical Design, focusing on subsystem closure and methodologies within an SoC environment.",
+    "reason": "The role is a senior-level Physical Design position in India that explicitly requires expertise in power integrity, aligning with the candidate's 15 years of experience and core skills.",
     "id": "dc487528",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/renesas_electronics_staff__sr_staff_engineer__phys_dc487528.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/renesas_electronics_staff__sr_staff_engineer__phys_dc487528.txt"
   },
   {
     "title": "Business Intelligence Analyst",
@@ -59668,13 +59660,12 @@
     "url": "https://es.linkedin.com/jobs/view/business-intelligence-analyst-at-cytel-4442720567",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Intelligence Analyst, focusing on data analytics and reporting, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and VLSI.",
+    "reason": "The job is a Business Intelligence Analyst role in the pharmaceutical industry and does not meet the required semiconductor/VLSI/EDA domain or keyword pre-filter criteria.",
     "id": "92b79f5e",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Metrology Engineer",
@@ -59683,13 +59674,12 @@
     "url": "https://mt.linkedin.com/jobs/view/metrology-engineer-at-stmicroelectronics-4389730907",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Metrology Engineer, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) and is a manufacturing metrology role rather than a Power Integrity or VLSI design position.",
     "id": "9af27995",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Purchasing Assistant",
@@ -59698,13 +59688,12 @@
     "url": "https://pt.linkedin.com/jobs/view/purchasing-assistant-at-airbus-4435942650",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Purchasing Assistant, which falls under administrative support and is not aligned with Vineeth's expertise in power integrity, advanced packaging, or VLSI design.",
+    "reason": "The position is a non-technical purchasing role in the aerospace industry and does not meet the required semiconductor/VLSI/EDA keyword filters or domain criteria.",
     "id": "72010b17",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior BI Analyst",
@@ -59713,13 +59702,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-bi-analyst-at-thortful-4447530543",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Intelligence Analyst, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related VLSI engineering.",
+    "reason": "The role is a Senior BI Analyst in the retail/ecommerce industry and fails the mandatory keyword pre-filter for semiconductor-related technical content.",
     "id": "ce39771a",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thin Film Expert \u2013 MEMS Process & Deposition Technologies (f/m/div.)",
@@ -59728,13 +59716,12 @@
     "url": "https://de.linkedin.com/jobs/view/thin-film-expert-%E2%80%93-mems-process-deposition-technologies-f-m-div-at-bosch-sensortec-gmbh-4445511964",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on MEMS process development, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job focuses on MEMS process development and thin film technologies, which does not align with the candidate's Power Integrity and CAD methodology expertise and fails the mandatory keyword pre-filter.",
     "id": "d891ab69",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -59743,13 +59730,12 @@
     "url": "https://uk.linkedin.com/jobs/view/physical-design-engineer-at-european-tech-recruit-4447535157",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience in physical design, includes relevant EDA tools and scripting skills, and is a senior-level position at a company located in Cambridge, England.",
+    "reason": "This is a high-priority UK-based Physical Design role requiring Power Integrity expertise and experience with Voltus and RedHawk, aligning perfectly with the candidate's 15 years of experience and technical leadership.",
     "id": "c6821673",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_physical_design_engineer_c6821673.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_physical_design_engineer_c6821673.txt"
   },
   {
     "title": "Physical Design Engineer",
@@ -59757,14 +59743,13 @@
     "location": "England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/physical-design-engineer-at-oho-group-4447139823",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on physical design, which is a secondary target area for Vineeth compared to his Power Integrity and Advanced Packaging expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "ced19d3c",
     "source": "linkedin_uk_physical_design",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Physical Design Engineer - Staff",
