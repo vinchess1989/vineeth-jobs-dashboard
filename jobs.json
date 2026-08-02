@@ -46570,13 +46570,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-engineer-architecture-at-meta-4444131784",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an ASIC design role focused on architecture, which doesn't match Vineeth's background in Power Integrity and advanced packaging.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "cdd86c78",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AMS Verification Engineer (all gender)",
@@ -46585,13 +46584,12 @@
     "url": "https://de.linkedin.com/jobs/view/ams-verification-engineer-all-gender-at-alten-germany-4443242677",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (runs regressions, develops verification environments) which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on AMS verification, which is explicitly listed as a hard rejection, and it lacks the required technical keywords.",
     "id": "6c1957f8",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46600,13 +46598,12 @@
     "url": "https://es.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445750088",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general future opportunities posting, not a specific technical leadership role matching Vineeth's background.",
+    "reason": "The posting is a general talent pool submission and does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.).",
     "id": "4dcd3534",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46615,13 +46612,12 @@
     "url": "https://de.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445745825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is too broadly defined with no specific technical skills or domain matching Vineeth's background.",
+    "reason": "This is a general talent pool invitation for future opportunities and does not contain any of the required technical keywords or a specific job role.",
     "id": "157bfc4f",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46630,13 +46626,12 @@
     "url": "https://dk.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445743883",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general future opportunities posting, not a specific technical leadership role in semiconductor/VLSI/EDA.",
+    "reason": "The posting is a general talent pool notice for future opportunities and does not contain any of the required technical keywords for Power Integrity or VLSI.",
     "id": "0129fc52",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Professional HCS CAD Engineer (m/w/d)",
@@ -46645,13 +46640,12 @@
     "url": "https://de.linkedin.com/jobs/view/professional-hcs-cad-engineer-m-w-d-at-harting-technology-group-4441353259",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on mechanical CAD and product development, not semiconductor VLSI EDA.",
+    "reason": "The job posting fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on industrial cabling design rather than semiconductor/VLSI engineering.",
     "id": "ec8e7220",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46660,13 +46654,12 @@
     "url": "https://nl.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445739833",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is a general 'Stay Connected' call for future opportunities, not a specific job opening. It does not match the technical VLSI/EDA criteria.",
+    "reason": "This is a general talent pool registration post rather than a specific job opening, and it does not contain any of the required Power Integrity keywords.",
     "id": "49926c86",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Engineer",
@@ -46675,13 +46668,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cad-engineer-at-owen-daniels-4445485453",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a CAD role for factory layouts, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is for mechanical factory layout design using AutoCAD in the automotive industry, rather than VLSI/EDA CAD methodology or Power Integrity.",
     "id": "b146d779",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Validation Engineer",
@@ -46690,13 +46682,12 @@
     "url": "https://uk.linkedin.com/jobs/view/validation-engineer-at-aggreko-4446301828",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on product development, validation, and testing for energy equipment. It does not match Vineeth's background in semiconductor power integrity, advanced packaging, VLSI/EDA.",
+    "reason": "The job is in the utilities/power generation industry and does not contain the required semiconductor keywords (PDN, Redhawk, Voltus, etc.) or technical domain matches.",
     "id": "07d20caa",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -46705,13 +46696,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-design-engineer-at-analog-devices-4443618784",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on RTL development and verification, which falls more into digital design/verification rather than power integrity or advanced packaging. Vineeth's background does not strongly match this job.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL design and verification, which is outside the candidate's expertise.",
     "id": "2083d199",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -46720,13 +46710,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-codasip-4446305301",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is primarily in Design Verification, which is explicitly listed as a hard rejection for the candidate's domain.",
     "id": "b3f016f8",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate / Technical Director - Planning & EIA",
@@ -46735,13 +46724,12 @@
     "url": "https://uk.linkedin.com/jobs/view/associate-technical-director-planning-eia-at-slr-consulting-4445711778",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on planning and environmental impact assessment, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is for an Environmental Impact Assessment and town planning role, which is unrelated to the candidate's expertise in Power Integrity and VLSI design.",
     "id": "0f30b3d0",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate / Technical Director - Planning & EIA",
@@ -46750,13 +46738,12 @@
     "url": "https://uk.linkedin.com/jobs/view/associate-technical-director-planning-eia-at-slr-consulting-4445706893",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Environmental Impact Assessment (EIA) and Town Planning, which are outside Vineeth's domain of VLSI/EDA/semiconductor expertise.",
+    "reason": "The job is in environmental planning and EIA (Environmental Impact Assessment), which is unrelated to the semiconductor, VLSI, or EDA industries.",
     "id": "330df58d",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -46765,13 +46752,12 @@
     "url": "https://uk.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445752069",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical and does not match Vineeth's domain of expertise in semiconductor, VLSI, EDA.",
+    "reason": "The posting is a general 'stay connected' talent community invitation rather than a specific job opening and does not contain the required technical keywords.",
     "id": "5f57f719",
     "source": "linkedin_uk_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IC Layout Engineer",
@@ -46780,13 +46766,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ic-layout-engineer-at-ic-resources-4434745496",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an IC Layout Engineer which falls under VLSI/SoC physical design, not Vineeth's area of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "75cf4e61",
     "source": "linkedin_uk_asic_design_p2",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Project Manager",
