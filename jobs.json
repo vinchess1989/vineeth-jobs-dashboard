@@ -52590,13 +52590,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88520?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on AI hardware and thermal design for data center GPU platforms, which is outside Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary for a technical match.",
     "id": "ee9301d5",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Custom ASIC Engineering Lead",
@@ -52604,14 +52603,13 @@
     "location": "USA-CA San Jose Innovation Drive",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Senior-Custom-ASIC-Engineering-Lead_R026704",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domain (Power Integrity, Signal Integrity), years of experience, and location preference.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) to qualify for the Power Integrity/PDN domain.",
     "id": "a2aa42ad",
     "source": "broadcom_careers",
     "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/broadcom_senior_custom_asic_engineering_a2aa42ad.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Module Product Engineer",
@@ -52620,13 +52618,12 @@
     "url": "https://www.linkedin.com/jobs/view/module-product-engineer-at-renesas-electronics-4432443752",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "0c52de62",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "MEMS Electrical Test Engineer",
@@ -52635,13 +52632,12 @@
     "url": "https://se.linkedin.com/jobs/view/mems-electrical-test-engineer-at-silex-microsystems-4389571395",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in MEMS electrical test engineering, which is outside Vineeth's PI/advanced packaging domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "c15d8ea4",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-05-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Equipment Engineer",
@@ -52650,13 +52646,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-equipment-engineer-at-teledyne-technologies-incorporated-4427369730",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on manufacturing equipment support rather than semiconductor VLSI EDA engineering",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a manufacturing equipment engineering role rather than a VLSI/Power Integrity engineering role.",
     "id": "aac71acc",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-06-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Engineer",
@@ -52665,13 +52660,12 @@
     "url": "https://www.linkedin.com/jobs/view/fpga-engineer-at-tangram-flex-4446903197",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on FPGA design with UVM, C/C++, and software integration - outside Vineeth's primary areas of power integrity, advanced packaging, and physical design.",
+    "reason": "The posting fails the mandatory keyword pre-filter and is primarily focused on FPGA verification and firmware development, which are excluded domains.",
     "id": "2c3a5cba",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Developer (26-119-1B)",
@@ -52680,13 +52674,12 @@
     "url": "https://de.linkedin.com/jobs/view/fpga-developer-26-119-1b-at-physikalisch-technische-bundesanstalt-ptb-4444590175",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA development for wind lidar systems and does not match Vineeth's background in power integrity, advanced packaging, SoC PDN sign-off, thermal analysis, and VLSI/EDA tools.",
+    "reason": "The job is for an FPGA Developer role, which does not match the candidate's expertise in Power Integrity/Physical Design and fails the mandatory keyword pre-filter.",
     "id": "aeb85291",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-30",
     "deadline": "2026-08-10",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Embedded System Engineer",
@@ -52695,13 +52688,12 @@
     "url": "https://uk.linkedin.com/jobs/view/embedded-system-engineer-at-open-cosmos-4425631457",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded C/C++, RTOS) and does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is primarily for embedded software and firmware development, which is explicitly listed as a hard rejection because it is outside the candidate's domain.",
     "id": "e87b8e1b",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -52710,13 +52702,12 @@
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4447055664",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on EDA tool deployment and flow ownership, which falls slightly outside Vineeth's direct domain of power integrity and advanced packaging. However, it could be a good match for someone with similar skills in CAD infrastructure engineering.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required by the pre-filter.",
     "id": "0c89e736",
     "source": "linkedin_eu_eda_design_automation",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Package Development Engineer",
@@ -52725,13 +52716,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-package-development-engineer-at-renesas-electronics-4447053289",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in semiconductor package development, which is outside Vineeth's primary domain of Power Integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "c72c64a3",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Process Engineer(SEC Depo)",
@@ -52740,13 +52730,12 @@
     "url": "https://kr.linkedin.com/jobs/view/field-process-engineer-sec-depo-at-lam-research-4430333507",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on equipment process support, not semiconductor design/analysis. It's also located in South Korea.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on manufacturing process engineering rather than Power Integrity or CAD methodology.",
     "id": "c7731323",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Process Engineer(SEC/Selective Etch)",
@@ -52755,13 +52744,12 @@
     "url": "https://kr.linkedin.com/jobs/view/field-process-engineer-sec-selective-etch-at-lam-research-4437981269",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on application engineering for Lam's equipment, which falls more into software development and applications engineering than Vineeth's core domains of power integrity, advanced packaging, and EDA tools.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on manufacturing process engineering rather than the candidate's expertise in Power Integrity or CAD methodology.",
     "id": "2b1e076b",
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Interconnect Technology Team Lead",
@@ -52769,14 +52757,13 @@
     "location": "San Diego, CA",
     "url": "https://www.linkedin.com/jobs/view/soc-interconnect-technology-team-lead-at-arm-4439490268",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This senior engineering role at Arm is a strong match for Vineeth's background and experience in power integrity, advanced packaging, SoC PDN sign-off, and thermal analysis. It involves leading a team to drive next-gen coherent & non-coherent interconnect fabrics for complex SoCs.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords required by the pre-filter (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "2297b607",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-16",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/arm_soc_interconnect_technology_te_2297b607.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Director",
@@ -52785,13 +52772,12 @@
     "url": "https://in.linkedin.com/jobs/view/soc-design-director-at-mulya-technologies-4447046921",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital design (RTL, microarchitecture, IP integration) rather than the power integrity, advanced packaging, or CAD methodology areas that Vineeth specializes in.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily focused on RTL design and digital architecture.",
     "id": "32af1c4c",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Director ( Top30 Semiconductor Organization in the world )",
@@ -52799,14 +52785,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/soc-design-director-top30-semiconductor-organization-in-the-world-at-mulya-technologies-4447058765",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "20+ years of digital design experience, but role is Director-level so may be a match despite lower technical domain overlap.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "ec8e7262",
     "source": "linkedin_india_soc_design",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Everything Else",
