@@ -54844,13 +54844,12 @@
     "url": "https://builtin.com/job/customer-program-manager/8870426",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Customer Program Manager) and does not fit Vineeth's technical background in semiconductor/VLSI/EDA.",
+    "reason": "The job does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a non-technical customer program management role.",
     "id": "0f75bb38",
     "source": "builtin_semi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -54859,13 +54858,12 @@
     "url": "https://in.linkedin.com/jobs/view/design-engineer-at-arm-4447235255",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (Circuit Design Engineer) and does not fit Vineeth's domain of VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on custom standard cell design rather than the candidate's specific domain.",
     "id": "8888b730",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -54873,14 +54871,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-at-arm-4447230362",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role requires experience in developing and validating timing constraints for complete SoCs which matches Vineeth's background in Power Integrity (PI) / Signal Integrity (SI). It is also a senior staff engineer level position.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "17095721",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_staff_engineer_17095721.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Power Analysis Engineer",
@@ -54888,14 +54885,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-power-analysis-engineer-at-arm-4447213502",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development and not in Vineeth's domain of power integrity, thermal analysis and EDA.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Staff-level Power Analysis position in the UK, perfectly aligning with the candidate's 15 years of experience in Power Integrity, SoC PDN sign-off, and electrical analysis.",
     "id": "fc46b3bf",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff_power_analysis_engineer_fc46b3bf.txt"
   },
   {
     "title": "Staff Power Analysis Engineer",
@@ -54903,14 +54899,13 @@
     "location": "Sheffield, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-power-analysis-engineer-at-arm-4447225393",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is for a Power Analysis Engineer at Arm, matching Vineeth's background in Power Integrity.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "38ec1c84",
     "source": "linkedin_uk_semiconductor",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_staff_power_analysis_engineer_38ec1c84.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Standard Cell Design Engineer",
@@ -54919,13 +54914,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-standard-cell-design-engineer-at-arm-4447219452",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the mandatory keywords required for the pre-filter (e.g., PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "c79f3a87",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff RTL Design Engineer",
@@ -54934,13 +54928,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-rtl-design-engineer-at-arm-4447228343",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL design focused, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords and is for an RTL Design role, which is outside the candidate's domain of Power Integrity and Packaging.",
     "id": "4ecf2c85",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-26",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
@@ -54948,14 +54941,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-at-arm-4447227384",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer) which is outside Vineeth's domain.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on physical design, PDN analysis, and methodology development, which directly aligns with the candidate's 15 years of experience in Power Integrity and CAD methodology.",
     "id": "c1644d21",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/arm_staff_engineer_c1644d21.txt"
   },
   {
     "title": "SoC Design Engineer",
@@ -54964,13 +54956,12 @@
     "url": "https://hu.linkedin.com/jobs/view/soc-design-engineer-at-arm-4447232304",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Role is primarily RTL design and SoC architecture, outside Vineeth's domain of Power Integrity/Advanced Packaging.",
+    "reason": "The posting does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "d6d35aa6",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff SoC Design Engineer",
@@ -54978,14 +54969,13 @@
     "location": "Sheffield, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-soc-design-engineer-at-arm-4447232320",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is primarily SoC design focused which is outside Vineeth's power integrity and advanced packaging domain expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "08df3cdb",
     "source": "linkedin_uk_vlsi_design",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff SoC Design Engineer",
@@ -54993,14 +54983,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-soc-design-engineer-at-arm-4447214519",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This role is a technical leadership position for SoC design at Arm's Manchester office, which fits Vineeth's domain and experience.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is primarily focused on RTL design.",
     "id": "7c159b9c",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_staff_soc_design_engineer_7c159b9c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Engineer",
@@ -55009,13 +54998,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-design-engineer-at-arm-4447226378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily SoC design with no overlap in Power Integrity, Advanced Packaging, CAD tools, or Leadership positions that Vineeth has expertise in.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "f2264fb7",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Engineer",
@@ -55024,13 +55012,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-design-engineer-at-arm-4447221370",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily design/implementation focused on IP development, which doesn't match Vineeth's background in power integrity and advanced packaging.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL design rather than the candidate's expertise.",
     "id": "4acf919e",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead FPGA / Embedded-Systems Engineer",
@@ -55039,13 +55026,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-fpga-embedded-systems-engineer-at-arm-4447220434",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily FPGA design and team leadership, outside Vineeth's domain of power integrity and packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on FPGA and Embedded Systems rather than the candidate's expertise in Power Integrity or Packaging.",
     "id": "6856752e",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead FPGA / Embedded-Systems Engineer",
@@ -55054,13 +55040,12 @@
     "url": "https://uk.linkedin.com/jobs/view/lead-fpga-embedded-systems-engineer-at-arm-4447236216",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1aaa6fe2",
     "source": "linkedin_uk_fpga_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Design Engineer",
