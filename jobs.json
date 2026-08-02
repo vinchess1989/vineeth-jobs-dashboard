@@ -41208,13 +41208,12 @@
     "url": "https://www.linkedin.com/jobs/view/packer-floor-operator-at-u-s-silica-company-4444123568",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a manufacturing operator position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The job is an entry-level manual labor position in the mining industry and fails the mandatory keyword pre-filter (no mention of PDN, Redhawk, Voltus, etc.).",
     "id": "18f2ab9a",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Designer (Apparel & Consumer Products)",
@@ -41223,13 +41222,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-designer-apparel-consumer-products-at-orly-corporation-4446403631",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Packaging Designer for apparel/consumer products - this falls outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The role is for apparel and consumer product packaging design, which is unrelated to the candidate's semiconductor/VLSI expertise.",
     "id": "3b48979c",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Engineering Manager",
@@ -41238,13 +41236,12 @@
     "url": "https://www.linkedin.com/jobs/view/packaging-engineering-manager-at-lidl-us-4437478202",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on retail grocery packaging, not semiconductor VLSI EDA design.",
+    "reason": "The job posting does not contain any of the required keywords and is for consumer retail packaging rather than semiconductor packaging.",
     "id": "a454ed76",
     "source": "linkedin_ww_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director Engineering, Analog Design",
@@ -41253,13 +41250,12 @@
     "url": "https://in.linkedin.com/jobs/view/director-engineering-analog-design-at-renesas-electronics-4446833218",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a director-level analog design role, which matches Vineeth's general background but does not focus specifically on his areas of deep expertise in Power Integrity and Advanced Packaging. It is also located in Bengaluru rather than Finland, UK or US.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "d3c416f5",
     "source": "linkedin_india_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Head of Athletic Performance",
@@ -41268,13 +41264,12 @@
     "url": "https://uk.linkedin.com/jobs/view/head-of-athletic-performance-at-bristol-bears-4446851157",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is unrelated to semiconductor, VLSI, EDA or hardware engineering - it is a sports team performance leadership position.",
+    "reason": "The role is in the sports industry and does not relate to the semiconductor, VLSI, or EDA domains.",
     "id": "d04a9f47",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Technician",
@@ -41283,28 +41278,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineering-technician-at-rowden-4446331578",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Engineering Technician at a UK-based company, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job posting fails the keyword pre-filter as it does not contain any of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level technician role.",
     "id": "03fc0854",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Sales And Marketing Intern",
-    "company": "Sustafe",
-    "location": "Helsinki, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/sales-and-marketing-intern-at-sustafe-4444135317",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a non-technical sales/marketing internship with no overlap to Vineeth's technical domains of expertise in semiconductor/VLSI/EDA.",
-    "id": "897bde03",
-    "source": "linkedin_fi_physical_design",
-    "posted_date": "2026-07-29",
-    "deadline": "09.08.25",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Information Security Manager",
@@ -41313,13 +41292,12 @@
     "url": "https://www.linkedin.com/jobs/view/information-security-manager-at-jobgether-4446059846",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Information Security Manager) and does not match Vineeth's domain of semiconductor, VLSI, EDA.",
+    "reason": "The job is for an Information Security Manager in a healthcare environment, which is unrelated to the required semiconductor/VLSI/EDA technical domains and fails the mandatory keyword pre-filter.",
     "id": "333a4fa1",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Member of Technical Staff - Security",
@@ -41328,13 +41306,12 @@
     "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-security-at-withcoverage-4444127795",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software and infrastructure security engineering, which is outside Vineeth's domain of power integrity, advanced packaging, and EDA CAD tools.",
+    "reason": "The role is a software security engineering position in the insurance industry and does not align with the candidate's expertise in Power Integrity or semiconductor design.",
     "id": "3bb59340",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cybersecurity Program Specialist",
@@ -41343,13 +41320,12 @@
     "url": "https://www.linkedin.com/jobs/view/cybersecurity-program-specialist-at-olsson-4446588805",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on application security and cybersecurity programs, which does not match Vineeth's domain of Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The position is for a Cybersecurity Program Specialist and does not meet the mandatory keyword pre-filter or the required technical domain for Power Integrity/VLSI.",
     "id": "cc0f4d4e",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Operations Platform Engineer",
@@ -41358,13 +41334,12 @@
     "url": "https://www.linkedin.com/jobs/view/security-operations-platform-engineer-at-first-quality-4446588476",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Security Operations Platform Engineer role, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off.",
+    "reason": "The position is a Cybersecurity/SOC Operations role and does not meet the mandatory keyword requirements or domain expertise for semiconductor/VLSI engineering.",
     "id": "e145e70b",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Security Architecture",
@@ -41373,28 +41348,26 @@
     "url": "https://www.linkedin.com/jobs/view/soc-security-architecture-at-arm-4446032125",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on SoC security architecture and solutions, which does not match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and focuses on Security Architecture.",
     "id": "181e8ac4",
     "source": "linkedin_ww_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Microsoft",
+    "location": "Mountain View, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=1e11bc730d07eb7a",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (simulation, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is located in the US and does not explicitly mention visa sponsorship or relocation, which is a requirement for US-based positions.",
     "id": "bf2c5402",
     "source": "indeed_ww_soc_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Physical Design Engineer salaries in Mountain View, CA",
@@ -41402,14 +41375,13 @@
     "location": "Mountain View, CA, USA",
     "url": "https://www.indeed.com/career/principal-software-engineer/salaries/Mountain-View--CA?campaignid=serp-more&fromjk=1e11bc730d07eb7a&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role at semiconductor startup with close match to Vineeth's background and skills, but no specific mention of power integrity, PI, packaging, CAD methodology. Could be a stretch fit for an experienced technical lead.",
+    "matches_requirements": "no",
+    "reason": "The provided text is a salary research page rather than a job posting and fails the mandatory keyword pre-filter.",
     "id": "ac6a5322",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Security Delivery Expert",
@@ -41418,13 +41390,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=42f0829d9cce0ad6",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Security Engineering) and does not fit Vineeth's technical background in Power Integrity, CAD, EDA tools.",
+    "reason": "The job is a Cybersecurity role (Security Engineering/Research) and does not match the required semiconductor, VLSI, or Power Integrity technical domains.",
     "id": "79481397",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "2026-07-14",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Security Delivery Expert salaries in Redmond, WA",
