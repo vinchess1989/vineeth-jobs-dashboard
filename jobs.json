@@ -54634,13 +54634,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineering-manager-at-arm-4447221394",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily leadership rather than technical, and does not focus on semiconductor VLSI EDA domains like Power Integrity, Advanced Packaging, Physical Design, etc.",
+    "reason": "The job posting does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "2327e404",
     "source": "linkedin_uk_semiconductor_director_p2",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chip Architecture Leader",
@@ -54649,13 +54648,12 @@
     "url": "https://www.linkedin.com/jobs/view/chip-architecture-leader-at-lightmatter-4447224127",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a leadership position with chip architecture focus, which does not directly align with Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1c99f00f",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal System Architect",
@@ -54664,13 +54662,12 @@
     "url": "https://uk.linkedin.com/jobs/view/principal-system-architect-at-arm-4447217476",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in system architecture, which does not directly align with Vineeth's power integrity and advanced packaging expertise. This is a senior leadership match.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on system architecture rather than power integrity.",
     "id": "0d889b37",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Product Engineer",
@@ -54678,14 +54675,13 @@
     "location": "Dublin, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-product-engineer-at-ambersemi%E2%84%A2-4446417663",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with a relaxed domain requirement, matches 15 years of experience. Could be a fit.",
+    "matches_requirements": "no",
+    "reason": "The job fails the mandatory keyword pre-filter as it does not contain the required terms (PDN, EMIR, Redhawk, Power Integrity, etc.) and is a US-based role without explicit visa sponsorship.",
     "id": "e7c2dcce",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal System Technologist",
@@ -54694,13 +54690,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-principal-system-technologist-at-arm-4447213479",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on systems architecture and hardware/software integration, rather than power integrity, advanced packaging, or CAD/physical design.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "efaf3ba2",
     "source": "linkedin_uk_semiconductor_technical_leader",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff / Principal Engineer (Sign Off)",
@@ -54709,13 +54704,12 @@
     "url": "https://in.linkedin.com/jobs/view/staff-principal-engineer-sign-off-at-arm-4447217470",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Senior leadership role with 8-12 years experience in physical implementation and signoff methodologies, aligning with Vineeth's background.",
+    "reason": "The role focuses on developing electrical signoff methodologies including IR drop and Electromigration (EMIR), which directly aligns with the candidate's expertise in Power Integrity and SoC PDN sign-off.",
     "id": "4acbfbe8",
     "source": "linkedin_india_semiconductor_principal_engineer",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_staff___principal_engineer__si_4acbfbe8.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/arm_staff___principal_engineer__si_4acbfbe8.txt"
   },
   {
     "title": "Principal IP Qualification Engineer",
@@ -54723,14 +54717,13 @@
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "url": "https://fr.linkedin.com/jobs/view/principal-ip-qualification-engineer-at-arm-4447216447",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Matches domain of TPIP verification, but leadership level and Arm company may be a stretch for Vineeth's direct experience.",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily a verification role, which is a hard rejection.",
     "id": "317eb10a",
     "source": "linkedin_eu_semiconductor_principal_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff/Principal SoC / IP Design Engineer",
@@ -54738,14 +54731,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-principal-soc-ip-design-engineer-at-arm-4447225394",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior role with a strong SoC design focus, but missing specific details on years of experience and technical domains.",
+    "matches_requirements": "no",
+    "reason": "The job description fails the mandatory keyword pre-filter as it contains none of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "01929e56",
     "source": "linkedin_uk_semiconductor_principal_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Architect",
@@ -54754,13 +54746,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-architect-at-arm-4447229332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a SoC Architect position, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "cc3f3523",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SoC Architect",
@@ -54769,13 +54760,12 @@
     "url": "https://www.linkedin.com/jobs/view/soc-architect-at-arm-4447226370",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily SoC architecture and design rather than Power Integrity/Advanced Packaging/CAD Methodology which matches Vineeth's domain.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required for evaluation.",
     "id": "cedbf672",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal CPU Architect",
@@ -54784,13 +54774,12 @@
     "url": "https://in.linkedin.com/jobs/view/principal-cpu-architect-at-arm-4447227385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software architecture and design for next-gen CPUs, outside Vineeth's PI/SI/EDA domain.",
+    "reason": "The job description fails the keyword pre-filter as it contains none of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "a5d79c55",
     "source": "linkedin_india_semiconductor_architect",
     "posted_date": "2023-07-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CPU Technology Architect",
@@ -54799,13 +54788,12 @@
     "url": "https://fr.linkedin.com/jobs/view/cpu-technology-architect-at-arm-4447223406",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (software engineer, firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "3d380c0f",
     "source": "linkedin_eu_semiconductor_architect",
     "posted_date": "2023-07-11",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff System Architect",
@@ -54814,13 +54802,12 @@
     "url": "https://uk.linkedin.com/jobs/view/staff-system-architect-at-arm-4447223413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a system architecture role focused on embedded SoC design, which does not directly align with Vineeth's power integrity and advanced packaging background.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "00a0a9a6",
     "source": "linkedin_uk_semiconductor_architect",
     "posted_date": "2026-07-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Sr. Assoc Engineer, Integration & YieldSGPosted a month ago",
@@ -54828,14 +54815,13 @@
     "location": "Singapore, Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769857287",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches semiconductor foundry experience, role is Sr Assoc Engineer with integration and yield focus in Singapore.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on process integration and manufacturing yield rather than power integrity.",
     "id": "93497045",
     "source": "globalfoundries_careers",
     "posted_date": "a month ago",
     "deadline": "N/A",
-    "description_file": "job_descriptions/globalfoundries_sr__assoc_engineer__integratio_93497045.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Equipment Maintenance Technician IV",
@@ -54844,13 +54830,12 @@
     "url": "https://builtin.com/job/semiconductor-equipment-maintenance-technician-iv/10470623",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a maintenance technician role, not an engineering/technical position for semiconductor design, VLSI/EDA.",
+    "reason": "The role is for semiconductor equipment maintenance and technician-level hardware repair, which does not align with the candidate's expertise in Power Integrity, Advanced Packaging, or CAD Methodology.",
     "id": "27b900cf",
     "source": "builtin_semi",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Customer Program Manager",
