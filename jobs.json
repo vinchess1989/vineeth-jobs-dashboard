@@ -60976,13 +60976,12 @@
     "url": "https://ro.linkedin.com/jobs/view/lead-it-systems-engineer-at-remofirst-4447500694",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on IT systems engineering and automation, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI domains.",
+    "reason": "The job is for an IT Systems/Identity Management role and does not contain any of the required semiconductor/VLSI/EDA keywords or domain expertise.",
     "id": "19aab470",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead IT Systems Engineer",
@@ -60990,14 +60989,13 @@
     "location": "Poland",
     "url": "https://pl.linkedin.com/jobs/view/lead-it-systems-engineer-at-remofirst-4447291776",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on IT systems engineering and automation, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "3b516580",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead IT Systems Engineer",
@@ -61006,13 +61004,12 @@
     "url": "https://pt.linkedin.com/jobs/view/lead-it-systems-engineer-at-remofirst-4447290815",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on IT Systems Engineering and workforce identity management, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
+    "reason": "The job is for an IT Systems Engineer role focused on identity and endpoint security, which does not match the candidate's expertise in Power Integrity, VLSI, or Semiconductor design.",
     "id": "44359c0a",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Architect",
@@ -61021,13 +61018,12 @@
     "url": "https://es.linkedin.com/jobs/view/cyber-security-architect-at-hack-in-hire-4444533722",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Cyber Security Architect, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job does not contain any of the required keywords (PDN, Redhawk, Voltus, etc.) and is a Cybersecurity role, which is outside the candidate's domain of Power Integrity and VLSI.",
     "id": "b933ca31",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SOC Engineer - 100% Remote",
@@ -61035,14 +61031,13 @@
     "location": "Barcelona, Catalonia, Spain",
     "url": "https://es.linkedin.com/jobs/view/senior-soc-engineer-100%25-remote-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4442657631",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on SOC Analyst duties, which falls under verification and software development activities, outside Vineeth's expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "d4a29ab2",
     "source": "linkedin_eu_soc_design",
-    "posted_date": "2026-07-24",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Security Engineer - Detection & Response",
@@ -61051,13 +61046,12 @@
     "url": "https://ro.linkedin.com/jobs/view/security-engineer-detection-response-at-stefanini-emea-4442665499",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on security engineering, detection and response which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The job is a Cybersecurity Detection & Response role, which does not fall within the required Semiconductor/VLSI/EDA domains such as Power Integrity or Physical Design.",
     "id": "ed6451be",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "InfoSec Engineer",
@@ -61066,13 +61060,12 @@
     "url": "https://uk.linkedin.com/jobs/view/infosec-engineer-at-valarian-4444586149",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on Information Security, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
+    "reason": "The job is for a Head of Information Security role, which falls outside the candidate's specific domain of Power Integrity, VLSI, and Semiconductor engineering.",
     "id": "f7aea17f",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Analyst",
@@ -61081,13 +61074,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cyber-security-analyst-at-norton-blake-4446066837",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Cyber Security Analyst, which falls outside Vineeth's domain of power integrity, advanced packaging, and related VLSI/EDA areas.",
+    "reason": "The job is for a Cyber Security Analyst position, which does not fall within the required Power Integrity, VLSI, or EDA technical domains.",
     "id": "6c40b4aa",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Retail Development & Trainer - Guangzhou / Shenzhen",
@@ -61096,13 +61088,12 @@
     "url": "https://www.linkedin.com/jobs/view/retail-development-trainer-guangzhou-shenzhen-at-parfums-christian-dior-4439093582",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a retail trainer, which falls outside Vineeth's engineering domain of power integrity, advanced packaging, and VLSI.",
+    "reason": "The job is a retail training role in the cosmetics industry and does not involve semiconductor, VLSI, or Power Integrity engineering.",
     "id": "c68bf119",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Call of Duty: Mobile - Too Much Fun in 2025",
@@ -61111,13 +61102,12 @@
     "url": "https://www.linkedin.com/jobs/view/call-of-duty-mobile-too-much-fun-in-2025-at-agence-les-chinois-4444525359",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a mobile game developer, which falls outside Vineeth's domain of power integrity, advanced packaging, and VLSI design.",
+    "reason": "The job is for a gaming role and does not contain any of the required semiconductor power integrity keywords such as PDN, EMIR, Redhawk, or Voltus.",
     "id": "e40f6dc5",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Equity Confirmations Drafting",
@@ -61126,13 +61116,12 @@
     "url": "https://in.linkedin.com/jobs/view/equity-confirmations-drafting-at-delta-capita-4445537038",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on drafting and operations within financial services, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "reason": "The role is in the financial services sector (OTC Equity Confirmations) and does not involve semiconductor, VLSI, or Power Integrity engineering.",
     "id": "6ddb41c1",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FX Confirmations & Settlements - Assistance Vice President",
@@ -61141,13 +61130,12 @@
     "url": "https://in.linkedin.com/jobs/view/fx-confirmations-settlements-assistance-vice-president-at-state-street-4404305142",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a financial operations position, specifically FX Confirmations & Settlements, which falls outside Vineeth's domain of power integrity, advanced packaging, and related VLSI/EDA areas.",
+    "reason": "The position is a finance role in FX settlements, which is outside the candidate's technical domain of Power Integrity and VLSI.",
     "id": "affc03cc",
     "source": "linkedin_india_emir",
     "posted_date": "2026-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Capital Markets Consultant",
@@ -61155,14 +61143,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/capital-markets-consultant-at-capgemini-4447536774",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This role is a Capital Markets Consultant, which falls squarely within a business/consulting domain and does not align with Vineeth's expertise in power integrity, advanced packaging, or related VLSI fields.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "b103603f",
     "source": "linkedin_uk_emir",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal & Power Integrity Hardware ASIC Simulation Engineer Lead (Remote)",
@@ -61170,14 +61157,13 @@
     "location": "Tempe, AZ",
     "url": "https://www.linkedin.com/jobs/view/signal-power-integrity-hardware-asic-simulation-engineer-lead-remote-at-cisco-4432458535",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a simulation engineer lead, which while related to power integrity falls outside Vineeth's primary focus on PDN sign-off and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "f2315162",
     "source": "linkedin_ww_ir_drop",
-    "posted_date": "2026-07-17",
-    "deadline": "2026-09-30",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Lead Engineer",
@@ -61185,14 +61171,13 @@
     "location": "Glasgow, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/lead-engineer-at-scottishpower-4445519497",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's power system analysis expertise and leadership experience within a relevant domain (power systems) at a company in a target location (Scotland, UK).",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "ed685792",
     "source": "linkedin_uk_ir_drop",
-    "posted_date": "2026-07-31",
-    "deadline": "2026-08-15",
-    "description_file": "job_descriptions/scottishpower_lead_engineer_ed685792.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Rack Power Engineer, Platforms Infrastructure",
