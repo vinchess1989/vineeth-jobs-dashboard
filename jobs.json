@@ -44497,14 +44497,13 @@
     "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18152&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role involves managing teams working on Si photonics, which is a subfield of VLSI and semiconductor design. The job listing specifically states familiarity with optical computing and requires a Ph.D. in optics - both are highly relevant to the VLSI/semiconductor domain.",
+    "matches_requirements": "no",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "2860875a",
     "source": "tsmc_careers",
     "posted_date": "2026-03-17",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/taiwan_semiconductor_siph_manager_2860875a.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -44513,13 +44512,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSiPh-Manager%2F18152",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an HR position, which does not match Vineeth's technical background.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "7850226f",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Looking for Entry-Level Physical Design / Physical Implementation / STA Opportunities",
@@ -44528,13 +44526,12 @@
     "url": "https://old.reddit.com/r/chipdesign/comments/1vackdd/looking_for_entrylevel_physical_design_physical/",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general job search post on Reddit, not an actual job listing from a semiconductor/EDA company.",
+    "reason": "The posting is a job seeker's request for entry-level opportunities rather than a job advertisement, and it fails the required keyword pre-filter.",
     "id": "f2962ecc",
     "source": "reddit_chipdesign",
-    "posted_date": "tough4672",
+    "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Verification Engineer, Emulation and Prototyping",
@@ -44543,13 +44540,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-verification-engineer-emulation-and-prototyping-at-nvidia-4435287255",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, testbench development, formal verification) which is outside Vineeth's domain.",
+    "reason": "The role is primarily a verification and emulation position, which is explicitly excluded as it falls outside Vineeth's domain of Power Integrity and Physical Design.",
     "id": "b960ca6b",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Signal Integrity & Power Integrity Engineer, Amazon Leo",
@@ -44558,13 +44554,12 @@
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-power-integrity-engineer-amazon-leo-at-amazon-4444181983",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (mention of 'consumer electronics', 'electrical and ASIC design') which falls outside Vineeth's domain.",
+    "reason": "The job explicitly requires U.S. citizenship or permanent residency due to export control laws, which is a hard rejection criterion.",
     "id": "cb9fa347",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer, Physical Design (Floorplanning)",
@@ -44573,13 +44568,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-staff-engineer-physical-design-floorplanning-at-samsung-semiconductor-4446868824",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "Matches semiconductor domain, leadership role, and technical skills overlap.",
+    "reason": "The role aligns with the candidate's 15 years of experience in Physical Design, specifically in power-grid implementation and floorplanning using RedHawk.",
     "id": "c7428e25",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": "job_descriptions/samsung_semiconducto_senior_staff_engineer__physica_c7428e25.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/samsung_semiconducto_senior_staff_engineer__physica_c7428e25.txt"
   },
   {
     "title": "M\u00b0 PAOLO GOBBI",
@@ -44588,13 +44582,12 @@
     "url": "https://in.linkedin.com/jobs/view/m%C2%B0-paolo-gobbi-at-voci-nel-montefeltro-4444181947",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a vocal coach, which does not match Vineeth's background of VLSI/EDA/semiconductor technical roles.",
+    "reason": "The job is for a vocal coach in the performing arts and does not contain any of the required technical keywords or semiconductor industry domain requirements.",
     "id": "28f7c345",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Canopy",
@@ -44603,13 +44596,12 @@
     "url": "https://fr.linkedin.com/jobs/view/canopy-at-homebrew-4444501085",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not in semiconductor, VLSI, EDA, and does not match Vineeth's background.",
+    "reason": "The job is for an AI Governance and FinOps platform and does not contain any of the required semiconductor or Power Integrity technical keywords.",
     "id": "6f39084a",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Buy-side Enterprise Services - Risk Services Specialist",
@@ -44618,13 +44610,12 @@
     "url": "https://www.linkedin.com/jobs/view/buy-side-enterprise-services-risk-services-specialist-at-bloomberg-4399052360",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a client service specialist in the financial services industry, which does not match Vineeth's VLSI/EDA background and experience.",
+    "reason": "The job is a financial services risk management role and does not involve semiconductor, VLSI, or EDA engineering.",
     "id": "8259a249",
     "source": "linkedin_ww_emir",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Finance, Risk Analyst, Vice President & Associate",
@@ -44633,13 +44624,12 @@
     "url": "https://www.linkedin.com/jobs/view/finance-risk-analyst-vice-president-associate-at-btig-4440817443",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical finance role at a semiconductor company, does not fit Vineeth's VLSI/EDA background and expertise.",
+    "reason": "The role is a financial risk analyst position in the financial services industry and does not relate to semiconductor, VLSI, or EDA engineering.",
     "id": "4eab2420",
     "source": "linkedin_ww_emir",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Boom Supersonic",
@@ -44648,13 +44638,12 @@
     "url": "https://www.linkedin.com/jobs/view/boom-supersonic-at-homebrew-4444505053",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a technical role at Amberflo, which is an AI platform startup, and does not directly match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job lacks required technical keywords (PDN, Redhawk, etc.), is an entry-level AI/FinOps role unrelated to VLSI, and is no longer accepting applications.",
     "id": "9aa0c56c",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ambrook",
@@ -44663,13 +44652,12 @@
     "url": "https://www.linkedin.com/jobs/view/ambrook-at-homebrew-4444183955",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a software startup leadership position, well outside Vineeth's semiconductor/VLSI/EDA technical domain.",
+    "reason": "The job is for a non-technical AI Governance/FinOps role and does not contain any of the required technical keywords (PDN, Redhawk, Voltus, etc.).",
     "id": "754d1542",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Arthur AI",
@@ -44678,13 +44666,12 @@
     "url": "https://ro.linkedin.com/jobs/view/arthur-ai-at-homebrew-4444502061",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI role is focused on general AI platform engineering, which is a software development and not related to Vineeth's semiconductor/VLSI/EDA background in power integrity, packaging, CAD tools.",
+    "reason": "The position is an entry-level AI governance and FinOps role and does not contain any of the required semiconductor keywords (e.g., PDN, Redhawk, Voltus) or relevant technical domains.",
     "id": "a1cf49a5",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Talent Network \u2013 We'd Love to Connect",
@@ -44693,13 +44680,12 @@
     "url": "https://uk.linkedin.com/jobs/view/engineering-talent-network-%E2%80%93-we-d-love-to-connect-at-silitalent-4431316279",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not a semiconductor/VLSI/EDA technical role, general engineering recruitment.",
+    "reason": "The posting is a general talent network recruitment advertisement and does not contain any of the required technical keywords (PDN, Redhawk, Voltus, etc.).",
     "id": "c5fdf6a4",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Solution Architect | Thermal Solutions",
@@ -44708,13 +44694,12 @@
     "url": "https://in.linkedin.com/jobs/view/solution-architect-thermal-solutions-at-johnson-controls-4444189248",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on mechanical cooling system design for data centers, not semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on industrial HVAC/chiller systems rather than semiconductor thermal analysis.",
     "id": "8b7c3122",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Director",
