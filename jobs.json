@@ -40788,13 +40788,12 @@
     "url": "https://www.indeed.com/career/design-engineer/salaries/San-Diego--CA?campaignid=serp-more&fromjk=bcc2b415a963a742&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (backend/embedded software developer), which is outside Vineeth's domain.",
+    "reason": "The provided URL is a salary information page rather than a job posting, and it fails the mandatory keyword filter for Power Integrity/EDA tools.",
     "id": "e54c8beb",
     "source": "indeed_india_rtl_design_engineer",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Software Engineer",
@@ -40803,13 +40802,12 @@
     "url": "https://www.linkedin.com/jobs/view/semiconductor-software-engineer-at-jobgether-4446085135",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical Software Engineer role, which does not match Vineeth's technical background and experience in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology and EDA tool expertise.",
+    "reason": "The role is primarily software development and does not contain any of the mandatory keywords related to Power Integrity or the specified EDA tools.",
     "id": "7e913c6e",
     "source": "linkedin_ww_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - EDA/CAD Engineer",
@@ -40818,13 +40816,12 @@
     "url": "https://www.linkedin.com/jobs/view/new-college-grad-eda-cad-engineer-at-micron-technology-4446077229",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI, ML, automation) rather than EDA/CAD engineering.",
+    "reason": "The job is an entry-level role for new college graduates and does not contain the required technical keywords such as PDN, Redhawk, or Power Integrity.",
     "id": "9d8f105e",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - EDA/CAD Engineer",
@@ -40833,13 +40830,12 @@
     "url": "https://www.linkedin.com/jobs/view/new-college-grad-eda-cad-engineer-at-micron-technology-4446078203",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This entry-level EDA/CAD engineering role is not a match for Vineeth's senior technical leadership background in semiconductor Power Integrity and Advanced Packaging. It lacks domain relevance and experience level.",
+    "reason": "The role is an entry-level position for new college graduates and does not contain the required keyword pre-filter terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "6a7e28ae",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - EDA/CAD Engineer",
@@ -40848,13 +40844,12 @@
     "url": "https://www.linkedin.com/jobs/view/new-college-grad-eda-cad-engineer-at-micron-technology-4446077226",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not in semiconductor/VLSI/EDA domain, and role is entry-level rather than senior leadership position.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is for an entry-level position.",
     "id": "7b25a196",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "New College Grad - EDA/CAD Engineer",
@@ -40863,13 +40858,12 @@
     "url": "https://www.linkedin.com/jobs/view/new-college-grad-eda-cad-engineer-at-micron-technology-4446075260",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI-assisted EDA/CAD engineering and does not directly match Vineeth's deep technical expertise in Power Integrity, Advanced Packaging, and SoC PDN sign-off.",
+    "reason": "The role is an entry-level position for new college graduates and fails the mandatory keyword pre-filter for Power Integrity specific tools and terminology.",
     "id": "c94b5bb6",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Data Analyst",
@@ -40878,13 +40872,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-helic-co-4446800185",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical junior analyst role, which does not match Vineeth's semiconductor/VLSI/EDA technical leadership background.",
+    "reason": "The job is for an entry-level Data Analyst role and does not contain any of the required technical keywords (PDN, Power Integrity, etc.) or match the candidate's semiconductor engineering domain.",
     "id": "6344659c",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Network Engineer",
@@ -40893,13 +40886,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-network-engineer-at-city-of-oxnard-4421128101",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily network troubleshooting, management of firewalls and switches, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The position is a general networking and IT infrastructure role for a municipal government, which does not fall within the semiconductor/VLSI/EDA domain or contain the required keywords.",
     "id": "35737d20",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-05-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer - Instrumentation (site role across India)",
@@ -40908,13 +40900,12 @@
     "url": "https://in.linkedin.com/jobs/view/engineer-instrumentation-site-role-across-india-at-gradiant-4433306776",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on water treatment instrumentation, which is outside Vineeth's semiconductor/EDA domain.",
+    "reason": "The role is for industrial instrumentation and electrical maintenance in water treatment infrastructure, which is unrelated to semiconductor Power Integrity or VLSI design.",
     "id": "8b20bb37",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Bench PMIC & Power Device Validation Engineer",
@@ -40922,14 +40913,13 @@
     "location": "Coimbatore, Tamil Nadu, India",
     "url": "https://in.linkedin.com/jobs/view/bench-pmic-power-device-validation-engineer-at-best-nanotech-4446072383",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "This role focuses on bench validation of PMICs and power devices, which is within Vineeth's power integrity background. However, it does not explicitly mention skills like ANSYS RedHawk or Cadence Voltus that Vineeth has.",
+    "matches_requirements": "no",
+    "reason": "The role is a mid-level validation engineering position seeking 3-10 years of experience, which is significantly lower than Vineeth's 15 years of experience and Technical Leader seniority.",
     "id": "bf8206b5",
     "source": "linkedin_india_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Lead Engineer",
@@ -40938,13 +40928,12 @@
     "url": "https://de.linkedin.com/jobs/view/system-lead-engineer-at-ubique-systems-4444127330",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a systems engineer specializing in electro-mechanical platforms and test instrumentation, which does not directly match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms: PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus.",
     "id": "7feb9984",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Forecasting & Data Engineer",
@@ -40953,13 +40942,12 @@
     "url": "https://gr.linkedin.com/jobs/view/senior-forecasting-data-engineer-at-smpnet-4429869091",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Data Engineering role focused on forecasting energy demand and grid behavior, not related to Vineeth's background in Power Integrity, Advanced Packaging.",
+    "reason": "The role is a Data Engineering and forecasting position for smart grid systems, which is outside the candidate's VLSI Power Integrity domain and fails the required keyword pre-filter.",
     "id": "33481b91",
     "source": "linkedin_eu_power_integrity",
     "posted_date": "2026-06-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mid-Level Data Analyst (Hybrid)",
@@ -40968,13 +40956,12 @@
     "url": "https://bg.linkedin.com/jobs/view/mid-level-data-analyst-hybrid-at-astrea-recruitment-4439089705",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Data Analyst position, which does not match Vineeth's background in Power Integrity, CAD methodology and EDA tools.",
+    "reason": "The job is for a Data Analyst in the iGaming industry and does not meet the required Power Integrity/VLSI keyword pre-filter or technical domain requirements.",
     "id": "be7e6e4e",
     "source": "linkedin_eu_power_integrity_p2",
     "posted_date": "2026-07-15",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commercial Analyst",
@@ -40983,13 +40970,12 @@
     "url": "https://uk.linkedin.com/jobs/view/commercial-analyst-at-oag-4446571785",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Commercial Analyst focused on sales, commissions and pricing strategy, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The position is a non-technical Commercial Analyst role in the travel industry and does not meet any of the required technical domains or keyword filters.",
     "id": "b24c8cc8",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IT Operations Analyst",
@@ -40998,13 +40984,12 @@
     "url": "https://uk.linkedin.com/jobs/view/it-operations-analyst-at-mako-trading-4446806689",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is IT operations support, not EDA/VLSI/semiconductor technical engineering.",
+    "reason": "The job is for a general IT Operations and desktop support role in the financial services industry, which does not meet the semiconductor/VLSI/EDA domain requirements or the keyword pre-filter.",
     "id": "5525621d",
     "source": "linkedin_uk_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Salaries for Simulation Engineer",
