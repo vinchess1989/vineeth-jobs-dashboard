@@ -43252,13 +43252,12 @@
     "url": "https://careers.qualcomm.com/careers/job/446719623078?sortBy=relevance",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical IAM Analyst role at a Qualcomm office in Mexico, which does not fit Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job is for an IT Identity and Access Management (IAM) role and fails the mandatory keyword pre-filter for Power Integrity and VLSI-specific terms.",
     "id": "3b431679",
     "source": "qualcomm_careers",
     "posted_date": "2026-07-13",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Linux Systems EngineerMexico City, Distrito Federal, MexicoIT EngineeringPosted 24 days ago",
@@ -43266,14 +43265,13 @@
     "location": "Mexico City, Distrito Federal, Mexico",
     "url": "https://careers.qualcomm.com/careers/job/446719458835?sortBy=relevance",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is Linux systems administration with no overlap to VLSI/EDA, so does not match Vineeth's background.",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "11e4cc68",
     "source": "qualcomm_careers",
-    "posted_date": "2026-07-06",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SR. INDUSTRIAL SAFETY ENGINEERTaichung City, Taichung City, TaiwanPosted 16 days ago",
@@ -43282,13 +43280,12 @@
     "url": "https://micron.eightfold.ai/careers/job/42213958",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on industrial safety engineering with no match to Vineeth's semiconductor/VLSI/EDA background and skills.",
+    "reason": "The job is for an Industrial Safety Engineer role, which is a non-technical safety compliance position and does not involve the required VLSI/EDA domains or keywords.",
     "id": "e8a673b4",
     "source": "micron_careers",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Environmental Engineer, EHSHiroshima, JapanPosted 6 months ago",
@@ -43297,13 +43294,12 @@
     "url": "https://micron.eightfold.ai/careers/job/40081643",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily environmental health & safety (EHS) focused on construction projects, which does not closely match Vineeth's expertise in Power Integrity, Advanced Packaging and VLSI/EDA tools.",
+    "reason": "The role is an Environmental Health and Safety (EHS) position and does not involve Power Integrity, VLSI design, or the required EDA tools.",
     "id": "38a626e5",
     "source": "micron_careers",
     "posted_date": "2026-01-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Safety EngineerTaichung City, Taichung City, TaiwanPosted 3 months ago",
@@ -43312,13 +43308,12 @@
     "url": "https://micron.eightfold.ai/careers/job/41540885",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on process safety engineering in semiconductor manufacturing, which falls outside Vineeth's core domain of power integrity, advanced packaging and EDA/CAD. The job requires a chemical engineering background and experience with semiconductor-specific safety standards.",
+    "reason": "The job is for a Process Safety Engineer (Chemical Engineering) and lacks all required keywords such as PDN, Redhawk, or Power Integrity.",
     "id": "c5ce4c48",
     "source": "micron_careers",
     "posted_date": "2026-05-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Software Engineer - Product Validation",
@@ -43327,13 +43322,12 @@
     "url": "https://careers.arm.com/job/cambridge/staff-software-engineer-product-validation/33099/97837813136",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain of expertise.",
+    "reason": "The job is a software engineering role focused on firmware and platform validation, which is a hard rejection, and it lacks the required Power Integrity keywords.",
     "id": "ef107399",
     "source": "arm_careers",
     "posted_date": "jul. 29, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Design Verification Engineer",
@@ -43342,13 +43336,12 @@
     "url": "https://careers.arm.com/job/austin/senior-design-verification-engineer/33099/95919495728",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Design Verification Engineer role, which does not match Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The role is a Design Verification position, which is a hard rejection as it falls outside the candidate's domain, and the posting is no longer active.",
     "id": "71de9a0c",
     "source": "arm_careers",
-    "posted_date": "jun. 02, 2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Campaign Manager, Physical AI",
@@ -43357,13 +43350,12 @@
     "url": "https://careers.arm.com/job/cambridge/senior-campaign-manager-physical-ai/33099/98472584176",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily marketing for Arm's Physical AI Business Unit, which is outside Vineeth Prathapachandra Kaimal's domain of semiconductor/VLSI/EDA. It does not match any target technical area.",
+    "reason": "The position is a marketing role (Senior Campaign Manager) and does not involve Power Integrity, VLSI, or technical engineering tasks.",
     "id": "dea7e49c",
     "source": "arm_careers",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "International Logistics Specialist (Import/Export) (m/f/d)",
@@ -43372,13 +43364,12 @@
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22620&source=External%2BCareer%2BSite",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Materials Management, Logistics) and does not involve semiconductor/VLSI/EDA engineering or leadership.",
+    "reason": "The role is a non-technical logistics and supply chain position and fails the mandatory keyword pre-filter for Power Integrity or VLSI-related technologies.",
     "id": "7f70f7d9",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-16",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "LinkedIn",
@@ -43387,13 +43378,12 @@
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FInternational-Logistics-Specialist-Import-Export-m-f-d%2F22620",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general logistics position, not related to semiconductor/VLSI/EDA engineering.",
+    "reason": "The role is for International Logistics, which is a non-technical position and does not fall within the candidate's domain of Power Integrity or VLSI engineering.",
     "id": "be44032b",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer Device Modeling & CharacterizationBengaluru, KA, INPosted a day ago",
@@ -43401,14 +43391,13 @@
     "location": "Bengaluru, India",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770309872",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Principal Engineer role with 10+ years experience preferred, but candidate has PhD which is highly relevant for device modeling and characterization.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "57e46628",
     "source": "globalfoundries_careers",
-    "posted_date": "07/29/2026",
+    "posted_date": "a day ago",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -43417,43 +43406,40 @@
     "url": "https://nl.linkedin.com/jobs/view/product-engineer-at-nxp-semiconductors-4446863084",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Product Engineer role which requires electronics engineering and semiconductor product development experience, outside Vineeth's primary domain of Power Integrity (PI) and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "a3a0ca5a",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Test Engineer Trainee",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "KLA",
+    "location": "Milpitas, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=4c4077267a06a9fb",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the required keywords and is an entry-level trainee position for students with an Associate's Degree, which does not match the candidate's 15 years of experience as a Technical Leader.",
     "id": "6e6c4e3a",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Test Engineer Trainee salaries in Milpitas, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Milpitas, CA, USA",
     "url": "https://www.indeed.com/career/test-engineer/salaries/Milpitas--CA?campaignid=serp-more&fromjk=4c4077267a06a9fb&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level test engineer position, not a semiconductor/VLSI/EDA technical leadership role",
+    "reason": "The provided content is a salary search page rather than a specific job posting, and it does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "832f7699",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lab Engineering Technician",
@@ -43462,13 +43448,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=a41c4c76867db320",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is highly technical lab support, far outside Vineeth's domain of semiconductor VLSI EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "0d412697",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-18",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lab Engineering Technician salaries in Phoenix, AZ",
