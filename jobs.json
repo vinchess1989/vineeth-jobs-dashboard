@@ -43458,17 +43458,16 @@
   {
     "title": "Lab Engineering Technician salaries in Phoenix, AZ",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Phoenix, AZ, USA",
     "url": "https://www.indeed.com/career/laboratory-technician/salaries/Phoenix--AZ?campaignid=serp-more&fromjk=a41c4c76867db320&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for a non-technical role of Lab Engineering Technician, which falls outside Vineeth's domain in semiconductor/VLSI/EDA.",
+    "reason": "The provided URL is a salary research page rather than a specific job posting, and 'Lab Engineering Technician' does not match the candidate's seniority or technical expertise.",
     "id": "86a4dc29",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Segment Leader \u2013 Product & Revenue Growth (Semiconductor Industry)",
@@ -43477,13 +43476,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=6b8b1f20a8d87792",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is non-technical marketing/sales role, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "reason": "The position is a commercial sales and product management role, which is a non-technical role and does not involve the required Power Integrity or engineering domains.",
     "id": "a3d7e866",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Segment Leader \u2013 Product & Revenue Growth (Semiconductor Industry) salaries in Remote",
@@ -43492,58 +43490,54 @@
     "url": "https://www.indeed.com/career/revenue-growth-management-analyst/salaries?campaignid=serp-more&fromjk=6b8b1f20a8d87792&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on revenue growth management and product development, which does not match Vineeth's technical background in semiconductor design, VLSI, EDA tools, and engineering leadership. It is more aligned with business, sales, or product management roles.",
+    "reason": "The role is a non-technical business position (Product & Revenue Growth) and does not contain any of the required technical keywords.",
     "id": "e32ea9a5",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Packaging Engineer",
     "company": "Packaging Equipment Manufacturer Co.",
-    "location": "Extract from page",
+    "location": "Austin, USA",
     "url": "https://www.indeed.com/rc/clk?jk=0dba92fefc3f72f7",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on manufacturing packaging processes rather than Power Integrity/Thermal analysis using EDA tools like ANSYS RedHawk which Vineeth specializes in.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required for a basic evaluation.",
     "id": "aeb6a6fb",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Semiconductor Packaging Engineer salaries in Austin, TX",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Austin, TX",
     "url": "https://www.indeed.com/career/semiconductor-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=0dba92fefc3f72f7&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Semiconductor Packaging Engineer position, which falls outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The provided URL is a salary research page on Indeed, not a specific job posting.",
     "id": "e98e4f97",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "fab2",
+    "location": "Austin, TX, USA",
     "url": "https://www.indeed.com/rc/clk?jk=a56757ae5785893f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily manufacturing engineering, which is outside Vineeth's domain of expertise.",
+    "reason": "The posting fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and is focused on manufacturing assembly rather than VLSI design.",
     "id": "cef61351",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer salaries in Austin, TX",
@@ -43552,43 +43546,40 @@
     "url": "https://www.indeed.com/career/manufacturing-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=a56757ae5785893f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Manufacturing Engineer, which is an entry-level non-technical position unrelated to semiconductor/VLSI/EDA. It does not match Vineeth's background and key skills.",
+    "reason": "The provided content is a salary overview page rather than a job posting and does not contain any of the mandatory technical keywords.",
     "id": "47b976d9",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Semiconductor Research Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Honda",
+    "location": "Raymond, Ohio, USA",
     "url": "https://www.indeed.com/rc/clk?jk=f21bb869eef425fe",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a research position, which does not match Vineeth's technical leadership and power integrity experience.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and fails the mandatory pre-filter.",
     "id": "7c8a7ce5",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Semiconductor Research Engineer salaries",
     "company": "Semiconductor company",
-    "location": "Extract from page",
+    "location": "Raymond, OH, USA",
     "url": "https://www.indeed.com/career/salaries/Semiconductor%20Engineer/Raymond,%20OH?campaignid=serp-more&fromjk=f21bb869eef425fe&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a non-technical Sales role at a semiconductor company.",
+    "reason": "The provided content is a salary research page rather than a specific job posting, and it does not contain any of the required technical keywords.",
     "id": "cde2a850",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Engineering Technician",
@@ -43597,28 +43588,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=80523ea77feac8b9",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (testbench development), which is outside Vineeth's domain.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "bcab26aa",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Engineering Technician salaries in Fremont, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Fremont, CA, USA",
     "url": "https://www.indeed.com/career/test-engineer/salaries/94538--CA?campaignid=serp-more&fromjk=80523ea77feac8b9&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily verification (RTL/gate-level simulation, UVM, testbench development, formal verification, DV Engineer) \u00e2\u20ac\u201d this is outside Vineeth's domain.",
+    "reason": "The provided URL is a salary information page rather than a specific job posting and does not contain the required Power Integrity keywords.",
     "id": "c108ff54",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Design Engineer",
@@ -43627,13 +43616,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-hp-4446865798",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on general ASIC design at HP rather than power integrity, advanced packaging or specific EDA/CAD roles that Vineeth specializes in.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "419daf9d",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI LEAD L1",
@@ -43642,13 +43630,12 @@
     "url": "https://in.linkedin.com/jobs/view/vlsi-lead-l1-at-wipro-4446566498",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This VLSI Lead role at Wipro is an Indian domestic hiring for a non-leadership position, which does not match Vineeth's profile and experience.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "70457b1f",
     "source": "linkedin_india_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -43657,13 +43644,12 @@
     "url": "https://www.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-synectics-inc-4446848502",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA hardware design and software radio development, not power integrity, packaging, or EDA tools. It also requires active DoD clearance.",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and the page content is missing.",
     "id": "c0c58386",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IP Physical Design Engineer",
@@ -43671,14 +43657,13 @@
     "location": "Hyderabad, Telangana, India",
     "url": "https://in.linkedin.com/jobs/view/ip-physical-design-engineer-at-marvell-technology-4444180488",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily physical design, which falls outside Vineeth's domain of power integrity and advanced packaging.",
+    "matches_requirements": "yes",
+    "reason": "The role is a Physical Design Lead position in Hyderabad, India, requiring 10-25 years of experience and expertise in RedHawk/Voltus, which perfectly aligns with the candidate's 15 years of experience and technical background in PI and physical design leadership.",
     "id": "d51dfbe8",
     "source": "linkedin_india_physical_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/marvell_technology_ip_physical_design_engineer_d51dfbe8.txt"
   },
   {
     "title": "IP Physical Design Engineer",
