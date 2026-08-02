@@ -58730,34 +58730,18 @@
     "description_file": null
   },
   {
-    "title": "SPEC PILOT WRITER",
-    "company": "ReelAbilities International",
-    "location": "Mon, Nagaland, India",
-    "url": "https://in.linkedin.com/jobs/view/spec-pilot-writer-at-reelabilities-international-4446986498",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "Not a technical role related to semiconductor, VLSI, EDA, and does not match candidate's background in Power Integrity or packaging.",
-    "id": "6027dec4",
-    "source": "linkedin_india_pi",
-    "posted_date": "mon, nagaland, india",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
     "title": "Where Now For Chilie?",
     "company": "DCU FuJo Center",
     "location": "Bijbiara, Jammu & Kashmir, India",
     "url": "https://in.linkedin.com/jobs/view/where-now-for-chilie%3F-at-dcu-fujo-center-4447287764",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is unrelated to semiconductor, VLSI, EDA or engineering/technical positions; it appears to be an academic research position in media studies and digital literacy.",
+    "reason": "The posting is for academic research related to media, democracy, and disinformation, which is entirely unrelated to the semiconductor, VLSI, or EDA engineering domains.",
     "id": "7dfd49cf",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Contractual Terms Risk Management - ISG Management - Associate/VP",
@@ -58766,13 +58750,12 @@
     "url": "https://www.linkedin.com/jobs/view/contractual-terms-risk-management-isg-management-associate-vp-at-morgan-stanley-4428405447",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily legal (Contractual Terms Risk Management) and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, SoC Design.",
+    "reason": "The position is a non-technical risk management role within the financial services industry and does not meet any of the required semiconductor or EDA technical criteria.",
     "id": "7b45c9cb",
     "source": "linkedin_ww_emir",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Specialist, Reg Reporting",
@@ -58781,13 +58764,12 @@
     "url": "https://in.linkedin.com/jobs/view/specialist-reg-reporting-at-invesco-4447503546",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a non-technical Specialist position in regulatory reporting, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The role is a financial regulatory reporting position at an investment firm, which is completely outside the candidate's expertise in semiconductor Power Integrity and VLSI engineering.",
     "id": "1ca6144c",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Associate Director, Markets Contracts Negotiation",
@@ -58796,13 +58778,12 @@
     "url": "https://pl.linkedin.com/jobs/view/associate-director-markets-contracts-negotiation-at-standard-chartered-4447106047",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for contract negotiations and banking, far outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "reason": "The role is a financial services position in markets contracts negotiation and does not involve semiconductor, VLSI, or EDA engineering.",
     "id": "53bc3cb6",
     "source": "linkedin_eu_emir",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Data Manager",
@@ -58811,13 +58792,12 @@
     "url": "https://fi.linkedin.com/jobs/view/product-data-manager-at-%C3%A5landsbanken-abp-4447501637",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily in product data management for banking, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The job is a non-technical banking role and does not contain any of the required semiconductor-related keywords.",
     "id": "4895b34d",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-31",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-16",
+    "description_file": null
   },
   {
     "title": "Hardware Performance Analysis Engineer",
@@ -58825,14 +58805,13 @@
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "url": "https://fr.linkedin.com/jobs/view/hardware-performance-analysis-engineer-at-arm-4447233297",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is more focused on software/cloud performance analysis rather than semiconductor VLSI/EDA technical domains like power integrity, advanced packaging, physical design etc. that Vineeth specializes in.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "bd4ab11b",
     "source": "linkedin_eu_ir_drop",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ISEMS Global",
@@ -58840,14 +58819,13 @@
     "location": "Indiana, United States",
     "url": "https://www.linkedin.com/jobs/view/isems-global-at-isems-global-4445090936",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is a non-technical business development role at a semiconductor company, which does not match Vineeth's engineering background.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "912f3a46",
     "source": "linkedin_ww_si_pi",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Expression of Interest",
@@ -58856,13 +58834,12 @@
     "url": "https://www.linkedin.com/jobs/view/expression-of-interest-at-iliad-4446996897",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job posting is for an open general inquiry with no specific role, location, company details, or application deadline. It appears to be a generic 'expression of interest' form, not a real job listing.",
+    "reason": "The job is a general 'Expression of Interest' for a non-profit organization and does not meet the technical requirements or keyword filters for the semiconductor/VLSI/EDA industry.",
     "id": "1d759e10",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cgas",
@@ -58871,13 +58848,12 @@
     "url": "https://in.linkedin.com/jobs/view/cgas-at-fasek-d-o-o-4447112391",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level position with no match to Vineeth's experience or skills.",
+    "reason": "The job is in the Oil and Gas industry and does not contain any of the required semiconductor or VLSI technical keywords.",
     "id": "1b4a8beb",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Spontaneous application",
@@ -58886,13 +58862,12 @@
     "url": "https://be.linkedin.com/jobs/view/spontaneous-application-at-polysense-4383849126",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a spontaneous application with no specific technical role mentioned, and is outside Vineeth's domain.",
+    "reason": "The job is a spontaneous application for a software development role and does not contain the required technical keywords or domain expertise in Power Integrity, VLSI, or EDA.",
     "id": "798a124a",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-03-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Operations Specialist, Trade & Logistics",
@@ -58901,13 +58876,12 @@
     "url": "https://fi.linkedin.com/jobs/view/system-operations-specialist-trade-logistics-at-abb-4447505488",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a system operations specialist role in trade and logistics, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is in logistics and trade operations, which does not align with the required VLSI, Power Integrity, or semiconductor engineering domains.",
     "id": "b7afb35c",
     "source": "linkedin_fi_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "2026-08-16",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Design Engineer - Power Group",
@@ -58916,13 +58890,12 @@
     "url": "https://in.linkedin.com/jobs/view/thermal-design-engineer-power-group-at-zeeco-inc-4447507327",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for thermal design of fire tube boilers and related equipment, which does not match Vineeth's background in semiconductor VLSI EDA power integrity and advanced packaging. The CAD/EDA tool skills while relevant are not emphasized enough to overcome the mismatch in core technical domain.",
+    "reason": "The position is for industrial boiler thermal design, which falls outside the candidate's semiconductor/VLSI domain and lacks any of the required technical keywords.",
     "id": "2deddb3c",
     "source": "linkedin_india_thermal",
-    "posted_date": "1 tuntia sitten",
+    "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Solution Architect - Data Center Networking & WAN routing",
@@ -58931,13 +58904,12 @@
     "url": "https://fi.linkedin.com/jobs/view/technical-solution-architect-data-center-networking-wan-routing-at-hewlett-packard-enterprise-4447508388",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a technical sales architect focused on data center networking and WAN routing, which does not directly match Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The job posting does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.) and focuses on data center networking infrastructure rather than Power Integrity or VLSI design.",
     "id": "2c3f8a48",
     "source": "linkedin_fi_semiconductor_architect",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Technical Leader \u2013 Robotics Software SDK Development",
@@ -58946,13 +58918,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87907?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role, which is outside Vineeth's domain of expertise.",
+    "reason": "The job fails the keyword pre-filter and is primarily a software development role, which is outside the candidate's domain of Power Integrity and Physical Design.",
     "id": "691265ec",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer",
