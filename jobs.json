@@ -49048,28 +49048,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=49cea82707cc3019",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (system software engineering lead) and does not fit Vineeth's technical domain of Power Integrity, Signal Integrity, Advanced Packaging, CAD/Methodology, Physical Design, EDA Tools or VLSI/SoC Design.",
+    "reason": "The role is primarily software development (Linux kernel drivers/GPU software), which is explicitly excluded as a hard rejection and does not contain any required Power Integrity or EDA tool keywords.",
     "id": "65a35d1d",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Software Engineering Lead salaries in Santa Clara, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.indeed.com/career/engineering-lead/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=49cea82707cc3019&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a software engineering lead position focused on system software, which falls outside Vineeth's areas of expertise in Power Integrity, Advanced Packaging, and VLSI/EDA.",
+    "reason": "The page is a salary search result for a software engineering role, not a job posting, and it falls under the software development exclusion.",
     "id": "dc58e663",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Software Integration Engineer",
@@ -49078,28 +49076,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=0d2432d7b53a565f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role focused on integrating hardware and software for semiconductor design, which does not match Vineeth's power integrity, advanced packaging, and EDA background.",
+    "reason": "The role is primarily software development (tooling, firmware, infrastructure) and lacks the mandatory PI/EDA tool keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "aa60f9ca",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Software Integration Engineer salaries in Remote",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Remote",
     "url": "https://www.indeed.com/career/software-integration-engineer/salaries?campaignid=serp-more&fromjk=0d2432d7b53a565f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Software Integration Engineer, which is primarily software development and falls outside Vineeth's domain of Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The provided URL is a salary search tool page rather than a specific job posting, and it contains none of the required technical keywords.",
     "id": "c5ae9e6b",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM Logic Architect",
@@ -49108,28 +49104,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=7c4ad534a842235f",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily in ASIC/SoC design and architecture, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, CAD Methodology.",
+    "reason": "The job description fails the keyword pre-filter as it contains none of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL/Logic architecture.",
     "id": "8a7480d7",
     "source": "indeed_ww_semiconductor_architect_p2",
-    "posted_date": "N/A",
+    "posted_date": "new",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM Logic Architect salaries in San Jose, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Jose, CA, USA",
     "url": "https://www.indeed.com/career/architect/salaries/San-Jose--CA?campaignid=serp-more&fromjk=7c4ad534a842235f&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The provided URL is a salary research page for a general role and not a specific job posting, and it fails the mandatory keyword pre-filter.",
     "id": "0784d82a",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior/Senior Embedded Software Engineer",
@@ -49138,28 +49132,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=368a28a26e35707b",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for embedded software development, which is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging and EDA tools.",
+    "reason": "The role is for an embedded software engineer, which is explicitly listed as a hard rejection as it falls outside the candidate's domain of Power Integrity and VLSI hardware engineering.",
     "id": "81fc55cb",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior/Senior Embedded Software Engineer salaries in Southfield, MI",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Southfield, MI, USA",
     "url": "https://www.indeed.com/career/junior-software-engineer/salaries/48033--MI?campaignid=serp-more&fromjk=368a28a26e35707b&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an Embedded Software Engineer, which falls under software development and is outside Vineeth's domain.",
+    "reason": "The posting is a salary search page for an embedded software role, which is explicitly excluded as a software development position.",
     "id": "f697fa16",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior HPC Software & Systems Architect",
@@ -49168,28 +49160,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=6b2dc2bb3dbe83da",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on high-performance computing software systems architecture, which does not match Vineeth's key technical areas of Power Integrity (PI), Advanced Packaging, CAD Methodology, and related EDA tools. The job listing does not mention any direct relevance to semiconductor design, VLSI/EDA industry or leadership in those domains.",
+    "reason": "The job does not contain any of the required technical keywords (e.g., PDN, Redhawk, Voltus) and is primarily a software development role, which is a hard rejection.",
     "id": "b01c0eb1",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior HPC Software & Systems Architect salaries in Milpitas, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Milpitas, CA, USA",
     "url": "https://www.indeed.com/career/hardware-architect/salaries/Milpitas--CA?campaignid=serp-more&fromjk=6b2dc2bb3dbe83da&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development, which is outside Vineeth's domain.",
+    "reason": "The provided link is a salary overview page rather than a specific job posting, and it fails the mandatory keyword filter.",
     "id": "6210b2c6",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Flight Software Engineer III",
@@ -49198,28 +49188,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=940c6d5338bee258",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on developing flight software, which is outside Vineeth's domain of expertise in semiconductor/VLSI/EDA.",
+    "reason": "The role is for a software development position (Flight Software Engineer), which is a hard rejection as it falls outside the candidate's domain of Power Integrity and Hardware Engineering.",
     "id": "b8533170",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Flight Software Engineer III salaries in Louisville, CO",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Louisville, CO, USA",
     "url": "https://www.indeed.com/career/senior-software-engineer/salaries/80027--CO?campaignid=serp-more&fromjk=940c6d5338bee258&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a software development engineer, which does not match Vineeth's background and skills in Power Integrity, Advanced Packaging, SoC PDN sign-off, Thermal Analysis, CAD Methodology.",
+    "reason": "The role is for software development (Flight Software Engineer), which is a hard rejection, and it does not contain any of the required Power Integrity keywords.",
     "id": "8d50d550",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Board Support Package (BSP) Development Engineer (Remote)",
@@ -49228,13 +49216,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=b2d9642adcf8a411",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The role is for Board Support Package (BSP) development, which is a software/firmware engineering position and does not align with the candidate's Power Integrity or Physical Design expertise.",
     "id": "7abb8b41",
     "source": "indeed_ww_semiconductor_architect_p2",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Software Quality Engineer",
@@ -49243,13 +49230,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88647?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software engineering role, not related to power integrity, advanced packaging, or EDA tools.",
+    "reason": "The role is a software quality engineering position for memory-tiering agents, which is outside the candidate's expertise in Power Integrity and Advanced Packaging, and it fails the required keyword pre-filter.",
     "id": "65ee10e0",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "System Software Quality Engineer",
@@ -49258,13 +49244,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88646?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a software development role, which is outside Vineeth's domain of power integrity and packaging.",
+    "reason": "The role is a Software Quality Engineering position that lacks the required technical keywords (PDN, Redhawk, etc.) and does not align with the candidate's expertise in Power Integrity or Advanced Packaging.",
     "id": "f451bf52",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. System Software Quality Engineer",
