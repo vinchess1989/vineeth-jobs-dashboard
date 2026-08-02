@@ -51540,13 +51540,12 @@
     "url": "https://www.linkedin.com/jobs/view/hr-generalist-at-si-group-4446837013",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Non-technical HR role at a chemical manufacturing company, outside Vineeth's domain",
+    "reason": "This is a non-technical HR role and fails the required keyword pre-filter for semiconductor/VLSI/EDA engineering positions.",
     "id": "acb4e02b",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ECAD Engineer (TT28ST RM 4270)",
@@ -51554,14 +51553,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/ecad-engineer-tt28st-rm-4270-at-source-right-4446895452",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The position is an entry-level PCB design role, which does not align with the candidate's 15 years of experience and leadership in SoC Power Integrity and Advanced Packaging.",
     "id": "e98fcab5",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Package Design Engineer",
@@ -51569,14 +51567,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-package-design-engineer-at-renesas-electronics-4444553226",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "This is a senior-level role in advanced packaging (2.5D/3D, FCBGA) that directly aligns with the candidate's 15 years of experience in Power Integrity and Advanced Packaging.",
     "id": "885c52a8",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/renesas_electronics_senior_package_design_engineer_885c52a8.txt"
   },
   {
     "title": "High Speed IO Validation Engineer",
@@ -51584,14 +51581,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/high-speed-io-validation-engineer-at-nvidia-4446882789",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on PCIe, NVLink and high-speed I/O validation rather than VLSI/EDA design.",
+    "matches_requirements": "yes",
+    "reason": "The role focuses on high-speed IO validation involving strong SI/PI fundamentals and PDN noise analysis, which aligns well with the candidate's expertise in Power Integrity.",
     "id": "d60d6e90",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/nvidia_high_speed_io_validation_engin_d60d6e90.txt"
   },
   {
     "title": "Ingeniero/a en electr\u00f3nica para el dise\u00f1o de Computadores T\u00e1cticos de Misi\u00f3n",
@@ -51599,14 +51595,13 @@
     "location": "San Fernando de Henares, Community of Madrid, Spain",
     "url": "https://es.linkedin.com/jobs/view/ingeniero-a-en-electr%C3%B3nica-para-el-dise%C3%B1o-de-computadores-t%C3%A1cticos-de-misi%C3%B3n-at-funditec-4444558088",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a hardware design engineer for mission-critical computers, which is different from Vineeth's domain of Power Integrity and packaging. The job also requires experience with Xpedition/Siemens EDA tools.",
+    "matches_requirements": "yes",
+    "reason": "The role involves leading hardware design in Spain with specific requirements for SI/PI, thermal management, and PCB layout, which aligns perfectly with the candidate's expertise in Power Integrity and Advanced Packaging.",
     "id": "418d9d10",
     "source": "linkedin_eu_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/funditec_ingeniero_a_en_electr_nica_par_418d9d10.txt"
   },
   {
     "title": "Chief Thermal Architect",
@@ -51615,13 +51610,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-thermal-architect-at-general-motors-4447030308",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not within semiconductor/VLSI/EDA domain but rather focuses on thermal systems architecture for vehicle manufacturing.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an automotive thermal systems role rather than a semiconductor Power Integrity or PDN position.",
     "id": "71d0e917",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sales Representative -Expansion Joints",
@@ -51630,13 +51624,12 @@
     "url": "https://www.linkedin.com/jobs/view/sales-representative-expansion-joints-at-frenzelit-4446776316",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales representative for expansion joints, which does not match Vineeth's technical background in power integrity, packaging, and EDA tools.",
+    "reason": "The role is a non-technical sales position in the industrial materials industry and does not meet the required semiconductor/VLSI/EDA technical criteria.",
     "id": "3eaa0dbb",
     "source": "linkedin_ww_thermal_p2",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Robotics Powertrain Thermal Design Engineer, Thermal Engineering, Optimus",
@@ -51645,13 +51638,12 @@
     "url": "https://www.linkedin.com/jobs/view/robotics-powertrain-thermal-design-engineer-thermal-engineering-optimus-at-tesla-4446718437",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for Tesla's robotics division, and focuses on thermal design for joint actuators and controllers - this is outside Vineeth's core Power Integrity and Advanced Packaging expertise.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "234f8396",
     "source": "linkedin_ww_thermal_p2",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Internal Sales Representative (Contractors)",
@@ -51660,13 +51652,12 @@
     "url": "https://uk.linkedin.com/jobs/view/internal-sales-representative-contractors-at-u-value-insulation-group-4447007757",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sales position focused on contractors, unrelated to semiconductor/VLSI/EDA engineering.",
+    "reason": "This is a sales role in the construction and insulation industry, which is a non-technical position outside the semiconductor/VLSI/EDA domain.",
     "id": "15d463c2",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, AI Engineering Tech Lead",
@@ -51675,13 +51666,12 @@
     "url": "https://in.linkedin.com/jobs/view/director-ai-engineering-tech-lead-at-pfizer-4447027164",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This AI Engineering Tech Lead role is focused on commercial applications and product delivery, not semiconductor VLSI EDA.",
+    "reason": "The job is an AI Engineering role in the pharmaceutical industry and does not contain any of the required semiconductor/VLSI keywords.",
     "id": "db72e9bf",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Direttore Cantieri - Elettrico 260601",
@@ -51690,13 +51680,12 @@
     "url": "https://it.linkedin.com/jobs/view/direttore-cantieri-elettrico-260601-at-direction-s-a-s-4445027069",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on electrical installation and project management, rather than semiconductor VLSI EDA technical leadership in power integrity or packaging.",
+    "reason": "The job is for a construction site manager for electrical installations in civil infrastructure (buildings/hospitals) and is not related to semiconductor, VLSI, or EDA domains.",
     "id": "040513f5",
     "source": "linkedin_eu_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Engineering & Delivery - 12 month FTC - \u00a3160k - \u00a3170k",
@@ -51705,13 +51694,12 @@
     "url": "https://uk.linkedin.com/jobs/view/director-of-engineering-delivery-12-month-ftc-%C2%A3160k-%C2%A3170k-at-creo-recruitment-4447017705",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (web, mobile applications) which does not match Vineeth's Power Integrity and Advanced Packaging background.",
+    "reason": "The role is primarily focused on software development and cloud-native platforms for a consumer technology business, and it lacks the mandatory semiconductor keywords (PDN, Redhawk, Voltus, etc.).",
     "id": "e5bdcd01",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Engineering",
@@ -51720,13 +51708,12 @@
     "url": "https://uk.linkedin.com/jobs/view/director-of-engineering-at-wedo-4446784091",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a director-level engineering leadership position with a focus on overall engineering strategy and organization rather than a technical specialist role in Power Integrity or Physical Design. The requirement for experience raising 'the engineering bar across a 500-person engineering organisation' also aligns more with general engineering management skills which are not Vineeth's specific area of expertise.",
+    "reason": "The job is for a software engineering leadership role in the financial services/SaaS industry and fails the mandatory keyword pre-filter for semiconductor-specific technologies.",
     "id": "f3457fd1",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer [33373]",
@@ -51735,13 +51722,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-33373-at-stealth-startup-4444547987",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a senior CTO role at a stealth startup, which does not match Vineeth's domain of power integrity and advanced packaging. It also exceeds his target experience level.",
+    "reason": "The role is primarily focused on software engineering, cloud infrastructure, and SaaS, which is outside Vineeth's hardware/VLSI/Power Integrity domain and lacks required keywords.",
     "id": "5272816d",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -51750,13 +51736,12 @@
     "url": "https://in.linkedin.com/jobs/view/chief-technology-officer-at-kwan-ventures-4446752669",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a CTO role at a venture capital firm, not an engineering position in semiconductor/VLSI/EDA.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it contains none of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on industrial technology and AI software.",
     "id": "922bc1a0",
     "source": "linkedin_india_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
