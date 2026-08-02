@@ -49258,13 +49258,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88645?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software QA and testing, which is outside Vineeth's domain of expertise in power integrity/advanced packaging.",
+    "reason": "The position is for System Software Quality Engineering and lacks the required keywords (PDN, Power Integrity, Redhawk, etc.) related to the candidate's domain expertise.",
     "id": "ce2c14bb",
     "source": "amd_careers",
     "posted_date": "2026-07-09",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Senior Manager QA (Systems)",
@@ -49273,13 +49272,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88644?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on memory-tiering software QA, which is outside Vineeth's primary areas of Power Integrity and Advanced Packaging.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "d4ac6600",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Silicon Design Engineer (Design Automation)",
@@ -49287,14 +49285,13 @@
     "location": "Penang, Malaysia",
     "url": "https://careers.amd.com/careers-home/jobs/89036?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "This is an entry-level role requiring a Bachelors or Masters, which does not match Vineeth's 15+ years of experience.",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's 15 years of experience in CAD methodology, Power Integrity (Redhawk/Totem), and RTL-to-GDS flow automation in a senior Staff Engineer capacity.",
     "id": "caafef98",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": "job_descriptions/amd_staff_silicon_design_engineer__caafef98.txt"
   },
   {
     "title": "Staff Software Engineer - Linux Kernel Drivers",
@@ -49303,13 +49300,12 @@
     "url": "https://careers.arm.com/job/budapest/staff-software-engineer-linux-kernel-drivers/33099/74266619616",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (C developer, leading embedded Linux device driver team) rather than semiconductor/VLSI/EDA.",
+    "reason": "The role is primarily software development (Linux Kernel Drivers), which is explicitly listed as a hard rejection as it is outside the candidate's domain.",
     "id": "a8d0bedc",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "jun. 21, 2025",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Fellow, AI Systems Architect for Operations",
@@ -49318,13 +49314,12 @@
     "url": "https://careers.arm.com/job/austin/fellow-ai-systems-architect-for-operations/33099/96891272608",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This position is a technical leadership role focused on AI systems architecture and automation, not related to semiconductor design/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "e0f9fa55",
     "source": "arm_careers",
     "posted_date": "2026-06-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Software Performance Engineer - Team Lead",
@@ -49333,13 +49328,12 @@
     "url": "https://careers.arm.com/job/cambridge/staff-software-performance-engineer-team-lead/33099/74720022336",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software engineering focused, which does not match Vineeth's domain of Power Integrity, Advanced Packaging, and EDA tools.",
+    "reason": "The role is primarily software engineering and does not contain any of the mandatory Power Integrity or EDA tool keywords required for evaluation.",
     "id": "6a857436",
     "source": "arm_careers",
-    "posted_date": "9561",
+    "posted_date": "feb. 11, 2026",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Assoc Eng Equipment EngineeringSGPosted a day ago",
@@ -49348,13 +49342,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769079120",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for equipment engineering, which does not match Vineeth's background in power integrity, advanced packaging and EDA tools.",
+    "reason": "The job fails the mandatory keyword pre-filter and is an entry-level equipment maintenance role rather than a Power Integrity or CAD engineering position.",
     "id": "ee14f7bf",
     "source": "globalfoundries_careers",
-    "posted_date": "07/29/2026",
+    "posted_date": "a day ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analytics ExpertW\u00e4rtsil\u00e4VaasaGo to job site",
@@ -49363,13 +49356,12 @@
     "url": "https://www.jobly.fi/en/job/data-analytics-expert-2723617",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical business analytics role, outside Vineeth's VLSI/EDA domain.",
+    "reason": "The job is a Data Analytics position for the energy sector and does not meet the required Power Integrity, VLSI, or semiconductor engineering domain criteria.",
     "id": "371cc242",
     "source": "work_in_finland",
     "posted_date": "2026-07-30",
     "deadline": "2026-08-13",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "IP Semiconductor Service Engineer",
@@ -49378,13 +49370,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ip-semiconductor-service-engineer-at-canon-emea-4401731679",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a semiconductor equipment technician service role, which does not match Vineeth's VLSI/EDA technical background and experience.",
+    "reason": "This is an entry-level field service and maintenance role for hardware equipment, which does not align with Vineeth's expertise in Power Integrity, PDN sign-off, or technical leadership.",
     "id": "88017b53",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-16",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer",
@@ -49393,28 +49384,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=df37ae875d33d7af",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a manufacturing engineering role focused on CNC machining and production, which is outside Vineeth's domain of Power Integrity, CAD tools, and semiconductor design.",
+    "reason": "The job is for a mechanical Manufacturing Engineer in CNC machining and does not meet the required technical domain (Power Integrity/EDA/SoC) or the keyword pre-filter.",
     "id": "7c5861c2",
     "source": "indeed_ww_semiconductor",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer salaries in Saginaw, MI",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Saginaw, MI, USA",
     "url": "https://www.indeed.com/career/manufacturing-engineer/salaries/Saginaw--MI?campaignid=serp-more&fromjk=df37ae875d33d7af&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical manufacturing engineering role, not related to semiconductor/VLSI/EDA.",
+    "reason": "The provided link is a salary research page rather than a job posting and does not contain the required technical keywords.",
     "id": "32bc1fd7",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Development Engineer",
@@ -49423,28 +49412,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=2209d3ecc09ac198",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded firmware engineer), which is outside Vineeth's domain.",
+    "reason": "The job title 'Process Development Engineer' does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) and does not align with the candidate's domain expertise.",
     "id": "074d93dc",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Development Engineer salaries in Goleta, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Goleta, CA, USA",
     "url": "https://www.indeed.com/career/process-engineer/salaries/Goleta--CA?campaignid=serp-more&fromjk=2209d3ecc09ac198&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (embedded systems) and does not match Vineeth's VLSI/EDA background in Power Integrity, Advanced Packaging, CAD Methodology.",
+    "reason": "The provided link is a salary research page rather than a specific job posting, and it contains none of the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "0066b3e4",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "All About Psychology Jobs and Common Careers",
@@ -49453,13 +49440,12 @@
     "url": "https://www.indeed.com/career-advice/finding-a-job/psychology-jobs?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a general article about psychology careers, not an actual job posting.",
+    "reason": "The URL provided is an advice article about psychology careers, not a job posting, and it fails the mandatory keyword pre-filter for semiconductor/VLSI roles.",
     "id": "51fa933c",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Clinical Psychology Careers (With 7 Specialized Jobs)",
@@ -49468,13 +49454,12 @@
     "url": "https://www.indeed.com/career-advice/finding-a-job/clinical-psychology-careers?from=viewjob",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is a non-technical role for career advice, not engineering/technical positions in semiconductor/VLSI/EDA.",
+    "reason": "The posting is for Clinical Psychology careers, which is completely unrelated to the semiconductor/VLSI/EDA domain.",
     "id": "da8afeba",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "How Long Does It Take To Become A Clinical Psychologist?",
