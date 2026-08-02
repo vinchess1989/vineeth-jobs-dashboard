@@ -51960,13 +51960,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89006?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on corporate investigations, fraud detection and prevention which falls outside Vineeth's area of expertise in Power Integrity & Advanced Packaging for semiconductor design.",
+    "reason": "The role is a non-technical corporate security position and does not involve Power Integrity, VLSI design, or the required EDA tools.",
     "id": "90f4ca5b",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applied AI Engineer, Top Hardware Priorities",
@@ -51975,13 +51974,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/87872?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an Applied AI Engineer working on AI-assisted engineering workflows, which does not directly match Vineeth's technical background in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "2d656640",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Embedded DeveloperInstaTampereGo to job site",
@@ -51990,13 +51988,12 @@
     "url": "https://www.jobly.fi/en/job/senior-embedded-developer-2723931",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused on GUI, middleware and Linux rather than semiconductor, VLSI or EDA technical domains.",
+    "reason": "The job is primarily a software development role (Embedded Developer) and fails the mandatory keyword pre-filter as it contains none of the required Power Integrity or EDA tool terms.",
     "id": "4a2dde1c",
     "source": "work_in_finland",
     "posted_date": "2026-07-30",
     "deadline": "2026-08-23",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Developer, Embedded SoftwareInstaTampereGo to job site",
@@ -52005,13 +52002,12 @@
     "url": "https://www.jobly.fi/en/job/lead-developer-embedded-software-2723930",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development focused, not semiconductor/VLSI/EDA.",
+    "reason": "The role is for embedded software development, which is an explicit hard rejection category for this profile, and it lacks any required Power Integrity or EDA keywords.",
     "id": "51a090bd",
     "source": "work_in_finland",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Site Manager - Data Center ProjectsEatonVantaaGo to job site",
@@ -52020,13 +52016,12 @@
     "url": "https://www.jobly.fi/en/job/senior-electrical-site-manager-data-center-projects-2706054",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Senior Electrical Site Manager for data center projects, which does not match Vineeth's technical background in semiconductor, VLSI, EDA and power integrity.",
+    "reason": "The job is for a data center construction site management role and does not contain any of the required semiconductor/VLSI/EDA technical keywords or domains.",
     "id": "f0fa1d05",
     "source": "work_in_finland",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manufacturing Engineer",
@@ -52035,13 +52030,12 @@
     "url": "https://uk.linkedin.com/jobs/view/manufacturing-engineer-at-winbro-4447018863",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This manufacturing engineering role at Winbro is focused on aerospace component production, not semiconductor/EDA/VLSI/advanced packaging. It does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, or related fields.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily a mechanical manufacturing role for turbine products.",
     "id": "fa55cf70",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Operations Project Manager",
@@ -52050,13 +52044,12 @@
     "url": "https://uk.linkedin.com/jobs/view/operations-project-manager-at-infinitesima-4447057037",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Project Manager focused on operational delivery, which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and VLSI.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "81cfca70",
     "source": "linkedin_uk_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -52065,13 +52058,12 @@
     "url": "https://fi.linkedin.com/jobs/view/design-engineer-at-recann-4447019869",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Design Engineer specializing in Power Electronics, which falls outside Vineeth's primary areas of Power Integrity (PI), Advanced Packaging, and CAD Methodology.",
+    "reason": "The role is for Power Electronics (high-power frequency converters) and does not contain any of the required keywords (PDN, Redhawk, Voltus, etc.) related to the candidate's expertise in semiconductor Power Integrity.",
     "id": "a8cdcf00",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Design Verification Engineer",
@@ -52080,13 +52072,12 @@
     "url": "https://www.linkedin.com/jobs/view/asic-design-verification-engineer-at-yochana-4444148985",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is primarily verification (UVM, testbench development) which is outside Vineeth's domain.",
+    "reason": "The role is primarily ASIC Design Verification (SystemVerilog/UVM), which is explicitly listed as a hard rejection for this candidate's profile.",
     "id": "059a8dbd",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Stay Connected with Ciena \u2013 Future Opportunities",
@@ -52095,13 +52086,12 @@
     "url": "https://de.linkedin.com/jobs/view/stay-connected-with-ciena-%E2%80%93-future-opportunities-at-ciena-4445734916",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The posting is for a non-technical, general 'Stay Connected' future opportunities role at Ciena, which falls outside Vineeth's engineering/technical domain.",
+    "reason": "The posting is a general talent pool invitation and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "7f39cfd2",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Engineer",
@@ -52110,13 +52100,12 @@
     "url": "https://it.linkedin.com/jobs/view/project-engineer-at-tenova-4443279966",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Mechanical Engineering position, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is in the mining industry for reheating furnaces and requires mechanical or chemical engineering, which is unrelated to the candidate's expertise in semiconductor Power Integrity and VLSI.",
     "id": "5a8b448b",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer - Fibre Plan and Design",
@@ -52125,13 +52114,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-engineer-fibre-plan-and-design-at-tata-communications-transformation-services-tcts-4446189949",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Not within semiconductor/VLSI/EDA domain, focuses on fiber optic planning and telecommunications network design.",
+    "reason": "The job is for fiber optic network planning in the telecommunications industry, which is unrelated to the candidate's expertise in semiconductor Power Integrity and VLSI design.",
     "id": "b1108625",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ing\u00e9nieur / Ing\u00e9nieure RTL design",
@@ -52140,13 +52128,12 @@
     "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ing%C3%A9nieure-rtl-design-at-capgemini-engineering-4330842077",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily RTL design of digital IPs and SoC integration, which falls outside Vineeth's core domain of Power Integrity, Advanced Packaging, and CAD Methodology.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL design rather than the candidate's expertise in Power Integrity.",
     "id": "ee725d90",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Elektronik Hardware-Entwickler (m/w/d)",
@@ -52155,13 +52142,12 @@
     "url": "https://de.linkedin.com/jobs/view/elektronik-hardware-entwickler-m-w-d-at-k%C3%A4rcher-4443611714",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware engineering on embedded electronics for robotic cleaners, which is well outside Vineeth's semiconductor/EDA/VLSI domain of expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "68f3b607",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ALTERNANCE - Apprenti(e) Charg\u00e9(e) de mission Eco-Design H/F",
@@ -52170,13 +52156,12 @@
     "url": "https://fr.linkedin.com/jobs/view/alternance-apprenti-e-charg%C3%A9-e-de-mission-eco-design-h-f-at-totalenergies-4407838203",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an internship in eco-design, which is unrelated to Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is an internship in the oil and gas industry and does not match the candidate's semiconductor/VLSI domain or 15 years of experience.",
     "id": "e047d093",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Proposal Engineer",
