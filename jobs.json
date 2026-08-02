@@ -42832,13 +42832,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-eden-prescott-4446418389",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a founding CTO position at an AI startup, not directly related to semiconductor/VLSI/EDA.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "527736ef",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Assistant Technical Services Officer NRS15487",
@@ -42847,13 +42846,12 @@
     "url": "https://ie.linkedin.com/jobs/view/chief-assistant-technical-services-officer-nrs15487-at-hse-workplace-health-wellbeing-4445741840",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Health Services, not semiconductor/VLSI/EDA.",
+    "reason": "The role is in the healthcare and facility management sector and does not contain any of the required semiconductor, VLSI, or EDA technical keywords or domains.",
     "id": "6e8eaeca",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-29",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-18",
+    "description_file": null
   },
   {
     "title": "Co-Founder & CTO",
@@ -42862,13 +42860,12 @@
     "url": "https://pt.linkedin.com/jobs/view/co-founder-cto-at-litehaus-4446116993",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a co-founder position, which does not fit Vineeth's technical leadership experience.",
+    "reason": "The role is for a software-based AI PropTech startup and does not involve semiconductor, VLSI, or Power Integrity domains.",
     "id": "0990a217",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-28",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Directeur du Centre d'Expertise Informatique et Technologique",
@@ -42877,13 +42874,12 @@
     "url": "https://fr.linkedin.com/jobs/view/directeur-du-centre-d-expertise-informatique-et-technologique-at-bluemega-4443258646",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general IT leadership position with no specific focus on semiconductor, VLSI, EDA domains that Vineeth specializes in.",
+    "reason": "The job fails the keyword pre-filter as it does not contain any of the required technical terms (PDN, Redhawk, etc.) and is in the IT services/software distribution domain rather than semiconductor or hardware engineering.",
     "id": "d375c2a9",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Directeur Technologie EMEA - H/F",
@@ -42892,13 +42888,12 @@
     "url": "https://fr.linkedin.com/jobs/view/directeur-technologie-emea-h-f-at-puig-4441516468",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technology leadership position focused on business alignment and digital transformation, which does not directly match Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology. It requires different key technical skills like data & AI, ITIL, Agile methodologies.",
+    "reason": "The job is an IT leadership role in the beauty and fashion industry, which does not involve semiconductor, VLSI, or EDA engineering domains.",
     "id": "c36777ad",
     "source": "linkedin_eu_semiconductor_cto",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field CTO",
@@ -42907,13 +42902,12 @@
     "url": "https://uk.linkedin.com/jobs/view/field-cto-at-world-wide-technology-4445499615",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on client advisory, demand generation and technical leadership rather than deep technical VLSI/EDA work in power integrity, advanced packaging etc. that Vineeth's background is in.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) and focuses on IT infrastructure and solutions rather than semiconductor/VLSI/EDA design.",
     "id": "522d5d04",
     "source": "linkedin_uk_semiconductor_cto",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field CTO - Finland",
@@ -42921,14 +42915,13 @@
     "location": "Helsinki Metropolitan Area",
     "url": "https://fi.linkedin.com/jobs/view/field-cto-finland-at-coberonchronos-4446842987",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "Matches technical domains of Power Integrity, Advanced Packaging, and Engineering Leadership with leadership title and Finland location.",
+    "matches_requirements": "no",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required technical terms (PDN, EMIR, Redhawk, etc.) and is focused on AI software orchestration.",
     "id": "327e958c",
     "source": "linkedin_fi_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": "job_descriptions/coberonchronos_field_cto___finland_327e958c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EHS Director, TSG (30446)",
@@ -42937,13 +42930,12 @@
     "url": "https://www.linkedin.com/jobs/view/ehs-director-tsg-30446-at-pentagon-technologies-4445428006",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an EHS Director focusing on construction, technical services and large-scale projects, which does not directly align with Vineeth's background in semiconductor VLSI EDA Power Integrity and advanced packaging.",
+    "reason": "The role is for an EHS (Environment, Health, and Safety) Director, which is a non-technical position and does not meet the required keyword pre-filter.",
     "id": "04efaf05",
     "source": "linkedin_ww_semiconductor_technical_leader",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Designer",
@@ -42952,13 +42944,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-designer-at-toll-brothers-4446382023",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in residential home design and construction, well outside semiconductor/VLSI/EDA industry.",
+    "reason": "The position is for an Architectural Designer in the real estate industry, which does not align with the required semiconductor, VLSI, or Power Integrity domains.",
     "id": "bcf5cd78",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architectural Designer/Project Coordinator",
@@ -42967,13 +42958,12 @@
     "url": "https://www.linkedin.com/jobs/view/architectural-designer-project-coordinator-at-heights-venture-4446333211",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily design, which is outside Vineeth's technical expertise and domain of power integrity, advanced packaging, and EDA tools.",
+    "reason": "The job is for a building architecture position and does not relate to the required semiconductor, VLSI, or EDA domains.",
     "id": "d0dcd8ac",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Job Captain",
@@ -42982,13 +42972,12 @@
     "url": "https://www.linkedin.com/jobs/view/job-captain-at-sva-architects-4442685708",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for an architectural position, which does not match Vineeth's semiconductor/VLSI/EDA background.",
+    "reason": "The role is in the architecture and planning industry, which is unrelated to the candidate's semiconductor/VLSI/EDA expertise and fails the keyword pre-filter.",
     "id": "2936f969",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-23",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Designer - Entry Level",
@@ -42997,13 +42986,12 @@
     "url": "https://www.linkedin.com/jobs/view/designer-entry-level-at-cannondesign-4445734465",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an entry-level Designer position, which does not match Vineeth's 15 years of experience in semiconductor/VLSI/EDA. It is also a non-technical design role at an architectural firm.",
+    "reason": "The job is for an entry-level architectural building designer, which is unrelated to the semiconductor/VLSI/EDA domains.",
     "id": "8b19779e",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Customer Solution Architect, Semiconductor, Data Center, and Electronics, Sales Acceleration",
@@ -43012,13 +43000,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=fa48649a81c97117",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a customer-facing sales position with Siemens, which does not fit Vineeth's technical background in Power Integrity and VLSI/EDA.",
+    "reason": "The posting fails the mandatory keyword pre-filter and is a sales-oriented role rather than a technical engineering position in the semiconductor domain.",
     "id": "e98a172c",
     "source": "indeed_ww_semiconductor_architect",
-    "posted_date": "2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
@@ -43027,13 +43014,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=ec84f35a5b4f8ba7",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI/ML software development for distributed systems, which falls outside Vineeth's main areas of Power Integrity and Advanced Packaging.",
+    "reason": "The role is a software development position for an entry-level engineer, which is explicitly excluded and does not align with the candidate's expertise in Power Integrity and Advanced Packaging.",
     "id": "bbc7e33d",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer, Last Mile Delivery, Edge Intelligence",
@@ -43042,13 +43028,12 @@
     "url": "https://www.indeed.com/rc/clk?jk=857ce3bc0fc370a3",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software development focused on vehicle intelligence systems, which does not match Vineeth's background in semiconductor power integrity, packaging, and EDA tools.",
+    "reason": "The position is for a software development role and does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "60eda6b9",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Developer - Amazon Robotics , Autonomous Mobility",
