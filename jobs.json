@@ -56496,13 +56496,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/IC-Layout-Engineer_R026654",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on IC layout engineering, which does not match Vineeth's domain of Power Integrity (PI) / Signal Integrity (SI): SoC PDN sign-off, IR Drop, EM, ESD, power analysis, RedHawk/Voltus. The job posting is for an IC Layout Engineer position at Broadcom in Singapore.",
+    "reason": "The job posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, etc.) and is for an IC Layout role rather than the candidate's primary expertise.",
     "id": "117122b5",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Memory Layout Design Engineer",
@@ -56511,13 +56510,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Electronic-City---S1/Sr-Memory-Layout-Design-Engineer_R026710",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on memory layout design, which falls outside Vineeth's main areas of power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required to pass the keyword pre-filter.",
     "id": "567c29db",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "HBM \u8f2a\u73ed\u8a2d\u5099\u5de5\u7a0b\u5e2b HBM Shift Equipment EngineerTaichung City, Taichung City, TaiwanPosted 2 months ago",
@@ -56526,13 +56524,12 @@
     "url": "https://micron.eightfold.ai/careers/job/30135588",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on equipment maintenance for a semiconductor fab, which does not match Vineeth's background in power integrity and packaging.",
+    "reason": "The job is for a manufacturing Equipment Engineer role focused on hardware maintenance and troubleshooting, which does not meet the mandatory keyword pre-filter (PDN, Redhawk, Voltus, etc.) or the target technical domains.",
     "id": "ad54dfcd",
     "source": "micron_careers",
     "posted_date": "2026-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer, Automotive Robotics",
@@ -56541,13 +56538,12 @@
     "url": "https://de.linkedin.com/jobs/view/design-verification-engineer-automotive-robotics-at-tenstorrent-4377766427",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for Design Verification of AI Accelerators and RISC-V CPUs, not in Vineeth's Power Integrity/Advanced Packaging domain.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily a Design Verification role, which is explicitly excluded.",
     "id": "0fb6e3a4",
     "source": "linkedin_eu_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "vor 2 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "SC Cleated FPGA Engineer",
@@ -56556,13 +56552,12 @@
     "url": "https://uk.linkedin.com/jobs/view/sc-cleated-fpga-engineer-at-experis-uk-4447271046",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This FPGA Engineer role specifically requires SC clearance, which restricts hiring to specific country citizens only (UK in this case). Vineeth Prathapachandra Kaimal is not a match based on the hard rejection criteria for jobs with such restrictions.",
+    "reason": "The job is for an FPGA/Embedded Systems role and does not contain any of the required keywords for Power Integrity or the specified EDA tools.",
     "id": "66b99212",
     "source": "linkedin_uk_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "vor 2 tagen",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Commissioning Engineer",
@@ -56571,13 +56566,12 @@
     "url": "https://fi.linkedin.com/jobs/view/commissioning-engineer-at-valmet-4445495535",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a general commissioning engineer focused on pulp and energy industries, which does not closely match Vineeth's background in power integrity, advanced packaging, and semiconductor design.",
+    "reason": "The role is for an industrial commissioning engineer in the pulp, paper, and energy industries, which is unrelated to semiconductor design, VLSI, or EDA.",
     "id": "f6ed8162",
     "source": "linkedin_fi_rtl_design_engineer",
-    "posted_date": "vor 2 tagen",
+    "posted_date": "vor 5 tagen",
     "deadline": "2026-08-11",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior ASIC Package Design Automation and AI Engineer",
@@ -56586,13 +56580,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-asic-package-design-automation-and-ai-engineer-at-amd-4445063020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on package design automation, which falls within Vineeth's domain of Power Integrity and Advanced Packaging. However, it does not heavily emphasize power integrity specific skills like ANSYS RedHawk or Totem software.",
+    "reason": "The role is based in the US and explicitly states it is not eligible for visa sponsorship, which is a hard rejection.",
     "id": "f6a34360",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Design Automation Engineer",
@@ -56601,13 +56594,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-design-automation-engineer-at-skyworks-solutions-inc-4442710501",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Design Automation Engineer focusing on IC module and wafer flows, packaging DRC automation, and Python-based web applications. It does not match Vineeth's primary areas of expertise in Power Integrity or Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required to pass the initial filter.",
     "id": "9d6eda51",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "vor 1 woche",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Data Analyst",
@@ -56616,13 +56608,12 @@
     "url": "https://in.linkedin.com/jobs/view/data-analyst-at-tekfriday-processing-solutions-pvt-ltd-4444568721",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical business analytics position focused on translating data into insights to support strategic decision making in various business teams. This is far outside Vineeth's technical domain of semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Data Analyst position and fails the mandatory keyword pre-filter as it does not contain any of the required terms related to Power Integrity, VLSI, or EDA tools.",
     "id": "4e7aed5b",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "vor 3 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer 2, Software",
@@ -56631,13 +56622,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-engineer-2-software-at-keysight-technologies-4444544131",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a Software R&D Engineer role at Keysight Technologies, which focuses on PowerArtist platform development. This does not match Vineeth's areas of expertise in Power Integrity, Advanced Packaging, and EDA tool integration.",
+    "reason": "The role is primarily a software development position (C/C++, Linux) and does not contain any of the required power integrity keywords.",
     "id": "4d569139",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "vor 3 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Engineer 4, Software",
@@ -56646,13 +56636,12 @@
     "url": "https://in.linkedin.com/jobs/view/r-d-engineer-4-software-at-keysight-technologies-4444538679",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is for a software R&D engineer, which is outside Vineeth's domain of power integrity and advanced packaging. It involves developing tools with software rather than focusing on hardware-related tasks.",
+    "reason": "The job fails the keyword pre-filter (missing PDN, EMIR, Redhawk, Power Integrity, etc.) and is primarily a software development role, which is outside the candidate's domain.",
     "id": "57d5f45e",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "vor 22 stunden",
+    "posted_date": "vor 3 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior R&D Service Engineer: IC Design Flow (all genders)",
@@ -56661,13 +56650,12 @@
     "url": "https://at.linkedin.com/jobs/view/senior-r-d-service-engineer-ic-design-flow-all-genders-at-silicon-austria-labs-sal-4444588125",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires IC Design Flow experience which does not match Vineeth's background.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "37bbc70f",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "vor 3 tagen",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "EDA Engineer (EDA tools, Semiconductors)",
@@ -56675,14 +56663,13 @@
     "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/eda-engineer-eda-tools-semiconductors-at-capgemini-engineering-4447063673",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The job requires EDA flow experience with Cadence, Synopsys and Siemens tools which is relevant to Vineeth's background. However, it does not explicitly mention power integrity or advanced packaging expertise.",
+    "matches_requirements": "no",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary to pass the mandatory keyword pre-filter.",
     "id": "d950241a",
     "source": "linkedin_eu_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "vor 2 tagen",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Data Analyst",
@@ -56691,13 +56678,12 @@
     "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-helic-co-4446896848",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical junior data analyst position, which does not align with Vineeth's semiconductor/VLSI/EDA technical background.",
+    "reason": "The job is a junior-level data analyst position that does not meet the required technical domain (Power Integrity/VLSI) or the required seniority level.",
     "id": "16197b95",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "vor 16 stunden",
+    "posted_date": "vor 3 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Reliability/Verification Engineer",
@@ -56706,13 +56692,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-reliability-verification-engineer-at-ouster-4445038932",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI compute platforms) and not focused on power integrity, packaging or physical design.",
+    "reason": "The role is located in the US and does not explicitly mention visa sponsorship or relocation.",
     "id": "2c0feeff",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "vor 1 tag",
+    "posted_date": "vor 3 tagen",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Financial Planning and Analysis Specialist",
