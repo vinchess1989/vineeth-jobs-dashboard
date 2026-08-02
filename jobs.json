@@ -54018,13 +54018,12 @@
     "url": "https://uk.linkedin.com/jobs/view/performance-development-engineer-at-mercedes-amg-high-performance-powertrains-4447081116",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on mechanical engineering for high-performance engines, which does not directly align with Vineeth's background in semiconductor VLSI EDA and power integrity.",
+    "reason": "The position is for automotive powertrain and internal combustion engine development, which is outside the target semiconductor and VLSI/EDA domains.",
     "id": "eabff4f7",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Director(Top30 Semconductor company in the world)",
@@ -54032,14 +54031,13 @@
     "location": "Greater Hyderabad Area",
     "url": "https://in.linkedin.com/jobs/view/physical-design-director-top30-semconductor-company-in-the-world-at-mulya-technologies-4447051811",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role without a clear technical domain specified, but has some physical design experience.",
+    "matches_requirements": "yes",
+    "reason": "This is a Physical Design Director role in India requiring leadership in PDN/EMIR and experience with RedHawk/Voltus, which aligns with the candidate's 15 years of experience and technical expertise.",
     "id": "7b7d9c1e",
     "source": "linkedin_india_semiconductor_director",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": "job_descriptions/mulya_technologies_physical_design_director_top30_7b7d9c1e.txt"
   },
   {
     "title": "Senior Process Integration Engineer - GaN",
@@ -54048,13 +54046,12 @@
     "url": "https://es.linkedin.com/jobs/view/senior-process-integration-engineer-gan-at-sparc-foundry-4446798951",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on GaN device & process development, which falls outside Vineeth's core Power Integrity and Advanced Packaging domains.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "3726c8c3",
     "source": "linkedin_eu_semiconductor_technical_leader",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Architekt:in",
@@ -54063,13 +54060,12 @@
     "url": "https://de.linkedin.com/jobs/view/architekt-in-at-takenaka-germany-4445025174",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an architect specializing in building design and construction, not related to semiconductor/VLSI/EDA.",
+    "reason": "The role is for a building architect in the construction industry and does not involve semiconductor/VLSI/EDA engineering or the required technical keywords.",
     "id": "26ba6d59",
     "source": "linkedin_eu_semiconductor_architect",
-    "posted_date": "vor 5 stunden",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Gen AI Architect",
@@ -54078,13 +54074,12 @@
     "url": "https://uk.linkedin.com/jobs/view/gen-ai-architect-at-infinity-quest-4447022772",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an AI Architect, which is software development focused on AI/ML rather than semiconductor/VLSI/EDA.",
+    "reason": "The job is for a Generative AI Architect role, which is unrelated to the required Power Integrity, VLSI, or EDA domains and fails the mandatory keyword pre-filter.",
     "id": "4eff08bc",
     "source": "linkedin_uk_semiconductor_architect",
-    "posted_date": "vor 5 stunden",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Module Development Engineer",
@@ -54093,13 +54088,12 @@
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284263",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is not directly related to Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis or CAD Methodology - key areas of Vineeth's expertise.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level role.",
     "id": "0af5cbe4",
     "source": "intel_careers",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Program Manager 2",
@@ -54108,13 +54102,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89047?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical Program Manager role, not an engineering/technical position.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a customer program management role rather than a technical engineering role.",
     "id": "ff853c05",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Implementation Engineer",
@@ -54123,13 +54116,12 @@
     "url": "https://careers.arm.com/job/san-diego/implementation-engineer/47397/74342995360",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (software engineer, firmware engineer), which is outside Vineeth's domain.",
+    "reason": "The job posting is no longer active and does not contain the mandatory Power Integrity or EDA tool keywords.",
     "id": "7fac2367",
     "source": "arm_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Software Engineer \u2013 Python Infrastructure",
@@ -54138,13 +54130,12 @@
     "url": "https://careers.arm.com/job/cambridge/senior-software-engineer-python-infrastructure/33099/74482268880",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This software engineering role is for Python infrastructure, unrelated to Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "reason": "The role is primarily software development and does not contain any of the required keywords for Power Integrity or PDN analysis.",
     "id": "1ce6e5cb",
     "source": "arm_careers",
     "posted_date": "apr. 09, 2026",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Software Performance Engineer - Team Lead",
@@ -54153,13 +54144,12 @@
     "url": "https://careers.arm.com/job/cambridge/staff-software-performance-engineer-team-lead/47397/74719973760",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is software engineering focused, not semiconductor/VLSI/EDA.",
+    "reason": "The job is a software performance role (hard rejection) and fails the mandatory keyword pre-filter as it contains none of the required terms.",
     "id": "a984bea9",
     "source": "arm_careers",
-    "posted_date": "jul. 28, 2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Firmware Test EngineerEatonVantaaGo to job site",
@@ -54168,13 +54158,12 @@
     "url": "https://www.jobly.fi/en/job/lead-firmware-test-engineer-2704652",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (firmware engineer) which is outside Vineeth's domain.",
+    "reason": "The role is a firmware test engineering position, which is explicitly excluded as a hard rejection for being software/firmware and verification focused.",
     "id": "08ccd049",
     "source": "work_in_finland",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Process Engineer",
@@ -54183,13 +54172,12 @@
     "url": "https://www.linkedin.com/jobs/view/process-engineer-at-pacific-light-hologram-4447097637",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer, firmware engineer, application/backend/embedded software developer) which is outside Vineeth's domain.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a fabrication process engineering role rather than a power integrity or advanced packaging role.",
     "id": "c43cb1e7",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Equipment Engineer",
@@ -54198,13 +54186,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-equipment-engineer-at-amd-4445049088",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an equipment engineer position in a manufacturing environment, focusing on hardware reliability and uptime of ATE systems. This is outside Vineeth's domain of expertise in Power Integrity, Advanced Packaging, EDA tools, CAD methodologies, and physical design.",
+    "reason": "The job description does not contain any of the required keywords and is for an ATE equipment engineering role, which is outside the candidate's expertise in Power Integrity and Packaging.",
     "id": "ba1d1290",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead MTS Logic Design",
@@ -54213,13 +54200,12 @@
     "url": "https://nl.linkedin.com/jobs/view/lead-mts-logic-design-at-rambus-4445066094",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily hardware design (RTL, FPGA) and not focused on power integrity, advanced packaging, or EDA tools which are Vineeth's key expertise areas.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "1154d5c6",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI and Design Automation Engineer",
@@ -54228,13 +54214,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-and-design-automation-engineer-at-amd-4445063020",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Requires software development skills which are outside Vineeth's domain of expertise.",
+    "reason": "The job fails the keyword pre-filter and is a US-based role that explicitly states it is not eligible for visa sponsorship.",
     "id": "9f4b0735",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Staff Engineer, Physical Design",
