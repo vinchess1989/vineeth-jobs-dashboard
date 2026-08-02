@@ -59338,13 +59338,12 @@
     "url": "https://in.linkedin.com/jobs/view/associate-senior-associates-manager-advisory-capex-project-management-pan-india-at-pwc-india-4447142397",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Project Management advisory position, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "reason": "The role is a business consulting and project management position (CAPEX Project Management) and does not contain the required Power Integrity or VLSI technical keywords.",
     "id": "f932a0e6",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr Manager, Automotive Sales",
@@ -59353,13 +59352,12 @@
     "url": "https://in.linkedin.com/jobs/view/sr-manager-automotive-sales-at-renesas-electronics-4447514583",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Sales Manager position, which falls outside Vineeth's focus on engineering and technical domains like power integrity and advanced packaging.",
+    "reason": "The job is a non-technical sales role and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, etc.).",
     "id": "954153db",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -59368,13 +59366,12 @@
     "url": "https://www.linkedin.com/jobs/view/design-verification-engineer-at-ai-axiss-inc-4447136447",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is specifically for a Design Verification Engineer, which falls under verification (UVM), and Vineeth's expertise lies outside of this domain.",
+    "reason": "The role is primarily for Design Verification (SV/UVM), which is explicitly listed as a hard rejection, and it fails the keyword pre-filter.",
     "id": "65ccccbd",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design engineers",
@@ -59382,14 +59379,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/physical-design-engineers-at-weekday-ai-yc-w21-4447529624",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is specifically for a Physical Design Engineer, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "6546d7e7",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Verification Engineer",
@@ -59398,13 +59394,12 @@
     "url": "https://uk.linkedin.com/jobs/view/design-verification-engineer-at-oho-group-4447126463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for a Design Verification Engineer, which falls under verification and is outside of Vineeth's expertise.",
+    "reason": "The role is primarily in Design Verification (UVM/SystemVerilog), which is explicitly excluded as it falls outside the candidate's domain.",
     "id": "36f3aba1",
     "source": "linkedin_uk_vlsi_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CAD Engineer",
@@ -59413,13 +59408,12 @@
     "url": "https://www.linkedin.com/jobs/view/cad-engineer-at-sika-4445094920",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a CAD Engineer position, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job is for construction/manufacturing CAD design using AutoCAD and Inventor and does not involve semiconductor power integrity, VLSI CAD methodology, or any of the required keywords.",
     "id": "66a099f8",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Front-end Design engineer",
@@ -59428,13 +59422,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-front-end-design-engineer-at-hewlett-packard-enterprise-4447285797",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on ASIC front-end design, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required for a match.",
     "id": "c61606d8",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Analog Mixed-Signal Design Verification Engineer (m/f/d)",
@@ -59443,13 +59436,12 @@
     "url": "https://de.linkedin.com/jobs/view/analog-mixed-signal-design-verification-engineer-m-f-d-at-apple-4447143200",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on verification, which falls outside Vineeth's area of expertise.",
+    "reason": "The role is primarily for verification engineering, which is explicitly listed as a hard rejection because it falls outside the candidate's domain of Power Integrity and Physical Design.",
     "id": "d1eb2ffb",
     "source": "linkedin_eu_asic_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC Model Engineer (C++, SystemC)",
@@ -59458,13 +59450,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-model-engineer-c%2B%2B-systemc-at-sandisk-4447516709",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on ASIC modeling with SystemC and C++, which is outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job is an entry-level software modeling role and lacks the required Power Integrity keywords and domain expertise.",
     "id": "109d7b1f",
     "source": "linkedin_india_fpga_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Implementation/Prototyping",
@@ -59472,14 +59463,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/fpga-implementation-prototyping-at-weekday-ai-yc-w21-4447517764",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on FPGA implementation and prototyping, which falls outside Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "9ac0a345",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VLSI Layout Design Engineer",
@@ -59487,14 +59477,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/vlsi-layout-design-engineer-at-nexticron-technologies-4447142044",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on VLSI Layout Design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "4e188935",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FPGA Systems Development Engineer",
@@ -59503,13 +59492,12 @@
     "url": "https://dk.linkedin.com/jobs/view/fpga-systems-development-engineer-at-analog-devices-4443613807",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an entry-level FPGA Systems Development Engineer role, which falls outside Vineeth's experience level and focuses on a different domain than his expertise in power integrity and advanced packaging.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level position for a candidate with 15 years of experience.",
     "id": "37d15fe8",
     "source": "linkedin_eu_fpga_engineer",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -59518,13 +59506,12 @@
     "url": "https://de.linkedin.com/jobs/view/design-engineer-at-enemix-4447292927",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on grid connection design and HV/EHV experience, which falls outside Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The role is for high-voltage grid infrastructure and power systems engineering, which is unrelated to semiconductor Power Integrity or VLSI design.",
     "id": "094eb04a",
     "source": "linkedin_eu_rtl_design_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Designer / Design Engineer at well-funded agentic AI startup",
@@ -59533,13 +59520,12 @@
     "url": "https://uk.linkedin.com/jobs/view/founding-designer-design-engineer-at-well-funded-agentic-ai-startup-at-jack-jill-4447144370",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on UI/UX design and front-end development (React, React Native), which falls outside Vineeth's domain of power integrity, advanced packaging, or VLSI physical design.",
+    "reason": "This is a software and UI/UX design role for an agentic AI startup, which does not involve Power Integrity, VLSI, or semiconductor engineering.",
     "id": "f4ad262a",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior SoC / RTL Design Engineer",
@@ -59547,14 +59533,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-soc-rtl-design-engineer-at-arm-4436244054",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on RTL design, which falls outside Vineeth's area of expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "85154eb0",
     "source": "linkedin_uk_rtl_design_engineer",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Graduate Design Engineer",
