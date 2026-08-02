@@ -59968,13 +59968,12 @@
     "url": "https://in.linkedin.com/jobs/view/program-analyst-incentive-operations-us-shift-at-sophos-4447513121",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Program Analyst focused on incentive operations, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job is a non-technical operations role in incentive management and does not contain any required semiconductor/VLSI keywords or domain expertise.",
     "id": "50bbc57f",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AIT Engineer \u2013 Power Systems",
@@ -59982,14 +59981,13 @@
     "location": "Valencia, Valencian Community, Spain",
     "url": "https://es.linkedin.com/jobs/view/ait-engineer-%E2%80%93-power-systems-at-kats-recruitment-4447137630",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with power systems and integration, but requires 5+ years of experience which is slightly below Vineeth's 15 years, warranting a 'maybe' assessment.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "df74e1e6",
     "source": "linkedin_eu_system_power_integrity",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electronics Engineer (m/f/d)",
@@ -59997,14 +59995,13 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/electronics-engineer-m-f-d-at-agile-robots-se-4438408354",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on general electronics engineering, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "66771fb8",
     "source": "linkedin_eu_system_power_integrity",
-    "posted_date": "2026-07-17",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Business Intelligence Developer - Financial Planning/EPM/CPM",
@@ -60013,13 +60010,12 @@
     "url": "https://uk.linkedin.com/jobs/view/business-intelligence-developer-financial-planning-epm-cpm-at-michael-page-4446564915",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on financial systems and BI development, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The role is a Business Intelligence and Finance Systems position, which does not meet the mandatory technical domain requirements or keyword pre-filters for Semiconductor/VLSI/EDA.",
     "id": "cb69d89c",
     "source": "linkedin_uk_system_power_integrity",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Manager - PCB Design",
@@ -60027,14 +60023,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/manager-pcb-design-at-grafton-recruitment-india-4445504613",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Manager position with significant leadership and technical experience requirements in PCB design, aligning with Vineeth's leadership background and expertise in related areas like signal integrity.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "e47641b2",
     "source": "linkedin_india_si_pi",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/grafton_recruitment__manager___pcb_design_e47641b2.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Centrifugal Blower Supplier In Ahmedabad",
@@ -60043,13 +60038,12 @@
     "url": "https://in.linkedin.com/jobs/view/centrifugal-blower-supplier-in-ahmedabad-at-marvel-air-flow-4446863553",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a centrifugal blower supplier, which falls outside of Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "reason": "The job is for an industrial machinery supplier (centrifugal blowers) and does not contain any of the required semiconductor or VLSI keywords.",
     "id": "d4b7c7d4",
     "source": "linkedin_india_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical & Thermal Engineer - Space Robotics",
@@ -60058,13 +60052,12 @@
     "url": "https://it.linkedin.com/jobs/view/mechanical-thermal-engineer-space-robotics-at-albelissa-engineering-it-digital-solutions-4445055114",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on mechanical and thermal engineering for space robotics, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required to pass the initial filter.",
     "id": "478b8612",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical & Thermal Engineer \u2013 Vacuum Pumps",
@@ -60073,13 +60066,12 @@
     "url": "https://it.linkedin.com/jobs/view/mechanical-thermal-engineer-%E2%80%93-vacuum-pumps-at-agilent-technologies-4447075973",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on mechanical and thermal engineering for vacuum pumps, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The posting fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for a mechanical engineering role focused on vacuum pumps.",
     "id": "ca041a2a",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Pipeline Engineer",
@@ -60088,13 +60080,12 @@
     "url": "https://nl.linkedin.com/jobs/view/pipeline-engineer-at-airswift-4445516410",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Pipeline Engineer, focusing on oil & gas infrastructure which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
+    "reason": "The position is for a mechanical and civil engineering pipeline infrastructure project in the oil and gas/energy sector, which is unrelated to semiconductor Power Integrity or VLSI design.",
     "id": "8c2049b0",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Medior Mechanical Engineer",
@@ -60103,13 +60094,12 @@
     "url": "https://nl.linkedin.com/jobs/view/medior-mechanical-engineer-at-innoflex-b-v-4447503811",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Mechanical Engineer focused on reactor system design and prototyping, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "reason": "The job is for a mechanical engineer in a climate-tech startup and does not involve the required Power Integrity, VLSI, or EDA domains.",
     "id": "dddf5186",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Equipment Engineer - Epitaxy (MOCVD)",
@@ -60118,13 +60108,12 @@
     "url": "https://es.linkedin.com/jobs/view/senior-equipment-engineer-epitaxy-mocvd-at-sparc-foundry-4446903778",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on equipment engineering for MOCVD, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on MOCVD equipment engineering.",
     "id": "acf2bc4a",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Materials and Processes Engineer (Military Derivatives)",
@@ -60133,13 +60122,12 @@
     "url": "https://es.linkedin.com/jobs/view/materials-and-processes-engineer-military-derivatives-at-airbus-defence-and-space-4445085378",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on materials and processes engineering, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
+    "reason": "The job is in the Aerospace Materials and Processes domain and does not contain any of the required semiconductor/VLSI keywords (PDN, Redhawk, Voltus, etc.).",
     "id": "a9b6a081",
     "source": "linkedin_eu_thermal_p2",
-    "posted_date": "hace 8 horas",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Manager (Fluid Dynamics)",
@@ -60148,13 +60136,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-manager-fluid-dynamics-at-tiptopjob-4447511461",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on fluid dynamics and structural analysis within a defense context, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job is for a Fluid Dynamics and Structural engineering role in the defense industry and does not meet the mandatory keyword requirements for Power Integrity or VLSI/SoC domains.",
     "id": "a62e46d0",
     "source": "linkedin_uk_thermal",
-    "posted_date": "hace 2 horas",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Mechanical Product Engineer - up to \u00a360k - ID49878",
@@ -60163,13 +60150,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-mechanical-product-engineer-up-to-%C2%A360k-id49878-at-humand-talent-4445508492",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on mechanical product engineering and lacks a strong focus on power integrity, advanced packaging, EDA tools, or VLSI design, which are Vineeth's core areas of expertise.",
+    "reason": "The job is for a Mechanical Product Engineer role and does not contain any of the required keywords for Power Integrity, VLSI, or EDA analysis.",
     "id": "b52c4d13",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AOCS Engineer",
@@ -60177,14 +60163,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/aocs-engineer-at-iceye-4447293466",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience in AOCS, which falls under the broader domain of spacecraft control and related engineering principles.",
+    "matches_requirements": "no",
+    "reason": "The job is for an Aerospace/Spacecraft AOCS Engineer and does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, etc.) or align with the required Power Integrity/VLSI domains.",
     "id": "26715c8c",
     "source": "linkedin_fi_thermal",
-    "posted_date": "hace 5 horas",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": "job_descriptions/iceye_aocs_engineer_26715c8c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Mechanical Engineering ($225k-$300k + Equity) at Eight Sleep",
