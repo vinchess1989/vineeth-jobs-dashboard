@@ -50294,13 +50294,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-ce-cad-at-micron-technology-4446763432",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on AI/ML-based CAD tool development and automation, which is outside Vineeth's primary domain of power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "cc03bab3",
     "source": "linkedin_ww_eda_design_automation",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior AI & Compute Systems Engineer, Workforce Development",
@@ -50309,13 +50308,12 @@
     "url": "https://uk.linkedin.com/jobs/view/senior-ai-compute-systems-engineer-workforce-development-at-arm-4444525470",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI-enabled hardware verification automation and integrating with OpenAI Codex, which does not fit Vineeth's Power Integrity/Advanced Packaging background.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily focused on hardware verification automation.",
     "id": "98c1301d",
     "source": "linkedin_uk_eda_design_automation",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Lead - Innovation & Process Development",
@@ -50324,13 +50322,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-lead-innovation-process-development-at-coppice-4443682139",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on manufacturing innovation, packaging, and process development rather than semiconductor VLSI EDA engineering.",
+    "reason": "The position is in the consumer/industrial food packaging manufacturing sector rather than the semiconductor/VLSI industry and lacks the required technical keywords.",
     "id": "13518448",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Physical Design Engineer",
@@ -50339,13 +50336,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-physical-design-engineer-at-microsoft-4446770463",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily physical design, which is outside Vineeth's domain of power integrity and advanced packaging.",
+    "reason": "The role is US-based and requires proof of US residency or citizenship without mentioning visa sponsorship, which is a hard rejection criteria.",
     "id": "29cf760f",
     "source": "linkedin_ww_physical_design",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Low-power and Secure Cryptographic Circuits for Flexible Healthcare Patches",
@@ -50354,13 +50350,12 @@
     "url": "https://be.linkedin.com/jobs/view/low-power-and-secure-cryptographic-circuits-for-flexible-healthcare-patches-at-ku-leuven-4433892224",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on circuit design for flexible healthcare patches rather than semiconductor, VLSI, EDA domains.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level PhD fellowship.",
     "id": "450d6b78",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-06-30",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "2026-08-05",
+    "description_file": null
   },
   {
     "title": "Innovation",
@@ -50369,13 +50364,12 @@
     "url": "https://in.linkedin.com/jobs/view/innovation-at-doshi-group-4447000735",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not technical but general innovation management, and does not match Vineeth's VLSI/EDA semiconductor background.",
+    "reason": "The job description fails the mandatory keyword pre-filter (no mention of PDN, EMIR, Redhawk, Power Integrity, etc.) and is a general corporate innovation/management role rather than a technical semiconductor engineering position.",
     "id": "3eece9fe",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Merry Mix",
@@ -50384,13 +50378,12 @@
     "url": "https://it.linkedin.com/jobs/view/merry-mix-at-kerstcadeaukiezen-4442361549",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical retail sales role with no mention of semiconductor, VLSI/EDA, or engineering/technical positions.",
+    "reason": "The posting is a product listing for a retail item ('Merry Mix') in the wholesale industry and does not contain any semiconductor engineering requirements.",
     "id": "2fa81146",
     "source": "linkedin_eu_pdn",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Communications Data Investigator - SPOC",
@@ -50399,13 +50392,12 @@
     "url": "https://uk.linkedin.com/jobs/view/communications-data-investigator-spoc-at-cambridgeshire-constabulary-4446767500",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is in Communications Data Investigation, not related to semiconductor/VLSI/EDA domain of Vineeth.",
+    "reason": "The role is a law enforcement position (Communications Data Investigator) and does not fall within the semiconductor, VLSI, or EDA domains.",
     "id": "c9d983a1",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "more",
@@ -50414,13 +50406,12 @@
     "url": "https://uk.linkedin.com/jobs/view/more-at-project-coli-sco-4446757651",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is not a technical position in semiconductor, VLSI, EDA; it is an administrative job at a research consortium.",
+    "reason": "The posting fails the mandatory keyword pre-filter and describes a project database website rather than a specific semiconductor engineering role.",
     "id": "6d08ce25",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Regulatory reporting/MIFID, MAS, ASIC, EMIR,CANADA /Stakeholder Management/Mumbai",
@@ -50429,13 +50420,12 @@
     "url": "https://in.linkedin.com/jobs/view/regulatory-reporting-mifid-mas-asic-emir-canada-stakeholder-management-mumbai-at-teamware-solutions-4445001292",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for investment banking regulatory reporting, which does not match Vineeth's semiconductor/EDA expertise.",
+    "reason": "The job is a financial regulatory reporting role in investment banking and is not related to semiconductor engineering or Power Integrity.",
     "id": "fd1fe508",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Global Markets ETD Middle Office Lead",
@@ -50444,13 +50434,12 @@
     "url": "https://uk.linkedin.com/jobs/view/director-global-markets-etd-middle-office-lead-at-standard-chartered-4445002513",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical leadership for banking operations, unrelated to semiconductor/VLSI/EDA.",
+    "reason": "The role is in the banking and finance sector (Middle Office Operations), which is unrelated to the semiconductor, VLSI, or EDA domains.",
     "id": "edd5641c",
     "source": "linkedin_uk_emir",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Power Integrity Engineer",
@@ -50459,13 +50448,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-power-integrity-engineer-at-recrew-ai-4446774177",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role directly matches Vineeth's power integrity background, with specific experience in PI simulation and lab validation for high-speed modules like OSFP. It is a senior-level full-time position at an AI startup in Bengaluru.",
+    "reason": "The candidate exceeds the required 8-10 years of experience for this senior-level Power Integrity role in a startup and perfectly matches the PI/PDN technical domain.",
     "id": "e0b9243e",
     "source": "linkedin_india_system_power_integrity",
     "posted_date": "2026-07-30",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/recrew_ai_senior_power_integrity_enginee_e0b9243e.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/recrew_ai_senior_power_integrity_enginee_e0b9243e.txt"
   },
   {
     "title": "M-ERA.NET Call 2014",
@@ -50474,13 +50462,12 @@
     "url": "https://in.linkedin.com/jobs/view/m-era-net-call-2014-at-project-coli-sco-4446758591",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is not a technical role in semiconductor, VLSI, EDA; it is for research and project coordination.",
+    "reason": "The job posting is for a materials research project and does not contain any of the required semiconductor or Power Integrity keywords (PDN, Redhawk, Voltus, etc.).",
     "id": "9aa410e9",
     "source": "linkedin_india_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Pixl Evolution",
@@ -50489,13 +50476,12 @@
     "url": "https://uk.linkedin.com/jobs/view/pixl-evolution-at-lumix-4446771521",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is creative technology-focused and does not match Vineeth's technical background in semiconductor VLSI/EDA.",
+    "reason": "The job is for event check-in technology and does not relate to semiconductor, VLSI, or Power Integrity engineering.",
     "id": "cab5cc92",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Robotics Thermal Prototyping Engineer, Thermal Engineering, Optimus",
@@ -50504,13 +50490,12 @@
     "url": "https://www.linkedin.com/jobs/view/robotics-thermal-prototyping-engineer-thermal-engineering-optimus-at-tesla-4446717422",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on thermal design for robots, which falls outside Vineeth's core domain of Power Integrity and VLSI.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "404f4373",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Centrifugal Fan Suppliers In Amravati",
