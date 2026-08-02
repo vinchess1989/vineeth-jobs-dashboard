@@ -53402,13 +53402,12 @@
     "url": "https://www.linkedin.com/jobs/view/ai-architect-at-daman-4446788450",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (AI/ML frameworks, LLM-based systems, AI agents) rather than VLSI/semiconductor/EDA. It does not match Vineeth's domain.",
+    "reason": "The role is an AI Architect position focused on LLMs and Agentic AI, which does not fall within the required Power Integrity, VLSI, or EDA semiconductor domains.",
     "id": "a13f1f54",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Program Manager (TPM) \u2013 Security IP",
@@ -53417,13 +53416,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89064?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Technical Program Manager role is for Security IP at AMD, which does not match Vineeth's Power Integrity & Advanced Packaging focus.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "bbedcdf1",
     "source": "amd_careers",
     "posted_date": "2026-07-09",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Program Manager, Engineering Operations & Business Systems",
@@ -53432,13 +53430,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88571?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily non-technical business operations, which is outside Vineeth's domain of technical engineering and leadership.",
+    "reason": "The role is a business systems and operations position rather than a technical engineering role, and it fails the mandatory keyword pre-filter (none of the required terms like PDN, Redhawk, or Voltus are present).",
     "id": "52ed152e",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead Embedded CPU PPA Architect",
@@ -53447,13 +53444,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88882?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a technical position requiring CPU architecture, power delivery network design and platform engineering expertise, which aligns with Vineeth's background. However, it is not explicitly stated as a leadership role, so it doesn't match the senior leadership criteria.",
+    "reason": "The role is based in the United States and the job description does not explicitly mention visa sponsorship or relocation, which is a required condition for US-based positions.",
     "id": "15ac0d5a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI and Design Automation Engineer",
@@ -53462,13 +53458,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88985?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on AI/ML automation for packaging design, which does not closely match Vineeth's power integrity and advanced packaging background.",
+    "reason": "The position is located in the US and explicitly states that it is not eligible for visa sponsorship, which is a hard rejection.",
     "id": "a3298dc5",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "AI and Design Automation Engineer",
@@ -53477,13 +53472,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88984?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on AI-driven automation for package design, which does not closely match Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The job description fails the keyword pre-filter as none of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) are present, and the location (Canada) is not in the target regions.",
     "id": "976dfa5d",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Power and Performance Systems Design Engineer",
@@ -53492,13 +53486,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89217?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software development (SW Engineer), which falls outside Vineeth's domain.",
+    "reason": "The job does not contain the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a US-based role that explicitly states it is not eligible for visa sponsorship.",
     "id": "f6725a1b",
     "source": "amd_careers",
     "posted_date": "2026-07-09",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Data Center Acquisition & Energy Manager",
@@ -53507,13 +53500,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88875?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily technical (data center, energy sourcing) and does not fit Vineeth's domain of semiconductor VLSI EDA CAD.",
+    "reason": "This is a non-technical corporate role in data center acquisition and energy sourcing, which does not align with the candidate's expertise in Power Integrity and VLSI engineering.",
     "id": "c9ce6793",
     "source": "amd_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "Silicon Design Engineer",
@@ -53522,13 +53514,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/88666?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This Silicon Design Engineer role focuses on FPGA/ASIC implementation and validation, which is outside Vineeth's power integrity (PI) / advanced packaging domain expertise.",
+    "reason": "The role is located in the US and explicitly states it is not eligible for visa sponsorship, which is a hard rejection criterion.",
     "id": "12aef04a",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior AI Business & System Analyst",
@@ -53537,13 +53528,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Senior-AI-Business---System-Analyst_R026259",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a business analyst role focused on AI adoption, not a technical engineering position related to semiconductor/VLSI/EDA.",
+    "reason": "The role is a business analyst position focused on AI operations and does not meet the mandatory keyword pre-filter or the technical domain requirements for Power Integrity, VLSI, or EDA engineering.",
     "id": "ae821018",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer",
@@ -53552,13 +53542,12 @@
     "url": "https://careers.arm.com/job/bengaluru/engineer/47397/97858606800",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "Role is for hardware engineering, which does not directly match Vineeth's power integrity and advanced packaging background",
+    "reason": "The job posting no longer exists and does not provide any description of the role or its requirements.",
     "id": "7bcfce4c",
     "source": "arm_careers",
-    "posted_date": "jul. 16, 2026",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineer",
@@ -53567,13 +53556,12 @@
     "url": "https://careers.arm.com/job/bengaluru/engineer/47397/97775887024",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The job is an engineering role at Arm, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It requires experience in computer architecture rather than semiconductor design.",
+    "reason": "The job posting is no longer active and does not contain the required technical keywords for a Power Integrity role.",
     "id": "d2de9d7a",
     "source": "arm_careers",
     "posted_date": "2026-07-14",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "FuSa Engineer (HW Safety Engineer)",
@@ -53582,13 +53570,12 @@
     "url": "https://careers.arm.com/job/bengaluru/fusa-engineer-hw-safety-engineer/47397/98200820240",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on functional safety engineering rather than power integrity, packaging, CAD, or SoC physical design.",
+    "reason": "The job posting no longer exists and the role (Functional Safety) does not match the candidate's specific expertise in Power Integrity or Advanced Packaging.",
     "id": "4765de31",
     "source": "arm_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -53597,13 +53584,12 @@
     "url": "https://careers.arm.com/job/bengaluru/design-engineer/47397/70311599664",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This posting is for a Design Engineer role at Arm, which does not directly align with Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, and Thermal Analysis.",
+    "reason": "The job posting is no longer active and does not contain the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "9c12b500",
     "source": "arm_careers",
-    "posted_date": "jul. 11, 2026",
+    "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Engineering Manager",
@@ -53612,13 +53598,12 @@
     "url": "https://careers.arm.com/job/cambridge/engineering-manager/47397/72800313584",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily software engineering and does not fit Vineeth's domain of expertise in Power Integrity, Advanced Packaging, and EDA.",
+    "reason": "The job posting is no longer active and has been removed from the website.",
     "id": "40ba37be",
     "source": "arm_careers",
     "posted_date": "2026-07-11",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer",
