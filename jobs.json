@@ -48418,13 +48418,12 @@
     "url": "https://www.indeed.com/career/senior-director/salaries/Fremont--CA?campaignid=serp-more&fromjk=0ac1c9e6c6e95250&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Senior Director level management position which does not fit Vineeth's technical leadership background in Power Integrity, Packaging and SoC design.",
+    "reason": "The provided content is a salary search result page on a job board rather than a specific job posting.",
     "id": "fe2e6078",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applications Engineering, Executive Director",
@@ -48433,28 +48432,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=c0dc7e60946b0916",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical sales leadership role which falls outside Vineeth's domain of expertise in semiconductor VLSI EDA engineering and technical leadership.",
+    "reason": "The job posting fails the keyword pre-filter as it does not contain any of the mandatory terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "dde09131",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Applications Engineering, Executive Director salaries in Mountain View, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Mountain View, CA, USA",
     "url": "https://www.indeed.com/career/application-developer/salaries/94043--CA?campaignid=serp-more&fromjk=c0dc7e60946b0916&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is more focused on software application development rather than semiconductor/VLSI/EDA engineering and leadership.",
+    "reason": "The provided text is a salary research page on Indeed, not a specific job posting, and it does not contain any of the required technical keywords.",
     "id": "b0877f16",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Memory Technology Roadmap",
@@ -48463,28 +48460,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=ebc636b8f8af9229",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a strategic marketing director position, which does not match Vineeth's technical background in power integrity and advanced packaging.",
+    "reason": "The job description contains none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) necessary for evaluation.",
     "id": "d2c263c1",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "2026-05-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Memory Technology Roadmap salaries in Santa Clara, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Santa Clara, CA, USA",
     "url": "https://www.indeed.com/career/director-of-technology/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=ebc636b8f8af9229&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a non-technical Director of Technology position, which falls outside Vineeth's domain.",
+    "reason": "The provided URL and description are for a salary search page, not a specific job posting.",
     "id": "791cee27",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Semiconductor Sales",
@@ -48493,28 +48488,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=49dce16584f69243",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on Sales and Business Development, which is outside Vineeth's technical domain.",
+    "reason": "The role is a non-technical sales position, which is explicitly excluded by the hard rejection criteria.",
     "id": "e81acf73",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Semiconductor Sales salaries in Oregon",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Oregon, USA",
     "url": "https://www.indeed.com/career/sales-director/salaries/OR?campaignid=serp-more&fromjk=49dce16584f69243&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is non-technical (Sales Director) and does not match Vineeth's engineering background in Power Integrity, Advanced Packaging, SoC Design.",
+    "reason": "The posting is for a non-technical sales role and appears to be a salary research page rather than a specific engineering job posting.",
     "id": "d530e33e",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Director",
@@ -48523,28 +48516,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=319456e1d3aa1cc5",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Technical Director of automotive coatings, which is outside Vineeth's domain in semiconductor/VLSI/EDA.",
+    "reason": "The job is in the automotive coatings and chemicals industry, which falls outside the required semiconductor, VLSI, or EDA domains.",
     "id": "6eb22bdb",
     "source": "indeed_ww_semiconductor_director",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-29",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Director salaries in Cleveland, OH",
     "company": "Indeed",
-    "location": "Extract from page",
+    "location": "Cleveland, OH, USA",
     "url": "https://www.indeed.com/career/technical-director/salaries/44102--OH?campaignid=serp-more&fromjk=319456e1d3aa1cc5&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a non-technical management role, not an engineering/technical position as required.",
+    "reason": "The provided URL is a salary research page, not a specific job posting, and it lacks the required technical keywords and domain relevance.",
     "id": "b2615f50",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director/ Senior Director, Product, Materials Chemistry",
@@ -48553,28 +48544,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=8ce206163f732cb1",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a product leadership position focused on materials chemistry, which is outside Vineeth's domain of Power Integrity and VLSI design.",
+    "reason": "The position is for a materials chemistry product leadership role and does not fall within the required semiconductor engineering, power integrity, or physical design domains.",
     "id": "9f7818f4",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director/ Senior Director, Product, Materials Chemistry salaries in Cambridge, MA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Cambridge, MA, USA",
     "url": "https://www.indeed.com/career/director-of-product-management/salaries/Cambridge--MA?campaignid=serp-more&fromjk=8ce206163f732cb1&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Director of Product Management, which does not match Vineeth's technical engineering background in Power Integrity, Packaging, EDA CAD tools, and VLSI design.",
+    "reason": "The provided link is a salary search page rather than a job posting, and it fails the mandatory keyword pre-filter for Power Integrity or relevant EDA tools.",
     "id": "69da0c05",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Partnerships, AI Compute",
@@ -48583,28 +48572,26 @@
     "url": "https://www.indeed.com/rc/clk?jk=fc8528077b06e50c",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is related to AI infrastructure partnerships rather than semiconductor/VLSI/EDA roles focused on power integrity, packaging, CAD or physical design.",
+    "reason": "The job is a non-technical business development/partnerships role and does not contain any of the required technical keywords (PDN, Redhawk, Voltus, etc.).",
     "id": "e32c21dd",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Partnerships, AI Compute salaries in San Francisco, CA",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "San Francisco, CA, USA",
     "url": "https://www.indeed.com/career/director-of-partnerships/salaries/San-Francisco--CA?campaignid=serp-more&fromjk=fc8528077b06e50c&from=serp-more",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for non-technical partnerships leadership, not engineering or technical roles in semiconductor/VLSI/EDA. It does not match Vineeth's expertise.",
+    "reason": "The posting is a salary research page rather than a job description and lacks the required technical keywords and engineering focus.",
     "id": "e3e6d8bc",
     "source": "indeed_ww_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -48612,14 +48599,13 @@
     "location": "San Francisco, CA",
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-stealth-startup-4444565323",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "Senior leadership role with semiconductor experience, but specific technical domain not mentioned.",
+    "matches_requirements": "no",
+    "reason": "The job description lacks all mandatory technical keywords and is a software-centric CTO role rather than a semiconductor or VLSI engineering position.",
     "id": "a1a97a0e",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -48628,13 +48614,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-stealth-startup-4444547987",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a senior CTO position that would require extensive domain knowledge across many technical areas, more than what Vineeth's background can cover. It's also a leadership position which may be a stretch given his current title of Technical Leader - Power Integrity & Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "31c9ed06",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information Officer",
