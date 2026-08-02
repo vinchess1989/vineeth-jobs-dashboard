@@ -59758,13 +59758,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cpu-physical-design-engineer-staff-at-european-tech-recruit-4447525995",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience in physical design, specifically CPU implementation, and mentions relevant EDA tools.",
+    "reason": "The role is a senior-level Physical Design position in the UK involving Power Integrity and EM analysis using RedHawk and Voltus, perfectly aligning with the candidate's 15 years of experience and technical expertise.",
     "id": "bb4b87bd",
     "source": "linkedin_uk_physical_design",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/european_tech_recrui_cpu_physical_design_engineer___bb4b87bd.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/european_tech_recrui_cpu_physical_design_engineer___bb4b87bd.txt"
   },
   {
     "title": "Senior Digital Design Engineer",
@@ -59773,13 +59772,12 @@
     "url": "https://de.linkedin.com/jobs/view/senior-digital-design-engineer-at-bosch-sensortec-gmbh-4445520057",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Digital Design Engineer, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "0ba4950e",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Specific Integrated Circuit Design Engineer",
@@ -59788,13 +59786,12 @@
     "url": "https://uk.linkedin.com/jobs/view/application-specific-integrated-circuit-design-engineer-at-oho-group-4447147629",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on ASIC design with RTL skills, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "7221f236",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Ben Nadeau",
@@ -59803,13 +59800,12 @@
     "url": "https://in.linkedin.com/jobs/view/ben-nadeau-at-canadian-association-of-rallysport-4447254671",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is clearly not related to semiconductor, VLSI, or EDA domains and appears to be a general entry-level position within a sporting organization.",
+    "reason": "The job is for a sports/rallying role and does not belong to the semiconductor, VLSI, or EDA domains.",
     "id": "e69711eb",
     "source": "linkedin_india_pdn",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Executive Protection Officer",
@@ -59818,13 +59814,12 @@
     "url": "https://in.linkedin.com/jobs/view/executive-protection-officer-at-adani-enterprises-limited-4447501825",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an Executive Protection Officer, which falls outside Vineeth's technical domain of power integrity, advanced packaging, and related VLSI/EDA areas.",
+    "reason": "The job is for a physical security role (Executive Protection Officer) and does not pertain to the Semiconductor, VLSI, or EDA domains.",
     "id": "ba2a41ab",
     "source": "linkedin_india_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Investigator (S)",
@@ -59833,13 +59828,12 @@
     "url": "https://at.linkedin.com/jobs/view/investigator-s-at-osce-4445518138",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is an investigator position focused on internal oversight and fraud prevention, which falls outside Vineeth's expertise in power integrity, advanced packaging, or related areas.",
+    "reason": "The position is an internal oversight investigator role and does not pertain to semiconductor engineering, Power Integrity, or the candidate's specific technical domain.",
     "id": "dd7de8a7",
     "source": "linkedin_eu_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Investigator",
@@ -59848,13 +59842,12 @@
     "url": "https://uk.linkedin.com/jobs/view/investigator-at-peel-consultancy-talent-solutions-4447518672",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Police Staff Investigator, which falls outside of Vineeth's domain of power integrity, advanced packaging, and related VLSI/EDA expertise.",
+    "reason": "The role is for a police investigator in the law enforcement sector, which is unrelated to the semiconductor, VLSI, or EDA industries.",
     "id": "7a8e8387",
     "source": "linkedin_uk_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "eDiscovery Specialist",
@@ -59863,13 +59856,12 @@
     "url": "https://uk.linkedin.com/jobs/view/ediscovery-specialist-at-vodafone-4445097733",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on eDiscovery and digital forensics, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
+    "reason": "The role is in Digital Forensics and eDiscovery, which is unrelated to the candidate's expertise in Power Integrity, VLSI, or semiconductor engineering.",
     "id": "94309454",
     "source": "linkedin_uk_pi",
-    "posted_date": "vor 1 stunde",
+    "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "India Branch - Senior FX & Derivatives Operations - Associate",
@@ -59878,13 +59870,12 @@
     "url": "https://in.linkedin.com/jobs/view/india-branch-senior-fx-derivatives-operations-associate-at-jpmorganchase-4443934156",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FX & Derivatives Operations, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job is in the financial services sector (FX & Derivatives Operations) and does not involve semiconductor, VLSI, or EDA engineering.",
     "id": "61523db6",
     "source": "linkedin_india_emir",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Legal Operations Expert (m/f/d)",
@@ -59893,13 +59884,12 @@
     "url": "https://fi.linkedin.com/jobs/view/legal-operations-expert-m-f-d-at-riverty-4447542085",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Legal Operations Expert, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "reason": "The position is a non-technical legal operations role and does not contain any of the required semiconductor-specific keywords.",
     "id": "7aa47e0b",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Global Data Regulatory Business Partner",
@@ -59908,13 +59898,12 @@
     "url": "https://fi.linkedin.com/jobs/view/global-data-regulatory-business-partner-at-ramboll-4447523812",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Data Regulatory Business Partner, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The role is a data privacy and regulatory compliance position, which falls under a non-technical domain and lacks the required semiconductor/VLSI/EDA technical keywords.",
     "id": "0078a62c",
     "source": "linkedin_fi_emir",
     "posted_date": "2026-07-31",
     "deadline": "2026-08-31",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Scientific Simulation Engineer | Coherence Engine",
@@ -59922,14 +59911,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/scientific-simulation-engineer-coherence-engine-at-cambridge-future-tech-4447510948",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns well with Vineeth's background in power integrity and simulation, specifically involving model development and validation.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "f34d7ea2",
     "source": "linkedin_uk_ir_drop",
-    "posted_date": "vor 1 stunde",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/cambridge_future_tec_scientific_simulation_engineer_f34d7ea2.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Vice President Information Technology",
@@ -59938,13 +59926,12 @@
     "url": "https://www.linkedin.com/jobs/view/vice-president-information-technology-at-scout-search-group-llc-4447540295",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Vice President of Information Technology, which is a non-technical leadership position outside Vineeth's domain.",
+    "reason": "This is a corporate Information Technology leadership role for a general manufacturing/industrial organization, not a semiconductor, VLSI, or EDA engineering position.",
     "id": "56f21be1",
     "source": "linkedin_ww_system_power_integrity",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer I \u2013 Silicon Validation (Post-Silicon Validation)",
@@ -59952,14 +59939,13 @@
     "location": "Gurugram, Haryana, India",
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-i-%E2%80%93-silicon-validation-post-silicon-validation-at-supple-soft-pvt-ltd-4447104113",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on silicon validation, which falls under verification, and is therefore outside Vineeth's domain.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "5a69f4ae",
     "source": "linkedin_india_system_power_integrity",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical/Electronic Components and Integration Engineer",
@@ -59967,14 +59953,13 @@
     "location": "Bengaluru East, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/electrical-electronic-components-and-integration-engineer-at-caterpillar-inc-4438640990",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on electrical systems engineering and PCB design, falling outside Vineeth's primary focus areas of power integrity, advanced packaging, and related methodologies.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "e45a65ad",
     "source": "linkedin_india_system_power_integrity",
-    "posted_date": "2026-07-17",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Program Analyst, Incentive Operations (US Shift)",
