@@ -62446,13 +62446,12 @@
     "url": "https://www.linkedin.com/jobs/view/certified-quality-engineer-at-moses-lake-industries-4438526187",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Quality Engineer position, which falls outside Vineeth's domain of focus on Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a Quality Engineering role rather than a VLSI/EDA design position.",
     "id": "2cf4e146",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Field Service Engineer - Site Lead MOCVD",
@@ -62460,14 +62459,13 @@
     "location": "Sugar Land, TX",
     "url": "https://www.linkedin.com/jobs/view/senior-field-service-engineer-site-lead-mocvd-at-aixtron-inc-4438802525",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Field Service Engineer focused on MOCVD equipment installation and maintenance, which falls outside Vineeth's Power Integrity and Advanced Packaging expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "8c1d89a5",
     "source": "linkedin_ww_semiconductor",
-    "posted_date": "2026-07-10",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Principal Technical Quality Engineer",
@@ -62476,13 +62474,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-principal-technical-quality-engineer-at-cadence-4436866385",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Quality Engineering position, which falls outside of Vineeth's expertise in power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) required for the initial filter.",
     "id": "194adb11",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Operations Program Manager (Spector)",
@@ -62491,13 +62488,12 @@
     "url": "https://www.linkedin.com/jobs/view/operations-program-manager-spector-at-veeco-4445521343",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an Operations Program Manager, which falls outside Vineeth's focus on power integrity, advanced packaging, and related technical domains.",
+    "reason": "The job posting fails the keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "dc19422c",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Reliability Engineer",
@@ -62506,13 +62502,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-reliability-engineer-at-macom-4258497467",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on reliability engineering of optoelectronic devices, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging and related areas.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on material science reliability rather than the specified technical domains.",
     "id": "fd192f7b",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer, Design Verification Engineering",
@@ -62521,13 +62516,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-engineer-design-verification-engineering-at-analog-devices-4425319709",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on design verification, which falls outside Vineeth's domain of expertise.",
+    "reason": "The role is primarily Design Verification Engineering, which is explicitly excluded as a hard rejection for this candidate.",
     "id": "f3b8d083",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PROGRAM MANAGER",
@@ -62536,13 +62530,12 @@
     "url": "https://www.linkedin.com/jobs/view/program-manager-at-moses-lake-industries-4432303783",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Program Manager, which is a non-technical position and falls outside Vineeth's engineering focus.",
+    "reason": "The job fails the mandatory keyword pre-filter and is a chemical program management role rather than a technical PI, Packaging, or CAD engineering position.",
     "id": "97822f99",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Site Lead Field Service Engineer, MOCVD",
@@ -62551,13 +62544,12 @@
     "url": "https://www.linkedin.com/jobs/view/site-lead-field-service-engineer-mocvd-at-aixtron-se-4440001060",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on field service engineering and MOCVD equipment, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "d39dc5f2",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-17",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief of Staff, Program Management - Photonic Systems for AI",
@@ -62566,13 +62558,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-of-staff-program-management-photonic-systems-for-ai-at-mediatek-4416320844",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Chief of Staff / Program Management position focused on photonic systems, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job posting fails the keyword pre-filter as it contains none of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "690fb892",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-24",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Engineer",
@@ -62580,14 +62571,13 @@
     "location": "Ulm, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/product-engineer-at-wd-4431561748",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Product Engineer focused on reliability and quality assurance, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "cf6f172a",
     "source": "linkedin_eu_semiconductor",
-    "posted_date": "vor 1 woche",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field-Programmable Gate Arrays Engineer",
@@ -62596,13 +62586,12 @@
     "url": "https://it.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-enginium-4445510958",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on FPGA design using VHDL/Verilog, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "2cb129d7",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "vor 6 stunden",
+    "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Engineer, Digital Design",
@@ -62611,13 +62600,12 @@
     "url": "https://de.linkedin.com/jobs/view/sr-engineer-digital-design-at-sitime-4447511609",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for a Digital Design Engineer, which falls under general VLSI design but is not specifically focused on Power Integrity, Advanced Packaging, CAD Methodology, or Thermal Analysis as Vineeth specializes in.",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required to pass the pre-filter.",
     "id": "17e3b757",
     "source": "linkedin_eu_rtl_design_engineer",
-    "posted_date": "vor 8 stunden",
+    "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Engineer - IC Package Design",
@@ -62626,13 +62614,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-ic-package-design-at-qualcomm-4447189459",
     "visited": "yes",
     "matches_requirements": "yes",
-    "reason": "The role aligns well with Vineeth's experience in IC package design and program execution, while also involving some EDA tool usage and scripting which fits within his skillset.",
+    "reason": "The role aligns perfectly with the candidate's extensive experience in Advanced Packaging and IC package design, and is located in a priority region (India).",
     "id": "e4405f2e",
     "source": "linkedin_india_advanced_packaging",
-    "posted_date": "vor 1 stunde",
+    "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": "job_descriptions/qualcomm_senior_engineer___ic_package_d_e4405f2e.txt",
-    "needs_re_review": true
+    "description_file": "job_descriptions/qualcomm_senior_engineer___ic_package_d_e4405f2e.txt"
   },
   {
     "title": "Physical Design Lead, ASIC",
@@ -62640,14 +62627,13 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/physical-design-lead-asic-at-google-4447167093",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Physical Design Lead, which falls under the Physical Design domain and aligns with Vineeth's experience, but it requires relocation to Sunnyvale, CA, violating the location constraints.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "3db8bf99",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "vor 5 stunden",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "PWB Designer, Senior - Cork, Ireland",
@@ -62655,14 +62641,13 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/pwb-designer-senior-cork-ireland-at-qualcomm-4447196292",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on PWB design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "5b8067b5",
     "source": "linkedin_eu_physical_design",
-    "posted_date": "vor 1 stunde",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Specialist",
