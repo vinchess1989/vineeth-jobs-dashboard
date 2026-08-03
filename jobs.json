@@ -63482,13 +63482,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-of-protection-and-controls-power-management-at-integrated-power-services-4447589392",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VP-level executive position focused on business leadership and financial performance, which falls outside Vineeth's technical expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The job is in the industrial power systems/infrastructure domain and does not meet the required semiconductor/VLSI/EDA technical domain or the keyword pre-filter.",
     "id": "7500c860",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Director of Engineering - Northeast and Midwest",
@@ -63496,14 +63495,13 @@
     "location": "Thornton, IL",
     "url": "https://www.linkedin.com/jobs/view/sr-director-of-engineering-northeast-and-midwest-at-integrated-power-services-4447585435",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Senior Director of Engineering with 10-15+ years experience, leading teams and aligning with Vineeth's leadership profile within a relevant domain (rotating equipment repair).",
+    "matches_requirements": "no",
+    "reason": "The role is in the industrial motor and generator repair and service industry, which is outside the required semiconductor, VLSI, or EDA domains.",
     "id": "400191dc",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/integrated_power_ser_sr__director_of_engineering____400191dc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director - Manufacturing Infrastructure & Applications Leader",
@@ -63511,14 +63509,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/director-manufacturing-infrastructure-applications-leader-at-globalfoundries-4447178782",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Director-level leadership position, but it's focused on manufacturing infrastructure and applications rather than Vineeth\u2019s power integrity/advanced packaging expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "d63a46f9",
     "source": "linkedin_india_advanced_packaging",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Product Director \u2013 Data, Analytics & AI",
@@ -63527,13 +63524,12 @@
     "url": "https://uk.linkedin.com/jobs/view/product-director-%E2%80%93-data-analytics-ai-at-siena-partnership-4445535982",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Product Director focused on Data, Analytics and AI, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related VLSI domains.",
+    "reason": "The job is a non-technical Product Director role in the data and analytics industry, failing the mandatory keyword pre-filter and domain requirements for semiconductor/VLSI/EDA.",
     "id": "83a592a8",
     "source": "linkedin_uk_advanced_packaging",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead IT Systems Engineer",
@@ -63542,13 +63538,12 @@
     "url": "https://es.linkedin.com/jobs/view/lead-it-systems-engineer-at-remofirst-4447505648",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for an IT Systems Engineer focused on identity and endpoint security, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
+    "reason": "The role is an IT Systems and endpoint security position, which does not fall within the required semiconductor, VLSI, or Power Integrity domains.",
     "id": "fc5a7d10",
     "source": "linkedin_eu_soc_design",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Cyber Security Engineer (SOC)",
@@ -63557,13 +63552,12 @@
     "url": "https://uk.linkedin.com/jobs/view/cyber-security-engineer-soc-at-ministry-of-housing-communities-and-local-government-4447180810",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Cyber Security Engineer focusing on SOC operations, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The job is for a Cyber Security SOC Engineer, which is completely outside the candidate's domain of Power Integrity, VLSI, and Advanced Packaging.",
     "id": "15a31624",
     "source": "linkedin_uk_soc_design",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Datacenter Server CPU Platform Architect",
@@ -63571,14 +63565,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/datacenter-server-cpu-platform-architect-at-mediatek-4447197474",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on datacenter server platform architecture, which falls outside Vineeth's expertise in power integrity, advanced packaging and SoC PDN sign-off.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "ac847823",
     "source": "linkedin_ww_pdn",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Home Health Aide - PDN",
@@ -63587,13 +63580,12 @@
     "url": "https://www.linkedin.com/jobs/view/home-health-aide-pdn-at-aveanna-healthcare-4424494413",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Home Health Aide, which falls entirely outside Vineeth's technical domains and experience.",
+    "reason": "The job is for a healthcare position (Home Health Aide) and is not a technical engineering role in the semiconductor or VLSI domain.",
     "id": "01755513",
     "source": "linkedin_ww_pdn",
     "posted_date": "2026-06-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Healthcare Data Analyst I",
@@ -63602,13 +63594,12 @@
     "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-i-at-boston-children-s-hospital-4447700924",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Healthcare Data Analyst position, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
+    "reason": "The role is a healthcare data analyst position, which is unrelated to the semiconductor/VLSI/EDA domain and does not match the candidate's technical expertise.",
     "id": "16f4f5ed",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Healthcare Business Analyst",
@@ -63617,13 +63608,12 @@
     "url": "https://www.linkedin.com/jobs/view/healthcare-business-analyst-at-cormac-4447149332",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Business Analyst focusing on healthcare regulations and requirements, which falls outside Vineeth's domain of power integrity, advanced packaging, and related areas.",
+    "reason": "The job is a non-technical healthcare business analyst role and is no longer accepting applications.",
     "id": "c8837c56",
     "source": "linkedin_ww_pi",
     "posted_date": "2026-07-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead or Principal Process Engineer",
@@ -63632,13 +63622,12 @@
     "url": "https://www.linkedin.com/jobs/view/lead-or-principal-process-engineer-at-si-group-4447706265",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Principal Process Engineer focused on chemical process and production engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
+    "reason": "The job is for a chemical process engineering role, which does not fall within the semiconductor/VLSI/EDA technical domains and lacks the required keywords.",
     "id": "d7e55764",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer",
@@ -63647,13 +63636,12 @@
     "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-at-tau-4447709140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Mechanical Engineer position focused on mechanical design and production, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The job lacks the required keyword pre-filter (PDN, Power Integrity, etc.) and is a mechanical engineering role in the power electronics/automotive space, not a semiconductor/VLSI position.",
     "id": "89f13ec8",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer",
@@ -63661,14 +63649,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-at-amd-4445583272",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on thermal engineering, which falls outside Vineeth's primary expertise in power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "4b770f0b",
     "source": "linkedin_ww_thermal_p2",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer",
@@ -63676,14 +63663,13 @@
     "location": "Greater Seattle Area",
     "url": "https://www.linkedin.com/jobs/view/thermal-engineer-at-blue-origin-4430644435",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on thermal engineering, which is outside of Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "b016acc7",
     "source": "linkedin_ww_thermal_p2",
-    "posted_date": "2026-07-18",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Thermal Fluid Engineer \u2013 Cooling Air System & Clearance Design",
@@ -63692,13 +63678,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-fluid-engineer-%E2%80%93-cooling-air-system-clearance-design-at-siemens-energy-4447406079",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires US residency and citizenship, violating the location rejection criteria.",
+    "reason": "The job is in the energy/turbomachinery sector and does not meet the required keywords or the specific semiconductor/VLSI/EDA domain criteria.",
     "id": "0c4182d1",
     "source": "linkedin_ww_thermal_p2",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Analyst III",
