@@ -63692,13 +63692,12 @@
     "url": "https://www.linkedin.com/jobs/view/thermal-analyst-iii-at-blue-origin-4440157972",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a US citizen or permanent resident, violating the location rejection criteria.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus) necessary to proceed with the evaluation.",
     "id": "b04120c9",
     "source": "linkedin_ww_thermal_p2",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer \u2013 Analyst - Uitzendbureau.nl",
@@ -63706,14 +63705,13 @@
     "location": "Alkmaar, North Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/thermal-engineer-%E2%80%93-analyst-uitzendbureau-nl-at-jobster-4447451556",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on thermal engineering and FEA/CFD simulations, which falls outside Vineeth's core expertise in power integrity, advanced packaging, and SoC PDN sign-off.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "e1c8b277",
     "source": "linkedin_eu_thermal",
-    "posted_date": "2026-08-01",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Design Engineer",
@@ -63721,14 +63719,13 @@
     "location": "Newry Mourne And Down, Northern Ireland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/design-engineer-at-panasonic-appliances-refrigeration-systems-de-m%C3%A9xico-s-a-de-c-v-4447401094",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a general design engineering position, which falls outside Vineeth's expertise in power integrity, advanced packaging and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "ff82107d",
     "source": "linkedin_uk_thermal",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Expert, Process Analysis",
@@ -63737,13 +63734,12 @@
     "url": "https://fi.linkedin.com/jobs/view/expert-process-analysis-at-fortum-4447720598",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on nuclear power plant process analysis using Apros, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job is in the nuclear energy sector and does not contain any of the mandatory semiconductor keywords or domain-specific technologies.",
     "id": "29ba8ebc",
     "source": "linkedin_fi_thermal",
     "posted_date": "2026-08-01",
     "deadline": "2026-08-23",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Critical Environment Technician",
@@ -63752,13 +63748,12 @@
     "url": "https://fi.linkedin.com/jobs/view/senior-critical-environment-technician-at-microsoft-4443379026",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Critical Environment Technician, which focuses on datacenter maintenance and operations, falling outside Vineeth's expertise in power integrity, advanced packaging, and VLSI design.",
+    "reason": "The role is for a data center facility maintenance technician, which does not align with the candidate's VLSI/Semiconductor Power Integrity and Advanced Packaging expertise.",
     "id": "15fae7a3",
     "source": "linkedin_fi_thermal",
     "posted_date": "2026-07-25",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Manager, New Product Introduction (NPI)",
@@ -63766,14 +63761,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/sr-manager-new-product-introduction-npi-at-sitime-4411836914",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Sr. Manager, NPI, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "c1b8b315",
     "source": "linkedin_ww_semiconductor_director",
-    "posted_date": "2026-07-18",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Sourcing Engineer, Semiconductor Backend",
@@ -63782,13 +63776,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-sourcing-engineer-semiconductor-backend-at-microsoft-4447572364",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a sourcing director focused on semiconductor backend, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The role is a non-technical sourcing and supply chain position and fails the mandatory keyword pre-filter as it does not contain PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus.",
     "id": "0714e8be",
     "source": "linkedin_ww_semiconductor_director",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Analog IC Design",
@@ -63797,68 +63790,67 @@
     "url": "https://uk.linkedin.com/jobs/view/director-of-analog-ic-design-at-microtech-global-ltd-4447744395",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "dcd9ded7",
     "source": "linkedin_uk_semiconductor_director",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technical Director",
     "company": "Lynx Recruitment",
     "location": "Towcester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/technical-director-at-lynx-recruitment-4447729722",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on Automated Test Equipment (ATE).",
     "id": "d9bdd149",
     "source": "linkedin_uk_semiconductor_director",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President of Engineering",
     "company": "Stealth AI Startup",
     "location": "Austin, Texas Metropolitan Area",
     "url": "https://www.linkedin.com/jobs/view/vice-president-of-engineering-at-stealth-ai-startup-4445547458",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "31fc0bef",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Vice President of Engineering",
     "company": "Stealth AI Startup",
     "location": "Greater Phoenix Area",
     "url": "https://www.linkedin.com/jobs/view/vice-president-of-engineering-at-stealth-ai-startup-4445544492",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "a56ee18b",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Wildcard",
     "company": "Kova Labs",
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/wildcard-at-kova-labs-4447412987",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description fails the keyword pre-filter as it contains none of the required technical terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a general 'Wildcard' application.",
     "id": "ccaa0996",
     "source": "linkedin_fi_semiconductor_cto",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "needs_re_review": true
+    "description_file": null
   }
 ]
