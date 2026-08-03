@@ -63062,13 +63062,12 @@
     "url": "https://nl.linkedin.com/jobs/view/hardware-engineer-intern-at-imc-trading-4447182227",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship for a student, requiring familiarity with VHDL/Verilog and C++/Python, which falls outside Vineeth's experience and focus.",
+    "reason": "The job fails the keyword pre-filter (missing PDN, Redhawk, etc.) and is an internship for students graduating in 2028, which does not match the candidate's 15 years of experience.",
     "id": "37f05c2a",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Intern (w/m/d)",
@@ -63077,13 +63076,12 @@
     "url": "https://de.linkedin.com/jobs/view/hardware-intern-w-m-d-at-pilotarc-4447560112",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship requiring CAD and basic electronics skills, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related domains.",
+    "reason": "The job is a hardware internship focused on mechanical engineering prototyping and lacks the required Power Integrity, VLSI, or semiconductor EDA domains.",
     "id": "4148a232",
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design Engineer",
@@ -63092,13 +63090,12 @@
     "url": "https://www.linkedin.com/jobs/view/digital-design-engineer-at-axonne-4445552084",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Digital Design Engineer, which falls under VLSI design but Vineeth's expertise lies in Power Integrity and Advanced Packaging, making it outside his target domains.",
+    "reason": "The job fails the mandatory keyword pre-filter and is primarily focused on RTL Design and Verification, which are explicitly excluded from the candidate's target domains.",
     "id": "a1665ba7",
     "source": "linkedin_ww_asic_design",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Physical Design Engineer",
@@ -63106,14 +63103,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-progile-tech-4447160607",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Physical Design Engineer, which falls under physical design but Vineeth's expertise lies more in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "58b902f4",
     "source": "linkedin_ww_asic_design",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "ASIC RTL Design Engineer",
@@ -63122,13 +63118,12 @@
     "url": "https://in.linkedin.com/jobs/view/asic-rtl-design-engineer-at-leadsoc-technologies-pvt-ltd-4445541029",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily an ASIC RTL Design Engineer, which falls under VLSI design but specifically focuses on RTL coding and verification, a domain outside Vineeth's expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "64639ff2",
     "source": "linkedin_india_asic_design",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -63137,13 +63132,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-quest-global-4447587636",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for an RTL Design Engineer, which falls under verification and is outside Vineeth's domain of expertise.",
+    "reason": "The job description fails the keyword pre-filter and is primarily an RTL design role, which is outside the candidate's expertise in Power Integrity and Advanced Packaging.",
     "id": "5b80f6f0",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer",
@@ -63152,13 +63146,12 @@
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-quest-global-4447590911",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for an RTL Design Engineer, which falls under verification and is outside Vineeth's area of expertise.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "d845bc0d",
     "source": "linkedin_ww_rtl_design_engineer",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL Design Engineer ( 7 yrs to 12 years )",
@@ -63166,14 +63159,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-7-yrs-to-12-years-at-quest-global-4447560997",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on RTL design, which falls under verification, a hard rejection criterion.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "3aa62fb4",
     "source": "linkedin_ww_rtl_design_engineer",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Founding Designer / Design Engineer at well-funded agentic AI startup",
@@ -63182,13 +63174,12 @@
     "url": "https://uk.linkedin.com/jobs/view/founding-designer-design-engineer-at-well-funded-agentic-ai-startup-at-jack-jill-4447184300",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is focused on UI/UX design and front-end development (React, React Native), which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "reason": "The posting contains none of the required technical keywords and is a UI/UX and Frontend Software Engineering role, which is outside the candidate's domain of Power Integrity and VLSI hardware engineering.",
     "id": "2c518397",
     "source": "linkedin_uk_rtl_design_engineer",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Engineer \u2013 AI Platform Engineer",
@@ -63196,14 +63187,13 @@
     "location": "Cupertino, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-engineer-%E2%80%93-ai-platform-engineer-at-mojo-vision-4447174635",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on AI Platform Engineering and software development, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "7e1acdc3",
     "source": "linkedin_ww_eda_design_automation",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP of Engineering - Power Management",
@@ -63212,13 +63202,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-power-management-at-integrated-power-services-4447594298",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VP of Engineering, which falls under the leadership exception but requires a focus on power management rather than Vineeth's domains of Power Integrity, Advanced Packaging, or EDA tools.",
+    "reason": "The job is for a manufacturing plant manager in the corrugated packaging industry, which does not align with the candidate's semiconductor and power integrity expertise.",
     "id": "b9ec06b0",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP of Engineering - Power Management",
@@ -63226,14 +63215,13 @@
     "location": "Dallas, TX",
     "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-power-management-at-integrated-power-services-4447595266",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience as a Technical Leader in power management, encompassing leadership and technical expertise in a domain closely related to Power Integrity.",
+    "matches_requirements": "no",
+    "reason": "The job is for high-voltage power distribution and infrastructure (HV/MV), which is outside the semiconductor Power Integrity (PDN) domain, and it lacks the required keywords.",
     "id": "2065fb6c",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": "job_descriptions/integrated_power_ser_vp_of_engineering___power_mana_2065fb6c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Electrical Engineer (Hybrid - Acton, MA)",
@@ -63241,14 +63229,13 @@
     "location": "Acton, MA",
     "url": "https://www.linkedin.com/jobs/view/principal-electrical-engineer-hybrid-acton-ma-at-insulet-corporation-4437325181",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience as a Technical Leader in Power Integrity and Advanced Packaging, focusing on technical leadership and mentoring within a relevant domain.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "bd66817f",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-07-31",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/insulet_corporation_principal_electrical_engineer__bd66817f.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Staff Power Electronics Engineer",
@@ -63256,14 +63243,13 @@
     "location": "Boston, MA",
     "url": "https://www.linkedin.com/jobs/view/staff-power-electronics-engineer-at-resonant-link-medical-4397059549",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is based in Boston, MA, which falls outside of Vineeth's preferred locations and isn't a startup or consultancy.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "2c47f530",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-04-03",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Power Electronics Engineer",
@@ -63271,14 +63257,13 @@
     "location": "Cambridge, MA",
     "url": "https://www.linkedin.com/jobs/view/staff-power-electronics-engineer-at-resonant-link-medical-4385521069",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's power electronics and advanced packaging expertise, requiring relevant skills like schematic capture and PCB layout.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "f265e9c9",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-04-03",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/resonant_link_medica_staff_power_electronics_engine_f265e9c9.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer",
