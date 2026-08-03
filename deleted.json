@@ -14344,5 +14344,50 @@
     "deadline": "2026-08-01",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sustainable Field Instrument Engineer",
+    "company": "British Antarctic Survey",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/sustainable-field-instrument-engineer-at-british-antarctic-survey-4439043789",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role focuses on structural design and thermal management of enclosures for scientific instruments, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related VLSI domains.",
+    "id": "6d03dd38",
+    "source": "linkedin_uk_thermal",
+    "posted_date": "2026-07-15",
+    "deadline": "2026-08-02",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-02) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior ASIC Design Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-4442260108",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
+    "id": "dec8a9f8",
+    "source": "linkedin_ww_asic_design",
+    "posted_date": "2026-07-24",
+    "deadline": "2026-08-02",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-02) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior ASIC Design Engineer",
+    "company": "NVIDIA AI",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-ai-4445029659",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on RTL logic design rather than the candidate's expertise in Power Integrity and Advanced Packaging.",
+    "id": "b7885c84",
+    "source": "linkedin_ww_asic_design",
+    "posted_date": "2026-07-31",
+    "deadline": "2026-08-02",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-02) passed by more than 2 days and unreviewed"
   }
 ]
