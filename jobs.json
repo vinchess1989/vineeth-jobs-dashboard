@@ -62026,13 +62026,12 @@
     "url": "https://www.linkedin.com/jobs/view/silicon-design-engineer-at-amd-4445061028",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Silicon Design Engineer focused on ASIC design and verification, which falls outside Vineeth's primary expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The role is based in the US and explicitly states it is not eligible for visa sponsorship, which is a hard rejection criterion.",
     "id": "41bf62e3",
     "source": "linkedin_ww_ir_drop",
     "posted_date": "2026-07-31",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Diffractive Display Engineer (Design & Optimisation)",
@@ -62041,13 +62040,12 @@
     "url": "https://uk.linkedin.com/jobs/view/diffractive-display-engineer-design-optimisation-at-snap-inc-4429926140",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on diffractive display engineering and optics, which is outside Vineeth's power integrity and advanced packaging expertise.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on optical design rather than power integrity or semiconductor physical design.",
     "id": "b55b50c1",
     "source": "linkedin_uk_ir_drop",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "How to apply",
@@ -62056,13 +62054,12 @@
     "url": "https://www.linkedin.com/jobs/view/how-to-apply-at-kool-solutions-4447162952",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is for an application process guide, which is a non-technical position and falls outside Vineeth's engineering expertise.",
+    "reason": "The posting is a generic 'How to apply' guide rather than a specific job description, and it lacks the required technical keywords and domain relevance.",
     "id": "663b72df",
     "source": "linkedin_ww_si_pi",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Research Manager",
@@ -62071,13 +62068,12 @@
     "url": "https://uk.linkedin.com/jobs/view/research-manager-at-sonic-street-technologies-4445918123",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is an entry-level Research Manager, which doesn't align with Vineeth's 15 years of experience and leadership focus.",
+    "reason": "The job is in the Research Services industry and does not contain any required technical keywords or semiconductor-related domain alignment.",
     "id": "8533ab09",
     "source": "linkedin_uk_si_pi",
     "posted_date": "2026-07-27",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer - Energy Conversion",
@@ -62085,14 +62081,13 @@
     "location": "Newcastle Upon Tyne, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-energy-conversion-at-ghd-4305723655",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience in energy conversion and offers a Principal Engineer level leadership position within a relevant domain.",
+    "matches_requirements": "no",
+    "reason": "The job is for energy conversion and power plant engineering, not semiconductor/VLSI/EDA power integrity or related technical domains.",
     "id": "8448767c",
     "source": "linkedin_uk_thermal",
     "posted_date": "2026-07-24",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/ghd_principal_engineer___energy_co_8448767c.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP Hardware / Chief Architect (AI Chip)",
@@ -62100,14 +62095,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/vp-hardware-chief-architect-ai-chip-at-acceler8-talent-4445533799",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "This role aligns with Vineeth's experience as a Technical Leader in Power Integrity and Advanced Packaging, focusing on architecture and leadership within an AI chip startup.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "284cd57b",
     "source": "linkedin_ww_semiconductor_cto",
-    "posted_date": "2026-07-31",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/acceler8_talent_vp_hardware___chief_architect__284cd57b.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior CPU Performance Architect",
@@ -62116,13 +62110,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-cpu-performance-architect-at-google-4438322877",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role focuses on CPU architecture and performance, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job is focused on CPU performance architecture and modeling and does not contain the required keywords related to Power Integrity (PI), EMIR, or the specified EDA tools.",
     "id": "5b35612f",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thermal Engineer",
@@ -62130,14 +62123,13 @@
     "location": "San Jose, California, USA",
     "url": "https://careers.amd.com/careers-home/jobs/89057?lang=en-us",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is for a Thermal Engineer, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "a20f71c3",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Performance Verification Engineer",
@@ -62146,13 +62138,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89204?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on verification, specifically performance verification, which falls outside Vineeth's domain of expertise.",
+    "reason": "The role is primarily a Design Verification position (UVM, RTL) and does not contain any of the required Power Integrity or Packaging keywords.",
     "id": "b35856d1",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Kubernetes Platform Infrastructure Architect",
@@ -62161,13 +62152,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Remote-Location/Kubernetes-Platform-Infrastructure-Architect_R026714",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Kubernetes Platform Infrastructure Architect, which focuses on software platform engineering and falls outside Vineeth's domain of power integrity, advanced packaging, and related areas.",
+    "reason": "The role is a software infrastructure position (Kubernetes) and does not contain the required Power Integrity or VLSI domain keywords.",
     "id": "739f618b",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technology Product Manager",
@@ -62176,13 +62166,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Technology-Product-Manager_R026645",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Technology Product Manager, which falls outside Vineeth's technical domain of focus on power integrity and advanced packaging.",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a Product Management role for cloud infrastructure, not a Power Integrity or VLSI engineering position.",
     "id": "fd4adcdf",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Technology Product Manager",
@@ -62191,13 +62180,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Technology-Product-Manager_R026632",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Technology Product Manager, which falls outside Vineeth's domain of technical engineering and leadership within power integrity, advanced packaging, or related VLSI areas.",
+    "reason": "The job fails the keyword pre-filter and is a Product Management role for cloud infrastructure rather than a technical role in Power Integrity, VLSI, or Packaging.",
     "id": "4de07c97",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Packaging Architect Design Engineer",
@@ -62206,13 +62194,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Packaging-Architect-Design-Engineer_R025604",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on advanced packaging architect and design, which falls outside Vineeth's primary expertise in Power Integrity and Advanced Packaging (sign-off focus).",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) required for evaluation.",
     "id": "7384f292",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "R&D Test Engineer",
@@ -62221,13 +62208,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Remote-Location/R-D-Test-Engineer_R026713",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a high-level technical architect blending systems engineering and product marketing, which falls outside Vineeth's focus on power integrity, advanced packaging, and related domains.",
+    "reason": "The job description fails the keyword pre-filter as it does not contain required terms like PDN, Redhawk, or Power Integrity, and focuses on storage area networks rather than the candidate's expertise.",
     "id": "614bcc00",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "RTL integration Engineer",
@@ -62236,13 +62222,12 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/RTL-integration-Engineer_R026729",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on RTL integration and verification, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "reason": "The role is primarily focused on RTL integration and verification (UVM, SystemVerilog), which is explicitly excluded as it falls outside the candidate's domain.",
     "id": "7aafa02f",
     "source": "broadcom_careers",
     "posted_date": "2026-07-31",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Hardware Performance Specialist",
