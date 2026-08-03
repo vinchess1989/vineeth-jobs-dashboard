@@ -62866,13 +62866,12 @@
     "url": "https://www.linkedin.com/jobs/view/robotics-thermal-validation-engineer-thermal-engineering-optimus-at-tesla-4447555887",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on thermal validation and prototyping, which falls outside Vineeth's core expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on mechanical thermal validation rather than semiconductor power integrity or EDA-specific analysis.",
     "id": "75656a64",
     "source": "linkedin_ww_thermal",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Application Engineer - AI Data Centers (m/f/x)",
@@ -62880,14 +62879,13 @@
     "location": "Tallinn, Harjumaa, Estonia",
     "url": "https://ee.linkedin.com/jobs/view/application-engineer-ai-data-centers-m-f-x-at-skeleton-technologies-4447282901",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's expertise in power integrity and advanced packaging, specifically targeting data center applications within a leadership capacity.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required technical keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on power infrastructure/UPS rather than semiconductor power integrity.",
     "id": "99feea04",
     "source": "linkedin_eu_thermal",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/skeleton_technologie_application_engineer___ai_data_99feea04.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Electrical Engineering - Data Center / P.E",
@@ -62896,28 +62894,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-electrical-engineering-data-center-p-e-at-confidential-4442937416",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is focused on data center electrical engineering, which falls outside Vineeth's expertise in power integrity and advanced packaging.",
+    "reason": "The job posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is for data center building infrastructure rather than semiconductor engineering.",
     "id": "406a241f",
     "source": "linkedin_ww_semiconductor_director",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
-  },
-  {
-    "title": "Director Engineering Management",
-    "company": "Vertiv",
-    "location": "Delaware, OH",
-    "url": "https://www.linkedin.com/jobs/view/director-engineering-management-at-vertiv-4447583656",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires US-based work authorization and does not offer visa sponsorship, which is a hard rejection based on Vineeth's requirements.",
-    "id": "9ad28f94",
-    "source": "linkedin_ww_semiconductor_director",
-    "posted_date": "2026-08-01",
-    "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information Officer (CIO)",
@@ -62926,13 +62908,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-information-officer-cio-at-crawford-thomas-recruiting-4446945714",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Chief Information Officer (CIO), which falls under a non-technical, executive leadership position outside Vineeth's domain of expertise.",
+    "reason": "The job is for an IT executive in the transportation and logistics industry and fails the mandatory keyword pre-filter for semiconductor-related technical roles.",
     "id": "9b2fedaa",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Information Officer",
@@ -62941,13 +62922,12 @@
     "url": "https://www.linkedin.com/jobs/view/chief-information-officer-at-the-goodwin-group-4447542931",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Chief Information Officer, which falls under a non-engineering/technical function (executive leadership), violating the hard rejection criteria.",
+    "reason": "The posting is for a general enterprise IT leadership role (CIO) for an infrastructure platform and contains none of the required semiconductor or Power Integrity keywords.",
     "id": "fe231378",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Chief Technology Officer",
@@ -62955,14 +62935,13 @@
     "location": "Denver, CO",
     "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-fulcronix-4447562346",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Chief Technology Officer position, which falls under the leadership exception due to the management title.",
+    "matches_requirements": "no",
+    "reason": "The job is for a CTO in a software development company and does not meet the required semiconductor, VLSI, or EDA domain criteria.",
     "id": "7e0e2445",
     "source": "linkedin_ww_semiconductor_cto",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": "job_descriptions/fulcronix_chief_technology_officer_7e0e2445.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Datacenter Compute SoC Architect",
@@ -62970,14 +62949,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/datacenter-compute-soc-architect-at-mediatek-4447191616",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on datacenter SoC architecture, which is outside Vineeth's core expertise in Power Integrity and Advanced Packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "76f323b4",
     "source": "linkedin_ww_semiconductor_architect",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Datacenter Compute Accelerator Architect",
@@ -62986,13 +62964,12 @@
     "url": "https://www.linkedin.com/jobs/view/datacenter-compute-accelerator-architect-at-mediatek-4447178881",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on datacenter compute accelerator architecture, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "b4315f58",
     "source": "linkedin_ww_semiconductor_architect",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Software Development Engineer 2",
@@ -63001,13 +62978,12 @@
     "url": "https://careers.amd.com/careers-home/jobs/89055?lang=en-us",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Software Development Engineer focused on data analytics and operations, which falls outside Vineeth's domain of power integrity, advanced packaging, and related areas.",
+    "reason": "The role is a software development position for operations and data analytics, which is a hard rejection as it falls outside the candidate's domain of Power Integrity and Physical Design.",
     "id": "61d70688",
     "source": "amd_careers",
     "posted_date": "N/A",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Test Development Engineer",
@@ -63015,14 +62991,13 @@
     "location": "Mendota Heights, USA",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Mendota-Heights-Northland/Senior-Digital-Mixed-Signal--DMS--Verification-Engineer_R025692",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is specifically for a Test Development Engineer, which falls under verification and is outside Vineeth's domain of power integrity, advanced packaging, and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "74f854a5",
     "source": "broadcom_careers",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Package Design Engineer",
@@ -63030,14 +63005,13 @@
     "location": "San Jose, CA, USA",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Package-Design-Engineer_R026631",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with advanced packaging design experience and physical layout responsibilities, fitting within the target criteria for a senior engineer.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "8d63774e",
     "source": "broadcom_careers",
-    "posted_date": "2026-08-01",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/broadcom_package_design_engineer_8d63774e.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Mechanical Engineer",
@@ -63046,13 +63020,12 @@
     "url": "https://in.linkedin.com/jobs/view/mechanical-engineer-at-hcltech-4438056959",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is for a Mechanical Engineer with 6 months to 2 years of experience, which falls outside Vineeth's target domains and experience level.",
+    "reason": "The role is an entry-level mechanical engineering position requiring 6 months to 2 years of experience, which does not align with the candidate's 15 years of seniority in Power Integrity and Advanced Packaging.",
     "id": "e5b8d3be",
     "source": "linkedin_india_semiconductor",
     "posted_date": "2026-07-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Thin Films",
@@ -63061,13 +63034,12 @@
     "url": "https://be.linkedin.com/jobs/view/thin-films-at-rit-certified-4447590681",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is categorized as 'Entry level' and focuses on \"Marketing, Public Relations, and Writing/Editing,\" which falls outside Vineeth's technical domains.",
+    "reason": "The posting is for an educational course rather than a technical engineering position and does not contain any of the required keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "8bc2abef",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "2027 Internship- Hardware Engineer (FPGA)",
@@ -63076,13 +63048,12 @@
     "url": "https://www.linkedin.com/jobs/view/2027-internship-hardware-engineer-fpga-at-virtu-financial-4447584431",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is an internship for a Hardware Engineer (FPGA), which falls outside Vineeth's focus on Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The position is an internship for students and does not contain any of the required technical keywords (PDN, EMIR, Redhawk, etc.).",
     "id": "7a082bd4",
     "source": "linkedin_ww_vlsi_design",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Hardware Engineer Intern",
