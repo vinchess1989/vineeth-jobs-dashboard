@@ -62235,14 +62235,13 @@
     "location": "Cambridge, United Kingdom",
     "url": "https://careers.arm.com/job/cambridge/principal-hardware-performance-specialist/33099/76037061504",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's expertise in hardware performance optimization and low-level system understanding, fitting within his domain of experience.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is primarily a software performance optimization role.",
     "id": "05b566f6",
     "source": "arm_careers",
     "posted_date": "2026-06-15",
     "deadline": "N/A",
-    "description_file": "job_descriptions/arm_principal_hardware_performance_05b566f6.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Lead DFT Engineer - MBISTBengaluru, KA, INHybridPosted a month ago",
@@ -62251,13 +62250,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769983896",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on DFT (specifically MBIST), which falls outside of Vineeth's domain of Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job is a DFT (Design-for-Test) role which is primarily verification-focused and does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "b1794b72",
     "source": "globalfoundries_careers",
-    "posted_date": "a month ago",
+    "posted_date": "posted a month ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT EngineerRichardson, TX, USPosted 2 months ago",
@@ -62266,13 +62264,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769518172",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily a DFT Engineer, which falls under verification and is explicitly excluded from Vineeth's domain.",
+    "reason": "The position is for a DFT (Design-for-Test) role, which falls under the excluded verification domain, and it fails the mandatory keyword pre-filter.",
     "id": "11fb47a0",
     "source": "globalfoundries_careers",
     "posted_date": "2026-06-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Engineer, Analog DesignBengaluru, KA, INFlexible LocationPosted 4 months ago",
@@ -62280,14 +62277,13 @@
     "location": "Bengaluru, India",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768904557",
     "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with experience level and focuses on analog design, but is not a direct match for Vineeth's Power Integrity & Advanced Packaging expertise, making it a possible fit.",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "09c76939",
     "source": "globalfoundries_careers",
     "posted_date": "2026-01-04",
     "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Digital Design EngineerCairo, Cairo Governorate, EGPosted a month ago",
@@ -62296,13 +62292,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769904252",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is primarily focused on digital RTL design and verification, which falls outside Vineeth's area of expertise.",
+    "reason": "The role focuses on digital RTL design and UVM verification, which are outside Vineeth's domain, and it fails the mandatory keyword pre-filter for Power Integrity or specific EDA tools.",
     "id": "39535b92",
     "source": "globalfoundries_careers",
     "posted_date": "a month ago",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Memory IP Design Engineer- (eFuse/MTPM/OTP/MRAM/SRAM)Bengaluru, KA, INPosted 3 days ago",
@@ -62311,13 +62306,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770301306",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on Memory IP Design, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description fails the mandatory keyword pre-filter as it does not contain any of the required terms (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus).",
     "id": "bcbc2b52",
     "source": "globalfoundries_careers",
     "posted_date": "2026-07-28",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Junior Silicon Photonics Design EngineerCairo, Cairo Governorate, EGPosted 3 months ago",
@@ -62326,13 +62320,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980769261358",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This is a Junior role requiring 0-2 years of experience, which falls outside the target range of Vineeth's 15+ years and preferred leadership experience.",
+    "reason": "The role is a junior-level position requiring 0-2 years of experience, which is a mismatch for the candidate's 15 years of experience and technical leadership profile.",
     "id": "2621371a",
     "source": "globalfoundries_careers",
     "posted_date": "2026-05-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Staff Engineer Analog DesignBengaluru, KA, INPosted a month ago",
@@ -62340,14 +62333,13 @@
     "location": "Bengaluru, India",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768904550",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role focuses on analog design, which falls outside Vineeth's primary expertise in power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "d9065218",
     "source": "globalfoundries_careers",
-    "posted_date": "a month ago",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Principal IP Design EngineerSanta Clara, CA, USPosted 5 months ago",
@@ -62356,13 +62348,12 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980768904457",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on CPU microarchitecture and RTL design, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on CPU micro-architecture rather than Vineeth's expertise in Power Integrity or Thermal Analysis.",
     "id": "b0c97ad1",
     "source": "globalfoundries_careers",
     "posted_date": "2026-10-03",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director of Operations",
@@ -62371,13 +62362,12 @@
     "url": "https://www.linkedin.com/jobs/view/director-of-operations-at-tower-semiconductor-4426142441",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "This role is a Director of Operations focusing on semiconductor manufacturing, which falls outside Vineeth's expertise in Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "dfdcedfa",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-10",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Field Application Engineer",
@@ -62385,14 +62375,13 @@
     "location": "Boise, ID",
     "url": "https://www.linkedin.com/jobs/view/field-application-engineer-at-asml-4440876489",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a Field Application Engineer, which focuses on customer support and applications engineering rather than Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "7c9fe218",
     "source": "linkedin_ww_semiconductor",
-    "posted_date": "2026-07-17",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Principal Technical Quality Engineer",
@@ -62400,14 +62389,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/sr-principal-technical-quality-engineer-at-cadence-4436860623",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on quality engineering, specifically defect analysis and process improvement, which falls outside Vineeth's core expertise in power integrity and advanced packaging.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "e18fde15",
     "source": "linkedin_ww_semiconductor",
-    "posted_date": "2026-07-29",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "DFT Engineer",
@@ -62416,13 +62404,12 @@
     "url": "https://www.linkedin.com/jobs/view/dft-engineer-at-delos-data-4390087030",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is specifically for a DFT Verification Engineer, which falls under verification and is outside of Vineeth's domain.",
+    "reason": "The role is primarily a DFT Verification position (requiring UVM, SystemVerilog, and gate-level simulation), which is explicitly listed as a hard rejection outside the candidate's domain.",
     "id": "54e47649",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Staff Product Manager",
@@ -62431,13 +62418,12 @@
     "url": "https://www.linkedin.com/jobs/view/staff-product-manager-at-cognichip-4437894747",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Product Manager position, which falls outside Vineeth's domain of technical leadership in power integrity and advanced packaging.",
+    "reason": "The posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is a Product Management role, which is outside the candidate's technical domain.",
     "id": "1e6c5ff5",
     "source": "linkedin_ww_semiconductor",
     "posted_date": "2026-07-30",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Competency Engineer \u2013 Quality - Taylor, TX",
@@ -62445,14 +62431,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/competency-engineer-%E2%80%93-quality-taylor-tx-at-asml-4447563409",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is focused on quality engineering within manufacturing and customer support, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related domains.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "07c71f4e",
     "source": "linkedin_ww_semiconductor",
-    "posted_date": "2026-07-31",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "CERTIFIED QUALITY ENGINEER",
