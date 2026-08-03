@@ -63271,14 +63271,13 @@
     "location": "Fargo, ND",
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-at-strategic-mission-critical-4444420761",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is primarily focused on construction administration and electrical oversight, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "d9e362de",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-07-25",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Power System Studies Engineer",
@@ -63287,13 +63286,12 @@
     "url": "https://www.linkedin.com/jobs/view/principal-power-system-studies-engineer-at-rms-energy-co-llc-4390241310",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in the United States, which violates the location rejection criteria requiring a match with Finland, Europe, UK, India, Asia, or Remote (Worldwide) with visa sponsorship.",
+    "reason": "The job is for utility-scale power systems (transmission and distribution) and does not meet the keyword pre-filter or the required semiconductor power integrity (PDN/EMIR) domain.",
     "id": "6f13c770",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Director, Electrical Engineering",
@@ -63301,14 +63299,13 @@
     "location": "Los Angeles, CA",
     "url": "https://www.linkedin.com/jobs/view/director-electrical-engineering-at-observable-space-4432020212",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role is a Director of Electrical Engineering, aligning with the leadership exception criteria and focusing on electrical systems within a space technology company, which fits the target domain.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "c72be644",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-07-02",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": "job_descriptions/observable_space_director__electrical_engineeri_c72be644.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer",
@@ -63317,13 +63314,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-at-strategic-mission-critical-4443607726",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is based in Clifton Park, NY, which violates the location requirement of being in Finland, Europe (outside Finland), UK, India, Asia, or requiring US visa sponsorship.",
+    "reason": "The role is for facility and construction electrical engineering for data centers, which is outside the semiconductor/VLSI/EDA domain and fails the mandatory keyword pre-filter.",
     "id": "8a4d5a43",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-29",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Principal Electrical Engineer",
@@ -63331,14 +63327,13 @@
     "location": "El Segundo, CA",
     "url": "https://www.linkedin.com/jobs/view/sr-principal-electrical-engineer-at-chaos-industries-4440266336",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires a US security clearance and is located in El Segundo, CA, which violates the location rejection criteria.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "75b9c756",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-07-18",
+    "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Project Engineer",
@@ -63347,13 +63342,12 @@
     "url": "https://www.linkedin.com/jobs/view/project-engineer-at-piller-power-systems-4437805142",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on project engineering within electrical power systems, which falls outside Vineeth's expertise in Power Integrity, Advanced Packaging, and related areas.",
+    "reason": "The job is for an industrial electrical power systems project engineer rather than a semiconductor/VLSI Power Integrity or Advanced Packaging role, and it fails the mandatory keyword pre-filter.",
     "id": "4a6e4965",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-25",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Principal Electrical Engineer",
@@ -63361,14 +63355,13 @@
     "location": "Minneapolis, MN",
     "url": "https://www.linkedin.com/jobs/view/principal-electrical-engineer-at-enterra-medical-inc-4351551150",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on medical device hardware rather than semiconductor power integrity.",
     "id": "acb93944",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-02-04",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer - Data Centers",
@@ -63377,13 +63370,12 @@
     "url": "https://www.linkedin.com/jobs/view/electrical-engineer-data-centers-at-cam-integrated-solutions-4439919063",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on data center electrical engineering, which falls outside Vineeth's expertise in power integrity, advanced packaging, and related areas.",
+    "reason": "The job is for data center infrastructure electrical engineering and does not contain any required keywords related to semiconductor Power Integrity or VLSI.",
     "id": "f58637f1",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-18",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Electrical Engineer (Principal), Power Systems",
@@ -63391,14 +63383,13 @@
     "location": "Long Beach, CA",
     "url": "https://www.linkedin.com/jobs/view/electrical-engineer-principal-power-systems-at-true-anomaly-4431555371",
     "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role requires a US citizen or lawful permanent resident due to ITAR restrictions, which is a hard rejection based on Vineeth's profile.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "2884578a",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-07-25",
-    "deadline": "Open until filled",
-    "description_file": null,
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior Principal Electrical Engineer",
@@ -63406,14 +63397,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-principal-electrical-engineer-at-coherent-corp-4413129904",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience in power integrity and advanced packaging, requiring significant leadership and technical expertise.",
+    "matches_requirements": "error",
+    "reason": "Failed to get or parse local LLM response: HTTPConnectionPool(host='127.0.0.1', port=1234): Read timed out. (read timeout=120)",
     "id": "77f9afaa",
     "source": "linkedin_ww_power_integrity_p2",
-    "posted_date": "2026-07-18",
-    "deadline": "Open until filled",
-    "description_file": "job_descriptions/coherent_corp__senior_principal_electrical_en_77f9afaa.txt",
-    "needs_re_review": true
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer -Power",
@@ -63422,13 +63412,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-power-at-lake-superior-consulting-4426899567",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role focuses on power systems engineering, which is within Vineeth's domain but lacks the advanced packaging or EDA tool focus he specializes in and it isn't a leadership position.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and focuses on utility-scale power systems rather than VLSI Power Integrity.",
     "id": "5262e3bb",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Senior Electrical Engineer -Power",
@@ -63437,13 +63426,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-power-at-lake-superior-consulting-4428097185",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role requires a PE license and focuses on industrial power systems, which falls outside Vineeth's primary expertise in VLSI/SoC Power Integrity and Advanced Packaging.",
+    "reason": "The job description does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "173e3908",
     "source": "linkedin_ww_power_integrity_p2",
     "posted_date": "2026-07-02",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP of Protection and Controls - Power Management",
@@ -63452,13 +63440,12 @@
     "url": "https://www.linkedin.com/jobs/view/vp-of-protection-and-controls-power-management-at-integrated-power-services-4447702186",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a VP-level position focused on general industrial services and P&L management, which falls outside Vineeth's target domains of power integrity, advanced packaging, or EDA.",
+    "reason": "The job does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is focused on industrial electrical infrastructure rather than semiconductor VLSI.",
     "id": "d6680a6a",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP of Engineering - Power Management",
@@ -63466,14 +63453,13 @@
     "location": "Burlington, NC",
     "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-power-management-at-integrated-power-services-4447593307",
     "visited": "yes",
-    "matches_requirements": "yes",
-    "reason": "The role aligns with Vineeth's experience in Power Management and leadership, specifically requiring a VP of Engineering to lead and scale an engineering organization.",
+    "matches_requirements": "no",
+    "reason": "The role is for power distribution infrastructure (MV/HV systems) and not semiconductor Power Integrity or VLSI design.",
     "id": "812f95fc",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-08-01",
     "deadline": "Open until filled",
-    "description_file": "job_descriptions/integrated_power_ser_vp_of_engineering___power_mana_812f95fc.txt",
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "Sr. Director of Engineering - Northeast and Midwest",
@@ -63482,13 +63468,12 @@
     "url": "https://www.linkedin.com/jobs/view/sr-director-of-engineering-northeast-and-midwest-at-integrated-power-services-4447703186",
     "visited": "yes",
     "matches_requirements": "no",
-    "reason": "The role is a Director of Engineering focused on motor and generator repair, which falls outside Vineeth's expertise in power integrity, advanced packaging, and VLSI.",
+    "reason": "The job is in industrial motor and generator engineering and does not fall within the semiconductor/VLSI/EDA domain or meet the required keyword pre-filter.",
     "id": "7cff95be",
     "source": "linkedin_ww_power_integrity_p3",
     "posted_date": "2026-08-01",
     "deadline": "N/A",
-    "description_file": null,
-    "needs_re_review": true
+    "description_file": null
   },
   {
     "title": "VP of Protection and Controls - Power Management",
