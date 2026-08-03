@@ -14314,5 +14314,35 @@
     "deadline": "2026-07-17",
     "description_file": null,
     "deletion_reason": "Deadline (2026-07-17) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Failure Analysis and Reliability Engineer",
+    "company": "AMD",
+    "location": "San Jose, CA, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/87861?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a junior-level position (1-3 years) in failure analysis, lacks the required keywords (PDN, Redhawk, etc.), and explicitly states no visa sponsorship for a US-based location.",
+    "id": "e82f0b94",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Data Engineer, Engineering Data Analytics",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA, USA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a data engineering role and fails the keyword pre-filter as it contains none of the required Power Integrity or EDA tool terms.",
+    "id": "cac89584",
+    "source": "nvidia_careers",
+    "posted_date": "2026-07-28",
+    "deadline": "2026-08-01",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-01) passed by more than 2 days and unreviewed"
   }
 ]
