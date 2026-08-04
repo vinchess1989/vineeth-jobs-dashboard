@@ -84751,12 +84751,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=194467310d747202",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). It is a Reliability Engineer role which does not align with Vineeth's background or current domain focus.",
     "id": "c6a56d5c",
     "source": "indeed_india_semiconductor_principal_engineer_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
