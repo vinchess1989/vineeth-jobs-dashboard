@@ -121298,5 +121298,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Staff Hardware Security Engineer",
+    "company": "Arm",
+    "location": "Cambridge, United Kingdom; Munich, Germany",
+    "url": "https://careers.arm.com/job/cambridge/staff-hardware-security-engineer/33099/95081028640",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title mentions 'Hardware Security Engineer' and does not contain keywords related to Power Integrity, PDN, EMIR, RedHawk, Electrical Analysis, RHSC, Voltus, or any other relevant EDA tools. It is primarily focused on hardware security rather than power integrity or advanced packaging.",
+    "id": "a3df122e",
+    "source": "arm_careers",
+    "posted_date": "2026-08-05",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Design Engineer - Security IP",
+    "company": "Arm",
+    "location": "Toronto, Canada",
+    "url": "https://careers.arm.com/job/toronto/senior-design-engineer-security-ip/33099/98803706368",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) related to the semiconductor/VLSI/EDA industry.",
+    "id": "5b9bab8c",
+    "source": "arm_careers",
+    "posted_date": "aug. 05, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Automation Tools Engineer",
+    "company": "Job ID",
+    "location": "Cambridge, United Kingdom",
+    "url": "https://careers.arm.com/job/cambridge/senior-automation-tools-engineer/33099/98803698976",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain any of the required keywords related to Power Integrity, PDN, EMIR, RedHawk, Electrical Analysis, RHSC, or Voltus.",
+    "id": "dc3cc263",
+    "source": "arm_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSoftware-Automation-Engineer-m-w-d-Semiconductor-AMHS%2F19712",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title does not contain any of the required keywords: PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "bd2b4220",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
