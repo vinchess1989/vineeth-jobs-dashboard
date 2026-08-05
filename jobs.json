@@ -106584,5 +106584,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Principal/Senior Principal Engineer \u2013 Arm Architecture Reference Manual (ARM)",
+    "company": "Job ID 2026-17014",
+    "location": "Cambridge, United Kingdom",
+    "url": "https://careers.arm.com/job/cambridge/principal-senior-principal-engineer-arm-architecture-reference-manual-arm/33099/93988215360",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). It is a software engineering role focused on ARM architecture reference manual development.",
+    "id": "9f955d61",
+    "source": "arm_careers",
+    "posted_date": "apr. 15, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Canteen Services Specialist (Chiayi)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22563&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain none of the required keywords related to PDN, EMIR, RedHawk, Power Integrity, Electrical Analysis, RHSC, or Voltus. The posting is for a non-technical role in Human Resources.",
+    "id": "b3a1bd36",
+    "source": "tsmc_careers",
+    "posted_date": "2026-07-02",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCanteen-Services-Specialist-Chiayi%2F22563",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical role (Canteen Services Specialist) and does not contain any keywords related to Power Integrity, PDN/EM/IR sign-off, or the named EDA tools (RedHawk/RHSC/Voltus). It also explicitly requires US residency, which is a hard rejection criterion.",
+    "id": "792b694f",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
