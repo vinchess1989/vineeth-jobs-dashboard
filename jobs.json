@@ -101929,12 +101929,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=8916ca183cbf1624",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "ce191daa",
     "source": "indeed_ww_asic_design_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
