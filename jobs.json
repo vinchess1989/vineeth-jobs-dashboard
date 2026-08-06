@@ -132470,5 +132470,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "GLOBAL FE PLANNING MODELING ENGINEERSingapore, SingaporePosted a month ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/42874283",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). The role is primarily for an OCT Modeling Engineer in manufacturing network planning, which does not align with Vineeth's background or domain.",
+    "id": "a63fd710",
+    "source": "micron_careers",
+    "posted_date": "posted a month ago",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior SOC Design  Verification Engineer",
+    "company": "Arm",
+    "location": "Bengaluru, India",
+    "url": "https://careers.arm.com/job/bengaluru/senior-soc-design-verification-engineer/33099/97861779392",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Senior SOC Design Verification Engineer' does not contain any of the required keywords related to Power Integrity (PI), EMIR, RedHawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "2c583292",
+    "source": "arm_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "SOC Design Verification Engineer",
+    "company": "Job ID 2026-17749",
+    "location": "Bengaluru, India",
+    "url": "https://careers.arm.com/job/bengaluru/soc-design-verification-engineer/33099/98735647568",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain none of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). The role is for a Verification Engineer, not in the Power Integrity or EDA domains.",
+    "id": "69b08582",
+    "source": "arm_careers",
+    "posted_date": "aug. 04, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
