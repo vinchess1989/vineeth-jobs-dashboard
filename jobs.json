@@ -137272,5 +137272,33 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Job ID 2026-17791",
+    "location": "Bengaluru, India",
+    "url": "https://careers.arm.com/job/bengaluru/software-engineer/33099/98840299952",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain any keywords related to PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. The role is primarily for a Software Engineer working on Atlassian platform solutions, which is outside Vineeth's domain.",
+    "id": "0f4aea31",
+    "source": "arm_careers",
+    "posted_date": "aug. 06, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FHardware-Engineer-m-w-d-Fab-Automation-AMHS%2F19716",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
+    "id": "4777baa1",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
