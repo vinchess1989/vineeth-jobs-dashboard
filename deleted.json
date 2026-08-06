@@ -14974,5 +14974,50 @@
     "deadline": "Open until filled",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Director, Business Development, Minerals BA",
+    "company": "Metso",
+    "location": "Espoo, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/director-business-development-minerals-ba-at-metso-4442091680",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This role is for Business Development, not a technical engineering position related to Power Integrity, VLSI, or EDA.",
+    "id": "a23d9dac",
+    "source": "linkedin_fi_semiconductor_director",
+    "posted_date": "2026-07-24",
+    "deadline": "2026-08-05",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Hardware Engineer",
+    "company": "Alstom",
+    "location": "Plymouth, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/hardware-engineer-at-alstom-4432707575",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job focuses on general hardware and embedded software development, rather than power integrity or advanced packaging, and lacks key terms like PDN, Redhawk, or Voltus.",
+    "id": "9cfc6667",
+    "source": "linkedin_uk_fpga_engineer",
+    "posted_date": "2026-07-14",
+    "deadline": "2026-08-05",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Low-power and Secure Cryptographic Circuits for Flexible Healthcare Patches",
+    "company": "KU Leuven",
+    "location": "Diepenbeek, Flemish Region, Belgium",
+    "url": "https://be.linkedin.com/jobs/view/low-power-and-secure-cryptographic-circuits-for-flexible-healthcare-patches-at-ku-leuven-4433892224",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job description does not contain any of the mandatory keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) and is an entry-level PhD fellowship.",
+    "id": "450d6b78",
+    "source": "linkedin_eu_soc_design",
+    "posted_date": "2026-06-30",
+    "deadline": "2026-08-05",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-05) passed by more than 2 days and unreviewed"
   }
 ]
