@@ -14959,5 +14959,20 @@
     "deadline": "Open until filled",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Technical Specialist salaries in Los Angeles, CA",
+    "company": "Extract from page",
+    "location": "Los Angeles, CA, USA",
+    "url": "https://www.indeed.com/career/senior-technical-specialist/salaries/90071--CA?campaignid=serp-more&fromjk=519e3a52624e0e06&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting does not contain any keywords related to Power Integrity, PDN/EM/IR analysis, or EDA tools like RedHawk/Voltus. It also explicitly requires US residency and no visa sponsorship, which disqualifies it based on the hard rejections criteria.",
+    "id": "ccab237c",
+    "source": "indeed_ww_system_power_integrity_p2",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
