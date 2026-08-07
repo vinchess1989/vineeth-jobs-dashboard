@@ -15049,5 +15049,20 @@
     "deadline": "N/A",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Detection Engineer",
+    "company": "Mehil\u00e4inen",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/detection-engineer-at-mehil%C3%A4inen-4448736049",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain keywords related to PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, or Voltus.",
+    "id": "2c893e2d",
+    "source": "linkedin_fi_soc_design",
+    "posted_date": "28th of august",
+    "deadline": "2023-08-28",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-08-28) passed by more than 2 days and unreviewed"
   }
 ]
