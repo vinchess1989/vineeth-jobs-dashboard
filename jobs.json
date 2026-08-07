@@ -144013,12 +144013,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=e7e2964ae230695c",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job posting does not match Vineeth's background and key skills, focusing on Power BI development and data analysis rather than semiconductor/VLSI/EDA.",
     "id": "3395ce92",
     "source": "indeed_ww_system_power_integrity_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
