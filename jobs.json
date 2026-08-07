@@ -141976,5 +141976,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "\u30102027 TSMC RDSS&AO\u3011Corporate Planning Organization (CPO)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22587&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). The role is primarily for Business Planning and Operations, which is outside Vineeth's domain.",
+    "id": "1cdb8a6e",
+    "source": "tsmc_careers",
+    "posted_date": "2026-07-08",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2027-TSMC-RDSS-AO-Corporate-Planning-Organization-CPO%2F22587",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain none of the required keywords related to Power Integrity, PDN/EM/IR sign-off, RedHawk, Voltus, or any other relevant EDA tools.",
+    "id": "245681ba",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Sat on a hardware idea for a year, and I finally started. Here's how it's going.",
+    "company": "r/hwstartups",
+    "location": "Global / Remote / See Post",
+    "url": "https://old.reddit.com/r/hwstartups/comments/1vhnwb5/sat_on_a_hardware_idea_for_a_year_and_i_finally/",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical role (Reddit post) and does not fit any of the target domains or requirements specified.",
+    "id": "efc2e62d",
+    "source": "reddit_hwstartups",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
