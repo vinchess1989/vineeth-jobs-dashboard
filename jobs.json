@@ -60526,20 +60526,6 @@
     "description_file": null
   },
   {
-    "title": "AIS ISC Supply Chain Transformation, Executive Director",
-    "company": "GE HealthCare",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/ais-isc-supply-chain-transformation-executive-director-at-ge-healthcare-4446517737",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The role is a supply chain management position in the healthcare industry and fails the required keyword pre-filter for semiconductor technical domains.",
-    "id": "df9bc735",
-    "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "2026-07-29",
-    "deadline": "2026-08-07",
-    "description_file": null
-  },
-  {
     "title": "PCB Designer",
     "company": "Astrobase Space Technologies",
     "location": "Bengaluru, Karnataka, India",
@@ -80868,20 +80854,6 @@
     "description_file": null
   },
   {
-    "title": "Test Job 3",
-    "company": "PinPoint Middleware Test Company",
-    "location": "London, England, United Kingdom",
-    "url": "https://uk.linkedin.com/jobs/view/test-job-3-at-pinpoint-middleware-test-company-4448171328",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). The posting does not relate to Power Integrity, PDN/EM/IR sign-off, or the named EDA tools.",
-    "id": "f3a1c68b",
-    "source": "linkedin_uk_si_pi",
-    "posted_date": "2026-08-03",
-    "deadline": "2026-08-07",
-    "description_file": null
-  },
-  {
     "title": "Planning System Specialist",
     "company": "Leonardo",
     "location": "Luton, England, United Kingdom",
@@ -81369,20 +81341,6 @@
     "source": "linkedin_fi_thermal",
     "posted_date": "2026-07-21",
     "deadline": "Open until filled",
-    "description_file": null
-  },
-  {
-    "title": "Laitosoperaattori",
-    "company": "Enersense",
-    "location": "Helsinki, Uusimaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/laitosoperaattori-at-enersense-4446603686",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job title and description do not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). Additionally, it is a non-technical role and does not align with the candidate's background or skills.",
-    "id": "72fd22f5",
-    "source": "linkedin_fi_thermal",
-    "posted_date": "2026-08-04",
-    "deadline": "2026-08-07",
     "description_file": null
   },
   {
@@ -110380,20 +110338,6 @@
     "description_file": null
   },
   {
-    "title": "Architect",
-    "company": "La Cabra",
-    "location": "Copenhagen, Capital Region of Denmark, Denmark",
-    "url": "https://dk.linkedin.com/jobs/view/architect-at-la-cabra-4435935121",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job title and description do not contain any of the required keywords related to Power Integrity, PDN/EM/IR sign-off, RedHawk/Voltus, Electrical Analysis, RHSC.",
-    "id": "ee4dd80d",
-    "source": "linkedin_eu_semiconductor_architect",
-    "posted_date": "2026-07-15",
-    "deadline": "2026-08-07",
-    "description_file": null
-  },
-  {
     "title": "Arquitecto Junior Obra",
     "company": "Randstad Espa\u00f1a",
     "location": "Madrid, Community of Madrid, Spain",
@@ -112043,20 +111987,6 @@
     "source": "indeed_india_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
-  },
-  {
-    "title": "General Entry Packaging - 1st shift -English Muffin",
-    "company": "Conagra Brands",
-    "location": "Denver, Colorado, United States of America",
-    "url": "https://www.indeed.com/rc/clk?jk=bcbb1eb38870f972",
-    "visited": "yes",
-    "matches_requirements": "no",
-    "reason": "The job title does not contain keywords related to Power Integrity, EMIR, RedHawk, Electrical Analysis, RHSC, Voltus. The role is in Supply Chain & Manufacturing and is a General Entry Packaging position.",
-    "id": "955b2a74",
-    "source": "indeed_india_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "2026-08-07",
     "description_file": null
   },
   {
@@ -152412,65 +152342,83 @@
     "company": "MIS Security",
     "location": "Wideopen, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/view-open-positions-at-mis-security-4451076213",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical security role at a company called MIS Security, which is unrelated to Vineeth's technical background in semiconductor power integrity and advanced packaging. This would not be a suitable match.",
     "id": "041f6137",
-    "source": "linkedin_uk_pi"
+    "source": "linkedin_uk_pi",
+    "posted_date": "2026-08-09",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "Principal Engineer Digital Design (f/m/div)",
     "company": "Infineon Technologies",
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-engineer-digital-design-f-m-div-at-infineon-technologies-4451066840",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior digital design engineering position at Infineon in Bristol, UK which matches Vineeth's background and experience level.",
     "id": "63c84618",
-    "source": "linkedin_uk_semiconductor_principal_engineer"
+    "source": "linkedin_uk_semiconductor_principal_engineer",
+    "posted_date": "2026-08-09",
+    "deadline": "N/A",
+    "description_file": "job_descriptions/infineon_technologie_principal_engineer_digital_des_63c84618.txt"
   },
   {
     "title": "2026 TSMC US Fall Campus Recruitment",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22685&source=External%2BCareer%2BSite",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Keyword pre-filter: The job title and description contain NONE of the following: PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
     "id": "deef5d24",
-    "source": "tsmc_careers"
+    "source": "tsmc_careers",
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-US-Fall-Campus-Recruitment%2F22685",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "2d35363e",
-    "source": "tsmc_careers"
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "[2026 TSMC US Fall Campus Recruitment] Process Integration Engineer (PIE)",
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22690&source=External%2BCareer%2BSite",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "9fd86225",
-    "source": "tsmc_careers"
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   },
   {
     "title": "LinkedIn",
     "company": "Extract from page",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2F2026-TSMC-US-Fall-Campus-Recruitment-Process-Integration-Engineer-PIE%2F22690",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "error",
+    "reason": "Page load or parsing error.",
     "id": "8d8a3eaa",
-    "source": "tsmc_careers"
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
