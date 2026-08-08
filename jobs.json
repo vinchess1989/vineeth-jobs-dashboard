@@ -148311,12 +148311,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=1e9e7e9a79e165a1",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job posting contains none of the required keywords for Power Integrity, EDA tools, or semiconductor/IC packaging roles. It is also clearly a non-technical position.",
     "id": "1e031021",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
