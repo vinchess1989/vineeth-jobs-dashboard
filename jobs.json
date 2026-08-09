@@ -153456,5 +153456,47 @@
     "posted_date": "2026-08-09",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Physical Design Engineer",
+    "company": "Altera",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/physical-design-engineer-at-altera-4451096929",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No matches to Vineeth's key skills (Power Integrity, RedHawk/Voltus, EDA tools) or target domains. Primarily a general IC physical design role.",
+    "id": "a1f59b12",
+    "source": "linkedin_ww_physical_design",
+    "posted_date": "2026-08-09",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Vacature",
+    "company": "Msquad B.V.",
+    "location": "Mather, CA",
+    "url": "https://www.linkedin.com/jobs/view/vacature-at-msquad-b-v-4446586816",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting title and content contain NONE of the required keywords (case-insensitive, anywhere): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary but not sufficient condition to discard.",
+    "id": "c249954f",
+    "source": "linkedin_ww_si_pi",
+    "posted_date": "2026-08-02",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Will Moss\n.Cls-1{Fill:#FFF;}Star-Alt\n.Cls-1{Fill:#FFF;}Star-Alt\n.Cls-1{Fill:#FFF;}Star-Alt\n.Cls-1{Fill:#FFF;}Star-Alt\n.Cls-1{Fill:#FFF;}Star-Alt",
+    "company": "Endorsal",
+    "location": "Alx\u00e9n (San Paio), Galicia, Spain",
+    "url": "https://es.linkedin.com/jobs/view/will-moss%0A-cls-1-fill-%23fff-star-alt%0A-cls-1-fill-%23fff-star-alt%0A-cls-1-fill-%23fff-star-alt%0A-cls-1-fill-%23fff-star-alt%0A-cls-1-fill-%23fff-star-alt-at-endorsal-4450238285",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a generic software development position at an unspecified tech company, not a semiconductor/VLSI/EDA technical leadership position. The title 'Senior Software Developer' also contradicts Vineeth's senior leadership role.",
+    "id": "7152ae28",
+    "source": "linkedin_eu_si_pi",
+    "posted_date": "2026-08-07",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
