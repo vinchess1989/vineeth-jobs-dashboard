@@ -155724,5 +155724,61 @@
     "posted_date": "a month ago",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "ML ASIC Design Engineer",
+    "company": "Green Velvet",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/ml-asic-design-engineer-at-green-velvet-4451361614",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for ML ASIC design, which is software rather than the hardware power integrity roles Vineeth specializes in.",
+    "id": "af646347",
+    "source": "linkedin_ww_asic_design",
+    "posted_date": "2026-08-10",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "FPGA Engineer \u2013 Avionics",
+    "company": "Eagle-X",
+    "location": "London Area, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/fpga-engineer-%E2%80%93-avionics-at-eagle-x-4451366482",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for FPGA design of avionics systems, which does not match Vineeth's focus on semiconductor power integrity and packaging. No relevant keywords like PI, RedHawk, Voltus, or EDA tools were mentioned.",
+    "id": "0f4d773f",
+    "source": "linkedin_uk_fpga_engineer",
+    "posted_date": "2026-08-10",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "404 error",
+    "company": "Agent Bauer",
+    "location": "Helen, GA",
+    "url": "https://www.linkedin.com/jobs/view/404-error-at-agent-bauer-4451061066",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job posting is a 404 error on LinkedIn with no real job details, just placeholder text.",
+    "id": "f8903d4b",
+    "source": "linkedin_ww_pdn",
+    "posted_date": "2026-08-09",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "This page isn't here.",
+    "company": "Boop",
+    "location": "S\u00e9cheras, Auvergne-Rh\u00f4ne-Alpes, France",
+    "url": "https://fr.linkedin.com/jobs/view/this-page-isn-t-here-at-boop-4447383565",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "This page isn't here - no relevant technical role content found, just a LinkedIn posting for a non-technical admin job.",
+    "id": "4504e1ef",
+    "source": "linkedin_eu_pi",
+    "posted_date": "2026-08-06",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
