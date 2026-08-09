@@ -154492,5 +154492,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "AI System Architect",
+    "company": "TSMC Europe B.V",
+    "location": "Germany-Munich",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=16554&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an AI System Architect role, which does not match Vineeth's Power Integrity and Advanced Packaging technical background. It is also in Germany, whereas Vineeth is located in India.",
+    "id": "c5bfe917",
+    "source": "tsmc_careers",
+    "posted_date": "2026-05-11",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FAI-System-Architect%2F16554",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role does not match Vineeth's domain of Power Integrity, Advanced Packaging, and EDA tools.",
+    "id": "a6f058be",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Compensation Planner (Taiwan)",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=18433&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a Compensation Planner in HR, which is a non-technical position at a semiconductor company.",
+    "id": "279c4f2c",
+    "source": "tsmc_careers",
+    "posted_date": "2026-03-17",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FCompensation-Planner-Taiwan%2F18433",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The title contains 'Compensation Planner' which is a non-technical role, so this is an HR position not a semiconductor/EDA engineering role. Discard.",
+    "id": "0595f2cd",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
