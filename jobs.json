@@ -157691,12 +157691,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=450c0a79a11ceaf4",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "No technical role, Power Integrity, EDA tools, or relevant keywords found in the job title or description.",
     "id": "d263eeb8",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
