@@ -158902,5 +158902,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Chip Design\u7cfb\u7edf\u786c\u4ef6\u5de5\u7a0b\u5e08Save JobNew JobMore than 2 Years Work Expe.Hefei",
+    "company": "Extract from page",
+    "location": "Hefei",
+    "url": "https://careers.mediatek.com/en/jobs/MHF120260810001",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains '\u786c\u4ef6\u5de5\u7a0b\u5e08' (hardware engineer) and does not mention semiconductor, VLSI, EDA, power integrity, EM/IR, PDN sign-off, RedHawk, or Voltus - which are Vineeth's key technical areas.",
+    "id": "f326b744",
+    "source": "mediatek_careers",
+    "posted_date": "2026-07-20",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Developer Web \u2013 Marketing AI Systems",
+    "company": "Arm",
+    "location": "Cambridge, United Kingdom",
+    "url": "https://careers.arm.com/job/cambridge/senior-developer-web-marketing-ai-systems/33099/99010815184",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It is also a non-technical marketing role at a semiconductor company.",
+    "id": "ee7baf9a",
+    "source": "arm_careers",
+    "posted_date": "2026-08-10",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Project ManagerValmetVantaaGo to job site",
+    "company": "Valmet",
+    "location": "Vantaa",
+    "url": "https://www.jobly.fi/en/job/project-manager-2730307",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Not a technical engineering role; project management for product development of flow control equipment, no direct match to Vineeth's semiconductor/EDA/VLSI experience.",
+    "id": "cfc1902a",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2026-08-24",
+    "description_file": null
   }
 ]
