@@ -15454,5 +15454,35 @@
     "deadline": "2023-08-27",
     "description_file": null,
     "deletion_reason": "Deadline (2023-08-27) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Principal Performance and Manufacturing Architect",
+    "company": "NVIDIA",
+    "location": "Massachusetts, United States",
+    "url": "https://www.linkedin.com/jobs/view/principal-performance-and-manufacturing-architect-at-nvidia-4418873122",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is very technical, about 'owning' physical parameter models for manufacturing and tying them to real silicon. However, there's no specific mention of Power Integrity (PI), ANSYS RedHawk/SC tools, or any other key areas Vineeth specializes in, so it's a bit of a stretch - but he does have the years of relevant background.",
+    "id": "797b3b48",
+    "source": "linkedin_ww_semiconductor_principal_engineer_p2",
+    "posted_date": "2026-08-03",
+    "deadline": "2026-06-30",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sr Staff Product Engineer",
+    "company": "Renesas Electronics",
+    "location": "Morrisville, NC",
+    "url": "https://www.linkedin.com/jobs/view/sr-staff-product-engineer-at-renesas-electronics-4443395219",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Requires US citizenship with no visa sponsorship, outside Vineeth's domain and requirements.",
+    "id": "ed03d842",
+    "source": "linkedin_ww_semiconductor_principal_engineer_p2",
+    "posted_date": "2026-07-27",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
