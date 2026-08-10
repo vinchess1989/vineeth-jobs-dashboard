@@ -161492,5 +161492,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "IC Package Design EngineerCambridge, United KingdomASICS EngineeringPosted 2 months ago",
+    "company": "Qualcomm Technologies International Ltd",
+    "location": "Cambridge, United Kingdom",
+    "url": "https://careers.qualcomm.com/careers/job/446718945244?sortBy=relevance",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The keywords PDN, RedHawk are missing, and it's about IC Package Design not Power Integrity.",
+    "id": "4fd7d662",
+    "source": "qualcomm_careers",
+    "posted_date": "2026-06-11",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Manager, Mixed-Signal and Systems Validation",
+    "company": "Broadcom",
+    "location": "USA-CA-San-Jose-Innovation-Drive",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Senior-Manager--Mixed-Signal-and-Systems-Validation_R026783",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting contains 'Mixed-Signal and Systems Validation', which does not match Vineeth's key background areas of Power Integrity, Advanced Packaging, CAD/Methodology.",
+    "id": "b46a36b7",
+    "source": "broadcom_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "ATE Test Development Engineer",
+    "company": "Broadcom",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ATE-Test-Development-Engineer_R026769-1",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for ATE Test Development using Advantest and Teradyne testers, which is outside Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
+    "id": "0598e4cc",
+    "source": "broadcom_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
