@@ -163060,5 +163060,33 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Principal Engineer, ASIC DesignSan Jose, California, United States of AmericaPosted 21 days ago",
+    "company": "Micron Technology",
+    "location": "San Jose, California, United States of America",
+    "url": "https://micron.eightfold.ai/careers/job/42229677",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (Firmware Engineer), which is outside Vineeth's domain.",
+    "id": "edd19f99",
+    "source": "micron_careers",
+    "posted_date": "2026-07-21",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Embedded Compiler Engineer (Machine Learning)",
+    "company": "Arm",
+    "location": "Lund, Sweden",
+    "url": "https://careers.arm.com/job/lund/embedded-compiler-engineer-machine-learning/33099/94847322016",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Keywords PDN, EMIR, RedHawk, Power Integrity, Electrical Analysis, RHSC, Voltus are entirely absent. Role is also non-technical (Machine Learning Engineer) at a tech company, not an engineering position.",
+    "id": "8e6d10a3",
+    "source": "arm_careers",
+    "posted_date": "aug. 04, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
