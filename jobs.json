@@ -168303,12 +168303,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=5ec5e830045f8974",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords, so it fails the pre-filter.",
     "id": "0bf8a79a",
     "source": "indeed_india_pdn",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
