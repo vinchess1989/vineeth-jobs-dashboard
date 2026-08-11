@@ -170368,5 +170368,61 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Applications Engineer",
+    "company": "Arm",
+    "location": "Austin, Texas, USA",
+    "url": "https://careers.arm.com/job/austin/applications-engineer/33099/99075378640",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No relevant technical domains (PDN/EMIR/RedHawk/Voltus) mentioned in job description.",
+    "id": "36339802",
+    "source": "arm_careers",
+    "posted_date": "aug. 11, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Manager, Tax",
+    "company": "Arm",
+    "location": "San Jose, California",
+    "url": "https://careers.arm.com/job/san-jose/manager-tax/33099/69872372960",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the keywords like PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "b5ef655b",
+    "source": "arm_careers",
+    "posted_date": "2026-08-11",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Staff Engineering Manager",
+    "company": "Arm",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://careers.arm.com/job/cambridge/staff-engineering-manager/33099/92926545808",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job title does not contain any of our key technical domains (PI/SI, packaging, EDA tools) so this is a hard rejection.",
+    "id": "bb6372d3",
+    "source": "arm_careers",
+    "posted_date": "2026-08-11",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Remote (Worldwide)",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FSupply-Chain-Specialist-Material-Planner-m-f-d%2F22733",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No keywords matching Power Integrity, RedHawk, EDA tools, or semiconductor-specific domains in job posting text",
+    "id": "59b9a0d8",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
