@@ -165839,12 +165839,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=f6da71bedcd6d7d2",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The posting is for a Battery Cell Engineer role at a company, which does not match the semiconductor/VLSI/EDA technical domains that Vineeth Prathapachandra Kaimal's background and skills are aligned with.",
     "id": "59333197",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
