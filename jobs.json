@@ -165706,5 +165706,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Electrical Failure Analysis Engineer \u2013 NAND TechnologySingapore, SingaporePosted 2 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/41967185",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job is for Electrical Failure Analysis Engineer - NAND Technology, which doesn't directly match Vineeth's Power Integrity and Advanced Packaging background.",
+    "id": "233289fc",
+    "source": "micron_careers",
+    "posted_date": "2026-06-12",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "SoC Interconnect Technology Team Lead",
+    "company": "Arm",
+    "location": "San Diego, California, United States",
+    "url": "https://careers.arm.com/job/san-diego/soc-interconnect-technology-team-lead/33099/97749775744",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Lacks key PI/EDA technical keywords (PDN, RedHawk) and leadership titles; only 'Hardware Engineering' category",
+    "id": "d18bc990",
+    "source": "arm_careers",
+    "posted_date": "jul. 13, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Principal PCB - Package co-design Architect",
+    "company": "Arm",
+    "location": "Chandler, AZ, USA",
+    "url": "https://careers.arm.com/job/chandler/principal-pcb-package-co-design-architect/33099/99030822768",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The keywords 'PDN', 'EMIR', and 'Redhawk' are absent from the job title and description text. Also, it is a non-technical HR role.",
+    "id": "7b425a35",
+    "source": "arm_careers",
+    "posted_date": "aug. 10, 2026",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Head of Offer Control, Mobile InfrastructureNokiaEspooGo to job site",
+    "company": "Nokia",
+    "location": "Espoo, Finland",
+    "url": "https://www.jobly.fi/en/job/head-offer-control-mobile-infrastructure-2731216",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a finance and sales leadership role at Nokia's mobile infrastructure division, unrelated to semiconductor VLSI EDA Power Integrity or packaging engineering roles. It requires a university degree in law or finance with 10+ years' experience in corporate finance or advisory.",
+    "id": "eb5bc8fe",
+    "source": "work_in_finland",
+    "posted_date": "2026-08-11",
+    "deadline": "N/A",
+    "description_file": null
   }
 ]
