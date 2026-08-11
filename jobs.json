@@ -168898,5 +168898,47 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Senior Staff Applications EngineerSan Jose, CAHRC1638679HybridFlexible Location",
+    "company": "Infineon Technologies AG",
+    "location": "Remote (Worldwide)",
+    "url": "https://www.infineon.com/careers/job/563808970739151",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The keyword 'Voltus' appears, but the rest of the description lacks technical details about Power Integrity, PDN sign-off, EM/IR analysis, or RedHawk EDA tool usage that would make this a match for Vineeth's skills. It seems to be a generic applications engineer role.",
+    "id": "cb03ec86",
+    "source": "infineon_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Principal System Applications EngineerBangalore (India)HRC1605086HybridHybridFlexible Location",
+    "company": "Infineon Technologies AG",
+    "location": "Bangalore, India",
+    "url": "https://www.infineon.com/careers/job/563808970586017",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No mention of PDN, EMIR, Power Integrity, Electrical Analysis, Redhawk, RHSC, Voltus in the job description text. The role is for a System Applications Engineer focused on system-level applications and not specific to semiconductor power delivery or EDA tooling.",
+    "id": "c8bffcd2",
+    "source": "infineon_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Senior Manager, Business StrategyNokiaEspooGo to job site",
+    "company": "Nokia",
+    "location": "Espoo, Finland",
+    "url": "https://www.jobly.fi/en/job/senior-manager-business-strategy-2731787",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No matches found for Power Integrity, EM/IR, EDA tools, SoC PDN sign-off, packaging thermal, VLSI/EDA/CAD domains; technical leadership role in chip design or hardware engineering at a semiconductor company.",
+    "id": "5fe289a2",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
