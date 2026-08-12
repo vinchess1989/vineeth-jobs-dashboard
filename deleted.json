@@ -16189,5 +16189,20 @@
     "deadline": "2023-12-31",
     "description_file": null,
     "deletion_reason": "Deadline (2023-12-31) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sr. FPGA Design Engineer",
+    "company": "N/A - extracted from page",
+    "location": "N/A - extracted from page",
+    "url": "https://www.indeed.com/rc/clk?jk=c9d260621300af89",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'FPGA' which is outside Vineeth's domain of expertise in SoC PDN sign-off, PI, and advanced packaging. Even though there are some keyword matches like 'RedHawk' or 'Electrical Analysis', they appear only once each and do not form the core focus of the actual job role content.",
+    "id": "f12a72db",
+    "source": "indeed_ww_fpga_engineer_p3",
+    "posted_date": "2026-08-06",
+    "deadline": "2023-05-01",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-05-01) passed by more than 2 days and unreviewed"
   }
 ]
