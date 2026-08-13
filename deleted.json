@@ -16414,5 +16414,35 @@
     "deadline": "Open until filled",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Technologist, Product Development Engineering",
+    "company": "Sandisk",
+    "location": "Milpitas, CA",
+    "url": "https://www.linkedin.com/jobs/view/technologist-product-development-engineering-at-sandisk-4422187518",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting does not mention Power Integrity, RedHawk, Advanced Packaging, PDN sign-off, EDA tools, VLSI/SoC design, or semiconductor engineering as content of this technical role.",
+    "id": "6c7f767b",
+    "source": "linkedin_ww_semiconductor_technical_leader",
+    "posted_date": "2026-08-08",
+    "deadline": "2026-01-09",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-01-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Sr. Section Lead \u2013 Semiconductor Process Integration and Yield",
+    "company": "Raytheon",
+    "location": "Andover, MA",
+    "url": "https://www.linkedin.com/jobs/view/sr-section-lead-%E2%80%93-semiconductor-process-integration-and-yield-at-raytheon-4440531138",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a semiconductor process integration and yield engineering management role, which does not closely match Vineeth's focus on Power Integrity (PI), Advanced Packaging, and EDA tools like RedHawk. It requires security clearance, US citizenship.",
+    "id": "dae16da2",
+    "source": "linkedin_ww_semiconductor_technical_leader",
+    "posted_date": "2026-07-13",
+    "deadline": "N/A",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
