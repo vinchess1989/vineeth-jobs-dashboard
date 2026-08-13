@@ -175359,12 +175359,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=cbe08afe638eaf8b",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Missing critical Power Integrity, RedHawk, Voltus keywords in title and description",
     "id": "9c4625f1",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
