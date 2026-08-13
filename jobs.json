@@ -174666,5 +174666,33 @@
     "posted_date": "a day ago",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "Associate Engineer Thin Film PVD Process Engineering (300mm Fab)SGPosted a day ago",
+    "company": "GLOBALFOUNDRIES",
+    "location": "Singapore, Singapore",
+    "url": "https://globalfoundries.eightfold.ai/careers/job/563980769535189",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job is for a semiconductor fabrication process engineer, not Power Integrity, EDA tools, or related domains.",
+    "id": "4120a475",
+    "source": "globalfoundries_careers",
+    "posted_date": "2026-12-08",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "Lead Application Engineer",
+    "company": "Cadence Design Systems",
+    "location": "ZHUBEI 01",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/ZHUBEI-01/Lead-Application-Engineer_R55771",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an EDA Application Engineer focused on UVM and AI-assisted verification workflows, which does not match Vineeth's power integrity and packaging domain expertise.",
+    "id": "fdfabe4f",
+    "source": "cadence_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
