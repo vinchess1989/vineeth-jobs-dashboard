@@ -173875,12 +173875,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=8073ccb8956c77cd",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job posting title is for a semiconductor assembly operator, which does not match the technical domains of Power Integrity, Advanced Packaging, CAD Methodology, Physical Design or EDA Tools that Vineeth's background and experience are in. It seems to be an entry-level manufacturing role rather than an engineering/technical position.",
     "id": "aa9fcc96",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
