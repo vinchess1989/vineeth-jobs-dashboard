@@ -1,0 +1,160 @@
+Title: Sr. Signal & Power Integrity Engineer, Annapurna Labs - AI Silicon Packaging
+Company: Annapurna Labs (U.S.) Inc. (within AWS)
+Location: USA, CA, Cupertino
+URL: https://www.indeed.com/rc/clk?jk=7e977edd2112f273
+Posted: 2026-08-12
+Deadline: Open until filled
+Reason: The role requires deep expertise in package-level power integrity and signal integrity analysis, including PDN impedance control, IR drop, and EM/IR simulations. This aligns with Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+Amazon Jobs home page
+My career
+Sr. Signal & Power Integrity Engineer, Annapurna Labs - AI Silicon Packaging
+
+Job ID: 10498005 | Annapurna Labs (U.S.) Inc.
+
+Apply now
+Description
+
+Annapurna Labs (our organization within AWS) designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.
+
+We are seeking a Sr. Signal & Power Integrity Engineer to join our hardware team and drive the SI/PI analysis and optimization of advanced packaging solutions for next-generation machine learning and data center ASICs.
+
+In this role, you will own the package-level signal and power integrity strategy — from early architecture trade-offs through design closure, measurement and validation. You'll work at the intersection of IC, package, and board, ensuring our advanced packaging technologies meet dynamic performance, power delivery, and manufacturing targets.
+
+Key job responsibilities
+- Lead package-level SI/PI analysis for 2.5D, 3D-IC, fan-out, and silicon interposer/bridge architectures.
+- Design and optimize package stack-ups: dielectric material selection, impedance control, layer assignment, and RDL routing for high-speed and power delivery performance.
+- Perform high-speed channel simulations (S-parameter extraction, time-domain analysis, eye diagrams) for die-to-die and die-to-board interfaces through the package.
+- Analyze and optimize the package PDN end-to-end: decoupling strategy, plane resonance, IR drop, and AC impedance from die bumps through substrate to board.
+- Characterize and model on-die capacitance, deep trench capacitors (DTCs), and integrated passive device (IPD) capacitors; evaluate their effectiveness within the full-stack PDN impedance profile.
+- Interface with SoC die-level PDN teams to align power grid requirements, current profiles, and decoupling budgets across the chip-package boundary.
+- Perform 3D/2.5D EMIR analysis using tools such as Ansys RedHawk-SC 3DIC, Cadence Voltus, or equivalent to validate IR drop and electromigration across multi-die stacked packages.
+- Model advanced interconnects: microbumps, C4 bumps, TSVs, microvias, PTH vias, and RDL traces for both signal and power paths.
+- Apply equalization techniques (DFE, CTLE, FFE) and evaluate package-level channel margins for PCIe, UCIe, and custom die-to-die links.
+- Perform clock distribution and jitter analysis at the package level, accounting for coupling, skew, and return path discontinuities.
+- Collaborate with ASIC design, board design, and packaging/assembly teams to co-optimize package architecture for electrical performance and manufacturing yield.
+- Identify and mitigate package manufacturing risks — warpage, via reliability, impedance variation, and material tolerance impacts on SI/PI.
+- Develop and maintain package SI/PI modeling flows, automation scripts, and design guidelines.
+
+About the team
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.
+
+Diverse Experiences
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+About AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Inclusive Team Culture
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Work/Life Balance
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Mentorship & Career Growth
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Basic Qualifications
+
+- Bachelor's degree in Electrical Engineering or a related field
+- 10+ years of experience in signal integrity, power integrity, and package design
+- Deep expertise in package SI/PI analysis: S-parameter extraction, PDN impedance analysis, IR drop, crosstalk, and return loss
+- Hands-on experience with EM simulation and SI/PI tools such as HFSS, Cadence Sigrity (PowerSI, PowerDC, Clarity), ADS, or equivalent
+- Strong understanding of advanced packaging technologies: 2.5D/3D-IC, silicon interposers, fan-out wafer-level packaging, RDL, TSVs, and microbump interconnects
+- Experience analyzing and modeling decoupling technologies including on-die MOM/MOS capacitors, deep trench capacitors (DTCs), and IPD capacitors within the package PDN
+- Proficiency in stack-up design and impedance control for multi-layer organic substrates and silicon interposers
+- Hands-on experience correlating package SI/PI simulations with lab measurements (TDR, VNA, oscilloscope)
+
+Preferred Qualifications
+
+- Master's degree in Electrical Engineering or a related field
+- 7+ years of experience, in signal integrity, power integrity, and package design
+- Experience with UCIe or other die-to-die interconnect standards in advanced packaging contexts
+- Familiarity with package-level thermal-aware PI analysis and electromigration considerations
+- Experience with EMC/EMI analysis and mitigation at the package level
+- Experience with high-speed serial protocols (PCIe Gen6/7, UCIe, or custom SerDes) at the package level
+- Knowledge of package co-design methodologies (chip-package-board co-simulation)
+- Experience with high-density fan-out or silicon bridge packaging (e.g., EMIB, CoWoS, or similar)
+- Experience with PDN target impedance methodology and frequency-domain decoupling optimization across die, package, and board domains
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+
+
+
+USA, CA, Cupertino - 183,000.00 - 247,600.00 USD annually
+USA, TX, Austin - 159,200.00 - 215,300.00 USD annually
+
+Job details
+USA, TX, Austin
+USA, CA, Cupertino
+Hardware Development
+Related jobs
+Cloud Hardware, mechanical, Network Product Development - Optics
+Location: USA, CA, Cupertino
+Posted: August 12, 2026 (Updated about 14 hours ago)
+Cloud Hardware Development, Packaging, Network Product Development - Optics
+Location: USA, CA, Cupertino
+Posted: August 12, 2026 (Updated about 14 hours ago)
+Sr. Satellite Design Verification Engineer, Amazon Leo
+Location: USA, CA, Irvine
+Posted: May 6, 2026 (Updated about 18 hours ago)
+Mechanical Engineer, Fauna
+Location: USA, CA, Sunnyvale
+Posted: August 12, 2026 (Updated about 21 hours ago)
+Package Layout Design Engineer , Annapurna Labs - AI Silicon Packaging
+Location: USA, AZ, Tempe
+Posted: August 11, 2026 (Updated 1 day ago)
+Share this job
+Important FAQs for current Government employees
+
+Before proceeding, please review the following FAQs
+
+https://www.amazon.jobs/en/faqs#faqs-for-us-government-employees
+JOIN US ON
+DOWNLOAD OUR APP
+Find Careers
+Job Categories
+Teams
+Locations
+Military careers
+Hourly
+Working At Amazon
+Culture
+Benefits
+Amazon Newsletter
+Inclusive experiences
+Leadership Principles
+Help
+FAQ
+How We Hire
+Application status
+Accommodations
+Legal disclosures and notices
+English
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Privacy and Data
+Impressum
+Cookies
+© 1996-2026, Amazon.com, Inc. or its affiliates
+Notice of Right to Opt-Out Sharing
+
+We use cookies and similar tools to provide and improve our site and your candidate experience. We also use operational cookies to make our site work. If you agree, we will set certain analytics cookies to help us improve our website as explained in our cookies notice, as well as set advertising cookies to display ads. Advertising cookies includes first and third-party cookies, which store or access standard device information such as a unique identifier. Third-parties use cookies to serve you with relevant advertisements and job recommendations based on your interactions with Amazon.Jobs and third-party sites. We will only set analytics or advertising cookies if you accept them. Select “Accept all” to consent or “Customize cookies” to make more detailed choices and learn more.
+
+For more information about how we use cookies and information we collect, please navigate to your country’s cookie notice (if applicable) via our Privacy Notice and Data Policy page.
+
+Accept all
+Continue without accepting
+Customize cookies
