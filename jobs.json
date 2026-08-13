@@ -173945,12 +173945,12 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/rtl-design-engineer-at-infobahn-softworld-inc-4453610048",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: Expecting value: line 4 column 18 (char 454)",
+    "matches_requirements": "no",
+    "reason": "Lacks keywords Power Integrity, RedHawk, Voltus, and is an RTL Design Engineer role focused on ASIC IP in CMOS processes. Outside Vineeth's PI/Packaging domain.",
     "id": "31de0dfc",
     "source": "linkedin_ww_rtl_design_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-08-13",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
