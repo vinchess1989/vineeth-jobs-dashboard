@@ -180931,12 +180931,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=9642bab8a690bd2c",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "No keywords matched for Power Integrity, RedHawk, Voltus, or PDN sign-off.",
     "id": "ae1a49ab",
     "source": "indeed_india_system_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
