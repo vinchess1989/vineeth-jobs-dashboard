@@ -17044,5 +17044,35 @@
     "deadline": "Open until filled",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "E3 s\u00e4hk\u00f6suunnittelija",
+    "company": "ALTEN",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/e3-s%C3%A4hk%C3%B6suunnittelija-at-alten-4451526301",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The job title is for an Electrical Designer, which matches the 'E3-S\u00c4HK\u00d6SUUNNITTELIJA' role specified in Finnish. The location is Tampere, Pirkanmaa, Finland.",
+    "id": "e29bcbed",
+    "source": "linkedin_fi_vlsi_design",
+    "posted_date": "2026-08-10",
+    "deadline": "2026-06-09",
+    "description_file": "job_descriptions/alten_e3_s_hk_suunnittelija_e29bcbed.txt",
+    "deletion_reason": "Deadline (2026-06-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "S\u00e4hk\u00f6saattosuunnittelija prosessiteollisuuteen",
+    "company": "ALTEN",
+    "location": "Oulu, North Ostrobothnia, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/s%C3%A4hk%C3%B6saattosuunnittelija-prosessiteollisuuteen-at-alten-4419150356",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting is for a non-technical 'S\u00e4hk\u00f6saattosuunnittelija' role in process industries, which does not match Vineeth's technical semiconductor/VLSI/EDA background.",
+    "id": "bcff88b9",
+    "source": "linkedin_fi_vlsi_design",
+    "posted_date": "2026-07-15",
+    "deadline": "2026-08-09",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-09) passed by more than 2 days and unreviewed"
   }
 ]
