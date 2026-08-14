@@ -214391,12 +214391,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=306eef89514f2564",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a technical role focused on packaging and assembly, which does not match Vineeth's background in Power Integrity and advanced packaging. Additionally, it doesn't mention any specific skills like ANSYS RedHawk or Cadence Voltus that would be relevant to his experience.",
     "id": "4248ddc0",
     "source": "indeed_ww_advanced_packaging",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
