@@ -17104,5 +17104,35 @@
     "deadline": "2024-01-20",
     "description_file": null,
     "deletion_reason": "Deadline (2024-01-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior ASIC Design Engineer",
+    "company": "NVIDIA AI",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-at-nvidia-ai-4438407988",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the key Power Integrity, Redhawk, Electrical Analysis keywords required.",
+    "id": "e75f8551",
+    "source": "linkedin_ww_rtl_design_engineer",
+    "posted_date": "2026-07-15",
+    "deadline": "2026-06-18",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-18) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Signal and Power Integrity Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-at-nvidia-4407091511",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The keywords RedHawk, PI (Power Integrity), and Voltus are missing from both the title and description, so this role is not a strong match for Vineeth's background.",
+    "id": "61184cda",
+    "source": "linkedin_ww_power_integrity",
+    "posted_date": "2026-07-24",
+    "deadline": "2026-05-03",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-05-03) passed by more than 2 days and unreviewed"
   }
 ]
