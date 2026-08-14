@@ -210835,12 +210835,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=c39dc86f1ef4c1ba",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job posting does not contain any of the required keywords such as PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
     "id": "049c3522",
     "source": "indeed_ww_physical_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
