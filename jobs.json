@@ -219641,12 +219641,12 @@
     "location": "Warwick, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/intelligence-officer-trading-standards-at-wmjobs-4450040612",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse local LLM response: Expecting value: line 4 column 18 (char 253)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Trading Standards Intelligence Officer role at Warwickshire County Council, which does not match Vineeth's semiconductor/VLSI/EDA background and skillset in Power Integrity, CAD tool methodology, EDA tools, or SoC physical design.",
     "id": "d48bf566",
     "source": "linkedin_uk_pi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-08-08",
+    "deadline": "2026-08-31",
     "description_file": null
   },
   {
