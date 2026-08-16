@@ -220425,12 +220425,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=cdb9ef9856bd1a10",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title 'Packager - TapeCase' does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
     "id": "9ecebe99",
     "source": "indeed_india_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-08-03",
+    "deadline": "Open until filled",
     "description_file": null
   }
 ]
