@@ -220047,12 +220047,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=fe42b3db7ab740c6",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The keyword filter does not match, as the posting does not contain 'PDN', 'EMIR', 'Redhawk', 'Power Integrity', 'Electrical Analysis', 'RHSC' or 'Voltus'. This is an immediate rejection based on the hard filtering criteria.",
     "id": "0705400c",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
