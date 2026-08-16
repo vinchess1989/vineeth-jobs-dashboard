@@ -220313,12 +220313,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=432bc845d61057bc",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords such as PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
     "id": "df1310d0",
     "source": "indeed_india_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-08-14",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
