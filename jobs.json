@@ -220467,12 +220467,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=b26fc6ad75cfe78f",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Job title is for a packaging/bagging operator, not a technical semiconductor/VLSI/EDA role.",
     "id": "4b32ebb6",
     "source": "indeed_india_advanced_packaging_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
