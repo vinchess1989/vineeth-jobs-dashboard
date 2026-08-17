@@ -17779,5 +17779,20 @@
     "deadline": "2023-08-25",
     "description_file": null,
     "deletion_reason": "Deadline (2023-08-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Data Center Technician",
+    "company": "AMD",
+    "location": "Sweden",
+    "url": "https://careers.amd.com/careers-home/jobs/89740?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The keyword filter did not match for PDN, EMIR, Power Integrity, Electrical Analysis, RHSC, Voltus. The job is titled a Data Center Technician at AMD, which does not match Vineeth's technical domains of expertise in semiconductor power integrity, advanced packaging, EDA tools.",
+    "id": "3ab97b46",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "2023-06-30",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
