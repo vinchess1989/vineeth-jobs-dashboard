@@ -246458,5 +246458,47 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null
+  },
+  {
+    "title": "R&D Hardware Engineer",
+    "company": "Broadcom",
+    "location": "USA-CA San Jose Innovation Drive",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No mention of Power Integrity, RedHawk, Voltus, EMIR, electrical analysis, SoC PDN sign-off, thermal analysis, CAD methodology in job description. Hardware design focus.",
+    "id": "0136831f",
+    "source": "broadcom_careers",
+    "posted_date": "2026-08-05",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "EHS Engineer (m/f/d)",
+    "company": "European Semiconductor Manufacturing Company (ESMC) GmbH",
+    "location": "Dresden, Germany",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22619&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The keywords PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus are all missing from this job title and description. It is for an EHS (Environmental Health & Safety) engineer role at a semiconductor fab startup in Germany.",
+    "id": "08f09760",
+    "source": "tsmc_careers",
+    "posted_date": "2026-08-03",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FEHS-Engineer-m-f-d%2F22619",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords for Power Integrity, EDA tools like RedHawk, PDN sign-off, or electrical analysis.",
+    "id": "216d1fe2",
+    "source": "tsmc_careers",
+    "posted_date": "2026-07-29",
+    "deadline": "Open until filled",
+    "description_file": null
   }
 ]
