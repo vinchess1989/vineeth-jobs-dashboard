@@ -1,0 +1,395 @@
+Title: Advanced Power Integrity & Power Delivery Architect
+Company: Rivian
+Location: Palo Alto, CA
+URL: https://www.linkedin.com/jobs/view/advanced-power-integrity-power-delivery-architect-at-rivian-4454481596
+Posted: 2026-08-18
+Deadline: N/A
+Reason: The role is an Advanced Power Integrity & Power Delivery Architect position which fits Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN Sign-off.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Advanced Power Integrity & Power Delivery Architect
+Rivian  Palo Alto, CA
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Rivian has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Rivian
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+
+Role Summary
+
+We are seeking a highly skilled and motivated Power Integrity & Power Architecture
+
+Engineer to lead the end-to-end design, modeling, simulation, and post-silicon
+
+validation of advanced SoC power delivery architectures. In this role, you will bridge the
+
+gap between System-on-Chip (SoC) design, power architecture, silicon packaging, and
+
+system-level power integrity
+
+Responsibilities
+
+Power delivery architecture, Design & Simulation
+
+
+Power Delivery Network (PDN) & Architecture: Define and optimize overall
+
+
+SoC power architecture, establishing target impedance, transient droop
+
+specifications, and efficiency targets across the full path: SoC/Packaging/Board.
+
+
+Advanced Power Supplier Architecture: Define requirements and simulation
+
+
+flows for next-generation power supplier architectures, such as IVRs, integrated
+
+switching regulators. Co-optimize power delivery for high efficiency, low supply
+
+ripple, tight transient droop targets, and strict thermal limits across the SoC,
+
+package and system.
+
+
+SoC Integration: Perform co-design and co-optimization for silicon packaging,
+
+
+interposers, embedded passives to ensure robust power integrity.
+
+
+Multi-Domain Modeling: Conduct pre- and post-layout power integrity (PI),
+
+
+signal integrity (SI), and IR/droop simulations using industry-standard 2.5D/3D
+
+field solvers and circuit simulators.
+
+Power integrity Validation
+
+
+Post-Silicon Bring-up & Correlation: Lead post-silicon validation and silicon
+
+
+power integrity measurements (micro-probing, high-frequency VNAs, transient
+
+load steppers, real-time scope measurements for PDN noise) to correlate lab
+
+data with pre-silicon simulation models.
+
+
+System & Platform Validation: Collaborate with hardware and SoC bring-up
+
+
+teams to validate SoC platforms under real-world dynamic workloads, verifying
+
+transient performance, decoupling strategies, and power delivery margins.
+
+Methodology
+
+
+Automation & Flow Optimization: Work alongside CAD and tool teams to
+
+
+automate power integrity analysis, extraction workflows, and simulation scripts
+
+(Python, Tcl, SKILL).
+
+Qualifications
+
+
+Education: Bachelor’s, Master’s, or Ph.D. in Electrical Engineering, Computer
+
+
+Engineering, or a related field.
+
+
+Experience: Proven industry experience in Power Integrity (PI), Power
+
+
+Architecture for SoCs and advanced 2.5D/3D/MCM packaging.
+
+
+SoC Packaging: Deep understanding of System-on-Chip (SoC) power
+
+
+distribution, package stack-ups, bump/ball maps, and silicon-package
+
+interactions.
+
+
+Simulation & Tool Expertise:
+
+
+○ EM & Extraction: Ansys HFSS, SIwave, Cadence Sigrity/Voltus-Fi, or
+
+Keysight ADS.
+
+○ Circuit & PDN Simulation: HSPICE, Spectre, ADS, or SIMPLIS/SIMetrix.
+
+
+Post-Silicon Validation Capabilities: Hands-on expertise with high-speed lab
+
+
+equipment (VNAs, oscilloscopes, active probes, impedance analyzers, load
+
+steppers) for physical power validation and PDN characterization.
+
+
+Fundamentals: Strong foundation in power architecture, electromagnetics,
+
+
+transmission line theory, s-parameters, and power distribution network (PDN)
+
+noise dynamics.
+
+Preferred Skills
+
+
+Automation & Scripting: Proficiency in Python, Tcl, Perl, or Cadence SKILL for
+
+
+automating simulation and extraction pipelines.
+
+
+Behavioral Modeling: Experience with Verilog-A, AMS, or SystemC for
+
+
+macro-level system power modeling.
+
+
+Interface Noise Co-Design: Familiarity with high-speed interfaces (e.g., PCIe,
+
+
+DDR, UCIe, die-to-die interconnects) and mitigating power supply switching
+
+noise impacts on high-speed signals.
+
+Pay Disclosure
+
+The salary range for this role is $237,200-$296,500 for Palo Alto, CA-based applicants. This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. An employee’s position within the salary range will be based on several factors, including but not limited to specific competencies, relevant education, qualifications, certifications, experience, skills, geographic location, shift, and organizational needs. The successful candidate may be eligible for an annual performance bonus and equity awards.
+
+We offer a comprehensive package of benefits for full-time and part-time employees, their spouse or domestic partner, and children up to age 26, including but not limited to paid vacation, paid sick leave, and a competitive portfolio of insurance benefits, including life, medical, dental, vision, short-term disability insurance, and long-term disability insurance to eligible employees. You may also have the opportunity to participate in Rivian’s 401(k) Plan and Employee Stock Purchase Program if you meet certain eligibility requirements. Full-time employee coverage is effective on their first day of employment. Part-time employee coverage is effective the first of the month following 90 days of employment. More information about benefits is available at rivianbenefits.com.
+
+Equal Opportunity
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.
+
+Candidate Data Privacy and Technology
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.
+
+How We Use AI in Our Hiring Process: To ensure transparency, we want candidates to know that Rivian uses iCIMS Talent Cloud Artificial Intelligence (TCAI) and AI-enabled tools to assist with screening, reviewing, organizing and highlighting profiles and applications that match the key requirements for each role.
+
+AI does not make hiring decisions: Qualified candidate applications are reviewed by a member of our team, and all decisions throughout the process are made by humans. We use AI to support efficiency and consistency, not to replace human judgment. We are committed to a fair, thoughtful, and equitable experience for every candidate.
+
+Participation in AI profile matching is entirely voluntary. If you prefer that your profile not be used in this process, you can opt out at any time. Opting out means your profile will be excluded from automated matching and will not be surfaced for additional roles through this system. Your current application remains active and will not be affected in any way.
+
+Please note that we are currently not accepting applications from third party application services.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Design, Art/Creative, and Information Technology
+Industries
+Motor Vehicle Manufacturing
+  
+
+Referrals increase your chances of interviewing at Rivian by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Power Delivery and Power Integrity Architect
+Power Delivery and Power Integrity Architect
+Qualcomm
+Santa Clara, CA
+2 weeks ago
+System Architect
+System Architect
+NVIDIA
+Santa Clara, CA
+3 days ago
+Principal Power and Performance Architect
+Principal Power and Performance Architect
+NVIDIA
+Santa Clara, CA
+3 days ago
+Principal Power Management Technical Lead
+Principal Power Management Technical Lead
+MediaTek
+San Jose, CA
+1 week ago
+Power Delivery & Integrity Engineer
+Power Delivery & Integrity Engineer
+Majestic Labs ai
+Los Altos, CA
+7 months ago
+Senior Power Integrity Engineer, Platforms Infrastructure
+Senior Power Integrity Engineer, Platforms Infrastructure
+Google
+Sunnyvale, CA
+1 week ago
+Show more jobs like this 
+People also viewed
+Principal Power Delivery Engineer - AI System
+Principal Power Delivery Engineer - AI System
+
+Hyve Solutions
+
+Fremont, CA
+4 days ago
+Principal Power Design Engineer
+Principal Power Design Engineer
+
+Delos Data
+
+Palo Alto, CA
+2 weeks ago
+Senior Power Integrity Co-Design Engineer
+Senior Power Integrity Co-Design Engineer
+
+NVIDIA
+
+Santa Clara, CA
+1 week ago
+Distinguished Engineer, Power Architecture
+Distinguished Engineer, Power Architecture
+
+NVIDIA
+
+Santa Clara, CA
+1 week ago
+Principal CPU Power Architect
+Principal CPU Power Architect
+
+NVIDIA
+
+Santa Clara, CA
+1 week ago
+Senior Datacenter Power Systems Modeling Engineer
+Senior Datacenter Power Systems Modeling Engineer
+
+NVIDIA
+
+Santa Clara, CA
+2 days ago
+Principal Power and Thermal Architect
+Principal Power and Thermal Architect
+
+NVIDIA
+
+Santa Clara, CA
+1 week ago
+Senior Signal and Power Integrity Engineer
+Senior Signal and Power Integrity Engineer
+
+NVIDIA
+
+Santa Clara, CA
+3 days ago
+Senior Datacenter Power Design and Modeling Engineer
+Senior Datacenter Power Design and Modeling Engineer
+
+NVIDIA
+
+Santa Clara, CA
+2 days ago
+Principal Datacenter HSIO Engineer
+Principal Datacenter HSIO Engineer
+
+NVIDIA
+
+Santa Clara, CA
+2 days ago
+Similar Searches
+Vice President Leadership Development jobs
+2,052 open jobs
+Senior Equipment Engineer jobs
+3,801 open jobs
+Master Technician jobs
+22,527 open jobs
+Wireless Product Manager jobs
+519 open jobs
+Plant Process Engineer jobs
+10,102 open jobs
+Senior Manager Quality Engineering jobs
+1,741 open jobs
+Design Release Engineer jobs
+10,485 open jobs
+Director of Audience Development jobs
+2,946 open jobs
+Aquatics Director jobs
+630 open jobs
+Forensic Engineer jobs
+27,435 open jobs
+Industrialization Engineer jobs
+20,237 open jobs
+Director Strategic Solutions jobs
+7,157 open jobs
+Show more 
+Explore top content on LinkedIn
+
+Find curated posts and insights for relevant topics all in one place.
+
+View top content
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rivian
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
