@@ -246143,12 +246143,12 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=63f61cb3a49da0cd",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The posting is for a non-technical role (Technical Project Manager) which does not match Vineeth's technical background in Power Integrity, Advanced Packaging and EDA tools.",
     "id": "b45d9619",
     "source": "indeed_india_pi",
     "posted_date": "N/A",
-    "deadline": "N/A",
+    "deadline": "Open until filled",
     "description_file": null
   },
   {
