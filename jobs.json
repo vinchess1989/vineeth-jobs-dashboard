@@ -249412,5 +249412,61 @@
     "posted_date": "N/A",
     "deadline": "Open until filled",
     "description_file": null
+  },
+  {
+    "title": "Engineer Development Die AttachMelaka (Malaysia)HRC1722818",
+    "company": "Infineon Technologies AG",
+    "location": "Extract from page",
+    "url": "https://www.infineon.com/careers/job/563808971725381",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No PDN, EMIR, RedHawk, Power Integrity, Electrical Analysis, RHSC, Voltus keywords found in job title or description.",
+    "id": "e2e9f044",
+    "source": "infineon_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "description_file": null
+  },
+  {
+    "title": "Technical leader for high-end consumer audio fieldAdeccoHelsinkiGo to job site",
+    "company": "Adecco",
+    "location": "Helsinki",
+    "url": "https://www.jobly.fi/en/job/technical-leader-high-end-consumer-audio-field-2737144",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for technical leadership of consumer audio systems, not semiconductor/EDA VLSI roles in power integrity, packaging, or physical design.",
+    "id": "cfe7da14",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "BI ArchitectLowell Suomi OyTurkuGo to job site",
+    "company": "Lowell Suomi Oy",
+    "location": "Turku, Finland",
+    "url": "https://www.jobly.fi/en/job/bi-architect-2737074",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Keyword pre-filter: The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "6ad1312a",
+    "source": "work_in_finland",
+    "posted_date": "2026-08-19",
+    "deadline": "Open until filled",
+    "description_file": null
+  },
+  {
+    "title": "AI Solution ArchitectDeloitteHelsinkiGo to job site",
+    "company": "Deloitte",
+    "location": "Helsinki, Finland",
+    "url": "https://www.jobly.fi/en/job/ai-solution-architect-2737078",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the key Power Integrity, PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus keywords required.",
+    "id": "48abe242",
+    "source": "work_in_finland",
+    "posted_date": "2026-08-19",
+    "deadline": "2026-08-23",
+    "description_file": null
   }
 ]
