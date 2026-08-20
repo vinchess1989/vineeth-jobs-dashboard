@@ -255100,7 +255100,7 @@
     "url": "https://in.linkedin.com/jobs/view/business-analyst-trade-transaction-reporting-at-luxoft-4456477508",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 3 column 13 (char 31)",
+    "reason": "Failed to get or parse LLM response: Expecting property name enclosed in double quotes: line 3 column 121 (char 139)",
     "id": "7d1b62e8",
     "source": "linkedin_india_emir",
     "posted_date": "N/A",
