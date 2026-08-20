@@ -255250,7 +255250,7 @@
     "url": "https://in.linkedin.com/jobs/view/senior-engineer-%E2%80%93-ic-design-physical-design-pv-power-em-ir-drop-engineer-at-silicon-labs-4455645092",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 5 column 15 (char 276)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "a014ca5a",
     "source": "linkedin_india_ir_drop",
     "posted_date": "N/A",
