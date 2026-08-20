@@ -35,6 +35,18 @@ of both checks rather than the claiming side.
   a misconfiguration (see also `feedback_verify_large_json`/`project_publish_script` memories in
   the global Claude memory store).
 
+## Groq cloud fallback (added 2026-08-20)
+
+Same `_call_llm_with_fallback` mechanism as manju_jobs (see its memory.md for the full writeup) —
+identical code here for the main review call and `analyze_scrape_run_log`. One divergence: the
+original review-call payload here didn't set `temperature`/`max_tokens` at all (left as LM
+Studio's own defaults), while manju's always used `0.1`/`500`. Harmonized to `0.1`/`500` here too
+when wiring up the fallback helper, since the helper needs *some* values and manju's proven
+defaults seemed like the safer choice for the same 6-key-JSON-extraction prompt shape — not
+verified whether this changes output quality here, worth checking if review results look off after
+2026-08-20. This repo has no `classify_requirements_change` function at all (manju-only), so there
+was nothing to decide about migrating a third call site.
+
 ## Open/unresolved
 
 - No `CLAUDE.md` existed for this repo until 2026-08-14 (just the memory.md pointer, above) —
@@ -47,4 +59,4 @@ of both checks rather than the claiming side.
   apply here; not done yet since it wasn't the ask that surfaced this gap.
 
 ---
-Last updated: 2026-08-14
+Last updated: 2026-08-20
