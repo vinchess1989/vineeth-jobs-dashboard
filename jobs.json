@@ -263034,13 +263034,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=d84507b2103b40a3",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Silicon Photonics EPM role focused on Data Center SoC, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off.",
     "id": "3bffdb34",
     "source": "indeed_ww_si_pi_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-120b",
+    "posted_date": "2026-08-17",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
