@@ -254679,13 +254679,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=a6b3fefd0e82ac4c",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Job lacks any Power Integrity, PDN, RedHawk, Voltus, or related keywords and appears to be a generic research associate posting, not a technical PI role.",
     "id": "784f6898",
     "source": "indeed_india_pi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Research Associate salaries in St. Louis, MO",
