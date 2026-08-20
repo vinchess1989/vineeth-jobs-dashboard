@@ -19449,5 +19449,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2025-09-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Mechanical Engineer Staff - Thermal Focus (Level 4)",
+    "company": "Lockheed Martin",
+    "location": "Littleton, CO",
+    "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-staff-thermal-focus-level-4-at-lockheed-martin-4452534482",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Mechanical Engineer, thermal focus, at Lockheed Martin - it's in aerospace/defense and requires US citizenship. Vineeth's background is in semiconductor power integrity and advanced packaging.",
+    "id": "5a61b53e",
+    "source": "linkedin_ww_thermal_p2",
+    "posted_date": "2026-08-18",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
