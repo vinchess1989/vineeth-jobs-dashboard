@@ -257274,12 +257274,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=3a5dfdbefe15d2c1",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a Database Administrator, which is a non-technical business/IT role unrelated to semiconductor/VLSI/EDA engineering. It does not contain any of the required keywords like PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
     "id": "502b4d51",
     "source": "indeed_india_system_power_integrity_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-07-30",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
