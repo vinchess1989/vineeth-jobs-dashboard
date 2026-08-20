@@ -267012,13 +267012,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=9627e12f95c971f4",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 6 column 3 (char 167)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
     "id": "3721da34",
     "source": "indeed_ww_asic_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-120b",
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
