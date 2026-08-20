@@ -19465,5 +19465,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Lead arkkitehti finanssitoimialan uudistushankkeisiin",
+    "company": "CGI",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/lead-arkkitehti-finanssitoimialan-uudistushankkeisiin-at-cgi-4449051646",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a lead architect role in financial industry transformation projects, unrelated to semiconductor VLSI EDA power integrity. It does not match Vineeth's background.",
+    "id": "ada33ee0",
+    "source": "linkedin_fi_semiconductor_architect_p2",
+    "posted_date": "2026-08-06",
+    "deadline": "2023-08-31",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-08-31) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Solution Architect, IBM",
+    "company": "TD SYNNEX Nordics",
+    "location": "Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/solution-architect-ibm-at-td-synnex-nordics-4441531927",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive) for Power Integrity, EDA tools like RedHawk/Voltus, or related electrical analysis. It is a Solution Architect role in IT services.",
+    "id": "44e8997a",
+    "source": "linkedin_fi_semiconductor_architect_p2",
+    "posted_date": "2026-08-15",
+    "deadline": "2026-08-07",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-07) passed by more than 2 days and unreviewed"
   }
 ]
