@@ -19529,5 +19529,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Social/Clinical Research Specialist",
+    "company": "University of North Carolina at Chapel Hill",
+    "location": "North Carolina, US",
+    "url": "https://www.indeed.com/rc/clk?jk=5af40a99d5bf9097",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical research specialist role at a university, not an engineering/technical position in semiconductor/VLSI/EDA.",
+    "id": "e954ba55",
+    "source": "indeed_ww_pi_p2",
+    "posted_date": "2026-06-07",
+    "deadline": "2026-02-09",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-02-09) passed by more than 2 days and unreviewed"
   }
 ]
