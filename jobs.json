@@ -273642,14 +273642,14 @@
     "location": "Chicago, IL",
     "url": "https://www.linkedin.com/jobs/view/junior-fpga-developer-at-edgehog-trading-4436194466",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Junior FPGA Developer, which does not match Vineeth's Senior Leadership and Power Integrity background.",
     "id": "0ee189fc",
     "source": "linkedin_ww_fpga_engineer_p3",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-22",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Principal FPGA Engineer",
