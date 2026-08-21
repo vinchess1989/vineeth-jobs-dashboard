@@ -267755,5 +267755,35 @@
     "deadline": "2027-08-13",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "Field Sales Engineer",
+    "company": "Broadcom",
+    "location": "CHN-Beijing-InfoTech",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CHN-Beijing-InfoTech/Field-Sales-Engineer_R026865",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. If not even one of these appears, discard immediately regardless of any other criteria below.",
+    "id": "d936f249",
+    "source": "broadcom_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Field Sales Engineer (China, Beijing, Remote)",
+    "company": "Broadcom",
+    "location": "Beijing, China",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CHN-Beijing-InfoTech/Field-Sales-Engineer--China--Beijing--Remote-_R026873",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Field Sales Engineer, which is a non-technical sales role and does not match Vineeth's technical background in Power Integrity, Advanced Packaging, and EDA.",
+    "id": "12785ab4",
+    "source": "broadcom_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
