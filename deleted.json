@@ -19895,5 +19895,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-08-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior FPGA Engineer I",
+    "company": "CesiumAstro",
+    "location": "Melbourne, FL",
+    "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-i-at-cesiumastro-4447071124",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job requires US citizenship and is not in Power Integrity domain.",
+    "id": "f1860de1",
+    "source": "linkedin_ww_fpga_engineer",
+    "posted_date": "2026-08-21",
+    "deadline": "N/A",
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-20b",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
