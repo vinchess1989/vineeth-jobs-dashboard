@@ -269637,13 +269637,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/field-programmable-gate-arrays-engineer-at-looper-engineering-4457087898",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for FPGA design, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "56aaafec",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "1 uur geleden",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
