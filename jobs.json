@@ -271692,13 +271692,13 @@
     "location": "Greater Lincoln Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/palantir-developer-at-experis-uk-4456470240",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Palantir Developer, which is software development focused on data engineering and platform development using Palantir Foundry and Gotham. This is not in Vineeth's domain of Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "38164c9e",
     "source": "linkedin_uk_pi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-08-20",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
