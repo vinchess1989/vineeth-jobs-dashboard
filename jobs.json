@@ -273477,13 +273477,14 @@
     "location": "Merrimack, NH",
     "url": "https://www.linkedin.com/jobs/view/fast-lab-%E2%80%93-senior-fpga-engineer-at-bae-systems-inc-4443645092",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA Engineer role at BAE Systems, which does defense electronics and systems. This is outside Vineeth's semiconductor/EDA domain.",
     "id": "c4c123ee",
     "source": "linkedin_ww_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-19",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Principal Senior Engineer - FPGA Design - $20K Sign On Bonus",
@@ -273507,12 +273508,13 @@
     "url": "https://www.linkedin.com/jobs/view/asic-fpga-digital-design-engineer-%E2%80%93-associate-or-experienced-at-boeing-4454638840",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "64c5df65",
     "source": "linkedin_ww_fpga_engineer_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Senior FPGA Engineer",
