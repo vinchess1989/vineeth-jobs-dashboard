@@ -273237,14 +273237,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=b5ef672468052511",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job lacks required keywords (PDN, Power Integrity, Redhawk, Voltus, etc.) for Vineeth's profile.",
     "id": "8fb3b5b6",
     "source": "indeed_ww_asic_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "ASIC Package Design Manager salaries in San Jose, CA",
