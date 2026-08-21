@@ -270447,13 +270447,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=706d20ca84adf402",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 2 column 3 (char 4)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks required keywords (PDN, Redhawk, Power Integrity, etc.)",
     "id": "d9762fbe",
     "source": "indeed_ww_vlsi_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
