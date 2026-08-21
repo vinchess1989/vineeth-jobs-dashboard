@@ -268010,5 +268010,35 @@
     "deadline": "2027-09-10",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "TA Assessment Solution Manager",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22591&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords for a Power Integrity / VLSI / EDA role.",
+    "id": "e5b9b5f4",
+    "source": "tsmc_careers",
+    "posted_date": "2026-07-22",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "Welcome Back",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FTA-Assessment-Solution-Manager%2F22591",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting does not contain any of the required keywords for Power Integrity, EDA tools like RedHawk or Voltus, PDN, EMIR, or Electrical Analysis.",
+    "id": "336662fc",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
