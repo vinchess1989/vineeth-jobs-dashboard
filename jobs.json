@@ -268613,17 +268613,17 @@
   },
   {
     "title": "Senior Design Engineer : Custom Digital Hard Macros (Physical IP)",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Arm",
+    "location": "Bengaluru, India",
     "url": "https://careers.arm.com/job/bengaluru/senior-design-engineer-custom-digital-hard-macros-physical-ip/33099/99522007376",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords for Power Integrity, EDA tools like RedHawk/Voltus, or electrical analysis.",
     "id": "288484a1",
     "source": "arm_careers",
-    "posted_date": "N/A",
+    "posted_date": "aug. 21, 2026",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
