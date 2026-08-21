@@ -273342,14 +273342,14 @@
     "location": "Saratoga, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-satellite-fpga-engineer-digital-logic-at-e-space-4291183895",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job does not mention any required power integrity or EDA keywords and is not a PI/EM/IR role.",
     "id": "b8013667",
     "source": "linkedin_ww_fpga_engineer",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-01-23",
+    "deadline": "Open until filled",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "Senior FPGA Engineer",
