@@ -19863,5 +19863,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Reliability Engineer",
+    "company": "Foxconn",
+    "location": "Santa Clara, CA, US",
+    "url": "https://www.indeed.com/rc/clk?jk=7e726be9024f3928",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Reliability Engineer focused on environmental and mechanical stress testing of AI rack systems, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, or EDA tools like ANSYS RedHawk.",
+    "id": "ff898edf",
+    "source": "indeed_ww_semiconductor_p2",
+    "posted_date": "2026-08-19",
+    "deadline": "2023-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
