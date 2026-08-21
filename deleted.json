@@ -20129,5 +20129,21 @@
     "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Appian Developer - 70009251",
+    "company": "Cognizant",
+    "location": "Louisville, KY",
+    "url": "https://www.linkedin.com/jobs/view/appian-developer-70009251-at-cognizant-4449303758",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an Appian Developer, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology, and EDA tools like ANSYS RedHawk, RedHawk-SC, Totem, Cadence Voltus, Grid Prototyping System (GPS).",
+    "id": "77890219",
+    "source": "linkedin_ww_si_pi",
+    "posted_date": "2026-08-08",
+    "deadline": "2025-09-04",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-09-04) passed by more than 2 days and unreviewed"
   }
 ]
