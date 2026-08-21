@@ -272064,16 +272064,16 @@
   {
     "title": "Release Train Engineer salaries in St. Louis, MO",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "St. Louis, MO, USA",
     "url": "https://www.indeed.com/career/release-engineer/salaries/63103--MO?campaignid=serp-more&fromjk=39bd672c3edc9f59&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job does not pertain to semiconductor/PI domain and lacks required keywords.",
     "id": "630169bd",
     "source": "indeed_ww_pi_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
