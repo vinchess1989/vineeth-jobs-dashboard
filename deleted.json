@@ -19911,5 +19911,21 @@
     "description_file": null,
     "eval_model": "groq/openai/gpt-oss-20b",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "ASIC / FPGA Digital Design Engineer \u2013 (Associate or Experienced)",
+    "company": "Boeing",
+    "location": "El Segundo, CA",
+    "url": "https://www.linkedin.com/jobs/view/asic-fpga-digital-design-engineer-%E2%80%93-associate-or-experienced-at-boeing-4454638840",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job requires US citizenship and security clearance and does not contain any power integrity or related keywords.",
+    "id": "64c5df65",
+    "source": "linkedin_ww_fpga_engineer_p2",
+    "posted_date": "2026-08-21",
+    "deadline": "2026-09-03",
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

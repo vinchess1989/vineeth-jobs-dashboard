@@ -273502,21 +273502,6 @@
     "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
-    "title": "ASIC / FPGA Digital Design Engineer \u2013 (Associate or Experienced)",
-    "company": "Boeing",
-    "location": "El Segundo, CA",
-    "url": "https://www.linkedin.com/jobs/view/asic-fpga-digital-design-engineer-%E2%80%93-associate-or-experienced-at-boeing-4454638840",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
-    "id": "64c5df65",
-    "source": "linkedin_ww_fpga_engineer_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
-  },
-  {
     "title": "Senior FPGA Engineer",
     "company": "K2 Space Corporation",
     "location": "Los Angeles, CA",
