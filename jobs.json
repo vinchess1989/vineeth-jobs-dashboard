@@ -272708,17 +272708,18 @@
   },
   {
     "title": "R&D Materials/Procurement Buyer ICB2",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Broadcom",
+    "location": "Regensburg, Germany",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Germany-Regensburg/R-D-Materials-Procurement-Buyer-ICB2_R026854",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical procurement buyer role, not an engineering/technical semiconductor/VLSI/EDA position.",
     "id": "3f5a966c",
     "source": "broadcom_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "System Engineer",
