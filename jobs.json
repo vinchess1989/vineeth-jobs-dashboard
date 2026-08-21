@@ -274707,13 +274707,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/engineer/salaries/Dearborn--MI?campaignid=serp-more&fromjk=080c7ed19aac4ebd&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It is a general engineer salary listing, not a specific semiconductor/VLSI/EDA technical role.",
     "id": "e71f3d7a",
     "source": "indeed_ww_physical_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-07-31",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -274887,12 +274887,13 @@
     "location": "Farnborough, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/soc-architect-at-steria-uk-limited-4457368235",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a SOC Architect role at STERIA UK, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "a39391f0",
     "source": "linkedin_uk_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-21",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
