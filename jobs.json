@@ -273402,14 +273402,14 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-fpga-engineer-future-forward-at-intuitive-4363803196",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is for an FPGA Engineer at a medical robotics company, which does not match Vineeth's semiconductor/VLSI/EDA background in Power Integrity and advanced packaging.",
     "id": "ee4c2d92",
     "source": "linkedin_ww_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-19",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior FPGA Design Engineer Sr - E3",
@@ -273462,13 +273462,14 @@
     "location": "Carlsbad, CA",
     "url": "https://www.linkedin.com/jobs/view/mid-senior-fpga-engineer-at-vulcan-wireless-inc-4414714806",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for FPGA design of software-defined radios, not Power Integrity/EMIR/PDN sign-off on SoCs.",
     "id": "0b713210",
     "source": "linkedin_ww_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-23",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "FAST Lab \u2013 Senior FPGA Engineer",
@@ -273477,7 +273478,7 @@
     "url": "https://www.linkedin.com/jobs/view/fast-lab-%E2%80%93-senior-fpga-engineer-at-bae-systems-inc-4443645092",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "reason": "Page load or parsing error.",
     "id": "c4c123ee",
     "source": "linkedin_ww_fpga_engineer_p2",
     "posted_date": "N/A",
