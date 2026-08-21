@@ -274933,12 +274933,12 @@
     "url": "https://www.indeed.com/career/validation-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=2b945b8ec34b40e7&from=serp-more",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 15 (char 14)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "630d60c7",
     "source": "indeed_ww_soc_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/qwen/qwen3.6-27b",
     "description_file": null
   },
   {
