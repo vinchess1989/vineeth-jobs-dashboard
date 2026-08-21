@@ -274542,13 +274542,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/associate-iii-vlsi-pd-sm-at-ust-4420112730",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for VLSI physical design, not Power Integrity or EDA tools.",
     "id": "57cda51c",
     "source": "linkedin_india_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-07",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
