@@ -273643,12 +273643,13 @@
     "url": "https://www.linkedin.com/jobs/view/junior-fpga-developer-at-edgehog-trading-4436194466",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "0ee189fc",
     "source": "linkedin_ww_fpga_engineer_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Principal FPGA Engineer",
@@ -273671,13 +273672,13 @@
     "location": "Indiana, United States",
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-hw-engineer-at-liberty-defense-4448135212",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 132 (char 131)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (embedded firmware engineer) rather than semiconductor/VLSI/EDA.",
     "id": "d170ce29",
     "source": "linkedin_ww_fpga_engineer_p3",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-07",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -273731,13 +273732,14 @@
     "location": "Clarksburg, MD",
     "url": "https://www.linkedin.com/jobs/view/principal-fpga-engineer-at-thales-defense-security-inc-4436257608",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA Engineer role at Thales Defense & Security, which does not match Vineeth's background in Power Integrity and Advanced Packaging for semiconductor/EDA roles.",
     "id": "237a85c0",
     "source": "linkedin_ww_fpga_engineer_p3",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-19",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior FPGA RTL Developer | Leading High-Frequency Trading Firm (India)",
@@ -273745,13 +273747,14 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/senior-fpga-rtl-developer-leading-high-frequency-trading-firm-india-at-high-frequency-trading-4456460744",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is for FPGA RTL development in a high-frequency trading firm, which is software/hardware engineering rather than semiconductor/VLSI/EDA.",
     "id": "bbd38585",
     "source": "linkedin_india_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-20",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Sr FPGA Design & Verification Engineer (Aerospace)",
