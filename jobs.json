@@ -273238,12 +273238,13 @@
     "url": "https://www.indeed.com/rc/clk?jk=b5ef672468052511",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "8fb3b5b6",
     "source": "indeed_ww_asic_design_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "ASIC Package Design Manager salaries in San Jose, CA",
@@ -273342,12 +273343,13 @@
     "url": "https://www.linkedin.com/jobs/view/staff-satellite-fpga-engineer-digital-logic-at-e-space-4291183895",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "b8013667",
     "source": "linkedin_ww_fpga_engineer",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Senior FPGA Engineer",
@@ -273355,12 +273357,13 @@
     "location": "Torrance, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-epirus-4407659689",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA Engineer role at Epirus, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It's outside his domain.",
     "id": "f8394819",
     "source": "linkedin_ww_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-05-23",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
