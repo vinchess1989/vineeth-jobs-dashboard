@@ -269525,5 +269525,35 @@
     "deadline": "N/A",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "Senior Product Portfolio ManagerFramery OyTampereGo to job site",
+    "company": "Framery Oy",
+    "location": "Tampere",
+    "url": "https://www.jobly.fi/en/job/senior-product-portfolio-manager-2738906",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a product management position focused on overall product portfolio strategy, not a technical engineering leadership role in power integrity, advanced packaging, or EDA tools.",
+    "id": "e1e66755",
+    "source": "work_in_finland",
+    "posted_date": "2026-08-21",
+    "deadline": "2026-09-13",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Senior Specialist, Service Integration, EspooClevryEspooGo to job site",
+    "company": "Clevry (client unnamed)",
+    "location": "Espoo, Finland",
+    "url": "https://www.jobly.fi/en/job/senior-specialist-service-integration-espoo-2738830",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for IT Service Management, SIAM, and service integration roles, which are outside Vineeth's semiconductor/VLSI/EDA domain.",
+    "id": "a2d9354a",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2026-09-06",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
