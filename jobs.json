@@ -272967,13 +272967,13 @@
     "location": "Newport, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/etch-process-engineer-at-kla-4454648741",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an Etch Process Engineer role at KLA, which does semiconductor wafer etching equipment. This is a technical hardware engineering position focused on plasma etch processes and equipment, not Power Integrity, EDA tools, or semiconductor design/physical layout roles that Vineeth's background is in.",
     "id": "ef96296c",
     "source": "linkedin_uk_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-21",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
