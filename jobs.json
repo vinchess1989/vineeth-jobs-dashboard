@@ -277488,13 +277488,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/system-engineer/salaries/94304--CA?campaignid=serp-more&fromjk=f0154ebe646d3c21&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a software/systems engineer focused on diagnostics and thermal systems, which does not match Vineeth's power integrity/advanced packaging background.",
     "id": "e9b5554f",
     "source": "indeed_ww_thermal_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
