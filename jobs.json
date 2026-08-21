@@ -272502,13 +272502,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=38a1835347078ab4",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job lacks any required Power Integrity or related keywords and appears unrelated to the candidate's domain.",
     "id": "d3742ab2",
     "source": "indeed_ww_ir_drop_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -272652,13 +272652,14 @@
     "location": "Northampton, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-equipment-engineer-at-microtech-global-ltd-4457373213",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is for equipment maintenance, not semiconductor power integrity or EDA tool applications engineering.",
     "id": "b99552a5",
     "source": "linkedin_uk_semiconductor_technical_leader",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-21",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior Characterization Engineer",
@@ -272666,13 +272667,14 @@
     "location": "Bristol, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-characterization-engineer-at-microtech-global-ltd-4457359260",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily characterization, test automation, and data analysis for semiconductor products, not directly in Power Integrity, EDA tools, or SoC physical design.",
     "id": "6d491fb5",
     "source": "linkedin_uk_semiconductor_technical_leader",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-21",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Principal Hardware Design Lead",
@@ -272680,26 +272682,28 @@
     "location": "Southampton, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/principal-hardware-design-lead-at-yoh-solutions-ltd-4457365219",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is a hardware design leadership position, not focused on power integrity, EDA tools, or semiconductor packaging.",
     "id": "18fecb2d",
     "source": "linkedin_uk_semiconductor_architect",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-21",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Associate Engineer- GraphicsBangalore, IndiaSoftware EngineeringPosted 11 days ago",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Qualcomm India Private Limited",
+    "location": "Bangalore, India",
     "url": "https://careers.qualcomm.com/careers/job/446718658490?sortBy=relevance",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is for a general software engineer, not Power Integrity or EDA tools.",
     "id": "930176e3",
     "source": "qualcomm_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-10",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
