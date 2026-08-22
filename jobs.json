@@ -278249,18 +278249,18 @@
   },
   {
     "title": "Advanced Manufacturing Engineering Intern (Jan-Jun 2027)SGPosted 10 days ago",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "GlobalFoundries",
+    "location": "Singapore",
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770478265",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for an internship in semiconductor manufacturing engineering, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "8b91a8f3",
     "source": "globalfoundries_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-12-08",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Purchaser, Project ProcurementW\u00e4rtsil\u00e4VaasaGo to job site",
