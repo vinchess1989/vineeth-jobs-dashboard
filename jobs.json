@@ -281238,13 +281238,13 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/senior-principal-engineering-technologist-power-integrity-at-dell-technologies-4456649416",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). Discarding immediately.",
     "id": "638a3417",
     "source": "linkedin_ww_system_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-08-22",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
