@@ -279524,17 +279524,17 @@
   },
   {
     "title": "LinkedIn",
-    "company": "Extract from page",
+    "company": "Welcome Back",
     "location": "Extract from page",
     "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FProduct-Quality-Expert-Customer-Engagement-Manager%2F19726",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords for Power Integrity, EDA tools like RedHawk/RHSC/Voltus, or related electrical analysis.",
     "id": "555a37cb",
     "source": "tsmc_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
