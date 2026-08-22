@@ -280893,13 +280893,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/process-technician/salaries/Dallas--TX?campaignid=serp-more&fromjk=4e90e69fc162e325&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a process technician, which is an entry-level manufacturing role unrelated to semiconductor design, VLSI, EDA, or Vineeth's technical background in power integrity and advanced packaging.",
     "id": "b951006f",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
