@@ -20161,5 +20161,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Ing\u00e9nieur Concepteur FPGA H/F",
+    "company": "Expleo Group",
+    "location": "Montigny-le-Bretonneux, \u00cele-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-concepteur-fpga-h-f-at-expleo-group-4411667413",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It is about FPGA design for defense systems.",
+    "id": "97340df4",
+    "source": "linkedin_eu_fpga_engineer_p2",
+    "posted_date": "il y a 2 semaines",
+    "deadline": "2023-06-11",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-11) passed by more than 2 days and unreviewed"
   }
 ]
