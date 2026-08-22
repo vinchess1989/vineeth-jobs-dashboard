@@ -278328,13 +278328,14 @@
     "location": "Irvine, CA",
     "url": "https://www.linkedin.com/jobs/view/reliability-enginner-at-broadcom-4456621244",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical Reliability Engineer role at a semiconductor company, which does not match Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "6554ee02",
     "source": "linkedin_ww_semiconductor",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-08-22",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Systems Engineer",
@@ -278368,17 +278369,17 @@
   },
   {
     "title": "Technician, Photo Engineering salaries",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "N/A - must extract from page",
+    "location": "N/A - must extract from page",
     "url": "https://www.indeed.com/career/salaries/Photo%20Technician/Taylor,%20TX?campaignid=serp-more&fromjk=6c2f05d9101e7634&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title 'Technician, Photo Engineering salaries' does not match our target domains of semiconductor/VLSI/EDA engineering. It may be a generic lab technician role in photography rather than an actual engineering position.",
     "id": "7ab1c2f8",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
