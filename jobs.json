@@ -278118,13 +278118,13 @@
     "location": "Great Malvern, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/director-of-business-excellence-at-malvern-panalytical-4456259170",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting lacks any required Power Integrity/EDA keywords and is a non\u2011technical operations/lean role.",
     "id": "d73ea9b7",
     "source": "linkedin_uk_semiconductor_director",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-22",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -278204,17 +278204,18 @@
   },
   {
     "title": "RAM RDA Applications EngineerTaichung City, Taichung City, TaiwanPosted 2 months ago",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Micron Technology, Inc.",
+    "location": "Taichung City, Taiwan",
     "url": "https://micron.eightfold.ai/careers/job/42211191",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for an RDA Applications Engineer, which does not match Vineeth's background in Power Integrity and EDA tools.",
     "id": "f0bcc259",
     "source": "micron_careers",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-06-23",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Staff Engineer",
@@ -278282,12 +278283,13 @@
     "url": "https://www.jobly.fi/en/job/solutions-architecture-senior-manager-emea-2739661",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "526b0d80",
     "source": "work_in_finland",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "Head of People ServicesNokiaEspooGo to job site",
