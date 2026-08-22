@@ -278254,7 +278254,7 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770478265",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "reason": "Page load or parsing error.",
     "id": "8b91a8f3",
     "source": "globalfoundries_careers",
     "posted_date": "N/A",
@@ -278279,18 +278279,18 @@
   },
   {
     "title": "Solutions Architecture Senior Manager, EMEANebius OyFinlandGo to job site",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Nebius Oy",
+    "location": "Finland",
     "url": "https://www.jobly.fi/en/job/solutions-architecture-senior-manager-emea-2739661",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is a leadership position for Solutions Architecture, which is more about customer-facing technical strategy and team building than Power Integrity/EDA tool expertise. Vineeth's background in PI, EDA tools like RedHawk/Voltus, and physical design would not be directly relevant.",
     "id": "526b0d80",
     "source": "work_in_finland",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-21",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Head of People ServicesNokiaEspooGo to job site",
