@@ -278254,12 +278254,13 @@
     "url": "https://globalfoundries.eightfold.ai/careers/job/563980770478265",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "8b91a8f3",
     "source": "globalfoundries_careers",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Purchaser, Project ProcurementW\u00e4rtsil\u00e4VaasaGo to job site",
