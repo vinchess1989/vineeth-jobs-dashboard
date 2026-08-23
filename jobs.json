@@ -283899,13 +283899,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/associate-iii-vlsi-sd-char-at-ust-4452230503",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for standard cell library characterization, which is outside Vineeth's domain of Power Integrity and advanced packaging.",
     "id": "f3bd9af7",
     "source": "linkedin_india_eda_design_automation_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-18",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-120b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
