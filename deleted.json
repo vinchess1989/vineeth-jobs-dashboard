@@ -20299,5 +20299,21 @@
     "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "IC CAD Engineer",
+    "company": "AMD",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/ic-cad-engineer-at-amd-4431574124",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Lacks key keywords like PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus in job title or description to be a match.",
+    "id": "48c59588",
+    "source": "linkedin_ww_eda_design_automation",
+    "posted_date": "2026-08-16",
+    "deadline": "2023-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
