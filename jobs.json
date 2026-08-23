@@ -284345,17 +284345,17 @@
   },
   {
     "title": "Senior Platform Engineer, Design Automation salaries in Santa Clara, CA",
-    "company": "Extract from page",
+    "company": "Indeed",
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/platform-engineer/salaries/Santa-Clara--CA?campaignid=serp-more&fromjk=eec9af5224f614c8&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "No relevant keywords found in the job title or description.",
     "id": "47c61453",
     "source": "indeed_ww_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
