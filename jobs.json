@@ -284394,13 +284394,13 @@
     "location": "Bari, Apulia, Italy",
     "url": "https://it.linkedin.com/jobs/view/ai-ml-manager-at-sidea-group-4439313756",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an AI & ML Manager role in AI/ML, not Power Integrity, VLSI, EDA or semiconductor domains.",
     "id": "f33beae5",
     "source": "linkedin_eu_si_pi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "1 mese fa",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
