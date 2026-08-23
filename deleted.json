@@ -20315,5 +20315,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Full-Stack Developer (AI)",
+    "company": "Visma",
+    "location": "Helsinki Metropolitan Area",
+    "url": "https://fi.linkedin.com/jobs/view/full-stack-developer-ai-at-visma-4436480790",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords for Power Integrity, EDA tools, or semiconductor/VLSI engineering.",
+    "id": "f6f8cdee",
+    "source": "linkedin_fi_eda_design_automation",
+    "posted_date": "3 viikkoa sitten",
+    "deadline": "2026-08-16",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-16) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Research Assistant (AI agents in electromagnetics research) / Tutkimusapulainen (teko\u00e4lyagentit s\u00e4hk\u00f6magnetiikan tutkimuksessa)",
+    "company": "Tampere University",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/research-assistant-ai-agents-in-electromagnetics-research-tutkimusapulainen-teko%C3%A4lyagentit-s%C3%A4hk%C3%B6magnetiikan-tutkimuksessa-at-tampere-university-4452707752",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a research assistant focused on AI agents in electromagnetics, which does not match Vineeth's background in Power Integrity and advanced packaging.",
+    "id": "632dd51b",
+    "source": "linkedin_fi_eda_design_automation",
+    "posted_date": "2026-08-16",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
