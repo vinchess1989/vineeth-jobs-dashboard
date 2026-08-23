@@ -283794,13 +283794,13 @@
     "location": "San Francisco, CA",
     "url": "https://www.linkedin.com/jobs/view/pd-sr-staff-%E2%80%94-cad-design-methodology-rtl-to-gdsii-flow-advanced-node-methodology-at-eliyan-corporation-4427649512",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks required keywords (PDN, EMIR, Redhawk, Power Integrity, etc.) for Power Integrity/EDA focus.",
     "id": "ad3236df",
     "source": "linkedin_ww_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-06-24",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -283839,14 +283839,14 @@
     "location": "India",
     "url": "https://in.linkedin.com/jobs/view/senior-staff-cad-methodology-engineer-digital-implementation-signoff-at-encharge-ai-4457330683",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Staff CAD & Methodology Engineer position at EnCharge AI, which matches Vineeth's background in Power Integrity (PI), Advanced Packaging, and SoC PDN sign-off.",
     "id": "23ff0d1e",
     "source": "linkedin_india_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-22",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
-    "description_file": null
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": "job_descriptions/encharge_ai_senior_staff_cad___methodology_23ff0d1e.txt"
   },
   {
     "title": "Principal CAD Engineer",
