@@ -283344,13 +283344,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/salaries/BPM%20Developer/Ann%20Arbor,%20MI?campaignid=serp-more&fromjk=dad01ad19f7858ca&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). This is a necessary condition for discarding immediately.",
     "id": "3061c8d3",
     "source": "indeed_ww_eda_design_automation_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
