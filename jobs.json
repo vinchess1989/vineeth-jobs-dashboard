@@ -283677,7 +283677,7 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Design Engineer - Flow Development salaries in San Jose, CA",
@@ -283767,7 +283767,7 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-120b"
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "Senior Signal and Power Integrity Engineer",
@@ -283776,13 +283776,13 @@
     "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-at-waymo-4456815487",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting property name enclosed in double quotes: line 5 column 21 (char 196)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "a58b7d57",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-120b"
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Senior Direct Current (DC) Power Engineer",
@@ -283790,12 +283790,12 @@
     "location": "Austin, TX",
     "url": "https://www.linkedin.com/jobs/view/senior-direct-current-dc-power-engineer-at-dell-technologies-4456649416",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "US-based role without explicit visa sponsorship or relocation, violating location criteria.",
     "id": "e4653ce4",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-08-26",
+    "deadline": "Open until filled",
     "description_file": null,
     "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   }
