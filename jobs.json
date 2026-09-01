@@ -288080,13 +288080,13 @@
     "location": "Santa Clara, CA",
     "url": "https://www.linkedin.com/jobs/view/cad-tools-developer-at-nvidia-ai-4459549370",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a CAD Tools Developer at NVIDIA AI, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "b79ba4b8",
     "source": "linkedin_ww_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-02",
+    "deadline": "2026-09-05",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
