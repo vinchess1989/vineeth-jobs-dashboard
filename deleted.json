@@ -23131,5 +23131,21 @@
     "eval_model": "groq/openai/gpt-oss-20b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior ASIC Verification Engineer",
+    "company": "NVIDIA AI",
+    "location": "Hillsboro, AL",
+    "url": "https://www.linkedin.com/jobs/view/senior-asic-verification-engineer-at-nvidia-ai-4458065216",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a senior ASIC verification engineer, which is outside the power integrity/advanced packaging domain and does not contain required keywords.",
+    "id": "83346910",
+    "source": "linkedin_ww_semiconductor",
+    "posted_date": "2026-08-29",
+    "deadline": "2026-08-31",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-31) passed by more than 2 days and unreviewed"
   }
 ]
