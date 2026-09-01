@@ -282935,13 +282935,13 @@
     "location": "Newcastle, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/lead-software-engineer-at-cadence-4416192530",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job is a software engineering role with no PI/EMIR/Redhawk keywords, not a match.",
     "id": "e85c1403",
     "source": "linkedin_uk_eda_design_automation",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-19",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-20b",
     "description_file": null
   }
 ]
