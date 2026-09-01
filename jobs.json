@@ -283761,13 +283761,13 @@
     "url": "https://www.linkedin.com/jobs/view/power-integrity-engineer-at-hudson-river-trading-4458673737",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 3 column 12 (char 30)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "4dd08753",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Senior Signal and Power Integrity Engineer",
