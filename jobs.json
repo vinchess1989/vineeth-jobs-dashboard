@@ -283760,14 +283760,14 @@
     "location": "Chicago, IL",
     "url": "https://www.linkedin.com/jobs/view/power-integrity-engineer-at-hudson-river-trading-4458673737",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords for Power Integrity, EDA tools like RedHawk/Voltus, or electrical analysis.",
     "id": "4dd08753",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-29",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-120b"
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior Signal and Power Integrity Engineer",
