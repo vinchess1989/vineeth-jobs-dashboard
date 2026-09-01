@@ -282995,13 +282995,13 @@
     "location": "United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-digital-design-engineer-at-edison-smart%C2%AE-4461718039",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job description lacks any required Power Integrity/PDN/RedHawk/Voltus keywords.",
     "id": "3a795bd9",
     "source": "linkedin_uk_eda_design_automation_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-02",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -283010,13 +283010,13 @@
     "location": "Oxford, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-mapping-localization-engineer-at-robotic-data-4446136126",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job does not mention semiconductor or power integrity keywords.",
     "id": "337afc7a",
     "source": "linkedin_uk_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-07-04",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-20b",
     "description_file": null
   },
   {
@@ -283076,7 +283076,7 @@
     "source": "linkedin_uk_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
@@ -283131,12 +283131,12 @@
     "url": "https://uk.linkedin.com/jobs/view/technical-marketing-engineer-%E2%80%93-fpga-design-at-amd-4448012904",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 15 (char 14)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "c08b6c30",
     "source": "linkedin_uk_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-20b",
+    "eval_model": "groq/qwen/qwen3.6-27b",
     "description_file": null
   },
   {
@@ -283160,13 +283160,13 @@
     "location": "Newcastle, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/research-assistant-associate-in-heterogeneous-ics-at-newcastle-university-4460634969",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for a research position in hardware-software co-design for heterogeneous integrated circuits at an academic institution, which does not match Vineeth's background in semiconductor power integrity and advanced packaging.",
     "id": "dd7d7cba",
     "source": "linkedin_uk_eda_design_automation_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-02",
+    "deadline": "2026-09-29",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   }
 ]
