@@ -23179,5 +23179,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior RF Specialist",
+    "company": "Patria",
+    "location": "Tampere Metropolitan Area",
+    "url": "https://fi.linkedin.com/jobs/view/senior-rf-specialist-at-patria-4458891575",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an RF Specialist, not a Power Integrity/EDA role.",
+    "id": "b67ff0b7",
+    "source": "linkedin_fi_rtl_design_engineer",
+    "posted_date": "2026-09-01",
+    "deadline": "2026-06-06",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "S\u00e4hk\u00f6ratasuunnittelija",
+    "company": "AFRY",
+    "location": "Vantaa, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/s%C3%A4hk%C3%B6ratasuunnittelija-at-afry-4461064162",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Electrical Engineer position, not Power Integrity or EDA tools.",
+    "id": "8cfe231d",
+    "source": "linkedin_fi_rtl_design_engineer",
+    "posted_date": "2026-09-01",
+    "deadline": "2026-08-20",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-20) passed by more than 2 days and unreviewed"
   }
 ]
