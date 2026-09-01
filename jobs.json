@@ -283610,13 +283610,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=86dfd74b4827e577",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks any PI/PDN/RedHawk/Voltus keywords and appears unrelated to semiconductor technical roles.",
     "id": "f627eb71",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Controls Design Engineer salaries in Owings Mills, MD",
@@ -283624,13 +283625,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/controls-engineer/salaries/21117--MD?campaignid=serp-more&fromjk=86dfd74b4827e577&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job lacks required Power Integrity keywords and is not a relevant technical role.",
     "id": "5985f7cb",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "E&I Control System Design Engineer",
@@ -283639,12 +283641,13 @@
     "url": "https://www.indeed.com/rc/clk?jk=502104f2edb926fa",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 236 (char 235)",
     "id": "75fe84db",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-20b"
   },
   {
     "title": "E&I Control System Design Engineer salaries in Durham, NC",
@@ -283652,13 +283655,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/controls-engineer/salaries/Durham--NC?campaignid=serp-more&fromjk=502104f2edb926fa&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks any required power integrity or related keywords.",
     "id": "c5e6c249",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Design Engineer - Flow Development",
@@ -283667,12 +283671,13 @@
     "url": "https://www.indeed.com/rc/clk?jk=b964e354e705c761",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "f510240f",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "Design Engineer - Flow Development salaries in San Jose, CA",
@@ -283681,12 +283686,13 @@
     "url": "https://www.indeed.com/career/design-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=b964e354e705c761&from=serp-more",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "065d0d1c",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Automation Specialist salaries in Tampa, FL",
@@ -283694,13 +283700,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/automation-specialist/salaries/Tampa--FL?campaignid=serp-more&fromjk=b71d55368f08c8fa&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The posting lacks any required Power Integrity or related keywords and is not a technical semiconductor role.",
     "id": "5e2ea7cf",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Staff Signal Integrity and Power Integrity Engineer (SI/PI)",
@@ -283709,12 +283716,13 @@
     "url": "https://www.linkedin.com/jobs/view/staff-signal-integrity-and-power-integrity-engineer-si-pi-at-zoox-4459636320",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "29906c7f",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Signal Integrity & Power Integrity Engineer, Amazon Leo",
@@ -283722,13 +283730,14 @@
     "location": "Redmond, WA",
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-power-integrity-engineer-amazon-leo-at-amazon-4461025644",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It is about general signal integrity and power integrity engineering for Amazon's satellite network project, not specifically focused on the named EDA tools or PI/EM sign-off.",
     "id": "e129873a",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Signal Integrity Engineer",
@@ -283736,13 +283745,14 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/signal-integrity-engineer-at-broadcom-4457409222",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks required keywords such as PDN, Redhawk, Power Integrity, or Voltus.",
     "id": "01a32db4",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-26",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Power Integrity Engineer",
@@ -283751,12 +283761,13 @@
     "url": "https://www.linkedin.com/jobs/view/power-integrity-engineer-at-hudson-river-trading-4458673737",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "4dd08753",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "Senior Signal and Power Integrity Engineer",
@@ -283765,12 +283776,13 @@
     "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-at-waymo-4456815487",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "a58b7d57",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "Senior Direct Current (DC) Power Engineer",
@@ -283779,7 +283791,7 @@
     "url": "https://www.linkedin.com/jobs/view/senior-direct-current-dc-power-engineer-at-dell-technologies-4456649416",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "reason": "Failed to get or parse LLM response: Expecting property name enclosed in double quotes: line 6 column 34 (char 204)",
     "id": "e4653ce4",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
