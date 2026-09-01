@@ -287240,13 +287240,13 @@
     "location": "Antwerp, Flemish Region, Belgium",
     "url": "https://be.linkedin.com/jobs/view/fpga-designer-at-verotech-4460252136",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA designer, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It falls under SoC PDN sign-off but is not a direct match.",
     "id": "90a2169b",
     "source": "linkedin_eu_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-02",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
