@@ -289115,13 +289115,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/mts-signal-power-integrity-engineer-at-tsavorite-scalable-intelligence-4457895335",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Signal/Power Integrity Engineer role, which does not directly match Vineeth's Power Integrity and Advanced Packaging focus. It may be a 'maybe' if considering broader semiconductor engineering leadership roles.",
     "id": "614e7746",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
