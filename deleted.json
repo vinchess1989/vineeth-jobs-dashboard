@@ -23147,5 +23147,21 @@
     "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-31) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Lab Technician for GNSS Testing Lab",
+    "company": "u-blox",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/lab-technician-for-gnss-testing-lab-at-u-blox-4460326349",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a lab technician role, not Power Integrity/EDA engineering.",
+    "id": "ed5b789e",
+    "source": "linkedin_fi_semiconductor_p2",
+    "posted_date": "2026-08-29",
+    "deadline": "2026-07-20",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-20) passed by more than 2 days and unreviewed"
   }
 ]
