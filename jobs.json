@@ -282741,7 +282741,7 @@
     "url": "https://it.linkedin.com/jobs/view/senior-engineer-central-engineering-cad-at-micron-technology-4460009277",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 24 (char 23)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "e4517b05",
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "N/A",
@@ -282806,7 +282806,7 @@
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -282896,7 +282896,7 @@
     "source": "linkedin_eu_eda_design_automation_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
