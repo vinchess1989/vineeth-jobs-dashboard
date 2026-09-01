@@ -23211,5 +23211,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "ASIC Engineer",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/asic-engineer-at-cisco-4459851747",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an ASIC Design Engineer, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "id": "3d088ef0",
+    "source": "linkedin_ww_eda_design_automation_p2",
+    "posted_date": "2026-08-28",
+    "deadline": "2026-01-10",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-01-10) passed by more than 2 days and unreviewed"
   }
 ]
