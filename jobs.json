@@ -287810,13 +287810,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/rtl-design-engineer-at-hcltech-4458897937",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for RTL Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It is a DV/verification role.",
     "id": "e86f1496",
     "source": "linkedin_india_rtl_design_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
