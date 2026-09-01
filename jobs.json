@@ -283641,13 +283641,13 @@
     "url": "https://www.indeed.com/rc/clk?jk=502104f2edb926fa",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 236 (char 235)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "75fe84db",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-20b"
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "E&I Control System Design Engineer salaries in Durham, NC",
@@ -283685,14 +283685,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/design-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=b964e354e705c761&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks relevant technical details and domain keywords, and does not contain any of the required PI/EDA keywords.",
     "id": "065d0d1c",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   },
   {
     "title": "Automation Specialist salaries in Tampa, FL",
@@ -283715,14 +283715,14 @@
     "location": "Foster City, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-signal-integrity-and-power-integrity-engineer-si-pi-at-zoox-4459636320",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Signal Integrity' but does not mention 'Power Integrity', 'RedHawk', 'Voltus', 'EMIR', or other key keywords Vineeth is an expert in. This would be a hard rejection based on the pre-filter.",
     "id": "29906c7f",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-28",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Signal Integrity & Power Integrity Engineer, Amazon Leo",
@@ -283767,7 +283767,7 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Senior Signal and Power Integrity Engineer",
@@ -283776,13 +283776,13 @@
     "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-at-waymo-4456815487",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "reason": "Failed to get or parse LLM response: Expecting property name enclosed in double quotes: line 5 column 21 (char 196)",
     "id": "a58b7d57",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Senior Direct Current (DC) Power Engineer",
@@ -283791,12 +283791,12 @@
     "url": "https://www.linkedin.com/jobs/view/senior-direct-current-dc-power-engineer-at-dell-technologies-4456649416",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting property name enclosed in double quotes: line 6 column 34 (char 204)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "e4653ce4",
     "source": "linkedin_ww_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-120b"
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
   }
 ]
