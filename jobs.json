@@ -283670,8 +283670,8 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=b964e354e705c761",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks required keywords (PDN, Redhawk, Power Integrity, etc.)",
     "id": "f510240f",
     "source": "indeed_india_eda_design_automation",
     "posted_date": "N/A",
@@ -283767,7 +283767,7 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Senior Signal and Power Integrity Engineer",
