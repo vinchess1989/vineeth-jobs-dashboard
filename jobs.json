@@ -320090,13 +320090,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=f5928b812b678126",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Software Engineer position, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "19d879ff",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
