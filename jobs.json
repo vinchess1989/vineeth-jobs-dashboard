@@ -319790,13 +319790,14 @@
     "location": "Turin, Piedmont, Italy",
     "url": "https://it.linkedin.com/jobs/view/thermo-fluid-dynamic-infrared-signature-engineer-at-txt-group-4458993394",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The role is for Thermo-Fluid-Dynamic & Infrared Signature Engineer, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "30166c20",
     "source": "linkedin_eu_thermal_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "4 giorni fa",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Thermal Analysis and Verification Engineer",
