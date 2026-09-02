@@ -299780,13 +299780,13 @@
     "location": "Pune Division, Maharashtra, India",
     "url": "https://in.linkedin.com/jobs/view/principal-engineer-electrical-electronics-engineering-xiii-at-vertiv-4451506574",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks required keywords such as PDN, Power Integrity, Redhawk, or Voltus, triggering immediate discard.",
     "id": "afed40a8",
     "source": "linkedin_india_system_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
