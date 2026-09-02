@@ -23819,5 +23819,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Software Developer",
+    "company": "Svea Finland",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/senior-software-developer-at-svea-finland-4450065824",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title is for a Senior Software Developer, which does not match Vineeth's background in Power Integrity and VLSI/EDA tools.",
+    "id": "3d30dfa3",
+    "source": "linkedin_fi_emir",
+    "posted_date": "2026-08-12",
+    "deadline": "2026-06-04",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-04) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Postdoctoral Researcher, IsoMuseomics (Stable Isotopes)",
+    "company": "Emerging Scholars Council",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-isomuseomics-stable-isotopes-at-emerging-scholars-council-4448084244",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a postdoctoral researcher position in stable isotope analysis and ecology, unrelated to semiconductor/VLSI/EDA.",
+    "id": "6fc737af",
+    "source": "linkedin_fi_emir",
+    "posted_date": "2026-08-12",
+    "deadline": "2026-08-31",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-31) passed by more than 2 days and unreviewed"
   }
 ]
