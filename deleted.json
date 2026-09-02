@@ -23515,5 +23515,37 @@
     "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Signal and Power Integrity Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-at-nvidia-4454446339",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Signal Integrity' but does not contain any of the required keywords for Power Integrity, RedHawk, EMIR, or Electrical Analysis.",
+    "id": "2194e2b6",
+    "source": "linkedin_ww_ir_drop_p3",
+    "posted_date": "2026-08-19",
+    "deadline": "2026-08-21",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-21) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Signal and Power Integrity Engineer - Hardware",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-signal-and-power-integrity-engineer-hardware-at-nvidia-4441134048",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
+    "id": "61281224",
+    "source": "linkedin_ww_ir_drop_p3",
+    "posted_date": "2026-08-30",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
