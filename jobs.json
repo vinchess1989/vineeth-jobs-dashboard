@@ -324695,13 +324695,13 @@
     "location": "Finland",
     "url": "https://fi.linkedin.com/jobs/view/senior-paid-media-buyer-at-ridge-4424738369",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 24 (char 23)",
+    "matches_requirements": "no",
+    "reason": "The role is for Paid Media Buying, which is outside Vineeth's domain of Power Integrity and VLSI/EDA.",
     "id": "9b60685b",
     "source": "linkedin_fi_ir_drop",
-    "posted_date": "N/A",
+    "posted_date": "2 kuukautta sitten",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
