@@ -303785,13 +303785,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=0bbd4f5216e9b790",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 4 column 18 (char 129)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Thermal' which is not one of Vineeth's key technical areas.",
     "id": "8205589e",
     "source": "indeed_india_thermal",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
