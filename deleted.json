@@ -23691,5 +23691,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Distinguished Engineer - Memory Architecture",
+    "company": "NVIDIA",
+    "location": "Redmond, WA",
+    "url": "https://www.linkedin.com/jobs/view/distinguished-engineer-memory-architecture-at-nvidia-4440287855",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job does not mention any of the required power integrity or EDA keywords and is outside the target domains.",
+    "id": "2e5a5388",
+    "source": "linkedin_ww_semiconductor_principal_engineer_p2",
+    "posted_date": "2026-08-29",
+    "deadline": "2026-07-19",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-19) passed by more than 2 days and unreviewed"
   }
 ]
