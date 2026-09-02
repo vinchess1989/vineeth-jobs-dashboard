@@ -314582,16 +314582,16 @@
   {
     "title": "Senior Design Verification Engineer - Neuromorphic Computing salaries in Hillsboro, OR",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Hillsboro, OR, USA",
     "url": "https://www.indeed.com/career/design-verification-engineer/salaries/Hillsboro--OR?campaignid=serp-more&fromjk=dd38cbd200f79186&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting is for a Senior Design Verification Engineer, which is outside the required Power Integrity/Packaging/EDA domains and is a verification role.",
     "id": "6682b50f",
     "source": "indeed_india_soc_design_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
@@ -314690,13 +314690,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/cybersecurity-policy-advisor/salaries/77042--TX?campaignid=serp-more&fromjk=7dea48f3e6461e9f&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the keywords required for Vineeth's background.",
     "id": "c1b262d4",
     "source": "indeed_india_soc_design_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "SOC Manager",
