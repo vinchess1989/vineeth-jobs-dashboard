@@ -300740,13 +300740,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=258c522188843a0d",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary condition, not a sufficient one.",
     "id": "ec829639",
     "source": "indeed_india_system_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-08-12",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -300796,17 +300796,18 @@
   },
   {
     "title": "Hardware Principal Engineer \u2013 System Integration",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Dell",
+    "location": "Franklin, MA, United States",
     "url": "https://www.indeed.com/rc/clk?jk=f1d446834de4b11d",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is a hardware engineering position at Dell, which does not match Vineeth's background in semiconductor power integrity and advanced packaging.",
     "id": "c831f443",
     "source": "indeed_india_system_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "01/11/2026, 07:00",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Hardware Principal Engineer \u2013 System Integration salaries in Round Rock, TX",
