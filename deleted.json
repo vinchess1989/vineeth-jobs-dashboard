@@ -24167,5 +24167,21 @@
     "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "ASIC Engineer",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/asic-engineer-at-cisco-4462481662",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an ASIC Engineer at Cisco, which does not match Vineeth's key skills in Power Integrity and Advanced Packaging. It requires experience with EDA tools like Innovus, Tempus/Primetime, Redhawk/Voltus or Calibre but these are different from the ANSYS RedHawk, RedHawk-SC, Totem tools that Vineeth is specialized in.",
+    "id": "f99afcc5",
+    "source": "linkedin_ww_vlsi_design",
+    "posted_date": "2026-09-03",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
