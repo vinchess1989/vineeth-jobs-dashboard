@@ -310861,17 +310861,17 @@
   },
   {
     "title": "Firmware Engineer 2",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Broadcom",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Firmware-Engineer-2_R026980",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Firmware Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "0a945394",
     "source": "broadcom_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-31",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
