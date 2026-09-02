@@ -23291,5 +23291,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "CPU Design Methodology Engineer",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/cpu-design-methodology-engineer-at-nvidia-4455471380",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "8851adf4",
+    "source": "linkedin_ww_soc_design",
+    "posted_date": "2026-08-26",
+    "deadline": "2026-08-22",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-22) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Security Architect - Hardware",
+    "company": "NVIDIA",
+    "location": "Austin, TX",
+    "url": "https://www.linkedin.com/jobs/view/senior-security-architect-hardware-at-nvidia-4436883021",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical Senior Security Architect role at NVIDIA, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and physical design.",
+    "id": "dff8f4d9",
+    "source": "linkedin_ww_soc_design",
+    "posted_date": "2026-08-26",
+    "deadline": "2026-06-11",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-11) passed by more than 2 days and unreviewed"
   }
 ]
