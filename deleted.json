@@ -23547,5 +23547,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Operator (Control Center)",
+    "company": "Enersense",
+    "location": "Pori, Satakunta, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/operator-control-center-at-enersense-4457948280",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a general operations manager at an energy company, not specific to semiconductor VLSI EDA roles like Power Integrity or advanced packaging. It does not match Vineeth's technical background.",
+    "id": "ed49369d",
+    "source": "linkedin_fi_system_power_integrity_p2",
+    "posted_date": "2026-08-27",
+    "deadline": "2023-09-27",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-27) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Projektip\u00e4\u00e4llikk\u00f6, voimajohtoprojektit",
+    "company": "Fingrid Oyj",
+    "location": "Jyv\u00e4skyl\u00e4, Central Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/projektip%C3%A4%C3%A4llikk%C3%B6-voimajohtoprojektit-at-fingrid-oyj-4457949482",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Electrical Engineer position at Fingrid, managing power grid projects and infrastructure - it does not match Vineeth's Power Integrity (PI), Advanced Packaging, SoC PDN sign-off background.",
+    "id": "3b6a2640",
+    "source": "linkedin_fi_system_power_integrity_p2",
+    "posted_date": "2026-08-27",
+    "deadline": "2023-09-09",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-09) passed by more than 2 days and unreviewed"
   }
 ]
