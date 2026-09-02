@@ -23963,5 +23963,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior FPGA Engineer",
+    "company": "CesiumAstro",
+    "location": "Melbourne, FL",
+    "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-cesiumastro-4461019155",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA Engineer role at a company called CesiumAstro, which does not match Vineeth's background in Power Integrity and Advanced Packaging. The role also requires US citizenship.",
+    "id": "b624158c",
+    "source": "linkedin_ww_fpga_engineer_p2",
+    "posted_date": "2026-08-30",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Advanced FPGA Engineer",
+    "company": "General Dynamics Mission Systems",
+    "location": "Annapolis Junction, MD",
+    "url": "https://www.linkedin.com/jobs/view/senior-advanced-fpga-engineer-at-general-dynamics-mission-systems-4458687586",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Requires US citizenship with active security clearance, outside Vineeth's domain",
+    "id": "27a97a04",
+    "source": "linkedin_ww_fpga_engineer_p2",
+    "posted_date": "2026-08-28",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
