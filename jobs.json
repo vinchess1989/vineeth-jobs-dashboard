@@ -307670,13 +307670,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=922495348adaacbd",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title is 'Assembler' which does not match Vineeth's background in Power Integrity, Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology and EDA tools.",
     "id": "f1abaf70",
     "source": "indeed_india_semiconductor_technical_leader",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-08-12",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Assembler salaries in Melbourne, FL",
