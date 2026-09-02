@@ -311222,16 +311222,16 @@
   {
     "title": "View and Apply",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Asilmetta, Vishakhapatnam, Andhra Pradesh, India ..+ 2",
     "url": "https://tessolve.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a69fd6861c3a42",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily ATE test engineering, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "6611c60b",
     "source": "tessolve_careers",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
