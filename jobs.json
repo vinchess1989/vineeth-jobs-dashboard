@@ -325385,13 +325385,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=984c16ff44f344c1",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This fails the hard rejection criteria.",
     "id": "026c13fe",
     "source": "indeed_india_system_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Software Engineer II salaries in Richmond, VA",
