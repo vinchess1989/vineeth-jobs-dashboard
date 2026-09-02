@@ -306976,17 +306976,17 @@
   },
   {
     "title": "Director Information Technology- Oracle Platform salaries in Menomonee Falls, WI",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Harley-Davidson Motor Company Group",
+    "location": "Menomonee Falls, WI, USA",
     "url": "https://www.indeed.com/career/director-of-information-technology/salaries/Menomonee-Falls--WI?campaignid=serp-more&fromjk=4bf70149409dbcbe&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical IT Director role, not a semiconductor/VLSI/EDA engineering position.",
     "id": "cc8acfd4",
     "source": "indeed_india_semiconductor_cto_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
