@@ -317615,13 +317615,13 @@
     "location": "Sugar Land, TX",
     "url": "https://www.linkedin.com/jobs/view/junior-aveva-pi-engineer-remote-at-invasystems-inc-4462084308",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for an AVEVA PI System engineer, which is industrial data infrastructure and real-time systems, not semiconductor power integrity/EMIR. It's also in Texas rather than Finland/Europe/Asia.",
     "id": "90cab86a",
     "source": "linkedin_ww_si_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-02",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
