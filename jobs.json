@@ -291395,14 +291395,14 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/senior-staff-physical-design-floorplan-at-mulya-technologies-4457876574",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Staff Physical Design Engineer position with 10-14 years experience required, fitting Vineeth's senior leadership level and technical background in physical design.",
     "id": "634d28ac",
     "source": "linkedin_india_physical_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-02",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
-    "description_file": null
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": "job_descriptions/mulya_technologies_senior_staff_physical_design_f_634d28ac.txt"
   },
   {
     "title": "Physical Design Engineer(2-8 YOE)",
