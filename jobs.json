@@ -291560,13 +291560,13 @@
     "location": "Lucca, Tuscany, Italy",
     "url": "https://it.linkedin.com/jobs/view/digital-backend-engineer-%E2%80%93-physical-design-sign-off-lucca-at-move-silicon-4459808537",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. Discarded immediately.",
     "id": "9702511a",
     "source": "linkedin_eu_physical_design_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "5 giorni fa",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
