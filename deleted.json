@@ -23739,5 +23739,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Consultant",
+    "company": "Zachary Piper Solutions",
+    "location": "Washington, DC",
+    "url": "https://www.linkedin.com/jobs/view/senior-consultant-at-zachary-piper-solutions-4460058450",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a software consulting position focused on Appian development, not a semiconductor/EDA Power Integrity or related technical domain.",
+    "id": "523c2b12",
+    "source": "linkedin_ww_si_pi",
+    "posted_date": "2026-09-01",
+    "deadline": "2026-08-31",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-31) passed by more than 2 days and unreviewed"
   }
 ]
