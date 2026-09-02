@@ -23259,5 +23259,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": "job_descriptions/tylsemi_senior_physical_design_enginee_a0534e81.txt",
     "deletion_reason": "Deadline (2023-04-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Lead Computational Designer",
+    "company": "Beyond Carbon",
+    "location": "London Area, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/lead-computational-designer-at-beyond-carbon-4461715842",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a computational designer focused on low-energy building design, not semiconductor/VLSI/EDA.",
+    "id": "f3c193c7",
+    "source": "linkedin_uk_physical_design",
+    "posted_date": "2026-09-02",
+    "deadline": "2023-09-11",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-11) passed by more than 2 days and unreviewed"
   }
 ]
