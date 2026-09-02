@@ -290330,13 +290330,13 @@
     "location": "Berlin, Berlin, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-engineer-advanced-technology-m-f-d-at-adtran-4379049738",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting is for a non-technical role (Senior Engineer Advanced Technology) at a semiconductor company, which we only want engineering/technical positions for.",
     "id": "b083546f",
     "source": "linkedin_eu_advanced_packaging_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
