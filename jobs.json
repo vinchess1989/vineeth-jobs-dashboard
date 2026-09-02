@@ -297530,13 +297530,13 @@
     "location": "Cracow, Ma\u0142opolskie, Poland",
     "url": "https://pl.linkedin.com/jobs/view/middle-office-fx-derivatives-specialist-at-universal-investment-4457791105",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Middle Office FX Derivatives Specialist role at Universal Investment in Krakow, Poland - it has nothing to do with semiconductor VLSI EDA Power Integrity or packaging engineering.",
     "id": "03f60909",
     "source": "linkedin_eu_emir",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-28",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
