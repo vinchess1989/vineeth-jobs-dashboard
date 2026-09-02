@@ -23915,5 +23915,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Data and Analytics Lead (Aveva PI)",
+    "company": "Xcel Energy",
+    "location": "Denver, CO 80205, United States of America; Minneapolis, MN 55401, United States",
+    "url": "https://www.indeed.com/rc/clk?jk=b6e66bdd6f25da99",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Data' and 'Analytics', indicating a non-technical business intelligence/insights role, not semiconductor/VLSI/EDA. Discarded based on hard rejection criteria.",
+    "id": "8c9f0abb",
+    "source": "indeed_india_system_power_integrity_p3",
+    "posted_date": "2026-01-09",
+    "deadline": "2026-08-09",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-09) passed by more than 2 days and unreviewed"
   }
 ]
