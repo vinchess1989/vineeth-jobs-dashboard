@@ -1,0 +1,319 @@
+Title: Director, Embedded Memory
+Company: Silvaco Inc
+Location: Montbonnot-Saint-Martin, Auvergne-Rhône-Alpes, France
+URL: https://fr.linkedin.com/jobs/view/director-embedded-memory-at-silvaco-inc-4461756703
+Posted: 2026-09-02
+Deadline: N/A
+Reason: The role is a senior technical leadership position for embedded memory design at Silvaco, which fits Vineeth's background in Power Integrity and advanced packaging.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Director, Embedded Memory
+Silvaco Inc  Montbonnot-Saint-Martin, Auvergne-Rhône-Alpes, France
+4 hours ago   Be among the first 25 applicants
+  
+
+See who Silvaco Inc has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+This role is based in the country of France (hybrid office).
+
+
+
+
+Silvaco is hiring a Memory Design Lead to drive the architecture, design, customer interface and delivery of our embedded memory compiler portfolio: single-port SRAM, ROM, single- and dual-port register files (1PRF, 2PRF), and dual-port RAM (DPRAM). You will lead a team of memory designers, set the technical direction across multiple process nodes, and serve as the senior technical voice in customer engagements — from early presales architecture discussions through PPA negotiation, integration support, and silicon qualification. 
+
+
+
+
+This role blends deep technical leadership with direct customer impact. You will shape what our compilers can do, how competitive their PPA is, and how confidently our customers can integrate them into their SoCs. If you have built memory compilers in production, mentored design teams, and enjoy translating customer requirements into winning silicon, this is a high-leverage role at a fast-growing semiconductor IP and EDA company. 
+
+
+
+
+Key Responsibilities 
+
+
+
+
+Technical Leadership & Memory Design 
+
+Lead architecture, circuit design, and physical implementation of memory compilers across SRAM, ROM, 1-port and 2-port register files, and dual-port RAM. 
+Define bitcell selection, peripheral architecture (decoders, sense amps, write drivers, IO, self-timing), redundancy and repair strategy, and assist circuits (read/write assist, body bias) to hit aggressive PPA targets. 
+Drive Vmin, leakage, performance, area, and yield optimization across PVT corners, process variation, and aging effects. 
+Own the technical roadmap for the memory portfolio: new compiler variants, new nodes, feature enhancements, and methodology improvements. 
+Establish design, verification, and signoff methodology, while leading design and layout reviews, SPICE/FastSPICE characterization, statistical/Monte Carlo analysis, BIST/repair, DFT, and physical verification. 
+Lead silicon validation efforts including test chip development, testing and reporting.  
+
+
+
+
+Team Leadership 
+
+Lead, mentor, and grow a team of memory design engineers spanning circuit design, layout, characterization, and compiler/automation. 
+Set individual and team goals, conduct technical reviews, and develop career paths for engineers at multiple levels. 
+Allocate engineering effort across roadmap projects, customer commitments, and silicon programs; manage schedules, dependencies, and risk. 
+Build a culture of design rigor, peer review, and continuous methodology improvement. 
+
+
+
+
+Presales & Customer Engagement 
+
+Serve as the senior technical lead in presales engagements — qualifying opportunities, presenting Silvaco's memory portfolio, and shaping winning technical proposals. 
+Translate customer SoC requirements (frequency, voltage, density, power, port configuration, special modes) into compiler specifications and PPA commitments. 
+Partner with sales, field application engineers, and product management on RFQs, technical evaluations, and competitive benchmarking. 
+Lead deep-dive technical workshops with customer architects and design teams; respond to detailed technical questionnaires and audit-style reviews. 
+
+
+
+
+PPA Analysis & Benchmarking 
+
+Own PPA analysis across the memory portfolio — performance, power (active and leakage), area, and yield — at both the instance and SoC-aggregate level. 
+Build and maintain competitive benchmarks against foundry and third-party memory IP; identify gaps and prioritize closure. 
+Drive what-if and sensitivity analysis to guide architecture trade-offs (e.g., bitcell choice, mux ratio, banking, assist circuits, voltage operating range). 
+Translate PPA insights into clear, customer-ready collateral: datasheets, application notes, and technical white papers. 
+
+
+
+
+Customer Communication & Support 
+
+Act as the primary technical point of contact for strategic customers throughout the engagement lifecycle — from evaluation through integration, tapeout, and silicon validation. 
+Lead technical reviews, integration debug, and silicon correlation discussions with customer design and product engineering teams. 
+Drive root-cause analysis and resolution of customer-reported issues, coordinating across design, characterization, CAD, and product teams. 
+Represent Silvaco in foundry partner meetings and at industry conferences as needed. 
+
+Qualifications
+
+
+
+
+Required Qualifications 
+
+BS, MS, or PhD in Electrical Engineering, Computer Engineering, or a related field. 
+10+ years of embedded memory design experience, with demonstrated production tapeouts of SRAM and at least two of: ROM, 1-port register file, 2-port register file, dual-port RAM. 
+Deep expertise in bitcell-level circuit design, memory peripherals, self-timed paths, sense amplifier design, and assist circuit techniques. 
+Hands-on experience across multiple process nodes, including FinFET and/or advanced sub-7nm nodes. 
+Strong command of SPICE simulation, statistical and Monte Carlo analysis, Vmin/yield modeling, and reliability (BTI/HCI/EM) analysis. 
+Working knowledge of memory compiler architecture and automation: how compilers assemble instances, generate views (.lib, LEF, GDS, Verilog, CDL), and scale across configurations. 
+Hands-on experience with DFT/scan tools (Tessent, FastScan), power integrity signoff (RedHawk or equivalent), and layout verification flows (DRC, LVS, parasitic extraction) 
+Familiarity with RTL/Verilog modelling of memory compilers, testchip definition and silicon correlation, and SDK/automation development for compiler view generation. 
+Proven team leadership experience — direct management or strong technical lead role over a team of 6+ memory designers. 
+Demonstrated success in customer-facing technical roles: presales, PPA negotiation, integration support. 
+Excellent written and verbal communication skills, with the ability to present complex technical material to engineers, architects, and executives. 
+Proficiency with scripting (Python, TCL, Perl) and Linux-based design environments. 
+Experience working with AI tools, such as Claude, OpenAI, Gemini 
+Prior experience presenting at industry venues (ISSCC, VLSI Symposium, custom integrated circuits conferences) or contributing to memory IP standards. 
+Direct experience interfacing with foundry partners on PDK, bitcell qualification, and reference flow alignment. 
+
+
+
+
+Preferred Qualifications 
+
+Experience leading memory compiler programs at an IP vendor, foundry, or large semiconductor company. 
+Background in low-power memory design for mobile, IoT, automotive, or AI/ML accelerator applications. 
+Experience with multi-port memory architectures beyond 2-port (e.g., 3-port, 4-port register files) and specialty memories (TCAM, multi-bank arrays). 
+
+Additional Information
+
+All Silvaco salary ranges are determined by role, level, and geographic location. Within the range, individual pay is determined by work location, role-related knowledge and skills, depth of experience, relevant education or training, and additional role-related considerations. 
+
+Depending on the position offered, equity, bonuses, commission, or other forms of compensation may also be provided as part of a total compensation package, in addition to a full range of medical, financial, and other benefits. 
+
+Show more 
+Seniority level
+Director
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Silvaco Inc by 2x
+
+See who you know
+
+Get notified about new Director jobs in Montbonnot-Saint-Martin, Auvergne-Rhône-Alpes, France.
+
+Sign in to create job alert
+Jobs
+Chief Executive Officer jobs
+Director, Embedded Memory
+Similar jobs
+Director, Embedded Memory
+Director, Embedded Memory
+Silvaco Inc
+Montbonnot-Saint-Martin, Auvergne-Rhône-Alpes, France
+3 weeks ago
+Central R&D Senior Director Microcontrollers, Digital ICs and RF products Group (MDRF)
+Central R&D Senior Director Microcontrollers, Digital ICs and RF products Group (MDRF)
+STMicroelectronics France
+Grenoble, Auvergne-Rhône-Alpes, France
+5 days ago
+Ingénieur Caractérisation électrique des mémoires émergentes – CDD 36 MOIS – GRENOBLE H/F H/F
+Ingénieur Caractérisation électrique des mémoires émergentes – CDD 36 MOIS – GRENOBLE H/F H/F
+CEA
+Grenoble, Auvergne-Rhône-Alpes, France
+3 days ago
+Ingénieur chercheur en caractérisation électrique des composants mémoire H/F H/F
+Ingénieur chercheur en caractérisation électrique des composants mémoire H/F H/F
+CEA
+Grenoble, Auvergne-Rhône-Alpes, France
+1 week ago
+Senior Principal Computer Architect AI/ML (f/m/d)
+Senior Principal Computer Architect AI/ML (f/m/d)
+NXP Semiconductors
+Grenoble, Auvergne-Rhône-Alpes, France
+4 days ago
+ALD Engineer
+ALD Engineer
+Ferroelectric Memory Company
+Grenoble, Auvergne-Rhône-Alpes, France
+4 weeks ago
+Show more jobs like this 
+People also viewed
+[CDI] Responsable développement R&D (H/F)
+[CDI] Responsable développement R&D (H/F)
+
+BioLogic
+
+Seyssinet-Pariset, Auvergne-Rhône-Alpes, France
+1 month ago
+SoC Verification Team Lead - HPC Compute Chiplets
+SoC Verification Team Lead - HPC Compute Chiplets
+
+ordde.io | Ecosystem for Recruiters
+
+Grenoble, Auvergne-Rhône-Alpes, France
+€70,000 - €110,000
+2 days ago
+Senior Embedded Firmware Designer – SST Controllers (Application)
+Senior Embedded Firmware Designer – SST Controllers (Application)
+
+Schneider Electric
+
+Grenoble, Auvergne-Rhône-Alpes, France
+1 month ago
+Ingénieur architecture et conception de circuits intégrés mixtes pour le traitement du signal H/F
+Ingénieur architecture et conception de circuits intégrés mixtes pour le traitement du signal H/F
+
+CEA
+
+Grenoble, Auvergne-Rhône-Alpes, France
+1 day ago
+Chercheur en circuits intégrés à base de mémoires émergentes H/F
+Chercheur en circuits intégrés à base de mémoires émergentes H/F
+
+CEA
+
+Grenoble, Auvergne-Rhône-Alpes, France
+1 week ago
+Senior Expert, Embedded Software Security & Security Architectures
+Senior Expert, Embedded Software Security & Security Architectures
+
+STMicroelectronics France
+
+Grenoble, Auvergne-Rhône-Alpes, France
+3 days ago
+Developer of System-on-Chip SoC simulation model F/H
+Developer of System-on-Chip SoC simulation model F/H
+
+STMicroelectronics France
+
+Grenoble, Auvergne-Rhône-Alpes, France
+1 week ago
+Ingénieur Chercheur device CMOS avancé H/F
+Ingénieur Chercheur device CMOS avancé H/F
+
+CEA
+
+Grenoble, Auvergne-Rhône-Alpes, France
+1 day ago
+CDI – Ingénieur prototypes en micro-électronique - F/H
+CDI – Ingénieur prototypes en micro-électronique - F/H
+
+STMicroelectronics France
+
+Crolles, Auvergne-Rhône-Alpes, France
+1 week ago
+Characterization FDSOI Device Engineer
+Characterization FDSOI Device Engineer
+
+Quobly
+
+Grenoble, Auvergne-Rhône-Alpes, France
+1 month ago
+Similar Searches
+Chief Executive Officer jobs
+476 open jobs
+Industrial Director jobs
+688 open jobs
+Financial Director jobs
+2,350 open jobs
+Director of Information Technology jobs
+540 open jobs
+Project Director jobs
+3,647 open jobs
+Head of Property jobs
+433 open jobs
+Director of Innovation jobs
+168 open jobs
+Marketing Director jobs
+1,167 open jobs
+Human Resources Director jobs
+1,046 open jobs
+Director Restaurant jobs
+610 open jobs
+Director Territorial jobs
+395 open jobs
+Production Director jobs
+2,264 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Silvaco Inc
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
