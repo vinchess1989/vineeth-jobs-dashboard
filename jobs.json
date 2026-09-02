@@ -328505,13 +328505,13 @@
     "location": "East Hartford, CT",
     "url": "https://www.linkedin.com/jobs/view/fpga-development-engineer-mid-level-at-cs-group-4458294567",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA development engineer, which is outside Vineeth's domain of expertise in Power Integrity and Advanced Packaging.",
     "id": "54ea23be",
     "source": "linkedin_ww_fpga_engineer_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-26",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
