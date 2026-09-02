@@ -23787,5 +23787,21 @@
     "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Design EngineerALTEN FinlandFinlandGo to job site",
+    "company": "ALTEN Finland",
+    "location": "Finland",
+    "url": "https://www.jobly.fi/en/job/senior-design-engineer-2749187",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for electronics design, embedded systems, and industrial product development - outside Vineeth's semiconductor/VLSI/EDA Power Integrity and advanced packaging focus area.",
+    "id": "89551069",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2023-09-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-30) passed by more than 2 days and unreviewed"
   }
 ]
