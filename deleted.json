@@ -24011,5 +24011,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior ASIC Design Engineer \u2013 Clocks IP",
+    "company": "NVIDIA",
+    "location": "Austin, TX",
+    "url": "https://www.linkedin.com/jobs/view/senior-asic-design-engineer-%E2%80%93-clocks-ip-at-nvidia-4448270180",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "3160e42f",
+    "source": "linkedin_ww_vlsi_design",
+    "posted_date": "2026-08-26",
+    "deadline": "2026-06-18",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-18) passed by more than 2 days and unreviewed"
   }
 ]
