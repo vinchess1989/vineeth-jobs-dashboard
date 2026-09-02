@@ -23899,5 +23899,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Engineer",
+    "company": "Forge",
+    "location": "Arlington, VA, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=f9903e0115869fcc",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Engineer position at Forge, which does not match Vineeth's background in Power Integrity and Advanced Packaging. The role also requires US citizenship.",
+    "id": "48071deb",
+    "source": "indeed_india_system_power_integrity",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
