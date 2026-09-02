@@ -325205,13 +325205,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=1f0f28ffd8298cc6",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a Power BI Developer, which is a software development role unrelated to semiconductor/VLSI/EDA. It does not mention power integrity, EDA tools, or any relevant technical domains.",
     "id": "685d3b64",
     "source": "indeed_ww_system_power_integrity_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior Power BI Developer (Open to ND/MN Only) salaries in Fargo, ND",
