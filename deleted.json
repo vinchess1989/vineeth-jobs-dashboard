@@ -23499,5 +23499,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Analog IC Design Engineer",
+    "company": "SRI",
+    "location": "Princeton, NJ",
+    "url": "https://www.linkedin.com/jobs/view/analog-ic-design-engineer-at-sri-4441851311",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an Analog IC Design Engineer in the US requiring US citizenship, which is outside the PI/packaging/EDA domains and disqualifies it under the hard rejection criteria.",
+    "id": "f1ee411f",
+    "source": "linkedin_ww_ir_drop_p2",
+    "posted_date": "2026-08-12",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
