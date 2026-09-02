@@ -23755,5 +23755,21 @@
     "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-31) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "IN_Manager_SAP CPI_SAP_Advisory_Pune",
+    "company": "PwC India",
+    "location": "Pune Division, Maharashtra, India",
+    "url": "https://in.linkedin.com/jobs/view/in-manager-sap-cpi-sap-advisory-pune-at-pwc-india-4461088550",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for SAP CPI/SAP Advisory consulting, not semiconductor VLSI/EDA Power Integrity and packaging engineering.",
+    "id": "041f3e3f",
+    "source": "linkedin_india_si_pi_p2",
+    "posted_date": "2026-08-31",
+    "deadline": "2026-08-10",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-10) passed by more than 2 days and unreviewed"
   }
 ]
