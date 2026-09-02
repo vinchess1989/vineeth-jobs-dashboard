@@ -23643,5 +23643,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-21) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Manufacturing Director",
+    "company": "KONE",
+    "location": "Hyvink\u00e4\u00e4, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/manufacturing-director-at-kone-4459671201",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Manufacturing Director' does not match any of Vineeth's key skills or experience areas in semiconductor/VLSI/EDA. This is a general manufacturing leadership role at an elevator company.",
+    "id": "3d926971",
+    "source": "linkedin_fi_semiconductor_director",
+    "posted_date": "2026-08-27",
+    "deadline": "2023-09-10",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-10) passed by more than 2 days and unreviewed"
   }
 ]
