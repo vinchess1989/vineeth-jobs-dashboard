@@ -290195,14 +290195,14 @@
     "location": "Munich, Bavaria, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-semiconductor-packaging-ingenieur-m-w-d-gesucht-at-united-headhunters-m%C3%BCnchen-4459249481",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "yes",
+    "reason": "The role is a Senior Semiconductor Packaging Engineer position at a semiconductor company in Munich, Germany.",
     "id": "42576ecb",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "vor 1 tag",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
-    "description_file": null
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": "job_descriptions/united_headhunters_m_senior_semiconductor_packaging_42576ecb.txt"
   },
   {
     "title": "Senior Process Engineer - Die-attach- en assemblagetechnologie\u00ebn",
