@@ -328937,16 +328937,16 @@
   {
     "title": "ASIC & FPGA Design Engineer Sr (E5) | Orlando, FL salaries in Orlando, FL",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Orlando, FL USA",
     "url": "https://www.indeed.com/career/fpga-engineer/salaries/Orlando--FL?campaignid=serp-more&fromjk=d2188f370df1b668&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'FPGA Engineer' which is a verification role, outside Vineeth's domain of Power Integrity and EDA tools.",
     "id": "cd08a720",
     "source": "indeed_ww_fpga_engineer_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
