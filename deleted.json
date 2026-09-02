@@ -23803,5 +23803,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Lead Electrical Engineer, Industry",
+    "company": "Elomatic",
+    "location": "Turku, Southwest Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/lead-electrical-engineer-industry-at-elomatic-4457243801",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus).",
+    "id": "97efd8e8",
+    "source": "linkedin_fi_power_integrity",
+    "posted_date": "2026-08-26",
+    "deadline": "2023-09-20",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-20) passed by more than 2 days and unreviewed"
   }
 ]
