@@ -323360,13 +323360,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/soc-design-director-at-mulya-technologies-4461764312",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 4 column 3 (char 123)",
+    "matches_requirements": "no",
+    "reason": "The job title is 'SoC Design Director', but the key skills and responsibilities focus on digital design, RTL implementation, and processor IP integration. There's no mention of Power Integrity, RedHawk/Voltus, or advanced packaging/thermal analysis.",
     "id": "67b43d54",
     "source": "linkedin_india_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
