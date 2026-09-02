@@ -305375,13 +305375,13 @@
     "location": "Vaasa, Ostrobothnia, Finland",
     "url": "https://fi.linkedin.com/jobs/view/construction-metro-director-vaasa-at-microsoft-4459184909",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for a Construction Metro Director at Microsoft's Vaasa data center campus, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and advanced packaging.",
     "id": "740a155f",
     "source": "linkedin_fi_semiconductor_director_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "6 p\u00e4iv\u00e4\u00e4 sitten",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
