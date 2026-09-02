@@ -312530,13 +312530,13 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/senior-systems-studies-engineer-at-mitsubishi-electric-power-products-inc-4431753725",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on power system studies and analysis, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "2b8be9e0",
     "source": "linkedin_ww_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-27",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
