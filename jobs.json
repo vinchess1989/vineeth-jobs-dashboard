@@ -308570,13 +308570,13 @@
     "location": "London Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/staff-principal-pic-design-engineer-at-oriole-4460809400",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title is for a photonic design engineer, which does not match Vineeth's background in power integrity and advanced packaging.",
     "id": "56cf0d13",
     "source": "linkedin_uk_semiconductor_principal_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-30",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
