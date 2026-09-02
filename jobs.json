@@ -313910,13 +313910,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=3bc3a1c56f574333",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. If not even one of these appears, discard immediately regardless of any other criteria below.",
     "id": "cd833988",
     "source": "indeed_india_physical_design_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
