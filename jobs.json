@@ -309815,13 +309815,13 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/platform-architect-engineering-technologist-at-dell-technologies-4460948565",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role (Platform Architect - Engineering Technologist) at a technology company, which does not match our semiconductor/VLSI/EDA technical requirements.",
     "id": "d109701c",
     "source": "linkedin_uk_semiconductor_architect",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-02",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
