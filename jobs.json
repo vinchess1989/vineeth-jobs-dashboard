@@ -307370,13 +307370,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/senior-vertical-integration-engineer-at-smart-photonics-4458959453",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting does not contain any of the required keywords for Power Integrity, VLSI/EDA roles.",
     "id": "ac4e9e42",
     "source": "linkedin_eu_semiconductor_technical_leader",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-08-29",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
