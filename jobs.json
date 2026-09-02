@@ -310366,17 +310366,18 @@
   },
   {
     "title": "Automation Software Engineering Co-op",
-    "company": "Extract from page",
+    "company": "Automation Software Engineering Co-op",
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=c8816bd22bff9669",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. If not even one of these appears, discard immediately regardless of any other criteria below.",
     "id": "1c43a9b6",
     "source": "indeed_india_semiconductor_architect_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-08-12",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Automation Software Engineering Co-op salaries in Greene, NY",
@@ -310384,13 +310385,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/automation-engineer/salaries/13778--NY?campaignid=serp-more&fromjk=c8816bd22bff9669&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: 400 Client Error: Bad Request for url: http://127.0.0.1:1234/v1/chat/completions",
+    "matches_requirements": "no",
+    "reason": "The job is for an automation software engineering co-op position, which does not match Vineeth's senior technical leadership background in semiconductor power integrity and advanced packaging.",
     "id": "e71308d0",
     "source": "indeed_india_semiconductor_architect_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Silicon Architect",
