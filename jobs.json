@@ -329810,13 +329810,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/mechanical-assembler/salaries/95134--CA?campaignid=serp-more&fromjk=123b96472468490d&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary condition, not a sufficient one.",
     "id": "bd5857d1",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
