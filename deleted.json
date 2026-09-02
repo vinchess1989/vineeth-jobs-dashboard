@@ -23771,5 +23771,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-10) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Response Manager",
+    "company": "UK Home Office",
+    "location": "Peterborough, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/senior-response-manager-at-uk-home-office-4446624099",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting lacks any semiconductor/PI keywords and is a cyber security role unrelated to the candidate's domain.",
+    "id": "dc9561e4",
+    "source": "linkedin_uk_si_pi",
+    "posted_date": "2026-08-05",
+    "deadline": "2026-08-13",
+    "eval_model": "groq/openai/gpt-oss-120b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-13) passed by more than 2 days and unreviewed"
   }
 ]
