@@ -321350,13 +321350,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/staff-engineer-design-at-infineon-technologies-4462180970",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior level Design Engineer role, not a Technical Leadership position like Vineeth's current role.",
     "id": "15f7d19b",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-02",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
