@@ -23707,5 +23707,21 @@
     "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-07-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Embedded Software Engineer I - Flight Mgmt Systems",
+    "company": "Honeywell Aerospace",
+    "location": "Phoenix, AZ, United States (Hybrid)",
+    "url": "https://www.indeed.com/rc/clk?jk=700e462feb05aab4",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for embedded software engineering on avionics systems, not semiconductor/VLSI/EDA.",
+    "id": "bf4c71ad",
+    "source": "indeed_india_semiconductor_architect_p3",
+    "posted_date": "N/A",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
