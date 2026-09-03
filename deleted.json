@@ -24407,5 +24407,53 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-01-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Data Enablement Engineer",
+    "company": "If Insurance",
+    "location": "Turku, Southwest Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/data-enablement-engineer-at-if-insurance-4458189418",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords for a semiconductor/VLSI/EDA role.",
+    "id": "76f8a9dd",
+    "source": "linkedin_fi_pi_p2",
+    "posted_date": "2026-08-27",
+    "deadline": "2023-09-13",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Data Enablement Engineer",
+    "company": "If Insurance",
+    "location": "Espoo, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/data-enablement-engineer-at-if-insurance-4458183521",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Data Enablement Engineer at If Insurance, which does not match Vineeth's background in Power Integrity and EDA tools.",
+    "id": "10506788",
+    "source": "linkedin_fi_pi_p2",
+    "posted_date": "2026-08-27",
+    "deadline": "2023-09-13",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Infrahankkeiden valvoja | p\u00e4\u00e4kaupunkiseutu",
+    "company": "WSP in Finland",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/infrahankkeiden-valvoja-p%C3%A4%C3%A4kaupunkiseutu-at-wsp-in-finland-4460339012",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an infrastructure project management role, not semiconductor VLSI/EDA Power Integrity.",
+    "id": "a010d604",
+    "source": "linkedin_fi_pi_p2",
+    "posted_date": "2026-08-28",
+    "deadline": "2023-09-28",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-28) passed by more than 2 days and unreviewed"
   }
 ]
