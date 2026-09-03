@@ -24535,5 +24535,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Simulation Specialist (Power Systems & Grid Compliance)",
+    "company": "Danfoss",
+    "location": "Helsinki, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/simulation-specialist-power-systems-grid-compliance-at-danfoss-4456756551",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Simulation Specialist in power systems and grid compliance, which does not match Vineeth's background in semiconductor Power Integrity (PI) and advanced packaging.",
+    "id": "f3dd4f55",
+    "source": "linkedin_eu_power_integrity",
+    "posted_date": "2026-08-20",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
