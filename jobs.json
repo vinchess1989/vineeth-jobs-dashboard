@@ -337809,13 +337809,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=fc3bf54cb67311d2",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a manual packaging line worker, not an engineering or technical role.",
     "id": "7b8f42f6",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "10428 - Manual Packer 2nd shift salaries in Coppell, TX",
