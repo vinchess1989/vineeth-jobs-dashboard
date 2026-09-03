@@ -336129,13 +336129,13 @@
     "location": "Milpitas, CA",
     "url": "https://www.linkedin.com/jobs/view/staff-vlsi-design-engineer-vlsi-design-engineering-at-sandisk-4462729756",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a VLSI Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "2ea7869e",
     "source": "linkedin_ww_vlsi_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-03",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-120b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
