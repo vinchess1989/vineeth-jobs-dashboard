@@ -343989,13 +343989,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/salaries/Director%20of%20Imaging/Fremont,%20CA?campaignid=serp-more&fromjk=35cdcd717a760ff7&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title is 'Director of Imaging' which does not match Vineeth's technical leadership roles in Power Integrity, Packaging, EDA tools, etc.",
     "id": "d09bc4ef",
     "source": "indeed_india_semiconductor_technical_leader_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
