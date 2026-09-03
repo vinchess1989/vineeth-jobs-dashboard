@@ -344492,5 +344492,50 @@
     "deadline": "Open until filled",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "BSID Data Engineer",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22776&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Data Engineer role at TSMC's IT department, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "id": "30cfd1d3",
+    "source": "tsmc_careers",
+    "posted_date": "2026-08-27",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "LinkedIn",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FBSID-Data-Engineer%2F22776",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "No keywords found in title or description.",
+    "id": "052c4ac1",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Engineer/ Sr Engineer Process Engineering (Diffusion)Penang,MYPosted 13 hours ago",
+    "company": "GlobalFoundries",
+    "location": "Penang, Malaysia",
+    "url": "https://globalfoundries.eightfold.ai/careers/job/563980768997346",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for Process Engineering, not Power Integrity, VLSI/EDA domains.",
+    "id": "a8d5bd22",
+    "source": "globalfoundries_careers",
+    "posted_date": "2026-03-09",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
