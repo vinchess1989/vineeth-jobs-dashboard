@@ -24279,5 +24279,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "R&D Engineer- Solar Inverters",
+    "company": "Spinoff Technopark Limited",
+    "location": "Chandigarh, Chandigarh, India",
+    "url": "https://in.linkedin.com/jobs/view/r-d-engineer-solar-inverters-at-spinoff-technopark-limited-4460419244",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for R&D of solar inverters and UPS systems, which is power electronics hardware design. This is outside Vineeth's semiconductor VLSI EDA domain of expertise in Power Integrity, advanced packaging, SoC PDN sign-off, thermal analysis, and CAD tool methodology.",
+    "id": "378726f7",
+    "source": "linkedin_india_ir_drop",
+    "posted_date": "2026-09-03",
+    "deadline": "2026-02-16",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-02-16) passed by more than 2 days and unreviewed"
   }
 ]
