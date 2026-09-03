@@ -331611,16 +331611,16 @@
   {
     "title": "Field Service Engineer II (Semiconductor Equipment) Chandler, AZ REMOTE",
     "company": "Extract from page",
-    "location": "Extract from page",
+    "location": "Chandler, AZ REMOTE",
     "url": "https://www.indeed.com/rc/clk?jk=21700cd6b949f2e5",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Field Service Engineer II role focused on semiconductor equipment maintenance and repair, which does not match Vineeth's technical leadership background in Power Integrity, Advanced Packaging, SoC PDN sign-off, or EDA tool development.",
     "id": "2494b211",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
