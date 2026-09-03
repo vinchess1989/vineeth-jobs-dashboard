@@ -345099,13 +345099,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/data-ai-architect-at-softwareone-4459705219",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary condition to proceed with further evaluation.",
     "id": "84f3d663",
     "source": "linkedin_fi_pi_p2",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "5 p\u00e4iv\u00e4\u00e4 sitten",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
