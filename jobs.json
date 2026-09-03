@@ -344289,13 +344289,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=16fb3143232b8533",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. Discard immediately regardless of any other criteria below.",
     "id": "9632321b",
     "source": "indeed_india_semiconductor_principal_engineer",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Principal Design Engineer salaries",
