@@ -24343,5 +24343,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Vastuumyyj\u00e4, Raisio",
+    "company": "J. Rinta-Jouppi Oy",
+    "location": "Raisio, Southwest Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/vastuumyyj%C3%A4-raisio-at-j-rinta-jouppi-oy-4460295351",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). It is a non-technical sales role at an auto dealership.",
+    "id": "1c043986",
+    "source": "linkedin_fi_ir_drop_p2",
+    "posted_date": "2026-09-02",
+    "deadline": "2023-09-15",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-15) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "luottoasiantuntija, J\u00e4rvi-H\u00e4meen Osuuspankki",
+    "company": "OP Pohjola",
+    "location": "Asikkala, P\u00e4ij\u00e4t-H\u00e4me, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/luottoasiantuntija-j%C3%A4rvi-h%C3%A4meen-osuuspankki-at-op-pohjola-4456323151",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "28d9baee",
+    "source": "linkedin_fi_ir_drop_p2",
+    "posted_date": "2 viikkoa sitten",
+    "deadline": "2023-09-06",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-06) passed by more than 2 days and unreviewed"
   }
 ]
