@@ -345639,13 +345639,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=02feb4b294b8ff54",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the following (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. If not even one of these appears, discard immediately regardless of any other criteria below.",
     "id": "49e33027",
     "source": "indeed_india_pi_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-08-13",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Program Manager salaries in Albuquerque, NM",
