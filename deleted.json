@@ -24375,5 +24375,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "E&I Technician",
+    "company": "CPI Innovation Services Trust Limited",
+    "location": "Redcar, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/e-i-technician-at-cpi-innovation-services-trust-limited-4445257661",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an E&I technician role at a CPI facility, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "id": "56a0b284",
+    "source": "linkedin_uk_si_pi",
+    "posted_date": "vor 1 monat",
+    "deadline": "2026-08-09",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-09) passed by more than 2 days and unreviewed"
   }
 ]
