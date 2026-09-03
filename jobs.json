@@ -345669,13 +345669,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=9dfcc6e9621361e8",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Program Integrity Investigator', which is unrelated to semiconductor, VLSI, EDA, power integrity, or electrical analysis. Discarding.",
     "id": "e7110c6b",
     "source": "indeed_india_pi_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Program Integrity Investigator salaries in Phoenix, AZ",
