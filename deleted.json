@@ -24231,5 +24231,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Laundry Production Worker",
+    "company": "The University of Iowa",
+    "location": "Iowa City, Iowa, United States",
+    "url": "https://www.indeed.com/rc/clk?jk=24cf34decf12b355",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a laundry production worker at a university, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "id": "ea176b96",
+    "source": "indeed_ww_advanced_packaging_p2",
+    "posted_date": "2026-08-26",
+    "deadline": "2026-08-26",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-26) passed by more than 2 days and unreviewed"
   }
 ]
