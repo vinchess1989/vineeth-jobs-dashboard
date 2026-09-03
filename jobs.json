@@ -342699,13 +342699,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/process-integration-engineer-at-lumicity-4456055399",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 1 column 24 (char 23)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "2648752e",
     "source": "linkedin_ww_semiconductor_technical_leader_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-27",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
