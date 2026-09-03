@@ -346044,13 +346044,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/lead-data-center-cooling-engineer-at-ramboll-4462851384",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the key Power Integrity, EDA tool keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus). Discard immediately.",
     "id": "f7acd49c",
     "source": "linkedin_fi_thermal",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-03",
+    "deadline": "2026-09-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
