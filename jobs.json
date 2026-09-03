@@ -347499,13 +347499,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/soc-physical-design-engineer-at-nokia-4460728272",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Physical Design Engineer, which is a higher level role than Vineeth's current position as Technical Leader. It also does not mention specific expertise in Power Integrity and Advanced Packaging.",
     "id": "44a074b9",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-03",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
