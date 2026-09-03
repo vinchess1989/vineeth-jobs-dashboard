@@ -345819,13 +345819,13 @@
     "location": "Tamil Nadu, India",
     "url": "https://in.linkedin.com/jobs/view/otc-globe-role-assistant-manager-at-bnp-paribas-4461755282",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an Assistant Manager role in OTC Derivatives Regulatory Reporting, with no mention of Power Integrity, EDA tools, semiconductor design, packaging, or any relevant technical domains. It's a banking/finance operations position.",
     "id": "9c354c7d",
     "source": "linkedin_india_emir",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
