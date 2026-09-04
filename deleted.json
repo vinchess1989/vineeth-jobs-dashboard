@@ -24832,5 +24832,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Aircraft Captain and Project Manager",
+    "company": "Google",
+    "location": "Arkansas, United States",
+    "url": "https://www.linkedin.com/jobs/view/aircraft-captain-and-project-manager-at-google-4439853647",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an Aircraft Captain and Project Manager role at Google, which does not match Vineeth's background in semiconductor/VLSI/EDA. It involves aviation project management rather than power integrity, advanced packaging or EDA tools.",
+    "id": "2588417e",
+    "source": "linkedin_ww_pi_p2",
+    "posted_date": "2026-08-28",
+    "deadline": "2026-08-28",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-28) passed by more than 2 days and unreviewed"
   }
 ]
