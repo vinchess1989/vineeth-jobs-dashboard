@@ -369256,13 +369256,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/mechanical-engineer/salaries/60601--IL?campaignid=serp-more&fromjk=d60f5e25bc9cca89&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Mechanical Engineer, which is unrelated to Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "6746e43a",
     "source": "indeed_ww_thermal_p3",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
