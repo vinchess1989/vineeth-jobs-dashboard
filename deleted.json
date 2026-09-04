@@ -25152,5 +25152,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-11-16) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior EDA Engineer, SOC Design Methodology",
+    "company": "NVIDIA AI",
+    "location": "Santa Clara, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-eda-engineer-soc-design-methodology-at-nvidia-ai-4443240042",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It is a SOC Design Methodology role at NVIDIA AI.",
+    "id": "f1229dfa",
+    "source": "linkedin_ww_eda_design_automation",
+    "posted_date": "2026-08-05",
+    "deadline": "2026-08-21",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-21) passed by more than 2 days and unreviewed"
   }
 ]
