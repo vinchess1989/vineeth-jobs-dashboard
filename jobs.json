@@ -373254,5 +373254,50 @@
     "deadline": "N/A",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "Quality Engineer \u2013 Outgoing Quality Assurance (OQA) (m/f/d)",
+    "company": "European Semiconductor Manufacturing Company (ESMC)",
+    "location": "Germany-Dresden",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22768&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Quality Engineer role, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "id": "e5aa223c",
+    "source": "tsmc_careers",
+    "posted_date": "2026-08-26",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "LinkedIn",
+    "company": "TSMC",
+    "location": "Extract from page",
+    "url": "https://careers.tsmc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.tsmc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.tsmc.com%2Fen_US%2Fcareers%2FJobDetail%2FQuality-Engineer-Outgoing-Quality-Assurance-OQA-m-f-d%2F22768",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary condition to proceed with further evaluation.",
+    "id": "d170f660",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Senior Data Engineer, Clinical Data Management Services, R&DOrion OyjTurkuGo to job site",
+    "company": "Orion Oyj",
+    "location": "Turku, Espoo, Finland or Cambridge, UK",
+    "url": "https://www.jobly.fi/en/job/senior-data-engineer-clinical-data-management-services-rd-2751527",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a data engineer role, not Power Integrity/EDA/VLSI.",
+    "id": "a2a696c4",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2026-09-20",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
