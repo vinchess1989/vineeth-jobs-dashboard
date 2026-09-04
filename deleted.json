@@ -24816,5 +24816,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Product Quality & Reliability Engineer",
+    "company": "AMD",
+    "location": "Austin, Texas, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/91560?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus.",
+    "id": "ce70d924",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "2023-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
