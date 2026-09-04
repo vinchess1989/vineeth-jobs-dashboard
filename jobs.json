@@ -363054,5 +363054,50 @@
     "deadline": "Open until filled",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "Solutions and Technical Sales LeaderNokiaEspooGo to job site",
+    "company": "Nokia",
+    "location": "Espoo",
+    "url": "https://www.jobly.fi/en/job/solutions-and-technical-sales-leader-2750879",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a sales leadership position, not technical Power Integrity/EDA engineering.",
+    "id": "fa7af87a",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Cyber Security LeadKalmarTampereGo to job site",
+    "company": "Kalmar",
+    "location": "Tampere, Finland",
+    "url": "https://www.jobly.fi/en/job/cyber-security-lead-2750815",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Cyber Security Lead role, which does not match Vineeth's technical background in Power Integrity and EDA tooling.",
+    "id": "b1f2706a",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2026-09-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Senior Fullstack Engineer (Creative & Media Library)Smartly.ioHelsinkiGo to job site",
+    "company": "Smartly.io",
+    "location": "Helsinki, Finland",
+    "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6138145004?gh_src=bdal78lq4us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a fullstack software engineer position, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
+    "id": "2c9fa064",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
