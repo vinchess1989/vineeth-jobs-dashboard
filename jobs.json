@@ -360039,5 +360039,20 @@
     "deadline": "Open until filled",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "Senior Software Engineer (DevOps & Platform Engineering)DNA OyjHelsinkiGo to job site",
+    "company": "DNA Oyj",
+    "location": "Helsinki, Finland",
+    "url": "https://www.jobly.fi/en/job/senior-software-engineer-devops-platform-engineering-2750369",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily DevOps/Platform Engineering, not Power Integrity/VLSI/EDA.",
+    "id": "fe8116a5",
+    "source": "work_in_finland",
+    "posted_date": "N/A",
+    "deadline": "2026-09-23",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
