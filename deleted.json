@@ -25184,5 +25184,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "FPGA Design & Verification Engineer-US Only",
+    "company": "A2e Technologies",
+    "location": "Texas, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=108d8e3338ec0b29",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Verification role requiring US citizenship, not a Power Integrity or advanced packaging position.",
+    "id": "9f1ba7cf",
+    "source": "indeed_ww_fpga_engineer_p2",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "eval_model": "groq/openai/gpt-oss-20b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
