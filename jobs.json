@@ -369031,13 +369031,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=60320d1f2608e4a3",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Thermal Engineer I - Early Career, which does not match Vineeth's senior technical leadership role and domain expertise in Power Integrity and Advanced Packaging.",
     "id": "d8fccab4",
     "source": "indeed_ww_thermal",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
