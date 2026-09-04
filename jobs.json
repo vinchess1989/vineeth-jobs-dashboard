@@ -370486,13 +370486,13 @@
     "location": "Plano, TX",
     "url": "https://www.linkedin.com/jobs/view/packaging-engineering-manager-at-ctc-4461173608",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Packaging Engineering Manager role at CTC, which does not match Vineeth's technical focus on semiconductor Power Integrity and EDA tools.",
     "id": "41e31287",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-04",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
