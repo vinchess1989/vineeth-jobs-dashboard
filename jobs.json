@@ -375055,14 +375055,14 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/senior-physical-design-engineer-at-bitsilica-4461398160",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior physical design position in India that includes Power Integrity responsibilities and matches the candidate's experience and domain.",
     "id": "00a928c1",
     "source": "linkedin_india_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-04",
     "deadline": "N/A",
     "eval_model": "groq/openai/gpt-oss-120b",
-    "description_file": null
+    "description_file": "job_descriptions/bitsilica_senior_physical_design_enginee_00a928c1.txt"
   },
   {
     "title": "Principal Physical Design Floorplan Engineer",
