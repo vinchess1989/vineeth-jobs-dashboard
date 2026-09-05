@@ -374590,13 +374590,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/lead-hardware-design-engineer-%E2%80%93-digital-numerical-protection-relays-at-phase-power-protection-pvt-ltd-4461118558",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 5 column 3 (char 167)",
+    "matches_requirements": "no",
+    "reason": "Job lacks required keywords (PDN, Redhawk, Power Integrity, etc.) and focuses on protection relay hardware, not PI/EDA.",
     "id": "a4f09b8c",
     "source": "linkedin_india_power_integrity",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-05",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -374620,13 +374620,13 @@
     "location": "Bucharest, Bucharest, Romania",
     "url": "https://ro.linkedin.com/jobs/view/principal-power-system-engineer-at-aecom-4462303918",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role focuses on grid and transmission power system engineering, not semiconductor power integrity or related EDA domains.",
     "id": "11509cbc",
     "source": "linkedin_eu_power_integrity",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-05",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
@@ -374656,7 +374656,7 @@
     "source": "linkedin_eu_power_integrity",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
@@ -374761,7 +374761,7 @@
     "source": "linkedin_eu_advanced_packaging",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/qwen/qwen3.6-27b",
     "description_file": null
   }
 ]
