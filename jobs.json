@@ -376360,13 +376360,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/financial-crime-strategy-advisory-oversight-lead-at-aldermore-bank-4461185847",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is a non-technical financial crime compliance role at a bank, not a semiconductor/VLSI/EDA engineering position.",
     "id": "52126086",
     "source": "linkedin_uk_emir",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-05",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -376426,7 +376426,7 @@
     "source": "indeed_ww_emir_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/qwen/qwen3.6-27b",
     "description_file": null
   },
   {
