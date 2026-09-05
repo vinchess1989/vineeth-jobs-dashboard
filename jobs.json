@@ -374890,13 +374890,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=e813576cbf5930f1",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Job description lacks any required keywords (PDN, Redhawk, Power Integrity, etc.) and provides no relevant technical details.",
     "id": "312e43da",
     "source": "indeed_ww_advanced_packaging_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Principal Packaging Engineer salaries in Florence, KY",
@@ -374979,13 +374980,13 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/physical-design-manager-at-carman-solutions-group-4459808241",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "US location without explicit visa sponsorship or relocation, which is a hard rejection per criteria.",
     "id": "a2509a1b",
     "source": "linkedin_ww_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-30",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   }
 ]
