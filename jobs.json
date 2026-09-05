@@ -378025,13 +378025,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/electrical-designer/salaries/20166--VA?campaignid=serp-more&fromjk=d0cb321ae6cd3e19&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Electrical Design Engineer' which is not a match for Vineeth's key skills in Power Integrity, Advanced Packaging, and EDA tools.",
     "id": "d7c3c151",
     "source": "indeed_india_si_pi",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
