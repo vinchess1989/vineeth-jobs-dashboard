@@ -375086,12 +375086,12 @@
     "url": "https://in.linkedin.com/jobs/view/senior-staff-physical-design-engineer-at-encharge-ai-4463316755",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Unterminated string starting at: line 5 column 15 (char 232)",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "8da3e575",
     "source": "linkedin_india_physical_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-120b",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   },
   {
@@ -375100,14 +375100,14 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/senior-staff-physical-design-floorplan-at-mulya-technologies-4463312807",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "yes",
+    "reason": "The senior staff physical design floorplan role involves PDN/EMIR analysis and floorplanning, matching the candidate's PI and physical design expertise with required experience and location.",
     "id": "617b1034",
     "source": "linkedin_india_physical_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-06",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
-    "description_file": null
+    "eval_model": "groq/openai/gpt-oss-120b",
+    "description_file": "job_descriptions/mulya_technologies_senior_staff_physical_design_f_617b1034.txt"
   },
   {
     "title": "Junior Mechanical Engineer",
