@@ -374320,8 +374320,8 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=7742d0b26150948e",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job lacks required keywords (PDN, RedHawk, Power Integrity, etc.) related to candidate's domain.",
     "id": "4beadc86",
     "source": "indeed_india_eda_design_automation_p3",
     "posted_date": "N/A",
@@ -374386,7 +374386,7 @@
     "source": "indeed_india_eda_design_automation_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
@@ -374395,13 +374395,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/staff-engineer/salaries/San-Jose--CA?campaignid=serp-more&fromjk=58fd039eadda6a6e&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks technical details and does not meet domain criteria.",
     "id": "4c6b5d8c",
     "source": "indeed_india_eda_design_automation_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "groq/openai/gpt-oss-20b",
     "description_file": null
   },
   {
@@ -374485,13 +374485,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/hardware-engineer/salaries/87113--NM?campaignid=serp-more&fromjk=34d43db6ab790747&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting does not contain required keywords and is not a technical engineering role.",
     "id": "13f8a079",
     "source": "indeed_india_eda_design_automation_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-20b",
     "description_file": null
   },
   {
