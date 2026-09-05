@@ -374755,13 +374755,13 @@
     "location": "Staufen im Breisgau, Baden-W\u00fcrttemberg, Germany",
     "url": "https://de.linkedin.com/jobs/view/senior-mechanical-design-engineer-%E2%80%93-power-electronics-m-f-d-at-tesla-4447571021",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The posting lacks any of the required power integrity or EDA keywords and is a mechanical design role, not a PI/EM/IR or related technical position.",
     "id": "9dd05dd1",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-20b",
+    "posted_date": "vor 1 monat",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null
   }
 ]
