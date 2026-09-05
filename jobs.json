@@ -374496,17 +374496,17 @@
   },
   {
     "title": "Hardware Design Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Axel Hardware Design",
+    "location": "San Rafael, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=eb1625937bbd1876",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job posting lacks any required keywords such as PDN, Redhawk, Power Integrity, etc.",
     "id": "e34cdef6",
     "source": "indeed_india_eda_design_automation_p3",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "groq/openai/gpt-oss-120b",
     "description_file": null
   },
   {
