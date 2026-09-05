@@ -375771,17 +375771,17 @@
   },
   {
     "title": "Research Area Specialist Senior",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Main navigation",
+    "location": "Ann Arbor, MI",
     "url": "https://www.indeed.com/rc/clk?jk=cf5ca86629e9c97d",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "No relevant technical domain, Power Integrity, EDA tools, or semiconductor company mentioned",
     "id": "f67a7a2e",
     "source": "indeed_ww_pi_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deadline": "2026-09-09",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
