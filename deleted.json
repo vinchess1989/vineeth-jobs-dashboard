@@ -25687,5 +25687,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-04) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Equipment Engineer-CMP",
+    "company": "TSMC Washington",
+    "location": "Camas, WA, USA",
+    "url": "https://www.indeed.com/rc/clk?jk=c3409953ae600288",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for an Equipment Engineer-CMP role, which does not match Vineeth's background in Power Integrity and Advanced Packaging. It involves CMP (Chemical Mechanical Planarization) Semiconductor technology rather than PI/SI/EMIR.",
+    "id": "db83d538",
+    "source": "indeed_india_semiconductor",
+    "posted_date": "N/A",
+    "deadline": "2026-08-27",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-27) passed by more than 2 days and unreviewed"
   }
 ]
