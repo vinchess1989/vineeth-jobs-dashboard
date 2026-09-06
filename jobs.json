@@ -389545,13 +389545,14 @@
     "location": "Glasgow City, Scotland, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/general-counsel-at-puffy-4456516007",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a General Counsel role at a consumer brand and family office, which does not match Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "aa44ad0b",
     "source": "linkedin_uk_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-30",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Pawnbroking Appraiser",
@@ -389574,13 +389575,14 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/platform-support-architect-at-ddn-4449019316",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is for a Platform Support Architect focused on AI Data Platforms, not Power Integrity/EDA/VLSI. It involves hands-on Linux, containers, Kubernetes, GPU, storage/networking for AI workloads.",
     "id": "7d3a9206",
     "source": "linkedin_uk_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-07",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Examiner - International Advanced Level - German (2016 specification)",
@@ -389588,13 +389590,14 @@
     "location": "London, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/examiner-international-advanced-level-german-2016-specification-at-pearson-4307963777",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The role is an examiner for marking student exams, which does not match Vineeth's technical engineering background in semiconductor/VLSI/EDA.",
     "id": "f337857c",
     "source": "linkedin_uk_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-23",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Technical Specialist",
@@ -389602,13 +389605,14 @@
     "location": "Turku Metropolitan Area",
     "url": "https://fi.linkedin.com/jobs/view/technical-specialist-at-plm-group-4456718751",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for technical support of SOLIDWORKS and related software, which does not match Vineeth's Power Integrity and Advanced Packaging expertise.",
     "id": "5e2c5ed2",
     "source": "linkedin_fi_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-23",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "New Business Developer Defence & National Security",
@@ -389616,12 +389620,13 @@
     "location": "Espoo, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/new-business-developer-defence-national-security-at-dnv-4435113142",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a business development role in national defense and cybersecurity, not semiconductor/VLSI/EDA engineering.",
     "id": "c3795ea7",
     "source": "linkedin_fi_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-05",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
