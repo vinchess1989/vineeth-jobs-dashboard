@@ -386556,17 +386556,17 @@
   },
   {
     "title": "System Reliability Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Taiwan Semiconductor Manufacturing Company Limited",
+    "location": "Taiwan",
     "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=19536&source=External%2BCareer%2BSite",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is a system reliability manager for AI/HPC/server platforms, which does not match Vineeth's power integrity and advanced packaging expertise.",
     "id": "11964ba3",
     "source": "tsmc_careers",
-    "posted_date": "N/A",
+    "posted_date": "2026-03-26",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
