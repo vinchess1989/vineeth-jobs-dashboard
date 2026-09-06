@@ -386620,13 +386620,13 @@
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "url": "https://fr.linkedin.com/jobs/view/ate-test-engineer-at-semiconductor-engineering-4456817903",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for ATE Test Engineering, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "1032e074",
     "source": "linkedin_eu_semiconductor",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -386680,13 +386680,13 @@
     "location": "Manchester, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/process-engineer-yield-at-nexperia-4459527700",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical role at a semiconductor company.",
     "id": "564fc776",
     "source": "linkedin_uk_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "vor 4 tagen",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -386747,21 +386747,6 @@
     "posted_date": "vor 1 woche",
     "deadline": "Open until filled",
     "eval_model": "local/hermes-3-llama-3.1-8b",
-    "description_file": null
-  },
-  {
-    "title": "Electronics Designer",
-    "company": "Wapice Ltd",
-    "location": "Tampere, Pirkanmaa, Finland",
-    "url": "https://fi.linkedin.com/jobs/view/electronics-designer-at-wapice-ltd-4462688328",
-    "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
-    "id": "73993bb7",
-    "source": "linkedin_fi_semiconductor",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
     "description_file": null
   },
   {
