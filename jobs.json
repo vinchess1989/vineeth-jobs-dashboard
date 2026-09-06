@@ -388960,13 +388960,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/senior-digital-designer-at-lumicity-4460058015",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Digital Designer, which does not match Vineeth's background in Power Integrity and VLSI/EDA.",
     "id": "9a848671",
     "source": "linkedin_ww_asic_design_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-01",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
