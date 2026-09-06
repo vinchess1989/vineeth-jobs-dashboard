@@ -25719,5 +25719,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Staff Mechanical Engineer",
+    "company": "Carrier",
+    "location": "Charlotte, NC",
+    "url": "https://www.linkedin.com/jobs/view/staff-mechanical-engineer-at-carrier-4453707505",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a mechanical engineer role focused on HVAC product design and development, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and advanced packaging.",
+    "id": "c5372326",
+    "source": "linkedin_ww_thermal_p3",
+    "posted_date": "2026-08-16",
+    "deadline": "2026-08-13",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-13) passed by more than 2 days and unreviewed"
   }
 ]
