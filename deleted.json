@@ -25799,5 +25799,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-27) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Electronics Designer",
+    "company": "Wapice Ltd",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/senior-electronics-designer-at-wapice-ltd-4462691322",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords for Power Integrity, EDA tools like RedHawk/RHSC/Voltus, PDN/EMIR electrical analysis, or semiconductor VLSI/EDA engineering.",
+    "id": "ac51c583",
+    "source": "linkedin_fi_vlsi_design",
+    "posted_date": "2026-09-04",
+    "deadline": "2023-09-27",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-27) passed by more than 2 days and unreviewed"
   }
 ]
