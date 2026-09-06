@@ -384580,13 +384580,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=83b9ce45fcf5d716",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical healthcare role, not semiconductor/VLSI/EDA.",
     "id": "d0e0d444",
     "source": "indeed_ww_pdn_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Registered Nurse Home Health",
