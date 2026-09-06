@@ -385510,13 +385510,14 @@
     "location": "Greater Vadodara Area",
     "url": "https://in.linkedin.com/jobs/view/support-associate-at-pib-group-4427164638",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a support role at an insurance company, not a technical semiconductor/VLSI/EDA engineering position.",
     "id": "15925fc0",
     "source": "linkedin_india_pdn_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-07-08",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Checker",
