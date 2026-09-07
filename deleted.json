@@ -25975,5 +25975,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-08-07) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Solution Scientist, Photonics and Quantum Chip Integration and Packaging",
+    "company": "VTT",
+    "location": "Espoo, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/senior-solution-scientist-photonics-and-quantum-chip-integration-and-packaging-at-vtt-4462212434",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a research scientist position focused on photonics and quantum chip integration, which does not match Vineeth's background in power integrity and advanced packaging.",
+    "id": "0da47264",
+    "source": "linkedin_eu_advanced_packaging",
+    "posted_date": "N/A",
+    "deadline": "2023-06-23",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Research Scientist, Quantum chip integration and packaging",
+    "company": "VTT",
+    "location": "Espoo, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/research-scientist-quantum-chip-integration-and-packaging-at-vtt-4462210470",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily research-focused on quantum technologies, photonics and device integration rather than semiconductor power integrity, EDA tools like RedHawk/Voltus, or packaging engineering. It's a good fit for a physicist/quantum engineer but not Vineeth's technical background.",
+    "id": "13e80a66",
+    "source": "linkedin_eu_advanced_packaging",
+    "posted_date": "2026-09-07",
+    "deadline": "2024-10-17",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2024-10-17) passed by more than 2 days and unreviewed"
   }
 ]
