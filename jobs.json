@@ -399400,13 +399400,14 @@
     "location": "Nottingham, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-recruitment-consultant-at-metric-dcx-4463359875",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is a non-technical recruitment consultant role, not an engineering/technical position in semiconductor/VLSI/EDA.",
     "id": "6fb079da",
     "source": "linkedin_uk_pdn_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-04",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior Data Protection Manager",
@@ -399414,13 +399415,14 @@
     "location": "Nottingham, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-data-protection-manager-at-domestic-general-4449132002",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is a data privacy compliance position, not related to semiconductor/VLSI/EDA engineering.",
     "id": "360a4ede",
     "source": "linkedin_uk_pdn_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-02",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Retail Sales Assistants (Perm & FTC)",
