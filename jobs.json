@@ -390325,14 +390325,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=ae74fcec79c3cbaf",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "Job lacks any required Power Integrity or related keywords and is a FAB Process Engineer role, not a PI/EDA position.",
     "id": "a6444379",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "eval_model": "groq/qwen/qwen3.6-27b"
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "New College Grad - FAB Process Engineer salaries in Manassas, VA",
