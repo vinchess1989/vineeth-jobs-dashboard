@@ -390895,13 +390895,13 @@
     "location": "Finland",
     "url": "https://fi.linkedin.com/jobs/view/account-director-partner-at-hydda-4461119408",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is a general sales/marketing director position at a marketing agency, not a technical semiconductor/VLSI/EDA engineering job.",
     "id": "e9db6443",
     "source": "linkedin_fi_pdn",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-05",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
