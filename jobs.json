@@ -390326,12 +390326,13 @@
     "url": "https://www.indeed.com/rc/clk?jk=ae74fcec79c3cbaf",
     "visited": "yes",
     "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
     "id": "a6444379",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/qwen/qwen3.6-27b"
   },
   {
     "title": "New College Grad - FAB Process Engineer salaries in Manassas, VA",
@@ -390339,12 +390340,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/process-engineer/salaries/Manassas--VA?campaignid=serp-more&fromjk=ae74fcec79c3cbaf&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The page is a salary summary, not a valid job posting for a technical role.",
     "id": "fb8d438c",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-20b"
   }
 ]
