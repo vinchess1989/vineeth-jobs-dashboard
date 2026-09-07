@@ -392590,13 +392590,13 @@
     "location": "Periyapatna, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/member-of-technical-staff-sys-at-aptiv-4464302581",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Member of Technical Staff - Sys at Aptiv, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN sign-off, and EDA tools like ANSYS RedHawk.",
     "id": "e6f97426",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-07",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
