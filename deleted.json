@@ -25879,5 +25879,53 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Business Development Manager, IBM Software",
+    "company": "TD SYNNEX",
+    "location": "Finland",
+    "url": "https://fi.linkedin.com/jobs/view/business-development-manager-ibm-software-at-td-synnex-4464314018",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Business Development Manager role focused on IBM Software, not Power Integrity/EDA/VLSI engineering. It does not match Vineeth's technical background.",
+    "id": "e541f6eb",
+    "source": "linkedin_fi_advanced_packaging",
+    "posted_date": "2026-09-07",
+    "deadline": "2026-08-07",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-07) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Business Development Manager, IBM Infrastructure",
+    "company": "TD SYNNEX",
+    "location": "Finland",
+    "url": "https://fi.linkedin.com/jobs/view/business-development-manager-ibm-infrastructure-at-td-synnex-4464300906",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a business development manager for IBM infrastructure, not a technical engineering position in semiconductor/VLSI/EDA. It does not match Vineeth's background.",
+    "id": "95cad11e",
+    "source": "linkedin_fi_advanced_packaging",
+    "posted_date": "N/A",
+    "deadline": "2026-08-07",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-07) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Postdoctoral Research Fellow (Computational Biophysics) / Tutkijatohtori (Laskennallinen biofysiikka)",
+    "company": "Tampere University",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/postdoctoral-research-fellow-computational-biophysics-tutkijatohtori-laskennallinen-biofysiikka-at-tampere-university-4451126216",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Postdoctoral Research Fellow position in computational biophysics, unrelated to semiconductor/VLSI/EDA.",
+    "id": "4ed1522a",
+    "source": "linkedin_fi_pdn",
+    "posted_date": "2026-09-01",
+    "deadline": "2025-09-15",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-09-15) passed by more than 2 days and unreviewed"
   }
 ]
