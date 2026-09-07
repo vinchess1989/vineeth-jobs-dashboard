@@ -401104,13 +401104,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=761e836f0740309c",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a Laboratory Chemist, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "fc42e076",
     "source": "indeed_ww_semiconductor_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Laboratory Chemist III salaries in Hayward, CA",
