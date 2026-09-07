@@ -26007,5 +26007,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2024-10-17) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Engineer / Senior Engineer, Physical Design (ASIC Place & Route) (San Jose, CA) (7429)",
+    "company": "Extract from page",
+    "location": "Extract from page",
+    "url": "https://www.indeed.com/rc/clk?jk=5aed8ebd36668a18",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Physical Design' but the keywords 'PDN', 'EMIR', 'Redhawk', 'Power Integrity', 'Electrical Analysis', 'RHSC', 'Voltus' are all missing from the job description text. This is a hard rejection based on the pre-filter.",
+    "id": "83edad9a",
+    "source": "indeed_india_physical_design",
+    "posted_date": "2026-09-04",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
