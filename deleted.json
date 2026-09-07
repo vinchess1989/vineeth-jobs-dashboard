@@ -25863,5 +25863,21 @@
     "eval_model": "groq/openai/gpt-oss-20b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Application Specific Integrated Circuit (ASIC) Engineer",
+    "company": "Air Force Research Laboratory",
+    "location": "Dayton, OH",
+    "url": "https://www.linkedin.com/jobs/view/application-specific-integrated-circuit-asic-engineer-at-air-force-research-laboratory-4462339256",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting requires US citizenship and a Top Secret clearance, which disqualifies Vineeth.",
+    "id": "7962b45e",
+    "source": "linkedin_ww_vlsi_design",
+    "posted_date": "2026-09-05",
+    "deadline": "2026-09-20",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
