@@ -26055,5 +26055,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-16) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Principal CPU Architect - High-Performance and Physical Design",
+    "company": "NVIDIA AI",
+    "location": "Santa Clara, OR",
+    "url": "https://www.linkedin.com/jobs/view/principal-cpu-architect-high-performance-and-physical-design-at-nvidia-ai-4454184257",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on CPU architecture, high-frequency design and power methodology for custom cores, which does not match Vineeth's background in Power Integrity (PI) and Advanced Packaging.",
+    "id": "1fe51385",
+    "source": "linkedin_ww_semiconductor_architect",
+    "posted_date": "2026-08-24",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
