@@ -414829,13 +414829,13 @@
     "location": "El Pont de Vilomara, Catalonia, Spain",
     "url": "https://es.linkedin.com/jobs/view/project-manager-at-airplan-4462512265",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Project Manager role at an engineering company, but does not match Vineeth's specific background in Power Integrity and VLSI/EDA tools.",
     "id": "9c8be4f4",
     "source": "linkedin_eu_pi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
