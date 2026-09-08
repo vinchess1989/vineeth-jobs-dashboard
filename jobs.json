@@ -413524,13 +413524,13 @@
     "location": "Nottingham, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/logistics-shipping-coordinator-at-onyx-insight-4455872813",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is a Logistics/Shipping Coordinator at a technology company, which does not match Vineeth's background in semiconductor VLSI EDA Power Integrity and Advanced Packaging.",
     "id": "60329e29",
     "source": "linkedin_uk_semiconductor_p2",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-25",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
