@@ -411469,13 +411469,13 @@
     "location": "Cambridge, England, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/fpga-digital-electronics-engineer-at-cambridge-consultants-4463256074",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily FPGA/Digital Electronics design, which is outside Vineeth's domain of Power Integrity and EDA tools.",
     "id": "6d0598ae",
     "source": "linkedin_uk_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-08",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
