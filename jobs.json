@@ -412264,13 +412264,13 @@
     "location": "Jyv\u00e4skyl\u00e4, Central Finland, Finland",
     "url": "https://fi.linkedin.com/jobs/view/product-manager-at-memberio-4462511070",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is a product management position for software, not a technical engineering/leadership role in semiconductor/VLSI/EDA.",
     "id": "f48b6153",
     "source": "linkedin_fi_ir_drop",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "3 p\u00e4iv\u00e4\u00e4 sitten",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
