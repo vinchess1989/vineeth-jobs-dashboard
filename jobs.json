@@ -417064,13 +417064,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/design-analog-and-high-speed-circuits-969-at-weekday-ai-yc-w21-4464621884",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily software development (SW Engineer, firmware engineer) which is outside Vineeth's domain.",
     "id": "d7e747b3",
     "source": "linkedin_india_ir_drop",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-08",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
