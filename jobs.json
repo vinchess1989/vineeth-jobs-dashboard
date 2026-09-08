@@ -402979,13 +402979,13 @@
     "location": "Hillsboro, OR",
     "url": "https://www.linkedin.com/jobs/view/package-architecture-analyst-at-intel-4462309573",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is primarily focused on package architecture design and development, not Power Integrity/EMIR sign-off using EDA tools like RedHawk/Voltus. It's a semiconductor manufacturing/package engineering position, not a technical leadership role in PI/SI/EDA.",
     "id": "5f47ef6d",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-05",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
