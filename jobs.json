@@ -406699,13 +406699,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/career/ai-developer/salaries/Palo-Alto--CA?campaignid=serp-more&fromjk=9e9a7d3b2d8b0185&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an AI Hardware Engineer, not a Power Integrity/SI/EDA role.",
     "id": "c0cd60a9",
     "source": "indeed_india_ir_drop",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
