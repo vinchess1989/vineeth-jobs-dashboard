@@ -26686,5 +26686,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Electrical Engineer, FPGA Development",
+    "company": "True Anomaly",
+    "location": "Long Beach, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-fpga-development-at-true-anomaly-4391528704",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job lacks required power integrity/EDA keywords and is a non-PI FPGA role with US citizenship restrictions.",
+    "id": "441cfde1",
+    "source": "linkedin_ww_fpga_engineer",
+    "posted_date": "1 viikko sitten",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Full-Stack Developers (2)",
+    "company": "Lyyti",
+    "location": "Turku, Southwest Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/full-stack-developers-2-at-lyyti-4452199747",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for Full-Stack Developers, not Power Integrity/EDA engineers.",
+    "id": "88350abe",
+    "source": "linkedin_fi_fpga_engineer",
+    "posted_date": "2026-08-18",
+    "deadline": "2026-08-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-30) passed by more than 2 days and unreviewed"
   }
 ]
