@@ -26830,5 +26830,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "[2026 TSMC US Fall Campus Recruitment] Intelligent Manufacturing Engineer (IMC/MFG)",
+    "company": "TSMC",
+    "location": "Taiwan",
+    "url": "https://careers.tsmc.com/en_US/careers/JobDetail?jobId=22693&source=External%2BCareer%2BSite",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a semiconductor manufacturing engineer at TSMC, which does not match Vineeth's background in power integrity and advanced packaging.",
+    "id": "24380f1f",
+    "source": "tsmc_careers",
+    "posted_date": "N/A",
+    "deadline": "2026-08-31",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-31) passed by more than 2 days and unreviewed"
   }
 ]
