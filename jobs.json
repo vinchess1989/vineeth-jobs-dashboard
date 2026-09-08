@@ -403429,13 +403429,13 @@
     "location": "Frankfurt am Main, Hesse, Germany",
     "url": "https://de.linkedin.com/jobs/view/fund-listing-specialist-at-fe-fundinfo-4460312370",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a non-technical Fund Listing Specialist role at a financial data provider, not an engineering/technical semiconductor/VLSI/EDA position.",
     "id": "b2af91de",
     "source": "linkedin_eu_emir_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
