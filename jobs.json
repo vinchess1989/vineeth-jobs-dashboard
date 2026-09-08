@@ -406474,13 +406474,13 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=30233b2242d1f4db",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'AI System' which is unrelated to Power Integrity, PDN sign-off, or VLSI/EDA tools.",
     "id": "bd5407f5",
     "source": "indeed_ww_ir_drop_p2",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
