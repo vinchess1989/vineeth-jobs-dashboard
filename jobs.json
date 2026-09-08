@@ -410494,13 +410494,13 @@
     "location": "Helsinki, Uusimaa, Finland",
     "url": "https://fi.linkedin.com/jobs/view/liiketoimintap%C3%A4%C3%A4llikk%C3%B6-s%C3%A4%C3%A4st%C3%B6pankkikeskus-at-s%C3%A4%C3%A4st%C3%B6pankkiryhm%C3%A4-4462285184",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. Discarding immediately.",
     "id": "e5ff0f6f",
     "source": "linkedin_fi_emir",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2 tuntia sitten",
+    "deadline": "2026-09-22",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
