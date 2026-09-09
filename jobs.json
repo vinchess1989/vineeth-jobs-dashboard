@@ -423541,17 +423541,18 @@
   },
   {
     "title": "Power Systems Engineer 3 - Grid Analysis",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "ERCOT",
+    "location": "Taylor, TX",
     "url": "https://www.indeed.com/rc/clk?jk=e58839091b9830c7",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a power systems engineer focused on grid analysis, which is unrelated to semiconductor/VLSI/EDA.",
     "id": "7b37a03a",
     "source": "indeed_ww_system_power_integrity",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Power Systems Engineer 3 - Grid Analysis salaries in Taylor, TX",
