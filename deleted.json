@@ -27149,5 +27149,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-09-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Signal & Power Integrity Engineer, Annapurna Labs - AI Silicon Packaging salaries in Austin, TX",
+    "company": "Annapurna Labs - AI Silicon Packaging salaries in Austin, TX",
+    "location": "Austin, TX",
+    "url": "https://www.indeed.com/career/integrity-engineer/salaries/Austin--TX?campaignid=serp-more&fromjk=6705a5147d164d13&from=serp-more",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Signal & Power Integrity Engineer' which is a keyword match, but the full description text does not contain any of the required keywords like PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It appears to be more general signal/power integrity work rather than specifically focused on the named EDA tools or sign-off flows.",
+    "id": "98b41119",
+    "source": "indeed_ww_power_integrity",
+    "posted_date": "2026-08-19",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
