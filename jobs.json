@@ -428003,13 +428003,13 @@
     "location": "Bangalore Urban, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/hardware-engineer-at-ulook-4454225873",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for hardware design of RF systems, not Power Integrity/EDA.",
     "id": "61252ed9",
     "source": "linkedin_india_ir_drop_p3",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-08-20",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -428138,13 +428138,14 @@
     "location": "Maassluis, South Holland, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/motion-control-robotics-engineer-at-ridder-4463087122",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for Motion Control & Robotics Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "d639d060",
     "source": "linkedin_eu_ir_drop",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-10",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Energy and Power System Expert",
