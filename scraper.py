@@ -29,9 +29,10 @@ DELETED_FILE = os.path.join(BASE_DIR, "deleted.json")
 HISTORY_FILE = os.path.join(BASE_DIR, "jobs_history.json")
 LOGS_DIR = os.path.join(BASE_DIR, "logs")
 SCRAPER_LOCK_FILE = os.path.join(BASE_DIR, "scraper.lock")
-# Shared across the manju_jobs/vineeth_jobs repos (not per-repo like SCRAPER_LOCK_FILE) so the
-# two dashboards' always-on scraper daemons take turns doing their scrape+review+push cycle
-# instead of both hitting the single-threaded (parallel=1) local LLM server at once.
+# Shared across the manju_jobs/vineeth_jobs/priya_jobs repos (not per-repo like
+# SCRAPER_LOCK_FILE) so these always-on scraper daemons take turns doing their
+# scrape+review+push cycle instead of all hitting the single-threaded (parallel=1)
+# local LLM server at once.
 PIPELINE_LOCK_FILE = os.path.join(os.environ.get("USERPROFILE", ""), ".claude", "scraper_pipeline.lock")
 # manju_jobs claims this lock before requesting PIPELINE_LOCK_FILE (see manju_jobs/scraper.py).
 # vineeth_jobs checks it below and backs off whenever manju_jobs is waiting for or holding
@@ -39,6 +40,11 @@ PIPELINE_LOCK_FILE = os.path.join(os.environ.get("USERPROFILE", ""), ".claude", 
 # so if manju_jobs' process dies while holding it the OS releases it automatically - no
 # stale-flag cleanup needed here.
 MANJU_PRIORITY_LOCK_FILE = os.path.join(os.environ.get("USERPROFILE", ""), ".claude", "scraper_manju_priority.lock")
+# vineeth_jobs claims this lock before requesting PIPELINE_LOCK_FILE, mirroring
+# MANJU_PRIORITY_LOCK_FILE above, so priya_jobs (the newest, lowest-priority consumer)
+# can defer to it - gives vineeth_jobs priority over priya_jobs on the shared local
+# LLM server. See usage in _post_llm_with_retry below and in priya_jobs/scraper.py.
+VINEETH_PRIORITY_LOCK_FILE = os.path.join(os.environ.get("USERPROFILE", ""), ".claude", "scraper_vineeth_priority.lock")
 
 
 class TeeLogger:
@@ -1365,26 +1371,29 @@ def _wait_for_external_llm_idle(endpoint, poll_interval=2):
 
 def _post_llm_with_retry(url, headers, payload, timeout=120, retries=2, backoff_seconds=10):
     """POST to the local LLM, retrying on transient network errors (read timeout,
-    connection reset). Both manju_jobs and vineeth_jobs scrapers share one
+    connection reset). manju_jobs, vineeth_jobs, and priya_jobs scrapers share one
     single-threaded (parallel=1) LM Studio server, so a request can queue behind
-    the other scraper's in-flight generation and blow past a one-shot timeout or
+    another scraper's in-flight generation and blow past a one-shot timeout or
     get its connection dropped - a short retry lets that queue drain instead of
     permanently marking the job 'error' for this run.
 
     Priority order for this shared LM Studio server: any external consumer
-    (e.g. OpenClaw) > manju_jobs > vineeth_jobs. We back off for external
-    consumers using LM Studio's own reported busy/queued state (see
+    (e.g. OpenClaw) > manju_jobs > vineeth_jobs > priya_jobs. We back off for
+    external consumers using LM Studio's own reported busy/queued state (see
     _wait_for_external_llm_idle), since we don't control their code and can't
     have them claim a lock file. We then also back off for manju_jobs specifically
     (it has priority over us): before competing for the pipeline lock, this backs
-    off whenever manju_jobs is waiting for or holding MANJU_PRIORITY_LOCK_FILE.
+    off whenever manju_jobs is waiting for or holding MANJU_PRIORITY_LOCK_FILE. We
+    then claim VINEETH_PRIORITY_LOCK_FILE for our own turn, so priya_jobs (the
+    newest, lowest-priority consumer) can defer to us the same way we defer to
+    manju_jobs above.
 
-    Only the HTTP call itself is serialized against the sibling dashboard's scraper
+    Only the HTTP call itself is serialized against the sibling dashboards' scrapers
     (via PIPELINE_LOCK_FILE) - the LLM is only in use for the brief span of this
-    call, so scraping/page-extraction elsewhere runs unlocked and both dashboards
-    can browse concurrently. Both PIPELINE_LOCK_FILE and MANJU_PRIORITY_LOCK_FILE
-    are real OS-level file locks, so a crashed process releases them automatically
-    - no stale-flag cleanup needed."""
+    call, so scraping/page-extraction elsewhere runs unlocked and all dashboards
+    can browse concurrently. PIPELINE_LOCK_FILE, MANJU_PRIORITY_LOCK_FILE, and
+    VINEETH_PRIORITY_LOCK_FILE are all real OS-level file locks, so a crashed
+    process releases them automatically - no stale-flag cleanup needed."""
     last_err = None
     for attempt in range(retries + 1):
         try:
@@ -1400,7 +1409,7 @@ def _post_llm_with_retry(url, headers, payload, timeout=120, retries=2, backoff_
             if stop_event.is_set():
                 raise requests.exceptions.RequestException("Stopping - stop_event set while waiting for priority lock")
 
-            with FileLock(PIPELINE_LOCK_FILE):
+            with FileLock(VINEETH_PRIORITY_LOCK_FILE), FileLock(PIPELINE_LOCK_FILE):
                 response = requests.post(url, headers=headers, json=payload, timeout=timeout)
                 response.raise_for_status()
             return response
