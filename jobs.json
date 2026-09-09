@@ -427148,13 +427148,13 @@
     "location": "Greater Boston",
     "url": "https://www.linkedin.com/jobs/view/senior-precision-analog-power-electronics-engineer-at-draper-4453704953",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a Senior Precision Analog/Power Electronics Engineer at Draper, which does not match Vineeth's background in Power Integrity (PI), Advanced Packaging, SoC PDN Sign-off, Thermal Analysis, CAD Methodology.",
     "id": "b4938e04",
     "source": "linkedin_ww_ir_drop",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-06",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
