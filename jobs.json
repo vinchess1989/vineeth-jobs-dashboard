@@ -428528,13 +428528,14 @@
     "location": "Cupertino, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-mechanical-thermal-engineer-network-product-development-npd-at-amazon-web-services-aws-4462723024",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a Mechanical/Thermal Engineer at Amazon's AWS infrastructure division, which is outside Vineeth's semiconductor/VLSI/EDA domain.",
     "id": "85abfacb",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-09-04",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Sr. Mechanical Product Engineer, Data Center Eng, MPS",
@@ -428542,13 +428543,13 @@
     "location": "Herndon, VA",
     "url": "https://www.linkedin.com/jobs/view/sr-mechanical-product-engineer-data-center-eng-mps-at-amazon-web-services-aws-4457311769",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a mechanical engineering role at Amazon's AWS data center infrastructure team, not a semiconductor/VLSI/EDA technical position. It does not match Vineeth's background in Power Integrity, EDA tools like RedHawk/RHSC/Voltus, or SoC physical design.",
     "id": "de1b55a7",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2026-08-27",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -428602,12 +428603,13 @@
     "location": "Herndon, VA",
     "url": "https://www.linkedin.com/jobs/view/sr-mechanical-engineer-cfd-data-center-engineering-at-amazon-web-services-aws-4455936353",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is primarily about data center mechanical design, CFD modeling, and facility engineering - this is outside Vineeth's semiconductor/VLSI/EDA technical background.",
     "id": "b8afc5f6",
     "source": "linkedin_ww_thermal",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-10",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
