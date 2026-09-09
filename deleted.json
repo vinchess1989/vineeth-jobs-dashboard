@@ -27101,5 +27101,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-07) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Staff VLSI design engineer",
+    "company": "Sandisk",
+    "location": "Milpitas, CA",
+    "url": "https://www.indeed.com/rc/clk?jk=6513a751abf1a14b",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'VLSI design engineer' but none of the key PI/EMIR/Electrical Analysis keywords are present in the description to confirm it is a Power Integrity role.",
+    "id": "4c487d97",
+    "source": "indeed_india_vlsi_design",
+    "posted_date": "N/A",
+    "deadline": "2026-08-12",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-12) passed by more than 2 days and unreviewed"
   }
 ]
