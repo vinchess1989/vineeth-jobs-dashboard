@@ -419863,5 +419863,35 @@
     "deadline": "Open until filled",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "Technical Lead / EPM",
+    "company": "Broadcom",
+    "location": "San Jose, CA, USA",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California--San-Jose---1730-Fox-Drive/Technical-Lead---EPM_R027025",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily hardware development (R&D, project management) with RF antennas and tuners for wireless mobile devices. This is outside Vineeth's core domain of Power Integrity/Advanced Packaging/CAD Methodology.",
+    "id": "f9db89ed",
+    "source": "broadcom_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "General construction installation technician",
+    "company": "Broadcom Inc.",
+    "location": "Fort Collins, CO, USA",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/General-construction-installation-technician_R026893-1",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a general construction installation technician, not semiconductor equipment cleanroom tech with power integrity and EDA tool experience.",
+    "id": "65bd46cf",
+    "source": "broadcom_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
