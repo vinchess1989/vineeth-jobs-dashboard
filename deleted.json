@@ -27165,5 +27165,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Junior Structural AnalystW\u00e4rtsil\u00e4VaasaGo to job site",
+    "company": "W\u00e4rtsil\u00e4",
+    "location": "Vaasa, Finland or Trieste, Italy",
+    "url": "https://www.jobly.fi/en/job/junior-structural-analyst-2754016",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Junior Structural Analyst position at W\u00e4rtsil\u00e4, which performs FEM structural analysis on mechanical components like cylinder heads and valve mechanisms. This is not in Vineeth's domains of Power Integrity (PI), Advanced Packaging, or SoC PDN sign-off.",
+    "id": "6ccfe182",
+    "source": "work_in_finland",
+    "posted_date": "2023-09-09",
+    "deadline": "2023-09-23",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-23) passed by more than 2 days and unreviewed"
   }
 ]
