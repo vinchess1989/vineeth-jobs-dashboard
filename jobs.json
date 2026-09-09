@@ -422645,13 +422645,13 @@
     "location": "Italy",
     "url": "https://it.linkedin.com/jobs/view/strategic-project-lead-pcb-ai-platforms-remote-at-hired-4464978304",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords for Power Integrity, EDA tools like RedHawk/Voltus, or semiconductor engineering domains. It is a generic hardware development leadership role at an IT services firm.",
     "id": "ec84622d",
     "source": "linkedin_eu_advanced_packaging",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "posted_date": "2026-09-09",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
