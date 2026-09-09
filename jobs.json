@@ -426020,13 +426020,14 @@
     "location": "Greater Guildford Area, United Kingdom",
     "url": "https://uk.linkedin.com/jobs/view/senior-fpga-engineer-at-airbus-4465041525",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for an FPGA Engineer at Airbus, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "5ed161d1",
     "source": "linkedin_uk_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-09",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "4 Doctoral Researchers in robotics",
