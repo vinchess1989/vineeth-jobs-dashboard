@@ -426410,13 +426410,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/package-design-engineer-at-tylsemi-4465059649",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for IC package design, which matches Vineeth's background in power integrity and advanced packaging. However, it does not mention using ANSYS RedHawk or other key skills he has.",
     "id": "a6c38ae2",
     "source": "linkedin_india_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-09",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
