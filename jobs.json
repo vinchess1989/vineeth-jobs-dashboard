@@ -444924,13 +444924,13 @@
     "location": "Helsinki Metropolitan Area",
     "url": "https://fi.linkedin.com/jobs/view/supply-chain-services-manager-northern-europe-at-arrow-ecs-finland-oy-4465802817",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for a Supply Chain Services Manager, which is a non-technical business operations position unrelated to semiconductor/VLSI/EDA. It does not involve power integrity, EDA tools, chip design or engineering.",
     "id": "5c0edf84",
     "source": "linkedin_fi_semiconductor",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -444990,7 +444990,7 @@
     "source": "linkedin_eu_vlsi_design",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-20b",
+    "eval_model": "groq/qwen/qwen3.6-27b",
     "description_file": null
   },
   {
@@ -444999,13 +444999,13 @@
     "location": "Burlingame, CA",
     "url": "https://www.linkedin.com/jobs/view/senior-hardware-engineer-micro-architect-at-quadric-4465847304",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Hardware Engineer' but none of the key technical domains (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis) that Vineeth specializes in are mentioned anywhere in the description. This would not be a good match for his background.",
     "id": "b2f7658a",
     "source": "linkedin_ww_asic_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-10",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -445014,13 +445014,13 @@
     "location": "Bengaluru, Karnataka, India",
     "url": "https://in.linkedin.com/jobs/view/lead-logic-design-for-ualink-ip-subsystem-engineer-at-astera-labs-4464504832",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain 'Logic Design' but none of the key Power Integrity, RedHawk, EMIR, PDN, Electrical Analysis keywords. This is a technical role in digital logic design for UALink IP/subsystems, not directly related to Vineeth's power integrity/advanced packaging domain.",
     "id": "2cec3d03",
     "source": "linkedin_india_asic_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "posted_date": "2026-09-11",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
