@@ -27466,5 +27466,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "SR. ML Compilation Engineer",
+    "company": "AMD",
+    "location": "San Jose, CA, USA",
+    "url": "https://careers.amd.com/careers-home/jobs/92090?lang=en-us",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a software development position focused on ML compilation, not a Power Integrity or related domain, and it is a US-based job with no visa sponsorship, which disqualifies it.",
+    "id": "ca7da784",
+    "source": "amd_careers",
+    "posted_date": "N/A",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
