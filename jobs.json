@@ -432863,13 +432863,13 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.linkedin.com/jobs/view/silicon-power-architect-reality-labs-at-meta-4461441931",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job title contains 'Silicon Power Architect' which is a match for Vineeth's background in Power Integrity and Advanced Packaging. However, the key skills listed (Python, Perl, Tcl, Shell Scripting) do not align with Vineeth's areas of expertise.",
     "id": "02df6e49",
     "source": "linkedin_ww_semiconductor_architect",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-06",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
