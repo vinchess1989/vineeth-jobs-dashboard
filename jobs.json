@@ -439178,13 +439178,13 @@
     "location": "Greater Kolkata Area",
     "url": "https://in.linkedin.com/jobs/view/team-member-%E2%80%93-process-excellence-at-pi-industries-ltd-4465653454",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is a general process improvement position focused on supply chain, procurement, logistics and inventory - it does not involve semiconductor design, EDA tools, power integrity, packaging, or any of Vineeth's specific technical domains.",
     "id": "5f28742c",
     "source": "linkedin_india_si_pi",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-10",
     "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
