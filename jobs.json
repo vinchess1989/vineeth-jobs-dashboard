@@ -442084,17 +442084,18 @@
   },
   {
     "title": "Business Development Lead, Compute Strategy",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "OpenAI",
+    "location": "Remote (Worldwide)",
     "url": "https://www.indeed.com/rc/clk?jk=8ef4674527e693ea",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is a business development role focused on AI infrastructure partnerships, not a technical semiconductor/VLSI/EDA engineering position.",
     "id": "ebb216cf",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Business Development Lead, Compute Strategy salaries in Remote",
