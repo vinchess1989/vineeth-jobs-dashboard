@@ -27546,5 +27546,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior FPGA Engineer",
+    "company": "Northwood",
+    "location": "Torrance, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-at-northwood-4459056711",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a Senior FPGA Engineer focused on signal processing, not Power Integrity or related domains, and it requires US citizenship under ITAR restrictions.",
+    "id": "6182f8f2",
+    "source": "linkedin_ww_fpga_engineer_p3",
+    "posted_date": "2026-08-27",
+    "deadline": "Open until filled",
+    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
