@@ -442114,16 +442114,17 @@
   },
   {
     "title": "Deal Lead, Special Situations (Semiconductors)",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "OpenAI",
+    "location": "San Francisco, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=46875b67b221e357",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job is for a business development role, not an engineering/technical position in semiconductor design or EDA tools.",
     "id": "b62061ae",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
