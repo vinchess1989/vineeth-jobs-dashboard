@@ -27801,5 +27801,21 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "ASIC Physical Design Engineer \u2014 Synthesis and Timing \u2013 (Associate or Experienced)",
+    "company": "Boeing",
+    "location": "El Segundo, CA",
+    "url": "https://www.linkedin.com/jobs/view/asic-physical-design-engineer-%E2%80%94-synthesis-and-timing-%E2%80%93-associate-or-experienced-at-boeing-4463402976",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title is for ASIC Physical Design Engineer, which matches our domain of 'Physical Design'. However, the keywords 'RedHawk', 'Power Integrity', 'Electrical Analysis' are missing from the description. This would be a maybe match if those key EDA/semiconductor terms were present.",
+    "id": "6353a0aa",
+    "source": "linkedin_ww_physical_design",
+    "posted_date": "N/A",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
   }
 ]
