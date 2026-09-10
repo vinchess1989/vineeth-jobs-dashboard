@@ -441154,17 +441154,17 @@
   },
   {
     "title": "Senior Software Engineer \u2013 Mission Systems",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Thompson Software Solutions",
+    "location": "Fort Worth, TX or Palmdale, CA, USA",
     "url": "https://www.indeed.com/rc/clk?jk=2bed32efc9f36fc2",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for software development on military avionics and space systems, which does not match Vineeth's background in semiconductor power integrity, advanced packaging, EDA tools like RedHawk/Voltus, or SoC physical design.",
     "id": "d057a789",
     "source": "indeed_ww_semiconductor_architect",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
@@ -441364,16 +441364,17 @@
   },
   {
     "title": "2027 Graduate - Autonomous Systems Computer Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Johns Hopkins University Applied Physics Laboratory (APL)",
+    "location": "Laurel, Maryland, USA",
     "url": "https://www.indeed.com/rc/clk?jk=8c499f166ea488bc",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job is for a graduate-level engineering role at an applied physics lab, which is outside Vineeth's semiconductor/VLSI/EDA domain and experience level.",
     "id": "3df6a680",
     "source": "indeed_ww_semiconductor_architect",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-04",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   }
 ]
