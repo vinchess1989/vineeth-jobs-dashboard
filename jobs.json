@@ -448115,17 +448115,17 @@
   },
   {
     "title": "Bookkeeper for Plaintiff PI Law Firm salaries in Los Angeles, CA",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Plaintiff PI Law Firm salaries in Los Angeles, CA",
+    "location": "Los Angeles, CA, USA",
     "url": "https://www.indeed.com/career/bookkeeper/salaries/90010--CA?campaignid=serp-more&fromjk=a8eca5bf8f414eea&from=serp-more",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for a bookkeeper, which is an administrative/financial role unrelated to semiconductor/VLSI/EDA engineering.",
     "id": "c0a53a24",
     "source": "indeed_ww_pi",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
