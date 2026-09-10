@@ -27482,5 +27482,53 @@
     "eval_model": "groq/openai/gpt-oss-safeguard-20b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Kehitysp\u00e4\u00e4llikk\u00f6, data-analytiikka ja mallinnus",
+    "company": "Ilmarinen",
+    "location": "Helsinki Metropolitan Area",
+    "url": "https://fi.linkedin.com/jobs/view/kehitysp%C3%A4%C3%A4llikk%C3%B6-data-analytiikka-ja-mallinnus-at-ilmarinen-4462211088",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a data analytics leadership role at an insurance company, which does not match Vineeth's semiconductor/VLSI/EDA background and experience.",
+    "id": "a5a869cf",
+    "source": "linkedin_fi_semiconductor_cto",
+    "posted_date": "2026-09-08",
+    "deadline": "2023-09-27",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-27) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Kehitysp\u00e4\u00e4llikk\u00f6, Helsinki",
+    "company": "Luotea",
+    "location": "Helsinki Metropolitan Area",
+    "url": "https://fi.linkedin.com/jobs/view/kehitysp%C3%A4%C3%A4llikk%C3%B6-helsinki-at-luotea-4464453741",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. It is a general business development role at a real estate services company.",
+    "id": "dca11130",
+    "source": "linkedin_fi_semiconductor_cto",
+    "posted_date": "2026-09-09",
+    "deadline": "2023-09-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Static Timing Analysis Methodology Lead Engineer / Technical Lead",
+    "company": "Altera",
+    "location": "San Jose, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-static-timing-analysis-methodology-lead-engineer-technical-lead-at-altera-4459878374",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title mentions 'Static Timing Analysis' but does not contain any of the required keywords (PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus) for a match.",
+    "id": "cf76c944",
+    "source": "linkedin_ww_semiconductor_technical_leader",
+    "posted_date": "2026-09-03",
+    "deadline": "2023-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-06-30) passed by more than 2 days and unreviewed"
   }
 ]
