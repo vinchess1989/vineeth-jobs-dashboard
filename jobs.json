@@ -436703,13 +436703,13 @@
     "location": "Dresden, Saxony, Germany",
     "url": "https://de.linkedin.com/jobs/view/manufacturing-engineer-process-diffusion-w-m-div-at-bosch-4368589895",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for a manufacturing engineer focused on diffusion processes, not semiconductor design/EDA.",
     "id": "dd2f145a",
     "source": "linkedin_eu_semiconductor",
-    "posted_date": "N/A",
+    "posted_date": "vor 7 monaten",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
