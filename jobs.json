@@ -433883,13 +433883,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=36e80b8fb95798ac",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Job lacks any required Power Integrity or related keywords and is a manufacturing technician role, not a technical PI/EDA position.",
     "id": "c0adfd05",
     "source": "indeed_ww_semiconductor",
     "posted_date": "N/A",
     "deadline": "N/A",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "groq/openai/gpt-oss-120b"
   },
   {
     "title": "Dry Etch Manufacturing Technician salaries in Milpitas, CA",
