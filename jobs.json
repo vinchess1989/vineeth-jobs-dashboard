@@ -430729,17 +430729,18 @@
   },
   {
     "title": "Engineering Technician",
-    "company": "Extract from page",
+    "company": "Durex Industries",
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=20cffe82a397703f",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary condition for Vineeth's background.",
     "id": "a0018950",
     "source": "indeed_ww_thermal",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Engineering Technician salaries in Cary, IL",
