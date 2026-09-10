@@ -449634,14 +449634,14 @@
     "location": "San Jose, CA",
     "url": "https://www.linkedin.com/jobs/view/principal-advanced-packaging-engineer-at-astera-labs-4415917984",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "yes",
+    "reason": "The role is a senior individual contributor position focused on R&D for next-generation optical chip packaging, which matches Vineeth's background in advanced packaging and power integrity.",
     "id": "8d3d558a",
     "source": "linkedin_ww_advanced_packaging",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-05",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
-    "description_file": null
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": "job_descriptions/astera_labs_principal_advanced_packaging_e_8d3d558a.txt"
   },
   {
     "title": "Manager - Packaging Business, North",
