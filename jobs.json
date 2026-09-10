@@ -446169,13 +446169,13 @@
     "location": "San Francisco Bay Area",
     "url": "https://www.linkedin.com/jobs/view/lead-asic-design-engineer-memory-controllers-at-oho-group-4463893973",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for an ASIC memory controller design position, which matches Vineeth's background in Power Integrity and SoC PDN sign-off. However, it does not explicitly mention any of the key skills he has listed (ANSYS RedHawk, Totem, Cadence Voltus, Grid Prototyping System (GPS), Python, Perl, Tcl, Shell Scripting). The job description focuses on hands-on design experience rather than the software and EDA tool expertise that Vineeth brings.",
     "id": "d9dd5109",
     "source": "linkedin_ww_soc_design",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-10",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
