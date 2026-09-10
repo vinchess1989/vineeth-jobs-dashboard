@@ -434288,13 +434288,13 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "url": "https://nl.linkedin.com/jobs/view/fpga-engineer-at-looper-engineering-4465625297",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The role is for an FPGA Engineer, which is outside Vineeth's domain of Power Integrity and Advanced Packaging.",
     "id": "d585ad00",
     "source": "linkedin_eu_fpga_engineer",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-10",
     "deadline": "N/A",
-    "eval_model": "groq/qwen/qwen3.6-27b",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
