@@ -27833,5 +27833,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-08) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Data Enablement Engineer",
+    "company": "If Insurance",
+    "location": "Turku, Southwest Finland, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/data-enablement-engineer-at-if-insurance-4464173407",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a data engineer focused on enabling teams to adopt modern data platforms, not a semiconductor/VLSI/EDA technical leadership position in power integrity, packaging, or EDA tools.",
+    "id": "0474f674",
+    "source": "linkedin_fi_pi",
+    "posted_date": "2026-09-11",
+    "deadline": "2023-09-13",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Data Enablement Engineer",
+    "company": "If Insurance",
+    "location": "Espoo, Uusimaa, Finland",
+    "url": "https://fi.linkedin.com/jobs/view/data-enablement-engineer-at-if-insurance-4464170431",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a Data Enablement Engineer, which is software development focused on enabling data usage across an insurance company. This is outside Vineeth's domain of semiconductor/VLSI/EDA power integrity and advanced packaging.",
+    "id": "edfb244c",
+    "source": "linkedin_fi_pi",
+    "posted_date": "2026-09-11",
+    "deadline": "2023-09-13",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-09-13) passed by more than 2 days and unreviewed"
   }
 ]
