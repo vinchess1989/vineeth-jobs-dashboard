@@ -442148,13 +442148,13 @@
     "location": "Greater Bengaluru Area",
     "url": "https://in.linkedin.com/jobs/view/asic-rtl-engineer-at-xqwave-pvt-ltd-formerly-obsidian-solutions-pvt-ltd-4463868110",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Failed to get or parse LLM response: Expecting value: line 1 column 1 (char 0)",
+    "matches_requirements": "no",
+    "reason": "The job is for an ASIC RTL Design Engineer, which does not match Vineeth's background in Power Integrity and Advanced Packaging.",
     "id": "b907ff48",
     "source": "linkedin_india_vlsi_design",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "eval_model": "groq/openai/gpt-oss-safeguard-20b",
+    "posted_date": "2026-09-09",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
   },
   {
