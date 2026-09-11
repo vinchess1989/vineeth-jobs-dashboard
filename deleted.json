@@ -27897,5 +27897,37 @@
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Security Architect - Hardware",
+    "company": "NVIDIA",
+    "location": "Durham, NC",
+    "url": "https://www.linkedin.com/jobs/view/senior-security-architect-hardware-at-nvidia-4436861963",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is for a hardware security architect role, which does not match Vineeth's background in Power Integrity and advanced packaging. It requires ASIC design experience and knowledge of ARM/RISC-V CPU architectures.",
+    "id": "3e89e2b8",
+    "source": "linkedin_ww_soc_design_p2",
+    "posted_date": "N/A",
+    "deadline": "2026-06-30",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior SoC Architect, RAS",
+    "company": "NVIDIA",
+    "location": "Austin, TX",
+    "url": "https://www.linkedin.com/jobs/view/senior-soc-architect-ras-at-nvidia-4461362324",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily SoC architecture focused on RAS, which falls outside Vineeth's domain of Power Integrity and Advanced Packaging.",
+    "id": "fb104b2b",
+    "source": "linkedin_ww_soc_design_p2",
+    "posted_date": "2026-09-04",
+    "deadline": "2026-09-06",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-06) passed by more than 2 days and unreviewed"
   }
 ]
