@@ -454749,13 +454749,14 @@
     "location": "Extract from page",
     "url": "https://www.indeed.com/rc/clk?jk=78e7f9f77c78ae0f",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "The job posting is for a non-technical LPN/RN role, not a semiconductor/VLSI/EDA technical position.",
     "id": "0f23a8bc",
     "source": "indeed_ww_pdn",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "posted_date": "2026-08-21",
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Concierge LPN/RN Private-Duty Home Care salaries in Brentwood, TN",
