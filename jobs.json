@@ -450257,5 +450257,50 @@
     "deadline": "Open until filled",
     "eval_model": "local/hermes-3-llama-3.1-8b",
     "description_file": null
+  },
+  {
+    "title": "F10 PROBE PROCESS ENGINEERSingapore, SingaporePosted 2 months ago",
+    "company": "Micron Technology, Inc.",
+    "location": "Singapore, Singapore",
+    "url": "https://micron.eightfold.ai/careers/job/41054467",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for a probe process engineer, not Power Integrity/EDA/VLSI.",
+    "id": "e80d161c",
+    "source": "micron_careers",
+    "posted_date": "2026-07-13",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Engineer",
+    "company": "Arm",
+    "location": "Bengaluru, India",
+    "url": "https://careers.arm.com/job/bengaluru/engineer/33099/99657761504",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description contain NONE of the required keywords (case-insensitive, anywhere in the posting): PDN, EMIR, Redhawk, Power Integrity, Electrical Analysis, RHSC, Voltus. This is a necessary condition, not a sufficient one.",
+    "id": "7c5102cc",
+    "source": "arm_careers",
+    "posted_date": "aug. 24, 2026",
+    "deadline": "Open until filled",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
+  },
+  {
+    "title": "Compiler Engineer (Machine Learning)",
+    "company": "Arm",
+    "location": "Lund, Sweden",
+    "url": "https://careers.arm.com/job/lund/compiler-engineer-machine-learning/33099/94847322016",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Compiler Engineer (Machine Learning)' does not match Vineeth's background in Power Integrity, Advanced Packaging, and EDA tools.",
+    "id": "184719b7",
+    "source": "arm_careers",
+    "posted_date": "aug. 04, 2026",
+    "deadline": "N/A",
+    "eval_model": "local/hermes-3-llama-3.1-8b",
+    "description_file": null
   }
 ]
