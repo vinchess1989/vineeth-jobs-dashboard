@@ -451400,17 +451400,18 @@
   },
   {
     "title": "Senior ASIC Physical Design Engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Niobium Microsystems",
+    "location": "United States (Remote)",
     "url": "https://www.indeed.com/rc/clk?jk=c507432424526df5",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Could not extract text from page (anti-bot protection or empty page).",
+    "matches_requirements": "no",
+    "reason": "Lacks key keywords for Power Integrity, RedHawk, Voltus tools and domains in the job description.",
     "id": "08816b08",
     "source": "indeed_ww_soc_design",
     "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null
+    "deadline": "Open until filled",
+    "description_file": null,
+    "eval_model": "local/hermes-3-llama-3.1-8b"
   },
   {
     "title": "Senior ASIC Physical Design Engineer salaries in Remote",
