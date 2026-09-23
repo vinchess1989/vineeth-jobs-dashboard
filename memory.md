@@ -7,7 +7,20 @@ GitHub Pages data-serving, dashboard testing setup) is documented once, in
 [manju_jobs/memory.md](../manju_jobs/memory.md) — read that first. This file only tracks what's
 specific to vineeth_jobs or where it diverges from manju_jobs. Update it whenever something here
 goes stale or a new vineeth-specific durable fact/gotcha is discovered; prune outdated entries
-rather than letting them accumulate.
+- **Hosted Web App:** `https://vineeth-jobs-dashboard.web.app`
+- **GitHub Repository:** `https://github.com/vinchess1989/vineeth-jobs-dashboard`
+
+## Major Features
+1. **Global Semiconductor & VLSI Role Aggregator:** Crawls top silicon design firms, semiconductor foundries, and chip startups (Qualcomm, Apple, Intel, AMD, NVIDIA, ARM, Nordic Semi) across Europe and globally.
+2. **Specialized Hardware Domain LLM Evaluation:** Domain-trained prompts analyzing ASIC/SoC design, verification (UVM/SystemVerilog), physical design, and tapeout requirements.
+3. **Interactive Career Dashboard:** Filterable job pipeline with application tracking, company rankings, location filters, and salary intelligence.
+4. **Autonomous Scraping Daemon:** Long-lived Playwright loop running via Windows Scheduled Task (`VineethJobsLocalLLMOrchestrator`).
+5. **Continuous Firebase Hosting Deployment:** Live web dashboard deployed to Firebase Hosting (`vineeth-jobs-dashboard`).
+
+## Minor Features & Utilities
+- **Combined Total/Yes Metric Charting:** Dual-line historical velocity graph plotting total opportunities vs verified matches.
+- **Strict Anti-Starvation Lock Integration:** Concurrently runs scrapers while gracefully yielding GPU cycles to interactive AI tools.
+- **Instant LinkedIn/Company Deep Links:** Quick jump directly into specific ATS job requisition portals.
 
 ## Priority position
 
@@ -34,6 +47,26 @@ of both checks rather than the claiming side.
   there's no `job_descriptions/` mirror or resume-generation pipeline here — this is expected, not
   a misconfiguration (see also `feedback_verify_large_json`/`project_publish_script` memories in
   the global Claude memory store).
+- **`toggleDropdown` is materially different here, and it is a trap.** This version only toggles
+  the `.open` class: the dropdown stays inside its `.ms-container` on `position: absolute`, and the
+  outside-click handler tests **only** `.ms-container`. manju's version reparents the dropdown to
+  `document.body` and sets `position: fixed`, and its handler tests `.ms-dropdown` too. So
+  **porting manju's reparenting here would make every option tap close the dropdown.** This
+  version also never clears its own inline positioning, so anything that writes `style.position`
+  on a dropdown must clean up after itself. Full writeup in
+  [manju_jobs/memory.md](../manju_jobs/memory.md).
+- Jobs cards in the mobile shell lay the status controls out **2x2** here (Match / Applied /
+  Review / Visited) where manju uses a 3-across row — this repo has the extra `col-visited`
+  column and manju has `col-docs`/`col-tailored-date`/`col-tailor` instead.
+
+## Dashboard mobile app shell (added 2026-09-23)
+
+Ported in the same session as manju's, per the cross-dashboard parity rule. Architecture, the
+`mview-*` body-class mechanism, the table-to-cards CSS, the keyboard-safe column-filter sheet and
+the Playwright-with-stubbed-Firebase test harness are all documented once in
+[manju_jobs/memory.md](../manju_jobs/memory.md) — read that before touching either file. Only the
+two divergences above are specific to this repo. Desktop rendering here was verified unchanged
+(same document size, same 109 interactive elements at identical boxes, before vs after).
 
 ## Groq cloud fallback (added 2026-08-20)
 
