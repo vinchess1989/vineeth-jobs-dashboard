@@ -10,6 +10,8 @@ goes stale or a new vineeth-specific durable fact/gotcha is discovered; prune ou
 - **Hosted Web App:** `https://vineeth-jobs-dashboard.web.app`
 - **GitHub Repository:** `https://github.com/vinchess1989/vineeth-jobs-dashboard`
 
+- **Resume/ is local-only (2026-09-28):** untracked from this PUBLIC repo and gitignored (it held CVs, a photo and `master.json`). `generate_master_resume.py` / `generate_vineeth_resume.py` still read `Resume/master.json` and write PDFs there on disk - a fresh clone on another PC will NOT include it, so copy `Resume/` over manually (or keep it in a private repo). The files remain in older commits of the public history unless history is rewritten.
+
 ## Firestore locked down; Python scripts use a service account (2026-09-28)
 
 `firestore.rules` used to leave `shared_state` / `user_feedback` readable and updatable by
@@ -108,3 +110,12 @@ was nothing to decide about migrating a third call site.
 
 ---
 Last updated: 2026-08-20
+
+## Error-retry cap (2026-09-29)
+Jobs whose review fails (`matches_requirements: "error"`: page won't load, unparseable LLM output) are
+now retried at most 3 times, at least 6 h apart (`_needs_review` / `_record_review_outcome`,
+`ERROR_MAX_ATTEMPTS` / `ERROR_RETRY_SECONDS`; per-job `error_attempts` / `last_error_at`, cleared by any
+real verdict). Previously every loop retried them. On priya_global_jobs, 5 always-failing Totaljobs pages
+turned that into a retry+commit+push every ~9 s (258 commits/hour). The error cap is checked before
+`needs_re_review`, so a failing re-review job can't loop either. Capped jobs stay "error" on the
+dashboard. To force a retry, delete those two fields from the job.
