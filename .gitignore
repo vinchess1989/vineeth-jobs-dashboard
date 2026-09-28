@@ -34,3 +34,7 @@ logs/
 
 # Runtime lock files
 *.lock
+
+# Firebase service-account keys (live in ~/.secrets, never in the repo)
+*firebase-adminsdk*.json
+*-sa.json

@@ -14,6 +14,8 @@ from urllib.parse import urljoin, quote
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import requests
+
+import firestore_auth
 from dotenv import load_dotenv
 from filelock import FileLock, Timeout
 
@@ -1835,7 +1837,7 @@ def poll_firebase_feedback():
     # TODO: Replace with your actual Firebase project ID once created
     url = "https://firestore.googleapis.com/v1/projects/vineeth-jobs-dashboard/databases/(default)/documents/user_feedback"
     try:
-        response = requests.get(url, timeout=10)
+        response = firestore_auth.session().get(url, timeout=10)
         if response.status_code != 200:
             return  # Database not created, or empty, or permission denied
 
@@ -1875,7 +1877,7 @@ def poll_firebase_feedback():
                 if doc_name:
                     update_url = f"https://firestore.googleapis.com/v1/{doc_name}?updateMask.fieldPaths=status"
                     payload = {"fields": {"status": {"stringValue": "read"}}}
-                    requests.patch(update_url, json=payload, timeout=10)
+                    firestore_auth.session().patch(update_url, json=payload, timeout=10)
                 continue
 
 
@@ -1891,7 +1893,7 @@ def poll_firebase_feedback():
                 if doc_name:
                     update_url = f"https://firestore.googleapis.com/v1/{doc_name}?updateMask.fieldPaths=status"
                     payload = {"fields": {"status": {"stringValue": "read"}}}
-                    requests.patch(update_url, json=payload, timeout=10)
+                    firestore_auth.session().patch(update_url, json=payload, timeout=10)
                 continue
 
             reason = fields.get("reason", {}).get("stringValue", "")
@@ -1913,7 +1915,7 @@ def poll_firebase_feedback():
             if doc_name:
                 update_url = f"https://firestore.googleapis.com/v1/{doc_name}?updateMask.fieldPaths=status"
                 payload = {"fields": {"status": {"stringValue": "read"}}}
-                requests.patch(update_url, json=payload, timeout=10)
+                firestore_auth.session().patch(update_url, json=payload, timeout=10)
 
         if new_positive_rules or new_negative_rules:
             with open(REQ_FILE, 'a', encoding='utf-8') as f:
@@ -1987,7 +1989,7 @@ def poll_firebase_feedback():
                 proj_id = "vineeth-jobs-dashboard" 
                 # wait, let's just use the url from the top of the function
                 wipe_url = url.replace('user_feedback', 'shared_state/job_status')
-                requests.patch(wipe_url, json={"fields": {}}, timeout=10)
+                firestore_auth.session().patch(wipe_url, json={"fields": {}}, timeout=10)
                 print("INFO: Cleared shared_state temporary queue.")
             except Exception as e:
                 print(f"Error clearing shared_state: {e}")
@@ -2078,7 +2080,7 @@ def poll_re_review_request():
     """Check Firebase for a user-triggered re-review request and run it synchronously."""
     doc_url = f"{FIRESTORE_BASE}/shared_state/re_review_request"
     try:
-        response = requests.get(doc_url, timeout=10)
+        response = firestore_auth.session().get(doc_url, timeout=10)
         if response.status_code == 404:
             return  # document not created yet — no re-review requested
         if response.status_code != 200:
@@ -2092,7 +2094,7 @@ def poll_re_review_request():
 
         print("INFO: " + "=" * 60)
         print("INFO: RE-REVIEW TRIGGERED BY USER (dashboard button)")
-        requests.patch(
+        firestore_auth.session().patch(
             f"{doc_url}?updateMask.fieldPaths=status",
             json={"fields": {"status": {"stringValue": "in_progress"}}},
             timeout=10
@@ -2135,7 +2137,7 @@ def poll_re_review_request():
             review_pending_jobs(specific_urls={j['url'] for j in batch[:15]})
 
         completed_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        requests.patch(
+        firestore_auth.session().patch(
             f"{doc_url}?updateMask.fieldPaths=status&updateMask.fieldPaths=completedAt",
             json={"fields": {
                 "status": {"stringValue": "completed"},

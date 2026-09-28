@@ -10,6 +10,21 @@ goes stale or a new vineeth-specific durable fact/gotcha is discovered; prune ou
 - **Hosted Web App:** `https://vineeth-jobs-dashboard.web.app`
 - **GitHub Repository:** `https://github.com/vinchess1989/vineeth-jobs-dashboard`
 
+## Firestore locked down; Python scripts use a service account (2026-09-28)
+
+`firestore.rules` used to leave `shared_state` / `user_feedback` readable and updatable by
+anyone (`if true`) so the unauthenticated Python REST calls could write. Now every collection is
+allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`** (`session()` returns a
+`google.auth` `AuthorizedSession` with the project's service account; SA requests bypass rules via IAM).
+- Key file: `~/.secrets/vineeth-jobs-dashboard-sa.json` - OUTSIDE the repo (Firebase Console -> Project settings ->
+  Service accounts -> Generate new private key). `.gitignore` blocks `*firebase-adminsdk*.json` / `*-sa.json`.
+- **Any other PC** running scripts or skills that touch Firestore (tailor-resume, fill-form,
+  find-apply-link, mark-job-deleted) needs its own key at that path plus `pip install google-auth`
+  in the venv - otherwise `firestore_auth.session()` raises FileNotFoundError.
+- New Firestore calls must use `firestore_auth.session().get/patch(...)`, never bare `requests` - a bare
+  call now gets 403. Rules deploy: `firebase deploy --only firestore:rules` from `firebase_app/`.
+
+
 ## Major Features
 1. **Global Semiconductor & VLSI Role Aggregator:** Crawls top silicon design firms, semiconductor foundries, and chip startups (Qualcomm, Apple, Intel, AMD, NVIDIA, ARM, Nordic Semi) across Europe and globally.
 2. **Specialized Hardware Domain LLM Evaluation:** Domain-trained prompts analyzing ASIC/SoC design, verification (UVM/SystemVerilog), physical design, and tapeout requirements.
