@@ -2022,17 +2022,10 @@ def poll_firebase_feedback():
             except Exception as e:
                 print(f"Error syncing match updates: {e}")
         
-        # Wipe shared_state since all updates are now safely in jobs.json
-        if user_review_updates or match_updates:
-            try:
-                # Get the correct project ID based on the URL we polled
-                proj_id = "vineeth-jobs-dashboard" 
-                # wait, let's just use the url from the top of the function
-                wipe_url = url.replace('user_feedback', 'shared_state/job_status')
-                firestore_auth.session().patch(wipe_url, json={"fields": {}}, timeout=10)
-                print("INFO: Cleared shared_state temporary queue.")
-            except Exception as e:
-                print(f"Error clearing shared_state: {e}")
+        # (Removed 2026-09-30) This used to PATCH shared_state/job_status with an empty document
+        # after syncing dashboard feedback - which erased EVERY field stored there (resume links,
+        # apply_url, applied_date, form_filled, action_item, deletion_reason) for every job. The
+        # doc is a permanent per-job store, not a temporary queue; never wipe it.
 
                 
     except Exception as e:

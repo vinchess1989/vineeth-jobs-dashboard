@@ -124,3 +124,14 @@ While any filter is set (column filters, date limits, LLM pills), the Filters ta
 
 ## Firestore lockdown rules actually deployed 2026-09-29
 The 2026-09-28 lockdown entry above said bare calls 'now get 403', but the locked-down `firestore.rules` had never been deployed: anonymous reads still returned 200 on all four projects (priya-jobs-dashboard, priya-global-jobs, manju-jobs-dashboard, vineeth-jobs-dashboard) until 2026-09-29, when they were deployed with `firebase deploy --only firestore:rules`. Verified after deploy: anonymous GET on `shared_state/job_status` and `user_feedback` -> 403; service-account `firestore_auth.session()` -> 200; no unauthenticated Firestore calls in any repo's .py files. **To check the lockdown, test anonymous access yourself** (`Invoke-WebRequest https://firestore.googleapis.com/v1/projects/<id>/databases/(default)/documents/shared_state/job_status` should throw 403). The committed rules file alone proves nothing. Any other machine needs its `~/.secrets/<project>-sa.json` key (Manju's PC was pending at deploy time).
+
+## Scraper was wiping shared_state/job_status (found + removed 2026-09-30)
+`poll_firebase_feedback()` ended with `PATCH shared_state/job_status {"fields": {}}` ("clear the temporary queue")
+whenever dashboard feedback produced user_review/match updates. job_status is a PERMANENT per-job store (resume
+links, apply_url/apply_email, applied_date, form_filled, action_item, tailor_model, deletion_reason), so every such
+run erased it for every job. priya_jobs logs show it ran 17 times (latest 2026-09-29); the doc was found empty on
+2026-09-30. Removed from priya_jobs, priya_global_jobs and vineeth_jobs (manju_jobs no longer had it). Recovery:
+resume/cover-letter links rebuilt with `sync_resume_links.py --upload --force` (20 jobs). NOT recoverable:
+apply_url/apply_email, applied_date, form_filled, action_item, auto_fill_attempted_at (Firestore PITR is off).
+applied / user_review / matches values survived because they had already been synced into jobs.json.
+**Never write an empty/whole replacement document to job_status** — read-modify-write only (job_status_store.py).
