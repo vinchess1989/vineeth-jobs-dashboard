@@ -250,48 +250,48 @@ class TestPollFirebaseFeedback:
         return {"documents": [{"name": "projects/p/databases/(default)/documents/user_feedback/doc1",
                                "fields": fields}]}
 
-    @patch("scraper.requests.patch")
-    @patch("scraper.requests.get")
-    def test_negative_feedback_flips_match_to_no(self, mock_get, mock_patch, jobs_file):
-        mock_get.return_value = MagicMock(
-            status_code=200,
-            json=lambda: self._make_firestore_response(
-                "negative", {"reason": {"stringValue": ""}}
-            )
-        )
-        mock_patch.return_value = MagicMock(status_code=200)
+    # poll_firebase_feedback talks to Firestore through firestore_auth.session() (a service-account
+    # session) since 2026-09-28, so that is what gets faked; mocking requests.get no longer does
+    # anything and let these tests reach the live database.
+    @staticmethod
+    def _fake_session(payload=None, status=200):
+        sess = MagicMock()
+        sess.get.return_value = MagicMock(status_code=status, json=lambda: payload)
+        sess.patch.return_value = MagicMock(status_code=200)
+        return sess
 
-        with patch.object(scraper, "JOBS_FILE", jobs_file), \
-             patch.object(scraper, "REQ_FILE", "nonexistent_req.md"):
+    def test_negative_feedback_flips_match_to_no(self, jobs_file, req_file):
+        sess = self._fake_session(self._make_firestore_response("negative", {"reason": {"stringValue": ""}}))
+
+        with patch.object(scraper.firestore_auth, "session", return_value=sess), \
+             patch.object(scraper, "JOBS_FILE", jobs_file), \
+             patch.object(scraper, "REQ_FILE", req_file):
             scraper.poll_firebase_feedback()
 
         with open(jobs_file) as f:
             jobs = json.load(f)
         job = next(j for j in jobs if j["url"] == self.JOB_URL)
         assert job["matches_requirements"] == "no"
+        assert sess.patch.call_args.kwargs["json"] == {"fields": {"status": {"stringValue": "read"}}}
 
-    @patch("scraper.requests.patch")
-    @patch("scraper.requests.get")
-    def test_user_review_update_applied(self, mock_get, mock_patch, jobs_file):
-        mock_get.return_value = MagicMock(
-            status_code=200,
-            json=lambda: self._make_firestore_response(
-                "user_review_update",
-                {"user_review": {"stringValue": "done"}}
-            )
-        )
-        mock_patch.return_value = MagicMock(status_code=200)
+    def test_user_review_update_applied(self, jobs_file, req_file):
+        sess = self._fake_session(self._make_firestore_response(
+            "user_review_update", {"user_review": {"stringValue": "done"}}))
 
-        with patch.object(scraper, "JOBS_FILE", jobs_file), \
-             patch.object(scraper, "REQ_FILE", "nonexistent_req.md"):
+        with patch.object(scraper.firestore_auth, "session", return_value=sess), \
+             patch.object(scraper, "JOBS_FILE", jobs_file), \
+             patch.object(scraper, "REQ_FILE", req_file):
             scraper.poll_firebase_feedback()
 
         with open(jobs_file) as f:
             jobs = json.load(f)
         job = next(j for j in jobs if j["url"] == self.JOB_URL)
         assert job["user_review"] == "done"
+        sess.patch.assert_called_once()
 
-    @patch("scraper.requests.get", return_value=MagicMock(status_code=403))
-    def test_graceful_on_403(self, mock_get, jobs_file):
-        with patch.object(scraper, "JOBS_FILE", jobs_file):
+    def test_graceful_on_403(self, jobs_file):
+        sess = self._fake_session(status=403)
+        with patch.object(scraper.firestore_auth, "session", return_value=sess), \
+             patch.object(scraper, "JOBS_FILE", jobs_file):
             scraper.poll_firebase_feedback()  # must not raise
+        sess.patch.assert_not_called()
