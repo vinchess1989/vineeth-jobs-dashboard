@@ -135,3 +135,11 @@ resume/cover-letter links rebuilt with `sync_resume_links.py --upload --force` (
 apply_url/apply_email, applied_date, form_filled, action_item, auto_fill_attempted_at (Firestore PITR is off).
 applied / user_review / matches values survived because they had already been synced into jobs.json.
 **Never write an empty/whole replacement document to job_status** — read-modify-write only (job_status_store.py).
+## GitHub push auth (2026-10-03)
+- `update_git()` in scraper.py pushes through Git Credential Manager first (remote URL names the account:
+  `https://vinchess1989@github.com/...`; GCM supplies the stored login, `GCM_INTERACTIVE=never` so a background run
+  never opens a sign-in window). `GITHUB_TOKEN` is only a fallback, inserted after stripping any user from the URL.
+- Why: the user-level `GITHUB_TOKEN` went stale (401) and every scraper push failed silently from ~01:30 on
+  2026-10-03 (manju_jobs 18 commits, priya_global_jobs 88 behind); then pinning the account in the remote URL made the
+  old code build `https://TOKEN@vinchess1989@github.com` ("URL rejected"). The dead env var was removed.
+- Only Manju_jobs_private pushes as munchnambiar; everything else as vinchess1989 (global CLAUDE.md rule).

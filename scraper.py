@@ -1801,6 +1801,7 @@ def update_git():
         env = os.environ.copy()
         env.pop("GIT_ASKPASS", None)
         env["GIT_TERMINAL_PROMPT"] = "0"
+        env["GCM_INTERACTIVE"] = "never"  # never pop a sign-in window from a background run
 
         # Check if the folder is inside a Git repository
         is_git = False
@@ -1846,22 +1847,26 @@ def update_git():
             subprocess.run(["git", "commit", "-m", commit_message],
                            check=True, timeout=60, **git_kw)
 
-            # Check for GitHub token in environment variables
-            push_cmd = ["git", "push"]
+            # Push through Git Credential Manager first: the remote URL names the account
+            # (https://vinchess1989@github.com/...) and GCM supplies its stored login. GITHUB_TOKEN is
+            # only a fallback (e.g. a machine without stored logins); it went stale on 2026-10-03 and
+            # silently stopped every push. Strip any user from the URL before adding the token, or git
+            # rejects "https://TOKEN@user@github.com" as a malformed URL.
+            push_cmds = [["git", "push"]]
             github_token = os.environ.get("GITHUB_TOKEN")
             if github_token:
                 remote_result = subprocess.run(["git", "config", "--get", "remote.origin.url"],
                                                timeout=15, **git_kw)
-                remote_url = remote_result.stdout.strip()
+                remote_url = re.sub(r"^https://[^/@]*@", "https://", remote_result.stdout.strip())
                 if remote_url.startswith("https://"):
-                    auth_url = remote_url.replace("https://", f"https://{github_token}@")
-                    push_cmd = ["git", "push", auth_url]
+                    push_cmds.append(["git", "push", remote_url.replace("https://", f"https://{github_token}@", 1), "HEAD"])
 
-            try:
-                subprocess.run(push_cmd, check=True, timeout=120, **git_kw)
-                print("Successfully pushed updates to GitHub!")
-            except subprocess.CalledProcessError:
-                print("Failed to push to GitHub (Check your GITHUB_TOKEN or internet connection).")
+            for push_cmd in push_cmds:
+                if subprocess.run(push_cmd, timeout=120, **git_kw).returncode == 0:
+                    print("Successfully pushed updates to GitHub!")
+                    break
+            else:
+                print("Failed to push to GitHub (check the stored GitHub login or your internet connection).")
         else:
             print("No changes to commit. GitHub is already up to date.")
     except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
