@@ -21,6 +21,11 @@ service cloud.firestore {
       allow read, write: if isAuthorized();
     }
     
+    // Semiconductor Startups Radar (c:\Users\vinee\semiconductor startups). The agent writes via the service account.
+    match /{col}/{docId} {
+      allow read, write: if isAuthorized() && col in ['sr_companies', 'sr_events', 'sr_prefs', 'sr_state'];
+    }
+
     match /user_feedback/{docId} {
       allow read, write: if isAuthorized();
     }
