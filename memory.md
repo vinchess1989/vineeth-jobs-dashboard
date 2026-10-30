@@ -1,5 +1,12 @@
 # Project Memory — vineeth_jobs
 
+## Purpose
+
+Vineeth's job board for global semiconductor and VLSI roles: a scraper finds jobs, an LLM reviews each one against the
+job requirements, and a live dashboard tracks them. Sibling of `manju_jobs`.
+
+---
+
 Durable, cross-session knowledge about this project that isn't already in `CLAUDE.md`. This is
 the sibling repo to `manju_jobs` (Finnish job market, generalist roles) — this one targets global
 semiconductor/VLSI roles. Most of the shared infrastructure (local LLM server, priority locking,
